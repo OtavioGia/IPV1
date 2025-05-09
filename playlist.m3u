@@ -1,24 +1,2 @@
 #EXTM3U
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
-#EXTINF:-1 xui-id="13" tvg-id="AE.br" tvg-name="A&E" tvg-logo="https://img.pndz.xyz/aande.png" group-title="FILMES E SERIES",A&E
-http://1.asdrtp.live:8080/play/RHslJLKjBdfNQudoGZ1-uA
-#EXTINF:-1 xui-id="11" tvg-id="A&E HD" tvg-name="A&E FHD" tvg-logo="https://img.pndz.xyz/aande.png" group-title="FILMES E SERIES",A&E FHD
-http://1.asdrtp.live:8080/play/lJxXVPAjmfxlvSLNxdbVjQ
-#EXTINF:-1 xui-id="10" tvg-id="A&E HD" tvg-name="A&E H265" tvg-logo="https://img.pndz.xyz/aande.png" group-title="FILMES E SERIES",A&E H265
-http://1.asdrtp.live:8080/play/lJgHqV_PgtdX-GAN3heUXQ
-#EXTINF:-1 xui-id="12" tvg-id="AE.br" tvg-name="A&E HD" tvg-logo="https://img.pndz.xyz/aande.png" group-title="FILMES E SERIES",A&E HD
-http://1.asdrtp.live:8080/play/C4tORLkmyt7OPJS5FwVfog
-#EXTINF:-1 xui-id="16" tvg-id="br#rede-globo" tvg-name="AGRO MAIS" tvg-logo="https://img.pndz.xyz/agromais.png" group-title="ABERTOS",AGRO MAIS
-http://1.asdrtp.live:8080/play/4xaeQ8Gk4DO_RzYeT3K-bA
-#EXTINF:-1 xui-id="14" tvg-id="br#rede-globo" tvg-name="AGRO MAIS FHD" tvg-logo="https://img.pndz.xyz/agromais.png" group-title="ABERTOS",AGRO MAIS FHD
-http://1.asdrtp.live:8080/play/jcrT44v0HPdK1H_AvaCQKA
-#EXTINF:-1 xui-id="15" tvg-id="br#rede-globo" tvg-name="AGRO MAIS HD" tvg-logo="https://img.pndz.xyz/agromais.png" group-title="ABERTOS",AGRO MAIS HD
-http://1.asdrtp.live:8080/play/JLx6Fsvr0fs8KWfy8TIpYg
-#EXTINF:-1 xui-id="20" tvg-id="AMC.br" tvg-name="AMC" tvg-logo="https://img.pndz.xyz/amc.png" group-title="FILMES E SERIES",AMC
-http://1.asdrtp.live:8080/play/QSG_tF3UmUIGBg5U-6E8lQ
-#EXTINF:-1 xui-id="18" tvg-id="AMC" tvg-name="AMC FHD" tvg-logo="https://img.pndz.xyz/amc.png" group-title="FILMES E SERIES",AMC FHD
-http://1.asdrtp.live:8080/play/Bai-1akhbk9jeWBprHOHLQ
-#EXTINF:-1 xui-id="17" tvg-id="AMC" tvg-name="AMC H265" tvg-logo="https://img.pndz.xyz/amc.png" group-title="FILMES E SERIES",AMC H265
-http://1.asdrtp.live:8080/play/_lWaFJMevAPbssrmZORMpg
-#EXTINF:-1 xui-id="19" tvg-id="AMC.br" tvg-name="AMC HD" tvg-logo="https://img.pndz.xyz/amc.png" group-title="FILMES E SERIES",AMC HD
-http://1.asdrtp.live:8080/play/-LDZZAVc6pjPJkZy1rCRwA
+http://bgsts.info:80/get.php?username=aaa&password=aaa&type=m3u_plus
