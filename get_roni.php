@@ -1,3 +1,5 @@
+# --- Colocar Formiga Aqui Somente Canais ---
+
 #EXTM3U size="Medium"
 #EXTINF:-1 type="stream" tvg-id="MEGAPIX HD¹" tvg-logo="https://i.imgur.com/A447m0E.png" group-title="FILMES E SÉRIES",MEGAPIX HD¹
 http://tvdecasa.com.br/live/Formigatv/14042025/1542134.m3u8
