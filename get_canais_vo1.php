@@ -1,3 +1,6 @@
+# --- Colocar Uma achada aqui Somente Canais ---
+# --- Origem: http://berinjelafrita.agency/get.php?username=760927&password=499344&type=m3u_plus Maximo 5 Data Limite 16/02/2030
+
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="A Familia Adams" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/XNdCuz.png" group-title="ESPECIAIS DESENHOS 24h",A Familia Adams
 http://saga10.pro:80/760927/499344/2639319
