@@ -21,9 +21,7 @@ http://vyvo.online/get.php?username=techsat&password=1234567&type=m3u_plus
 http://zorrohunter.com:8080/get.php?username=SoulAngelz&password=82661925527&type=m3u_plus&output=m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="https://w7.pngwing.com/pngs/629/920/png-transparent-grandparent-grandpa-grandpa-grandfather-hand-presentation-fictional-character-thumbnail.png",VO1
-http://zorrohunter.com:8080/get.php?username=SoulAngelz&password=82661925527&type=m3u_plus&output=m3u8
+https://otaviogia.github.io/IPV1/get_canais_vo1.php?username=VO&password=1233&type=m3u_plus
 
 #EXTINF:0 type="playlist" tvg-logo="https://w7.pngwing.com/pngs/629/920/png-transparent-grandparent-grandpa-grandpa-grandfather-hand-presentation-fictional-character-thumbnail.png",VO2
-http://zorrohunter.com:8080/get.php?username=SoulAngelz&password=82661925527&type=m3u_plus&output=m3u8
-
-
+https://otaviogia.github.io/IPV1/get_canais_vo2.php?username=VO&password=1233&type=m3u_plus
