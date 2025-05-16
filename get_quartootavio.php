@@ -16,3 +16,14 @@ http://opbx.xyz/get.php?username=techsat&password=1234567&type=m3u_plus
 
 #EXTINF:0 type="playlist" tvg-logo="https://linorg.usp.br/xbmc/addons/omega/pvr.iptvsimple+windows-i686/icon.png",TechSat2
 http://vyvo.online/get.php?username=techsat&password=1234567&type=m3u_plus
+
+#EXTINF:0 type="playlist" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Flag_of_the_United_States.png",USA
+http://zorrohunter.com:8080/get.php?username=SoulAngelz&password=82661925527&type=m3u_plus&output=m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://w7.pngwing.com/pngs/629/920/png-transparent-grandparent-grandpa-grandpa-grandfather-hand-presentation-fictional-character-thumbnail.png",VO1
+http://zorrohunter.com:8080/get.php?username=SoulAngelz&password=82661925527&type=m3u_plus&output=m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://w7.pngwing.com/pngs/629/920/png-transparent-grandparent-grandpa-grandpa-grandfather-hand-presentation-fictional-character-thumbnail.png",VO2
+http://zorrohunter.com:8080/get.php?username=SoulAngelz&password=82661925527&type=m3u_plus&output=m3u8
+
+
