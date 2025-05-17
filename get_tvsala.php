@@ -3,7 +3,7 @@
 #EXTM3U size="Big"
 
 #EXTINF:0 type="playlist" tvg-logo="https://imgur.com/bixCGMW.png",Lista_ODG
-http://cinepulse.live/get.php?username=688117510&password=249833520&type=m3u_plus
+https://otaviogia.github.io/IPV1/get_monteiro.php?username=usuario&password=1233&type=m3u_plus
 
 #EXTINF:0 type="playlist" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ant_motif.png/960px-Ant_motif.png",Lista_Formiga
 https://np.tvdecasa.com.br/ssiptv/get/Formigatv/14042025/list_lives/
