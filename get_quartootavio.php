@@ -25,3 +25,9 @@ https://otaviogia.github.io/IPV1/get_canais_vo1.php?username=VO&password=1233&ty
 
 #EXTINF:0 type="playlist" tvg-logo="https://w7.pngwing.com/pngs/629/920/png-transparent-grandparent-grandpa-grandpa-grandfather-hand-presentation-fictional-character-thumbnail.png",VO2
 https://otaviogia.github.io/IPV1/get_canais_vo2.php?username=VO&password=1233&type=m3u_plus
+
+#EXTINF:0 type="playlist" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png ",Lista_1200
+http://voz.one:80/get.php?username=playtvsf0nt3&password=7myPCcXChaUe&type=m3u_plus&output=m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png ",Toma
+https://otaviogia.github.io/IPV1/get_toma.php?username=toma&password=toma&type=m3u_plus
