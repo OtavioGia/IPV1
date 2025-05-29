@@ -34,3 +34,6 @@ https://otaviogia.github.io/IPV1/get_toma.php?username=toma&password=toma&type=m
 
 #EXTINF:0 type="playlist" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png ",Lista Roni
 http://play.1list.vip/get.php?username=Roniteste&password=xhcpyyg2mbj&type=m3u_plus&output=ts
+
+#EXTINF:0 type="playlist" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png ",MAX 5
+http://cdn.club8.ca:80/get.php?username=andersondias@onepro&password=123645821&type=m3u_plus
