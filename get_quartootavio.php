@@ -31,3 +31,6 @@ http://voz.one:80/get.php?username=playtvsf0nt3&password=7myPCcXChaUe&type=m3u_p
 
 #EXTINF:0 type="playlist" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png ",Toma
 https://otaviogia.github.io/IPV1/get_toma.php?username=toma&password=toma&type=m3u_plus
+
+#EXTINF:0 type="playlist" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png ",Lista Roni
+http://play.1list.vip/get.php?username=Roniteste&password=xhcpyyg2mbj&type=m3u_plus&output=ts
