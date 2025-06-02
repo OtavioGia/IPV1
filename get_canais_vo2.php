@@ -1,6 +1,3 @@
-# --- Colocar Uma achada aqui Somente Canais ---
-# --- Origem: http://vela2b.sbs/get.php?username=61588918&password=59297329&type=m3u_plus&output=m3u8 Maximo 2 Data Limite 00/00/2038
-
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
 #EXTINF:-1 tvg-id="" tvg-name="24H 3 Palavrinhas" tvg-logo="http://appcliente.com:8880/images/1d6568c4d1167a00410efd579474580c.png" group-title="CANAIS | 24 HORAS",24H 3 Palavrinhas
@@ -1649,3 +1646,6 @@ http://huloftibu.lol:80/61588918/59297329/1390189.m3u8
 http://huloftibu.lol:80/61588918/59297329/1390187.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="XXX:Woman" tvg-logo="https://files.jpnetwork.com.br/index.php/s/jikYeXnfN8LN3b6/download/YU6m3E9.png" group-title="XXX | ADULTOS",XXX:Woman
 http://huloftibu.lol:80/61588918/59297329/1390186.m3u8
+
+# --- Colocar Uma achada aqui Somente Canais ---
+# --- Origem: http://vela2b.sbs/get.php?username=61588918&password=59297329&type=m3u_plus&output=m3u8 Maximo 2 Data Limite 00/00/2038
