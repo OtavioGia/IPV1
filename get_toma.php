@@ -1,4 +1,4 @@
-# --- Entrou o 1k2 Maximo Aqui ---
+# --- Entrou o formiga Maximo Aqui ---
 
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO PRESIDENTE PRUDENTE HD°" tvg-logo="https://i.imgur.com/Fhjdpph.png" group-title="REDE GLOBO",GLOBO PRESIDENTE PRUDENTE HD°
