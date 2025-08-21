@@ -14015,3 +14015,6 @@ https://xc.adultiptv.net/live/adultiptv/adultiptv/23.m3u8
 #EXTINF:-1 tvg-id="Rough.xc" tvg-name="Rough" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/PEGI_18_%282003-2009%29.png/250px-PEGI_18_%282003-2009%29.png" group-title="Adult IPTV",Rough
 https://xc.adultiptv.net/live/adultiptv/adultiptv/24.m3u8
 #EXTINF:-1 tvg-id="Big_Ass.xc" tvg-name="Big Ass" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/PEGI_18_%282003-2009%29.png/250px-PEGI_18_%282003-2009%29.png" group-title="Adult IPTV",Big Ass
+
+#EXTINF:0 type="playlist" tvg-logo="https://en.wikipedia.org/wiki/Microsoft_Movies_%26_TV#/media/File:Movies_&_TV_logo.png",Lista_Filmes_e_Series
+http://dns.carnes.ink:8080/get.php?username=ZdEtSNbXb37d&password=xbb2ns98aprW&type=m3u_plus&output=m3u8
