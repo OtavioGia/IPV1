@@ -70,11 +70,2991 @@ https://video02.logicahost.com.br/riachobethel/riachobethel/chunklist_w345548899
 https://video02.logicahost.com.br/tabernaorla/tabernaorla/chunklist_w345078001.m3u8
 
 # --- Atulizado 21 08 2025   ---
+# --- Fonte 16 Max 5 Exp Nulo http://7vnx.xyz:80/player_api.php?username=7csplay&password=seven2022 http://7vnx.xyz:80/get.php?username=7csplay&password=seven2022&type=m3u_plus   ---
 # --- Fonte 01 Max 450 Exp Nulo http://001.p2cdn.ovh/player_api.php?&username=962728817&password=42872 http://001.p2cdn.ovh/get.php?&username=962728817&password=42872&type=m3u_plus&output=ts   ---
 # --- Fonte 04 Ok Max 100 Exp Nulo http://voz.one/player_api.php?username=juniorfont3&password=rLgxfzzgLARZ http://voz.one/get.php?username=juniorfont3&password=rLgxfzzgLARZ&type=m3u_plus   ---
 # --- Fonte 07 Ok Max 10 Exp Nulo http://001.p2cdn.ovh:80/player_api.php?username=0123456789&password=0123456789 http://001.p2cdn.ovh/get.php?&username=0123456789&password=0123456789&type=m3u_plus ---
 # --- Fonte 14 Max 2 Exp 01/09/2025 http://play.1list.vip/player_api.php?username=5550388689&password=simpleiptv http://play.1list.vip/get.php?username=5550388689&password=simpleiptv&type=m3u_plus&output=m3u8  ---
 # --- Fonte 15 Max 2 Exp 01/09/2025 http://play.1list.vip/player_api.php?&username=Marcosfp05&password=nlybdft6fml http://play.1list.vip/get.php?&username=Marcosfp05&password=nlybdft6fml&type=m3u_plus&output=m3u8  ---
+
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO BRASILIENSE HD¹" tvg-logo="http://contentsdeliver.link/logos/campeonatobrasiliensehd.png" group-title="F16 M5 CAMPEONATOS ESTADUAIS",CAMPEONATO BRASILIENSE HD¹
+http://trabalho724.top:8080/7csplay/seven2022/327183
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CAPIXABA HD¹" tvg-logo="http://contentsdeliver.link/logos/campeonatocapixabahd.png" group-title="F16 M5 CAMPEONATOS ESTADUAIS",CAMPEONATO CAPIXABA HD¹
+http://trabalho724.top:8080/7csplay/seven2022/327184
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CATARINENSE 3 HD²" tvg-logo="http://contentsdeliver.link/logos/campeonatocatarinensehd.png" group-title="F16 M5 CAMPEONATOS ESTADUAIS",CAMPEONATO CATARINENSE 3 HD²
+http://trabalho724.top:8080/7csplay/seven2022/293066
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO MINEIRO 3 HD¹" tvg-logo="http://contentsdeliver.link/logos/campeonatomineirohd.png" group-title="F16 M5 CAMPEONATOS ESTADUAIS",CAMPEONATO MINEIRO 3 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/116704
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO ALAGOANO 01 HD¹" tvg-logo="http://contentsdeliver.link/logos/campeonatoalagoanohd.png" group-title="F16 M5 CAMPEONATOS ESTADUAIS",CAMPEONATO ALAGOANO 01 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/300058
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO BAIANO 01 HD¹" tvg-logo="http://contentsdeliver.link/logos/campeonatobaianohd.png" group-title="F16 M5 CAMPEONATOS ESTADUAIS",CAMPEONATO BAIANO 01 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/300056
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO BAIANO 01 HD²" tvg-logo="http://contentsdeliver.link/logos/campeonatobaianohd.png" group-title="F16 M5 CAMPEONATOS ESTADUAIS",CAMPEONATO BAIANO 01 HD²
+http://trabalho724.top:8080/7csplay/seven2022/289999
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO BAIANO 02 HD¹" tvg-logo="http://contentsdeliver.link/logos/campeonatobaianohd.png" group-title="F16 M5 CAMPEONATOS ESTADUAIS",CAMPEONATO BAIANO 02 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/300057
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CARIOCA 1 HD¹" tvg-logo="http://contentsdeliver.link/logos/campeonatocariocahd.png" group-title="F16 M5 CAMPEONATOS ESTADUAIS",CAMPEONATO CARIOCA 1 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/109110
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CARIOCA 1 HD²" tvg-logo="http://contentsdeliver.link/logos/campeonatocariocahd.png" group-title="F16 M5 CAMPEONATOS ESTADUAIS",CAMPEONATO CARIOCA 1 HD²
+http://trabalho724.top:8080/7csplay/seven2022/22635
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CARIOCA 2 HD²" tvg-logo="http://contentsdeliver.link/logos/campeonatocariocahd.png" group-title="F16 M5 CAMPEONATOS ESTADUAIS",CAMPEONATO CARIOCA 2 HD²
+http://trabalho724.top:8080/7csplay/seven2022/31462
+#EXTINF:-1 tvg-id="aande.br" tvg-name="CAMPEONATO CATARINENSE 1 HD¹" tvg-logo="http://contentsdeliver.link/logos/campeonatocatarinensehd.png" group-title="F16 M5 CAMPEONATOS ESTADUAIS",CAMPEONATO CATARINENSE 1 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/18808
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CATARINENSE 1 HD²" tvg-logo="http://contentsdeliver.link/logos/campeonatocatarinensehd.png" group-title="F16 M5 CAMPEONATOS ESTADUAIS",CAMPEONATO CATARINENSE 1 HD²
+http://trabalho724.top:8080/7csplay/seven2022/70901
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CATARINENSE 2 HD¹" tvg-logo="http://contentsdeliver.link/logos/campeonatocatarinensehd.png" group-title="F16 M5 CAMPEONATOS ESTADUAIS",CAMPEONATO CATARINENSE 2 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/18809
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CATARINENSE 2 HD²" tvg-logo="http://contentsdeliver.link/logos/campeonatocatarinensehd.png" group-title="F16 M5 CAMPEONATOS ESTADUAIS",CAMPEONATO CATARINENSE 2 HD²
+http://trabalho724.top:8080/7csplay/seven2022/70902
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CATARINENSE 3 HD¹" tvg-logo="http://contentsdeliver.link/logos/campeonatocatarinensehd.png" group-title="F16 M5 CAMPEONATOS ESTADUAIS",CAMPEONATO CATARINENSE 3 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/70903
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CATARINENSE 4 HD²" tvg-logo="http://contentsdeliver.link/logos/campeonatocatarinensehd.png" group-title="F16 M5 CAMPEONATOS ESTADUAIS",CAMPEONATO CATARINENSE 4 HD²
+http://trabalho724.top:8080/7csplay/seven2022/70904
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CEARENCE 1 HD¹" tvg-logo="http://contentsdeliver.link/logos/campeonatocearensehd.png" group-title="F16 M5 CAMPEONATOS ESTADUAIS",CAMPEONATO CEARENCE 1 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/300055
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CEARENCE HD²" tvg-logo="http://contentsdeliver.link/logos/campeonatocearensehd.png" group-title="F16 M5 CAMPEONATOS ESTADUAIS",CAMPEONATO CEARENCE HD²
+http://trabalho724.top:8080/7csplay/seven2022/293068
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO GAÚCHO 1 HD¹" tvg-logo="http://contentsdeliver.link/logos/campeonatogauchaohd.png" group-title="F16 M5 CAMPEONATOS ESTADUAIS",CAMPEONATO GAÚCHO 1 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/300054
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO GAÚCHO 1 HD²" tvg-logo="http://contentsdeliver.link/logos/campeonatogauchaohd.png" group-title="F16 M5 CAMPEONATOS ESTADUAIS",CAMPEONATO GAÚCHO 1 HD²
+http://trabalho724.top:8080/7csplay/seven2022/296470
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO GAÚCHO 2 HD²" tvg-logo="http://contentsdeliver.link/logos/campeonatogauchaohd.png" group-title="F16 M5 CAMPEONATOS ESTADUAIS",CAMPEONATO GAÚCHO 2 HD²
+http://trabalho724.top:8080/7csplay/seven2022/296472
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO GAÚCHO 3 HD²" tvg-logo="http://contentsdeliver.link/logos/campeonatogauchaohd.png" group-title="F16 M5 CAMPEONATOS ESTADUAIS",CAMPEONATO GAÚCHO 3 HD²
+http://trabalho724.top:8080/7csplay/seven2022/296473
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO GOIANO 01 HD¹" tvg-logo="http://contentsdeliver.link/logos/campeonatogoianaohd.png" group-title="F16 M5 CAMPEONATOS ESTADUAIS",CAMPEONATO GOIANO 01 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/300053
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO GOIANO 01 HD²" tvg-logo="http://contentsdeliver.link/logos/campeonatogoianaohd.png" group-title="F16 M5 CAMPEONATOS ESTADUAIS",CAMPEONATO GOIANO 01 HD²
+http://trabalho724.top:8080/7csplay/seven2022/327015
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO GOIANO 02 HD²" tvg-logo="http://contentsdeliver.link/logos/campeonatogoianaohd.png" group-title="F16 M5 CAMPEONATOS ESTADUAIS",CAMPEONATO GOIANO 02 HD²
+http://trabalho724.top:8080/7csplay/seven2022/327016
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO MARANHENSE 01 HD¹" tvg-logo="http://contentsdeliver.link/logos/campeonatomaranhensehd.png" group-title="F16 M5 CAMPEONATOS ESTADUAIS",CAMPEONATO MARANHENSE 01 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/300051
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO MARANHENSE 02 HD¹" tvg-logo="http://contentsdeliver.link/logos/campeonatomaranhensehd.png" group-title="F16 M5 CAMPEONATOS ESTADUAIS",CAMPEONATO MARANHENSE 02 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/300052
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO MINEIRO HD¹" tvg-logo="http://contentsdeliver.link/logos/campeonatomineirohd.png" group-title="F16 M5 CAMPEONATOS ESTADUAIS",CAMPEONATO MINEIRO HD¹
+http://trabalho724.top:8080/7csplay/seven2022/300050
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO MINEIRO 1 HD²" tvg-logo="http://contentsdeliver.link/logos/campeonatomineirohd.png" group-title="F16 M5 CAMPEONATOS ESTADUAIS",CAMPEONATO MINEIRO 1 HD²
+http://trabalho724.top:8080/7csplay/seven2022/107393
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO PARAIBANO 1 HD¹" tvg-logo="http://contentsdeliver.link/logos/campeonatoparaibanohd.png" group-title="F16 M5 CAMPEONATOS ESTADUAIS",CAMPEONATO PARAIBANO 1 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/300061
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO PARAIBANO 1 HD²" tvg-logo="http://contentsdeliver.link/logos/campeonatoparaibanohd.png" group-title="F16 M5 CAMPEONATOS ESTADUAIS",CAMPEONATO PARAIBANO 1 HD²
+http://trabalho724.top:8080/7csplay/seven2022/119433
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO PARAIBANO 2 HD¹" tvg-logo="http://contentsdeliver.link/logos/campeonatoparaibanohd.png" group-title="F16 M5 CAMPEONATOS ESTADUAIS",CAMPEONATO PARAIBANO 2 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/300062
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO PARAIBANO 2 HD²" tvg-logo="http://contentsdeliver.link/logos/campeonatoparaibanohd.png" group-title="F16 M5 CAMPEONATOS ESTADUAIS",CAMPEONATO PARAIBANO 2 HD²
+http://trabalho724.top:8080/7csplay/seven2022/293069
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO PARANAENSE 1 HD¹" tvg-logo="http://contentsdeliver.link/logos/campeonatoparanaensehd.png" group-title="F16 M5 CAMPEONATOS ESTADUAIS",CAMPEONATO PARANAENSE 1 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/116699
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO PARANAENSE 1 HD²" tvg-logo="http://contentsdeliver.link/logos/campeonatoparanaensehd.png" group-title="F16 M5 CAMPEONATOS ESTADUAIS",CAMPEONATO PARANAENSE 1 HD²
+http://trabalho724.top:8080/7csplay/seven2022/116701
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO PARANAENSE 2 HD¹" tvg-logo="http://contentsdeliver.link/logos/campeonatoparanaensehd.png" group-title="F16 M5 CAMPEONATOS ESTADUAIS",CAMPEONATO PARANAENSE 2 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/116700
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO PARANAENSE 2 HD²" tvg-logo="http://contentsdeliver.link/logos/campeonatoparanaensehd.png" group-title="F16 M5 CAMPEONATOS ESTADUAIS",CAMPEONATO PARANAENSE 2 HD²
+http://trabalho724.top:8080/7csplay/seven2022/116702
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO PARANAENSE 3 HD¹" tvg-logo="http://contentsdeliver.link/logos/campeonatoparanaensehd.png" group-title="F16 M5 CAMPEONATOS ESTADUAIS",CAMPEONATO PARANAENSE 3 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/106461
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO PARANAENSE 3 HD²" tvg-logo="http://contentsdeliver.link/logos/campeonatoparanaensehd.png" group-title="F16 M5 CAMPEONATOS ESTADUAIS",CAMPEONATO PARANAENSE 3 HD²
+http://trabalho724.top:8080/7csplay/seven2022/293067
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO PAULISTA 01 HD¹" tvg-logo="http://contentsdeliver.link/logos/campeonatopaulistahd.png" group-title="F16 M5 CAMPEONATOS ESTADUAIS",CAMPEONATO PAULISTA 01 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/300042
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO PAULISTA 02 HD¹" tvg-logo="http://contentsdeliver.link/logos/campeonatopaulistahd.png" group-title="F16 M5 CAMPEONATOS ESTADUAIS",CAMPEONATO PAULISTA 02 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/300043
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO PAULISTA A2-A3 01 HD¹" tvg-logo="http://contentsdeliver.link/logos/campeonatopaulistaa2a3hd.png" group-title="F16 M5 CAMPEONATOS ESTADUAIS",CAMPEONATO PAULISTA A2-A3 01 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/22316
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO PAULISTA A2-A3 02 HD¹" tvg-logo="http://contentsdeliver.link/logos/campeonatopaulistaa2a3hd.png" group-title="F16 M5 CAMPEONATOS ESTADUAIS",CAMPEONATO PAULISTA A2-A3 02 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/42916
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO PAULISTA A2-A3 03 HD¹" tvg-logo="http://contentsdeliver.link/logos/campeonatopaulistaa2a3hd.png" group-title="F16 M5 CAMPEONATOS ESTADUAIS",CAMPEONATO PAULISTA A2-A3 03 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/18815
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="CAMPEONATO PAULISTA A2-A3 04 HD¹" tvg-logo="http://contentsdeliver.link/logos/campeonatopaulistaa2a3hd.png" group-title="F16 M5 CAMPEONATOS ESTADUAIS",CAMPEONATO PAULISTA A2-A3 04 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/72797
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO PERNAMBUCANO HD¹" tvg-logo="http://contentsdeliver.link/logos/campeonatopernambucanohd.png" group-title="F16 M5 CAMPEONATOS ESTADUAIS",CAMPEONATO PERNAMBUCANO HD¹
+http://trabalho724.top:8080/7csplay/seven2022/300060
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO POTIGUAR HD¹" tvg-logo="http://contentsdeliver.link/logos/campeonatopotiguarhd.png" group-title="F16 M5 CAMPEONATOS ESTADUAIS",CAMPEONATO POTIGUAR HD¹
+http://trabalho724.top:8080/7csplay/seven2022/300049
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO SERGIPANO 1 HD¹" tvg-logo="http://contentsdeliver.link/logos/campeonatosergipanohd.png" group-title="F16 M5 CAMPEONATOS ESTADUAIS",CAMPEONATO SERGIPANO 1 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/300046
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO SERGIPANO 1 HD²" tvg-logo="http://contentsdeliver.link/logos/campeonatosergipanohd.png" group-title="F16 M5 CAMPEONATOS ESTADUAIS",CAMPEONATO SERGIPANO 1 HD²
+http://trabalho724.top:8080/7csplay/seven2022/70898
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO SERGIPANO 2 HD²" tvg-logo="http://contentsdeliver.link/logos/campeonatosergipanohd.png" group-title="F16 M5 CAMPEONATOS ESTADUAIS",CAMPEONATO SERGIPANO 2 HD²
+http://trabalho724.top:8080/7csplay/seven2022/70899
+#EXTINF:-1 tvg-id="" tvg-name="COPINHA 01 HD²" tvg-logo="http://contentsdeliver.link/logos/copinhahd2.png" group-title="F16 M5 CAMPEONATOS ESTADUAIS",COPINHA 01 HD²
+http://trabalho724.top:8080/7csplay/seven2022/326587
+#EXTINF:-1 tvg-id="" tvg-name="COPINHA 02 HD²" tvg-logo="http://contentsdeliver.link/logos/copinhahd2.png" group-title="F16 M5 CAMPEONATOS ESTADUAIS",COPINHA 02 HD²
+http://trabalho724.top:8080/7csplay/seven2022/326588
+#EXTINF:-1 tvg-id="" tvg-name="COPINHA 03 HD²" tvg-logo="http://contentsdeliver.link/logos/copinhahd2.png" group-title="F16 M5 CAMPEONATOS ESTADUAIS",COPINHA 03 HD²
+http://trabalho724.top:8080/7csplay/seven2022/326589
+#EXTINF:-1 tvg-id="" tvg-name="COPINHA 04 HD²" tvg-logo="http://contentsdeliver.link/logos/copinhahd2.png" group-title="F16 M5 CAMPEONATOS ESTADUAIS",COPINHA 04 HD²
+http://trabalho724.top:8080/7csplay/seven2022/326590
+#EXTINF:-1 tvg-id="" tvg-name="COPINHA 05 HD²" tvg-logo="http://contentsdeliver.link/logos/copinhahd2.png" group-title="F16 M5 CAMPEONATOS ESTADUAIS",COPINHA 05 HD²
+http://trabalho724.top:8080/7csplay/seven2022/326591
+#EXTINF:-1 tvg-id="" tvg-name="COPINHA 06 HD²" tvg-logo="http://contentsdeliver.link/logos/copinhahd2.png" group-title="F16 M5 CAMPEONATOS ESTADUAIS",COPINHA 06 HD²
+http://trabalho724.top:8080/7csplay/seven2022/326592
+#EXTINF:-1 tvg-id="" tvg-name="NOSSO FUTEBOL 1 HD¹" tvg-logo="http://contentsdeliver.link/logos/nossofutebolhd.png" group-title="F16 M5 CAMPEONATOS ESTADUAIS",NOSSO FUTEBOL 1 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/119434
+#EXTINF:-1 tvg-id="" tvg-name="NOSSO FUTEBOL 1 HD² " tvg-logo="http://contentsdeliver.link/logos/nossofutebolhd.png" group-title="F16 M5 CAMPEONATOS ESTADUAIS",NOSSO FUTEBOL 1 HD² 
+http://trabalho724.top:8080/7csplay/seven2022/18814
+#EXTINF:-1 tvg-id="" tvg-name="NOSSO FUTEBOL 2 HD¹" tvg-logo="http://contentsdeliver.link/logos/nossofutebolhd.png" group-title="F16 M5 CAMPEONATOS ESTADUAIS",NOSSO FUTEBOL 2 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/42917
+#EXTINF:-1 tvg-id="" tvg-name="NOSSO FUTEBOL 2 HD²" tvg-logo="http://contentsdeliver.link/logos/nossofutebolhd.png" group-title="F16 M5 CAMPEONATOS ESTADUAIS",NOSSO FUTEBOL 2 HD²
+http://trabalho724.top:8080/7csplay/seven2022/22499
+#EXTINF:-1 tvg-id="" tvg-name="NOSSO FUTEBOL 3 HD¹" tvg-logo="http://contentsdeliver.link/logos/nossofutebolhd.png" group-title="F16 M5 CAMPEONATOS ESTADUAIS",NOSSO FUTEBOL 3 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/42919
+#EXTINF:-1 tvg-id="" tvg-name="NOSSO FUTEBOL 3 HD²" tvg-logo="http://contentsdeliver.link/logos/nossofutebolhd.png" group-title="F16 M5 CAMPEONATOS ESTADUAIS",NOSSO FUTEBOL 3 HD²
+http://trabalho724.top:8080/7csplay/seven2022/18816
+#EXTINF:-1 tvg-id="" tvg-name="NOSSO FUTEBOL 4 HD¹" tvg-logo="http://contentsdeliver.link/logos/nossofutebolhd.png" group-title="F16 M5 CAMPEONATOS ESTADUAIS",NOSSO FUTEBOL 4 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/18817
+#EXTINF:-1 tvg-id="" tvg-name="NOSSO FUTEBOL 4 HD²" tvg-logo="http://contentsdeliver.link/logos/nossofutebolhd.png" group-title="F16 M5 CAMPEONATOS ESTADUAIS",NOSSO FUTEBOL 4 HD²
+http://trabalho724.top:8080/7csplay/seven2022/64684
+#EXTINF:-1 tvg-id="" tvg-name="ALL SPORTS HD¹" tvg-logo="http://contentsdeliver.link/logos/allsportshd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",ALL SPORTS HD¹
+http://trabalho724.top:8080/7csplay/seven2022/295486
+#EXTINF:-1 tvg-id="" tvg-name="APPLE TV 01 HD¹" tvg-logo="http://contentsdeliver.link/logos/appletvhd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",APPLE TV 01 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/320632
+#EXTINF:-1 tvg-id="" tvg-name="APPLE TV 02 HD¹" tvg-logo="http://contentsdeliver.link/logos/appletvhd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",APPLE TV 02 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/320633
+#EXTINF:-1 tvg-id="" tvg-name="APPLE TV 03 HD¹" tvg-logo="http://contentsdeliver.link/logos/appletvhd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",APPLE TV 03 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/320634
+#EXTINF:-1 tvg-id="" tvg-name="APPLE TV 04 HD¹" tvg-logo="http://contentsdeliver.link/logos/appletvhd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",APPLE TV 04 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/320635
+#EXTINF:-1 tvg-id="" tvg-name="CAZE TV 1 FHD¹" tvg-logo="http://contentsdeliver.link/logos/cazetvfhd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",CAZE TV 1 FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/320640
+#EXTINF:-1 tvg-id="" tvg-name="CAZE TV 1 HD²" tvg-logo="http://contentsdeliver.link/logos/cazetvhd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",CAZE TV 1 HD²
+http://trabalho724.top:8080/7csplay/seven2022/327185
+#EXTINF:-1 tvg-id="" tvg-name="CAZE TV 1 HD²" tvg-logo="http://contentsdeliver.link/logos/cazetvhd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",CAZE TV 1 HD²
+http://trabalho724.top:8080/7csplay/seven2022/327186
+#EXTINF:-1 tvg-id="" tvg-name="CAZE TV 2 FHD¹" tvg-logo="http://contentsdeliver.link/logos/cazetvfhd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",CAZE TV 2 FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/320641
+#EXTINF:-1 tvg-id="" tvg-name="CAZE TV 3 FHD¹" tvg-logo="http://contentsdeliver.link/logos/cazetvfhd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",CAZE TV 3 FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/320642
+#EXTINF:-1 tvg-id="" tvg-name="CAZE TV 3 HD²" tvg-logo="http://contentsdeliver.link/logos/cazetvhd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",CAZE TV 3 HD²
+http://trabalho724.top:8080/7csplay/seven2022/327187
+#EXTINF:-1 tvg-id="" tvg-name="DIRECT TV GO SPORTS HD¹" tvg-logo="http://contentsdeliver.link/logos/directgohd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",DIRECT TV GO SPORTS HD¹
+http://trabalho724.top:8080/7csplay/seven2022/311394
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 1 HD¹" tvg-logo="http://contentsdeliver.link/logos/elevensportshd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",ELEVEN SPORTS 1 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/64663
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 1 HD²" tvg-logo="http://contentsdeliver.link/logos/elevensportshd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",ELEVEN SPORTS 1 HD²
+http://trabalho724.top:8080/7csplay/seven2022/55339
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 2 HD¹" tvg-logo="http://contentsdeliver.link/logos/elevensportshd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",ELEVEN SPORTS 2 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/64664
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 2 HD²" tvg-logo="http://contentsdeliver.link/logos/elevensportshd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",ELEVEN SPORTS 2 HD²
+http://trabalho724.top:8080/7csplay/seven2022/55350
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 3 HD¹" tvg-logo="http://contentsdeliver.link/logos/elevensportshd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",ELEVEN SPORTS 3 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/64665
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 3 HD²" tvg-logo="http://contentsdeliver.link/logos/elevensportshd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",ELEVEN SPORTS 3 HD²
+http://trabalho724.top:8080/7csplay/seven2022/55351
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 4 HD¹" tvg-logo="http://contentsdeliver.link/logos/elevensportshd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",ELEVEN SPORTS 4 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/64666
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 4 HD²" tvg-logo="http://contentsdeliver.link/logos/elevensportshd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",ELEVEN SPORTS 4 HD²
+http://trabalho724.top:8080/7csplay/seven2022/55352
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 5 HD¹" tvg-logo="http://contentsdeliver.link/logos/elevensportshd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",ELEVEN SPORTS 5 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/64667
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 5 HD²" tvg-logo="http://contentsdeliver.link/logos/elevensportshd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",ELEVEN SPORTS 5 HD²
+http://trabalho724.top:8080/7csplay/seven2022/55353
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 6 HD¹" tvg-logo="http://contentsdeliver.link/logos/elevensportshd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",ELEVEN SPORTS 6 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/64668
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 6 HD²" tvg-logo="http://contentsdeliver.link/logos/elevensportshd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",ELEVEN SPORTS 6 HD²
+http://trabalho724.top:8080/7csplay/seven2022/55354
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 7 HD¹" tvg-logo="http://contentsdeliver.link/logos/elevensportshd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",ELEVEN SPORTS 7 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/64669
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 7 HD²" tvg-logo="http://contentsdeliver.link/logos/elevensportshd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",ELEVEN SPORTS 7 HD²
+http://trabalho724.top:8080/7csplay/seven2022/55355
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 8 HD¹" tvg-logo="http://contentsdeliver.link/logos/elevensportshd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",ELEVEN SPORTS 8 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/64670
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 8 HD²" tvg-logo="http://contentsdeliver.link/logos/elevensportshd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",ELEVEN SPORTS 8 HD²
+http://trabalho724.top:8080/7csplay/seven2022/55356
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 9 HD¹" tvg-logo="http://contentsdeliver.link/logos/elevensportshd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",ELEVEN SPORTS 9 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/64671
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 9 HD²" tvg-logo="http://contentsdeliver.link/logos/elevensportshd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",ELEVEN SPORTS 9 HD²
+http://trabalho724.top:8080/7csplay/seven2022/55357
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 10 HD¹" tvg-logo="http://contentsdeliver.link/logos/elevensportshd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",ELEVEN SPORTS 10 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/64672
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 10 HD²" tvg-logo="http://contentsdeliver.link/logos/elevensportshd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",ELEVEN SPORTS 10 HD²
+http://trabalho724.top:8080/7csplay/seven2022/55340
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 11 HD¹" tvg-logo="http://contentsdeliver.link/logos/elevensportshd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",ELEVEN SPORTS 11 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/55341
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 12 HD¹" tvg-logo="http://contentsdeliver.link/logos/elevensportshd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",ELEVEN SPORTS 12 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/55342
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 13 HD¹" tvg-logo="http://contentsdeliver.link/logos/elevensportshd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",ELEVEN SPORTS 13 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/55343
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 14 HD¹" tvg-logo="http://contentsdeliver.link/logos/elevensportshd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",ELEVEN SPORTS 14 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/55344
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 15 HD¹" tvg-logo="http://contentsdeliver.link/logos/elevensportshd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",ELEVEN SPORTS 15 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/55345
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 16 HD¹" tvg-logo="http://contentsdeliver.link/logos/elevensportshd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",ELEVEN SPORTS 16 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/55346
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 17 HD¹" tvg-logo="http://contentsdeliver.link/logos/elevensportshd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",ELEVEN SPORTS 17 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/55347
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 18 HD¹" tvg-logo="http://contentsdeliver.link/logos/elevensportshd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",ELEVEN SPORTS 18 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/55348
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 19 HD¹" tvg-logo="http://contentsdeliver.link/logos/elevensportshd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",ELEVEN SPORTS 19 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/55349
+#EXTINF:-1 tvg-id="" tvg-name="FLA TV HD²" tvg-logo="http://contentsdeliver.link/logos/flatvhd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",FLA TV HD²
+http://trabalho724.top:8080/7csplay/seven2022/70900
+#EXTINF:-1 tvg-id="" tvg-name="FURACAO LIVE HD" tvg-logo="http://contentsdeliver.link/logos/furacaolivehd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",FURACAO LIVE HD
+http://trabalho724.top:8080/7csplay/seven2022/167949
+#EXTINF:-1 tvg-id="" tvg-name="FURACAO LIVE HD¹" tvg-logo="http://contentsdeliver.link/logos/furacaolivehd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",FURACAO LIVE HD¹
+http://trabalho724.top:8080/7csplay/seven2022/59655
+#EXTINF:-1 tvg-id="" tvg-name="FURACAO LIVE HD²" tvg-logo="http://contentsdeliver.link/logos/furacaolivehd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",FURACAO LIVE HD²
+http://trabalho724.top:8080/7csplay/seven2022/58740
+#EXTINF:-1 tvg-id="" tvg-name="FORMULA 1 HD²" tvg-logo="http://contentsdeliver.link/logos/formula1hd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",FORMULA 1 HD²
+http://trabalho724.top:8080/7csplay/seven2022/70897
+#EXTINF:-1 tvg-id="" tvg-name="GLOBOPLAY+ FUTEBOL 1 HD¹" tvg-logo="http://contentsdeliver.link/logos/globoplayhd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",GLOBOPLAY+ FUTEBOL 1 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/301261
+#EXTINF:-1 tvg-id="" tvg-name="GLOBOPLAY+ FUTEBOL 2 HD¹" tvg-logo="http://contentsdeliver.link/logos/globoplayhd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",GLOBOPLAY+ FUTEBOL 2 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/301262
+#EXTINF:-1 tvg-id="" tvg-name="GOAT 01 HD¹" tvg-logo="http://contentsdeliver.link/logos/goathd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",GOAT 01 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/320629
+#EXTINF:-1 tvg-id="" tvg-name="GOAT 01 HD²" tvg-logo="http://contentsdeliver.link/logos/goathd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",GOAT 01 HD²
+http://trabalho724.top:8080/7csplay/seven2022/318562
+#EXTINF:-1 tvg-id="" tvg-name="GOAT 02 HD¹" tvg-logo="http://contentsdeliver.link/logos/goathd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",GOAT 02 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/320630
+#EXTINF:-1 tvg-id="" tvg-name="GOAT 02 HD²" tvg-logo="http://contentsdeliver.link/logos/goathd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",GOAT 02 HD²
+http://trabalho724.top:8080/7csplay/seven2022/327228
+#EXTINF:-1 tvg-id="" tvg-name="GOAT 03 HD¹" tvg-logo="http://contentsdeliver.link/logos/goathd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",GOAT 03 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/320631
+#EXTINF:-1 tvg-id="" tvg-name="GOAT 03 HD²" tvg-logo="http://contentsdeliver.link/logos/goathd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",GOAT 03 HD²
+http://trabalho724.top:8080/7csplay/seven2022/327229
+#EXTINF:-1 tvg-id="" tvg-name="GOAT 04 HD²" tvg-logo="http://contentsdeliver.link/logos/goathd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",GOAT 04 HD²
+http://trabalho724.top:8080/7csplay/seven2022/327230
+#EXTINF:-1 tvg-id="" tvg-name="KINGPYN BOXE HD¹" tvg-logo="http://contentsdeliver.link/logos/kingpynhd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",KINGPYN BOXE HD¹
+http://trabalho724.top:8080/7csplay/seven2022/311392
+#EXTINF:-1 tvg-id="" tvg-name="KINGPYN BOXE HD²" tvg-logo="http://contentsdeliver.link/logos/kingpynhd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",KINGPYN BOXE HD²
+http://trabalho724.top:8080/7csplay/seven2022/311393
+#EXTINF:-1 tvg-id="" tvg-name="LIGA FUTSAL HD¹" tvg-logo="http://contentsdeliver.link/logos/ligafutsalhd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",LIGA FUTSAL HD¹
+http://trabalho724.top:8080/7csplay/seven2022/52763
+#EXTINF:-1 tvg-id="" tvg-name="LIGA FUTSAL HD²" tvg-logo="http://contentsdeliver.link/logos/ligafutsalhd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",LIGA FUTSAL HD²
+http://trabalho724.top:8080/7csplay/seven2022/64673
+#EXTINF:-1 tvg-id="" tvg-name="LIGA FUTSAL SD¹" tvg-logo="http://contentsdeliver.link/logos/ligafutsalsd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",LIGA FUTSAL SD¹
+http://trabalho724.top:8080/7csplay/seven2022/53246
+#EXTINF:-1 tvg-id="" tvg-name="LIGA FUTSAL 2 SD¹" tvg-logo="https://7vnx.xyz/logos/ligafutsalsd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",LIGA FUTSAL 2 SD¹
+http://trabalho724.top:8080/7csplay/seven2022/52765
+#EXTINF:-1 tvg-id="" tvg-name="LIGA FUTSAL 2 HD¹" tvg-logo="http://contentsdeliver.link/logos/ligafutsalhd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",LIGA FUTSAL 2 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/52764
+#EXTINF:-1 tvg-id="" tvg-name="MISTER OLYMPIA HD²" tvg-logo="http://contentsdeliver.link/logos/mrolympiahd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",MISTER OLYMPIA HD²
+http://trabalho724.top:8080/7csplay/seven2022/277338
+#EXTINF:-1 tvg-id="" tvg-name="MLS - MAJOR LEAGUE SOCCER HD²" tvg-logo="http://contentsdeliver.link/logos/mlshd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",MLS - MAJOR LEAGUE SOCCER HD²
+http://trabalho724.top:8080/7csplay/seven2022/316493
+#EXTINF:-1 tvg-id="" tvg-name="NSPORTS 1 HD²" tvg-logo="http://contentsdeliver.link/logos/nsportshd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",NSPORTS 1 HD²
+http://trabalho724.top:8080/7csplay/seven2022/70905
+#EXTINF:-1 tvg-id="" tvg-name="NSPORTS 2 HD²" tvg-logo="http://contentsdeliver.link/logos/nsportshd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",NSPORTS 2 HD²
+http://trabalho724.top:8080/7csplay/seven2022/70906
+#EXTINF:-1 tvg-id="" tvg-name="NSPORTS 3 HD²" tvg-logo="http://contentsdeliver.link/logos/nsportshd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",NSPORTS 3 HD²
+http://trabalho724.top:8080/7csplay/seven2022/70907
+#EXTINF:-1 tvg-id="" tvg-name="ONEFOOTBALL 1 HD¹" tvg-logo="http://contentsdeliver.link/logos/onefootballhd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",ONEFOOTBALL 1 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/320636
+#EXTINF:-1 tvg-id="" tvg-name="ONEFOOTBALL 2 HD¹" tvg-logo="http://contentsdeliver.link/logos/onefootballhd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",ONEFOOTBALL 2 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/320637
+#EXTINF:-1 tvg-id="" tvg-name="ONEFOOTBALL 3 HD¹" tvg-logo="http://contentsdeliver.link/logos/onefootballhd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",ONEFOOTBALL 3 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/320638
+#EXTINF:-1 tvg-id="" tvg-name="ONEFOOTBALL 4 HD¹" tvg-logo="http://contentsdeliver.link/logos/onefootballhd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",ONEFOOTBALL 4 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/320639
+#EXTINF:-1 tvg-id="" tvg-name="RODEIO INTERNACIONAL HD²" tvg-logo="http://contentsdeliver.link/logos/pbrteamshd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",RODEIO INTERNACIONAL HD²
+http://trabalho724.top:8080/7csplay/seven2022/274280
+#EXTINF:-1 tvg-id="" tvg-name="VÔLEI BRASIL HD²" tvg-logo="http://contentsdeliver.link/logos/voleibrasilhd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",VÔLEI BRASIL HD²
+http://trabalho724.top:8080/7csplay/seven2022/274279
+#EXTINF:-1 tvg-id="" tvg-name="ZAPPING BRASILEIRÃO (SÉRIE C) 01 HD¹" tvg-logo="http://contentsdeliver.link/logos/zappinghd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",ZAPPING BRASILEIRÃO (SÉRIE C) 01 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/332234
+#EXTINF:-1 tvg-id="" tvg-name="ZAPPING BRASILEIRÃO (SÉRIE C) 01 HD²" tvg-logo="http://contentsdeliver.link/logos/zappinghd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",ZAPPING BRASILEIRÃO (SÉRIE C) 01 HD²
+http://trabalho724.top:8080/7csplay/seven2022/332236
+#EXTINF:-1 tvg-id="" tvg-name="ZAPPING BRASILEIRÃO (SÉRIE C) 02 HD¹" tvg-logo="http://contentsdeliver.link/logos/zappinghd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",ZAPPING BRASILEIRÃO (SÉRIE C) 02 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/332235
+#EXTINF:-1 tvg-id="" tvg-name="URBAN DOCS HD¹" tvg-logo="http://contentsdeliver.link/logos/urbandocshd.png" group-title="DESATIVADOS",URBAN DOCS HD¹
+http://trabalho724.top:8080/7csplay/seven2022/322317
+#EXTINF:-1 tvg-id="" tvg-name="URBAN KIDS HD¹" tvg-logo="http://contentsdeliver.link/logos/urbankidshd.png" group-title="DESATIVADOS",URBAN KIDS HD¹
+http://trabalho724.top:8080/7csplay/seven2022/322318
+#EXTINF:-1 tvg-id="" tvg-name="URBAN MOVIES HD¹" tvg-logo="http://contentsdeliver.link/logos/urbanmovieshd.png" group-title="DESATIVADOS",URBAN MOVIES HD¹
+http://trabalho724.top:8080/7csplay/seven2022/322319
+#EXTINF:-1 tvg-id="" tvg-name="URBAN RETRÔ HD¹" tvg-logo="http://contentsdeliver.link/logos/urbanretrohd.png" group-title="DESATIVADOS",URBAN RETRÔ HD¹
+http://trabalho724.top:8080/7csplay/seven2022/322316
+#EXTINF:-1 tvg-id="" tvg-name="URBAN SÉRIES HD¹" tvg-logo="http://server.pserver2.com:80/live/qXVZfUIOZj/a6svNsvlqY/1297.ts" group-title="DESATIVADOS",URBAN SÉRIES HD¹
+http://trabalho724.top:8080/7csplay/seven2022/322320
+#EXTINF:-1 tvg-id="" tvg-name="URBAN TRAVEL HD¹" tvg-logo="http://contentsdeliver.link/logos/urbantravelhd.png" group-title="DESATIVADOS",URBAN TRAVEL HD¹
+http://trabalho724.top:8080/7csplay/seven2022/322321
+#EXTINF:-1 tvg-id="" tvg-name="URBAN TURBO HD¹" tvg-logo="http://contentsdeliver.link/logos/urbanturbohd.png" group-title="DESATIVADOS",URBAN TURBO HD¹
+http://trabalho724.top:8080/7csplay/seven2022/322315
+#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRÃO (SÉRIE D) 01 HD²" tvg-logo="http://contentsdeliver.link/logos/brasileiraoseriedhd.png" group-title="F16 M5 DAZN",BRASILEIRÃO (SÉRIE D) 01 HD²
+http://trabalho724.top:8080/7csplay/seven2022/313064
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO SP UHD¹" tvg-logo="http://contentsdeliver.link/logos/globo4k.png" group-title="F16 M5 UHD (4K)",GLOBO SP UHD¹
+http://trabalho724.top:8080/7csplay/seven2022/315113
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO SP FHD MAX²" tvg-logo="http://contentsdeliver.link/logos/globofhdmax.png" group-title="F16 M5 GLOBO",GLOBO SP FHD MAX²
+http://trabalho724.top:8080/7csplay/seven2022/54357
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO SP FHD¹" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO SP FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/18533
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO SP FHD²" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO SP FHD²
+http://trabalho724.top:8080/7csplay/seven2022/22175
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO SP FHD ᶜᴰᴺ ²" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO SP FHD ᶜᴰᴺ ²
+http://trabalho724.top:8080/7csplay/seven2022/29601
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO SP HD¹" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO SP HD¹
+http://trabalho724.top:8080/7csplay/seven2022/18558
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO SP HD²" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO SP HD²
+http://trabalho724.top:8080/7csplay/seven2022/29602
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO SP HD ᶜᴰᴺ²" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO SP HD ᶜᴰᴺ²
+http://trabalho724.top:8080/7csplay/seven2022/18569
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO SP SD¹" tvg-logo="http://contentsdeliver.link/logos/globosd.png" group-title="F16 M5 GLOBO",GLOBO SP SD¹
+http://trabalho724.top:8080/7csplay/seven2022/18576
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO SP SD²" tvg-logo="http://contentsdeliver.link/logos/globosd.png" group-title="F16 M5 GLOBO",GLOBO SP SD²
+http://trabalho724.top:8080/7csplay/seven2022/50097
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO RJ FHD¹" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO RJ FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/28776
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RJ FHD²" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO RJ FHD²
+http://trabalho724.top:8080/7csplay/seven2022/18587
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RJ FHD ᶜᴰᴺ²" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO RJ FHD ᶜᴰᴺ²
+http://trabalho724.top:8080/7csplay/seven2022/64728
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RJ HD¹" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO RJ HD¹
+http://trabalho724.top:8080/7csplay/seven2022/18556
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RJ HD²" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO RJ HD²
+http://trabalho724.top:8080/7csplay/seven2022/22171
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RJ HD ᶜᴰᴺ ²" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO RJ HD ᶜᴰᴺ ²
+http://trabalho724.top:8080/7csplay/seven2022/22169
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RJ SD¹" tvg-logo="http://contentsdeliver.link/logos/globosd.png" group-title="F16 M5 GLOBO",GLOBO RJ SD¹
+http://trabalho724.top:8080/7csplay/seven2022/18574
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RJ SD²" tvg-logo="http://contentsdeliver.link/logos/globosd.png" group-title="F16 M5 GLOBO",GLOBO RJ SD²
+http://trabalho724.top:8080/7csplay/seven2022/64895
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO INTERNACIONAL FHD" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO INTERNACIONAL FHD
+http://trabalho724.top:8080/7csplay/seven2022/29592
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO INTERNACIONAL FHD²" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO INTERNACIONAL FHD²
+http://trabalho724.top:8080/7csplay/seven2022/29582
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO BAHIA/SALVADOR FHD¹" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO BAHIA/SALVADOR FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/18529
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO REDE BAHIA/SALVADOR FHD²" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO REDE BAHIA/SALVADOR FHD²
+http://trabalho724.top:8080/7csplay/seven2022/109039
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="GLOBO BAHIA/SALVADOR FHD²" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO BAHIA/SALVADOR FHD²
+http://trabalho724.top:8080/7csplay/seven2022/64731
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO BAHIA/SALVADOR HD¹" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO BAHIA/SALVADOR HD¹
+http://trabalho724.top:8080/7csplay/seven2022/29570
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO BAHIA/SALVADOR HD²" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO BAHIA/SALVADOR HD²
+http://trabalho724.top:8080/7csplay/seven2022/18543
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO BAHIA/SALVADOR SD¹" tvg-logo="http://contentsdeliver.link/logos/globosd.png" group-title="F16 M5 GLOBO",GLOBO BAHIA/SALVADOR SD¹
+http://trabalho724.top:8080/7csplay/seven2022/18577
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO BAHIA/SALVADOR SD²" tvg-logo="http://contentsdeliver.link/logos/globosd.png" group-title="F16 M5 GLOBO",GLOBO BAHIA/SALVADOR SD²
+http://trabalho724.top:8080/7csplay/seven2022/29569
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO SANTA CRUZ BAHIA HD²" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO SANTA CRUZ BAHIA HD²
+http://trabalho724.top:8080/7csplay/seven2022/109048
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO SAO FRANCISO JUAZEIRO-BA FHD²" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO SAO FRANCISO JUAZEIRO-BA FHD²
+http://trabalho724.top:8080/7csplay/seven2022/109049
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO SAO FRANCISO JUAZEIRO-BA HD²" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO SAO FRANCISO JUAZEIRO-BA HD²
+http://trabalho724.top:8080/7csplay/seven2022/109050
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="GLOBO BRASILIA FHD¹" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO BRASILIA FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/29893
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO BRASILIA FHD²" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO BRASILIA FHD²
+http://trabalho724.top:8080/7csplay/seven2022/22155
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO BRASILIA HD¹" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO BRASILIA HD¹
+http://trabalho724.top:8080/7csplay/seven2022/18544
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO BRASILIA HD²" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO BRASILIA HD²
+http://trabalho724.top:8080/7csplay/seven2022/22154
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO ANHANGUERA GOIANIA FHD¹" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO ANHANGUERA GOIANIA FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/25660
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO ANHANGUERA GOIANIA HD¹" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO ANHANGUERA GOIANIA HD¹
+http://trabalho724.top:8080/7csplay/seven2022/22142
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO ANHANGUERA GOIANIA SD¹" tvg-logo="http://contentsdeliver.link/logos/globosd.png" group-title="F16 M5 GLOBO",GLOBO ANHANGUERA GOIANIA SD¹
+http://trabalho724.top:8080/7csplay/seven2022/29890
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO ANHANGUERA GOIANIA SD²" tvg-logo="http://contentsdeliver.link/logos/globosd.png" group-title="F16 M5 GLOBO",GLOBO ANHANGUERA GOIANIA SD²
+http://trabalho724.top:8080/7csplay/seven2022/18566
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO ANHANGUERA ANAPOLIS FHD²" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO ANHANGUERA ANAPOLIS FHD²
+http://trabalho724.top:8080/7csplay/seven2022/64736
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO ANHANGUERA ANAPOLIS HD²" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO ANHANGUERA ANAPOLIS HD²
+http://trabalho724.top:8080/7csplay/seven2022/64737
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO ANHANGUERA CATALAO FHD²" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO ANHANGUERA CATALAO FHD²
+http://trabalho724.top:8080/7csplay/seven2022/64738
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO ANHANGUERA CATALAO HD²" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO ANHANGUERA CATALAO HD²
+http://trabalho724.top:8080/7csplay/seven2022/64739
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO ANHANGUERA ITUMBIARA FHD²" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO ANHANGUERA ITUMBIARA FHD²
+http://trabalho724.top:8080/7csplay/seven2022/64740
+#EXTINF:-1 tvg-id="globo.anhanguera.br" tvg-name="GLOBO ANHANGUERA ITUMBIARA HD²" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO ANHANGUERA ITUMBIARA HD²
+http://trabalho724.top:8080/7csplay/seven2022/64741
+#EXTINF:-1 tvg-id="tv.anhanguera.rio.verde.br" tvg-name="GLOBO ANHANGUERA RIO VERDE FHD²" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO ANHANGUERA RIO VERDE FHD²
+http://trabalho724.top:8080/7csplay/seven2022/302664
+#EXTINF:-1 tvg-id="tv.anhanguera.rio.verde.br" tvg-name="GLOBO ANHANGUERA RIO VERDE HD²" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO ANHANGUERA RIO VERDE HD²
+http://trabalho724.top:8080/7csplay/seven2022/302663
+#EXTINF:-1 tvg-id="tv.anhanguera.luziania.br" tvg-name="GLOBO ANHANGUERA LUZIÂNIA FHD²" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO ANHANGUERA LUZIÂNIA FHD²
+http://trabalho724.top:8080/7csplay/seven2022/302665
+#EXTINF:-1 tvg-id="tv.anhanguera.luziania.br" tvg-name="GLOBO ANHANGUERA LUZIÂNIA HD²" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO ANHANGUERA LUZIÂNIA HD²
+http://trabalho724.top:8080/7csplay/seven2022/302666
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="GLOBO ANHANGUERA JATAI FHD²" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO ANHANGUERA JATAI FHD²
+http://trabalho724.top:8080/7csplay/seven2022/302667
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO ANHANGUERA JATAI HD²" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO ANHANGUERA JATAI HD²
+http://trabalho724.top:8080/7csplay/seven2022/302668
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO MINAS-BH FHD¹" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO MINAS-BH FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/18531
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO MINAS-BH FHD²" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO MINAS-BH FHD²
+http://trabalho724.top:8080/7csplay/seven2022/29894
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO MINAS-BH HD¹" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO MINAS-BH HD¹
+http://trabalho724.top:8080/7csplay/seven2022/22159
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="GLOBO MINAS-BH HD²" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO MINAS-BH HD²
+http://trabalho724.top:8080/7csplay/seven2022/109072
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO MINAS-BH SD¹" tvg-logo="http://contentsdeliver.link/logos/globosd.png" group-title="F16 M5 GLOBO",GLOBO MINAS-BH SD¹
+http://trabalho724.top:8080/7csplay/seven2022/18570
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO MINAS-BH SD²" tvg-logo="http://contentsdeliver.link/logos/globosd.png" group-title="F16 M5 GLOBO",GLOBO MINAS-BH SD²
+http://trabalho724.top:8080/7csplay/seven2022/29584
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO INTEGRACAO MINAS FHD²" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO INTEGRACAO MINAS FHD²
+http://trabalho724.top:8080/7csplay/seven2022/109015
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO INTEGRACAO MINAS HD²" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO INTEGRACAO MINAS HD²
+http://trabalho724.top:8080/7csplay/seven2022/109017
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO INTEGRACAO MINAS SD²" tvg-logo="http://contentsdeliver.link/logos/globosd.png" group-title="F16 M5 GLOBO",GLOBO INTEGRACAO MINAS SD²
+http://trabalho724.top:8080/7csplay/seven2022/109018
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO INTEGRACAO DIVINOPOLIS FHD²" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO INTEGRACAO DIVINOPOLIS FHD²
+http://trabalho724.top:8080/7csplay/seven2022/109013
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO INTEGRACAO DIVINOPOLIS HD²" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO INTEGRACAO DIVINOPOLIS HD²
+http://trabalho724.top:8080/7csplay/seven2022/109014
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO INTEGRACAO UBERABA-MG FHD²" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO INTEGRACAO UBERABA-MG FHD²
+http://trabalho724.top:8080/7csplay/seven2022/109019
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO INTEGRACAO UBERABA-MG HD²" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO INTEGRACAO UBERABA-MG HD²
+http://trabalho724.top:8080/7csplay/seven2022/109020
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO INTEGRACAO ARAXA FHD²" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO INTEGRACAO ARAXA FHD²
+http://trabalho724.top:8080/7csplay/seven2022/109011
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO INTEGRACAO ARAXA HD²" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO INTEGRACAO ARAXA HD²
+http://trabalho724.top:8080/7csplay/seven2022/109012
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOBO RIO SUL FHD¹" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO RIO SUL FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/42937
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RIO SUL FHD²" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO RIO SUL FHD²
+http://trabalho724.top:8080/7csplay/seven2022/22543
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RIO SUL RJ HD¹" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO RIO SUL RJ HD¹
+http://trabalho724.top:8080/7csplay/seven2022/18538
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RIO SUL HD²" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO RIO SUL HD²
+http://trabalho724.top:8080/7csplay/seven2022/42938
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RIO SUL SD²" tvg-logo="http://contentsdeliver.link/logos/globosd.png" group-title="F16 M5 GLOBO",GLOBO RIO SUL SD²
+http://trabalho724.top:8080/7csplay/seven2022/50102
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO EPTV CAMPINAS FHD²" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO EPTV CAMPINAS FHD²
+http://trabalho724.top:8080/7csplay/seven2022/18534
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO EPTV CAMPINAS HD²" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO EPTV CAMPINAS HD²
+http://trabalho724.top:8080/7csplay/seven2022/18545
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO EPTV CAMPINAS SD¹" tvg-logo="http://contentsdeliver.link/logos/globosd.png" group-title="F16 M5 GLOBO",GLOBO EPTV CAMPINAS SD¹
+http://trabalho724.top:8080/7csplay/seven2022/18568
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO EPTV CAMPINAS SD²" tvg-logo="http://contentsdeliver.link/logos/globosd.png" group-title="F16 M5 GLOBO",GLOBO EPTV CAMPINAS SD²
+http://trabalho724.top:8080/7csplay/seven2022/23562
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="GLOBO EPTV RIBEIRAO PRETO FHD²" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO EPTV RIBEIRAO PRETO FHD²
+http://trabalho724.top:8080/7csplay/seven2022/64854
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO EPTV RIBEIRAO PRETO HD²" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO EPTV RIBEIRAO PRETO HD²
+http://trabalho724.top:8080/7csplay/seven2022/18563
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="GLOBO EPTV RIBEIRAO PRETO HD¹" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO EPTV RIBEIRAO PRETO HD¹
+http://trabalho724.top:8080/7csplay/seven2022/64853
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO EPTV RIBEIRAO PRETO SD²" tvg-logo="http://contentsdeliver.link/logos/globosd.png" group-title="F16 M5 GLOBO",GLOBO EPTV RIBEIRAO PRETO SD²
+http://trabalho724.top:8080/7csplay/seven2022/18581
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO EPTV RIBEIRAO PRETO SD¹" tvg-logo="http://contentsdeliver.link/logos/globosd.png" group-title="F16 M5 GLOBO",GLOBO EPTV RIBEIRAO PRETO SD¹
+http://trabalho724.top:8080/7csplay/seven2022/22226
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="GLOBO TRIBUNA SANTOS FHD²" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO TRIBUNA SANTOS FHD²
+http://trabalho724.top:8080/7csplay/seven2022/97844
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="GLOBO TRIBUNA SANTOS HD¹" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO TRIBUNA SANTOS HD¹
+http://trabalho724.top:8080/7csplay/seven2022/18585
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="GLOBO TRIBUNA SANTOS HD²" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO TRIBUNA SANTOS HD²
+http://trabalho724.top:8080/7csplay/seven2022/97845
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TRIBUNA SANTOS SD¹" tvg-logo="http://contentsdeliver.link/logos/globosd.png" group-title="F16 M5 GLOBO",GLOBO TRIBUNA SANTOS SD¹
+http://trabalho724.top:8080/7csplay/seven2022/22231
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="GLOBO TRIBUNA SANTOS SD²" tvg-logo="http://contentsdeliver.link/logos/globosd.png" group-title="F16 M5 GLOBO",GLOBO TRIBUNA SANTOS SD²
+http://trabalho724.top:8080/7csplay/seven2022/97846
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO EPTV SAO CARLOS SD²" tvg-logo="http://contentsdeliver.link/logos/globosd.png" group-title="F16 M5 GLOBO",GLOBO EPTV SAO CARLOS SD²
+http://trabalho724.top:8080/7csplay/seven2022/29902
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO EPTV SAO CARLOS SD¹" tvg-logo="http://contentsdeliver.link/logos/globosd.png" group-title="F16 M5 GLOBO",GLOBO EPTV SAO CARLOS SD¹
+http://trabalho724.top:8080/7csplay/seven2022/29903
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO EPTV SUL DE MINAS FHD¹" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO EPTV SUL DE MINAS FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/18536
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO EPTV SUL DE MINAS FHD²" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO EPTV SUL DE MINAS FHD²
+http://trabalho724.top:8080/7csplay/seven2022/64896
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO EPTV SUL DE MINAS HD¹" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO EPTV SUL DE MINAS HD¹
+http://trabalho724.top:8080/7csplay/seven2022/18564
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV SUL DE MINAS HD¹" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO EPTV SUL DE MINAS HD¹
+http://trabalho724.top:8080/7csplay/seven2022/64897
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV TEM BAURU FHD¹" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO TV TEM BAURU FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/22209
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO TV TEM BAURU FHD²" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO TV TEM BAURU FHD²
+http://trabalho724.top:8080/7csplay/seven2022/109053
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV TEM BAURU HD¹" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO TV TEM BAURU HD¹
+http://trabalho724.top:8080/7csplay/seven2022/50103
+#EXTINF:-1 tvg-id="globo.tem.bauru.br" tvg-name="GLOBO TV TEM BAURU HD²" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO TV TEM BAURU HD²
+http://trabalho724.top:8080/7csplay/seven2022/179632
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="GLOBO TV TEM BAURU SD¹" tvg-logo="http://contentsdeliver.link/logos/globosd.png" group-title="F16 M5 GLOBO",GLOBO TV TEM BAURU SD¹
+http://trabalho724.top:8080/7csplay/seven2022/109101
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO TV TEM SOROCABA FHD²" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO TV TEM SOROCABA FHD²
+http://trabalho724.top:8080/7csplay/seven2022/65749
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO TV TEM SOROCABA HD¹" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO TV TEM SOROCABA HD¹
+http://trabalho724.top:8080/7csplay/seven2022/65748
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO TV TEM SOROCABA HD²" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO TV TEM SOROCABA HD²
+http://trabalho724.top:8080/7csplay/seven2022/65750
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV TEM SOROCABA SD¹" tvg-logo="http://contentsdeliver.link/logos/globosd.png" group-title="F16 M5 GLOBO",GLOBO TV TEM SOROCABA SD¹
+http://trabalho724.top:8080/7csplay/seven2022/18582
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO TV TEM SOROCABA SD²" tvg-logo="http://contentsdeliver.link/logos/globosd.png" group-title="F16 M5 GLOBO",GLOBO TV TEM SOROCABA SD²
+http://trabalho724.top:8080/7csplay/seven2022/65751
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="GLOBO INTER TV CABUGI FHD¹" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO INTER TV CABUGI FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/73596
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO INTER TV CABUGI FHD²" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO INTER TV CABUGI FHD²
+http://trabalho724.top:8080/7csplay/seven2022/29899
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV INTER CABUGI HD¹" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO TV INTER CABUGI HD¹
+http://trabalho724.top:8080/7csplay/seven2022/29897
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="GLOBO INTER TV CABUGI HD²" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO INTER TV CABUGI HD²
+http://trabalho724.top:8080/7csplay/seven2022/73601
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO INTER TV CABUGI SD²" tvg-logo="http://contentsdeliver.link/logos/globosd.png" group-title="F16 M5 GLOBO",GLOBO INTER TV CABUGI SD²
+http://trabalho724.top:8080/7csplay/seven2022/29898
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO INTER TV ALTO LITORAL FHD¹" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO INTER TV ALTO LITORAL FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/22559
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="GLOBO INTER TV GRANDE MINAS FHD¹" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO INTER TV GRANDE MINAS FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/54336
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="GLOBO INTER TV GRANDE MINAS HD¹" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO INTER TV GRANDE MINAS HD¹
+http://trabalho724.top:8080/7csplay/seven2022/54337
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="GLOBO INTER TV GRANDE MINAS SD¹" tvg-logo="http://contentsdeliver.link/logos/globosd.png" group-title="F16 M5 GLOBO",GLOBO INTER TV GRANDE MINAS SD¹
+http://trabalho724.top:8080/7csplay/seven2022/54338
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO GAZETA VITORIA FHD¹" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO GAZETA VITORIA FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/18562
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO GAZETA VITORIA FHD²" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO GAZETA VITORIA FHD²
+http://trabalho724.top:8080/7csplay/seven2022/29883
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="GLOBO GAZETA VITORIA HD¹" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO GAZETA VITORIA HD¹
+http://trabalho724.top:8080/7csplay/seven2022/71064
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO GAZETA VITORIA HD²" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO GAZETA VITORIA HD²
+http://trabalho724.top:8080/7csplay/seven2022/29884
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="GLOBO GAZETA SUL ES HD¹" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO GAZETA SUL ES HD¹
+http://trabalho724.top:8080/7csplay/seven2022/73370
+#EXTINF:-1 tvg-id="aande.br" tvg-name="GLOBO GAZETA SUL ES HD²" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO GAZETA SUL ES HD²
+http://trabalho724.top:8080/7csplay/seven2022/73371
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="GLOBO GAZETA ALAGOAS FHD¹" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO GAZETA ALAGOAS FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/73605
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="GLOBO GAZETA ALAGOAS FHD²" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO GAZETA ALAGOAS FHD²
+http://trabalho724.top:8080/7csplay/seven2022/73603
+#EXTINF:-1 tvg-id="globo.amazonas.br" tvg-name="GLOBO GAZETA ALAGOAS HD¹" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO GAZETA ALAGOAS HD¹
+http://trabalho724.top:8080/7csplay/seven2022/73604
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="GLOBO GAZETA ALAGOAS HD²" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO GAZETA ALAGOAS HD²
+http://trabalho724.top:8080/7csplay/seven2022/54334
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="GLOBO TV GAZETA ALAGOAS SD¹" tvg-logo="http://contentsdeliver.link/logos/globosd.png" group-title="F16 M5 GLOBO",GLOBO TV GAZETA ALAGOAS SD¹
+http://trabalho724.top:8080/7csplay/seven2022/54335
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO NORDESTE FHD¹" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO NORDESTE FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/22167
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="GLOBO NORDESTE FHD²" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO NORDESTE FHD²
+http://trabalho724.top:8080/7csplay/seven2022/72796
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO NORDESTE HD¹" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO NORDESTE HD¹
+http://trabalho724.top:8080/7csplay/seven2022/18550
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO NORDESTE HD²" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO NORDESTE HD²
+http://trabalho724.top:8080/7csplay/seven2022/29590
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="GLOBO NORDESTE SD¹" tvg-logo="http://contentsdeliver.link/logos/globosd.png" group-title="F16 M5 GLOBO",GLOBO NORDESTE SD¹
+http://trabalho724.top:8080/7csplay/seven2022/72798
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO NORDESTE SD¹" tvg-logo="http://contentsdeliver.link/logos/globosd.png" group-title="F16 M5 GLOBO",GLOBO NORDESTE SD¹
+http://trabalho724.top:8080/7csplay/seven2022/18572
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO SERGIPE FHD¹" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO SERGIPE FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/52359
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO SERGIPE HD²" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO SERGIPE HD²
+http://trabalho724.top:8080/7csplay/seven2022/109004
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO SERGIPE SD¹" tvg-logo="http://contentsdeliver.link/logos/globosd.png" group-title="F16 M5 GLOBO",GLOBO SERGIPE SD¹
+http://trabalho724.top:8080/7csplay/seven2022/52360
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="GLOBO CABO BRANCO JOAO PESSOA FHD²" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO CABO BRANCO JOAO PESSOA FHD²
+http://trabalho724.top:8080/7csplay/seven2022/97849
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="GLOBO CABO BRANCO JOAO PESSOA HD²" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO CABO BRANCO JOAO PESSOA HD²
+http://trabalho724.top:8080/7csplay/seven2022/97850
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="GLOBO CABO BRANCO FHD¹" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO CABO BRANCO FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/97854
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="GLOBO CABO BRANCO HD²" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO CABO BRANCO HD²
+http://trabalho724.top:8080/7csplay/seven2022/97852
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO RBS BLUMENAL FHD¹" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO RBS BLUMENAL FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/109078
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO NSC BLUMENAL FHD²" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO NSC BLUMENAL FHD²
+http://trabalho724.top:8080/7csplay/seven2022/109028
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO RBS BLUMENAL HD¹" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO RBS BLUMENAL HD¹
+http://trabalho724.top:8080/7csplay/seven2022/109079
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO NSC BLUMENAL HD²" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO NSC BLUMENAL HD²
+http://trabalho724.top:8080/7csplay/seven2022/109029
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="GLOBO NSC CHAPECO FHD¹" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO NSC CHAPECO FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/56809
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="GLOBO NSC CHAPECO FHD²" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO NSC CHAPECO FHD²
+http://trabalho724.top:8080/7csplay/seven2022/56810
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="GLOBO NSC CHAPECO HD²" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO NSC CHAPECO HD²
+http://trabalho724.top:8080/7csplay/seven2022/56811
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="GLOBO NSC CHAPECO SD²" tvg-logo="http://contentsdeliver.link/logos/globosd.png" group-title="F16 M5 GLOBO",GLOBO NSC CHAPECO SD²
+http://trabalho724.top:8080/7csplay/seven2022/56812
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO NSC FLORIANOPOLIS FHD¹" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO NSC FLORIANOPOLIS FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/50099
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO NSC FLORIANOPOLIS FHD²" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO NSC FLORIANOPOLIS FHD²
+http://trabalho724.top:8080/7csplay/seven2022/22099
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO NSC FLORIANOPOLIS HD¹" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO NSC FLORIANOPOLIS HD¹
+http://trabalho724.top:8080/7csplay/seven2022/18551
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO NSC FLORIANOPOLIS HD²" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO NSC FLORIANOPOLIS HD²
+http://trabalho724.top:8080/7csplay/seven2022/50100
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO NSC FLORIANOPOLIS SD¹" tvg-logo="http://contentsdeliver.link/logos/globosd.png" group-title="F16 M5 GLOBO",GLOBO NSC FLORIANOPOLIS SD¹
+http://trabalho724.top:8080/7csplay/seven2022/22100
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO NSC JOINVILLE SC FHD¹" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO NSC JOINVILLE SC FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/42940
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="GLOBO NSC JOINVILLE SC FHD¹" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO NSC JOINVILLE SC FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/75921
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="GLOBO NSC JOINVILLE SC HD²" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO NSC JOINVILLE SC HD²
+http://trabalho724.top:8080/7csplay/seven2022/75920
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO NSC SANTA CATARINA HD²" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO NSC SANTA CATARINA HD²
+http://trabalho724.top:8080/7csplay/seven2022/109030
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="GLOBO RBS PORTO ALEGRE FHD¹" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO RBS PORTO ALEGRE FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/29889
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="GLOBO RBS PORTO ALEGRE FHD²" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO RBS PORTO ALEGRE FHD²
+http://trabalho724.top:8080/7csplay/seven2022/56076
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RBS PORTO ALEGRE HD¹" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO RBS PORTO ALEGRE HD¹
+http://trabalho724.top:8080/7csplay/seven2022/22103
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="GLOBO RBS PORTO ALEGRE HD²" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO RBS PORTO ALEGRE HD²
+http://trabalho724.top:8080/7csplay/seven2022/56075
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="GLOBO RBS PORTO ALEGRE SD¹" tvg-logo="http://contentsdeliver.link/logos/globosd.png" group-title="F16 M5 GLOBO",GLOBO RBS PORTO ALEGRE SD¹
+http://trabalho724.top:8080/7csplay/seven2022/29888
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="GLOBO RBS PORTO ALEGRE SD²" tvg-logo="http://contentsdeliver.link/logos/globosd.png" group-title="F16 M5 GLOBO",GLOBO RBS PORTO ALEGRE SD²
+http://trabalho724.top:8080/7csplay/seven2022/18573
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RBS CAXIAS DO SUL FHD¹" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO RBS CAXIAS DO SUL FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/75925
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RBS CAXIAS DO SUL FHD²" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO RBS CAXIAS DO SUL FHD²
+http://trabalho724.top:8080/7csplay/seven2022/18554
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="GLOBO RBS CAXIAS DO SUL HD²" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO RBS CAXIAS DO SUL HD²
+http://trabalho724.top:8080/7csplay/seven2022/75926
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RBS PELOTAS FHD¹" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO RBS PELOTAS FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/18555
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="GLOBO RBS PELOTAS FHD²" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO RBS PELOTAS FHD²
+http://trabalho724.top:8080/7csplay/seven2022/75928
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="GLOBO RBS PELOTAS HD²" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO RBS PELOTAS HD²
+http://trabalho724.top:8080/7csplay/seven2022/75929
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS SANTA MARIA FHD¹" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO RBS SANTA MARIA FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/101562
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS SANTA MARIA SD²" tvg-logo="http://contentsdeliver.link/logos/globosd.png" group-title="F16 M5 GLOBO",GLOBO RBS SANTA MARIA SD²
+http://trabalho724.top:8080/7csplay/seven2022/101564
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO RPC CASCAVEL FHD²" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO RPC CASCAVEL FHD²
+http://trabalho724.top:8080/7csplay/seven2022/109041
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO RPC CASCAVEL HD²" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO RPC CASCAVEL HD²
+http://trabalho724.top:8080/7csplay/seven2022/109042
+#EXTINF:-1 tvg-id="aande.br" tvg-name="GLOBO RPC CURITIBA FHD²" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO RPC CURITIBA FHD²
+http://trabalho724.top:8080/7csplay/seven2022/42939
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RPC CURITIBA HD¹" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO RPC CURITIBA HD¹
+http://trabalho724.top:8080/7csplay/seven2022/18557
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RPC CURITIBA HD²" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO RPC CURITIBA HD²
+http://trabalho724.top:8080/7csplay/seven2022/22133
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC CURITIBA SD²" tvg-logo="http://contentsdeliver.link/logos/globosd.png" group-title="F16 M5 GLOBO",GLOBO RPC CURITIBA SD²
+http://trabalho724.top:8080/7csplay/seven2022/50098
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RPC CURITIBA SD²" tvg-logo="http://contentsdeliver.link/logos/globosd.png" group-title="F16 M5 GLOBO",GLOBO RPC CURITIBA SD²
+http://trabalho724.top:8080/7csplay/seven2022/18575
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO RPC FOZ DO IGUAÇU FHD²" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO RPC FOZ DO IGUAÇU FHD²
+http://trabalho724.top:8080/7csplay/seven2022/109043
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO RPC FOZ DO IGUAÇU HD²" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO RPC FOZ DO IGUAÇU HD²
+http://trabalho724.top:8080/7csplay/seven2022/109044
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO RPC PARANA HD²" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO RPC PARANA HD²
+http://trabalho724.top:8080/7csplay/seven2022/109045
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO RPC PARANAVAI FHD²" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO RPC PARANAVAI FHD²
+http://trabalho724.top:8080/7csplay/seven2022/109046
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO RPC PARANAVAI HD²" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO RPC PARANAVAI HD²
+http://trabalho724.top:8080/7csplay/seven2022/109047
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO RBS PASSO FUNDO-RS FHD²" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO RBS PASSO FUNDO-RS FHD²
+http://trabalho724.top:8080/7csplay/seven2022/109032
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO RBS PASSO FUNDO-RS HD²" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO RBS PASSO FUNDO-RS HD²
+http://trabalho724.top:8080/7csplay/seven2022/109033
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO ASA BRANCA PERNAMBUCO HD¹" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO ASA BRANCA PERNAMBUCO HD¹
+http://trabalho724.top:8080/7csplay/seven2022/18541
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="GLOBO BELEM FHD¹" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO BELEM FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/97848
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO TV BELEM HD¹" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO TV BELEM HD¹
+http://trabalho724.top:8080/7csplay/seven2022/29886
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV BELEM HD¹" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO TV BELEM HD¹
+http://trabalho724.top:8080/7csplay/seven2022/18884
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV BELEM SD¹" tvg-logo="http://contentsdeliver.link/logos/globosd.png" group-title="F16 M5 GLOBO",GLOBO TV BELEM SD¹
+http://trabalho724.top:8080/7csplay/seven2022/18578
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV BELEM HD²" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO TV BELEM HD²
+http://trabalho724.top:8080/7csplay/seven2022/29605
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO CENTRO AMERICA SD¹" tvg-logo="http://contentsdeliver.link/logos/globosd.png" group-title="F16 M5 GLOBO",GLOBO CENTRO AMERICA SD¹
+http://trabalho724.top:8080/7csplay/seven2022/18579
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV CLUBE PIAUI FHD¹" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO TV CLUBE PIAUI FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/44426
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV CLUBE PIAUI HD¹" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO TV CLUBE PIAUI HD¹
+http://trabalho724.top:8080/7csplay/seven2022/44427
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO REDE AMAZONICA MANAUS FHD¹" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO REDE AMAZONICA MANAUS FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/101703
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO REDE AMAZONICA MANAUS FHD²" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO REDE AMAZONICA MANAUS FHD²
+http://trabalho724.top:8080/7csplay/seven2022/101704
+#EXTINF:-1 tvg-id="aande.br" tvg-name="GLOBO REDE AMAZONICA MANAUS HD¹" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO REDE AMAZONICA MANAUS HD¹
+http://trabalho724.top:8080/7csplay/seven2022/101705
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO REDE AMAZONICA MANAUS HD²" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO REDE AMAZONICA MANAUS HD²
+http://trabalho724.top:8080/7csplay/seven2022/18542
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO REDE AMAZONICA MANAUS SD²" tvg-logo="http://contentsdeliver.link/logos/globosd.png" group-title="F16 M5 GLOBO",GLOBO REDE AMAZONICA MANAUS SD²
+http://trabalho724.top:8080/7csplay/seven2022/101702
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO REDE AMAZONICA PORTO VELHO FHD²" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO REDE AMAZONICA PORTO VELHO FHD²
+http://trabalho724.top:8080/7csplay/seven2022/109034
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="GLOBO REDE AMAZONICA PORTO VELHO HD²" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO REDE AMAZONICA PORTO VELHO HD²
+http://trabalho724.top:8080/7csplay/seven2022/109035
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="GLOBO REDE AMAZONICA PORTO VELHO SD²" tvg-logo="http://contentsdeliver.link/logos/globosd.png" group-title="F16 M5 GLOBO",GLOBO REDE AMAZONICA PORTO VELHO SD²
+http://trabalho724.top:8080/7csplay/seven2022/109036
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO REDE AMAZONICA RORAIMA/BOA VISTA FHD²" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO REDE AMAZONICA RORAIMA/BOA VISTA FHD²
+http://trabalho724.top:8080/7csplay/seven2022/109037
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO REDE AMAZONICA RORAIMA/BOA VISTA HD²" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO REDE AMAZONICA RORAIMA/BOA VISTA HD²
+http://trabalho724.top:8080/7csplay/seven2022/109038
+#EXTINF:-1 tvg-id="tv.morena.br" tvg-name="GLOBO TV MORENA CAMPO GRANDE FHD¹" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO TV MORENA CAMPO GRANDE FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/164399
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV MORENA CAMPO GRANDE FHD²" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO TV MORENA CAMPO GRANDE FHD²
+http://trabalho724.top:8080/7csplay/seven2022/22206
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV MORENA CAMPO GRANDE HD¹" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO TV MORENA CAMPO GRANDE HD¹
+http://trabalho724.top:8080/7csplay/seven2022/22204
+#EXTINF:-1 tvg-id="tv.morena.br" tvg-name="GLOBO TV MORENA CAMPO GRANDE HD²" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO TV MORENA CAMPO GRANDE HD²
+http://trabalho724.top:8080/7csplay/seven2022/49778
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV MORENA CAMPO GRANDE SD¹" tvg-logo="http://contentsdeliver.link/logos/globosd.png" group-title="F16 M5 GLOBO",GLOBO TV MORENA CAMPO GRANDE SD¹
+http://trabalho724.top:8080/7csplay/seven2022/18559
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV MIRANTE FHD¹" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO TV MIRANTE FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/50101
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV MIRANTE FHD¹" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO TV MIRANTE FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/42935
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="GLOBO TV MIRANTE HD²" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO TV MIRANTE HD²
+http://trabalho724.top:8080/7csplay/seven2022/101725
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV MIRANTE SD¹" tvg-logo="http://contentsdeliver.link/logos/globosd.png" group-title="F16 M5 GLOBO",GLOBO TV MIRANTE SD¹
+http://trabalho724.top:8080/7csplay/seven2022/42936
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="GLOBO TV MIRANTE BALSAS HD²" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO TV MIRANTE BALSAS HD²
+http://trabalho724.top:8080/7csplay/seven2022/302660
+#EXTINF:-1 tvg-id="tv.mirante.cocais.br" tvg-name="GLOBO TV MIRANTE COCAIS HD²" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO TV MIRANTE COCAIS HD²
+http://trabalho724.top:8080/7csplay/seven2022/302661
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV MIRANTE IMPERATRIZ HD²" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO TV MIRANTE IMPERATRIZ HD²
+http://trabalho724.top:8080/7csplay/seven2022/302662
+#EXTINF:-1 tvg-id="aande.br" tvg-name="GLOBO VANGUARDA SJ DOS CAMPOS FHD²" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO VANGUARDA SJ DOS CAMPOS FHD²
+http://trabalho724.top:8080/7csplay/seven2022/18586
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO VANGUARDA SJ DOS CAMPOS SD¹" tvg-logo="http://contentsdeliver.link/logos/globosd.png" group-title="F16 M5 GLOBO",GLOBO VANGUARDA SJ DOS CAMPOS SD¹
+http://trabalho724.top:8080/7csplay/seven2022/18583
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO VANGUARDA SJ DOS CAMPOS HD²" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO VANGUARDA SJ DOS CAMPOS HD²
+http://trabalho724.top:8080/7csplay/seven2022/22244
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO VANGUARDA SJ DOS CAMPOS SD²" tvg-logo="http://contentsdeliver.link/logos/globosd.png" group-title="F16 M5 GLOBO",GLOBO VANGUARDA SJ DOS CAMPOS SD²
+http://trabalho724.top:8080/7csplay/seven2022/22246
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO VANGUARDA TAUBATE SD²" tvg-logo="http://contentsdeliver.link/logos/globosd.png" group-title="F16 M5 GLOBO",GLOBO VANGUARDA TAUBATE SD²
+http://trabalho724.top:8080/7csplay/seven2022/22251
+#EXTINF:-1 tvg-id="aande.br" tvg-name="GLOBO VERDES MARES FORTALEZA FHD¹" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO VERDES MARES FORTALEZA FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/29891
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO VERDES MARES FORTALEZA HD¹" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO VERDES MARES FORTALEZA HD¹
+http://trabalho724.top:8080/7csplay/seven2022/29578
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO VERDES MARES FORTALEZA HD²" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO VERDES MARES FORTALEZA HD²
+http://trabalho724.top:8080/7csplay/seven2022/29577
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="GLOBO VERDES MARES FORTALEZA SD¹" tvg-logo="http://contentsdeliver.link/logos/globosd.png" group-title="F16 M5 GLOBO",GLOBO VERDES MARES FORTALEZA SD¹
+http://trabalho724.top:8080/7csplay/seven2022/18584
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO VERDES MARES FORTALEZA SD²" tvg-logo="http://contentsdeliver.link/logos/globosd.png" group-title="F16 M5 GLOBO",GLOBO VERDES MARES FORTALEZA SD²
+http://trabalho724.top:8080/7csplay/seven2022/22241
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO ASA BRANCA FHD²" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO ASA BRANCA FHD²
+http://trabalho724.top:8080/7csplay/seven2022/109008
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO ASA BRANCA HD²" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO ASA BRANCA HD²
+http://trabalho724.top:8080/7csplay/seven2022/109009
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="GLOBO GAZETA SP HD²" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO GAZETA SP HD²
+http://trabalho724.top:8080/7csplay/seven2022/109010
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO INTER TV ALTO LITORAL HD²" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO INTER TV ALTO LITORAL HD²
+http://trabalho724.top:8080/7csplay/seven2022/109021
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO INTER TV DOS VALES MG FHD²" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO INTER TV DOS VALES MG FHD²
+http://trabalho724.top:8080/7csplay/seven2022/109022
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO INTER TV DOS VALES MG HD²" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO INTER TV DOS VALES MG HD²
+http://trabalho724.top:8080/7csplay/seven2022/109023
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO INTER TV RJ INTERIOR/SERRANA FHD²" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO INTER TV RJ INTERIOR/SERRANA FHD²
+http://trabalho724.top:8080/7csplay/seven2022/109024
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO INTER TV RJ INTERIOR/SERRANA HD²" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO INTER TV RJ INTERIOR/SERRANA HD²
+http://trabalho724.top:8080/7csplay/seven2022/109025
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO LIBERAL BELEM HD²" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO LIBERAL BELEM HD²
+http://trabalho724.top:8080/7csplay/seven2022/109026
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO PARAIBA HD²" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO PARAIBA HD²
+http://trabalho724.top:8080/7csplay/seven2022/109031
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="GLOBO RJ HD²" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO RJ HD²
+http://trabalho724.top:8080/7csplay/seven2022/109040
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO TV CLUBE PIAUI FHD²" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO TV CLUBE PIAUI FHD²
+http://trabalho724.top:8080/7csplay/seven2022/109051
+#EXTINF:-1 tvg-id="aande.br" tvg-name="GLOBO TV CLUBE PIAUI HD²" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO TV CLUBE PIAUI HD²
+http://trabalho724.top:8080/7csplay/seven2022/109052
+#EXTINF:-1 tvg-id="aande.br" tvg-name="GLOBO TV TEM ITAPETINGA FHD²" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO TV TEM ITAPETINGA FHD²
+http://trabalho724.top:8080/7csplay/seven2022/109054
+#EXTINF:-1 tvg-id="aande.br" tvg-name="GLOBO TV TEM ITAPETINGA HD²" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO TV TEM ITAPETINGA HD²
+http://trabalho724.top:8080/7csplay/seven2022/109055
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO TV TEM SJ RIO PRETO SD²" tvg-logo="http://contentsdeliver.link/logos/globosd.png" group-title="F16 M5 GLOBO",GLOBO TV TEM SJ RIO PRETO SD²
+http://trabalho724.top:8080/7csplay/seven2022/109056
+#EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="CNN BRASIL FHD²" tvg-logo="http://contentsdeliver.link/logos/cnnbrasilfhd.png" group-title="F16 M5 NOTÍCIAS",CNN BRASIL FHD²
+http://trabalho724.top:8080/7csplay/seven2022/18641
+#EXTINF:-1 tvg-id="cnn.br" tvg-name="CNN BRASIL FHD¹" tvg-logo="http://contentsdeliver.link/logos/cnnbrasilfhd.png" group-title="F16 M5 NOTÍCIAS",CNN BRASIL FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/22655
+#EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="CNN BRASIL HD²" tvg-logo="http://contentsdeliver.link/logos/cnnbrasilhd.png" group-title="F16 M5 NOTÍCIAS",CNN BRASIL HD²
+http://trabalho724.top:8080/7csplay/seven2022/18642
+#EXTINF:-1 tvg-id="cnn.br" tvg-name="CNN BRASIL HD¹" tvg-logo="http://contentsdeliver.link/logos/cnnbrasilhd.png" group-title="F16 M5 NOTÍCIAS",CNN BRASIL HD¹
+http://trabalho724.top:8080/7csplay/seven2022/22491
+#EXTINF:-1 tvg-id="cnn.br" tvg-name="CNN BRASIL SD²" tvg-logo="http://contentsdeliver.link/logos/cnnbrasilsd.png" group-title="F16 M5 NOTÍCIAS",CNN BRASIL SD²
+http://trabalho724.top:8080/7csplay/seven2022/18643
+#EXTINF:-1 tvg-id="cnn.br" tvg-name="CNN BRASIL SD¹" tvg-logo="http://contentsdeliver.link/logos/cnnbrasilsd.png" group-title="F16 M5 NOTÍCIAS",CNN BRASIL SD¹
+http://trabalho724.top:8080/7csplay/seven2022/22308
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="GLOBO NEWS FHD MAX²" tvg-logo="http://contentsdeliver.link/logos/globonewsfhdmax.png" group-title="F16 M5 NOTÍCIAS",GLOBO NEWS FHD MAX²
+http://trabalho724.top:8080/7csplay/seven2022/18645
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="GLOBO NEWS FHD²" tvg-logo="http://contentsdeliver.link/logos/globonewsfhd.png" group-title="F16 M5 NOTÍCIAS",GLOBO NEWS FHD²
+http://trabalho724.top:8080/7csplay/seven2022/50987
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="GLOBO NEWS FHD¹" tvg-logo="http://contentsdeliver.link/logos/globonewsfhd.png" group-title="F16 M5 NOTÍCIAS",GLOBO NEWS FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/22677
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="GLOBO NEWS HD²" tvg-logo="http://contentsdeliver.link/logos/globonewshd.png" group-title="F16 M5 NOTÍCIAS",GLOBO NEWS HD²
+http://trabalho724.top:8080/7csplay/seven2022/29586
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="GLOBO NEWS HD¹" tvg-logo="http://contentsdeliver.link/logos/globonewshd.png" group-title="F16 M5 NOTÍCIAS",GLOBO NEWS HD¹
+http://trabalho724.top:8080/7csplay/seven2022/22542
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="GLOBO NEWS SD²" tvg-logo="http://contentsdeliver.link/logos/globonewssd.png" group-title="F16 M5 NOTÍCIAS",GLOBO NEWS SD²
+http://trabalho724.top:8080/7csplay/seven2022/18571
+#EXTINF:-1 tvg-id="GloboNews" tvg-name="GLOBO NEWS SD¹" tvg-logo="http://contentsdeliver.link/logos/globonewssd.png" group-title="F16 M5 NOTÍCIAS",GLOBO NEWS SD¹
+http://trabalho724.top:8080/7csplay/seven2022/22346
+#EXTINF:-1 tvg-id="recordnews.br" tvg-name="RECORD NEWS FHD MAX²" tvg-logo="http://contentsdeliver.link/logos/recordnewsfhdmax.png" group-title="F16 M5 NOTÍCIAS",RECORD NEWS FHD MAX²
+http://trabalho724.top:8080/7csplay/seven2022/18644
+#EXTINF:-1 tvg-id="recordnews.br" tvg-name="RECORD NEWS FHD¹" tvg-logo="http://contentsdeliver.link/logos/recordnewsfhd.png" group-title="F16 M5 NOTÍCIAS",RECORD NEWS FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/22699
+#EXTINF:-1 tvg-id="recordnews.br" tvg-name="RECORD NEWS HD²" tvg-logo="http://contentsdeliver.link/logos/recordnewshd.png" group-title="F16 M5 NOTÍCIAS",RECORD NEWS HD²
+http://trabalho724.top:8080/7csplay/seven2022/18592
+#EXTINF:-1 tvg-id="recordnews.br" tvg-name="RECORD NEWS HD¹" tvg-logo="http://contentsdeliver.link/logos/recordnewshd.png" group-title="F16 M5 NOTÍCIAS",RECORD NEWS HD¹
+http://trabalho724.top:8080/7csplay/seven2022/22599
+#EXTINF:-1 tvg-id="recordnews.br" tvg-name="RECORD NEWS SD²" tvg-logo="http://contentsdeliver.link/logos/recordnewssd.png" group-title="F16 M5 NOTÍCIAS",RECORD NEWS SD²
+http://trabalho724.top:8080/7csplay/seven2022/18628
+#EXTINF:-1 tvg-id="recordnews.br" tvg-name="RECORD NEWS SD¹" tvg-logo="http://contentsdeliver.link/logos/recordnewssd.png" group-title="F16 M5 NOTÍCIAS",RECORD NEWS SD¹
+http://trabalho724.top:8080/7csplay/seven2022/22378
+#EXTINF:-1 tvg-id="bandnews.br" tvg-name="BAND NEWS FHD²" tvg-logo="http://contentsdeliver.link/logos/bandnewsfhd.png" group-title="F16 M5 NOTÍCIAS",BAND NEWS FHD²
+http://trabalho724.top:8080/7csplay/seven2022/45064
+#EXTINF:-1 tvg-id="bandnews.br" tvg-name="BAND NEWS FHD¹" tvg-logo="http://contentsdeliver.link/logos/bandnewsfhd.png" group-title="F16 M5 NOTÍCIAS",BAND NEWS FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/22641
+#EXTINF:-1 tvg-id="bandnews.br" tvg-name="BAND NEWS HD²" tvg-logo="http://contentsdeliver.link/logos/bandnewshd.png" group-title="F16 M5 NOTÍCIAS",BAND NEWS HD²
+http://trabalho724.top:8080/7csplay/seven2022/18617
+#EXTINF:-1 tvg-id="bandnews.br" tvg-name="BAND NEWS HD¹" tvg-logo="http://contentsdeliver.link/logos/bandnewshd.png" group-title="F16 M5 NOTÍCIAS",BAND NEWS HD¹
+http://trabalho724.top:8080/7csplay/seven2022/22461
+#EXTINF:-1 tvg-id="bandnews.br" tvg-name="BAND NEWS SD¹" tvg-logo="http://contentsdeliver.link/logos/bandnewssd.png" group-title="F16 M5 NOTÍCIAS",BAND NEWS SD¹
+http://trabalho724.top:8080/7csplay/seven2022/18638
+#EXTINF:-1 tvg-id="bandnews.br" tvg-name="BAND NEWS SD²" tvg-logo="http://contentsdeliver.link/logos/bandnewssd.png" group-title="F16 M5 NOTÍCIAS",BAND NEWS SD²
+http://trabalho724.top:8080/7csplay/seven2022/22298
+#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E FHD¹" tvg-logo="http://contentsdeliver.link/logos/aeefhd.png" group-title="F16 M5 FILMES E SÉRIES",A&E FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/18904
+#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E FHD²" tvg-logo="http://contentsdeliver.link/logos/aeefhd.png" group-title="F16 M5 FILMES E SÉRIES",A&E FHD²
+http://trabalho724.top:8080/7csplay/seven2022/22636
+#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E HD¹" tvg-logo="http://contentsdeliver.link/logos/aeehd.png" group-title="F16 M5 FILMES E SÉRIES",A&E HD¹
+http://trabalho724.top:8080/7csplay/seven2022/18787
+#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E HD²" tvg-logo="http://contentsdeliver.link/logos/aeehd.png" group-title="F16 M5 FILMES E SÉRIES",A&E HD²
+http://trabalho724.top:8080/7csplay/seven2022/22455
+#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E SD¹" tvg-logo="http://contentsdeliver.link/logos/aeesd.png" group-title="F16 M5 FILMES E SÉRIES",A&E SD¹
+http://trabalho724.top:8080/7csplay/seven2022/18720
+#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E SD²" tvg-logo="http://contentsdeliver.link/logos/aeesd.png" group-title="F16 M5 FILMES E SÉRIES",A&E SD²
+http://trabalho724.top:8080/7csplay/seven2022/22291
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC FHD¹" tvg-logo="http://contentsdeliver.link/logos/amcfhd.png" group-title="F16 M5 FILMES E SÉRIES",AMC FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/45204
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC FHD²" tvg-logo="http://contentsdeliver.link/logos/amcfhd.png" group-title="F16 M5 FILMES E SÉRIES",AMC FHD²
+http://trabalho724.top:8080/7csplay/seven2022/160761
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD¹" tvg-logo="http://contentsdeliver.link/logos/amchd.png" group-title="F16 M5 FILMES E SÉRIES",AMC HD¹
+http://trabalho724.top:8080/7csplay/seven2022/18788
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD²" tvg-logo="http://contentsdeliver.link/logos/amchd.png" group-title="F16 M5 FILMES E SÉRIES",AMC HD²
+http://trabalho724.top:8080/7csplay/seven2022/22637
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC SD¹" tvg-logo="http://contentsdeliver.link/logos/amcsd.png" group-title="F16 M5 FILMES E SÉRIES",AMC SD¹
+http://trabalho724.top:8080/7csplay/seven2022/160762
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC SD²" tvg-logo="http://contentsdeliver.link/logos/amcsd.png" group-title="F16 M5 FILMES E SÉRIES",AMC SD²
+http://trabalho724.top:8080/7csplay/seven2022/22292
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="ANIMAL PLANET FHD¹" tvg-logo="http://contentsdeliver.link/logos/animalplanetfhd.png" group-title="F16 M5 DOCUMENTÁRIOS",ANIMAL PLANET FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/35617
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="ANIMAL PLANET FHD²" tvg-logo="http://contentsdeliver.link/logos/animalplanetfhd.png" group-title="F16 M5 DOCUMENTÁRIOS",ANIMAL PLANET FHD²
+http://trabalho724.top:8080/7csplay/seven2022/22638
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="ANIMAL PLANET HD¹" tvg-logo="http://contentsdeliver.link/logos/animalplanethd.png" group-title="F16 M5 DOCUMENTÁRIOS",ANIMAL PLANET HD¹
+http://trabalho724.top:8080/7csplay/seven2022/18789
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="ANIMAL PLANET HD²" tvg-logo="http://contentsdeliver.link/logos/animalplanethd.png" group-title="F16 M5 DOCUMENTÁRIOS",ANIMAL PLANET HD²
+http://trabalho724.top:8080/7csplay/seven2022/22457
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="ANIMAL PLANET SD¹" tvg-logo="http://contentsdeliver.link/logos/animalplanetsd.png" group-title="F16 M5 DOCUMENTÁRIOS",ANIMAL PLANET SD¹
+http://trabalho724.top:8080/7csplay/seven2022/22293
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="ANIMAL PLANET SD²" tvg-logo="http://contentsdeliver.link/logos/animalplanetsd.png" group-title="F16 M5 DOCUMENTÁRIOS",ANIMAL PLANET SD²
+http://trabalho724.top:8080/7csplay/seven2022/18722
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN FHD¹" tvg-logo="http://contentsdeliver.link/logos/axnfhd.png" group-title="F16 M5 FILMES E SÉRIES",AXN FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/45205
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN FHD²" tvg-logo="http://contentsdeliver.link/logos/axnfhd.png" group-title="F16 M5 FILMES E SÉRIES",AXN FHD²
+http://trabalho724.top:8080/7csplay/seven2022/22640
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD¹" tvg-logo="http://contentsdeliver.link/logos/axnhd.png" group-title="F16 M5 FILMES E SÉRIES",AXN HD¹
+http://trabalho724.top:8080/7csplay/seven2022/18791
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD²" tvg-logo="http://contentsdeliver.link/logos/axnhd.png" group-title="F16 M5 FILMES E SÉRIES",AXN HD²
+http://trabalho724.top:8080/7csplay/seven2022/22459
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN SD²" tvg-logo="http://contentsdeliver.link/logos/axnsd.png" group-title="F16 M5 FILMES E SÉRIES",AXN SD²
+http://trabalho724.top:8080/7csplay/seven2022/22295
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN SD¹" tvg-logo="http://contentsdeliver.link/logos/axnsd.png" group-title="F16 M5 FILMES E SÉRIES",AXN SD¹
+http://trabalho724.top:8080/7csplay/seven2022/18724
+#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="CANAL BRASIL FHD¹" tvg-logo="http://contentsdeliver.link/logos/canalbrasilfhd.png" group-title="F16 M5 FILMES E SÉRIES",CANAL BRASIL FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/59646
+#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="CANAL BRASIL FHD²" tvg-logo="http://contentsdeliver.link/logos/canalbrasilfhd.png" group-title="F16 M5 FILMES E SÉRIES",CANAL BRASIL FHD²
+http://trabalho724.top:8080/7csplay/seven2022/64705
+#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="CANAL BRASIL HD¹" tvg-logo="http://contentsdeliver.link/logos/canalbrasilhd.png" group-title="F16 M5 FILMES E SÉRIES",CANAL BRASIL HD¹
+http://trabalho724.top:8080/7csplay/seven2022/59645
+#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="CANAL BRASIL HD²" tvg-logo="http://contentsdeliver.link/logos/canalbrasilhd.png" group-title="F16 M5 FILMES E SÉRIES",CANAL BRASIL HD²
+http://trabalho724.top:8080/7csplay/seven2022/64704
+#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="CANAL BRASIL SD¹" tvg-logo="http://contentsdeliver.link/logos/canalbrasilsd.png" group-title="F16 M5 FILMES E SÉRIES",CANAL BRASIL SD¹
+http://trabalho724.top:8080/7csplay/seven2022/160765
+#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="CANAL BRASIL SD²" tvg-logo="http://contentsdeliver.link/logos/canalbrasilsd.png" group-title="F16 M5 FILMES E SÉRIES",CANAL BRASIL SD²
+http://trabalho724.top:8080/7csplay/seven2022/22303
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX FHD¹" tvg-logo="http://contentsdeliver.link/logos/cinemaxfhd.png" group-title="F16 M5 FILMES E SÉRIES",CINEMAX FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/45206
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX FHD²" tvg-logo="http://contentsdeliver.link/logos/cinemaxfhd.png" group-title="F16 M5 FILMES E SÉRIES",CINEMAX FHD²
+http://trabalho724.top:8080/7csplay/seven2022/22654
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX HD¹" tvg-logo="http://contentsdeliver.link/logos/cinemaxhd.png" group-title="F16 M5 FILMES E SÉRIES",CINEMAX HD¹
+http://trabalho724.top:8080/7csplay/seven2022/18813
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX HD²" tvg-logo="http://contentsdeliver.link/logos/cinemaxhd.png" group-title="F16 M5 FILMES E SÉRIES",CINEMAX HD²
+http://trabalho724.top:8080/7csplay/seven2022/22490
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX SD¹" tvg-logo="http://contentsdeliver.link/logos/cinemaxsd.png" group-title="F16 M5 FILMES E SÉRIES",CINEMAX SD¹
+http://trabalho724.top:8080/7csplay/seven2022/18726
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX SD²" tvg-logo="http://contentsdeliver.link/logos/cinemaxsd.png" group-title="F16 M5 FILMES E SÉRIES",CINEMAX SD²
+http://trabalho724.top:8080/7csplay/seven2022/22307
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX FHD¹" tvg-logo="http://contentsdeliver.link/logos/megapixfhd.png" group-title="F16 M5 FILMES E SÉRIES",MEGAPIX FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/45207
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX FHD²" tvg-logo="http://contentsdeliver.link/logos/megapixfhd.png" group-title="F16 M5 FILMES E SÉRIES",MEGAPIX FHD²
+http://trabalho724.top:8080/7csplay/seven2022/22691
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX HD¹" tvg-logo="http://contentsdeliver.link/logos/megapixhd.png" group-title="F16 M5 FILMES E SÉRIES",MEGAPIX HD¹
+http://trabalho724.top:8080/7csplay/seven2022/18847
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX HD²" tvg-logo="http://contentsdeliver.link/logos/megapixhd.png" group-title="F16 M5 FILMES E SÉRIES",MEGAPIX HD²
+http://trabalho724.top:8080/7csplay/seven2022/22585
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX SD¹" tvg-logo="http://contentsdeliver.link/logos/megapixsd.png" group-title="F16 M5 FILMES E SÉRIES",MEGAPIX SD¹
+http://trabalho724.top:8080/7csplay/seven2022/160763
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX SD²" tvg-logo="http://contentsdeliver.link/logos/megapixsd.png" group-title="F16 M5 FILMES E SÉRIES",MEGAPIX SD²
+http://trabalho724.top:8080/7csplay/seven2022/22365
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT FHD¹" tvg-logo="http://contentsdeliver.link/logos/paramountnetworkfhd.png" group-title="F16 M5 FILMES E SÉRIES",PARAMOUNT FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/45208
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT FHD²" tvg-logo="http://contentsdeliver.link/logos/paramountnetworkfhd.png" group-title="F16 M5 FILMES E SÉRIES",PARAMOUNT FHD²
+http://trabalho724.top:8080/7csplay/seven2022/22698
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT HD¹" tvg-logo="http://contentsdeliver.link/logos/paramountnetworkhd.png" group-title="F16 M5 FILMES E SÉRIES",PARAMOUNT HD¹
+http://trabalho724.top:8080/7csplay/seven2022/18852
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT HD²" tvg-logo="http://contentsdeliver.link/logos/paramountnetworkhd.png" group-title="F16 M5 FILMES E SÉRIES",PARAMOUNT HD²
+http://trabalho724.top:8080/7csplay/seven2022/22595
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT SD¹" tvg-logo="http://contentsdeliver.link/logos/paramountnetworksd.png" group-title="F16 M5 FILMES E SÉRIES",PARAMOUNT SD¹
+http://trabalho724.top:8080/7csplay/seven2022/18756
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT SD²" tvg-logo="http://contentsdeliver.link/logos/paramountnetworksd.png" group-title="F16 M5 FILMES E SÉRIES",PARAMOUNT SD²
+http://trabalho724.top:8080/7csplay/seven2022/22374
+#EXTINF:-1 tvg-id="sony.br" tvg-name="SONY FHD¹" tvg-logo="http://contentsdeliver.link/logos/sonychannelfhd.png" group-title="F16 M5 FILMES E SÉRIES",SONY FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/45209
+#EXTINF:-1 tvg-id="sony.br" tvg-name="SONY FHD²" tvg-logo="http://contentsdeliver.link/logos/sonychannelfhd.png" group-title="F16 M5 FILMES E SÉRIES",SONY FHD²
+http://trabalho724.top:8080/7csplay/seven2022/22704
+#EXTINF:-1 tvg-id="sony.br" tvg-name="SONY HD¹" tvg-logo="http://contentsdeliver.link/logos/sonychannelhd.png" group-title="F16 M5 FILMES E SÉRIES",SONY HD¹
+http://trabalho724.top:8080/7csplay/seven2022/18860
+#EXTINF:-1 tvg-id="sony.br" tvg-name="SONY HD²" tvg-logo="http://contentsdeliver.link/logos/sonychannelhd.png" group-title="F16 M5 FILMES E SÉRIES",SONY HD²
+http://trabalho724.top:8080/7csplay/seven2022/22610
+#EXTINF:-1 tvg-id="sony.br" tvg-name="SONY SD¹" tvg-logo="http://contentsdeliver.link/logos/sonychannelsd.png" group-title="F16 M5 FILMES E SÉRIES",SONY SD¹
+http://trabalho724.top:8080/7csplay/seven2022/18765
+#EXTINF:-1 tvg-id="sony.br" tvg-name="SONY SD²" tvg-logo="http://contentsdeliver.link/logos/sonychannelhd.png" group-title="F16 M5 FILMES E SÉRIES",SONY SD²
+http://trabalho724.top:8080/7csplay/seven2022/22388
+#EXTINF:-1 tvg-id="" tvg-name="BA: Anos Dourados FM" tvg-logo="http://contentsdeliver.link/logos/radio.png" group-title="F16 M5 RÁDIOS",BA: Anos Dourados FM
+http://trabalho724.top:8080/7csplay/seven2022/31570
+#EXTINF:-1 tvg-id="" tvg-name="BA: Piatã FM 94,3" tvg-logo="http://contentsdeliver.link/logos/radio.png" group-title="F16 M5 RÁDIOS",BA: Piatã FM 94,3
+http://trabalho724.top:8080/7csplay/seven2022/31566
+#EXTINF:-1 tvg-id="" tvg-name="BA: Rádio Axé Bahia" tvg-logo="http://contentsdeliver.link/logos/radio.png" group-title="F16 M5 RÁDIOS",BA: Rádio Axé Bahia
+http://trabalho724.top:8080/7csplay/seven2022/31572
+#EXTINF:-1 tvg-id="" tvg-name="BA: Rádio Bahia FM 88.7" tvg-logo="http://contentsdeliver.link/logos/radio.png" group-title="F16 M5 RÁDIOS",BA: Rádio Bahia FM 88.7
+http://trabalho724.top:8080/7csplay/seven2022/31569
+#EXTINF:-1 tvg-id="" tvg-name="BA: Rádio Itapoan FM" tvg-logo="http://contentsdeliver.link/logos/radio.png" group-title="F16 M5 RÁDIOS",BA: Rádio Itapoan FM
+http://trabalho724.top:8080/7csplay/seven2022/31571
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO FHD¹" tvg-logo="http://contentsdeliver.link/logos/hbofhd.png" group-title="F16 M5 HBO",HBO FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/45220
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO FHD²" tvg-logo="http://contentsdeliver.link/logos/hbofhd.png" group-title="F16 M5 HBO",HBO FHD²
+http://trabalho724.top:8080/7csplay/seven2022/22681
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD¹" tvg-logo="http://contentsdeliver.link/logos/hbohd.png" group-title="F16 M5 HBO",HBO HD¹
+http://trabalho724.top:8080/7csplay/seven2022/18836
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD²" tvg-logo="http://contentsdeliver.link/logos/hbohd.png" group-title="F16 M5 HBO",HBO HD²
+http://trabalho724.top:8080/7csplay/seven2022/22550
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO SD¹" tvg-logo="http://contentsdeliver.link/logos/hbosd.png" group-title="F16 M5 HBO",HBO SD¹
+http://trabalho724.top:8080/7csplay/seven2022/18743
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO SD²" tvg-logo="http://contentsdeliver.link/logos/hbosd.png" group-title="F16 M5 HBO",HBO SD²
+http://trabalho724.top:8080/7csplay/seven2022/22357
+#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 FHD¹" tvg-logo="http://contentsdeliver.link/logos/hbo2fhd.png" group-title="F16 M5 HBO",HBO 2 FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/42932
+#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 FHD²" tvg-logo="http://contentsdeliver.link/logos/hbo2fhd.png" group-title="F16 M5 HBO",HBO 2 FHD²
+http://trabalho724.top:8080/7csplay/seven2022/22680
+#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 HD¹" tvg-logo="http://contentsdeliver.link/logos/hbo2hd.png" group-title="F16 M5 HBO",HBO 2 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/18834
+#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 HD²" tvg-logo="http://contentsdeliver.link/logos/hbo2hd.png" group-title="F16 M5 HBO",HBO 2 HD²
+http://trabalho724.top:8080/7csplay/seven2022/22548
+#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 SD¹" tvg-logo="http://contentsdeliver.link/logos/hbo2sd.png" group-title="F16 M5 HBO",HBO 2 SD¹
+http://trabalho724.top:8080/7csplay/seven2022/18738
+#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 SD²" tvg-logo="http://contentsdeliver.link/logos/hbo2sd.png" group-title="F16 M5 HBO",HBO 2 SD²
+http://trabalho724.top:8080/7csplay/seven2022/22352
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO FAMILY FHD¹" tvg-logo="http://contentsdeliver.link/logos/hbofamilyfhd.png" group-title="F16 M5 HBO",HBO FAMILY FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/42933
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO FAMILY FHD²" tvg-logo="http://contentsdeliver.link/logos/hbofamilyfhd.png" group-title="F16 M5 HBO",HBO FAMILY FHD²
+http://trabalho724.top:8080/7csplay/seven2022/45221
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO FAMILY HD¹" tvg-logo="http://contentsdeliver.link/logos/hbofamilyhd.png" group-title="F16 M5 HBO",HBO FAMILY HD¹
+http://trabalho724.top:8080/7csplay/seven2022/18835
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO FAMILY HD²" tvg-logo="http://contentsdeliver.link/logos/hbofamilyhd.png" group-title="F16 M5 HBO",HBO FAMILY HD²
+http://trabalho724.top:8080/7csplay/seven2022/22549
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO FAMILY SD¹" tvg-logo="http://contentsdeliver.link/logos/hbofamilysd.png" group-title="F16 M5 HBO",HBO FAMILY SD¹
+http://trabalho724.top:8080/7csplay/seven2022/18739
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO FAMILY SD²" tvg-logo="http://contentsdeliver.link/logos/hbofamilysd.png" group-title="F16 M5 HBO",HBO FAMILY SD²
+http://trabalho724.top:8080/7csplay/seven2022/22353
+#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO MUNDI FHD¹" tvg-logo="http://contentsdeliver.link/logos/hbomundifhd.png" group-title="F16 M5 HBO",HBO MUNDI FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/42931
+#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO MUNDI FHD²" tvg-logo="http://contentsdeliver.link/logos/hbomundifhd.png" group-title="F16 M5 HBO",HBO MUNDI FHD²
+http://trabalho724.top:8080/7csplay/seven2022/22682
+#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO MUNDI HD¹" tvg-logo="http://contentsdeliver.link/logos/hbomundihd.png" group-title="F16 M5 HBO",HBO MUNDI HD¹
+http://trabalho724.top:8080/7csplay/seven2022/18837
+#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO MUNDI HD²" tvg-logo="http://contentsdeliver.link/logos/hbomundihd.png" group-title="F16 M5 HBO",HBO MUNDI HD²
+http://trabalho724.top:8080/7csplay/seven2022/22551
+#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO MUNDI SD¹" tvg-logo="http://contentsdeliver.link/logos/hbomundisd.png" group-title="F16 M5 HBO",HBO MUNDI SD¹
+http://trabalho724.top:8080/7csplay/seven2022/18740
+#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO PLUS FHD¹" tvg-logo="http://contentsdeliver.link/logos/hboplusfhd.png" group-title="F16 M5 HBO",HBO PLUS FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/42934
+#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO PLUS FHD²" tvg-logo="http://contentsdeliver.link/logos/hboplusfhd.png" group-title="F16 M5 HBO",HBO PLUS FHD²
+http://trabalho724.top:8080/7csplay/seven2022/22683
+#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO PLUS HD¹" tvg-logo="http://contentsdeliver.link/logos/hboplushd.png" group-title="F16 M5 HBO",HBO PLUS HD¹
+http://trabalho724.top:8080/7csplay/seven2022/18838
+#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO PLUS HD²" tvg-logo="http://contentsdeliver.link/logos/hboplushd.png" group-title="F16 M5 HBO",HBO PLUS HD²
+http://trabalho724.top:8080/7csplay/seven2022/22552
+#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO PLUS SD¹" tvg-logo="http://contentsdeliver.link/logos/hboplussd.png" group-title="F16 M5 HBO",HBO PLUS SD¹
+http://trabalho724.top:8080/7csplay/seven2022/18741
+#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO PLUS SD²" tvg-logo="http://contentsdeliver.link/logos/hboplussd.png" group-title="F16 M5 HBO",HBO PLUS SD²
+http://trabalho724.top:8080/7csplay/seven2022/22355
+#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO POP FHD¹" tvg-logo="http://contentsdeliver.link/logos/hbopopfhd.png" group-title="F16 M5 HBO",HBO POP FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/42930
+#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO POP FHD²" tvg-logo="http://contentsdeliver.link/logos/hbopopfhd.png" group-title="F16 M5 HBO",HBO POP FHD²
+http://trabalho724.top:8080/7csplay/seven2022/22684
+#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO POP HD¹" tvg-logo="http://contentsdeliver.link/logos/hbopophd.png" group-title="F16 M5 HBO",HBO POP HD¹
+http://trabalho724.top:8080/7csplay/seven2022/18839
+#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO POP HD²" tvg-logo="http://contentsdeliver.link/logos/hbopophd.png" group-title="F16 M5 HBO",HBO POP HD²
+http://trabalho724.top:8080/7csplay/seven2022/22553
+#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO POP SD¹" tvg-logo="http://contentsdeliver.link/logos/hbopopsd.png" group-title="F16 M5 HBO",HBO POP SD¹
+http://trabalho724.top:8080/7csplay/seven2022/18742
+#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO SIGNATURE FHD¹" tvg-logo="http://contentsdeliver.link/logos/hbosignaturefhd.png" group-title="F16 M5 HBO",HBO SIGNATURE FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/42929
+#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO SIGNATURE FHD²" tvg-logo="http://contentsdeliver.link/logos/hbosignaturefhd.png" group-title="F16 M5 HBO",HBO SIGNATURE FHD²
+http://trabalho724.top:8080/7csplay/seven2022/22685
+#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO SIGNATURE HD¹" tvg-logo="http://contentsdeliver.link/logos/hbosignaturehd.png" group-title="F16 M5 HBO",HBO SIGNATURE HD¹
+http://trabalho724.top:8080/7csplay/seven2022/18840
+#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO SIGNATURE HD²" tvg-logo="http://contentsdeliver.link/logos/hbosignaturehd.png" group-title="F16 M5 HBO",HBO SIGNATURE HD²
+http://trabalho724.top:8080/7csplay/seven2022/22554
+#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO SIGNATURE SD¹" tvg-logo="http://contentsdeliver.link/logos/hbosignaturesd.png" group-title="F16 M5 HBO",HBO SIGNATURE SD¹
+http://trabalho724.top:8080/7csplay/seven2022/18744
+#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO SIGNATURE SD²" tvg-logo="http://contentsdeliver.link/logos/hbosignaturesd.png" group-title="F16 M5 HBO",HBO SIGNATURE SD²
+http://trabalho724.top:8080/7csplay/seven2022/22358
+#EXTINF:-1 tvg-id="aande.br" tvg-name="HBO XTREME FHD¹" tvg-logo="http://contentsdeliver.link/logos/hboxtremefhd.png" group-title="F16 M5 HBO",HBO XTREME FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/45222
+#EXTINF:-1 tvg-id="aande.br" tvg-name="HBO XTREME FHD²" tvg-logo="http://contentsdeliver.link/logos/hboxtremefhd.png" group-title="F16 M5 HBO",HBO XTREME FHD²
+http://trabalho724.top:8080/7csplay/seven2022/22686
+#EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBO XTREME HD¹" tvg-logo="http://contentsdeliver.link/logos/hboxtremehd.png" group-title="F16 M5 HBO",HBO XTREME HD¹
+http://trabalho724.top:8080/7csplay/seven2022/18841
+#EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBO XTREME HD²" tvg-logo="http://contentsdeliver.link/logos/hboxtremehd.png" group-title="F16 M5 HBO",HBO XTREME HD²
+http://trabalho724.top:8080/7csplay/seven2022/22555
+#EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBO XTREME SD¹" tvg-logo="http://contentsdeliver.link/logos/hboxtremesd.png" group-title="F16 M5 HBO",HBO XTREME SD¹
+http://trabalho724.top:8080/7csplay/seven2022/18745
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV FHD¹" tvg-logo="http://contentsdeliver.link/logos/hgtvfhd.png" group-title="F16 M5 DOCUMENTÁRIOS",HGTV FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/18935
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV FHD²" tvg-logo="http://contentsdeliver.link/logos/hgtvfhd.png" group-title="F16 M5 DOCUMENTÁRIOS",HGTV FHD²
+http://trabalho724.top:8080/7csplay/seven2022/22687
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV HD¹" tvg-logo="http://contentsdeliver.link/logos/hgtvhd.png" group-title="F16 M5 DOCUMENTÁRIOS",HGTV HD¹
+http://trabalho724.top:8080/7csplay/seven2022/18842
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV HD²" tvg-logo="http://contentsdeliver.link/logos/hgtvhd.png" group-title="F16 M5 DOCUMENTÁRIOS",HGTV HD²
+http://trabalho724.top:8080/7csplay/seven2022/22556
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV SD¹" tvg-logo="http://contentsdeliver.link/logos/hgtvsd.png" group-title="F16 M5 DOCUMENTÁRIOS",HGTV SD¹
+http://trabalho724.top:8080/7csplay/seven2022/22360
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV SD²" tvg-logo="http://contentsdeliver.link/logos/hgtvsd.png" group-title="F16 M5 DOCUMENTÁRIOS",HGTV SD²
+http://trabalho724.top:8080/7csplay/seven2022/18746
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="TELECINE ACTION FHD¹" tvg-logo="http://free-image-hosting.top/logos/telecineactionfhd.png" group-title="F16 M5 TELECINE",TELECINE ACTION FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/18964
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="TELECINE ACTION FHD²" tvg-logo="http://contentsdeliver.link/logos/telecineactionfhd.png" group-title="F16 M5 TELECINE",TELECINE ACTION FHD²
+http://trabalho724.top:8080/7csplay/seven2022/22711
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="TELECINE ACTION HD¹" tvg-logo="http://free-image-hosting.top/logos/telecineactionhd.png" group-title="F16 M5 TELECINE",TELECINE ACTION HD¹
+http://trabalho724.top:8080/7csplay/seven2022/18868
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="TELECINE ACTION HD²" tvg-logo="http://contentsdeliver.link/logos/telecineactionhd.png" group-title="F16 M5 TELECINE",TELECINE ACTION HD²
+http://trabalho724.top:8080/7csplay/seven2022/22617
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="TELECINE ACTION SD¹" tvg-logo="http://free-image-hosting.top/logos/telecineactionsd.png" group-title="F16 M5 TELECINE",TELECINE ACTION SD¹
+http://trabalho724.top:8080/7csplay/seven2022/18774
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="TELECINE ACTION SD²" tvg-logo="http://contentsdeliver.link/logos/telecineactionsd.png" group-title="F16 M5 TELECINE",TELECINE ACTION SD²
+http://trabalho724.top:8080/7csplay/seven2022/22397
+#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="TELECINE CULT FHD¹" tvg-logo="http://contentsdeliver.link/logos/telecinecultfhd.png" group-title="F16 M5 TELECINE",TELECINE CULT FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/18965
+#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="TELECINE CULT FHD²" tvg-logo="http://contentsdeliver.link/logos/telecinecultfhd.png" group-title="F16 M5 TELECINE",TELECINE CULT FHD²
+http://trabalho724.top:8080/7csplay/seven2022/22712
+#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="TELECINE CULT HD¹" tvg-logo="http://contentsdeliver.link/logos/telecineculthd.png" group-title="F16 M5 TELECINE",TELECINE CULT HD¹
+http://trabalho724.top:8080/7csplay/seven2022/18869
+#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="TELECINE CULT HD²" tvg-logo="http://contentsdeliver.link/logos/telecineculthd.png" group-title="F16 M5 TELECINE",TELECINE CULT HD²
+http://trabalho724.top:8080/7csplay/seven2022/22618
+#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="TELECINE CULT SD¹" tvg-logo="http://contentsdeliver.link/logos/telecinecultsd.png" group-title="F16 M5 TELECINE",TELECINE CULT SD¹
+http://trabalho724.top:8080/7csplay/seven2022/18775
+#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="TELECINE CULT SD²" tvg-logo="http://contentsdeliver.link/logos/telecinecultsd.png" group-title="F16 M5 TELECINE",TELECINE CULT SD²
+http://trabalho724.top:8080/7csplay/seven2022/22398
+#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="TELECINE FUN FHD MAX¹" tvg-logo="http://contentsdeliver.link/logos/telecinefunfhdmax.png" group-title="F16 M5 TELECINE",TELECINE FUN FHD MAX¹
+http://trabalho724.top:8080/7csplay/seven2022/18966
+#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="TELECINE FUN FHD²" tvg-logo="http://contentsdeliver.link/logos/telecinefunfhd.png" group-title="F16 M5 TELECINE",TELECINE FUN FHD²
+http://trabalho724.top:8080/7csplay/seven2022/22713
+#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="TELECINE FUN HD¹" tvg-logo="http://contentsdeliver.link/logos/telecinefunhd.png" group-title="F16 M5 TELECINE",TELECINE FUN HD¹
+http://trabalho724.top:8080/7csplay/seven2022/18870
+#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="TELECINE FUN HD²" tvg-logo="http://contentsdeliver.link/logos/telecinefunhd.png" group-title="F16 M5 TELECINE",TELECINE FUN HD²
+http://trabalho724.top:8080/7csplay/seven2022/22619
+#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="TELECINE FUN SD¹" tvg-logo="http://contentsdeliver.link/logos/telecinefunsd.png" group-title="F16 M5 TELECINE",TELECINE FUN SD¹
+http://trabalho724.top:8080/7csplay/seven2022/22399
+#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="TELECINE FUN SD²" tvg-logo="http://contentsdeliver.link/logos/telecinefunsd.png" group-title="F16 M5 TELECINE",TELECINE FUN SD²
+http://trabalho724.top:8080/7csplay/seven2022/18776
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="TELECINE PIPOCA FHD¹" tvg-logo="http://contentsdeliver.link/logos/telecinepipocafhd.png" group-title="F16 M5 TELECINE",TELECINE PIPOCA FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/18967
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="TELECINE PIPOCA FHD²" tvg-logo="http://contentsdeliver.link/logos/telecinepipocafhd.png" group-title="F16 M5 TELECINE",TELECINE PIPOCA FHD²
+http://trabalho724.top:8080/7csplay/seven2022/22714
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="TELECINE PIPOCA HD¹" tvg-logo="http://contentsdeliver.link/logos/telecinepipocahd.png" group-title="F16 M5 TELECINE",TELECINE PIPOCA HD¹
+http://trabalho724.top:8080/7csplay/seven2022/18871
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="TELECINE PIPOCA HD²" tvg-logo="http://contentsdeliver.link/logos/telecinepipocahd.png" group-title="F16 M5 TELECINE",TELECINE PIPOCA HD²
+http://trabalho724.top:8080/7csplay/seven2022/22620
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="TELECINE PIPOCA SD¹" tvg-logo="http://contentsdeliver.link/logos/telecinepipocasd.png" group-title="F16 M5 TELECINE",TELECINE PIPOCA SD¹
+http://trabalho724.top:8080/7csplay/seven2022/18777
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="TELECINE PIPOCA SD²" tvg-logo="http://contentsdeliver.link/logos/telecinepipocasd.png" group-title="F16 M5 TELECINE",TELECINE PIPOCA SD²
+http://trabalho724.top:8080/7csplay/seven2022/22400
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TELECINE PREMIUM FHD¹" tvg-logo="http://contentsdeliver.link/logos/telecinepremiumfhd.png" group-title="F16 M5 TELECINE",TELECINE PREMIUM FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/18968
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TELECINE PREMIUM FHD²" tvg-logo="http://contentsdeliver.link/logos/telecinepremiumfhd.png" group-title="F16 M5 TELECINE",TELECINE PREMIUM FHD²
+http://trabalho724.top:8080/7csplay/seven2022/22715
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TELECINE PREMIUM HD¹" tvg-logo="http://contentsdeliver.link/logos/telecinepremiumhd.png" group-title="F16 M5 TELECINE",TELECINE PREMIUM HD¹
+http://trabalho724.top:8080/7csplay/seven2022/18872
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TELECINE PREMIUM HD²" tvg-logo="http://contentsdeliver.link/logos/telecinepremiumhd.png" group-title="F16 M5 TELECINE",TELECINE PREMIUM HD²
+http://trabalho724.top:8080/7csplay/seven2022/22621
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TELECINE PREMIUM SD¹" tvg-logo="http://contentsdeliver.link/logos/telecinepremiumsd.png" group-title="F16 M5 TELECINE",TELECINE PREMIUM SD¹
+http://trabalho724.top:8080/7csplay/seven2022/18778
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TELECINE PREMIUM SD²" tvg-logo="http://contentsdeliver.link/logos/telecinepremiumsd.png" group-title="F16 M5 TELECINE",TELECINE PREMIUM SD²
+http://trabalho724.top:8080/7csplay/seven2022/22401
+#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="TELECINE TOUCH FHD¹" tvg-logo="http://contentsdeliver.link/logos/telecinetouchfhd.png" group-title="F16 M5 TELECINE",TELECINE TOUCH FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/18969
+#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="TELECINE TOUCH FHD²" tvg-logo="http://contentsdeliver.link/logos/telecinetouchfhd.png" group-title="F16 M5 TELECINE",TELECINE TOUCH FHD²
+http://trabalho724.top:8080/7csplay/seven2022/22716
+#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="TELECINE TOUCH HD¹" tvg-logo="http://contentsdeliver.link/logos/telecinetouchhd.png" group-title="F16 M5 TELECINE",TELECINE TOUCH HD¹
+http://trabalho724.top:8080/7csplay/seven2022/18873
+#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="TELECINE TOUCH HD²" tvg-logo="http://contentsdeliver.link/logos/telecinetouchhd.png" group-title="F16 M5 TELECINE",TELECINE TOUCH HD²
+http://trabalho724.top:8080/7csplay/seven2022/22622
+#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="TELECINE TOUCH SD¹" tvg-logo="http://contentsdeliver.link/logos/telecinetouchsd.png" group-title="F16 M5 TELECINE",TELECINE TOUCH SD¹
+http://trabalho724.top:8080/7csplay/seven2022/18779
+#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="TELECINE TOUCH SD²" tvg-logo="http://contentsdeliver.link/logos/telecinetouchsd.png" group-title="F16 M5 TELECINE",TELECINE TOUCH SD²
+http://trabalho724.top:8080/7csplay/seven2022/22402
+#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL FHD¹" tvg-logo="http://contentsdeliver.link/logos/universalfhd.png" group-title="F16 M5 FILMES E SÉRIES",UNIVERSAL FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/160766
+#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL FHD²" tvg-logo="http://contentsdeliver.link/logos/universalfhd.png" group-title="F16 M5 FILMES E SÉRIES",UNIVERSAL FHD²
+http://trabalho724.top:8080/7csplay/seven2022/22724
+#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL HD¹" tvg-logo="http://contentsdeliver.link/logos/universalhd.png" group-title="F16 M5 FILMES E SÉRIES",UNIVERSAL HD¹
+http://trabalho724.top:8080/7csplay/seven2022/18879
+#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL HD²" tvg-logo="http://contentsdeliver.link/logos/universalhd.png" group-title="F16 M5 FILMES E SÉRIES",UNIVERSAL HD²
+http://trabalho724.top:8080/7csplay/seven2022/22628
+#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL SD¹" tvg-logo="http://contentsdeliver.link/logos/universalsd.png" group-title="F16 M5 FILMES E SÉRIES",UNIVERSAL SD¹
+http://trabalho724.top:8080/7csplay/seven2022/18783
+#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL SD²" tvg-logo="http://contentsdeliver.link/logos/universalsd.png" group-title="F16 M5 FILMES E SÉRIES",UNIVERSAL SD²
+http://trabalho724.top:8080/7csplay/seven2022/22419
+#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="WARNER FHD¹" tvg-logo="http://contentsdeliver.link/logos/warnerfhd.png" group-title="F16 M5 FILMES E SÉRIES",WARNER FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/45215
+#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="WARNER FHD²" tvg-logo="http://contentsdeliver.link/logos/warnerfhd.png" group-title="F16 M5 FILMES E SÉRIES",WARNER FHD²
+http://trabalho724.top:8080/7csplay/seven2022/22726
+#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="WARNER HD¹" tvg-logo="http://contentsdeliver.link/logos/warnerhd.png" group-title="F16 M5 FILMES E SÉRIES",WARNER HD¹
+http://trabalho724.top:8080/7csplay/seven2022/18882
+#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="WARNER HD²" tvg-logo="http://contentsdeliver.link/logos/warnerhd.png" group-title="F16 M5 FILMES E SÉRIES",WARNER HD²
+http://trabalho724.top:8080/7csplay/seven2022/22631
+#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="WARNER SD¹" tvg-logo="http://contentsdeliver.link/logos/warnersd.png" group-title="F16 M5 FILMES E SÉRIES",WARNER SD¹
+http://trabalho724.top:8080/7csplay/seven2022/18785
+#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="WARNER SD²" tvg-logo="http://contentsdeliver.link/logos/warnersd.png" group-title="F16 M5 FILMES E SÉRIES",WARNER SD²
+http://trabalho724.top:8080/7csplay/seven2022/22422
+#EXTINF:-1 tvg-id="jovempannews.br" tvg-name="JOVEM PAN NEWS FHD¹" tvg-logo="http://contentsdeliver.link/logos/jovempanfhd.png" group-title="F16 M5 NOTÍCIAS",JOVEM PAN NEWS FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/64580
+#EXTINF:-1 tvg-id="jovempannews.br" tvg-name="JOVEM PAN NEWS HD¹" tvg-logo="http://contentsdeliver.link/logos/jovempanhd.png" group-title="F16 M5 NOTÍCIAS",JOVEM PAN NEWS HD¹
+http://trabalho724.top:8080/7csplay/seven2022/64581
+#EXTINF:-1 tvg-id="jovempannews.br" tvg-name="JOVEM PAN NEWS HD²" tvg-logo="http://contentsdeliver.link/logos/jovempanhd.png" group-title="F16 M5 NOTÍCIAS",JOVEM PAN NEWS HD²
+http://trabalho724.top:8080/7csplay/seven2022/64635
+#EXTINF:-1 tvg-id="jovempannews.br" tvg-name="JOVEM PAN NEWS FHD²" tvg-logo="http://contentsdeliver.link/logos/jovempanfhd.png" group-title="F16 M5 NOTÍCIAS",JOVEM PAN NEWS FHD²
+http://trabalho724.top:8080/7csplay/seven2022/64636
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS FHD¹" tvg-logo="http://contentsdeliver.link/logos/bisfhd.png" group-title="F16 M5 MÚSICA",BIS FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/64727
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS FHD²" tvg-logo="http://contentsdeliver.link/logos/bisfhd.png" group-title="F16 M5 MÚSICA",BIS FHD²
+http://trabalho724.top:8080/7csplay/seven2022/31490
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS HD¹" tvg-logo="http://contentsdeliver.link/logos/bishd.png" group-title="F16 M5 MÚSICA",BIS HD¹
+http://trabalho724.top:8080/7csplay/seven2022/22466
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS HD²" tvg-logo="http://contentsdeliver.link/logos/bishd.png" group-title="F16 M5 MÚSICA",BIS HD²
+http://trabalho724.top:8080/7csplay/seven2022/18807
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS SD¹" tvg-logo="http://contentsdeliver.link/logos/bissd.png" group-title="F16 M5 MÚSICA",BIS SD¹
+http://trabalho724.top:8080/7csplay/seven2022/22301
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS SD²" tvg-logo="http://contentsdeliver.link/logos/bissd.png" group-title="F16 M5 MÚSICA",BIS SD²
+http://trabalho724.top:8080/7csplay/seven2022/18725
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV FHD¹" tvg-logo="http://contentsdeliver.link/logos/mtvfhd.png" group-title="F16 M5 MÚSICA",MTV FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/22692
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV FHD²" tvg-logo="http://contentsdeliver.link/logos/mtvfhd.png" group-title="F16 M5 MÚSICA",MTV FHD²
+http://trabalho724.top:8080/7csplay/seven2022/45218
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV HD¹" tvg-logo="http://contentsdeliver.link/logos/mtvhd.png" group-title="F16 M5 MÚSICA",MTV HD¹
+http://trabalho724.top:8080/7csplay/seven2022/22586
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV HD²" tvg-logo="http://contentsdeliver.link/logos/mtvhd.png" group-title="F16 M5 MÚSICA",MTV HD²
+http://trabalho724.top:8080/7csplay/seven2022/18848
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV SD¹" tvg-logo="http://contentsdeliver.link/logos/mtvsd.png" group-title="F16 M5 MÚSICA",MTV SD¹
+http://trabalho724.top:8080/7csplay/seven2022/64724
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV SD²" tvg-logo="http://contentsdeliver.link/logos/mtvsd.png" group-title="F16 M5 MÚSICA",MTV SD²
+http://trabalho724.top:8080/7csplay/seven2022/18752
+#EXTINF:-1 tvg-id="musicboxbrazil.br" tvg-name="MUSIC BOX BRASIL FHD¹" tvg-logo="http://contentsdeliver.link/logos/musicboxbrasilfhd.png" group-title="F16 M5 MÚSICA",MUSIC BOX BRASIL FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/45219
+#EXTINF:-1 tvg-id="musicboxbrazil.br" tvg-name="MUSIC BOX BRASIL HD¹" tvg-logo="http://contentsdeliver.link/logos/musicboxbrasilhd.png" group-title="F16 M5 MÚSICA",MUSIC BOX BRASIL HD¹
+http://trabalho724.top:8080/7csplay/seven2022/64723
+#EXTINF:-1 tvg-id="musicboxbrazil.br" tvg-name="MUSIC BOX BRASIL HD²" tvg-logo="http://contentsdeliver.link/logos/musicboxbrasilhd.png" group-title="F16 M5 MÚSICA",MUSIC BOX BRASIL HD²
+http://trabalho724.top:8080/7csplay/seven2022/31492
+#EXTINF:-1 tvg-id="musicboxbrazil.br" tvg-name="MUSIC BOX BRASIL SD¹" tvg-logo="http://contentsdeliver.link/logos/musicboxbrasilsd.png" group-title="F16 M5 MÚSICA",MUSIC BOX BRASIL SD¹
+http://trabalho724.top:8080/7csplay/seven2022/31491
+#EXTINF:-1 tvg-id="musicboxbrazil.br" tvg-name="MUSIC BOX BRAZIL SD²" tvg-logo="http://contentsdeliver.link/logos/musicboxbrasilsd.png" group-title="F16 M5 MÚSICA",MUSIC BOX BRAZIL SD²
+http://trabalho724.top:8080/7csplay/seven2022/22368
+#EXTINF:-1 tvg-id="aande.br" tvg-name="PRIME BOX BRASIL SD²" tvg-logo="http://contentsdeliver.link/logos/primeboxsd.png" group-title="F16 M5 MÚSICA",PRIME BOX BRASIL SD²
+http://trabalho724.top:8080/7csplay/seven2022/22376
+#EXTINF:-1 tvg-id="aande.br" tvg-name="RETRO MUSIC TV FHD¹" tvg-logo="http://contentsdeliver.link/logos/retromusicfhd.png" group-title="F16 M5 MÚSICA",RETRO MUSIC TV FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/22385
+#EXTINF:-1 tvg-id="vh1.br" tvg-name="MTV 00s HD²" tvg-logo="http://contentsdeliver.link/logos/mtv00shd.png" group-title="F16 M5 MÚSICA",MTV 00s HD²
+http://trabalho724.top:8080/7csplay/seven2022/22629
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE FHD MAX²" tvg-logo="http://contentsdeliver.link/logos/combatefhdmax.png" group-title="F16 M5 COMBATE",COMBATE FHD MAX²
+http://trabalho724.top:8080/7csplay/seven2022/72974
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE FHD MAX ᶜᴰᴺ²" tvg-logo="http://contentsdeliver.link/logos/combatefhdmax.png" group-title="F16 M5 COMBATE",COMBATE FHD MAX ᶜᴰᴺ²
+http://trabalho724.top:8080/7csplay/seven2022/18658
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE FHD¹" tvg-logo="http://contentsdeliver.link/logos/combatefhd.png" group-title="F16 M5 COMBATE",COMBATE FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/18657
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE FHD²" tvg-logo="http://contentsdeliver.link/logos/combatefhd.png" group-title="F16 M5 COMBATE",COMBATE FHD²
+http://trabalho724.top:8080/7csplay/seven2022/22656
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE HD¹" tvg-logo="http://contentsdeliver.link/logos/combatehd.png" group-title="F16 M5 COMBATE",COMBATE HD¹
+http://trabalho724.top:8080/7csplay/seven2022/18685
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE HD²" tvg-logo="http://contentsdeliver.link/logos/combatehd.png" group-title="F16 M5 COMBATE",COMBATE HD²
+http://trabalho724.top:8080/7csplay/seven2022/22492
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE SD¹" tvg-logo="http://contentsdeliver.link/logos/combatesd.png" group-title="F16 M5 COMBATE",COMBATE SD¹
+http://trabalho724.top:8080/7csplay/seven2022/18684
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE SD²" tvg-logo="http://contentsdeliver.link/logos/combatesd.png" group-title="F16 M5 COMBATE",COMBATE SD²
+http://trabalho724.top:8080/7csplay/seven2022/22309
+#EXTINF:-1 tvg-id="historychannel.br" tvg-name="HISTORY FHD¹" tvg-logo="http://contentsdeliver.link/logos/historyfhd.png" group-title="F16 M5 DOCUMENTÁRIOS",HISTORY FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/45217
+#EXTINF:-1 tvg-id="historychannel.br" tvg-name="HISTORY FHD²" tvg-logo="http://contentsdeliver.link/logos/historyfhd.png" group-title="F16 M5 DOCUMENTÁRIOS",HISTORY FHD²
+http://trabalho724.top:8080/7csplay/seven2022/22688
+#EXTINF:-1 tvg-id="historychannel.br" tvg-name="HISTORY HD¹" tvg-logo="http://contentsdeliver.link/logos/historyhd.png" group-title="F16 M5 DOCUMENTÁRIOS",HISTORY HD¹
+http://trabalho724.top:8080/7csplay/seven2022/18843
+#EXTINF:-1 tvg-id="historychannel.br" tvg-name="HISTORY HD²" tvg-logo="http://contentsdeliver.link/logos/historyhd.png" group-title="F16 M5 DOCUMENTÁRIOS",HISTORY HD²
+http://trabalho724.top:8080/7csplay/seven2022/22557
+#EXTINF:-1 tvg-id="historychannel.br" tvg-name="HISTORY SD¹" tvg-logo="http://contentsdeliver.link/logos/historysd.png" group-title="F16 M5 DOCUMENTÁRIOS",HISTORY SD¹
+http://trabalho724.top:8080/7csplay/seven2022/18747
+#EXTINF:-1 tvg-id="historychannel.br" tvg-name="HISTORY SD²" tvg-logo="http://contentsdeliver.link/logos/historysd.png" group-title="F16 M5 DOCUMENTÁRIOS",HISTORY SD²
+http://trabalho724.top:8080/7csplay/seven2022/22361
+#EXTINF:-1 tvg-id="history2.br" tvg-name="H2 FHD¹" tvg-logo="http://contentsdeliver.link/logos/h2fhd.png" group-title="F16 M5 DOCUMENTÁRIOS",H2 FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/45216
+#EXTINF:-1 tvg-id="history2.br" tvg-name="H2 FHD²" tvg-logo="http://contentsdeliver.link/logos/h2fhd.png" group-title="F16 M5 DOCUMENTÁRIOS",H2 FHD²
+http://trabalho724.top:8080/7csplay/seven2022/22679
+#EXTINF:-1 tvg-id="history2.br" tvg-name="H2 HD¹" tvg-logo="http://contentsdeliver.link/logos/h2hd.png" group-title="F16 M5 DOCUMENTÁRIOS",H2 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/18833
+#EXTINF:-1 tvg-id="history2.br" tvg-name="H2 HD²" tvg-logo="http://contentsdeliver.link/logos/h2hd.png" group-title="F16 M5 DOCUMENTÁRIOS",H2 HD²
+http://trabalho724.top:8080/7csplay/seven2022/22547
+#EXTINF:-1 tvg-id="history2.br" tvg-name="H2 SD¹" tvg-logo="http://contentsdeliver.link/logos/h2sd.png" group-title="F16 M5 DOCUMENTÁRIOS",H2 SD¹
+http://trabalho724.top:8080/7csplay/seven2022/18737
+#EXTINF:-1 tvg-id="history2.br" tvg-name="H2 SD²" tvg-logo="http://contentsdeliver.link/logos/h2sd.png" group-title="F16 M5 DOCUMENTÁRIOS",H2 SD²
+http://trabalho724.top:8080/7csplay/seven2022/22351
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="FISH TV FHD¹" tvg-logo="http://contentsdeliver.link/logos/fishtvfhd.png" group-title="F16 M5 ESPORTES GERAL",FISH TV FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/45223
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="FISH TV HD¹" tvg-logo="http://contentsdeliver.link/logos/fishtvhd.png" group-title="F16 M5 ESPORTES GERAL",FISH TV HD¹
+http://trabalho724.top:8080/7csplay/seven2022/18665
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="FISH TV SD¹" tvg-logo="http://contentsdeliver.link/logos/fishtvsd.png" group-title="F16 M5 ESPORTES GERAL",FISH TV SD¹
+http://trabalho724.top:8080/7csplay/seven2022/18677
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="FISH TV SD²" tvg-logo="http://contentsdeliver.link/logos/fishtvsd.png" group-title="F16 M5 ESPORTES GERAL",FISH TV SD²
+http://trabalho724.top:8080/7csplay/seven2022/22337
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS FHD¹" tvg-logo="http://contentsdeliver.link/logos/bandsportsfhd.png" group-title="F16 M5 ESPORTES GERAL",BAND SPORTS FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/18637
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS FHD²" tvg-logo="http://contentsdeliver.link/logos/bandsportsfhd.png" group-title="F16 M5 ESPORTES GERAL",BAND SPORTS FHD²
+http://trabalho724.top:8080/7csplay/seven2022/64654
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS HD¹" tvg-logo="http://contentsdeliver.link/logos/bandsportshd.png" group-title="F16 M5 ESPORTES GERAL",BAND SPORTS HD¹
+http://trabalho724.top:8080/7csplay/seven2022/18623
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND SPORTS HD²" tvg-logo="http://contentsdeliver.link/logos/bandsportshd.png" group-title="F16 M5 ESPORTES GERAL",BAND SPORTS HD²
+http://trabalho724.top:8080/7csplay/seven2022/22465
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS SD¹" tvg-logo="http://contentsdeliver.link/logos/bandsportssd.png" group-title="F16 M5 ESPORTES GERAL",BAND SPORTS SD¹
+http://trabalho724.top:8080/7csplay/seven2022/18640
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS SD²" tvg-logo="http://contentsdeliver.link/logos/bandsportssd.png" group-title="F16 M5 ESPORTES GERAL",BAND SPORTS SD²
+http://trabalho724.top:8080/7csplay/seven2022/22410
+#EXTINF:-1 tvg-id="" tvg-name="FIFA+ HD*" tvg-logo="http://contentsdeliver.link/logos/fifaplushd.png" group-title="F16 M5 ESPORTES GERAL",FIFA+ HD*
+http://trabalho724.top:8080/7csplay/seven2022/325908
+#EXTINF:-1 tvg-id="" tvg-name="HARD KNOCKS FIGHTING CHAMPIONSHIP HD*" tvg-logo="http://contentsdeliver.link/logos/hardknocksfightinghd.png" group-title="F16 M5 ESPORTES GERAL",HARD KNOCKS FIGHTING CHAMPIONSHIP HD*
+http://trabalho724.top:8080/7csplay/seven2022/325909
+#EXTINF:-1 tvg-id="" tvg-name="GLORY KICKBOXING HD*" tvg-logo="http://contentsdeliver.link/logos/glorykickboxinghd.png" group-title="F16 M5 ESPORTES GERAL",GLORY KICKBOXING HD*
+http://trabalho724.top:8080/7csplay/seven2022/325910
+#EXTINF:-1 tvg-id="" tvg-name="WORLD BILLIARDS TV HD*" tvg-logo="http://contentsdeliver.link/logos/worldbilliardhd.png" group-title="F16 M5 ESPORTES GERAL",WORLD BILLIARDS TV HD*
+http://trabalho724.top:8080/7csplay/seven2022/325911
+#EXTINF:-1 tvg-id="off.br" tvg-name="OFF FHD MAX²" tvg-logo="http://contentsdeliver.link/logos/offfhdmax.png" group-title="F16 M5 ESPORTES GERAL",OFF FHD MAX²
+http://trabalho724.top:8080/7csplay/seven2022/54339
+#EXTINF:-1 tvg-id="off.br" tvg-name="OFF FHD¹" tvg-logo="http://contentsdeliver.link/logos/offfhd.png" group-title="F16 M5 ESPORTES GERAL",OFF FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/18946
+#EXTINF:-1 tvg-id="off.br" tvg-name="OFF FHD²" tvg-logo="http://contentsdeliver.link/logos/offfhd.png" group-title="F16 M5 ESPORTES GERAL",OFF FHD²
+http://trabalho724.top:8080/7csplay/seven2022/64655
+#EXTINF:-1 tvg-id="off.br" tvg-name="OFF HD²" tvg-logo="http://contentsdeliver.link/logos/offhd.png" group-title="F16 M5 ESPORTES GERAL",OFF HD²
+http://trabalho724.top:8080/7csplay/seven2022/22594
+#EXTINF:-1 tvg-id="off.br" tvg-name="OFF SD²" tvg-logo="http://contentsdeliver.link/logos/offsd.png" group-title="F16 M5 ESPORTES GERAL",OFF SD²
+http://trabalho724.top:8080/7csplay/seven2022/22373
+#EXTINF:-1 tvg-id="" tvg-name="CNN ESPANHOL HD*" tvg-logo="http://contentsdeliver.link/logos/cnnespanholhd.png" group-title="F16 M5 NOTÍCIAS",CNN ESPANHOL HD*
+http://trabalho724.top:8080/7csplay/seven2022/116645
+#EXTINF:-1 tvg-id="" tvg-name="CNN INTERNACIONAL FHD*" tvg-logo="http://contentsdeliver.link/logos/cnninternacionalhd.png" group-title="F16 M5 NOTÍCIAS",CNN INTERNACIONAL FHD*
+http://trabalho724.top:8080/7csplay/seven2022/116674
+#EXTINF:-1 tvg-id="off.br" tvg-name="OFF HD¹" tvg-logo="http://contentsdeliver.link/logos/offhd.png" group-title="F16 M5 ESPORTES GERAL",OFF HD¹
+http://trabalho724.top:8080/7csplay/seven2022/116717
+#EXTINF:-1 tvg-id="off.br" tvg-name="OFF SD¹" tvg-logo="http://contentsdeliver.link/logos/offsd.png" group-title="F16 M5 ESPORTES GERAL",OFF SD¹
+http://trabalho724.top:8080/7csplay/seven2022/116718
+#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E FHD MAX²" tvg-logo="http://contentsdeliver.link/logos/aeefhdmax.png" group-title="F16 M5 FILMES E SÉRIES",A&E FHD MAX²
+http://trabalho724.top:8080/7csplay/seven2022/54342
+#EXTINF:-1 tvg-id="sony.br" tvg-name="SONY FHD MAX²" tvg-logo="http://contentsdeliver.link/logos/sonyfhdmax.png" group-title="F16 M5 FILMES E SÉRIES",SONY FHD MAX²
+http://trabalho724.top:8080/7csplay/seven2022/54350
+#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="DISCOVERY CHANNEL FHD¹" tvg-logo="http://contentsdeliver.link/logos/discoverychannelfhd.png" group-title="F16 M5 DISCOVERY",DISCOVERY CHANNEL FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/22658
+#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="DISCOVERY CHANNEL FHD²" tvg-logo="http://contentsdeliver.link/logos/discoverychannelfhd.png" group-title="F16 M5 DISCOVERY",DISCOVERY CHANNEL FHD²
+http://trabalho724.top:8080/7csplay/seven2022/18918
+#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="DISCOVERY CHANNEL HD¹" tvg-logo="http://contentsdeliver.link/logos/discoverychannelhd.png" group-title="F16 M5 DISCOVERY",DISCOVERY CHANNEL HD¹
+http://trabalho724.top:8080/7csplay/seven2022/18823
+#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="DISCOVERY CHANNEL HD²" tvg-logo="http://contentsdeliver.link/logos/discoverychannelhd.png" group-title="F16 M5 DISCOVERY",DISCOVERY CHANNEL HD²
+http://trabalho724.top:8080/7csplay/seven2022/22506
+#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="DISCOVERY CHANNEL SD¹" tvg-logo="http://contentsdeliver.link/logos/discoverychannelsd.png" group-title="F16 M5 DISCOVERY",DISCOVERY CHANNEL SD¹
+http://trabalho724.top:8080/7csplay/seven2022/18727
+#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="DISCOVERY HOME & HEALTH FHD¹" tvg-logo="http://contentsdeliver.link/logos/discoveryhehfhd.png" group-title="F16 M5 DISCOVERY",DISCOVERY HOME & HEALTH FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/42909
+#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="DISCOVERY HOME & HEALTH FHD²" tvg-logo="http://contentsdeliver.link/logos/discoveryhehfhd.png" group-title="F16 M5 DISCOVERY",DISCOVERY HOME & HEALTH FHD²
+http://trabalho724.top:8080/7csplay/seven2022/22659
+#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="DISCOVERY HOME & HEALTH HD¹" tvg-logo="http://contentsdeliver.link/logos/discoveryhehhd.png" group-title="F16 M5 DISCOVERY",DISCOVERY HOME & HEALTH HD¹
+http://trabalho724.top:8080/7csplay/seven2022/18824
+#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="DISCOVERY HOME & HEALTH HD²" tvg-logo="http://contentsdeliver.link/logos/discoveryhehhd.png" group-title="F16 M5 DISCOVERY",DISCOVERY HOME & HEALTH HD²
+http://trabalho724.top:8080/7csplay/seven2022/22507
+#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="DISCOVERY HOME & HEALTH SD¹" tvg-logo="http://contentsdeliver.link/logos/discoveryhehsd.png" group-title="F16 M5 DISCOVERY",DISCOVERY HOME & HEALTH SD¹
+http://trabalho724.top:8080/7csplay/seven2022/18728
+#EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-name="DISCOVERY ID FHD MAX²" tvg-logo="http://contentsdeliver.link/logos/idfhdmax.png" group-title="F16 M5 DISCOVERY",DISCOVERY ID FHD MAX²
+http://trabalho724.top:8080/7csplay/seven2022/22689
+#EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-name="DISCOVERY ID FHD¹" tvg-logo="http://contentsdeliver.link/logos/discoveryidfhd.png" group-title="F16 M5 DISCOVERY",DISCOVERY ID FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/42908
+#EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-name="DISCOVERY ID FHD²" tvg-logo="http://contentsdeliver.link/logos/discoveryidfhd.png" group-title="F16 M5 DISCOVERY",DISCOVERY ID FHD²
+http://trabalho724.top:8080/7csplay/seven2022/161619
+#EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-name="DISCOVERY ID HD¹" tvg-logo="http://contentsdeliver.link/logos/discoveryidhd.png" group-title="F16 M5 DISCOVERY",DISCOVERY ID HD¹
+http://trabalho724.top:8080/7csplay/seven2022/18844
+#EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-name="DISCOVERY ID HD²" tvg-logo="http://contentsdeliver.link/logos/discoveryidhd.png" group-title="F16 M5 DISCOVERY",DISCOVERY ID HD²
+http://trabalho724.top:8080/7csplay/seven2022/22558
+#EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-name="DISCOVERY ID SD¹" tvg-logo="http://contentsdeliver.link/logos/discoveryidsd.png" group-title="F16 M5 DISCOVERY",DISCOVERY ID SD¹
+http://trabalho724.top:8080/7csplay/seven2022/18748
+#EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-name="DISCOVERY ID SD²" tvg-logo="http://contentsdeliver.link/logos/discoveryidsd.png" group-title="F16 M5 DISCOVERY",DISCOVERY ID SD²
+http://trabalho724.top:8080/7csplay/seven2022/22362
+#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="DISCOVERY SCIENCE FHD¹" tvg-logo="http://contentsdeliver.link/logos/discoverysciencefhd.png" group-title="F16 M5 DISCOVERY",DISCOVERY SCIENCE FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/42910
+#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="DISCOVERY SCIENCE FHD²" tvg-logo="http://contentsdeliver.link/logos/discoverysciencefhd.png" group-title="F16 M5 DISCOVERY",DISCOVERY SCIENCE FHD²
+http://trabalho724.top:8080/7csplay/seven2022/22661
+#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="DISCOVERY SCIENCE HD²" tvg-logo="http://contentsdeliver.link/logos/discoverysciencehd.png" group-title="F16 M5 DISCOVERY",DISCOVERY SCIENCE HD²
+http://trabalho724.top:8080/7csplay/seven2022/18825
+#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="DISCOVERY SCIENCE HD¹" tvg-logo="http://contentsdeliver.link/logos/discoverysciencehd.png" group-title="F16 M5 DISCOVERY",DISCOVERY SCIENCE HD¹
+http://trabalho724.top:8080/7csplay/seven2022/22509
+#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="DISCOVERY SCIENCE SD¹" tvg-logo="http://contentsdeliver.link/logos/discoverysciencesd.png" group-title="F16 M5 DISCOVERY",DISCOVERY SCIENCE SD¹
+http://trabalho724.top:8080/7csplay/seven2022/18729
+#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="DISCOVERY THEATER FHD¹" tvg-logo="http://contentsdeliver.link/logos/discoverytheaterfhd.png" group-title="F16 M5 DISCOVERY",DISCOVERY THEATER FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/22662
+#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="DISCOVERY THEATER FHD²" tvg-logo="http://contentsdeliver.link/logos/discoverytheaterfhd.png" group-title="F16 M5 DISCOVERY",DISCOVERY THEATER FHD²
+http://trabalho724.top:8080/7csplay/seven2022/42911
+#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="DISCOVERY THEATER HD¹" tvg-logo="http://contentsdeliver.link/logos/discoverytheaterhd.png" group-title="F16 M5 DISCOVERY",DISCOVERY THEATER HD¹
+http://trabalho724.top:8080/7csplay/seven2022/22510
+#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="DISCOVERY THEATER HD²" tvg-logo="http://contentsdeliver.link/logos/discoverytheaterhd.png" group-title="F16 M5 DISCOVERY",DISCOVERY THEATER HD²
+http://trabalho724.top:8080/7csplay/seven2022/18826
+#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="DISCOVERY THEATER SD¹" tvg-logo="http://contentsdeliver.link/logos/discoverytheatersd.png" group-title="F16 M5 DISCOVERY",DISCOVERY THEATER SD¹
+http://trabalho724.top:8080/7csplay/seven2022/22323
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="DISCOVERY TLC FHD¹" tvg-logo="http://contentsdeliver.link/logos/discoverytlcfhd.png" group-title="F16 M5 DISCOVERY",DISCOVERY TLC FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/44868
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="DISCOVERY TLC FHD²" tvg-logo="http://contentsdeliver.link/logos/discoverytlcfhd.png" group-title="F16 M5 DISCOVERY",DISCOVERY TLC FHD²
+http://trabalho724.top:8080/7csplay/seven2022/64732
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="DISCOVERY TLC HD¹" tvg-logo="http://contentsdeliver.link/logos/discoverytlchd.png" group-title="F16 M5 DISCOVERY",DISCOVERY TLC HD¹
+http://trabalho724.top:8080/7csplay/seven2022/22511
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="DISCOVERY TLC HD²" tvg-logo="http://contentsdeliver.link/logos/discoverytlchd.png" group-title="F16 M5 DISCOVERY",DISCOVERY TLC HD²
+http://trabalho724.top:8080/7csplay/seven2022/18874
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="DISCOVERY TLC SD¹" tvg-logo="http://contentsdeliver.link/logos/discoverytlcsd.png" group-title="F16 M5 DISCOVERY",DISCOVERY TLC SD¹
+http://trabalho724.top:8080/7csplay/seven2022/22324
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="DISCOVERY TLC SD²" tvg-logo="http://contentsdeliver.link/logos/discoverytlcsd.png" group-title="F16 M5 DISCOVERY",DISCOVERY TLC SD²
+http://trabalho724.top:8080/7csplay/seven2022/18780
+#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="DISCOVERY TURBO FHD¹" tvg-logo="http://contentsdeliver.link/logos/discoveryturbofhd.png" group-title="F16 M5 DISCOVERY",DISCOVERY TURBO FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/42912
+#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="DISCOVERY TURBO FHD²" tvg-logo="http://contentsdeliver.link/logos/discoveryturbofhd.png" group-title="F16 M5 DISCOVERY",DISCOVERY TURBO FHD²
+http://trabalho724.top:8080/7csplay/seven2022/22663
+#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="DISCOVERY TURBO HD¹" tvg-logo="http://contentsdeliver.link/logos/discoveryturbohd.png" group-title="F16 M5 DISCOVERY",DISCOVERY TURBO HD¹
+http://trabalho724.top:8080/7csplay/seven2022/22512
+#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="DISCOVERY TURBO HD²" tvg-logo="http://contentsdeliver.link/logos/discoveryturbohd.png" group-title="F16 M5 DISCOVERY",DISCOVERY TURBO HD²
+http://trabalho724.top:8080/7csplay/seven2022/18827
+#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="DISCOVERY TURBO SD¹" tvg-logo="http://contentsdeliver.link/logos/discoveryturbosd.png" group-title="F16 M5 DISCOVERY",DISCOVERY TURBO SD¹
+http://trabalho724.top:8080/7csplay/seven2022/18731
+#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="DISCOVERY TURBO SD²" tvg-logo="http://contentsdeliver.link/logos/discoveryturbosd.png" group-title="F16 M5 DISCOVERY",DISCOVERY TURBO SD²
+http://trabalho724.top:8080/7csplay/seven2022/22325
+#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="DISCOVERY WORLD FHD¹" tvg-logo="http://contentsdeliver.link/logos/discoveryworldfhd.png" group-title="F16 M5 DISCOVERY",DISCOVERY WORLD FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/22664
+#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="DISCOVERY WORLD FHD²" tvg-logo="http://contentsdeliver.link/logos/discoveryworldfhd.png" group-title="F16 M5 DISCOVERY",DISCOVERY WORLD FHD²
+http://trabalho724.top:8080/7csplay/seven2022/42913
+#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="DISCOVERY WORLD HD¹" tvg-logo="http://contentsdeliver.link/logos/discoveryworldhd.png" group-title="F16 M5 DISCOVERY",DISCOVERY WORLD HD¹
+http://trabalho724.top:8080/7csplay/seven2022/22513
+#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="DISCOVERY WORLD HD²" tvg-logo="http://contentsdeliver.link/logos/discoveryworldhd.png" group-title="F16 M5 DISCOVERY",DISCOVERY WORLD HD²
+http://trabalho724.top:8080/7csplay/seven2022/18828
+#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="DISCOVERY WORLD SD¹" tvg-logo="http://contentsdeliver.link/logos/discoveryworldsd.png" group-title="F16 M5 DISCOVERY",DISCOVERY WORLD SD¹
+http://trabalho724.top:8080/7csplay/seven2022/22326
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV! FHD¹" tvg-logo="http://contentsdeliver.link/logos/redetvfhd.png" group-title="F16 M5 ABERTOS",REDE TV! FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/31591
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV! FHD²" tvg-logo="http://contentsdeliver.link/logos/redetvfhd.png" group-title="F16 M5 ABERTOS",REDE TV! FHD²
+http://trabalho724.top:8080/7csplay/seven2022/64620
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV! HD²" tvg-logo="http://contentsdeliver.link/logos/redetvhd.png" group-title="F16 M5 ABERTOS",REDE TV! HD²
+http://trabalho724.top:8080/7csplay/seven2022/22606
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV! SD¹" tvg-logo="http://contentsdeliver.link/logos/redetvsd.png" group-title="F16 M5 ABERTOS",REDE TV! SD¹
+http://trabalho724.top:8080/7csplay/seven2022/64619
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV! SD²" tvg-logo="http://contentsdeliver.link/logos/redetvsd.png" group-title="F16 M5 ABERTOS",REDE TV! SD²
+http://trabalho724.top:8080/7csplay/seven2022/31376
+#EXTINF:-1 tvg-id="" tvg-name="TV ARAPUAN HD*" tvg-logo="http://contentsdeliver.link/logos/tvarapuanhd.png" group-title="F16 M5 ABERTOS",TV ARAPUAN HD*
+http://trabalho724.top:8080/7csplay/seven2022/162390
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND SP FHD MAX²" tvg-logo="http://contentsdeliver.link/logos/bandfhdmax.png" group-title="F16 M5 BAND",BAND SP FHD MAX²
+http://trabalho724.top:8080/7csplay/seven2022/18618
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND SP FHD¹" tvg-logo="http://contentsdeliver.link/logos/bandfhd.png" group-title="F16 M5 BAND",BAND SP FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/125409
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND SP HD¹" tvg-logo="http://contentsdeliver.link/logos/bandhd.png" group-title="F16 M5 BAND",BAND SP HD¹
+http://trabalho724.top:8080/7csplay/seven2022/125410
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND SP HD¹" tvg-logo="http://contentsdeliver.link/logos/bandhd.png" group-title="F16 M5 BAND",BAND SP HD¹
+http://trabalho724.top:8080/7csplay/seven2022/18619
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND FHD²" tvg-logo="http://contentsdeliver.link/logos/bandfhd.png" group-title="F16 M5 BAND",BAND FHD²
+http://trabalho724.top:8080/7csplay/seven2022/22642
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND HD²" tvg-logo="http://contentsdeliver.link/logos/bandhd.png" group-title="F16 M5 BAND",BAND HD²
+http://trabalho724.top:8080/7csplay/seven2022/18622
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND HD²" tvg-logo="http://contentsdeliver.link/logos/bandhd.png" group-title="F16 M5 BAND",BAND HD²
+http://trabalho724.top:8080/7csplay/seven2022/22464
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND SD¹" tvg-logo="http://contentsdeliver.link/logos/bandsd.png" group-title="F16 M5 BAND",BAND SD¹
+http://trabalho724.top:8080/7csplay/seven2022/22299
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND CAMPINAS FHD²" tvg-logo="http://contentsdeliver.link/logos/bandfhd.png" group-title="F16 M5 BAND",BAND CAMPINAS FHD²
+http://trabalho724.top:8080/7csplay/seven2022/64618
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND CAMPINAS HD²" tvg-logo="http://contentsdeliver.link/logos/bandhd.png" group-title="F16 M5 BAND",BAND CAMPINAS HD²
+http://trabalho724.top:8080/7csplay/seven2022/64617
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND CAMPINAS HD¹" tvg-logo="http://contentsdeliver.link/logos/bandhd.png" group-title="F16 M5 BAND",BAND CAMPINAS HD¹
+http://trabalho724.top:8080/7csplay/seven2022/22297
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND RJ FHD²" tvg-logo="http://contentsdeliver.link/logos/bandfhd.png" group-title="F16 M5 BAND",BAND RJ FHD²
+http://trabalho724.top:8080/7csplay/seven2022/64616
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND RJ FHD¹" tvg-logo="http://contentsdeliver.link/logos/bandfhd.png" group-title="F16 M5 BAND",BAND RJ FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/125415
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND RJ HD²" tvg-logo="http://contentsdeliver.link/logos/bandhd.png" group-title="F16 M5 BAND",BAND RJ HD²
+http://trabalho724.top:8080/7csplay/seven2022/22463
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND RJ HD¹" tvg-logo="http://contentsdeliver.link/logos/bandhd.png" group-title="F16 M5 BAND",BAND RJ HD¹
+http://trabalho724.top:8080/7csplay/seven2022/125416
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND BRASILIA HD²" tvg-logo="http://contentsdeliver.link/logos/bandhd.png" group-title="F16 M5 BAND",BAND BRASILIA HD²
+http://trabalho724.top:8080/7csplay/seven2022/71059
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND BRASILIA HD¹" tvg-logo="http://contentsdeliver.link/logos/bandhd.png" group-title="F16 M5 BAND",BAND BRASILIA HD¹
+http://trabalho724.top:8080/7csplay/seven2022/125417
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND BAHIA HD²" tvg-logo="http://contentsdeliver.link/logos/bandhd.png" group-title="F16 M5 BAND",BAND BAHIA HD²
+http://trabalho724.top:8080/7csplay/seven2022/71056
+#EXTINF:-1 tvg-id="bandminas.br" tvg-name="BAND BAHIA HD¹" tvg-logo="http://contentsdeliver.link/logos/bandhd.png" group-title="F16 M5 BAND",BAND BAHIA HD¹
+http://trabalho724.top:8080/7csplay/seven2022/125418
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND SERGIPE HD²" tvg-logo="http://contentsdeliver.link/logos/bandhd.png" group-title="F16 M5 BAND",BAND SERGIPE HD²
+http://trabalho724.top:8080/7csplay/seven2022/71061
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND PARA HD¹" tvg-logo="http://contentsdeliver.link/logos/bandhd.png" group-title="F16 M5 BAND",BAND PARA HD¹
+http://trabalho724.top:8080/7csplay/seven2022/44863
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND TV GOIANIA FHD MAX²" tvg-logo="http://contentsdeliver.link/logos/bandfhdmax.png" group-title="F16 M5 BAND",BAND TV GOIANIA FHD MAX²
+http://trabalho724.top:8080/7csplay/seven2022/71055
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND TV GOIANIA HD²" tvg-logo="http://contentsdeliver.link/logos/bandhd.png" group-title="F16 M5 BAND",BAND TV GOIANIA HD²
+http://trabalho724.top:8080/7csplay/seven2022/71054
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND MINAS HD²" tvg-logo="http://contentsdeliver.link/logos/bandhd.png" group-title="F16 M5 BAND",BAND MINAS HD²
+http://trabalho724.top:8080/7csplay/seven2022/71062
+#EXTINF:-1 tvg-id="bandminashd.br" tvg-name="BAND MINAS HD¹" tvg-logo="http://contentsdeliver.link/logos/bandhd.png" group-title="F16 M5 BAND",BAND MINAS HD¹
+http://trabalho724.top:8080/7csplay/seven2022/125419
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND MINAS FHD²" tvg-logo="http://contentsdeliver.link/logos/bandfhd.png" group-title="F16 M5 BAND",BAND MINAS FHD²
+http://trabalho724.top:8080/7csplay/seven2022/71063
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND TV TAROBA CURITIBA FHD²" tvg-logo="http://contentsdeliver.link/logos/bandfhd.png" group-title="F16 M5 BAND",BAND TV TAROBA CURITIBA FHD²
+http://trabalho724.top:8080/7csplay/seven2022/71057
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND TV TAROBA CURITIBA HD²" tvg-logo="http://contentsdeliver.link/logos/bandhd.png" group-title="F16 M5 BAND",BAND TV TAROBA CURITIBA HD²
+http://trabalho724.top:8080/7csplay/seven2022/71058
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND RS HD²" tvg-logo="http://contentsdeliver.link/logos/bandhd.png" group-title="F16 M5 BAND",BAND RS HD²
+http://trabalho724.top:8080/7csplay/seven2022/71060
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND PARANA HD²" tvg-logo="http://contentsdeliver.link/logos/bandhd.png" group-title="F16 M5 BAND",BAND PARANA HD²
+http://trabalho724.top:8080/7csplay/seven2022/22462
+#EXTINF:-1 tvg-id="" tvg-name="NHK WORD JAPÃO FHD²" tvg-logo="http://contentsdeliver.link/logos/nhkworldjapanfhd.png" group-title="F16 M5 NOTÍCIAS",NHK WORD JAPÃO FHD²
+http://trabalho724.top:8080/7csplay/seven2022/126619
+#EXTINF:-1 tvg-id="" tvg-name="NHK WORD JAPÃO HD²" tvg-logo="http://contentsdeliver.link/logos/nhkworldjapanhd.png" group-title="F16 M5 NOTÍCIAS",NHK WORD JAPÃO HD²
+http://trabalho724.top:8080/7csplay/seven2022/126620
+#EXTINF:-1 tvg-id="" tvg-name="NHK WORD JAPÃO SD²" tvg-logo="http://contentsdeliver.link/logos/nhkworldjapansd.png" group-title="F16 M5 NOTÍCIAS",NHK WORD JAPÃO SD²
+http://trabalho724.top:8080/7csplay/seven2022/126621
+#EXTINF:-1 tvg-id="" tvg-name="ONEFOOTBALL 1 HD²" tvg-logo="http://contentsdeliver.link/logos/onefootballhd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",ONEFOOTBALL 1 HD²
+http://trabalho724.top:8080/7csplay/seven2022/274281
+#EXTINF:-1 tvg-id="" tvg-name="ONEFOOTBALL 2 HD²" tvg-logo="http://contentsdeliver.link/logos/onefootballhd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",ONEFOOTBALL 2 HD²
+http://trabalho724.top:8080/7csplay/seven2022/303703
+#EXTINF:-1 tvg-id="" tvg-name="ONEFOOTBALL 3 HD²" tvg-logo="http://contentsdeliver.link/logos/onefootballhd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",ONEFOOTBALL 3 HD²
+http://trabalho724.top:8080/7csplay/seven2022/303704
+#EXTINF:-1 tvg-id="" tvg-name="ONEFOOTBALL 4 HD²" tvg-logo="http://contentsdeliver.link/logos/onefootballhd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",ONEFOOTBALL 4 HD²
+http://trabalho724.top:8080/7csplay/seven2022/303705
+#EXTINF:-1 tvg-id="" tvg-name="DAZN FHD¹" tvg-logo="http://contentsdeliver.link/logos/daznfhd.png" group-title="F16 M5 DAZN",DAZN FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/18819
+#EXTINF:-1 tvg-id="" tvg-name="DAZN HD¹" tvg-logo="http://contentsdeliver.link/logos/daznhd.png" group-title="F16 M5 DAZN",DAZN HD¹
+http://trabalho724.top:8080/7csplay/seven2022/18820
+#EXTINF:-1 tvg-id="" tvg-name="DAZN SD¹" tvg-logo="http://contentsdeliver.link/logos/daznsd.png" group-title="F16 M5 DAZN",DAZN SD¹
+http://trabalho724.top:8080/7csplay/seven2022/18821
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD¹" tvg-logo="https://watch.dazn.com/default-assets/partnership-default.png" group-title="F16 M5 DAZN",DAZN 1 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/69822
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD¹" tvg-logo="http://contentsdeliver.link/logos/daznhd.png" group-title="F16 M5 DAZN",DAZN 2 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/69823
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 HD¹" tvg-logo="http://contentsdeliver.link/logos/daznhd.png" group-title="F16 M5 DAZN",DAZN 3 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/69824
+#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRÃO (SÉRIE C) 01 HD²" tvg-logo="http://contentsdeliver.link/logos/brasileiraoseriechd.png" group-title="F16 M5 DAZN",BRASILEIRÃO (SÉRIE C) 01 HD²
+http://trabalho724.top:8080/7csplay/seven2022/22502
+#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRÃO (SÉRIE C) 02 HD²" tvg-logo="http://contentsdeliver.link/logos/brasileiraoseriechd.png" group-title="F16 M5 DAZN",BRASILEIRÃO (SÉRIE C) 02 HD²
+http://trabalho724.top:8080/7csplay/seven2022/22503
+#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRÃO (SÉRIE C) 03 HD²" tvg-logo="http://contentsdeliver.link/logos/brasileiraoseriechd.png" group-title="F16 M5 DAZN",BRASILEIRÃO (SÉRIE C) 03 HD²
+http://trabalho724.top:8080/7csplay/seven2022/22504
+#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRÃO (SÉRIE C) 04 HD²" tvg-logo="http://contentsdeliver.link/logos/brasileiraoseriechd.png" group-title="F16 M5 DAZN",BRASILEIRÃO (SÉRIE C) 04 HD²
+http://trabalho724.top:8080/7csplay/seven2022/64689
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="AGRO+ HD¹" tvg-logo="http://contentsdeliver.link/logos/agromaishd.png" group-title="F16 M5 AGRONEGÓCIOS",AGRO+ HD¹
+http://trabalho724.top:8080/7csplay/seven2022/162391
+#EXTINF:-1 tvg-id="" tvg-name="AGRO BRASIL HD¹" tvg-logo="http://contentsdeliver.link/logos/agrobrasiltvhd.png" group-title="F16 M5 AGRONEGÓCIOS",AGRO BRASIL HD¹
+http://trabalho724.top:8080/7csplay/seven2022/25676
+#EXTINF:-1 tvg-id="canal.do.boi.br" tvg-name="CANAL DO BOI FHD¹" tvg-logo="http://contentsdeliver.link/logos/canaldoboifhd.png" group-title="F16 M5 AGRONEGÓCIOS",CANAL DO BOI FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/99446
+#EXTINF:-1 tvg-id="aande.br" tvg-name="CANAL DO BOI SD²" tvg-logo="http://contentsdeliver.link/logos/canaldoboifsd.png" group-title="F16 M5 AGRONEGÓCIOS",CANAL DO BOI SD²
+http://trabalho724.top:8080/7csplay/seven2022/22304
+#EXTINF:-1 tvg-id="" tvg-name="RURAL FHD¹" tvg-logo="http://contentsdeliver.link/logos/canalruralfhd.png" group-title="F16 M5 AGRONEGÓCIOS",RURAL FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/30257
+#EXTINF:-1 tvg-id="" tvg-name="RURAL HD²" tvg-logo="http://contentsdeliver.link/logos/canalruralhd.png" group-title="F16 M5 AGRONEGÓCIOS",RURAL HD²
+http://trabalho724.top:8080/7csplay/seven2022/114051
+#EXTINF:-1 tvg-id="terraviva.br" tvg-name="TERRA VIVA FHD¹" tvg-logo="http://contentsdeliver.link/logos/terravivafhd.png" group-title="F16 M5 AGRONEGÓCIOS",TERRA VIVA FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/25668
+#EXTINF:-1 tvg-id="terraviva.br" tvg-name="TERRA VIVA HD¹" tvg-logo="http://contentsdeliver.link/logos/terravivahd.png" group-title="F16 M5 AGRONEGÓCIOS",TERRA VIVA HD¹
+http://trabalho724.top:8080/7csplay/seven2022/25669
+#EXTINF:-1 tvg-id="terraviva.br" tvg-name="TERRA VIVA SD²" tvg-logo="https://7vnx.xyz/logos/terravivasd.png" group-title="F16 M5 AGRONEGÓCIOS",TERRA VIVA SD²
+http://trabalho724.top:8080/7csplay/seven2022/64624
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="ANIMAL PLANET 4K¹" tvg-logo="http://contentsdeliver.link/logos/animalplanet4k.png" group-title="F16 M5 UHD (4K)",ANIMAL PLANET 4K¹
+http://trabalho724.top:8080/7csplay/seven2022/69814
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="CARTOON NETWORK 4K¹" tvg-logo="http://contentsdeliver.link/logos/cartoonnetwork4k.png" group-title="F16 M5 UHD (4K)",CARTOON NETWORK 4K¹
+http://trabalho724.top:8080/7csplay/seven2022/116627
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE 4K¹" tvg-logo="http://contentsdeliver.link/logos/combate4k.png" group-title="F16 M5 UHD (4K)",COMBATE 4K¹
+http://trabalho724.top:8080/7csplay/seven2022/116628
+#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="DISCOVERY CHANNEL 4K¹" tvg-logo="http://contentsdeliver.link/logos/discoverychannel4k.png" group-title="F16 M5 UHD (4K)",DISCOVERY CHANNEL 4K¹
+http://trabalho724.top:8080/7csplay/seven2022/116629
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO 4K¹" tvg-logo="http://contentsdeliver.link/logos/globo4k.png" group-title="F16 M5 UHD (4K)",GLOBO 4K¹
+http://trabalho724.top:8080/7csplay/seven2022/116630
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO 4K¹" tvg-logo="http://contentsdeliver.link/logos/hbo4k.png" group-title="F16 M5 UHD (4K)",HBO 4K¹
+http://trabalho724.top:8080/7csplay/seven2022/116632
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX 4K¹" tvg-logo="http://contentsdeliver.link/logos/megapix4k.png" group-title="F16 M5 UHD (4K)",MEGAPIX 4K¹
+http://trabalho724.top:8080/7csplay/seven2022/116633
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW 4K¹" tvg-logo="http://contentsdeliver.link/logos/multishow4k.png" group-title="F16 M5 UHD (4K)",MULTISHOW 4K¹
+http://trabalho724.top:8080/7csplay/seven2022/116634
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD 4K¹" tvg-logo="http://contentsdeliver.link/logos/record4k.png" group-title="F16 M5 UHD (4K)",RECORD 4K¹
+http://trabalho724.top:8080/7csplay/seven2022/69813
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV! 4K¹" tvg-logo="http://contentsdeliver.link/logos/redetv4k.png" group-title="F16 M5 UHD (4K)",REDE TV! 4K¹
+http://trabalho724.top:8080/7csplay/seven2022/116635
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV 4K¹" tvg-logo="http://contentsdeliver.link/logos/sportv4k.png" group-title="F16 M5 UHD (4K)",SPORTV 4K¹
+http://trabalho724.top:8080/7csplay/seven2022/116636
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TELECINE PREMIUM 4K¹" tvg-logo="http://contentsdeliver.link/logos/telecinepremium4k.png" group-title="F16 M5 UHD (4K)",TELECINE PREMIUM 4K¹
+http://trabalho724.top:8080/7csplay/seven2022/116641
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT 4K¹" tvg-logo="http://contentsdeliver.link/logos/tnt4k.png" group-title="F16 M5 UHD (4K)",TNT 4K¹
+http://trabalho724.top:8080/7csplay/seven2022/116642
+#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT SERIES 4K¹" tvg-logo="http://contentsdeliver.link/logos/tntseries4k.png" group-title="F16 M5 UHD (4K)",TNT SERIES 4K¹
+http://trabalho724.top:8080/7csplay/seven2022/116643
+#EXTINF:-1 tvg-id="recordtv.sao.paulo.br" tvg-name="RECORD SP FHD MAX²" tvg-logo="http://contentsdeliver.link/logos/recordfhdmax.png" group-title="F16 M5 RECORD",RECORD SP FHD MAX²
+http://trabalho724.top:8080/7csplay/seven2022/164400
+#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="RECORD SP FHD¹" tvg-logo="http://contentsdeliver.link/logos/recordfhd.png" group-title="F16 M5 RECORD",RECORD SP FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/28786
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="RECORD SP SD¹" tvg-logo="http://contentsdeliver.link/logos/recordsd.png" group-title="F16 M5 RECORD",RECORD SP SD¹
+http://trabalho724.top:8080/7csplay/seven2022/18629
+#EXTINF:-1 tvg-id="aande.br" tvg-name="RECORD SP FHD²" tvg-logo="http://contentsdeliver.link/logos/recordfhd.png" group-title="F16 M5 RECORD",RECORD SP FHD²
+http://trabalho724.top:8080/7csplay/seven2022/70911
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="RECORD SP HD¹" tvg-logo="http://contentsdeliver.link/logos/recordhd.png" group-title="F16 M5 RECORD",RECORD SP HD¹
+http://trabalho724.top:8080/7csplay/seven2022/7668
+#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="RECORD SP HD²" tvg-logo="http://contentsdeliver.link/logos/recordhd.png" group-title="F16 M5 RECORD",RECORD SP HD²
+http://trabalho724.top:8080/7csplay/seven2022/18598
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="RECORD SP SD¹" tvg-logo="http://contentsdeliver.link/logos/recordsd.png" group-title="F16 M5 RECORD",RECORD SP SD¹
+http://trabalho724.top:8080/7csplay/seven2022/7667
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="RECORD SP SD²" tvg-logo="http://contentsdeliver.link/logos/recordsd.png" group-title="F16 M5 RECORD",RECORD SP SD²
+http://trabalho724.top:8080/7csplay/seven2022/115836
+#EXTINF:-1 tvg-id="aande.br" tvg-name="RECORD RJ HD¹" tvg-logo="http://contentsdeliver.link/logos/recordhd.png" group-title="F16 M5 RECORD",RECORD RJ HD¹
+http://trabalho724.top:8080/7csplay/seven2022/18594
+#EXTINF:-1 tvg-id="aande.br" tvg-name="RECORD RJ HD²" tvg-logo="http://contentsdeliver.link/logos/recordhd.png" group-title="F16 M5 RECORD",RECORD RJ HD²
+http://trabalho724.top:8080/7csplay/seven2022/22601
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="RECORD BAHIA HD¹" tvg-logo="http://contentsdeliver.link/logos/recordhd.png" group-title="F16 M5 RECORD",RECORD BAHIA HD¹
+http://trabalho724.top:8080/7csplay/seven2022/28783
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="RECORD BELEM HD¹" tvg-logo="http://contentsdeliver.link/logos/recordhd.png" group-title="F16 M5 RECORD",RECORD BELEM HD¹
+http://trabalho724.top:8080/7csplay/seven2022/28784
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="RECORD BELEM HD¹" tvg-logo="http://contentsdeliver.link/logos/recordhd.png" group-title="F16 M5 RECORD",RECORD BELEM HD¹
+http://trabalho724.top:8080/7csplay/seven2022/18599
+#EXTINF:-1 tvg-id="aande.br" tvg-name="RECORD BRASILIA DF HD²" tvg-logo="http://contentsdeliver.link/logos/recordhd.png" group-title="F16 M5 RECORD",RECORD BRASILIA DF HD²
+http://trabalho724.top:8080/7csplay/seven2022/22377
+#EXTINF:-1 tvg-id="aande.br" tvg-name="RECORD BRASILIA DF HD²" tvg-logo="http://contentsdeliver.link/logos/recordhd.png" group-title="F16 M5 RECORD",RECORD BRASILIA DF HD²
+http://trabalho724.top:8080/7csplay/seven2022/22596
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="RECORD CABRALIA ITABUNA BAHIA HD²" tvg-logo="http://contentsdeliver.link/logos/recordhd.png" group-title="F16 M5 RECORD",RECORD CABRALIA ITABUNA BAHIA HD²
+http://trabalho724.top:8080/7csplay/seven2022/22604
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="RECORD CAMPINAS HD²" tvg-logo="http://contentsdeliver.link/logos/recordhd.png" group-title="F16 M5 RECORD",RECORD CAMPINAS HD²
+http://trabalho724.top:8080/7csplay/seven2022/22597
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="RECORD ES HD¹" tvg-logo="http://contentsdeliver.link/logos/recordhd.png" group-title="F16 M5 RECORD",RECORD ES HD¹
+http://trabalho724.top:8080/7csplay/seven2022/63227
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="RECORD GOIAS FHD¹" tvg-logo="http://contentsdeliver.link/logos/recordfhd.png" group-title="F16 M5 RECORD",RECORD GOIAS FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/28787
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="RECORD GOIAS HD¹" tvg-logo="http://contentsdeliver.link/logos/recordhd.png" group-title="F16 M5 RECORD",RECORD GOIAS HD¹
+http://trabalho724.top:8080/7csplay/seven2022/18601
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="RECORD GOIAS HD²" tvg-logo="http://contentsdeliver.link/logos/recordhd.png" group-title="F16 M5 RECORD",RECORD GOIAS HD²
+http://trabalho724.top:8080/7csplay/seven2022/70921
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="RECORD ILHA HD²" tvg-logo="http://contentsdeliver.link/logos/recordhd.png" group-title="F16 M5 RECORD",RECORD ILHA HD²
+http://trabalho724.top:8080/7csplay/seven2022/70918
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="RECORD ITAPOAN BAHIA HD¹" tvg-logo="http://contentsdeliver.link/logos/recordhd.png" group-title="F16 M5 RECORD",RECORD ITAPOAN BAHIA HD¹
+http://trabalho724.top:8080/7csplay/seven2022/52892
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="RECORD ITAPOAN BAHIA HD²" tvg-logo="http://contentsdeliver.link/logos/recordhd.png" group-title="F16 M5 RECORD",RECORD ITAPOAN BAHIA HD²
+http://trabalho724.top:8080/7csplay/seven2022/18627
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="RECORD ITAPOAN BAHIA SD²" tvg-logo="http://contentsdeliver.link/logos/recordsd.png" group-title="F16 M5 RECORD",RECORD ITAPOAN BAHIA SD²
+http://trabalho724.top:8080/7csplay/seven2022/64626
+#EXTINF:-1 tvg-id="aande.br" tvg-name="RECORD ITAPUAN NORDESTE HD¹" tvg-logo="http://contentsdeliver.link/logos/recordhd.png" group-title="F16 M5 RECORD",RECORD ITAPUAN NORDESTE HD¹
+http://trabalho724.top:8080/7csplay/seven2022/22600
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="RECORD LITORAL SANTOS HD²" tvg-logo="http://contentsdeliver.link/logos/recordhd.png" group-title="F16 M5 RECORD",RECORD LITORAL SANTOS HD²
+http://trabalho724.top:8080/7csplay/seven2022/70915
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="RECORD MINAS FHD¹" tvg-logo="http://contentsdeliver.link/logos/recordfhd.png" group-title="F16 M5 RECORD",RECORD MINAS FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/18591
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="RECORD MINAS HD¹" tvg-logo="http://contentsdeliver.link/logos/recordhd.png" group-title="F16 M5 RECORD",RECORD MINAS HD¹
+http://trabalho724.top:8080/7csplay/seven2022/18603
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="RECORD MINAS HD²" tvg-logo="http://contentsdeliver.link/logos/recordhd.png" group-title="F16 M5 RECORD",RECORD MINAS HD²
+http://trabalho724.top:8080/7csplay/seven2022/22605
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="RECORD MANAUS HD¹" tvg-logo="http://contentsdeliver.link/logos/recordhd.png" group-title="F16 M5 RECORD",RECORD MANAUS HD¹
+http://trabalho724.top:8080/7csplay/seven2022/18589
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="RECORD MANAUS HD²" tvg-logo="http://contentsdeliver.link/logos/recordhd.png" group-title="F16 M5 RECORD",RECORD MANAUS HD²
+http://trabalho724.top:8080/7csplay/seven2022/70919
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="RECORD PARANAIBA UBERLANDIA-MG HD²" tvg-logo="http://contentsdeliver.link/logos/recordhd.png" group-title="F16 M5 RECORD",RECORD PARANAIBA UBERLANDIA-MG HD²
+http://trabalho724.top:8080/7csplay/seven2022/70912
+#EXTINF:-1 tvg-id="" tvg-name="RECORD PORTUGAL HD" tvg-logo="http://contentsdeliver.link/logos/recordhd.png" group-title="F16 M5 RECORD",RECORD PORTUGAL HD
+http://trabalho724.top:8080/7csplay/seven2022/63652
+#EXTINF:-1 tvg-id="" tvg-name="RECORD PORTUGAL HD*" tvg-logo="http://contentsdeliver.link/logos/recordhd.png" group-title="F16 M5 RECORD",RECORD PORTUGAL HD*
+http://trabalho724.top:8080/7csplay/seven2022/63651
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="RECORD RS FHD²" tvg-logo="http://contentsdeliver.link/logos/recordfhd.png" group-title="F16 M5 RECORD",RECORD RS FHD²
+http://trabalho724.top:8080/7csplay/seven2022/70920
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="RECORD RS HD¹" tvg-logo="http://contentsdeliver.link/logos/recordhd.png" group-title="F16 M5 RECORD",RECORD RS HD¹
+http://trabalho724.top:8080/7csplay/seven2022/28782
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="RECORD RS HD²" tvg-logo="http://contentsdeliver.link/logos/recordhd.png" group-title="F16 M5 RECORD",RECORD RS HD²
+http://trabalho724.top:8080/7csplay/seven2022/22602
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="RECORD RIC CURITIBA-PR HD²" tvg-logo="http://contentsdeliver.link/logos/recordhd.png" group-title="F16 M5 RECORD",RECORD RIC CURITIBA-PR HD²
+http://trabalho724.top:8080/7csplay/seven2022/28785
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="RECORD SANTA CATARINA HD²" tvg-logo="http://contentsdeliver.link/logos/recordhd.png" group-title="F16 M5 RECORD",RECORD SANTA CATARINA HD²
+http://trabalho724.top:8080/7csplay/seven2022/70917
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="RECORD SAO JOSE RIO PRETO HD²" tvg-logo="http://contentsdeliver.link/logos/recordhd.png" group-title="F16 M5 RECORD",RECORD SAO JOSE RIO PRETO HD²
+http://trabalho724.top:8080/7csplay/seven2022/70913
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="RECORD SERGIPE ATALAIA HD²" tvg-logo="http://contentsdeliver.link/logos/recordhd.png" group-title="F16 M5 RECORD",RECORD SERGIPE ATALAIA HD²
+http://trabalho724.top:8080/7csplay/seven2022/70914
+#EXTINF:-1 tvg-id="eptv.campinas.br" tvg-name="RECORD THATHI CAMPINAS HD²" tvg-logo="http://contentsdeliver.link/logos/recordhd.png" group-title="F16 M5 RECORD",RECORD THATHI CAMPINAS HD²
+http://trabalho724.top:8080/7csplay/seven2022/70916
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="CARTOON NETWORK FHD¹" tvg-logo="http://contentsdeliver.link/logos/cartoonnetworkfhd.png" group-title="F16 M5 INFANTIL",CARTOON NETWORK FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/45198
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="CARTOON NETWORK FHD²" tvg-logo="http://contentsdeliver.link/logos/cartoonnetworkfhd.png" group-title="F16 M5 INFANTIL",CARTOON NETWORK FHD²
+http://trabalho724.top:8080/7csplay/seven2022/22653
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="CARTOON NETWORK HD¹" tvg-logo="http://contentsdeliver.link/logos/cartoonnetworkhd.png" group-title="F16 M5 INFANTIL",CARTOON NETWORK HD¹
+http://trabalho724.top:8080/7csplay/seven2022/121370
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="CARTOON NETWORK HD²" tvg-logo="http://contentsdeliver.link/logos/cartoonnetworkhd.png" group-title="F16 M5 INFANTIL",CARTOON NETWORK HD²
+http://trabalho724.top:8080/7csplay/seven2022/22468
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="CARTOON NETWORK SD¹" tvg-logo="http://contentsdeliver.link/logos/cartoonnetworksd.png" group-title="F16 M5 INFANTIL",CARTOON NETWORK SD¹
+http://trabalho724.top:8080/7csplay/seven2022/18712
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="CARTOON NETWORK SD²" tvg-logo="http://contentsdeliver.link/logos/cartoonnetworksd.png" group-title="F16 M5 INFANTIL",CARTOON NETWORK SD²
+http://trabalho724.top:8080/7csplay/seven2022/22306
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="CARTOONITO FHD¹" tvg-logo="http://contentsdeliver.link/logos/cartonitofhd.png" group-title="F16 M5 INFANTIL",CARTOONITO FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/121368
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="CARTOONITO FHD²" tvg-logo="http://contentsdeliver.link/logos/cartonitofhd.png" group-title="F16 M5 INFANTIL",CARTOONITO FHD²
+http://trabalho724.top:8080/7csplay/seven2022/22652
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="CARTOONITO HD¹" tvg-logo="http://contentsdeliver.link/logos/cartonitohd.png" group-title="F16 M5 INFANTIL",CARTOONITO HD¹
+http://trabalho724.top:8080/7csplay/seven2022/22467
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="CARTOONITO HD²" tvg-logo="http://contentsdeliver.link/logos/cartonitohd.png" group-title="F16 M5 INFANTIL",CARTOONITO HD²
+http://trabalho724.top:8080/7csplay/seven2022/18686
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="CARTOONITO SD¹" tvg-logo="http://contentsdeliver.link/logos/cartonitosd.png" group-title="F16 M5 INFANTIL",CARTOONITO SD¹
+http://trabalho724.top:8080/7csplay/seven2022/22302
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="CARTOONITO SD²" tvg-logo="http://contentsdeliver.link/logos/cartonitosd.png" group-title="F16 M5 INFANTIL",CARTOONITO SD²
+http://trabalho724.top:8080/7csplay/seven2022/121367
+#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="DISCOVERY KIDS FHD¹" tvg-logo="http://contentsdeliver.link/logos/discoverykidsfhd.png" group-title="F16 M5 INFANTIL",DISCOVERY KIDS FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/22660
+#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="DISCOVERY KIDS FHD²" tvg-logo="http://contentsdeliver.link/logos/discoverykidsfhd.png" group-title="F16 M5 INFANTIL",DISCOVERY KIDS FHD²
+http://trabalho724.top:8080/7csplay/seven2022/45203
+#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="DISCOVERY KIDS HD¹" tvg-logo="http://contentsdeliver.link/logos/discoverykidshd.png" group-title="F16 M5 INFANTIL",DISCOVERY KIDS HD¹
+http://trabalho724.top:8080/7csplay/seven2022/22508
+#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="DISCOVERY KIDS SD¹" tvg-logo="http://contentsdeliver.link/logos/discoverykidssd.png" group-title="F16 M5 INFANTIL",DISCOVERY KIDS SD¹
+http://trabalho724.top:8080/7csplay/seven2022/22321
+#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="DISCOVERY KIDS SD²" tvg-logo="http://contentsdeliver.link/logos/discoverykidssd.png" group-title="F16 M5 INFANTIL",DISCOVERY KIDS SD²
+http://trabalho724.top:8080/7csplay/seven2022/18716
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB FHD¹" tvg-logo="http://contentsdeliver.link/logos/gloobfhd.png" group-title="F16 M5 INFANTIL",GLOOB FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/121372
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB FHD²" tvg-logo="http://contentsdeliver.link/logos/gloobfhd.png" group-title="F16 M5 INFANTIL",GLOOB FHD²
+http://trabalho724.top:8080/7csplay/seven2022/22678
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB HD¹" tvg-logo="http://contentsdeliver.link/logos/gloobhd.png" group-title="F16 M5 INFANTIL",GLOOB HD¹
+http://trabalho724.top:8080/7csplay/seven2022/18702
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB HD²" tvg-logo="http://contentsdeliver.link/logos/gloobhd.png" group-title="F16 M5 INFANTIL",GLOOB HD²
+http://trabalho724.top:8080/7csplay/seven2022/22545
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB SD¹" tvg-logo="http://contentsdeliver.link/logos/gloobsd.png" group-title="F16 M5 INFANTIL",GLOOB SD¹
+http://trabalho724.top:8080/7csplay/seven2022/22348
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB SD²" tvg-logo="http://contentsdeliver.link/logos/gloobsd.png" group-title="F16 M5 INFANTIL",GLOOB SD²
+http://trabalho724.top:8080/7csplay/seven2022/18689
+#EXTINF:-1 tvg-id="gloobinho.bt" tvg-name="GLOOBINHO FHD¹" tvg-logo="http://contentsdeliver.link/logos/gloobinhofhd.png" group-title="F16 M5 INFANTIL",GLOOBINHO FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/121376
+#EXTINF:-1 tvg-id="gloobinho.bt" tvg-name="GLOOBINHO FHD²" tvg-logo="http://contentsdeliver.link/logos/gloobinhofhd.png" group-title="F16 M5 INFANTIL",GLOOBINHO FHD²
+http://trabalho724.top:8080/7csplay/seven2022/121377
+#EXTINF:-1 tvg-id="gloobinho.bt" tvg-name="GLOOBINHO HD¹" tvg-logo="http://contentsdeliver.link/logos/gloobinhohd.png" group-title="F16 M5 INFANTIL",GLOOBINHO HD¹
+http://trabalho724.top:8080/7csplay/seven2022/121373
+#EXTINF:-1 tvg-id="gloobinho.bt" tvg-name="GLOOBINHO HD²" tvg-logo="http://contentsdeliver.link/logos/gloobinhohd.png" group-title="F16 M5 INFANTIL",GLOOBINHO HD²
+http://trabalho724.top:8080/7csplay/seven2022/121374
+#EXTINF:-1 tvg-id="gloobinho.bt" tvg-name="GLOOBINHO SD¹" tvg-logo="http://contentsdeliver.link/logos/gloobinhosd.png" group-title="F16 M5 INFANTIL",GLOOBINHO SD¹
+http://trabalho724.top:8080/7csplay/seven2022/121375
+#EXTINF:-1 tvg-id="gloobinho.bt" tvg-name="GLOOBINHO SD²" tvg-logo="http://contentsdeliver.link/logos/gloobinhosd.png" group-title="F16 M5 INFANTIL",GLOOBINHO SD²
+http://trabalho724.top:8080/7csplay/seven2022/22349
+#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="NICK FHD¹" tvg-logo="http://contentsdeliver.link/logos/nickelodeonfhd.png" group-title="F16 M5 INFANTIL",NICK FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/64702
+#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="NICK FHD²" tvg-logo="http://contentsdeliver.link/logos/nickelodeonfhd.png" group-title="F16 M5 INFANTIL",NICK FHD²
+http://trabalho724.top:8080/7csplay/seven2022/18851
+#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="NICK HD¹" tvg-logo="http://contentsdeliver.link/logos/nickelodeonhd.png" group-title="F16 M5 INFANTIL",NICK HD¹
+http://trabalho724.top:8080/7csplay/seven2022/22593
+#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="NICK SD¹" tvg-logo="http://contentsdeliver.link/logos/nickelodeonsd.png" group-title="F16 M5 INFANTIL",NICK SD¹
+http://trabalho724.top:8080/7csplay/seven2022/64701
+#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="NICK SD²" tvg-logo="http://contentsdeliver.link/logos/nickelodeonsd.png" group-title="F16 M5 INFANTIL",NICK SD²
+http://trabalho724.top:8080/7csplay/seven2022/18688
+#EXTINF:-1 tvg-id="nickjr.br" tvg-name="NICK JR FHD¹" tvg-logo="http://contentsdeliver.link/logos/nickjrfhd.png" group-title="F16 M5 INFANTIL",NICK JR FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/64715
+#EXTINF:-1 tvg-id="nickjr.br" tvg-name="NICK JR FHD²" tvg-logo="http://contentsdeliver.link/logos/nickjrfhd.png" group-title="F16 M5 INFANTIL",NICK JR FHD²
+http://trabalho724.top:8080/7csplay/seven2022/22697
+#EXTINF:-1 tvg-id="nickjr.br" tvg-name="NICK JR HD¹" tvg-logo="http://contentsdeliver.link/logos/nickjrhd.png" group-title="F16 M5 INFANTIL",NICK JR HD¹
+http://trabalho724.top:8080/7csplay/seven2022/22592
+#EXTINF:-1 tvg-id="nickjr.br" tvg-name="NICK JR SD¹" tvg-logo="http://contentsdeliver.link/logos/nickjrsd.png" group-title="F16 M5 INFANTIL",NICK JR SD¹
+http://trabalho724.top:8080/7csplay/seven2022/22372
+#EXTINF:-1 tvg-id="nickjr.br" tvg-name="NICK JR SD²" tvg-logo="http://contentsdeliver.link/logos/nickjrsd.png" group-title="F16 M5 INFANTIL",NICK JR SD²
+http://trabalho724.top:8080/7csplay/seven2022/18687
+#EXTINF:-1 tvg-id="" tvg-name="PLAY KIDS HD²" tvg-logo="http://contentsdeliver.link/logos/playkidshd.png" group-title="F16 M5 INFANTIL",PLAY KIDS HD²
+http://trabalho724.top:8080/7csplay/seven2022/125508
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="TOONCAST FHD¹" tvg-logo="http://contentsdeliver.link/logos/tooncastfhd.png" group-title="F16 M5 INFANTIL",TOONCAST FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/125501
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="TOONCAST FHD²" tvg-logo="http://contentsdeliver.link/logos/tooncastfhd.png" group-title="F16 M5 INFANTIL",TOONCAST FHD²
+http://trabalho724.top:8080/7csplay/seven2022/22719
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="TOONCAST HD¹" tvg-logo="http://contentsdeliver.link/logos/tooncasthd.png" group-title="F16 M5 INFANTIL",TOONCAST HD¹
+http://trabalho724.top:8080/7csplay/seven2022/22625
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="TOONCAST HD²" tvg-logo="http://contentsdeliver.link/logos/tooncasthd.png" group-title="F16 M5 INFANTIL",TOONCAST HD²
+http://trabalho724.top:8080/7csplay/seven2022/18699
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="TOONCAST SD¹" tvg-logo="http://contentsdeliver.link/logos/tooncastsd.png" group-title="F16 M5 INFANTIL",TOONCAST SD¹
+http://trabalho724.top:8080/7csplay/seven2022/22405
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="TOONCAST SD²" tvg-logo="http://contentsdeliver.link/logos/tooncastsd.png" group-title="F16 M5 INFANTIL",TOONCAST SD²
+http://trabalho724.top:8080/7csplay/seven2022/18714
+#EXTINF:-1 tvg-id="" tvg-name="TV RA-TIM-BUM FHD¹" tvg-logo="http://contentsdeliver.link/logos/tvratinbumfhd.png" group-title="F16 M5 INFANTIL",TV RA-TIM-BUM FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/125504
+#EXTINF:-1 tvg-id="" tvg-name="TV RA-TIM-BUM HD¹" tvg-logo="http://contentsdeliver.link/logos/tvratinbumhd.png" group-title="F16 M5 INFANTIL",TV RA-TIM-BUM HD¹
+http://trabalho724.top:8080/7csplay/seven2022/125503
+#EXTINF:-1 tvg-id="" tvg-name="TV RA-TIM-BUM HD²" tvg-logo="http://contentsdeliver.link/logos/tvratinbumhd.png" group-title="F16 M5 INFANTIL",TV RA-TIM-BUM HD²
+http://trabalho724.top:8080/7csplay/seven2022/64703
+#EXTINF:-1 tvg-id="aande.br" tvg-name="TV RA-TIM-BUM SD²" tvg-logo="http://contentsdeliver.link/logos/tvratinbumsd.png" group-title="F16 M5 INFANTIL",TV RA-TIM-BUM SD²
+http://trabalho724.top:8080/7csplay/seven2022/22414
+#EXTINF:-1 tvg-id="" tvg-name="TV RA-TIM-BUM SD¹" tvg-logo="http://contentsdeliver.link/logos/tvratinbumsd.png" group-title="F16 M5 INFANTIL",TV RA-TIM-BUM SD¹
+http://trabalho724.top:8080/7csplay/seven2022/125502
+#EXTINF:-1 tvg-id="" tvg-name="ZOOMOO KIDS FHD²" tvg-logo="http://contentsdeliver.link/logos/zoomoofhd.png" group-title="F16 M5 INFANTIL",ZOOMOO KIDS FHD²
+http://trabalho724.top:8080/7csplay/seven2022/64700
+#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="ZOOMOO KIDS HD¹" tvg-logo="http://contentsdeliver.link/logos/zoomoohd.png" group-title="F16 M5 INFANTIL",ZOOMOO KIDS HD¹
+http://trabalho724.top:8080/7csplay/seven2022/125507
+#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="ZOOMOO KIDS HD²" tvg-logo="http://contentsdeliver.link/logos/zoomoohd.png" group-title="F16 M5 INFANTIL",ZOOMOO KIDS HD²
+http://trabalho724.top:8080/7csplay/seven2022/22633
+#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="ZOOMOO KIDS SD¹" tvg-logo="http://contentsdeliver.link/logos/zoomoosd.png" group-title="F16 M5 INFANTIL",ZOOMOO KIDS SD¹
+http://trabalho724.top:8080/7csplay/seven2022/64699
+#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="ZOOMOO KIDS SD²" tvg-logo="http://contentsdeliver.link/logos/zoomoosd.png" group-title="F16 M5 INFANTIL",ZOOMOO KIDS SD²
+http://trabalho724.top:8080/7csplay/seven2022/64714
+#EXTINF:-1 tvg-id="cntriohd.br" tvg-name="CNT FHD¹" tvg-logo="http://contentsdeliver.link/logos/cntfhd.png" group-title="F16 M5 ABERTOS",CNT FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/18916
+#EXTINF:-1 tvg-id="" tvg-name="COM BRASIL TV FHD¹" tvg-logo="http://contentsdeliver.link/logos/combrasilfhd.png" group-title="F16 M5 ABERTOS",COM BRASIL TV FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/114058
+#EXTINF:-1 tvg-id="" tvg-name="FUTURA FHD¹" tvg-logo="http://contentsdeliver.link/logos/futurafhd.png" group-title="F16 M5 ABERTOS",FUTURA FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/114060
+#EXTINF:-1 tvg-id="" tvg-name="FUTURA HD¹" tvg-logo="http://contentsdeliver.link/logos/futurahd.png" group-title="F16 M5 ABERTOS",FUTURA HD¹
+http://trabalho724.top:8080/7csplay/seven2022/114061
+#EXTINF:-1 tvg-id="" tvg-name="FUTURA SD²" tvg-logo="http://contentsdeliver.link/logos/futurasd.png" group-title="F16 M5 ABERTOS",FUTURA SD²
+http://trabalho724.top:8080/7csplay/seven2022/114062
+#EXTINF:-1 tvg-id="" tvg-name="RBI TV HD¹" tvg-logo="http://contentsdeliver.link/logos/rbihd.png" group-title="F16 M5 ABERTOS",RBI TV HD¹
+http://trabalho724.top:8080/7csplay/seven2022/114053
+#EXTINF:-1 tvg-id="" tvg-name="REDE BRASIL SD²" tvg-logo="http://contentsdeliver.link/logos/redebrasilsd.png" group-title="F16 M5 ABERTOS",REDE BRASIL SD²
+http://trabalho724.top:8080/7csplay/seven2022/114063
+#EXTINF:-1 tvg-id="" tvg-name="REDE MINAS FHD¹" tvg-logo="http://contentsdeliver.link/logos/redeminasfhd.png" group-title="F16 M5 ABERTOS",REDE MINAS FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/115830
+#EXTINF:-1 tvg-id="" tvg-name="REDE MINAS HD²" tvg-logo="http://contentsdeliver.link/logos/redeminashd.png" group-title="F16 M5 ABERTOS",REDE MINAS HD²
+http://trabalho724.top:8080/7csplay/seven2022/115831
+#EXTINF:-1 tvg-id="tvbrasil.br" tvg-name="TV BRASIL FHD¹" tvg-logo="http://contentsdeliver.link/logos/tvbrasilfhd.png" group-title="F16 M5 ABERTOS",TV BRASIL FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/27888
+#EXTINF:-1 tvg-id="tvbrasil.br" tvg-name="TV BRASIL HD¹" tvg-logo="http://contentsdeliver.link/logos/tvbrasilhd.png" group-title="F16 M5 ABERTOS",TV BRASIL HD¹
+http://trabalho724.top:8080/7csplay/seven2022/30256
+#EXTINF:-1 tvg-id="tvbrasil.br" tvg-name="TV BRASIL HD²" tvg-logo="http://contentsdeliver.link/logos/tvbrasilhd.png" group-title="F16 M5 ABERTOS",TV BRASIL HD²
+http://trabalho724.top:8080/7csplay/seven2022/64623
+#EXTINF:-1 tvg-id="tvcamara.br" tvg-name="TV CAMARA FHD¹" tvg-logo="http://contentsdeliver.link/logos/tvcamarafhd.png" group-title="F16 M5 ABERTOS",TV CAMARA FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/25673
+#EXTINF:-1 tvg-id="tvcamara.br" tvg-name="TV CAMARA HD¹" tvg-logo="http://contentsdeliver.link/logos/tvcamarahd.png" group-title="F16 M5 ABERTOS",TV CAMARA HD¹
+http://trabalho724.top:8080/7csplay/seven2022/64622
+#EXTINF:-1 tvg-id="" tvg-name="TV CLUBE SAO JOSE DO NORTE HD*" tvg-logo="http://contentsdeliver.link/logos/tvclubesaojosehd.png" group-title="F16 M5 ABERTOS",TV CLUBE SAO JOSE DO NORTE HD*
+http://trabalho724.top:8080/7csplay/seven2022/55477
+#EXTINF:-1 tvg-id="" tvg-name="TV CULTURA PARÁ HD*" tvg-logo="http://contentsdeliver.link/logos/tvculturaparahd.png" group-title="F16 M5 ABERTOS",TV CULTURA PARÁ HD*
+http://trabalho724.top:8080/7csplay/seven2022/50094
+#EXTINF:-1 tvg-id="aande.br" tvg-name="TV DIARIO FHD¹" tvg-logo="http://contentsdeliver.link/logos/tvdiariofhd.png" group-title="F16 M5 ABERTOS",TV DIARIO FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/25670
+#EXTINF:-1 tvg-id="aande.br" tvg-name="TV DIARIO HD¹" tvg-logo="http://contentsdeliver.link/logos/tvdiariohd.png" group-title="F16 M5 ABERTOS",TV DIARIO HD¹
+http://trabalho724.top:8080/7csplay/seven2022/25671
+#EXTINF:-1 tvg-id="" tvg-name="TV DIARIO HD²" tvg-logo="http://contentsdeliver.link/logos/tvdiariohd.png" group-title="F16 M5 ABERTOS",TV DIARIO HD²
+http://trabalho724.top:8080/7csplay/seven2022/64621
+#EXTINF:-1 tvg-id="aande.br" tvg-name="TV DIARIO SD¹" tvg-logo="http://contentsdeliver.link/logos/tvdiariosd.png" group-title="F16 M5 ABERTOS",TV DIARIO SD¹
+http://trabalho724.top:8080/7csplay/seven2022/25672
+#EXTINF:-1 tvg-id="aande.br" tvg-name="TV ESCOLA FHD¹" tvg-logo="http://contentsdeliver.link/logos/tvescolafhd.png" group-title="F16 M5 ABERTOS",TV ESCOLA FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/64625
+#EXTINF:-1 tvg-id="tvescola.br" tvg-name="TV ESCOLA HD*" tvg-logo="http://contentsdeliver.link/logos/tvescolahd.png" group-title="F16 M5 ABERTOS",TV ESCOLA HD*
+http://trabalho724.top:8080/7csplay/seven2022/25667
+#EXTINF:-1 tvg-id="" tvg-name="TV ESCOLA SD²" tvg-logo="http://contentsdeliver.link/logos/tvescolasd.png" group-title="F16 M5 ABERTOS",TV ESCOLA SD²
+http://trabalho724.top:8080/7csplay/seven2022/114054
+#EXTINF:-1 tvg-id="tvgazeta.br" tvg-name="TV GAZETA FHD¹" tvg-logo="http://contentsdeliver.link/logos/tvgazetafhd.png" group-title="F16 M5 ABERTOS",TV GAZETA FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/25665
+#EXTINF:-1 tvg-id="tvgazeta.br" tvg-name="TV GAZETA HD¹" tvg-logo="http://contentsdeliver.link/logos/tvgazetahd.png" group-title="F16 M5 ABERTOS",TV GAZETA HD¹
+http://trabalho724.top:8080/7csplay/seven2022/20948
+#EXTINF:-1 tvg-id="tvgazeta.br" tvg-name="TV GAZETA HD²" tvg-logo="http://contentsdeliver.link/logos/tvgazetahd.png" group-title="F16 M5 ABERTOS",TV GAZETA HD²
+http://trabalho724.top:8080/7csplay/seven2022/18831
+#EXTINF:-1 tvg-id="" tvg-name="TV JUSTICA FHD¹" tvg-logo="http://contentsdeliver.link/logos/tvjusticafhd.png" group-title="F16 M5 ABERTOS",TV JUSTICA FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/114055
+#EXTINF:-1 tvg-id="" tvg-name="TV JUSTICA HD²" tvg-logo="http://contentsdeliver.link/logos/tvjusticahd.png" group-title="F16 M5 ABERTOS",TV JUSTICA HD²
+http://trabalho724.top:8080/7csplay/seven2022/114056
+#EXTINF:-1 tvg-id="" tvg-name="TV MON HD*" tvg-logo="http://contentsdeliver.link/logos/tvmonhd.png" group-title="F16 M5 ABERTOS",TV MON HD*
+http://trabalho724.top:8080/7csplay/seven2022/55492
+#EXTINF:-1 tvg-id="" tvg-name="TV PAMPA FHD¹" tvg-logo="http://contentsdeliver.link/logos/tvpampafhd.png" group-title="F16 M5 ABERTOS",TV PAMPA FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/55493
+#EXTINF:-1 tvg-id="" tvg-name="TV PAMPA HD²" tvg-logo="http://contentsdeliver.link/logos/tvpampahd.png" group-title="F16 M5 ABERTOS",TV PAMPA HD²
+http://trabalho724.top:8080/7csplay/seven2022/115825
+#EXTINF:-1 tvg-id="tvsenado.br" tvg-name="TV SENADO FHD¹" tvg-logo="http://contentsdeliver.link/logos/tvsenadofhd.png" group-title="F16 M5 ABERTOS",TV SENADO FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/114066
+#EXTINF:-1 tvg-id="tvsenado.br" tvg-name="TV SENADO HD²" tvg-logo="http://contentsdeliver.link/logos/tvsenadohd.png" group-title="F16 M5 ABERTOS",TV SENADO HD²
+http://trabalho724.top:8080/7csplay/seven2022/114065
+#EXTINF:-1 tvg-id="tve.bahia.br" tvg-name="TVE BAHIA FHD¹" tvg-logo="http://contentsdeliver.link/logos/tvebahiafhd.png" group-title="F16 M5 ABERTOS",TVE BAHIA FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/114048
+#EXTINF:-1 tvg-id="" tvg-name="TVE BRASIL FHD¹" tvg-logo="http://contentsdeliver.link/logos/tvebrasilfhd.png" group-title="F16 M5 ABERTOS",TVE BRASIL FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/114047
+#EXTINF:-1 tvg-id="arte1.br" tvg-name="ARTE 1 FHD¹" tvg-logo="http://contentsdeliver.link/logos/arte1fhd.png" group-title="F16 M5 VARIEDADES",ARTE 1 FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/22639
+#EXTINF:-1 tvg-id="arte1.br" tvg-name="ARTE 1 FHD²" tvg-logo="http://contentsdeliver.link/logos/arte1fhd.png" group-title="F16 M5 VARIEDADES",ARTE 1 FHD²
+http://trabalho724.top:8080/7csplay/seven2022/45196
+#EXTINF:-1 tvg-id="arte1.br" tvg-name="ARTE 1 HD¹" tvg-logo="http://contentsdeliver.link/logos/arte1hd.png" group-title="F16 M5 VARIEDADES",ARTE 1 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/18790
+#EXTINF:-1 tvg-id="arte1.br" tvg-name="ARTE 1 HD²" tvg-logo="http://contentsdeliver.link/logos/arte1hd.png" group-title="F16 M5 VARIEDADES",ARTE 1 HD²
+http://trabalho724.top:8080/7csplay/seven2022/22458
+#EXTINF:-1 tvg-id="arte1.br" tvg-name="ARTE 1 SD¹" tvg-logo="http://contentsdeliver.link/logos/arte1sd.png" group-title="F16 M5 VARIEDADES",ARTE 1 SD¹
+http://trabalho724.top:8080/7csplay/seven2022/22294
+#EXTINF:-1 tvg-id="arte1.br" tvg-name="ARTE 1 SD²" tvg-logo="http://contentsdeliver.link/logos/arte1sd.png" group-title="F16 M5 VARIEDADES",ARTE 1 SD²
+http://trabalho724.top:8080/7csplay/seven2022/18723
+#EXTINF:-1 tvg-id="" tvg-name="ANIME TV HD*" tvg-logo="http://contentsdeliver.link/logos/animetvhd.png" group-title="F16 M5 VARIEDADES",ANIME TV HD*
+http://trabalho724.top:8080/7csplay/seven2022/165799
+#EXTINF:-1 tvg-id="" tvg-name="BAH! TV PORTO ALEGRE HD¹" tvg-logo="http://contentsdeliver.link/logos/bahtvhd.png" group-title="F16 M5 VARIEDADES",BAH! TV PORTO ALEGRE HD¹
+http://trabalho724.top:8080/7csplay/seven2022/116675
+#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="COMEDY CENTRAL FHD¹" tvg-logo="http://contentsdeliver.link/logos/comedycentralfhd.png" group-title="F16 M5 VARIEDADES",COMEDY CENTRAL FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/18917
+#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="COMEDY CENTRAL FHD²" tvg-logo="http://contentsdeliver.link/logos/comedycentralfhd.png" group-title="F16 M5 VARIEDADES",COMEDY CENTRAL FHD²
+http://trabalho724.top:8080/7csplay/seven2022/22657
+#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="COMEDY CENTRAL HD¹" tvg-logo="http://contentsdeliver.link/logos/comedycentralhd.png" group-title="F16 M5 VARIEDADES",COMEDY CENTRAL HD¹
+http://trabalho724.top:8080/7csplay/seven2022/31483
+#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="COMEDY CENTRAL HD²" tvg-logo="http://contentsdeliver.link/logos/comedycentralhd.png" group-title="F16 M5 VARIEDADES",COMEDY CENTRAL HD²
+http://trabalho724.top:8080/7csplay/seven2022/22493
+#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="COMEDY CENTRAL SD¹" tvg-logo="http://contentsdeliver.link/logos/comedycentralsd.png" group-title="F16 M5 VARIEDADES",COMEDY CENTRAL SD¹
+http://trabalho724.top:8080/7csplay/seven2022/31484
+#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="COMEDY CENTRAL SD²" tvg-logo="http://contentsdeliver.link/logos/comedycentralsd.png" group-title="F16 M5 VARIEDADES",COMEDY CENTRAL SD²
+http://trabalho724.top:8080/7csplay/seven2022/22310
+#EXTINF:-1 tvg-id="curta.br" tvg-name="CURTA! FHD¹" tvg-logo="http://contentsdeliver.link/logos/curtafhd.png" group-title="F16 M5 VARIEDADES",CURTA! FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/18818
+#EXTINF:-1 tvg-id="curta.br" tvg-name="CURTA! HD¹" tvg-logo="http://contentsdeliver.link/logos/curtahd.png" group-title="F16 M5 VARIEDADES",CURTA! HD¹
+http://trabalho724.top:8080/7csplay/seven2022/22501
+#EXTINF:-1 tvg-id="curta.br" tvg-name="CURTA! SD²" tvg-logo="http://contentsdeliver.link/logos/curtasd.png" group-title="F16 M5 VARIEDADES",CURTA! SD²
+http://trabalho724.top:8080/7csplay/seven2022/22318
+#EXTINF:-1 tvg-id="dogtv.br" tvg-name="DOG TV FHD²" tvg-logo="http://contentsdeliver.link/logos/dogtvfhd.png" group-title="F16 M5 VARIEDADES",DOG TV FHD²
+http://trabalho724.top:8080/7csplay/seven2022/116697
+#EXTINF:-1 tvg-id="dogtv.br" tvg-name="DOG TV HD²" tvg-logo="http://contentsdeliver.link/logos/dogtvhd.png" group-title="F16 M5 VARIEDADES",DOG TV HD²
+http://trabalho724.top:8080/7csplay/seven2022/64640
+#EXTINF:-1 tvg-id="eentertainment.br" tvg-name="E! FHD¹" tvg-logo="http://contentsdeliver.link/logos/efhd.png" group-title="F16 M5 VARIEDADES",E! FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/31486
+#EXTINF:-1 tvg-id="eentertainment.br" tvg-name="E! FHD²" tvg-logo="http://contentsdeliver.link/logos/efhd.png" group-title="F16 M5 VARIEDADES",E! FHD²
+http://trabalho724.top:8080/7csplay/seven2022/64639
+#EXTINF:-1 tvg-id="eentertainment.br" tvg-name="E! HD¹" tvg-logo="http://contentsdeliver.link/logos/ehd.png" group-title="F16 M5 VARIEDADES",E! HD¹
+http://trabalho724.top:8080/7csplay/seven2022/18829
+#EXTINF:-1 tvg-id="eentertainment.br" tvg-name="E! HD²" tvg-logo="http://contentsdeliver.link/logos/ehd.png" group-title="F16 M5 VARIEDADES",E! HD²
+http://trabalho724.top:8080/7csplay/seven2022/22517
+#EXTINF:-1 tvg-id="eentertainment.br" tvg-name="E! SD¹" tvg-logo="http://contentsdeliver.link/logos/esd.png" group-title="F16 M5 VARIEDADES",E! SD¹
+http://trabalho724.top:8080/7csplay/seven2022/18733
+#EXTINF:-1 tvg-id="eentertainment.br" tvg-name="E! SD²" tvg-logo="http://contentsdeliver.link/logos/esd.png" group-title="F16 M5 VARIEDADES",E! SD²
+http://trabalho724.top:8080/7csplay/seven2022/22330
+#EXTINF:-1 tvg-id="fashiontv.br" tvg-name="FASHION TV FHD¹" tvg-logo="http://contentsdeliver.link/logos/fashionfhd.png" group-title="F16 M5 VARIEDADES",FASHION TV FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/64645
+#EXTINF:-1 tvg-id="fashiontv.br" tvg-name="FASHION TV HD²" tvg-logo="http://contentsdeliver.link/logos/fashionhd.png" group-title="F16 M5 VARIEDADES",FASHION TV HD²
+http://trabalho724.top:8080/7csplay/seven2022/22531
+#EXTINF:-1 tvg-id="film.arts.br" tvg-name="FILM & ARTS FHD¹" tvg-logo="http://contentsdeliver.link/logos/filmEartsfhd.png" group-title="F16 M5 VARIEDADES",FILM & ARTS FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/99448
+#EXTINF:-1 tvg-id="film.arts.br" tvg-name="FILM & ARTS HD¹" tvg-logo="http://contentsdeliver.link/logos/filmEartshd.png" group-title="F16 M5 VARIEDADES",FILM & ARTS HD¹
+http://trabalho724.top:8080/7csplay/seven2022/160021
+#EXTINF:-1 tvg-id="" tvg-name="FILM & ARTS HD²" tvg-logo="http://contentsdeliver.link/logos/filmEartshd.png" group-title="F16 M5 VARIEDADES",FILM & ARTS HD²
+http://trabalho724.top:8080/7csplay/seven2022/99449
+#EXTINF:-1 tvg-id="aande.br" tvg-name="FILM & ARTS SD²" tvg-logo="http://contentsdeliver.link/logos/filmEartssd.png" group-title="F16 M5 VARIEDADES",FILM & ARTS SD²
+http://trabalho724.top:8080/7csplay/seven2022/22336
+#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="FOOD NETWORK FHD¹" tvg-logo="http://contentsdeliver.link/logos/foodnetworksfhd.png" group-title="F16 M5 VARIEDADES",FOOD NETWORK FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/22670
+#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="FOOD NETWORK FHD²" tvg-logo="http://contentsdeliver.link/logos/foodnetworksfhd.png" group-title="F16 M5 VARIEDADES",FOOD NETWORK FHD²
+http://trabalho724.top:8080/7csplay/seven2022/18652
+#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="FOOD NETWORK HD¹" tvg-logo="http://contentsdeliver.link/logos/foodnetworkshd.png" group-title="F16 M5 VARIEDADES",FOOD NETWORK HD¹
+http://trabalho724.top:8080/7csplay/seven2022/22533
+#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="FOOD NETWORK HD²" tvg-logo="http://contentsdeliver.link/logos/foodnetworkshd.png" group-title="F16 M5 VARIEDADES",FOOD NETWORK HD²
+http://trabalho724.top:8080/7csplay/seven2022/116710
+#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="FOOD NETWORK SD²" tvg-logo="http://contentsdeliver.link/logos/foodnetworkssd.png" group-title="F16 M5 VARIEDADES",FOOD NETWORK SD²
+http://trabalho724.top:8080/7csplay/seven2022/18734
+#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="FOOD NETWORK SD¹" tvg-logo="http://contentsdeliver.link/logos/foodnetworkssd.png" group-title="F16 M5 VARIEDADES",FOOD NETWORK SD¹
+http://trabalho724.top:8080/7csplay/seven2022/22338
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT FHD¹" tvg-logo="http://contentsdeliver.link/logos/gntfhd.png" group-title="F16 M5 VARIEDADES",GNT FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/31487
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT FHD²" tvg-logo="http://contentsdeliver.link/logos/gntfhd.png" group-title="F16 M5 VARIEDADES",GNT FHD²
+http://trabalho724.top:8080/7csplay/seven2022/18926
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT HD¹" tvg-logo="http://contentsdeliver.link/logos/gnthd.png" group-title="F16 M5 VARIEDADES",GNT HD¹
+http://trabalho724.top:8080/7csplay/seven2022/18832
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT HD²" tvg-logo="http://contentsdeliver.link/logos/gnthd.png" group-title="F16 M5 VARIEDADES",GNT HD²
+http://trabalho724.top:8080/7csplay/seven2022/22546
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT SD²" tvg-logo="http://contentsdeliver.link/logos/gntsd.png" group-title="F16 M5 VARIEDADES",GNT SD²
+http://trabalho724.top:8080/7csplay/seven2022/18736
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT SD¹" tvg-logo="http://contentsdeliver.link/logos/gntsd.png" group-title="F16 M5 VARIEDADES",GNT SD¹
+http://trabalho724.top:8080/7csplay/seven2022/22350
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="LIFETIME FHD MAX²" tvg-logo="http://contentsdeliver.link/logos/lifetimefhdmax.png" group-title="F16 M5 VARIEDADES",LIFETIME FHD MAX²
+http://trabalho724.top:8080/7csplay/seven2022/125684
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="LIFETIME FHD²" tvg-logo="http://contentsdeliver.link/logos/lifetimefhd.png" group-title="F16 M5 VARIEDADES",LIFETIME FHD²
+http://trabalho724.top:8080/7csplay/seven2022/116711
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="LIFETIME FHD¹" tvg-logo="http://contentsdeliver.link/logos/lifetimefhd.png" group-title="F16 M5 VARIEDADES",LIFETIME FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/64644
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="LIFETIME HD²" tvg-logo="http://contentsdeliver.link/logos/lifetimehd.png" group-title="F16 M5 VARIEDADES",LIFETIME HD²
+http://trabalho724.top:8080/7csplay/seven2022/18845
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="LIFETIME HD¹" tvg-logo="http://contentsdeliver.link/logos/lifetimehd.png" group-title="F16 M5 VARIEDADES",LIFETIME HD¹
+http://trabalho724.top:8080/7csplay/seven2022/22584
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="LIFETIME SD²" tvg-logo="http://contentsdeliver.link/logos/lifetimesd.png" group-title="F16 M5 VARIEDADES",LIFETIME SD²
+http://trabalho724.top:8080/7csplay/seven2022/18749
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="LIFETIME SD¹" tvg-logo="http://contentsdeliver.link/logos/lifetimesd.png" group-title="F16 M5 VARIEDADES",LIFETIME SD¹
+http://trabalho724.top:8080/7csplay/seven2022/22363
+#EXTINF:-1 tvg-id="modoviagem.br" tvg-name="MODO VIAGEM FHD MAX²" tvg-logo="http://contentsdeliver.link/logos/modoviagemfhdmax.png" group-title="F16 M5 VARIEDADES",MODO VIAGEM FHD MAX²
+http://trabalho724.top:8080/7csplay/seven2022/116712
+#EXTINF:-1 tvg-id="modoviagem.br" tvg-name="MODO VIAGEM FHD²" tvg-logo="http://contentsdeliver.link/logos/modoviagemfhd.png" group-title="F16 M5 VARIEDADES",MODO VIAGEM FHD²
+http://trabalho724.top:8080/7csplay/seven2022/116713
+#EXTINF:-1 tvg-id="modoviagem.br" tvg-name="MODO VIAGEM HD²" tvg-logo="http://contentsdeliver.link/logos/modoviagemhd.png" group-title="F16 M5 VARIEDADES",MODO VIAGEM HD²
+http://trabalho724.top:8080/7csplay/seven2022/22544
+#EXTINF:-1 tvg-id="modoviagem.br" tvg-name="MODO VIAGEM HD¹" tvg-logo="http://contentsdeliver.link/logos/modoviagemhd.png" group-title="F16 M5 VARIEDADES",MODO VIAGEM HD¹
+http://trabalho724.top:8080/7csplay/seven2022/116714
+#EXTINF:-1 tvg-id="modoviagem.br" tvg-name="MODO VIAGEM SD²" tvg-logo="http://contentsdeliver.link/logos/modoviagemsd.png" group-title="F16 M5 VARIEDADES",MODO VIAGEM SD²
+http://trabalho724.top:8080/7csplay/seven2022/18751
+#EXTINF:-1 tvg-id="modoviagem.br" tvg-name="MODO VIAGEM SD¹" tvg-logo="http://contentsdeliver.link/logos/modoviagemsd.png" group-title="F16 M5 VARIEDADES",MODO VIAGEM SD¹
+http://trabalho724.top:8080/7csplay/seven2022/22347
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW FHD MAX²" tvg-logo="http://contentsdeliver.link/logos/multishowfhdmax.png" group-title="F16 M5 VARIEDADES",MULTISHOW FHD MAX²
+http://trabalho724.top:8080/7csplay/seven2022/125690
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW FHD²" tvg-logo="http://contentsdeliver.link/logos/multishowfhd.png" group-title="F16 M5 VARIEDADES",MULTISHOW FHD²
+http://trabalho724.top:8080/7csplay/seven2022/18943
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW FHD¹" tvg-logo="http://contentsdeliver.link/logos/multishowfhd.png" group-title="F16 M5 VARIEDADES",MULTISHOW FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/22693
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW HD²" tvg-logo="http://contentsdeliver.link/logos/multishowhd.png" group-title="F16 M5 VARIEDADES",MULTISHOW HD²
+http://trabalho724.top:8080/7csplay/seven2022/18849
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW HD¹" tvg-logo="http://contentsdeliver.link/logos/multishowhd.png" group-title="F16 M5 VARIEDADES",MULTISHOW HD¹
+http://trabalho724.top:8080/7csplay/seven2022/22587
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW SD²" tvg-logo="http://contentsdeliver.link/logos/multishowsd.png" group-title="F16 M5 VARIEDADES",MULTISHOW SD²
+http://trabalho724.top:8080/7csplay/seven2022/18753
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW SD¹" tvg-logo="http://contentsdeliver.link/logos/multishowsd.png" group-title="F16 M5 VARIEDADES",MULTISHOW SD¹
+http://trabalho724.top:8080/7csplay/seven2022/22367
+#EXTINF:-1 tvg-id="" tvg-name="POLISHOP FHD¹" tvg-logo="http://contentsdeliver.link/logos/polishopfhd.png" group-title="F16 M5 VARIEDADES",POLISHOP FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/53221
+#EXTINF:-1 tvg-id="" tvg-name="POLISHOP SD²" tvg-logo="http://contentsdeliver.link/logos/polishopsd.png" group-title="F16 M5 VARIEDADES",POLISHOP SD²
+http://trabalho724.top:8080/7csplay/seven2022/64637
+#EXTINF:-1 tvg-id="" tvg-name="RED BULL TV HD¹" tvg-logo="http://contentsdeliver.link/logos/redebullhd.png" group-title="F16 M5 VARIEDADES",RED BULL TV HD¹
+http://trabalho724.top:8080/7csplay/seven2022/163608
+#EXTINF:-1 tvg-id="" tvg-name="SABOR & ARTE HD¹" tvg-logo="http://contentsdeliver.link/logos/saborEartehd.png" group-title="F16 M5 VARIEDADES",SABOR & ARTE HD¹
+http://trabalho724.top:8080/7csplay/seven2022/165640
+#EXTINF:-1 tvg-id="shoptime.br" tvg-name="SHOPTIME FHD¹" tvg-logo="http://contentsdeliver.link/logos/shoptimefhd.png" group-title="F16 M5 VARIEDADES",SHOPTIME FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/22609
+#EXTINF:-1 tvg-id="shoptime.br" tvg-name="SHOPTIME SD¹" tvg-logo="http://contentsdeliver.link/logos/shoptimesd.png" group-title="F16 M5 VARIEDADES",SHOPTIME SD¹
+http://trabalho724.top:8080/7csplay/seven2022/44867
+#EXTINF:-1 tvg-id="tbs.br" tvg-name="TNT NOVELAS FHD¹" tvg-logo="http://contentsdeliver.link/logos/tntnovelasfhd.png" group-title="F16 M5 VARIEDADES",TNT NOVELAS FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/314682
+#EXTINF:-1 tvg-id="tbs.br" tvg-name="TNT NOVELAS FHD²" tvg-logo="http://contentsdeliver.link/logos/tntnovelasfhd.png" group-title="F16 M5 VARIEDADES",TNT NOVELAS FHD²
+http://trabalho724.top:8080/7csplay/seven2022/64721
+#EXTINF:-1 tvg-id="tbs.br" tvg-name="TNT NOVELAS HD¹" tvg-logo="http://contentsdeliver.link/logos/tntnovelashd.png" group-title="F16 M5 VARIEDADES",TNT NOVELAS HD¹
+http://trabalho724.top:8080/7csplay/seven2022/314683
+#EXTINF:-1 tvg-id="tbs.br" tvg-name="TNT NOVELAS HD²" tvg-logo="http://contentsdeliver.link/logos/tntnovelashd.png" group-title="F16 M5 VARIEDADES",TNT NOVELAS HD²
+http://trabalho724.top:8080/7csplay/seven2022/64720
+#EXTINF:-1 tvg-id="tbs.br" tvg-name="TNT NOVELAS SD¹" tvg-logo="http://contentsdeliver.link/logos/tntnovelassd.png" group-title="F16 M5 VARIEDADES",TNT NOVELAS SD¹
+http://trabalho724.top:8080/7csplay/seven2022/314684
+#EXTINF:-1 tvg-id="tbs.br" tvg-name="TNT NOVELAS SD²" tvg-logo="http://contentsdeliver.link/logos/tntnovelassd.png" group-title="F16 M5 VARIEDADES",TNT NOVELAS SD²
+http://trabalho724.top:8080/7csplay/seven2022/22395
+#EXTINF:-1 tvg-id="travel.box.brazil.br" tvg-name="TRAVEL BOX BRASIL FHD¹" tvg-logo="http://contentsdeliver.link/logos/travelboxbrasilfhd.png" group-title="F16 M5 VARIEDADES",TRAVEL BOX BRASIL FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/166578
+#EXTINF:-1 tvg-id="" tvg-name="TRAVEL BOX BRASIL FHD²" tvg-logo="http://contentsdeliver.link/logos/travelboxbrasilfhd.png" group-title="F16 M5 VARIEDADES",TRAVEL BOX BRASIL FHD²
+http://trabalho724.top:8080/7csplay/seven2022/64643
+#EXTINF:-1 tvg-id="travel.box.brazil.br" tvg-name="TRAVEL BOX BRASIL HD¹" tvg-logo="http://contentsdeliver.link/logos/travelboxbrasilhd.png" group-title="F16 M5 VARIEDADES",TRAVEL BOX BRASIL HD¹
+http://trabalho724.top:8080/7csplay/seven2022/166579
+#EXTINF:-1 tvg-id="travel.box.brazil.br" tvg-name="TRAVEL BOX BRASIL HD²" tvg-logo="http://contentsdeliver.link/logos/travelboxbrasilhd.png" group-title="F16 M5 VARIEDADES",TRAVEL BOX BRASIL HD²
+http://trabalho724.top:8080/7csplay/seven2022/22626
+#EXTINF:-1 tvg-id="trutv.br" tvg-name="ADULT SWIM FHD¹" tvg-logo="http://contentsdeliver.link/logos/adultswim_fhd.png" group-title="F16 M5 VARIEDADES",ADULT SWIM FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/160017
+#EXTINF:-1 tvg-id="trutv.br" tvg-name="ADULT SWIM FHD²" tvg-logo="http://contentsdeliver.link/logos/adultswim_fhd.png" group-title="F16 M5 VARIEDADES",ADULT SWIM FHD²
+http://trabalho724.top:8080/7csplay/seven2022/64648
+#EXTINF:-1 tvg-id="trutv.br" tvg-name="ADULT SWIM HD¹" tvg-logo="http://contentsdeliver.link/logos/adultswim_hd.png" group-title="F16 M5 VARIEDADES",ADULT SWIM HD¹
+http://trabalho724.top:8080/7csplay/seven2022/160018
+#EXTINF:-1 tvg-id="trutv.br" tvg-name="ADULT SWIM HD²" tvg-logo="http://contentsdeliver.link/logos/adultswim_hd.png" group-title="F16 M5 VARIEDADES",ADULT SWIM HD²
+http://trabalho724.top:8080/7csplay/seven2022/64647
+#EXTINF:-1 tvg-id="trutv.br" tvg-name="ADULT SWIM SD¹" tvg-logo="http://contentsdeliver.link/logos/adultswim_sd.png" group-title="F16 M5 VARIEDADES",ADULT SWIM SD¹
+http://trabalho724.top:8080/7csplay/seven2022/160019
+#EXTINF:-1 tvg-id="trutv.br" tvg-name="ADULT SWIM SD²" tvg-logo="http://contentsdeliver.link/logos/adultswim_sd.png" group-title="F16 M5 VARIEDADES",ADULT SWIM SD²
+http://trabalho724.top:8080/7csplay/seven2022/22406
+#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV CULTURA FHD¹" tvg-logo="http://contentsdeliver.link/logos/tvculturafhd.png" group-title="F16 M5 VARIEDADES",TV CULTURA FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/20950
+#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV CULTURA HD¹" tvg-logo="http://contentsdeliver.link/logos/tvculturahd.png" group-title="F16 M5 VARIEDADES",TV CULTURA HD¹
+http://trabalho724.top:8080/7csplay/seven2022/18878
+#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV CULTURA SD²" tvg-logo="http://contentsdeliver.link/logos/tvculturasd.png" group-title="F16 M5 VARIEDADES",TV CULTURA SD²
+http://trabalho724.top:8080/7csplay/seven2022/64646
+#EXTINF:-1 tvg-id="viva.br" tvg-name="VIVA FHD MAX²" tvg-logo="http://contentsdeliver.link/logos/vivafhdmax.png" group-title="F16 M5 VARIEDADES",VIVA FHD MAX²
+http://trabalho724.top:8080/7csplay/seven2022/22725
+#EXTINF:-1 tvg-id="viva.br" tvg-name="VIVA FHD¹" tvg-logo="http://contentsdeliver.link/logos/vivafhd.png" group-title="F16 M5 VARIEDADES",VIVA FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/160016
+#EXTINF:-1 tvg-id="viva.br" tvg-name="VIVA FHD²" tvg-logo="http://contentsdeliver.link/logos/vivafhd.png" group-title="F16 M5 VARIEDADES",VIVA FHD²
+http://trabalho724.top:8080/7csplay/seven2022/116715
+#EXTINF:-1 tvg-id="viva.br" tvg-name="VIVA HD¹" tvg-logo="http://contentsdeliver.link/logos/vivahd.png" group-title="F16 M5 VARIEDADES",VIVA HD¹
+http://trabalho724.top:8080/7csplay/seven2022/18881
+#EXTINF:-1 tvg-id="viva.br" tvg-name="VIVA HD²" tvg-logo="http://contentsdeliver.link/logos/vivahd.png" group-title="F16 M5 VARIEDADES",VIVA HD²
+http://trabalho724.top:8080/7csplay/seven2022/22630
+#EXTINF:-1 tvg-id="viva.br" tvg-name="VIVA SD¹" tvg-logo="http://contentsdeliver.link/logos/vivasd.png" group-title="F16 M5 VARIEDADES",VIVA SD¹
+http://trabalho724.top:8080/7csplay/seven2022/18784
+#EXTINF:-1 tvg-id="viva.br" tvg-name="VIVA SD²" tvg-logo="http://contentsdeliver.link/logos/vivasd.png" group-title="F16 M5 VARIEDADES",VIVA SD²
+http://trabalho724.top:8080/7csplay/seven2022/22421
+#EXTINF:-1 tvg-id="woohoo.br" tvg-name="WOOHOO FHD¹" tvg-logo="http://contentsdeliver.link/logos/woohoofhd.png" group-title="F16 M5 VARIEDADES",WOOHOO FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/64642
+#EXTINF:-1 tvg-id="woohoo.br" tvg-name="WOOHOO FHD²" tvg-logo="http://contentsdeliver.link/logos/woohoofhd.png" group-title="F16 M5 VARIEDADES",WOOHOO FHD²
+http://trabalho724.top:8080/7csplay/seven2022/160015
+#EXTINF:-1 tvg-id="woohoo.br" tvg-name="WOOHOO HD¹" tvg-logo="http://contentsdeliver.link/logos/woohoohd.png" group-title="F16 M5 VARIEDADES",WOOHOO HD¹
+http://trabalho724.top:8080/7csplay/seven2022/18883
+#EXTINF:-1 tvg-id="woohoo.br" tvg-name="WOOHOO HD²" tvg-logo="http://contentsdeliver.link/logos/woohoohd.png" group-title="F16 M5 VARIEDADES",WOOHOO HD²
+http://trabalho724.top:8080/7csplay/seven2022/22632
+#EXTINF:-1 tvg-id="woohoo.br" tvg-name="WOOHOO SD¹" tvg-logo="http://contentsdeliver.link/logos/woohoosd.png" group-title="F16 M5 VARIEDADES",WOOHOO SD¹
+http://trabalho724.top:8080/7csplay/seven2022/18786
+#EXTINF:-1 tvg-id="woohoo.br" tvg-name="WOOHOO SD²" tvg-logo="http://contentsdeliver.link/logos/woohoosd.png" group-title="F16 M5 VARIEDADES",WOOHOO SD²
+http://trabalho724.top:8080/7csplay/seven2022/22423
+#EXTINF:-1 tvg-id="boa.vontade.br" tvg-name="BOA VONTADE TV HD¹" tvg-logo="http://contentsdeliver.link/logos/boavontadehd.png" group-title="F16 M5 RELIGIOSOS",BOA VONTADE TV HD¹
+http://trabalho724.top:8080/7csplay/seven2022/153055
+#EXTINF:-1 tvg-id="" tvg-name="BOA VONTADE TV SD¹" tvg-logo="http://contentsdeliver.link/logos/boavontadesd.png" group-title="F16 M5 RELIGIOSOS",BOA VONTADE TV SD¹
+http://trabalho724.top:8080/7csplay/seven2022/153054
+#EXTINF:-1 tvg-id="" tvg-name="BOAS NOVAS HD¹" tvg-logo="http://contentsdeliver.link/logos/boasnovashd.png" group-title="F16 M5 RELIGIOSOS",BOAS NOVAS HD¹
+http://trabalho724.top:8080/7csplay/seven2022/153056
+#EXTINF:-1 tvg-id="cancaonova.br" tvg-name="CANÇÃO NOVA FHD¹" tvg-logo="http://contentsdeliver.link/logos/cancaonovafhd.png" group-title="F16 M5 RELIGIOSOS",CANÇÃO NOVA FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/18909
+#EXTINF:-1 tvg-id="cancaonova.br" tvg-name="CANÇÃO NOVA SD²" tvg-logo="http://contentsdeliver.link/logos/cancaonovasd.png" group-title="F16 M5 RELIGIOSOS",CANÇÃO NOVA SD²
+http://trabalho724.top:8080/7csplay/seven2022/22305
+#EXTINF:-1 tvg-id="" tvg-name="GOSPEL CARTOON HD²" tvg-logo="http://contentsdeliver.link/logos/gospelcartoonhd.png" group-title="F16 M5 RELIGIOSOS",GOSPEL CARTOON HD²
+http://trabalho724.top:8080/7csplay/seven2022/153062
+#EXTINF:-1 tvg-id="" tvg-name="IDEAL TV HD²" tvg-logo="http://contentsdeliver.link/logos/idealtvhd.png" group-title="F16 M5 RELIGIOSOS",IDEAL TV HD²
+http://trabalho724.top:8080/7csplay/seven2022/64638
+#EXTINF:-1 tvg-id="" tvg-name="REDE GOSPEL HD²" tvg-logo="http://contentsdeliver.link/logos/redegospelhd.png" group-title="F16 M5 RELIGIOSOS",REDE GOSPEL HD²
+http://trabalho724.top:8080/7csplay/seven2022/153060
+#EXTINF:-1 tvg-id="" tvg-name="REDE PLENITUDE TV HD²" tvg-logo="http://contentsdeliver.link/logos/redeplenitudehd.png" group-title="F16 M5 RELIGIOSOS",REDE PLENITUDE TV HD²
+http://trabalho724.top:8080/7csplay/seven2022/153063
+#EXTINF:-1 tvg-id="aande.br" tvg-name="REDE SÉCULO 21 SD*" tvg-logo="http://contentsdeliver.link/logos/redeseculo21hd.png" group-title="F16 M5 RELIGIOSOS",REDE SÉCULO 21 SD*
+http://trabalho724.top:8080/7csplay/seven2022/22381
+#EXTINF:-1 tvg-id="" tvg-name="REDE SUPER TV SD¹" tvg-logo="http://contentsdeliver.link/logos/redesupertvsd.png" group-title="F16 M5 RELIGIOSOS",REDE SUPER TV SD¹
+http://trabalho724.top:8080/7csplay/seven2022/59939
+#EXTINF:-1 tvg-id="aande.br" tvg-name="REDE SUPER TV SD²" tvg-logo="http://contentsdeliver.link/logos/redesupertvsd.png" group-title="F16 M5 RELIGIOSOS",REDE SUPER TV SD²
+http://trabalho724.top:8080/7csplay/seven2022/22382
+#EXTINF:-1 tvg-id="redevida.br" tvg-name="REDE VIDA HD²" tvg-logo="http://contentsdeliver.link/logos/redevidahd.png" group-title="F16 M5 RELIGIOSOS",REDE VIDA HD²
+http://trabalho724.top:8080/7csplay/seven2022/22384
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="RIT TV HD²" tvg-logo="http://contentsdeliver.link/logos/rittvhd.png" group-title="F16 M5 RELIGIOSOS",RIT TV HD²
+http://trabalho724.top:8080/7csplay/seven2022/22386
+#EXTINF:-1 tvg-id="tvaparecida.br" tvg-name="TV APARECIDA FHD*" tvg-logo="http://contentsdeliver.link/logos/aparecidatvfhd.png" group-title="F16 M5 RELIGIOSOS",TV APARECIDA FHD*
+http://trabalho724.top:8080/7csplay/seven2022/22627
+#EXTINF:-1 tvg-id="tvaparecida.br" tvg-name="TV APARECIDA HD*" tvg-logo="http://contentsdeliver.link/logos/aparecidatvhd.png" group-title="F16 M5 RELIGIOSOS",TV APARECIDA HD*
+http://trabalho724.top:8080/7csplay/seven2022/18877
+#EXTINF:-1 tvg-id="" tvg-name="TV ESPIRITA PARANÁ HD*" tvg-logo="http://contentsdeliver.link/logos/tvespiritaparanahd.png" group-title="F16 M5 RELIGIOSOS",TV ESPIRITA PARANÁ HD*
+http://trabalho724.top:8080/7csplay/seven2022/165792
+#EXTINF:-1 tvg-id="" tvg-name="TV EVANGELIZAR SD*" tvg-logo="http://contentsdeliver.link/logos/tvevangelizarsd.png" group-title="F16 M5 RELIGIOSOS",TV EVANGELIZAR SD*
+http://trabalho724.top:8080/7csplay/seven2022/31443
+#EXTINF:-1 tvg-id="aande.br" tvg-name="TV EVANGELIZAR SD²" tvg-logo="http://contentsdeliver.link/logos/tvevangelizarsd.png" group-title="F16 M5 RELIGIOSOS",TV EVANGELIZAR SD²
+http://trabalho724.top:8080/7csplay/seven2022/22409
+#EXTINF:-1 tvg-id="" tvg-name="TV GIDEÕES HD²" tvg-logo="http://contentsdeliver.link/logos/tvgideoeshd.png" group-title="F16 M5 RELIGIOSOS",TV GIDEÕES HD²
+http://trabalho724.top:8080/7csplay/seven2022/22411
+#EXTINF:-1 tvg-id="" tvg-name="TV IMACULADA FHD¹" tvg-logo="http://contentsdeliver.link/logos/tvimaculadafhd.png" group-title="F16 M5 RELIGIOSOS",TV IMACULADA FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/153059
+#EXTINF:-1 tvg-id="" tvg-name="TV MUNDIAL FHD¹" tvg-logo="http://contentsdeliver.link/logos/tvmundialfhd.png" group-title="F16 M5 RELIGIOSOS",TV MUNDIAL FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/31477
+#EXTINF:-1 tvg-id="aande.br" tvg-name="TV MUNDIAL SD*" tvg-logo="http://contentsdeliver.link/logos/tvmundialsd.png" group-title="F16 M5 RELIGIOSOS",TV MUNDIAL SD*
+http://trabalho724.top:8080/7csplay/seven2022/22412
+#EXTINF:-1 tvg-id="" tvg-name="TV MUNDO MAIOR HD¹" tvg-logo="http://contentsdeliver.link/logos/tvmundomaiorhd.png" group-title="F16 M5 RELIGIOSOS",TV MUNDO MAIOR HD¹
+http://trabalho724.top:8080/7csplay/seven2022/153058
+#EXTINF:-1 tvg-id="" tvg-name="TV NOVO TEMPO HD¹" tvg-logo="http://contentsdeliver.link/logos/novotempohd.png" group-title="F16 M5 RELIGIOSOS",TV NOVO TEMPO HD¹
+http://trabalho724.top:8080/7csplay/seven2022/31476
+#EXTINF:-1 tvg-id="" tvg-name="TV PAI ETERNO HD²" tvg-logo="http://contentsdeliver.link/logos/tvpaieternohd.png" group-title="F16 M5 RELIGIOSOS",TV PAI ETERNO HD²
+http://trabalho724.top:8080/7csplay/seven2022/72774
+#EXTINF:-1 tvg-id="" tvg-name="TV PAI ETERNO SD*" tvg-logo="http://contentsdeliver.link/logos/tvpaieternosd.png" group-title="F16 M5 RELIGIOSOS",TV PAI ETERNO SD*
+http://trabalho724.top:8080/7csplay/seven2022/72773
+#EXTINF:-1 tvg-id="" tvg-name="TV UNIVERSAL HD*" tvg-logo="http://contentsdeliver.link/logos/tvuniversalhd.png" group-title="F16 M5 RELIGIOSOS",TV UNIVERSAL HD*
+http://trabalho724.top:8080/7csplay/seven2022/165793
+#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE FHD MAX²" tvg-logo="http://contentsdeliver.link/logos/spacefhdmax.png" group-title="F16 M5 FILMES E SÉRIES",SPACE FHD MAX²
+http://trabalho724.top:8080/7csplay/seven2022/54356
+#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE FHD¹" tvg-logo="http://contentsdeliver.link/logos/spacefhd.png" group-title="F16 M5 FILMES E SÉRIES",SPACE FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/42947
+#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE FHD²" tvg-logo="http://contentsdeliver.link/logos/spacefhd.png" group-title="F16 M5 FILMES E SÉRIES",SPACE FHD²
+http://trabalho724.top:8080/7csplay/seven2022/22705
+#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE HD¹" tvg-logo="http://contentsdeliver.link/logos/spacehd.png" group-title="F16 M5 FILMES E SÉRIES",SPACE HD¹
+http://trabalho724.top:8080/7csplay/seven2022/18861
+#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE HD²" tvg-logo="http://contentsdeliver.link/logos/spacehd.png" group-title="F16 M5 FILMES E SÉRIES",SPACE HD²
+http://trabalho724.top:8080/7csplay/seven2022/22611
+#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE SD¹" tvg-logo="http://contentsdeliver.link/logos/spacesd.png" group-title="F16 M5 FILMES E SÉRIES",SPACE SD¹
+http://trabalho724.top:8080/7csplay/seven2022/18766
+#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE SD²" tvg-logo="http://contentsdeliver.link/logos/spacesd.png" group-title="F16 M5 FILMES E SÉRIES",SPACE SD²
+http://trabalho724.top:8080/7csplay/seven2022/22389
+#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="STUDIO UNIVERSAL FHD¹" tvg-logo="http://contentsdeliver.link/logos/studiouniversalfhd.png" group-title="F16 M5 FILMES E SÉRIES",STUDIO UNIVERSAL FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/45210
+#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="STUDIO UNIVERSAL FHD²" tvg-logo="http://contentsdeliver.link/logos/studiouniversalfhd.png" group-title="F16 M5 FILMES E SÉRIES",STUDIO UNIVERSAL FHD²
+http://trabalho724.top:8080/7csplay/seven2022/22709
+#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="STUDIO UNIVERSAL HD¹" tvg-logo="http://contentsdeliver.link/logos/studiouniversalhd.png" group-title="F16 M5 FILMES E SÉRIES",STUDIO UNIVERSAL HD¹
+http://trabalho724.top:8080/7csplay/seven2022/18866
+#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="STUDIO UNIVERSAL HD²" tvg-logo="http://contentsdeliver.link/logos/studiouniversalhd.png" group-title="F16 M5 FILMES E SÉRIES",STUDIO UNIVERSAL HD²
+http://trabalho724.top:8080/7csplay/seven2022/22615
+#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="STUDIO UNIVERSAL SD¹" tvg-logo="http://contentsdeliver.link/logos/studiouniversalsd.png" group-title="F16 M5 FILMES E SÉRIES",STUDIO UNIVERSAL SD¹
+http://trabalho724.top:8080/7csplay/seven2022/18770
+#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="STUDIO UNIVERSAL SD²" tvg-logo="http://contentsdeliver.link/logos/studiouniversalsd.png" group-title="F16 M5 FILMES E SÉRIES",STUDIO UNIVERSAL SD²
+http://trabalho724.top:8080/7csplay/seven2022/22393
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="USA NETWORK FHD¹" tvg-logo="http://contentsdeliver.link/logos/usanetworkfhd.png" group-title="F16 M5 FILMES E SÉRIES",USA NETWORK FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/45211
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="USA NETWORK FHD²" tvg-logo="http://contentsdeliver.link/logos/usanetworkfhd.png" group-title="F16 M5 FILMES E SÉRIES",USA NETWORK FHD²
+http://trabalho724.top:8080/7csplay/seven2022/22710
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="USA NETWORK HD¹" tvg-logo="http://contentsdeliver.link/logos/usanetworkhd.png" group-title="F16 M5 FILMES E SÉRIES",USA NETWORK HD¹
+http://trabalho724.top:8080/7csplay/seven2022/18867
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="USA NETWORK HD²" tvg-logo="http://contentsdeliver.link/logos/usanetworkhd.png" group-title="F16 M5 FILMES E SÉRIES",USA NETWORK HD²
+http://trabalho724.top:8080/7csplay/seven2022/22616
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="USA NETWORK SD¹" tvg-logo="http://contentsdeliver.link/logos/usanetworksd.png" group-title="F16 M5 FILMES E SÉRIES",USA NETWORK SD¹
+http://trabalho724.top:8080/7csplay/seven2022/18771
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="USA NETWORK SD²" tvg-logo="http://contentsdeliver.link/logos/usanetworksd.png" group-title="F16 M5 FILMES E SÉRIES",USA NETWORK SD²
+http://trabalho724.top:8080/7csplay/seven2022/22394
+#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM FHD¹" tvg-logo="http://contentsdeliver.link/logos/tcmfhd.png" group-title="F16 M5 FILMES E SÉRIES",TCM FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/97133
+#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM FHD² " tvg-logo="http://contentsdeliver.link/logos/tcmfhd.png" group-title="F16 M5 FILMES E SÉRIES",TCM FHD² 
+http://trabalho724.top:8080/7csplay/seven2022/64719
+#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM HD¹" tvg-logo="http://contentsdeliver.link/logos/tcmhd.png" group-title="F16 M5 FILMES E SÉRIES",TCM HD¹
+http://trabalho724.top:8080/7csplay/seven2022/160764
+#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM HD²" tvg-logo="http://contentsdeliver.link/logos/tcmhd.png" group-title="F16 M5 FILMES E SÉRIES",TCM HD²
+http://trabalho724.top:8080/7csplay/seven2022/64718
+#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM SD¹" tvg-logo="http://contentsdeliver.link/logos/tcmsd.png" group-title="F16 M5 FILMES E SÉRIES",TCM SD¹
+http://trabalho724.top:8080/7csplay/seven2022/18773
+#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM SD²" tvg-logo="http://contentsdeliver.link/logos/tcmsd.png" group-title="F16 M5 FILMES E SÉRIES",TCM SD²
+http://trabalho724.top:8080/7csplay/seven2022/22396
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT FHD MAX²" tvg-logo="http://contentsdeliver.link/logos/tntfhdmax.png" group-title="F16 M5 FILMES E SÉRIES",TNT FHD MAX²
+http://trabalho724.top:8080/7csplay/seven2022/168984
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT FHD¹" tvg-logo="http://contentsdeliver.link/logos/tntfhd.png" group-title="F16 M5 FILMES E SÉRIES",TNT FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/45213
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT FHD²" tvg-logo="http://contentsdeliver.link/logos/tntfhd.png" group-title="F16 M5 FILMES E SÉRIES",TNT FHD²
+http://trabalho724.top:8080/7csplay/seven2022/22717
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD¹" tvg-logo="http://contentsdeliver.link/logos/tnthd.png" group-title="F16 M5 FILMES E SÉRIES",TNT HD¹
+http://trabalho724.top:8080/7csplay/seven2022/18875
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD²" tvg-logo="http://contentsdeliver.link/logos/tnthd.png" group-title="F16 M5 FILMES E SÉRIES",TNT HD²
+http://trabalho724.top:8080/7csplay/seven2022/22623
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD*" tvg-logo="http://contentsdeliver.link/logos/tnthd.png" group-title="F16 M5 FILMES E SÉRIES",TNT HD*
+http://trabalho724.top:8080/7csplay/seven2022/168983
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT SD¹" tvg-logo="http://contentsdeliver.link/logos/tntsd.png" group-title="F16 M5 FILMES E SÉRIES",TNT SD¹
+http://trabalho724.top:8080/7csplay/seven2022/18781
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT SD²" tvg-logo="http://contentsdeliver.link/logos/tntsd.png" group-title="F16 M5 FILMES E SÉRIES",TNT SD²
+http://trabalho724.top:8080/7csplay/seven2022/22403
+#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT SERIES FHD¹" tvg-logo="http://contentsdeliver.link/logos/tntseriesfhd.png" group-title="F16 M5 FILMES E SÉRIES",TNT SERIES FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/45212
+#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT SERIES FHD²" tvg-logo="http://contentsdeliver.link/logos/tntseriesfhd.png" group-title="F16 M5 FILMES E SÉRIES",TNT SERIES FHD²
+http://trabalho724.top:8080/7csplay/seven2022/22718
+#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT SERIES HD¹" tvg-logo="http://contentsdeliver.link/logos/tntserieshd.png" group-title="F16 M5 FILMES E SÉRIES",TNT SERIES HD¹
+http://trabalho724.top:8080/7csplay/seven2022/18876
+#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT SERIES HD²" tvg-logo="http://contentsdeliver.link/logos/tntserieshd.png" group-title="F16 M5 FILMES E SÉRIES",TNT SERIES HD²
+http://trabalho724.top:8080/7csplay/seven2022/22624
+#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT SERIES SD¹" tvg-logo="http://contentsdeliver.link/logos/tntseriessd.png" group-title="F16 M5 FILMES E SÉRIES",TNT SERIES SD¹
+http://trabalho724.top:8080/7csplay/seven2022/18782
+#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT SERIES SD²" tvg-logo="http://contentsdeliver.link/logos/tntseriessd.png" group-title="F16 M5 FILMES E SÉRIES",TNT SERIES SD²
+http://trabalho724.top:8080/7csplay/seven2022/64706
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO REDE AMAZONICA MACAPA FHD*" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO REDE AMAZONICA MACAPA FHD*
+http://trabalho724.top:8080/7csplay/seven2022/169834
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO REDE AMAZONICA MACAPA HD*" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO REDE AMAZONICA MACAPA HD*
+http://trabalho724.top:8080/7csplay/seven2022/169835
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE CLUBES UHD¹" tvg-logo="http://contentsdeliver.link/logos/premiereclubes4k.png" group-title="F16 M5 PREMIERE FC",PREMIERE CLUBES UHD¹
+http://trabalho724.top:8080/7csplay/seven2022/315114
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE CLUBES 4K¹" tvg-logo="http://contentsdeliver.link/logos/premiereclubes4k.png" group-title="F16 M5 UHD (4K)",PREMIERE CLUBES 4K¹
+http://trabalho724.top:8080/7csplay/seven2022/28790
+#EXTINF:-1 tvg-id="premierefc.br" tvg-name="PREMIERE CLUBES FHD¹" tvg-logo="http://contentsdeliver.link/logos/premiereclubesfhd.png" group-title="F16 M5 PREMIERE FC",PREMIERE CLUBES FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/18950
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE CLUBES FHD²" tvg-logo="http://contentsdeliver.link/logos/premiereclubesfhd.png" group-title="F16 M5 PREMIERE FC",PREMIERE CLUBES FHD²
+http://trabalho724.top:8080/7csplay/seven2022/58737
+#EXTINF:-1 tvg-id="premierefc.br" tvg-name="PREMIERE CLUBES FHD ᶜᴰᴺ²" tvg-logo="http://contentsdeliver.link/logos/premiereclubesfhd.png" group-title="F16 M5 PREMIERE FC",PREMIERE CLUBES FHD ᶜᴰᴺ²
+http://trabalho724.top:8080/7csplay/seven2022/22254
+#EXTINF:-1 tvg-id="premierefc.br" tvg-name="PREMIERE CLUBES  HD¹" tvg-logo="http://contentsdeliver.link/logos/premiereclubeshd.png" group-title="F16 M5 PREMIERE FC",PREMIERE CLUBES  HD¹
+http://trabalho724.top:8080/7csplay/seven2022/20949
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE CLUBES HD²" tvg-logo="http://contentsdeliver.link/logos/premiereclubeshd.png" group-title="F16 M5 PREMIERE FC",PREMIERE CLUBES HD²
+http://trabalho724.top:8080/7csplay/seven2022/65745
+#EXTINF:-1 tvg-id="premierefc.br" tvg-name="PREMIERE CLUBES HD¹" tvg-logo="http://contentsdeliver.link/logos/premiereclubeshd.png" group-title="F16 M5 PREMIERE FC",PREMIERE CLUBES HD¹
+http://trabalho724.top:8080/7csplay/seven2022/56943
+#EXTINF:-1 tvg-id="premierefc.br" tvg-name="PREMIERE CLUBES HD ᶜᴰᴺ²" tvg-logo="http://contentsdeliver.link/logos/premiereclubeshd.png" group-title="F16 M5 PREMIERE FC",PREMIERE CLUBES HD ᶜᴰᴺ²
+http://trabalho724.top:8080/7csplay/seven2022/22255
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE CLUBES SD¹" tvg-logo="http://contentsdeliver.link/logos/premiereclubessd.png" group-title="F16 M5 PREMIERE FC",PREMIERE CLUBES SD¹
+http://trabalho724.top:8080/7csplay/seven2022/18757
+#EXTINF:-1 tvg-id="premierefc.br" tvg-name="PREMIERE CLUBES SD²" tvg-logo="http://contentsdeliver.link/logos/premiereclubessd.png" group-title="F16 M5 PREMIERE FC",PREMIERE CLUBES SD²
+http://trabalho724.top:8080/7csplay/seven2022/22256
+#EXTINF:-1 tvg-id="premierefc.br" tvg-name="PREMIERE CLUBES SD²" tvg-logo="http://contentsdeliver.link/logos/premiereclubessd.png" group-title="F16 M5 PREMIERE FC",PREMIERE CLUBES SD²
+http://trabalho724.top:8080/7csplay/seven2022/22257
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE 2 FHD MAX²" tvg-logo="http://contentsdeliver.link/logos/premierefhdmax.png" group-title="F16 M5 PREMIERE FC",PREMIERE 2 FHD MAX²
+http://trabalho724.top:8080/7csplay/seven2022/170241
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="PREMIERE 2 FHD¹" tvg-logo="http://contentsdeliver.link/logos/premiereclubesfhd.png" group-title="F16 M5 PREMIERE FC",PREMIERE 2 FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/18951
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="PREMIERE 2 FHD²" tvg-logo="http://contentsdeliver.link/logos/premiereclubesfhd.png" group-title="F16 M5 PREMIERE FC",PREMIERE 2 FHD²
+http://trabalho724.top:8080/7csplay/seven2022/58738
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="PREMIERE 2 FHD ᶜᴰᴺ²" tvg-logo="http://contentsdeliver.link/logos/premiereclubesfhd.png" group-title="F16 M5 PREMIERE FC",PREMIERE 2 FHD ᶜᴰᴺ²
+http://trabalho724.top:8080/7csplay/seven2022/22258
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="PREMIERE 2 HD¹" tvg-logo="http://contentsdeliver.link/logos/premiereclubeshd.png" group-title="F16 M5 PREMIERE FC",PREMIERE 2 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/18853
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="PREMIERE 2 HD²" tvg-logo="http://contentsdeliver.link/logos/premiereclubeshd.png" group-title="F16 M5 PREMIERE FC",PREMIERE 2 HD²
+http://trabalho724.top:8080/7csplay/seven2022/22259
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="PREMIERE 2 HD ᶜᴰᴺ²" tvg-logo="http://contentsdeliver.link/logos/premiereclubeshd.png" group-title="F16 M5 PREMIERE FC",PREMIERE 2 HD ᶜᴰᴺ²
+http://trabalho724.top:8080/7csplay/seven2022/32330
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="PREMIERE 2 SD¹" tvg-logo="http://contentsdeliver.link/logos/premiereclubessd.png" group-title="F16 M5 PREMIERE FC",PREMIERE 2 SD¹
+http://trabalho724.top:8080/7csplay/seven2022/18758
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="PREMIERE 2 SD²" tvg-logo="http://contentsdeliver.link/logos/premiereclubessd.png" group-title="F16 M5 PREMIERE FC",PREMIERE 2 SD²
+http://trabalho724.top:8080/7csplay/seven2022/22261
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="PREMIERE 3 FHD¹" tvg-logo="http://contentsdeliver.link/logos/premiereclubesfhd.png" group-title="F16 M5 PREMIERE FC",PREMIERE 3 FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/42914
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="PREMIERE 3 FHD²" tvg-logo="http://contentsdeliver.link/logos/premiereclubesfhd.png" group-title="F16 M5 PREMIERE FC",PREMIERE 3 FHD²
+http://trabalho724.top:8080/7csplay/seven2022/22262
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="PREMIERE 3 HD¹" tvg-logo="http://contentsdeliver.link/logos/premiereclubeshd.png" group-title="F16 M5 PREMIERE FC",PREMIERE 3 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/18854
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="PREMIERE 3 HD²" tvg-logo="http://contentsdeliver.link/logos/premiereclubeshd.png" group-title="F16 M5 PREMIERE FC",PREMIERE 3 HD²
+http://trabalho724.top:8080/7csplay/seven2022/22263
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="PREMIERE 3 HD ᶜᴰᴺ²" tvg-logo="http://contentsdeliver.link/logos/premiereclubeshd.png" group-title="F16 M5 PREMIERE FC",PREMIERE 3 HD ᶜᴰᴺ²
+http://trabalho724.top:8080/7csplay/seven2022/58739
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="PREMIERE 3 SD¹" tvg-logo="http://contentsdeliver.link/logos/premiereclubessd.png" group-title="F16 M5 PREMIERE FC",PREMIERE 3 SD¹
+http://trabalho724.top:8080/7csplay/seven2022/18759
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="PREMIERE 3 SD²" tvg-logo="http://contentsdeliver.link/logos/premiereclubessd.png" group-title="F16 M5 PREMIERE FC",PREMIERE 3 SD²
+http://trabalho724.top:8080/7csplay/seven2022/22264
+#EXTINF:-1 tvg-id="premiere4.br" tvg-name="PREMIERE 4 FHD¹" tvg-logo="http://contentsdeliver.link/logos/premiereclubesfhd.png" group-title="F16 M5 PREMIERE FC",PREMIERE 4 FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/31456
+#EXTINF:-1 tvg-id="premiere4.br" tvg-name="PREMIERE 4 FHD²" tvg-logo="http://contentsdeliver.link/logos/premiereclubesfhd.png" group-title="F16 M5 PREMIERE FC",PREMIERE 4 FHD²
+http://trabalho724.top:8080/7csplay/seven2022/22266
+#EXTINF:-1 tvg-id="premiere4.br" tvg-name="PREMIERE 4 HD¹" tvg-logo="http://contentsdeliver.link/logos/premiereclubeshd.png" group-title="F16 M5 PREMIERE FC",PREMIERE 4 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/18855
+#EXTINF:-1 tvg-id="premiere4.br" tvg-name="PREMIERE 4 HD²" tvg-logo="http://contentsdeliver.link/logos/premiereclubeshd.png" group-title="F16 M5 PREMIERE FC",PREMIERE 4 HD²
+http://trabalho724.top:8080/7csplay/seven2022/22267
+#EXTINF:-1 tvg-id="premiere4.br" tvg-name="PREMIERE 4 HD ᶜᴰᴺ²" tvg-logo="http://contentsdeliver.link/logos/premiereclubeshd.png" group-title="F16 M5 PREMIERE FC",PREMIERE 4 HD ᶜᴰᴺ²
+http://trabalho724.top:8080/7csplay/seven2022/31444
+#EXTINF:-1 tvg-id="premiere4.br" tvg-name="PREMIERE 4 SD¹" tvg-logo="http://contentsdeliver.link/logos/premiereclubessd.png" group-title="F16 M5 PREMIERE FC",PREMIERE 4 SD¹
+http://trabalho724.top:8080/7csplay/seven2022/18760
+#EXTINF:-1 tvg-id="premiere4.br" tvg-name="PREMIERE 4 SD²" tvg-logo="http://contentsdeliver.link/logos/premiereclubessd.png" group-title="F16 M5 PREMIERE FC",PREMIERE 4 SD²
+http://trabalho724.top:8080/7csplay/seven2022/22268
+#EXTINF:-1 tvg-id="premiere5.br" tvg-name="PREMIERE 5 FHD¹" tvg-logo="http://contentsdeliver.link/logos/premiereclubesfhd.png" group-title="F16 M5 PREMIERE FC",PREMIERE 5 FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/56787
+#EXTINF:-1 tvg-id="premiere5.br" tvg-name="PREMIERE 5 FHD²" tvg-logo="http://contentsdeliver.link/logos/premiereclubesfhd.png" group-title="F16 M5 PREMIERE FC",PREMIERE 5 FHD²
+http://trabalho724.top:8080/7csplay/seven2022/22270
+#EXTINF:-1 tvg-id="premiere5.br" tvg-name="PREMIERE 5 HD¹" tvg-logo="http://contentsdeliver.link/logos/premiereclubeshd.png" group-title="F16 M5 PREMIERE FC",PREMIERE 5 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/18856
+#EXTINF:-1 tvg-id="premiere5.br" tvg-name="PREMIERE 5 HD²" tvg-logo="http://contentsdeliver.link/logos/premiereclubeshd.png" group-title="F16 M5 PREMIERE FC",PREMIERE 5 HD²
+http://trabalho724.top:8080/7csplay/seven2022/22271
+#EXTINF:-1 tvg-id="premiere5.br" tvg-name="PREMIERE 5 HD³" tvg-logo="http://contentsdeliver.link/logos/premiereclubeshd.png" group-title="F16 M5 PREMIERE FC",PREMIERE 5 HD³
+http://trabalho724.top:8080/7csplay/seven2022/65746
+#EXTINF:-1 tvg-id="premiere5.br" tvg-name="PREMIERE 5 SD²" tvg-logo="http://contentsdeliver.link/logos/premiereclubessd.png" group-title="F16 M5 PREMIERE FC",PREMIERE 5 SD²
+http://trabalho724.top:8080/7csplay/seven2022/18761
+#EXTINF:-1 tvg-id="premiere5.br" tvg-name="PREMIERE 5 SD¹" tvg-logo="http://contentsdeliver.link/logos/premiereclubessd.png" group-title="F16 M5 PREMIERE FC",PREMIERE 5 SD¹
+http://trabalho724.top:8080/7csplay/seven2022/22272
+#EXTINF:-1 tvg-id="premiere6.br" tvg-name="PREMIERE 6 FHD²" tvg-logo="http://contentsdeliver.link/logos/premiereclubesfhd.png" group-title="F16 M5 PREMIERE FC",PREMIERE 6 FHD²
+http://trabalho724.top:8080/7csplay/seven2022/22383
+#EXTINF:-1 tvg-id="premiere6.br" tvg-name="PREMIERE 6 FHD²" tvg-logo="http://contentsdeliver.link/logos/premiereclubesfhd.png" group-title="F16 M5 PREMIERE FC",PREMIERE 6 FHD²
+http://trabalho724.top:8080/7csplay/seven2022/22274
+#EXTINF:-1 tvg-id="premiere6.br" tvg-name="PREMIERE 6 HD²" tvg-logo="http://contentsdeliver.link/logos/premiereclubeshd.png" group-title="F16 M5 PREMIERE FC",PREMIERE 6 HD²
+http://trabalho724.top:8080/7csplay/seven2022/18857
+#EXTINF:-1 tvg-id="premiere6.br" tvg-name="PREMIERE 6 HD²" tvg-logo="http://contentsdeliver.link/logos/premiereclubeshd.png" group-title="F16 M5 PREMIERE FC",PREMIERE 6 HD²
+http://trabalho724.top:8080/7csplay/seven2022/22275
+#EXTINF:-1 tvg-id="premiere6.br" tvg-name="PREMIERE 6 HD³" tvg-logo="http://contentsdeliver.link/logos/premiereclubeshd.png" group-title="F16 M5 PREMIERE FC",PREMIERE 6 HD³
+http://trabalho724.top:8080/7csplay/seven2022/123231
+#EXTINF:-1 tvg-id="premiere6.br" tvg-name="PREMIERE 6 SD²" tvg-logo="http://contentsdeliver.link/logos/premiereclubessd.png" group-title="F16 M5 PREMIERE FC",PREMIERE 6 SD²
+http://trabalho724.top:8080/7csplay/seven2022/22276
+#EXTINF:-1 tvg-id="premiere6.br" tvg-name="PREMIERE 6 SD" tvg-logo="http://contentsdeliver.link/logos/premiereclubessd.png" group-title="F16 M5 PREMIERE FC",PREMIERE 6 SD
+http://trabalho724.top:8080/7csplay/seven2022/22277
+#EXTINF:-1 tvg-id="premiere7.br" tvg-name="PREMIERE 7 FHD²" tvg-logo="http://contentsdeliver.link/logos/premiereclubesfhd.png" group-title="F16 M5 PREMIERE FC",PREMIERE 7 FHD²
+http://trabalho724.top:8080/7csplay/seven2022/22278
+#EXTINF:-1 tvg-id="premiere7.br" tvg-name="PREMIERE 7 HD" tvg-logo="http://contentsdeliver.link/logos/premiereclubeshd.png" group-title="F16 M5 PREMIERE FC",PREMIERE 7 HD
+http://trabalho724.top:8080/7csplay/seven2022/18858
+#EXTINF:-1 tvg-id="premiere7.br" tvg-name="PREMIERE 7 HD²" tvg-logo="http://contentsdeliver.link/logos/premiereclubeshd.png" group-title="F16 M5 PREMIERE FC",PREMIERE 7 HD²
+http://trabalho724.top:8080/7csplay/seven2022/22279
+#EXTINF:-1 tvg-id="premiere7.br" tvg-name="PREMIERE 7 SD" tvg-logo="http://contentsdeliver.link/logos/premiereclubessd.png" group-title="F16 M5 PREMIERE FC",PREMIERE 7 SD
+http://trabalho724.top:8080/7csplay/seven2022/18762
+#EXTINF:-1 tvg-id="premiere7.br" tvg-name="PREMIERE 7 SD*" tvg-logo="http://contentsdeliver.link/logos/premiereclubessd.png" group-title="F16 M5 PREMIERE FC",PREMIERE 7 SD*
+http://trabalho724.top:8080/7csplay/seven2022/22280
+#EXTINF:-1 tvg-id="premiere7.br" tvg-name="PREMIERE 7 SD² " tvg-logo="http://contentsdeliver.link/logos/premiereclubessd.png" group-title="F16 M5 PREMIERE FC",PREMIERE 7 SD² 
+http://trabalho724.top:8080/7csplay/seven2022/22281
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="GLOBO RPC MARINGA FHD¹" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO RPC MARINGA FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/109088
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="GLOBO RPC MARINGA HD¹" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO RPC MARINGA HD¹
+http://trabalho724.top:8080/7csplay/seven2022/109089
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="GLOBO CENTRO AMERICA FHD¹" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO CENTRO AMERICA FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/109058
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="GLOBO CENTRO AMERICA HD¹" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO CENTRO AMERICA HD¹
+http://trabalho724.top:8080/7csplay/seven2022/109059
+#EXTINF:-1 tvg-id="" tvg-name="WWE HD*" tvg-logo="http://contentsdeliver.link/logos/wwehd.png" group-title="F16 M5 ESPORTES GERAL",WWE HD*
+http://trabalho724.top:8080/7csplay/seven2022/188345
+#EXTINF:-1 tvg-id="" tvg-name="WWE HD**" tvg-logo="http://contentsdeliver.link/logos/wwehd.png" group-title="F16 M5 ESPORTES GERAL",WWE HD**
+http://trabalho724.top:8080/7csplay/seven2022/188348
+#EXTINF:-1 tvg-id="" tvg-name="TV GAZETA SP FHD³" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",TV GAZETA SP FHD³
+http://trabalho724.top:8080/7csplay/seven2022/115827
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV UHD¹" tvg-logo="http://contentsdeliver.link/logos/sportv4k.png" group-title="F16 M5 SPORTV",SPORTV UHD¹
+http://trabalho724.top:8080/7csplay/seven2022/315115
+#EXTINF:-1 tvg-id="foxsports.br" tvg-name="SPORTV FHD MAX¹" tvg-logo="http://contentsdeliver.link/logos/sportvfhdmax.png" group-title="F16 M5 SPORTV",SPORTV FHD MAX¹
+http://trabalho724.top:8080/7csplay/seven2022/54377
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV FHD MAX²" tvg-logo="http://contentsdeliver.link/logos/sportvfhdmax.png" group-title="F16 M5 SPORTV",SPORTV FHD MAX²
+http://trabalho724.top:8080/7csplay/seven2022/65744
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV FHD¹" tvg-logo="http://contentsdeliver.link/logos/sportvfhd.png" group-title="F16 M5 SPORTV",SPORTV FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/22708
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV FHD¹" tvg-logo="http://contentsdeliver.link/logos/sportvfhd.png" group-title="F16 M5 SPORTV",SPORTV FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/18680
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV FHD²" tvg-logo="http://contentsdeliver.link/logos/sportvfhd.png" group-title="F16 M5 SPORTV",SPORTV FHD²
+http://trabalho724.top:8080/7csplay/seven2022/42906
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV FHD ᶜᴰᴺ²" tvg-logo="http://contentsdeliver.link/logos/sportvfhd.png" group-title="F16 M5 SPORTV",SPORTV FHD ᶜᴰᴺ²
+http://trabalho724.top:8080/7csplay/seven2022/31594
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV HD¹" tvg-logo="http://contentsdeliver.link/logos/sportvhd.png" group-title="F16 M5 SPORTV",SPORTV HD¹
+http://trabalho724.top:8080/7csplay/seven2022/18659
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV HD²" tvg-logo="http://contentsdeliver.link/logos/sportvhd.png" group-title="F16 M5 SPORTV",SPORTV HD²
+http://trabalho724.top:8080/7csplay/seven2022/22614
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV HD ᶜᴰᴺ²" tvg-logo="http://contentsdeliver.link/logos/sportvhd.png" group-title="F16 M5 SPORTV",SPORTV HD ᶜᴰᴺ²
+http://trabalho724.top:8080/7csplay/seven2022/59175
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV SD¹" tvg-logo="http://contentsdeliver.link/logos/sportvsd.png" group-title="F16 M5 SPORTV",SPORTV SD¹
+http://trabalho724.top:8080/7csplay/seven2022/18670
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV SD²" tvg-logo="http://contentsdeliver.link/logos/sportvsd.png" group-title="F16 M5 SPORTV",SPORTV SD²
+http://trabalho724.top:8080/7csplay/seven2022/22392
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="SPORTV 2 FHD¹" tvg-logo="http://contentsdeliver.link/logos/sportv2fhd.png" group-title="F16 M5 SPORTV",SPORTV 2 FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/42907
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 FHD²" tvg-logo="http://contentsdeliver.link/logos/sportv2fhd.png" group-title="F16 M5 SPORTV",SPORTV 2 FHD²
+http://trabalho724.top:8080/7csplay/seven2022/22706
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 HD¹" tvg-logo="http://contentsdeliver.link/logos/sportv2hd.png" group-title="F16 M5 SPORTV",SPORTV 2 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/18660
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 HD²" tvg-logo="http://contentsdeliver.link/logos/sportv2hd.png" group-title="F16 M5 SPORTV",SPORTV 2 HD²
+http://trabalho724.top:8080/7csplay/seven2022/22612
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 HD ᶜᴰᴺ²" tvg-logo="http://contentsdeliver.link/logos/sportv2hd.png" group-title="F16 M5 SPORTV",SPORTV 2 HD ᶜᴰᴺ²
+http://trabalho724.top:8080/7csplay/seven2022/59177
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 SD¹" tvg-logo="http://contentsdeliver.link/logos/sportv2sd.png" group-title="F16 M5 SPORTV",SPORTV 2 SD¹
+http://trabalho724.top:8080/7csplay/seven2022/18668
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV 2 SD²" tvg-logo="http://contentsdeliver.link/logos/sportv2sd.png" group-title="F16 M5 SPORTV",SPORTV 2 SD²
+http://trabalho724.top:8080/7csplay/seven2022/22390
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 FHD¹" tvg-logo="http://contentsdeliver.link/logos/sportv3fhd.png" group-title="F16 M5 SPORTV",SPORTV 3 FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/18679
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 FHD²" tvg-logo="http://contentsdeliver.link/logos/sportv3fhd.png" group-title="F16 M5 SPORTV",SPORTV 3 FHD²
+http://trabalho724.top:8080/7csplay/seven2022/22707
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 HD¹" tvg-logo="http://contentsdeliver.link/logos/sportv3hd.png" group-title="F16 M5 SPORTV",SPORTV 3 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/18661
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 HD²" tvg-logo="http://contentsdeliver.link/logos/sportv3hd.png" group-title="F16 M5 SPORTV",SPORTV 3 HD²
+http://trabalho724.top:8080/7csplay/seven2022/22613
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 SD¹" tvg-logo="http://contentsdeliver.link/logos/sportv3sd.png" group-title="F16 M5 SPORTV",SPORTV 3 SD¹
+http://trabalho724.top:8080/7csplay/seven2022/18669
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 SD²" tvg-logo="http://contentsdeliver.link/logos/sportv3sd.png" group-title="F16 M5 SPORTV",SPORTV 3 SD²
+http://trabalho724.top:8080/7csplay/seven2022/22391
+#EXTINF:-1 tvg-id="" tvg-name="FUTEBOL (HOJE)" tvg-logo="http://free-image-hosting.top/logos/espaco_cliente_futebol_hoje.png" group-title="ESPAÇO DO CLIENTE",FUTEBOL (HOJE)
+http://trabalho724.top:8080/7csplay/seven2022/197699
+#EXTINF:-1 tvg-id="" tvg-name="NOVOS FILMES" tvg-logo="http://free-image-hosting.top/logos/espaco_cliente_novos_filmes.png" group-title="ESPAÇO DO CLIENTE",NOVOS FILMES
+http://trabalho724.top:8080/7csplay/seven2022/197696
+#EXTINF:-1 tvg-id="" tvg-name="NOVAS SERIES" tvg-logo="http://free-image-hosting.top/logos/espaco_cliente_novas_series.png" group-title="ESPAÇO DO CLIENTE",NOVAS SERIES
+http://trabalho724.top:8080/7csplay/seven2022/197700
+#EXTINF:-1 tvg-id="" tvg-name="CALENDÁRIO UFC" tvg-logo="http://free-image-hosting.top/logos/espaco_cliente_ufc.png" group-title="ESPAÇO DO CLIENTE",CALENDÁRIO UFC
+http://trabalho724.top:8080/7csplay/seven2022/197701
+#EXTINF:-1 tvg-id="conmebol.1.br" tvg-name="CONMEBOL 1 FHD²" tvg-logo="http://contentsdeliver.link/logos/conmebolfhd.png" group-title="F16 M5 CONMEBOL ",CONMEBOL 1 FHD²
+http://trabalho724.top:8080/7csplay/seven2022/64674
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 1 HD¹" tvg-logo="http://contentsdeliver.link/logos/conmebolhd.png" group-title="F16 M5 CONMEBOL ",CONMEBOL 1 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/43013
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 1 HD²" tvg-logo="http://contentsdeliver.link/logos/conmebolhd.png" group-title="F16 M5 CONMEBOL ",CONMEBOL 1 HD²
+http://trabalho724.top:8080/7csplay/seven2022/42996
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 1 HD ᶜᴰᴺ²" tvg-logo="http://contentsdeliver.link/logos/conmebolhd.png" group-title="F16 M5 CONMEBOL ",CONMEBOL 1 HD ᶜᴰᴺ²
+http://trabalho724.top:8080/7csplay/seven2022/199481
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 1 SD²" tvg-logo="http://contentsdeliver.link/logos/conmebolsd.png" group-title="F16 M5 CONMEBOL ",CONMEBOL 1 SD²
+http://trabalho724.top:8080/7csplay/seven2022/64679
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 2 FHD¹" tvg-logo="http://contentsdeliver.link/logos/conmebolfhd.png" group-title="F16 M5 CONMEBOL ",CONMEBOL 2 FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/64675
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 2 FHD²" tvg-logo="http://contentsdeliver.link/logos/conmebolfhd.png" group-title="F16 M5 CONMEBOL ",CONMEBOL 2 FHD²
+http://trabalho724.top:8080/7csplay/seven2022/43000
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 2 HD¹" tvg-logo="http://contentsdeliver.link/logos/conmebolhd.png" group-title="F16 M5 CONMEBOL ",CONMEBOL 2 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/64676
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 2 HD²" tvg-logo="http://contentsdeliver.link/logos/conmebolhd.png" group-title="F16 M5 CONMEBOL ",CONMEBOL 2 HD²
+http://trabalho724.top:8080/7csplay/seven2022/43001
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 2 HD ᶜᴰᴺ²" tvg-logo="http://contentsdeliver.link/logos/conmebolhd.png" group-title="F16 M5 CONMEBOL ",CONMEBOL 2 HD ᶜᴰᴺ²
+http://trabalho724.top:8080/7csplay/seven2022/199482
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 2 SD²" tvg-logo="http://contentsdeliver.link/logos/conmebolsd.png" group-title="F16 M5 CONMEBOL ",CONMEBOL 2 SD²
+http://trabalho724.top:8080/7csplay/seven2022/199484
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 3 FHD¹" tvg-logo="http://contentsdeliver.link/logos/conmebolfhd.png" group-title="F16 M5 CONMEBOL ",CONMEBOL 3 FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/43004
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 3 FHD²" tvg-logo="http://contentsdeliver.link/logos/conmebolfhd.png" group-title="F16 M5 CONMEBOL ",CONMEBOL 3 FHD²
+http://trabalho724.top:8080/7csplay/seven2022/64678
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 3 HD¹" tvg-logo="http://contentsdeliver.link/logos/conmebolhd.png" group-title="F16 M5 CONMEBOL ",CONMEBOL 3 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/43005
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 3 HD²" tvg-logo="http://contentsdeliver.link/logos/conmebolhd.png" group-title="F16 M5 CONMEBOL ",CONMEBOL 3 HD²
+http://trabalho724.top:8080/7csplay/seven2022/64677
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 3 HD ᶜᴰᴺ²" tvg-logo="http://contentsdeliver.link/logos/conmebolhd.png" group-title="F16 M5 CONMEBOL ",CONMEBOL 3 HD ᶜᴰᴺ²
+http://trabalho724.top:8080/7csplay/seven2022/199483
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 3 SD²" tvg-logo="http://contentsdeliver.link/logos/conmebolsd.png" group-title="F16 M5 CONMEBOL ",CONMEBOL 3 SD²
+http://trabalho724.top:8080/7csplay/seven2022/64682
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 4 FHD¹" tvg-logo="http://contentsdeliver.link/logos/conmebolfhd.png" group-title="F16 M5 CONMEBOL ",CONMEBOL 4 FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/43006
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 4 HD¹" tvg-logo="http://contentsdeliver.link/logos/conmebolhd.png" group-title="F16 M5 CONMEBOL ",CONMEBOL 4 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/43007
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 4 HD*" tvg-logo="http://contentsdeliver.link/logos/conmebolhd.png" group-title="F16 M5 CONMEBOL ",CONMEBOL 4 HD*
+http://trabalho724.top:8080/7csplay/seven2022/43010
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 4 SD²" tvg-logo="http://contentsdeliver.link/logos/conmebolsd.png" group-title="F16 M5 CONMEBOL ",CONMEBOL 4 SD²
+http://trabalho724.top:8080/7csplay/seven2022/64680
+#EXTINF:-1 tvg-id="" tvg-name="FIGHT NETWORK HD²" tvg-logo="http://contentsdeliver.link/logos/fightnetworkhd.png" group-title="F16 M5 ESPORTES GERAL",FIGHT NETWORK HD²
+http://trabalho724.top:8080/7csplay/seven2022/201863
+#EXTINF:-1 tvg-id="" tvg-name="FIGHT BOX HD²" tvg-logo="http://contentsdeliver.link/logos/fightboxhd.png" group-title="F16 M5 ESPORTES GERAL",FIGHT BOX HD²
+http://trabalho724.top:8080/7csplay/seven2022/201864
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO TV DIARIO MOGI DAS CRUZES FHD²" tvg-logo="http://contentsdeliver.link/logos/globofhd.png" group-title="F16 M5 GLOBO",GLOBO TV DIARIO MOGI DAS CRUZES FHD²
+http://trabalho724.top:8080/7csplay/seven2022/109100
+#EXTINF:-1 tvg-id="" tvg-name="BAND SP 4K¹" tvg-logo="http://contentsdeliver.link/logos/band4k.png" group-title="F16 M5 UHD (4K)",BAND SP 4K¹
+http://trabalho724.top:8080/7csplay/seven2022/275364
+#EXTINF:-1 tvg-id="" tvg-name="AXN 4K¹" tvg-logo="http://contentsdeliver.link/logos/axn4k.png" group-title="F16 M5 UHD (4K)",AXN 4K¹
+http://trabalho724.top:8080/7csplay/seven2022/275365
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY HOME & HEALTH 4K¹" tvg-logo="http://contentsdeliver.link/logos/discoveryheh4k.png" group-title="F16 M5 UHD (4K)",DISCOVERY HOME & HEALTH 4K¹
+http://trabalho724.top:8080/7csplay/seven2022/275366
+#EXTINF:-1 tvg-id="cnn.br" tvg-name="CNN BRASIL 4K¹" tvg-logo="http://contentsdeliver.link/logos/cnnbrasil4k.png" group-title="F16 M5 UHD (4K)",CNN BRASIL 4K¹
+http://trabalho724.top:8080/7csplay/seven2022/275367
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL 4K¹" tvg-logo="http://contentsdeliver.link/logos/comedycentral4k.png" group-title="F16 M5 UHD (4K)",COMEDY CENTRAL 4K¹
+http://trabalho724.top:8080/7csplay/seven2022/275368
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO 4K¹" tvg-logo="http://contentsdeliver.link/logos/discoveryturbo4k.png" group-title="F16 M5 UHD (4K)",DISCOVERY TURBO 4K¹
+http://trabalho724.top:8080/7csplay/seven2022/275369
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS 4K¹" tvg-logo="http://contentsdeliver.link/logos/globonews4k.png" group-title="F16 M5 UHD (4K)",GLOBO NEWS 4K¹
+http://trabalho724.top:8080/7csplay/seven2022/275371
+#EXTINF:-1 tvg-id="" tvg-name="GNT 4K¹" tvg-logo="http://contentsdeliver.link/logos/gnt4k.png" group-title="F16 M5 UHD (4K)",GNT 4K¹
+http://trabalho724.top:8080/7csplay/seven2022/275372
+#EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN NEWS 4K¹" tvg-logo="http://contentsdeliver.link/logos/jovempam4k.png" group-title="F16 M5 UHD (4K)",JOVEM PAN NEWS 4K¹
+http://trabalho724.top:8080/7csplay/seven2022/275373
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE ACTION 4K¹" tvg-logo="http://contentsdeliver.link/logos/telecineaction4k.png" group-title="F16 M5 UHD (4K)",TELECINE ACTION 4K¹
+http://trabalho724.top:8080/7csplay/seven2022/275374
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE PIPOCA 4K¹" tvg-logo="http://contentsdeliver.link/logos/telecinepipoca4k.png" group-title="F16 M5 UHD (4K)",TELECINE PIPOCA 4K¹
+http://trabalho724.top:8080/7csplay/seven2022/275375
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL 4K¹" tvg-logo="http://contentsdeliver.link/logos/universal4k.png" group-title="F16 M5 UHD (4K)",UNIVERSAL 4K¹
+http://trabalho724.top:8080/7csplay/seven2022/275376
+#EXTINF:-1 tvg-id="" tvg-name="VIVA 4K¹" tvg-logo="http://contentsdeliver.link/logos/viva4k.png" group-title="F16 M5 UHD (4K)",VIVA 4K¹
+http://trabalho724.top:8080/7csplay/seven2022/275377
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND TATUAPE HD²" tvg-logo="http://contentsdeliver.link/logos/bandhd.png" group-title="F16 M5 BAND",BAND TATUAPE HD²
+http://trabalho724.top:8080/7csplay/seven2022/277339
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND CEARA HD²" tvg-logo="http://contentsdeliver.link/logos/bandhd.png" group-title="F16 M5 BAND",BAND CEARA HD²
+http://trabalho724.top:8080/7csplay/seven2022/277340
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT+ 1 FHD¹" tvg-logo="http://contentsdeliver.link/logos/paramountfhd.png" group-title="F16 M5 PARAMOUNT+",PARAMOUNT+ 1 FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/299151
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT+ 1 HD²" tvg-logo="http://contentsdeliver.link/logos/paramounthd.png" group-title="F16 M5 PARAMOUNT+",PARAMOUNT+ 1 HD²
+http://trabalho724.top:8080/7csplay/seven2022/299147
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT+ 2 FHD¹" tvg-logo="http://contentsdeliver.link/logos/paramountfhd.png" group-title="F16 M5 PARAMOUNT+",PARAMOUNT+ 2 FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/299152
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT+ 2 HD²" tvg-logo="http://contentsdeliver.link/logos/paramounthd.png" group-title="F16 M5 PARAMOUNT+",PARAMOUNT+ 2 HD²
+http://trabalho724.top:8080/7csplay/seven2022/299148
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT+ 3 FHD¹" tvg-logo="http://contentsdeliver.link/logos/paramountfhd.png" group-title="F16 M5 PARAMOUNT+",PARAMOUNT+ 3 FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/299153
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT+ 3 HD²" tvg-logo="http://contentsdeliver.link/logos/paramounthd.png" group-title="F16 M5 PARAMOUNT+",PARAMOUNT+ 3 HD²
+http://trabalho724.top:8080/7csplay/seven2022/299149
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT+ 4 FHD¹" tvg-logo="http://contentsdeliver.link/logos/paramountfhd.png" group-title="F16 M5 PARAMOUNT+",PARAMOUNT+ 4 FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/299154
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT+ 4 HD²" tvg-logo="http://contentsdeliver.link/logos/paramounthd.png" group-title="F16 M5 PARAMOUNT+",PARAMOUNT+ 4 HD²
+http://trabalho724.top:8080/7csplay/seven2022/299150
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RJ PLANICE HD¹" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO RJ PLANICE HD¹
+http://trabalho724.top:8080/7csplay/seven2022/300035
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RJ ALTO LITORAL HD¹" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO RJ ALTO LITORAL HD¹
+http://trabalho724.top:8080/7csplay/seven2022/300036
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO TV DIÁRIO FORTALEZA HD¹" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO TV DIÁRIO FORTALEZA HD¹
+http://trabalho724.top:8080/7csplay/seven2022/300037
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO TV DIÁRIO MOGI DAS CRUZES HD¹" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO TV DIÁRIO MOGI DAS CRUZES HD¹
+http://trabalho724.top:8080/7csplay/seven2022/300038
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="RECORD CAMPINAS SD²" tvg-logo="http://contentsdeliver.link/logos/recordsd.png" group-title="F16 M5 RECORD",RECORD CAMPINAS SD²
+http://trabalho724.top:8080/7csplay/seven2022/301257
+#EXTINF:-1 tvg-id="tv.morena.ponta.pora.br" tvg-name="GLOBO TV MORENA PONTA PORÃ HD²" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO TV MORENA PONTA PORÃ HD²
+http://trabalho724.top:8080/7csplay/seven2022/302652
+#EXTINF:-1 tvg-id="tv.morena.corumba.br" tvg-name="GLOBO TV MORENA PONTA CORUMBÁ HD²" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO TV MORENA PONTA CORUMBÁ HD²
+http://trabalho724.top:8080/7csplay/seven2022/302653
+#EXTINF:-1 tvg-id="tv.centro.america.tangara.da.serra.br" tvg-name="GLOBO TV CENTRO AMÉRICA TANGARÁ DA SERRA HD²" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO TV CENTRO AMÉRICA TANGARÁ DA SERRA HD²
+http://trabalho724.top:8080/7csplay/seven2022/302654
+#EXTINF:-1 tvg-id="tv.centro.america.br" tvg-name="GLOBO TV CENTRO AMÉRICA NORTE HD²" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO TV CENTRO AMÉRICA NORTE HD²
+http://trabalho724.top:8080/7csplay/seven2022/302655
+#EXTINF:-1 tvg-id="tv.centro.america.br" tvg-name="GLOBO TV CENTRO AMÉRICA SUL HD²" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO TV CENTRO AMÉRICA SUL HD²
+http://trabalho724.top:8080/7csplay/seven2022/302656
+#EXTINF:-1 tvg-id="tv.centro.america.br" tvg-name="GLOBO TV CENTRO AMÉRICA HD²" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO TV CENTRO AMÉRICA HD²
+http://trabalho724.top:8080/7csplay/seven2022/302657
+#EXTINF:-1 tvg-id="tv.gazeta.noroeste.br" tvg-name="GLOBO TV GAZETA NOROESTE ES HD²" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO TV GAZETA NOROESTE ES HD²
+http://trabalho724.top:8080/7csplay/seven2022/302658
+#EXTINF:-1 tvg-id="tv.gazeta.norte.br" tvg-name="GLOBO TV GAZETA NORTE ES HD²" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO TV GAZETA NORTE ES HD²
+http://trabalho724.top:8080/7csplay/seven2022/302659
+#EXTINF:-1 tvg-id="rpc.maringa.br" tvg-name="GLOBO RPC MARINGA HD²" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO RPC MARINGA HD²
+http://trabalho724.top:8080/7csplay/seven2022/302669
+#EXTINF:-1 tvg-id="rbs.santa.cruz.do.sul.br" tvg-name="GLOBO RBS SANTA CRUZ DO SUL HD²" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO RBS SANTA CRUZ DO SUL HD²
+http://trabalho724.top:8080/7csplay/seven2022/302670
+#EXTINF:-1 tvg-id="tv.verdes.mares.cariri.br" tvg-name="GLOBO VERDES MARES CARIRI HD²" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO VERDES MARES CARIRI HD²
+http://trabalho724.top:8080/7csplay/seven2022/302671
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO PETROLINA PERNAMBUCO HD²" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO PETROLINA PERNAMBUCO HD²
+http://trabalho724.top:8080/7csplay/seven2022/302672
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT 4K¹" tvg-logo="http://contentsdeliver.link/logos/sbt4k.png" group-title="F16 M5 UHD (4K)",SBT 4K¹
+http://trabalho724.top:8080/7csplay/seven2022/116644
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT FHD MAX²" tvg-logo="http://contentsdeliver.link/logos/sbtfhdmax.png" group-title="F16 M5 SBT",SBT FHD MAX²
+http://trabalho724.top:8080/7csplay/seven2022/68823
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT FHD¹" tvg-logo="http://contentsdeliver.link/logos/sbtfhd.png" group-title="F16 M5 SBT",SBT FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/45063
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT FHD²" tvg-logo="http://contentsdeliver.link/logos/sbtfhd.png" group-title="F16 M5 SBT",SBT FHD²
+http://trabalho724.top:8080/7csplay/seven2022/22700
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT FHD ᶜᴰᴺ²" tvg-logo="http://contentsdeliver.link/logos/sbtfhd.png" group-title="F16 M5 SBT",SBT FHD ᶜᴰᴺ²
+http://trabalho724.top:8080/7csplay/seven2022/54582
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT HD¹" tvg-logo="http://contentsdeliver.link/logos/sbthd.png" group-title="F16 M5 SBT",SBT HD¹
+http://trabalho724.top:8080/7csplay/seven2022/65738
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT HD²" tvg-logo="http://contentsdeliver.link/logos/sbthd.png" group-title="F16 M5 SBT",SBT HD²
+http://trabalho724.top:8080/7csplay/seven2022/22607
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT HD*" tvg-logo="http://contentsdeliver.link/logos/sbthd.png" group-title="F16 M5 SBT",SBT HD*
+http://trabalho724.top:8080/7csplay/seven2022/7669
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT HD ᶜᴰᴺ²" tvg-logo="http://contentsdeliver.link/logos/sbthd.png" group-title="F16 M5 SBT",SBT HD ᶜᴰᴺ²
+http://trabalho724.top:8080/7csplay/seven2022/65737
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SD¹" tvg-logo="http://contentsdeliver.link/logos/sbtsd.png" group-title="F16 M5 SBT",SBT SD¹
+http://trabalho724.top:8080/7csplay/seven2022/7670
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SD²" tvg-logo="http://contentsdeliver.link/logos/sbtsd.png" group-title="F16 M5 SBT",SBT SD²
+http://trabalho724.top:8080/7csplay/seven2022/22387
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP FHD MAX²" tvg-logo="http://contentsdeliver.link/logos/sbtfhdmax.png" group-title="F16 M5 SBT",SBT SP FHD MAX²
+http://trabalho724.top:8080/7csplay/seven2022/118358
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP FHD¹" tvg-logo="http://contentsdeliver.link/logos/sbtfhd.png" group-title="F16 M5 SBT",SBT SP FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/44816
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP HD²" tvg-logo="http://contentsdeliver.link/logos/sbthd.png" group-title="F16 M5 SBT",SBT SP HD²
+http://trabalho724.top:8080/7csplay/seven2022/18611
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP HD²" tvg-logo="http://contentsdeliver.link/logos/sbthd.png" group-title="F16 M5 SBT",SBT SP HD²
+http://trabalho724.top:8080/7csplay/seven2022/125494
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP INTERIOR HD¹" tvg-logo="http://contentsdeliver.link/logos/sbthd.png" group-title="F16 M5 SBT",SBT SP INTERIOR HD¹
+http://trabalho724.top:8080/7csplay/seven2022/59633
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP INTERIOR HD*" tvg-logo="http://contentsdeliver.link/logos/sbthd.png" group-title="F16 M5 SBT",SBT SP INTERIOR HD*
+http://trabalho724.top:8080/7csplay/seven2022/59634
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT RJ FHD¹" tvg-logo="http://contentsdeliver.link/logos/sbtfhd.png" group-title="F16 M5 SBT",SBT RJ FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/18608
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT RJ FHD²" tvg-logo="http://contentsdeliver.link/logos/sbtfhd.png" group-title="F16 M5 SBT",SBT RJ FHD²
+http://trabalho724.top:8080/7csplay/seven2022/64631
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT RJ HD¹" tvg-logo="http://contentsdeliver.link/logos/sbthd.png" group-title="F16 M5 SBT",SBT RJ HD¹
+http://trabalho724.top:8080/7csplay/seven2022/22608
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT RJ HD²" tvg-logo="http://contentsdeliver.link/logos/sbthd.png" group-title="F16 M5 SBT",SBT RJ HD²
+http://trabalho724.top:8080/7csplay/seven2022/125496
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT RJ HD ᶜᴰᴺ²" tvg-logo="http://contentsdeliver.link/logos/sbthd.png" group-title="F16 M5 SBT",SBT RJ HD ᶜᴰᴺ²
+http://trabalho724.top:8080/7csplay/seven2022/125495
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT JANGADEIRO-CE HD¹" tvg-logo="http://contentsdeliver.link/logos/sbthd.png" group-title="F16 M5 SBT",SBT JANGADEIRO-CE HD¹
+http://trabalho724.top:8080/7csplay/seven2022/52893
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT PERNAMBUCO FHD¹" tvg-logo="http://contentsdeliver.link/logos/sbtfhd.png" group-title="F16 M5 SBT",SBT PERNAMBUCO FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/121490
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT VTV CAMPINAS FHD²" tvg-logo="http://contentsdeliver.link/logos/sbtfhd.png" group-title="F16 M5 SBT",SBT VTV CAMPINAS FHD²
+http://trabalho724.top:8080/7csplay/seven2022/64633
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT VTV CAMPINAS HD²" tvg-logo="http://contentsdeliver.link/logos/sbthd.png" group-title="F16 M5 SBT",SBT VTV CAMPINAS HD²
+http://trabalho724.top:8080/7csplay/seven2022/64632
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT GOIAS HD¹" tvg-logo="http://contentsdeliver.link/logos/sbthd.png" group-title="F16 M5 SBT",SBT GOIAS HD¹
+http://trabalho724.top:8080/7csplay/seven2022/18613
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SERRA DOURADA GOIAS FHD²" tvg-logo="http://contentsdeliver.link/logos/sbtfhd.png" group-title="F16 M5 SBT",SBT SERRA DOURADA GOIAS FHD²
+http://trabalho724.top:8080/7csplay/seven2022/68824
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SERRA DOURADA GOIAS HD²" tvg-logo="http://contentsdeliver.link/logos/sbthd.png" group-title="F16 M5 SBT",SBT SERRA DOURADA GOIAS HD²
+http://trabalho724.top:8080/7csplay/seven2022/57043
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT ALTEROSA-MG HD²" tvg-logo="http://contentsdeliver.link/logos/sbthd.png" group-title="F16 M5 SBT",SBT ALTEROSA-MG HD²
+http://trabalho724.top:8080/7csplay/seven2022/70908
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT ALTEROSA-MG FHD²" tvg-logo="http://contentsdeliver.link/logos/sbtfhd.png" group-title="F16 M5 SBT",SBT ALTEROSA-MG FHD²
+http://trabalho724.top:8080/7csplay/seven2022/70909
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT BRASILIA HD²" tvg-logo="http://contentsdeliver.link/logos/sbthd.png" group-title="F16 M5 SBT",SBT BRASILIA HD²
+http://trabalho724.top:8080/7csplay/seven2022/64627
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT RS HD¹" tvg-logo="http://contentsdeliver.link/logos/sbthd.png" group-title="F16 M5 SBT",SBT RS HD¹
+http://trabalho724.top:8080/7csplay/seven2022/18609
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT RS HD²" tvg-logo="http://contentsdeliver.link/logos/sbthd.png" group-title="F16 M5 SBT",SBT RS HD²
+http://trabalho724.top:8080/7csplay/seven2022/64628
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT PARANA FHD²" tvg-logo="http://contentsdeliver.link/logos/sbtfhd.png" group-title="F16 M5 SBT",SBT PARANA FHD²
+http://trabalho724.top:8080/7csplay/seven2022/64634
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT PARANA HD¹" tvg-logo="http://contentsdeliver.link/logos/sbthd.png" group-title="F16 M5 SBT",SBT PARANA HD¹
+http://trabalho724.top:8080/7csplay/seven2022/57041
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT PARANA HD²" tvg-logo="http://contentsdeliver.link/logos/sbthd.png" group-title="F16 M5 SBT",SBT PARANA HD²
+http://trabalho724.top:8080/7csplay/seven2022/18607
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT BAHIA HD¹" tvg-logo="http://contentsdeliver.link/logos/sbthd.png" group-title="F16 M5 SBT",SBT BAHIA HD¹
+http://trabalho724.top:8080/7csplay/seven2022/52931
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT BAHIA HD²" tvg-logo="http://contentsdeliver.link/logos/sbthd.png" group-title="F16 M5 SBT",SBT BAHIA HD²
+http://trabalho724.top:8080/7csplay/seven2022/64630
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT ARATU SALVADOR-BA HD²" tvg-logo="http://contentsdeliver.link/logos/sbthd.png" group-title="F16 M5 SBT",SBT ARATU SALVADOR-BA HD²
+http://trabalho724.top:8080/7csplay/seven2022/70910
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT APERIPE SERGIPE HD²" tvg-logo="http://contentsdeliver.link/logos/sbthd.png" group-title="F16 M5 SBT",SBT APERIPE SERGIPE HD²
+http://trabalho724.top:8080/7csplay/seven2022/64629
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT PIAUI HD²" tvg-logo="http://contentsdeliver.link/logos/sbthd.png" group-title="F16 M5 SBT",SBT PIAUI HD²
+http://trabalho724.top:8080/7csplay/seven2022/171719
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT MARANHAO HD²" tvg-logo="http://contentsdeliver.link/logos/sbthd.png" group-title="F16 M5 SBT",SBT MARANHAO HD²
+http://trabalho724.top:8080/7csplay/seven2022/171720
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO BRASIL PRIME VIDEO 1 HD¹" tvg-logo="http://contentsdeliver.link/logos/primevideohd.png" group-title="F16 M5 PRIME VIDEO ",COPA DO BRASIL PRIME VIDEO 1 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/129900
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO BRASIL PRIME VIDEO 1 HD²" tvg-logo="http://contentsdeliver.link/logos/primevideohd.png" group-title="F16 M5 PRIME VIDEO ",COPA DO BRASIL PRIME VIDEO 1 HD²
+http://trabalho724.top:8080/7csplay/seven2022/126616
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO BRASIL PRIME VIDEO 1 HD ᶜᴰᴺ²" tvg-logo="http://contentsdeliver.link/logos/primevideohd.png" group-title="F16 M5 PRIME VIDEO ",COPA DO BRASIL PRIME VIDEO 1 HD ᶜᴰᴺ²
+http://trabalho724.top:8080/7csplay/seven2022/311695
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO BRASIL PRIME VIDEO 2 HD¹" tvg-logo="http://contentsdeliver.link/logos/primevideohd.png" group-title="F16 M5 PRIME VIDEO ",COPA DO BRASIL PRIME VIDEO 2 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/129893
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO BRASIL PRIME VIDEO 2 HD²" tvg-logo="http://contentsdeliver.link/logos/primevideohd.png" group-title="F16 M5 PRIME VIDEO ",COPA DO BRASIL PRIME VIDEO 2 HD²
+http://trabalho724.top:8080/7csplay/seven2022/126617
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO BRASIL PRIME VIDEO 3 HD¹" tvg-logo="http://contentsdeliver.link/logos/primevideohd.png" group-title="F16 M5 PRIME VIDEO ",COPA DO BRASIL PRIME VIDEO 3 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/311691
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO BRASIL PRIME VIDEO 3 HD²" tvg-logo="http://contentsdeliver.link/logos/primevideohd.png" group-title="F16 M5 PRIME VIDEO ",COPA DO BRASIL PRIME VIDEO 3 HD²
+http://trabalho724.top:8080/7csplay/seven2022/311692
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO BRASIL PRIME VIDEO 4 HD²" tvg-logo="http://contentsdeliver.link/logos/primevideohd.png" group-title="F16 M5 PRIME VIDEO ",COPA DO BRASIL PRIME VIDEO 4 HD²
+http://trabalho724.top:8080/7csplay/seven2022/311693
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO BRASIL PRIME VIDEO 5 HD²" tvg-logo="http://contentsdeliver.link/logos/primevideohd.png" group-title="F16 M5 PRIME VIDEO ",COPA DO BRASIL PRIME VIDEO 5 HD²
+http://trabalho724.top:8080/7csplay/seven2022/311694
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 1 HD¹" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title="F16 M5 DISNEY+",DISNEY+ 1 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/59969
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 1 HD²" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title="F16 M5 DISNEY+",DISNEY+ 1 HD²
+http://trabalho724.top:8080/7csplay/seven2022/59952
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 1  HD*" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title="F16 M5 DISNEY+",DISNEY+ 1  HD*
+http://trabalho724.top:8080/7csplay/seven2022/62457
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="DISNEY+ 1 HD ᶜᴰᴺ²" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title="F16 M5 DISNEY+",DISNEY+ 1 HD ᶜᴰᴺ²
+http://trabalho724.top:8080/7csplay/seven2022/162405
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 2 HD¹" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title="F16 M5 DISNEY+",DISNEY+ 2 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/64734
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 2 HD²" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title="F16 M5 DISNEY+",DISNEY+ 2 HD²
+http://trabalho724.top:8080/7csplay/seven2022/59970
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 2 HD*" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title="F16 M5 DISNEY+",DISNEY+ 2 HD*
+http://trabalho724.top:8080/7csplay/seven2022/18959
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 3 HD¹" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title="F16 M5 DISNEY+",DISNEY+ 3 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/64707
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 3 HD²" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title="F16 M5 DISNEY+",DISNEY+ 3 HD²
+http://trabalho724.top:8080/7csplay/seven2022/59971
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 4 HD¹" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title="F16 M5 DISNEY+",DISNEY+ 4 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/64708
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 4 HD²" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title="F16 M5 DISNEY+",DISNEY+ 4 HD²
+http://trabalho724.top:8080/7csplay/seven2022/297171
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 5 HD¹" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title="F16 M5 DISNEY+",DISNEY+ 5 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/59972
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 5 HD²" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title="F16 M5 DISNEY+",DISNEY+ 5 HD²
+http://trabalho724.top:8080/7csplay/seven2022/297172
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 6 HD²" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title="F16 M5 DISNEY+",DISNEY+ 6 HD²
+http://trabalho724.top:8080/7csplay/seven2022/297173
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO RBS TV UHD¹" tvg-logo="http://contentsdeliver.link/logos/globo4k.png" group-title="F16 M5 UHD (4K)",GLOBO RBS TV UHD¹
+http://trabalho724.top:8080/7csplay/seven2022/315112
+#EXTINF:-1 tvg-id="mtvlive.br" tvg-name="MTV LIVE HD²" tvg-logo="http://contentsdeliver.link/logos/mtvlivehd.png" group-title="F16 M5 MÚSICA",MTV LIVE HD²
+http://trabalho724.top:8080/7csplay/seven2022/317837
+#EXTINF:-1 tvg-id="mtv00s.br" tvg-name="MTV 00s HD¹" tvg-logo="http://contentsdeliver.link/logos/mtv00shd.png" group-title="F16 M5 MÚSICA",MTV 00s HD¹
+http://trabalho724.top:8080/7csplay/seven2022/317838
+#EXTINF:-1 tvg-id="mtvlivehd.pt" tvg-name="MTV LIVE FHD¹" tvg-logo="http://contentsdeliver.link/logos/mtvlivefhd.png" group-title="F16 M5 MÚSICA",MTV LIVE FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/317839
+#EXTINF:-1 tvg-id="mtvlivehd.pt" tvg-name="MTV LIVE HD¹" tvg-logo="http://contentsdeliver.link/logos/mtvlivehd.png" group-title="F16 M5 MÚSICA",MTV LIVE HD¹
+http://trabalho724.top:8080/7csplay/seven2022/317840
+#EXTINF:-1 tvg-id="" tvg-name="VEVO MUSIC 2K" tvg-logo="http://contentsdeliver.link/logos/vevohd.png" group-title="F16 M5 MÚSICA",VEVO MUSIC 2K
+http://trabalho724.top:8080/7csplay/seven2022/319700
+#EXTINF:-1 tvg-id="" tvg-name="VEVO MUSIC (ANOS 70)" tvg-logo="http://contentsdeliver.link/logos/vevohd.png" group-title="F16 M5 MÚSICA",VEVO MUSIC (ANOS 70)
+http://trabalho724.top:8080/7csplay/seven2022/319701
+#EXTINF:-1 tvg-id="" tvg-name="VEVO MUSIC (ANOS 80)" tvg-logo="http://contentsdeliver.link/logos/vevohd.png" group-title="F16 M5 MÚSICA",VEVO MUSIC (ANOS 80)
+http://trabalho724.top:8080/7csplay/seven2022/319702
+#EXTINF:-1 tvg-id="" tvg-name="VEVO MUSIC (ANOS 90)" tvg-logo="http://contentsdeliver.link/logos/vevohd.png" group-title="F16 M5 MÚSICA",VEVO MUSIC (ANOS 90)
+http://trabalho724.top:8080/7csplay/seven2022/319703
+#EXTINF:-1 tvg-id="" tvg-name="VEVO MUSIC (COUNTRY)" tvg-logo="http://contentsdeliver.link/logos/vevohd.png" group-title="F16 M5 MÚSICA",VEVO MUSIC (COUNTRY)
+http://trabalho724.top:8080/7csplay/seven2022/319704
+#EXTINF:-1 tvg-id="" tvg-name="VEVO MUSIC (POP)" tvg-logo="http://contentsdeliver.link/logos/vevohd.png" group-title="F16 M5 MÚSICA",VEVO MUSIC (POP)
+http://trabalho724.top:8080/7csplay/seven2022/319705
+#EXTINF:-1 tvg-id="" tvg-name="VEVO MUSIC (R&B)" tvg-logo="http://contentsdeliver.link/logos/vevohd.png" group-title="F16 M5 MÚSICA",VEVO MUSIC (R&B)
+http://trabalho724.top:8080/7csplay/seven2022/319706
+#EXTINF:-1 tvg-id="" tvg-name="VEVO MUSIC (REGGEATON & TRAP)" tvg-logo="http://contentsdeliver.link/logos/vevohd.png" group-title="F16 M5 MÚSICA",VEVO MUSIC (REGGEATON & TRAP)
+http://trabalho724.top:8080/7csplay/seven2022/319707
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT CENTRAL HD²" tvg-logo="http://contentsdeliver.link/logos/sbthd.png" group-title="F16 M5 SBT",SBT CENTRAL HD²
+http://trabalho724.top:8080/7csplay/seven2022/321793
+#EXTINF:-1 tvg-id="premiere8.br" tvg-name="PREMIERE 8 HD¹" tvg-logo="http://contentsdeliver.link/logos/premiereclubeshd.png" group-title="F16 M5 PREMIERE FC",PREMIERE 8 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/324234
+#EXTINF:-1 tvg-id="" tvg-name="NOW CHRISTMAS HD*" tvg-logo="http://contentsdeliver.link/logos/nowmusichd.png" group-title="F16 M5 MÚSICA",NOW CHRISTMAS HD*
+http://trabalho724.top:8080/7csplay/seven2022/325905
+#EXTINF:-1 tvg-id="" tvg-name="NOW 80s" tvg-logo="http://contentsdeliver.link/logos/now80shd.png" group-title="F16 M5 MÚSICA",NOW 80s
+http://trabalho724.top:8080/7csplay/seven2022/325906
+#EXTINF:-1 tvg-id="" tvg-name="NOW ROCK HD*" tvg-logo="http://contentsdeliver.link/logos/nowrockhd.png" group-title="F16 M5 MÚSICA",NOW ROCK HD*
+http://trabalho724.top:8080/7csplay/seven2022/325907
+#EXTINF:-1 tvg-id="" tvg-name="NBA LEAGUE PASS 1 HD¹" tvg-logo="http://contentsdeliver.link/logos/nbaleaguepasshd.png" group-title="F16 M5 NBA NHL MBL & LEAGUE PASS",NBA LEAGUE PASS 1 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/326565
+#EXTINF:-1 tvg-id="" tvg-name="NBA LEAGUE PASS 2 HD¹" tvg-logo="http://contentsdeliver.link/logos/nbaleaguepasshd.png" group-title="F16 M5 NBA NHL MBL & LEAGUE PASS",NBA LEAGUE PASS 2 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/326566
+#EXTINF:-1 tvg-id="" tvg-name="NBA LEAGUE PASS 3 HD¹" tvg-logo="http://contentsdeliver.link/logos/nbaleaguepasshd.png" group-title="F16 M5 NBA NHL MBL & LEAGUE PASS",NBA LEAGUE PASS 3 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/326567
+#EXTINF:-1 tvg-id="" tvg-name="NBA LEAGUE PASS 4 HD¹" tvg-logo="http://contentsdeliver.link/logos/nbaleaguepasshd.png" group-title="F16 M5 NBA NHL MBL & LEAGUE PASS",NBA LEAGUE PASS 4 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/326568
+#EXTINF:-1 tvg-id="" tvg-name="NBA LEAGUE PASS 5 HD¹" tvg-logo="http://contentsdeliver.link/logos/nbaleaguepasshd.png" group-title="F16 M5 NBA NHL MBL & LEAGUE PASS",NBA LEAGUE PASS 5 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/326569
+#EXTINF:-1 tvg-id="" tvg-name="GOSPEL MOVIES HD*" tvg-logo="http://contentsdeliver.link/logos/gospelmovieshd.png" group-title="F16 M5 RELIGIOSOS",GOSPEL MOVIES HD*
+http://trabalho724.top:8080/7csplay/seven2022/327030
+#EXTINF:-1 tvg-id="" tvg-name="PAULISTÃO PLAY 01 HD²" tvg-logo="http://contentsdeliver.link/logos/paulistaoplayhd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",PAULISTÃO PLAY 01 HD²
+http://trabalho724.top:8080/7csplay/seven2022/281709
+#EXTINF:-1 tvg-id="" tvg-name="PAULISTÃO PLAY 02 HD²" tvg-logo="http://contentsdeliver.link/logos/paulistaoplayhd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",PAULISTÃO PLAY 02 HD²
+http://trabalho724.top:8080/7csplay/seven2022/129892
+#EXTINF:-1 tvg-id="" tvg-name="PAULISTÃO PLAY 03 HD²" tvg-logo="http://contentsdeliver.link/logos/paulistaoplayhd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",PAULISTÃO PLAY 03 HD²
+http://trabalho724.top:8080/7csplay/seven2022/282156
+#EXTINF:-1 tvg-id="" tvg-name="PAULISTÃO PLAY 04 HD²" tvg-logo="http://contentsdeliver.link/logos/paulistaoplayhd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",PAULISTÃO PLAY 04 HD²
+http://trabalho724.top:8080/7csplay/seven2022/282157
+#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS FHD¹" tvg-logo="http://contentsdeliver.link/logos/ufcfightpassfhd.png" group-title="F16 M5 COMBATE",UFC FIGHT PASS FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/282008
+#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS 01 HD²" tvg-logo="http://contentsdeliver.link/logos/ufcfightpasshd.png" group-title="F16 M5 COMBATE",UFC FIGHT PASS 01 HD²
+http://trabalho724.top:8080/7csplay/seven2022/293070
+#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS 01 HD¹" tvg-logo="http://contentsdeliver.link/logos/ufcfightpasshd.png" group-title="F16 M5 COMBATE",UFC FIGHT PASS 01 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/300039
+#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS 02 HD¹" tvg-logo="http://contentsdeliver.link/logos/ufcfightpasshd.png" group-title="F16 M5 COMBATE",UFC FIGHT PASS 02 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/300040
+#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS 03 HD¹" tvg-logo="http://contentsdeliver.link/logos/ufcfightpasshd.png" group-title="F16 M5 COMBATE",UFC FIGHT PASS 03 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/300041
+#EXTINF:-1 tvg-id="" tvg-name="US: UFC FIGHT PASS HD*" tvg-logo="http://contentsdeliver.link/logos/ufcfightpasshd.png" group-title="F16 M5 COMBATE",US: UFC FIGHT PASS HD*
+http://trabalho724.top:8080/7csplay/seven2022/305089
+#EXTINF:-1 tvg-id="" tvg-name="PT: UFC FIGTH PASS FHD*" tvg-logo="http://contentsdeliver.link/logos/ufcfightpassfhd.png" group-title="F16 M5 COMBATE",PT: UFC FIGTH PASS FHD*
+http://trabalho724.top:8080/7csplay/seven2022/307478
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="RECORD TV CIDADE CE FHD¹" tvg-logo="http://contentsdeliver.link/logos/recordfhd.png" group-title="F16 M5 RECORD",RECORD TV CIDADE CE FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/115834
+#EXTINF:-1 tvg-id="" tvg-name="DOIS HOMENS E MEIO (2003) 24H" tvg-logo="https://images.justwatch.com/poster/301584311/s332/temporada-9" group-title="24H | SÉRIES",DOIS HOMENS E MEIO (2003) 24H
+http://trabalho724.top:8080/7csplay/seven2022/333042
+#EXTINF:-1 tvg-id="" tvg-name="RODEIO HD²" tvg-logo="http://contentsdeliver.link/logos/worldfinalshd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",RODEIO HD²
+http://trabalho724.top:8080/7csplay/seven2022/333043
+#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="TELECINE FUN FHD¹" tvg-logo="http://contentsdeliver.link/logos/telecinefunfhd.png" group-title="F16 M5 TELECINE",TELECINE FUN FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/333903
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 01 HD¹" tvg-logo="http://contentsdeliver.link/logos/cineskyhd.png" group-title="F16 M5 CINE SKY",CINE SKY 01 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/333987
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 02 HD¹" tvg-logo="http://contentsdeliver.link/logos/cineskyhd.png" group-title="F16 M5 CINE SKY",CINE SKY 02 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/333988
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 03 HD¹" tvg-logo="http://contentsdeliver.link/logos/cineskyhd.png" group-title="F16 M5 CINE SKY",CINE SKY 03 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/333989
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 04 HD¹" tvg-logo="http://contentsdeliver.link/logos/cineskyhd.png" group-title="F16 M5 CINE SKY",CINE SKY 04 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/333990
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 05 HD¹" tvg-logo="http://contentsdeliver.link/logos/cineskyhd.png" group-title="F16 M5 CINE SKY",CINE SKY 05 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/333991
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 06 HD¹" tvg-logo="http://contentsdeliver.link/logos/cineskyhd.png" group-title="F16 M5 CINE SKY",CINE SKY 06 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/333992
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 07 HD¹" tvg-logo="http://contentsdeliver.link/logos/cineskyhd.png" group-title="F16 M5 CINE SKY",CINE SKY 07 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/333993
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 08 HD¹" tvg-logo="http://contentsdeliver.link/logos/cineskyhd.png" group-title="F16 M5 CINE SKY",CINE SKY 08 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/333994
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 09 HD¹" tvg-logo="http://contentsdeliver.link/logos/cineskyhd.png" group-title="F16 M5 CINE SKY",CINE SKY 09 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/333995
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 10 HD¹" tvg-logo="http://contentsdeliver.link/logos/cineskyhd.png" group-title="F16 M5 CINE SKY",CINE SKY 10 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/333996
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 01 HD²" tvg-logo="http://contentsdeliver.link/logos/cineskyhd.png" group-title="F16 M5 CINE SKY",CINE SKY 01 HD²
+http://trabalho724.top:8080/7csplay/seven2022/333997
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 02 HD²" tvg-logo="http://contentsdeliver.link/logos/cineskyhd.png" group-title="F16 M5 CINE SKY",CINE SKY 02 HD²
+http://trabalho724.top:8080/7csplay/seven2022/333998
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 03 HD²" tvg-logo="http://contentsdeliver.link/logos/cineskyhd.png" group-title="F16 M5 CINE SKY",CINE SKY 03 HD²
+http://trabalho724.top:8080/7csplay/seven2022/333999
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 04 HD²" tvg-logo="http://contentsdeliver.link/logos/cineskyhd.png" group-title="F16 M5 CINE SKY",CINE SKY 04 HD²
+http://trabalho724.top:8080/7csplay/seven2022/334000
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 05 HD²" tvg-logo="http://contentsdeliver.link/logos/cineskyhd.png" group-title="F16 M5 CINE SKY",CINE SKY 05 HD²
+http://trabalho724.top:8080/7csplay/seven2022/334001
+#EXTINF:-1 tvg-id="nickjr.br" tvg-name="NICK JR HD²" tvg-logo="http://contentsdeliver.link/logos/nickjrhd.png" group-title="F16 M5 INFANTIL",NICK JR HD²
+http://trabalho724.top:8080/7csplay/seven2022/164474
+#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="RECORD LITORAL/VALE FHD²" tvg-logo="http://contentsdeliver.link/logos/recordfhd.png" group-title="F16 M5 RECORD",RECORD LITORAL/VALE FHD²
+http://trabalho724.top:8080/7csplay/seven2022/336449
+#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="RECORD LITORAL/VALE HD²" tvg-logo="http://contentsdeliver.link/logos/recordhd.png" group-title="F16 M5 RECORD",RECORD LITORAL/VALE HD²
+http://trabalho724.top:8080/7csplay/seven2022/336450
+#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="RECORD SP INTERIOR FHD²" tvg-logo="http://contentsdeliver.link/logos/recordfhd.png" group-title="F16 M5 RECORD",RECORD SP INTERIOR FHD²
+http://trabalho724.top:8080/7csplay/seven2022/336451
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD RIO PRETO FHD" tvg-logo="http://contentsdeliver.link/logos/recordfhd.png" group-title="F16 M5 RECORD",RECORD RIO PRETO FHD
+http://trabalho724.top:8080/7csplay/seven2022/336452
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD RIO PRETO HD²" tvg-logo="http://contentsdeliver.link/logos/recordhd.png" group-title="F16 M5 RECORD",RECORD RIO PRETO HD²
+http://trabalho724.top:8080/7csplay/seven2022/336453
+#EXTINF:-1 tvg-id="record.news.br" tvg-name="BAND CEARA FHD²" tvg-logo="http://contentsdeliver.link/logos/recordfhd.png" group-title="F16 M5 BAND",BAND CEARA FHD²
+http://trabalho724.top:8080/7csplay/seven2022/336454
+#EXTINF:-1 tvg-id="" tvg-name="SIC INTERNACIONAL HD²" tvg-logo="http://contentsdeliver.link/logos/recordhd.png" group-title="F16 M5 NOTÍCIAS",SIC INTERNACIONAL HD²
+http://trabalho724.top:8080/7csplay/seven2022/336455
+#EXTINF:-1 tvg-id="" tvg-name="TV5 monde HD²" tvg-logo="http://contentsdeliver.link/logos/recordhd.png" group-title="F16 M5 VARIEDADES",TV5 monde HD²
+http://trabalho724.top:8080/7csplay/seven2022/336456
+#EXTINF:-1 tvg-id="" tvg-name="RURAL NOAR HD²" tvg-logo="http://contentsdeliver.link/logos/recordhd.png" group-title="F16 M5 AGRONEGÓCIOS",RURAL NOAR HD²
+http://trabalho724.top:8080/7csplay/seven2022/336457
+#EXTINF:-1 tvg-id="" tvg-name="RECORD TV CONQUISTA HD²" tvg-logo="http://contentsdeliver.link/logos/conquistahd.png" group-title="F16 M5 RECORD",RECORD TV CONQUISTA HD²
+http://trabalho724.top:8080/7csplay/seven2022/336458
+#EXTINF:-1 tvg-id="" tvg-name="TV LITORAL RN HD²" tvg-logo="http://contentsdeliver.link/logos/tvlitoralhd.png" group-title="F16 M5 ABERTOS",TV LITORAL RN HD²
+http://trabalho724.top:8080/7csplay/seven2022/336459
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV! PARANÁ HD²" tvg-logo="http://contentsdeliver.link/logos/redetvparanahd.png" group-title="F16 M5 ABERTOS",REDE TV! PARANÁ HD²
+http://trabalho724.top:8080/7csplay/seven2022/336460
+#EXTINF:-1 tvg-id="ric.florianopolis.br" tvg-name="RECORD PARANÁ (RIC TV) HD²" tvg-logo="http://contentsdeliver.link/logos/rictvhd.png" group-title="F16 M5 RECORD",RECORD PARANÁ (RIC TV) HD²
+http://trabalho724.top:8080/7csplay/seven2022/336461
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE 4K¹" tvg-logo="http://contentsdeliver.link/logos/combate4k.png" group-title="F16 M5 UHD (4K)",COMBATE 4K¹
+http://trabalho724.top:8080/7csplay/seven2022/336462
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS 4K¹" tvg-logo="http://contentsdeliver.link/logos/bandsports4k.png" group-title="F16 M5 UHD (4K)",BAND SPORTS 4K¹
+http://trabalho724.top:8080/7csplay/seven2022/336463
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV 4 4K¹" tvg-logo="http://contentsdeliver.link/logos/sportv44k.png" group-title="F16 M5 SPORTV",SporTV 4 4K¹
+http://trabalho724.top:8080/7csplay/seven2022/336491
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV 4 HD¹" tvg-logo="http://contentsdeliver.link/logos/sportv4hd.png" group-title="F16 M5 SPORTV",SporTV 4 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/336492
+#EXTINF:-1 tvg-id="" tvg-name="LUTAS EXCLUSIVAS HD²" tvg-logo="http://contentsdeliver.link/logos/eventosexclusivos.png" group-title="F16 M5 COMBATE",LUTAS EXCLUSIVAS HD²
+http://trabalho724.top:8080/7csplay/seven2022/336840
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO TV TEM SJ RIO PRETO HD²" tvg-logo="http://contentsdeliver.link/logos/globohd.png" group-title="F16 M5 GLOBO",GLOBO TV TEM SJ RIO PRETO HD²
+http://trabalho724.top:8080/7csplay/seven2022/109102
+#EXTINF:-1 tvg-id="" tvg-name="BRTVMAX HD¹" tvg-logo="http://contentsdeliver.link/logos/brtvmax.png" group-title="F16 M5 ESPORTES PAY PER VIEW",BRTVMAX HD¹
+http://trabalho724.top:8080/7csplay/seven2022/341173
+#EXTINF:-1 tvg-id="" tvg-name="CNN Money HD¹" tvg-logo="http://contentsdeliver.link/logos/cnnmoney.png" group-title="F16 M5 NOTÍCIAS",CNN Money HD¹
+http://trabalho724.top:8080/7csplay/seven2022/341174
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV Subaé BA HD¹" tvg-logo="http://contentsdeliver.link/logos/tvsubae.png" group-title="F16 M5 GLOBO",Globo TV Subaé BA HD¹
+http://trabalho724.top:8080/7csplay/seven2022/341175
+#EXTINF:-1 tvg-id="" tvg-name="COPINHA 01 HD¹" tvg-logo="http://contentsdeliver.link/logos/copinhahd2.png" group-title="F16 M5 CAMPEONATOS ESTADUAIS",COPINHA 01 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/342646
+#EXTINF:-1 tvg-id="" tvg-name="COPINHA 02 HD¹" tvg-logo="http://contentsdeliver.link/logos/copinhahd2.png" group-title="F16 M5 CAMPEONATOS ESTADUAIS",COPINHA 02 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/342647
+#EXTINF:-1 tvg-id="" tvg-name="MAX MOSAICO DA CHAMPIONS" tvg-logo="http://contentsdeliver.link/logos/hbomaxhd.png" group-title="F16 M5 HBO MAX",MAX MOSAICO DA CHAMPIONS
+http://trabalho724.top:8080/7csplay/seven2022/343396
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX CHAMPIONS LEAGUE FHD¹" tvg-logo="http://contentsdeliver.link/logos/hbomaxfhd.png" group-title="F16 M5 HBO MAX",HBO MAX CHAMPIONS LEAGUE FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/63009
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX CHAMPIONS LEAGUE  1 HD¹" tvg-logo="http://contentsdeliver.link/logos/hbomaxhd.png" group-title="F16 M5 HBO MAX",HBO MAX CHAMPIONS LEAGUE  1 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/64590
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX CHAMPIONS LEAGUE 1 HD*" tvg-logo="http://contentsdeliver.link/logos/hbomaxhd.png" group-title="F16 M5 HBO MAX",HBO MAX CHAMPIONS LEAGUE 1 HD*
+http://trabalho724.top:8080/7csplay/seven2022/69819
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="HBO MAX CHAMPIONS LEAGUE FHD²" tvg-logo="http://contentsdeliver.link/logos/hbomaxfhd.png" group-title="F16 M5 HBO MAX",HBO MAX CHAMPIONS LEAGUE FHD²
+http://trabalho724.top:8080/7csplay/seven2022/59973
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX CHAMPIONS LEAGUE  1 HD²" tvg-logo="http://contentsdeliver.link/logos/hbomaxhd.png" group-title="F16 M5 HBO MAX",HBO MAX CHAMPIONS LEAGUE  1 HD²
+http://trabalho724.top:8080/7csplay/seven2022/63011
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX CHAMPIONS LEAGUE 2 HD¹" tvg-logo="http://contentsdeliver.link/logos/hbomaxhd.png" group-title="F16 M5 HBO MAX",HBO MAX CHAMPIONS LEAGUE 2 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/59961
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX CHAMPIONS LEAGUE 2 HD²" tvg-logo="http://contentsdeliver.link/logos/hbomaxhd.png" group-title="F16 M5 HBO MAX",HBO MAX CHAMPIONS LEAGUE 2 HD²
+http://trabalho724.top:8080/7csplay/seven2022/63010
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX CHAMPIONS LEAGUE 2 HD*" tvg-logo="http://contentsdeliver.link/logos/hbomaxhd.png" group-title="F16 M5 HBO MAX",HBO MAX CHAMPIONS LEAGUE 2 HD*
+http://trabalho724.top:8080/7csplay/seven2022/69815
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX CHAMPIONS LEAGUE 3 HD¹" tvg-logo="http://contentsdeliver.link/logos/hbomaxhd.png" group-title="F16 M5 HBO MAX",HBO MAX CHAMPIONS LEAGUE 3 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/64591
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX CHAMPIONS LEAGUE 3 HD²" tvg-logo="http://contentsdeliver.link/logos/hbomaxhd.png" group-title="F16 M5 HBO MAX",HBO MAX CHAMPIONS LEAGUE 3 HD²
+http://trabalho724.top:8080/7csplay/seven2022/59962
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX CHAMPIONS LEAGUE 3 HD*" tvg-logo="http://contentsdeliver.link/logos/hbomaxhd.png" group-title="F16 M5 HBO MAX",HBO MAX CHAMPIONS LEAGUE 3 HD*
+http://trabalho724.top:8080/7csplay/seven2022/69816
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX CHAMPIONS LEAGUE 4 HD¹" tvg-logo="http://contentsdeliver.link/logos/hbomaxhd.png" group-title="F16 M5 HBO MAX",HBO MAX CHAMPIONS LEAGUE 4 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/69820
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX CHAMPIONS LEAGUE 4 HD²" tvg-logo="http://contentsdeliver.link/logos/hbomaxhd.png" group-title="F16 M5 HBO MAX",HBO MAX CHAMPIONS LEAGUE 4 HD²
+http://trabalho724.top:8080/7csplay/seven2022/59963
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX CHAMPIONS LEAGUE 5 HD¹" tvg-logo="http://contentsdeliver.link/logos/hbomaxhd.png" group-title="F16 M5 HBO MAX",HBO MAX CHAMPIONS LEAGUE 5 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/59964
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX CHAMPIONS LEAGUE  5 HD²" tvg-logo="http://contentsdeliver.link/logos/hbomaxhd.png" group-title="F16 M5 HBO MAX",HBO MAX CHAMPIONS LEAGUE  5 HD²
+http://trabalho724.top:8080/7csplay/seven2022/343392
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX CHAMPIONS LEAGUE 6 HD¹" tvg-logo="http://contentsdeliver.link/logos/hbomaxhd.png" group-title="F16 M5 HBO MAX",HBO MAX CHAMPIONS LEAGUE 6 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/69821
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX CHAMPIONS LEAGUE  6 HD²" tvg-logo="http://contentsdeliver.link/logos/hbomaxhd.png" group-title="F16 M5 HBO MAX",HBO MAX CHAMPIONS LEAGUE  6 HD²
+http://trabalho724.top:8080/7csplay/seven2022/343393
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX CHAMPIONS LEAGUE  7 HD²" tvg-logo="http://contentsdeliver.link/logos/hbomaxhd.png" group-title="F16 M5 HBO MAX",HBO MAX CHAMPIONS LEAGUE  7 HD²
+http://trabalho724.top:8080/7csplay/seven2022/343394
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX CHAMPIONS LEAGUE  8 HD²" tvg-logo="http://contentsdeliver.link/logos/hbomaxhd.png" group-title="F16 M5 HBO MAX",HBO MAX CHAMPIONS LEAGUE  8 HD²
+http://trabalho724.top:8080/7csplay/seven2022/343395
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX CHAMPIONS LEAGUE  9 HD²" tvg-logo="http://contentsdeliver.link/logos/hbomaxhd.png" group-title="F16 M5 HBO MAX",HBO MAX CHAMPIONS LEAGUE  9 HD²
+http://trabalho724.top:8080/7csplay/seven2022/343397
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX CHAMPIONS LEAGUE  10 HD²" tvg-logo="http://contentsdeliver.link/logos/hbomaxhd.png" group-title="F16 M5 HBO MAX",HBO MAX CHAMPIONS LEAGUE  10 HD²
+http://trabalho724.top:8080/7csplay/seven2022/343398
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX CHAMPIONS LEAGUE  11 HD²" tvg-logo="http://contentsdeliver.link/logos/hbomaxhd.png" group-title="F16 M5 HBO MAX",HBO MAX CHAMPIONS LEAGUE  11 HD²
+http://trabalho724.top:8080/7csplay/seven2022/343399
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX CHAMPIONS LEAGUE  12 HD²" tvg-logo="http://contentsdeliver.link/logos/hbomaxhd.png" group-title="F16 M5 HBO MAX",HBO MAX CHAMPIONS LEAGUE  12 HD²
+http://trabalho724.top:8080/7csplay/seven2022/343400
+#EXTINF:-1 tvg-id="" tvg-name="SBT+ NOVELAS HD¹" tvg-logo="http://contentsdeliver.link/logos/mais_sbt_hd.png" group-title="F16 M5 SBT+",SBT+ NOVELAS HD¹
+http://trabalho724.top:8080/7csplay/seven2022/343839
+#EXTINF:-1 tvg-id="" tvg-name="SBT+ NOVELAS HD²" tvg-logo="http://contentsdeliver.link/logos/mais_sbt_hd.png" group-title="F16 M5 SBT+",SBT+ NOVELAS HD²
+http://trabalho724.top:8080/7csplay/seven2022/343849
+#EXTINF:-1 tvg-id="" tvg-name="SBT+ POP HD¹" tvg-logo="http://contentsdeliver.link/logos/mais_sbt_hd.png" group-title="F16 M5 SBT+",SBT+ POP HD¹
+http://trabalho724.top:8080/7csplay/seven2022/343840
+#EXTINF:-1 tvg-id="" tvg-name="SBT+ POP HD²" tvg-logo="http://contentsdeliver.link/logos/mais_sbt_hd.png" group-title="F16 M5 SBT+",SBT+ POP HD²
+http://trabalho724.top:8080/7csplay/seven2022/343850
+#EXTINF:-1 tvg-id="" tvg-name="SBT+ SAUDADE HD¹" tvg-logo="http://contentsdeliver.link/logos/mais_sbt_hd.png" group-title="F16 M5 SBT+",SBT+ SAUDADE HD¹
+http://trabalho724.top:8080/7csplay/seven2022/343841
+#EXTINF:-1 tvg-id="" tvg-name="SBT+ SAUDADE HD²" tvg-logo="http://contentsdeliver.link/logos/mais_sbt_hd.png" group-title="F16 M5 SBT+",SBT+ SAUDADE HD²
+http://trabalho724.top:8080/7csplay/seven2022/343851
+#EXTINF:-1 tvg-id="" tvg-name="SBT+ SILVIO SANTOS HD¹" tvg-logo="http://contentsdeliver.link/logos/mais_sbt_hd.png" group-title="F16 M5 SBT+",SBT+ SILVIO SANTOS HD¹
+http://trabalho724.top:8080/7csplay/seven2022/343843
+#EXTINF:-1 tvg-id="" tvg-name="SBT+ SILVIO SANTOS HD²" tvg-logo="http://contentsdeliver.link/logos/mais_sbt_hd.png" group-title="F16 M5 SBT+",SBT+ SILVIO SANTOS HD²
+http://trabalho724.top:8080/7csplay/seven2022/343853
+#EXTINF:-1 tvg-id="" tvg-name="SBT+ TVZYN HD¹" tvg-logo="http://contentsdeliver.link/logos/mais_sbt_hd.png" group-title="F16 M5 SBT+",SBT+ TVZYN HD¹
+http://trabalho724.top:8080/7csplay/seven2022/343844
+#EXTINF:-1 tvg-id="" tvg-name="SBT+ TVZYZ HD²" tvg-logo="http://contentsdeliver.link/logos/mais_sbt_hd.png" group-title="F16 M5 SBT+",SBT+ TVZYZ HD²
+http://trabalho724.top:8080/7csplay/seven2022/343854
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO PARANAENSE 4 HD¹" tvg-logo="http://contentsdeliver.link/logos/campeonatoparanaensehd.png" group-title="F16 M5 CAMPEONATOS ESTADUAIS",CAMPEONATO PARANAENSE 4 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/344336
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO PARANAENSE 5 HD¹" tvg-logo="http://contentsdeliver.link/logos/campeonatoparanaensehd.png" group-title="F16 M5 CAMPEONATOS ESTADUAIS",CAMPEONATO PARANAENSE 5 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/344337
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO PARANAENSE 6 HD¹" tvg-logo="http://contentsdeliver.link/logos/campeonatoparanaensehd.png" group-title="F16 M5 CAMPEONATOS ESTADUAIS",CAMPEONATO PARANAENSE 6 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/344338
+#EXTINF:-1 tvg-id="" tvg-name="RECORD JUARA MATO GROSSO HD¹" tvg-logo="http://contentsdeliver.link/logos/recordhd.png" group-title="F16 M5 RECORD",RECORD JUARA MATO GROSSO HD¹
+http://trabalho724.top:8080/7csplay/seven2022/344339
+#EXTINF:-1 tvg-id="" tvg-name="RECORD JUINA MATO GROSSO HD¹" tvg-logo="http://contentsdeliver.link/logos/recordhd.png" group-title="F16 M5 RECORD",RECORD JUINA MATO GROSSO HD¹
+http://trabalho724.top:8080/7csplay/seven2022/344340
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO GAÚCHO 2 HD¹" tvg-logo="http://contentsdeliver.link/logos/campeonatogauchaohd.png" group-title="F16 M5 CAMPEONATOS ESTADUAIS",CAMPEONATO GAÚCHO 2 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/344341
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CEARENCE 2 HD¹" tvg-logo="http://contentsdeliver.link/logos/campeonatocearensehd.png" group-title="F16 M5 CAMPEONATOS ESTADUAIS",CAMPEONATO CEARENCE 2 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/344342
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CATARINENSE 4 HD¹" tvg-logo="http://contentsdeliver.link/logos/campeonatocatarinensehd.png" group-title="F16 M5 CAMPEONATOS ESTADUAIS",CAMPEONATO CATARINENSE 4 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/344343
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO PIAUIENSE HD¹" tvg-logo="http://contentsdeliver.link/logos/campeonato_piauiense_hd.png" group-title="F16 M5 CAMPEONATOS ESTADUAIS",CAMPEONATO PIAUIENSE HD¹
+http://trabalho724.top:8080/7csplay/seven2022/344344
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO PARAIBANO 3 HD¹" tvg-logo="http://contentsdeliver.link/logos/campeonatoparaibanohd.png" group-title="F16 M5 CAMPEONATOS ESTADUAIS",CAMPEONATO PARAIBANO 3 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/344345
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO GOIANO 02 HD¹" tvg-logo="http://contentsdeliver.link/logos/campeonatogoianaohd.png" group-title="F16 M5 CAMPEONATOS ESTADUAIS",CAMPEONATO GOIANO 02 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/344346
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO ALAGOANO 02 HD¹" tvg-logo="http://contentsdeliver.link/logos/campeonatoalagoanohd.png" group-title="F16 M5 CAMPEONATOS ESTADUAIS",CAMPEONATO ALAGOANO 02 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/344347
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO PARAENSE HD¹" tvg-logo="http://contentsdeliver.link/logos/campeonato_paraense_hd.png" group-title="F16 M5 CAMPEONATOS ESTADUAIS",CAMPEONATO PARAENSE HD¹
+http://trabalho724.top:8080/7csplay/seven2022/344348
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON SAT HD¹" tvg-logo="http://contentsdeliver.link/logos/amazon_sat_hd.png" group-title="F16 M5 VARIEDADES",AMAZON SAT HD¹
+http://trabalho724.top:8080/7csplay/seven2022/344349
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN  4K¹" tvg-logo="http://contentsdeliver.link/logos/espn4k.png" group-title="F16 M5 UHD (4K)",ESPN  4K¹
+http://trabalho724.top:8080/7csplay/seven2022/28792
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN FHD MAX²" tvg-logo="http://contentsdeliver.link/logos/espnfhdmax.png" group-title="F16 M5 ESPN",ESPN FHD MAX²
+http://trabalho724.top:8080/7csplay/seven2022/72979
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN FHD¹" tvg-logo="http://contentsdeliver.link/logos/espnfhd.png" group-title="F16 M5 ESPN",ESPN FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/29197
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN FHD²" tvg-logo="http://contentsdeliver.link/logos/espnfhd.png" group-title="F16 M5 ESPN",ESPN FHD²
+http://trabalho724.top:8080/7csplay/seven2022/303462
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN FHD ᶜᴰᴺ²" tvg-logo="http://contentsdeliver.link/logos/espnfhd.png" group-title="F16 M5 ESPN",ESPN FHD ᶜᴰᴺ²
+http://trabalho724.top:8080/7csplay/seven2022/65733
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN HD¹" tvg-logo="http://contentsdeliver.link/logos/espnhd.png" group-title="F16 M5 ESPN",ESPN HD¹
+http://trabalho724.top:8080/7csplay/seven2022/153012
+#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN HD²" tvg-logo="http://contentsdeliver.link/logos/espnhd.png" group-title="F16 M5 ESPN",ESPN HD²
+http://trabalho724.top:8080/7csplay/seven2022/22529
+#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN HD ᶜᴰᴺ²" tvg-logo="http://contentsdeliver.link/logos/espnhd.png" group-title="F16 M5 ESPN",ESPN HD ᶜᴰᴺ²
+http://trabalho724.top:8080/7csplay/seven2022/18664
+#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN SD¹" tvg-logo="http://contentsdeliver.link/logos/espnsd.png" group-title="F16 M5 ESPN",ESPN SD¹
+http://trabalho724.top:8080/7csplay/seven2022/22331
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN SD*" tvg-logo="http://contentsdeliver.link/logos/espnsd.png" group-title="F16 M5 ESPN",ESPN SD*
+http://trabalho724.top:8080/7csplay/seven2022/303463
+#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN SD²" tvg-logo="http://contentsdeliver.link/logos/espnsd.png" group-title="F16 M5 ESPN",ESPN SD²
+http://trabalho724.top:8080/7csplay/seven2022/18676
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 FHD¹" tvg-logo="http://contentsdeliver.link/logos/espn2fhd.png" group-title="F16 M5 ESPN",ESPN 2 FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/22669
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 FHD²" tvg-logo="http://contentsdeliver.link/logos/espn2fhd.png" group-title="F16 M5 ESPN",ESPN 2 FHD²
+http://trabalho724.top:8080/7csplay/seven2022/31593
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 FHD*" tvg-logo="http://contentsdeliver.link/logos/espn2fhd.png" group-title="F16 M5 ESPN",ESPN 2 FHD*
+http://trabalho724.top:8080/7csplay/seven2022/303464
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 HD¹" tvg-logo="http://contentsdeliver.link/logos/espn2hd.png" group-title="F16 M5 ESPN",ESPN 2 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/18662
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 HD²" tvg-logo="http://contentsdeliver.link/logos/espn2hd.png" group-title="F16 M5 ESPN",ESPN 2 HD²
+http://trabalho724.top:8080/7csplay/seven2022/22530
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 HD*" tvg-logo="http://contentsdeliver.link/logos/espn2hd.png" group-title="F16 M5 ESPN",ESPN 2 HD*
+http://trabalho724.top:8080/7csplay/seven2022/303465
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 SD¹" tvg-logo="http://contentsdeliver.link/logos/espn2sd.png" group-title="F16 M5 ESPN",ESPN 2 SD¹
+http://trabalho724.top:8080/7csplay/seven2022/18674
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 SD²" tvg-logo="http://contentsdeliver.link/logos/espn2sd.png" group-title="F16 M5 ESPN",ESPN 2 SD²
+http://trabalho724.top:8080/7csplay/seven2022/22334
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 SD*" tvg-logo="http://contentsdeliver.link/logos/espn2sd.png" group-title="F16 M5 ESPN",ESPN 2 SD*
+http://trabalho724.top:8080/7csplay/seven2022/303466
+#EXTINF:-1 tvg-id="espn3.br" tvg-name="ESPN 3 FHD¹" tvg-logo="http://contentsdeliver.link/logos/espn3fhd.png" group-title="F16 M5 ESPN",ESPN 3 FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/99445
+#EXTINF:-1 tvg-id="espn3.br" tvg-name="ESPN 3 FHD²" tvg-logo="http://contentsdeliver.link/logos/espn3fhd.png" group-title="F16 M5 ESPN",ESPN 3 FHD²
+http://trabalho724.top:8080/7csplay/seven2022/72980
+#EXTINF:-1 tvg-id="espn3.br" tvg-name="ESPN 3 FHD*" tvg-logo="http://contentsdeliver.link/logos/espn3fhd.png" group-title="F16 M5 ESPN",ESPN 3 FHD*
+http://trabalho724.top:8080/7csplay/seven2022/303467
+#EXTINF:-1 tvg-id="espn3.br" tvg-name="ESPN 3 HD¹" tvg-logo="http://contentsdeliver.link/logos/espn3hd.png" group-title="F16 M5 ESPN",ESPN 3 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/22528
+#EXTINF:-1 tvg-id="espn3.br" tvg-name="ESPN 3 HD²" tvg-logo="http://contentsdeliver.link/logos/espn3hd.png" group-title="F16 M5 ESPN",ESPN 3 HD²
+http://trabalho724.top:8080/7csplay/seven2022/18663
+#EXTINF:-1 tvg-id="espn3.br" tvg-name="ESPN 3 HD*" tvg-logo="http://contentsdeliver.link/logos/espn3hd.png" group-title="F16 M5 ESPN",ESPN 3 HD*
+http://trabalho724.top:8080/7csplay/seven2022/303468
+#EXTINF:-1 tvg-id="espn3.br" tvg-name="ESPN 3 SD¹" tvg-logo="http://contentsdeliver.link/logos/espn3sd.png" group-title="F16 M5 ESPN",ESPN 3 SD¹
+http://trabalho724.top:8080/7csplay/seven2022/64652
+#EXTINF:-1 tvg-id="espn3.br" tvg-name="ESPN 3 SD²" tvg-logo="http://contentsdeliver.link/logos/espn3sd.png" group-title="F16 M5 ESPN",ESPN 3 SD²
+http://trabalho724.top:8080/7csplay/seven2022/18675
+#EXTINF:-1 tvg-id="espn3.br" tvg-name="ESPN 3 SD*" tvg-logo="http://contentsdeliver.link/logos/espn3sd.png" group-title="F16 M5 ESPN",ESPN 3 SD*
+http://trabalho724.top:8080/7csplay/seven2022/303469
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 4K¹" tvg-logo="http://contentsdeliver.link/logos/espn44k.png" group-title="F16 M5 UHD (4K)",ESPN 4 4K¹
+http://trabalho724.top:8080/7csplay/seven2022/275370
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 4 FHD MAX²" tvg-logo="http://contentsdeliver.link/logos/espn4fhdmax.png" group-title="F16 M5 ESPN",ESPN 4 FHD MAX²
+http://trabalho724.top:8080/7csplay/seven2022/18653
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 4 FHD¹" tvg-logo="http://contentsdeliver.link/logos/espn4fhd.png" group-title="F16 M5 ESPN",ESPN 4 FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/18656
+#EXTINF:-1 tvg-id="espn4.br" tvg-name="ESPN 4 FHD²" tvg-logo="http://contentsdeliver.link/logos/espn4fhd.png" group-title="F16 M5 ESPN",ESPN 4 FHD²
+http://trabalho724.top:8080/7csplay/seven2022/22675
+#EXTINF:-1 tvg-id="espn4.br" tvg-name="ESPN 4 FHD*" tvg-logo="http://contentsdeliver.link/logos/espn4fhd.png" group-title="F16 M5 ESPN",ESPN 4 FHD*
+http://trabalho724.top:8080/7csplay/seven2022/303470
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 4 HD¹" tvg-logo="http://contentsdeliver.link/logos/espn4hd.png" group-title="F16 M5 ESPN",ESPN 4 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/18667
+#EXTINF:-1 tvg-id="espn4.br" tvg-name="ESPN 4 HD²" tvg-logo="http://contentsdeliver.link/logos/espn4hd.png" group-title="F16 M5 ESPN",ESPN 4 HD²
+http://trabalho724.top:8080/7csplay/seven2022/22539
+#EXTINF:-1 tvg-id="espn4.br" tvg-name="ESPN 4 HD*" tvg-logo="http://contentsdeliver.link/logos/espn4hd.png" group-title="F16 M5 ESPN",ESPN 4 HD*
+http://trabalho724.top:8080/7csplay/seven2022/303471
+#EXTINF:-1 tvg-id="espn4.br" tvg-name="ESPN 4 SD¹" tvg-logo="http://contentsdeliver.link/logos/espn4sd.png" group-title="F16 M5 ESPN",ESPN 4 SD¹
+http://trabalho724.top:8080/7csplay/seven2022/18672
+#EXTINF:-1 tvg-id="espn4.br" tvg-name="ESPN 4 SD²" tvg-logo="http://contentsdeliver.link/logos/espn4sd.png" group-title="F16 M5 ESPN",ESPN 4 SD²
+http://trabalho724.top:8080/7csplay/seven2022/22344
+#EXTINF:-1 tvg-id="espn4.br" tvg-name="ESPN 4 SD*" tvg-logo="http://contentsdeliver.link/logos/espn4sd.png" group-title="F16 M5 ESPN",ESPN 4 SD*
+http://trabalho724.top:8080/7csplay/seven2022/303472
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="ESPN 5 FHD MAX²" tvg-logo="http://contentsdeliver.link/logos/espn5fhdmax.png" group-title="F16 M5 ESPN",ESPN 5 FHD MAX²
+http://trabalho724.top:8080/7csplay/seven2022/65735
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 5 FHD" tvg-logo="http://contentsdeliver.link/logos/espn5fhd.png" group-title="F16 M5 ESPN",ESPN 5 FHD
+http://trabalho724.top:8080/7csplay/seven2022/64651
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="ESPN 5 FHD²" tvg-logo="http://contentsdeliver.link/logos/espn5fhd.png" group-title="F16 M5 ESPN",ESPN 5 FHD²
+http://trabalho724.top:8080/7csplay/seven2022/22674
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 5 HD" tvg-logo="http://contentsdeliver.link/logos/espn5hd.png" group-title="F16 M5 ESPN",ESPN 5 HD
+http://trabalho724.top:8080/7csplay/seven2022/28801
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="ESPN 5 HD²" tvg-logo="http://contentsdeliver.link/logos/espn5hd.png" group-title="F16 M5 ESPN",ESPN 5 HD²
+http://trabalho724.top:8080/7csplay/seven2022/22538
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 5 SD" tvg-logo="http://contentsdeliver.link/logos/espn5sd.png" group-title="F16 M5 ESPN",ESPN 5 SD
+http://trabalho724.top:8080/7csplay/seven2022/18673
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="ESPN 5 SD²" tvg-logo="http://contentsdeliver.link/logos/espn5sd.png" group-title="F16 M5 ESPN",ESPN 5 SD²
+http://trabalho724.top:8080/7csplay/seven2022/22343
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 6 FHD" tvg-logo="http://contentsdeliver.link/logos/espn6fhd.png" group-title="F16 M5 ESPN",ESPN 6 FHD
+http://trabalho724.top:8080/7csplay/seven2022/329602
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 6 HD" tvg-logo="http://contentsdeliver.link/logos/espn6hd.png" group-title="F16 M5 ESPN",ESPN 6 HD
+http://trabalho724.top:8080/7csplay/seven2022/329603
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 6 SD" tvg-logo="http://contentsdeliver.link/logos/espn6sd.png" group-title="F16 M5 ESPN",ESPN 6 SD
+http://trabalho724.top:8080/7csplay/seven2022/329604
+#EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN EXTRA FHD²" tvg-logo="http://contentsdeliver.link/logos/espnextrafhd.png" group-title="F16 M5 ESPN",ESPN EXTRA FHD²
+http://trabalho724.top:8080/7csplay/seven2022/64653
+#EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN EXTRA HD²" tvg-logo="http://contentsdeliver.link/logos/espnextrahd.png" group-title="F16 M5 ESPN",ESPN EXTRA HD²
+http://trabalho724.top:8080/7csplay/seven2022/22332
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT RIBEIRÃO PRETO HD¹" tvg-logo="http://contentsdeliver.link/logos/sbthd.png" group-title="F16 M5 SBT",SBT RIBEIRÃO PRETO HD¹
+http://trabalho724.top:8080/7csplay/seven2022/345329
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT PIAUÍ HD¹" tvg-logo="http://contentsdeliver.link/logos/sbthd.png" group-title="F16 M5 SBT",SBT PIAUÍ HD¹
+http://trabalho724.top:8080/7csplay/seven2022/345330
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT MINAS HD¹" tvg-logo="http://contentsdeliver.link/logos/sbthd.png" group-title="F16 M5 SBT",SBT MINAS HD¹
+http://trabalho724.top:8080/7csplay/seven2022/345331
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT MARINGÁ HD¹" tvg-logo="http://contentsdeliver.link/logos/sbthd.png" group-title="F16 M5 SBT",SBT MARINGÁ HD¹
+http://trabalho724.top:8080/7csplay/seven2022/345332
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT LONDRINA HD¹" tvg-logo="http://contentsdeliver.link/logos/sbthd.png" group-title="F16 M5 SBT",SBT LONDRINA HD¹
+http://trabalho724.top:8080/7csplay/seven2022/345333
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT FOZ DO IGUAÇU HD¹" tvg-logo="http://contentsdeliver.link/logos/sbthd.png" group-title="F16 M5 SBT",SBT FOZ DO IGUAÇU HD¹
+http://trabalho724.top:8080/7csplay/seven2022/345334
+#EXTINF:-1 tvg-id="" tvg-name="TV COXA PRIME CURITIBA HD¹" tvg-logo="http://contentsdeliver.link/logos/tv_coxa_hd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",TV COXA PRIME CURITIBA HD¹
+http://trabalho724.top:8080/7csplay/seven2022/345335
+#EXTINF:-1 tvg-id="" tvg-name="Gaules Channel HD¹" tvg-logo="http://contentsdeliver.link/logos/gauleschannelhd.png" group-title="F16 M5 VARIEDADES",Gaules Channel HD¹
+http://trabalho724.top:8080/7csplay/seven2022/347573
+#EXTINF:-1 tvg-id="" tvg-name="DESIMPEDIDOS HD¹" tvg-logo="http://contentsdeliver.link/logos/desimpedidoshd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",DESIMPEDIDOS HD¹
+http://trabalho724.top:8080/7csplay/seven2022/347574
+#EXTINF:-1 tvg-id="" tvg-name="KINGS LEAGUE BRAZIL HD¹" tvg-logo="http://contentsdeliver.link/logos/kingsleaguebrazilhd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",KINGS LEAGUE BRAZIL HD¹
+http://trabalho724.top:8080/7csplay/seven2022/347575
+#EXTINF:-1 tvg-id="" tvg-name="FLAMENGO TV HD¹" tvg-logo="http://contentsdeliver.link/logos/flamengotvhd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",FLAMENGO TV HD¹
+http://trabalho724.top:8080/7csplay/seven2022/347576
+#EXTINF:-1 tvg-id="" tvg-name="POWER COUPLE 7 CAM 01 HD¹" tvg-logo="http://contentsdeliver.link/logos/powercouplehd.png" group-title="F16 M5 POWER COUPLE",POWER COUPLE 7 CAM 01 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/348110
+#EXTINF:-1 tvg-id="" tvg-name="POWER COUPLE 7 CAM 02 HD¹" tvg-logo="http://contentsdeliver.link/logos/powercouplehd.png" group-title="F16 M5 POWER COUPLE",POWER COUPLE 7 CAM 02 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/348536
+#EXTINF:-1 tvg-id="" tvg-name="POWER COUPLE 7 CAM ?? HD¹" tvg-logo="http://contentsdeliver.link/logos/powercouplehd.png" group-title="F16 M5 POWER COUPLE",POWER COUPLE 7 CAM ?? HD¹
+http://trabalho724.top:8080/7csplay/seven2022/348537
+#EXTINF:-1 tvg-id="" tvg-name="POWER COUPLE 7 CAM 05 HD¹" tvg-logo="http://contentsdeliver.link/logos/powercouplehd.png" group-title="F16 M5 POWER COUPLE",POWER COUPLE 7 CAM 05 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/348538
+#EXTINF:-1 tvg-id="" tvg-name="POWER COUPLE 7 CAM 04 HD¹" tvg-logo="http://contentsdeliver.link/logos/powercouplehd.png" group-title="F16 M5 POWER COUPLE",POWER COUPLE 7 CAM 04 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/348539
+#EXTINF:-1 tvg-id="" tvg-name="POWER COUPLE 7 CAM 03 HD¹" tvg-logo="http://contentsdeliver.link/logos/powercouplehd.png" group-title="F16 M5 POWER COUPLE",POWER COUPLE 7 CAM 03 HD¹
+http://trabalho724.top:8080/7csplay/seven2022/348540
+#EXTINF:-1 tvg-id="" tvg-name="POWER COUPLE 7 CAM ?? HD²" tvg-logo="http://contentsdeliver.link/logos/powercouplehd.png" group-title="F16 M5 POWER COUPLE",POWER COUPLE 7 CAM ?? HD²
+http://trabalho724.top:8080/7csplay/seven2022/348541
+#EXTINF:-1 tvg-id="" tvg-name="POWER COUPLE 7 CAM 01 HD²" tvg-logo="http://contentsdeliver.link/logos/powercouplehd.png" group-title="F16 M5 POWER COUPLE",POWER COUPLE 7 CAM 01 HD²
+http://trabalho724.top:8080/7csplay/seven2022/348542
+#EXTINF:-1 tvg-id="" tvg-name="POWER COUPLE 7 CAM 02 HD²" tvg-logo="http://contentsdeliver.link/logos/powercouplehd.png" group-title="F16 M5 POWER COUPLE",POWER COUPLE 7 CAM 02 HD²
+http://trabalho724.top:8080/7csplay/seven2022/348543
+#EXTINF:-1 tvg-id="" tvg-name="POWER COUPLE 7 CAM 03 HD²" tvg-logo="http://contentsdeliver.link/logos/powercouplehd.png" group-title="F16 M5 POWER COUPLE",POWER COUPLE 7 CAM 03 HD²
+http://trabalho724.top:8080/7csplay/seven2022/348544
+#EXTINF:-1 tvg-id="" tvg-name="POWER COUPLE 7 CAM 04 HD²" tvg-logo="http://contentsdeliver.link/logos/powercouplehd.png" group-title="F16 M5 POWER COUPLE",POWER COUPLE 7 CAM 04 HD²
+http://trabalho724.top:8080/7csplay/seven2022/348545
+#EXTINF:-1 tvg-id="" tvg-name="POWER COUPLE 7 CAM 05 HD²" tvg-logo="http://contentsdeliver.link/logos/powercouplehd.png" group-title="F16 M5 POWER COUPLE",POWER COUPLE 7 CAM 05 HD²
+http://trabalho724.top:8080/7csplay/seven2022/348546
+#EXTINF:-1 tvg-id="" tvg-name="TV ACRITICA HD¹" tvg-logo="http://contentsdeliver.link/logos/tv_acritica_hd.png" group-title="F16 M5 ABERTOS",TV ACRITICA HD¹
+http://trabalho724.top:8080/7csplay/seven2022/349780
+#EXTINF:-1 tvg-id="" tvg-name="X SPORTS HD²" tvg-logo="http://contentsdeliver.link/logos/xsportshd.png" group-title="F16 M5 ESPORTES GERAL",X SPORTS HD²
+http://trabalho724.top:8080/7csplay/seven2022/354545
+#EXTINF:-1 tvg-id="" tvg-name="X SPORTS HD¹" tvg-logo="http://contentsdeliver.link/logos/xsportshd.png" group-title="F16 M5 ESPORTES GERAL",X SPORTS HD¹
+http://trabalho724.top:8080/7csplay/seven2022/354546
+#EXTINF:-1 tvg-id="" tvg-name="X SPORTS FHD¹" tvg-logo="http://contentsdeliver.link/logos/xsportsfhd.png" group-title="F16 M5 ESPORTES GERAL",X SPORTS FHD¹
+http://trabalho724.top:8080/7csplay/seven2022/354547
+#EXTINF:-1 tvg-id="" tvg-name="POWER SLAP 24HRS²" tvg-logo="http://contentsdeliver.link/logos/powerslap.png" group-title="F16 M5 ESPORTES PAY PER VIEW",POWER SLAP 24HRS²
+http://trabalho724.top:8080/7csplay/seven2022/354548
+#EXTINF:-1 tvg-id="" tvg-name="AEROPORTO 24HRS²" tvg-logo="http://contentsdeliver.link/logos/aeroporto24hrs.png" group-title="F16 M5 VARIEDADES",AEROPORTO 24HRS²
+http://trabalho724.top:8080/7csplay/seven2022/354549
 
 #EXTINF:-1 tvg-id="agromais.br" tvg-name="Agro+" tvg-logo="http://001.p2cdn.ovh:80/images/60e4c6de48e6b39693eb8904f87d136d.png" group-title="F01 M450 ABERTOS",Agro+
 http://001.p2cdn.ovh:80/962728817/42872/1.ts
