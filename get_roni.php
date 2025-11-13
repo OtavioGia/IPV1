@@ -100,6 +100,10 @@ https://video02.logicahost.com.br/aerorealizar/aerorealizar/chunklist_w955637404
 # --- Fonte 18 Max 3 Exp 25/12/2025 http://7vnx.xyz:8080/player_api.php?username=delcio&password=99118656 http://7vnx.xyz:8080/get.php?username=delcio&password=99118656&type=m3u_plus   ---
 # --- Fonte 19 Max 3 Exp 24/10/2025 http://7vnx.xyz:80/player_api.php?username=7csplay&password=seven2022 http://7vnx.xyz:8080/get.php?username=SamiraColodo&password=9hYJKLw7&type=m3u_plus   ---
 
+# --- Fonte 20 Max 5 Exp xx/xx/2038 http://f1ads.fastcdn-delivery.site/player_api.php?&username=988189694&password=432583663 http://f1ads.fastcdn-delivery.site/get.php?&username=988189694&password=432583663&type=m3u_plus   ---
+# --- Fonte 21 Max 5 Exp xx/xx/2034 http://f1ads.fastcdn-delivery.site/player_api.php?&username=364886422&password=212915681 http://f1ads.fastcdn-delivery.site/get.php?&username=364886422&password=212915681&type=m3u_plus   ---
+# --- Fonte 22 Max 5 Exp xx/xx/2035 http://saga10.pro/player_api.php?&username=148043&password=844063 http://saga10.pro/get.php?&username=148043&password=844063&type=m3u_plus   ---
+
 #EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO BRASILIENSE HD¹" tvg-logo="http://contentsdeliver.link/logos/campeonatobrasiliensehd.png" group-title="F16 M5 CAMPEONATOS ESTADUAIS",CAMPEONATO BRASILIENSE HD¹
 http://trabalho724.top:8080/7csplay/seven2022/327183
 #EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CAPIXABA HD¹" tvg-logo="http://contentsdeliver.link/logos/campeonatocapixabahd.png" group-title="F16 M5 CAMPEONATOS ESTADUAIS",CAMPEONATO CAPIXABA HD¹
@@ -22335,6 +22339,6105 @@ http://trabalho724.top:8080/SamiraColodo/9hYJKLw7/355702
 #EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 17 CAM 06 HD²" tvg-logo="http://contentsdeliver.link/logos/afazenda_hd.png" group-title="F19 M3 A FAZENDA 17 (2025)",A FAZENDA 17 CAM 06 HD²
 http://trabalho724.top:8080/SamiraColodo/9hYJKLw7/355703
 
+#EXTINF:-1 xui-id="4666508" tvg-id="" tvg-name="24H A Turma da Mônica" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24H A Turma da Mônica
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRv-3KMutQbI4rrfjHu7lsc5JTXEH-nE32-kARLzUPaiE
+#EXTINF:-1 xui-id="4666509" tvg-id="" tvg-name="24H as meninas super poderosas" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24H as meninas super poderosas
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRuHKlzrCZhqa-8IZqSFVRPa810AKw6jw57EKautRcH7R
+#EXTINF:-1 xui-id="4666511" tvg-id="" tvg-name="24H Dragon Ball" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24H Dragon Ball
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRlBNCHr3yU1NbgdGA_pl7rSB6g4LngVkUtYoKuGwQA4g
+#EXTINF:-1 xui-id="4666513" tvg-id="" tvg-name="24H EU A PATROA E AS CRIANÇAS" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24H EU A PATROA E AS CRIANÇAS
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRoI8hXLDvJwOB3YBd1Zes3dggdIZRg-91fFehJ3d83fC
+#EXTINF:-1 xui-id="4666514" tvg-id="" tvg-name="24H Familia Dinoussauros" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24H Familia Dinoussauros
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRkXJhXJCpy5MGetNIBc7TYYMtnQzj_93wujVaeiKOx5b
+#EXTINF:-1 xui-id="4666515" tvg-id="" tvg-name="24H FATOS INSANOS" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24H FATOS INSANOS
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRhyorqbaP6KyPcxc1iZL3nXV2o2c4kHk-DnOd_UQ1Vhs
+#EXTINF:-1 xui-id="4666516" tvg-id="" tvg-name="24H Filmes Drama" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24H Filmes Drama
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRrAsvpV6yHg-56NewCFtYmlNtARaAhomL4ToilE6bhfH
+#EXTINF:-1 xui-id="4666517" tvg-id="" tvg-name="24H Filmes Lancamentos" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24H Filmes Lancamentos
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRterm14N3GOcP_8FSn3NvgMxVCeLJvyILEhQfnZkOWVY
+#EXTINF:-1 xui-id="4666518" tvg-id="" tvg-name="24H FUTURAMA" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24H FUTURAMA
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRgync24X_geBdDMp2IXMDxuRkGgpHIlWGaEXVW6KG-HS
+#EXTINF:-1 xui-id="4666519" tvg-id="" tvg-name="24H Galinha Pintadinha" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24H Galinha Pintadinha
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRkBDSM2flU8tm8Px5iAtOeAuQCUz2mogdLrlnokgaqEs
+#EXTINF:-1 xui-id="4666520" tvg-id="" tvg-name="24h Homem aranha" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24h Homem aranha
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRvbqLOBtZIsl3qaM1AsSyJkwUBw20FLFJ4inkZIh-5k-
+#EXTINF:-1 xui-id="4666521" tvg-id="" tvg-name="24H iCarly Revival" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24H iCarly Revival
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRoAullEu_Cc5wayGE5SC3jbc7RVQGlds6nTwXu8A8V05
+#EXTINF:-1 xui-id="4666522" tvg-id="" tvg-name="24H JACKIE CHAN" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24H JACKIE CHAN
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRuIo62o7K7pm0DfbQLCFDAMW7XYeoxoQJCrnp5x9uBbv
+#EXTINF:-1 xui-id="4666524" tvg-id="" tvg-name="24H Mickey Mouse" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24H Mickey Mouse
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRhGFj4rP-pHPAxz44NtP58bIKdK5jBKw43iTve3E-mU1
+#EXTINF:-1 xui-id="4666525" tvg-id="" tvg-name="24H OS FLINTSTONES" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24H OS FLINTSTONES
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRvjlxpkfyE7ApDFsL9jmDyRhQovw8MxahCZIp4bYSnxs
+#EXTINF:-1 xui-id="4666526" tvg-id="" tvg-name="24H Os Jetsons" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24H Os Jetsons
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRsvUWfZeHEJ8lzbLAYe9C3Bcnftvxx3hW2-yhnAzidcv
+#EXTINF:-1 xui-id="4666527" tvg-id="" tvg-name="24H Os pinguins de madagascar" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24H Os pinguins de madagascar
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRqAOeQiiww9mlpniDkWd2MLcjPcUsUIRDNTtZ7J4qds6
+#EXTINF:-1 xui-id="4666528" tvg-id="" tvg-name="24H Os Simpsons" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24H Os Simpsons
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRlC2WfLconh8htGDiJCDaugMsvmMBFDiOjUEGMvxN87t
+#EXTINF:-1 xui-id="4666530" tvg-id="" tvg-name="24H Pantera Cor de Rosa" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24H Pantera Cor de Rosa
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRtfr8nbM2_1-HGO17ZjKTcIMv2n3Yjer2_YxrPG-QINT
+#EXTINF:-1 xui-id="4666531" tvg-id="" tvg-name="24H Papa Léguas" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24H Papa Léguas
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRj7hFnq6FNIEGTIYtEjoWOB9zkeZAmSlZkj-Ec8eSuQ5
+#EXTINF:-1 xui-id="4666533" tvg-id="" tvg-name="24H Patrulha canina" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24H Patrulha canina
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRgEhON8EbeB2zeLL-8eglTJZWxoHyqWtvZMBffCtw4xy
+#EXTINF:-1 xui-id="4666534" tvg-id="" tvg-name="24H PEGADINHAS JOAO KLEBER" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24H PEGADINHAS JOAO KLEBER
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRqhVqigvQ1K_cSh1Wn9VUi4zb-qHo54S8lj6gQJG9HnB
+#EXTINF:-1 xui-id="4666535" tvg-id="" tvg-name="24H Pernalonga e sua Turma" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24H Pernalonga e sua Turma
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRv7bDJUiqO-jUBnfCR5CbxGS5BXjDGs5xKWSV6JZJh-m
+#EXTINF:-1 xui-id="4666536" tvg-id="" tvg-name="24H PICA PAU" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24H PICA PAU
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRk5RFd5RKOVX2_fE1AYXEqOtKmCyGNluWjL60059MRsK
+#EXTINF:-1 xui-id="4666539" tvg-id="" tvg-name="24H Popeye" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24H Popeye
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRsnfB3Zrrb6sfXOLMjoEisvH8qI3EI3-hi7t8IU66Fe-
+#EXTINF:-1 xui-id="4666540" tvg-id="" tvg-name="24H Super Homem" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24H Super Homem
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRj4KPem5vyx98OEpXpWGR77sByWXSgGwBaMOMlnaN61Q
+#EXTINF:-1 xui-id="4666541" tvg-id="" tvg-name="24H Thundercats" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24H Thundercats
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRtGBOOjYBngi0RxAhWz1W1SnilJl_T0YRkaL1DjLQ_yo
+#EXTINF:-1 xui-id="4666542" tvg-id="" tvg-name="24H Timão e Pumba" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24H Timão e Pumba
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRhZI-UR0Rna1reTMTjJ4FyS_bfLOnaue9w6Rh3gEXyJA
+#EXTINF:-1 xui-id="4666543" tvg-id="" tvg-name="24H Todo Mundo Odeia o Chris" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24H Todo Mundo Odeia o Chris
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRpGIlvbsMkK1oXvtJIfzs9dlhO7wqsnkxcvBEifw9lt5
+#EXTINF:-1 xui-id="4666544" tvg-id="" tvg-name="24H Tom & Jerry" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24H Tom & Jerry
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRlNMG4UH12cpBFnpx4RX3SaJCFWwBPwsXgtP2S0wj1gt
+#EXTINF:-1 xui-id="4666546" tvg-id="" tvg-name="24HR MR BEAN DESENHO 255" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HR MR BEAN DESENHO 255
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRjbp_GDfdln1fCO_snkNanU_U_i2XH76XdKq5-BSWDim
+#EXTINF:-1 xui-id="4666547" tvg-id="" tvg-name="24HRS 4 AMIGOS 202" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS 4 AMIGOS 202
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRo4fii6za4WhdWR2J-4oGdlh7SbbyozSOJyIMac0Z-XG
+#EXTINF:-1 xui-id="4666548" tvg-id="" tvg-name="24HRS A FAMILIA URSO 198" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS A FAMILIA URSO 198
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRvLndAMwX17fWyM6zewhyLLqOOC2NT4CghrOprXrhHaP
+#EXTINF:-1 xui-id="4666549" tvg-id="" tvg-name="24HRS CANAIS 10" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS CANAIS 10
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRrov3gRnJCKfOWIFah0A2moLzU4GNtRb9QMP45NcumyZ
+#EXTINF:-1 xui-id="4666550" tvg-id="" tvg-name="24HRS CANAIS 11" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS CANAIS 11
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRj5k5nNOZ3h166ytwGW7YcyCgihtrfrxP4Ve8sZ3q-u7
+#EXTINF:-1 xui-id="4666551" tvg-id="" tvg-name="24HRS CANAIS 14" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS CANAIS 14
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRgX8BG7WFxsOB1flnx-v0L3kZYc0afHP-WYO3VSVc0XF
+#EXTINF:-1 xui-id="4666552" tvg-id="" tvg-name="24HRS CANAIS 15" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS CANAIS 15
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRh1ROtqRCyYFW8pmD2p9F5A6KbwDyPk2rsNxXwxUCENJ
+#EXTINF:-1 xui-id="4666553" tvg-id="" tvg-name="24HRS CANAIS 155" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS CANAIS 155
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRjEyyZdTwAYO2dUfEW0WkYXV5tHBR1oPkZe_Lj2bhVSJ
+#EXTINF:-1 xui-id="4666554" tvg-id="" tvg-name="24HRS CANAIS 156" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS CANAIS 156
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRmTZ1zrxMyC3TtzJM-96k-n9073eiVx1aBuKVzh0UDcg
+#EXTINF:-1 xui-id="4666556" tvg-id="" tvg-name="24HRS CANAIS 158" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS CANAIS 158
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRojcwRNlsUtV7Gyj74yVi4R2U0vvPGvuuIZicO7PalSP
+#EXTINF:-1 xui-id="4666557" tvg-id="" tvg-name="24HRS CANAIS 16" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS CANAIS 16
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRjA5XIosmnDdiEKHgvw_VZ5mAo_9hSuJkOj6gi9d7N7V
+#EXTINF:-1 xui-id="4666558" tvg-id="" tvg-name="24HRS CANAIS 161" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS CANAIS 161
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRvfH7DkcZNBOfvA1nhyRWlC0VQrNOTKF1H3Ay-7bY8ny
+#EXTINF:-1 xui-id="4666560" tvg-id="" tvg-name="24HRS CANAIS 175" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS CANAIS 175
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRjnozSF2t8mvUq0TeAtxeefH56VS8U8mHIyJdVPTCetS
+#EXTINF:-1 xui-id="4666561" tvg-id="" tvg-name="24HRS CANAIS 176" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS CANAIS 176
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRv18vmLR8ABhGuN0uEBu1cLR4xBfN_PQ3GkkylTwzIjm
+#EXTINF:-1 xui-id="4666563" tvg-id="" tvg-name="24HRS CANAIS 18" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS CANAIS 18
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRng16y0G_Dms7yNnFIBu8T42YaVMUF9nxjfocW_T4IY0
+#EXTINF:-1 xui-id="4666564" tvg-id="" tvg-name="24HRS CANAIS 180" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS CANAIS 180
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRkolGSATVfECldzLE-FJgS-9TJw4bDML8aF4LYcrfysv
+#EXTINF:-1 xui-id="4666565" tvg-id="" tvg-name="24HRS CANAIS 181" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS CANAIS 181
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRubHqSYG0pEr85K2WUeUMLLFFRqJfKDlbh64eoO2oMoC
+#EXTINF:-1 xui-id="4666567" tvg-id="" tvg-name="24HRS CANAIS 184" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS CANAIS 184
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRmSGgym9PiXYp4PC6wiJNfa8OQ3gbNJ0Fvs6NnLjD1NQ
+#EXTINF:-1 xui-id="4666568" tvg-id="" tvg-name="24HRS CANAIS 186" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS CANAIS 186
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRtDATeCvUYvPxXi0wnAJHhuEF1KAlTyng9V2tixLuwI6
+#EXTINF:-1 xui-id="4666570" tvg-id="" tvg-name="24HRS CANAIS 190" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS CANAIS 190
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRpi7cvevlEcYyxg2H26Wq6x2fpLX4wjlf3SL7SgiNybE
+#EXTINF:-1 xui-id="4666571" tvg-id="" tvg-name="24HRS CANAIS 192" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS CANAIS 192
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRoeQcvBCYynFOIfE_986LJUV6sM2uM_4u7W4CCe9yOzG
+#EXTINF:-1 xui-id="4666572" tvg-id="" tvg-name="24HRS CANAIS 199" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS CANAIS 199
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRqhTlORs4RuosccJA1NV11uryve9z_qxDEAm16tQq_Rr
+#EXTINF:-1 xui-id="4666573" tvg-id="" tvg-name="24HRS CANAIS 200" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS CANAIS 200
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRoFQIGEG3_iZVd11leXSOIgNXUbnE9Z2Qm-WCYK0rpnT
+#EXTINF:-1 xui-id="4666574" tvg-id="" tvg-name="24HRS CANAIS 204" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS CANAIS 204
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRrN7ZF0q8qY8DOm-3T4VVqTgnrJkoXcEisYvAOCXYHc3
+#EXTINF:-1 xui-id="4666575" tvg-id="" tvg-name="24HRS CANAIS 205" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS CANAIS 205
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRqjckDyc2wjUuPJW1B7bXSjyJOvvhekdX4R8dxithGC3
+#EXTINF:-1 xui-id="4666576" tvg-id="" tvg-name="24HRS CANAIS 206" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS CANAIS 206
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRpBbLqh8Wppj7PbbD_GwKSEPSxkr2zxTLBOwGxNDYk8v
+#EXTINF:-1 xui-id="4666577" tvg-id="" tvg-name="24HRS CANAIS 208" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS CANAIS 208
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRpsEkEODdkh0kMNlKCEDiveemZpmAh71_zWzgSzbAFie
+#EXTINF:-1 xui-id="4666578" tvg-id="" tvg-name="24HRS CANAIS 210" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS CANAIS 210
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRlXtHkGV4uITsHrh3ORc5uq1PfEzcZ_iAXH97s_-Ooau
+#EXTINF:-1 xui-id="4666579" tvg-id="" tvg-name="24HRS CANAIS 211" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS CANAIS 211
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRvm9RM70PA21GWyg4G1Dk98mkuhRd-ZoJ7qqmcqAEU9E
+#EXTINF:-1 xui-id="4666580" tvg-id="" tvg-name="24HRS CANAIS 214" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS CANAIS 214
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRiXYr0EGjjXIqQWd6rTR7YKo4jpb3jN1Ln0YsjoEtX_l
+#EXTINF:-1 xui-id="4666581" tvg-id="" tvg-name="24HRS CANAIS 215" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS CANAIS 215
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRs20Fj4pEjo7w7cE8SQl5ineJOqVKi37XjeoMmDuwhH-
+#EXTINF:-1 xui-id="4666582" tvg-id="" tvg-name="24HRS CANAIS 216" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS CANAIS 216
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRvQ-eitlncu2fwRAtfYdweX_ii-yLo6hIX-BMxSAjfJJ
+#EXTINF:-1 xui-id="4666583" tvg-id="" tvg-name="24HRS CANAIS 217" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS CANAIS 217
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRjfyt89uLDorMzpuKvNfalPZOpQBaMe7qZKm-qC2Vuoh
+#EXTINF:-1 xui-id="4666584" tvg-id="" tvg-name="24HRS CANAIS 218" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS CANAIS 218
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRgW_jPzPrRckt8zYCA_-Bh54sUXzj87NIeMadI5UUdHU
+#EXTINF:-1 xui-id="4666586" tvg-id="" tvg-name="24HRS CANAIS 221" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS CANAIS 221
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRoe4Ehim8EX6Y-vAfS74ombAHbDrXIW6KKvmg6fbSE9X
+#EXTINF:-1 xui-id="4666587" tvg-id="" tvg-name="24HRS CANAIS 222" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS CANAIS 222
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRkxYrb2cHNHKVznz-VeDofz82LgzlSEhF5olpm-tXyRr
+#EXTINF:-1 xui-id="4666588" tvg-id="" tvg-name="24HRS CANAIS 223" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS CANAIS 223
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRtgjPcJDWHTtU9fnR4hQTJNDRq8Z4EfxJPvvRhUwHu4u
+#EXTINF:-1 xui-id="4666589" tvg-id="" tvg-name="24HRS CANAIS 224" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS CANAIS 224
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRuLKpoMkB-jvGZApmSMmR9H_1nohjcN3aYdEamt6Sn71
+#EXTINF:-1 xui-id="4666590" tvg-id="" tvg-name="24HRS CANAIS 226" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS CANAIS 226
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRqmsUz46LNGkX5mYlUs5e7idjq8Uj9Wl3_XNB5Dr69ut
+#EXTINF:-1 xui-id="4666591" tvg-id="" tvg-name="24HRS CANAIS 23" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS CANAIS 23
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRhnPKiLVMdGvA3BwBE4JhyXPrJWYI_oY7S4Tfrz1BJNi
+#EXTINF:-1 xui-id="4666592" tvg-id="" tvg-name="24HRS CANAIS 230" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS CANAIS 230
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRqXaHzFYV880mtNsAwj8p-HR-nmMSiRvo88CNwZBMoGi
+#EXTINF:-1 xui-id="4666593" tvg-id="" tvg-name="24HRS CANAIS 231" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS CANAIS 231
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRjrEhGeCCwDz_PyDRNbBTynYehuBh7plSadxbnX02ByJ
+#EXTINF:-1 xui-id="4666594" tvg-id="" tvg-name="24HRS CANAIS 235" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS CANAIS 235
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRpocQNVEerzYUlQJMjai2uZZLebHm6C5Zf5JuRHtwlNW
+#EXTINF:-1 xui-id="4666595" tvg-id="" tvg-name="24HRS CANAIS 237" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS CANAIS 237
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRhihQrXEPSrwDVHo2JWlueneFGag2y0hSsZK690jhEu_
+#EXTINF:-1 xui-id="4666596" tvg-id="" tvg-name="24HRS CANAIS 238" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS CANAIS 238
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRrkrwdYrPfP413jONuXxDJ_CHYP_tchJ7cwJemRuGkPf
+#EXTINF:-1 xui-id="4666598" tvg-id="" tvg-name="24HRS CANAIS 241" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS CANAIS 241
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRlQwlhpP923i7hHVyi89b2YwVvhka7MB3UF3Vuw9k3ei
+#EXTINF:-1 xui-id="4666599" tvg-id="" tvg-name="24HRS CANAIS 244" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS CANAIS 244
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRmAj82ZrrBea8wVLQIf34AkR7gEPA20vBCLni7EEy-2A
+#EXTINF:-1 xui-id="4666600" tvg-id="" tvg-name="24HRS CANAIS 246" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS CANAIS 246
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRlC8398VB4iiwXjhhcclGo6uB-0WBlBm4fNh4Q-vdR39
+#EXTINF:-1 xui-id="4666601" tvg-id="" tvg-name="24HRS CANAIS 247" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS CANAIS 247
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRo8oV3cd2i9jg24FVMe6ROtCcImFIDTNNog1ENoCYasu
+#EXTINF:-1 xui-id="4666602" tvg-id="" tvg-name="24HRS CANAIS 248" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS CANAIS 248
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRtrgE5GzDaIA_vVyYRYP6vKdL_T-HgaSgxQ5M_OobIJL
+#EXTINF:-1 xui-id="4666603" tvg-id="" tvg-name="24HRS CANAIS 249" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS CANAIS 249
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRmwwLDZc_iZ8eEglK6RuaSrplDj2yChMv1IhQldASMMz
+#EXTINF:-1 xui-id="4666604" tvg-id="" tvg-name="24HRS CANAIS 250" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS CANAIS 250
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRpT0FD6us7Va-3YW2gcI3fR7ZaqQsx_vAd8I0OyOnM0j
+#EXTINF:-1 xui-id="4666605" tvg-id="" tvg-name="24HRS CANAIS 252" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS CANAIS 252
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRixws2sESGtGqK5xTdPgjDeHU8R_VIhFPbsXLv1PfBwh
+#EXTINF:-1 xui-id="4666606" tvg-id="" tvg-name="24HRS CANAIS 253" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS CANAIS 253
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRponpj7deDiJ-dfyN7SJuzGxFV0Atko-oGQMn1MoTQuL
+#EXTINF:-1 xui-id="4666607" tvg-id="" tvg-name="24HRS CANAIS 254" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS CANAIS 254
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRqzuyH4mXeKEOvxNq24azLgjyOsDfpyCOI2HP9ZjuQoJ
+#EXTINF:-1 xui-id="4666608" tvg-id="" tvg-name="24HRS CANAIS 256" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS CANAIS 256
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRs289Tp24uejHC0Lblj-aKUDZsOASFJOpQ8CqB1OesFD
+#EXTINF:-1 xui-id="4666609" tvg-id="" tvg-name="24HRS CANAIS 257" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS CANAIS 257
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRpr_gqRI-2Bfs2AGen7OSzHgWC-OgaHas95ymhBFAlfp
+#EXTINF:-1 xui-id="4666610" tvg-id="" tvg-name="24HRS CANAIS 258" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS CANAIS 258
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRnzY7CiPP0butGgQIB273ayieXjIKNTKt8n3ghZkFssN
+#EXTINF:-1 xui-id="4666611" tvg-id="" tvg-name="24HRS CANAIS 259" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS CANAIS 259
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRo3nHbLpuk0cvDPo65LpzU-fxd6s9OpI7GlkZqPdBhfC
+#EXTINF:-1 xui-id="4666612" tvg-id="" tvg-name="24HRS CANAIS 261" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS CANAIS 261
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRnE5nVUjHAf03ZdGvGKF0aletG_v7z4B1WVMyebkPAnu
+#EXTINF:-1 xui-id="4666613" tvg-id="" tvg-name="24HRS CANAIS 262" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS CANAIS 262
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRlj3F5tIcATaBvnqXZXI8bV4uEldIOJy6rFLvaYFCOsb
+#EXTINF:-1 xui-id="4666615" tvg-id="" tvg-name="24HRS CANAIS 266" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS CANAIS 266
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRrupayk-DUdvDyOJ6qmoi-8ZUsWEIH6lM3CqsYxSr9GF
+#EXTINF:-1 xui-id="4666616" tvg-id="" tvg-name="24HRS CANAIS 267" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS CANAIS 267
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRpYh0ZOkIPSQdq5X9eP7y4YEV9bczDSKPx6mCKg4KvBU
+#EXTINF:-1 xui-id="4666617" tvg-id="" tvg-name="24HRS CANAIS 27" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS CANAIS 27
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRpELOjSFgWo0tOGOUSFdr0W8tO3sx5U-IEaroLj4k6YQ
+#EXTINF:-1 xui-id="4666618" tvg-id="" tvg-name="24HRS CANAIS 270" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS CANAIS 270
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRr1PpK3AwYKypEiyFgoR2NpgYfgDHJXV5qLFkV4eKwdN
+#EXTINF:-1 xui-id="4666619" tvg-id="" tvg-name="24HRS CANAIS 274" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS CANAIS 274
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRnlz7QPbKVyaQF5hj4d1VGbBTct-B2sCtwjmOg44weaH
+#EXTINF:-1 xui-id="4666620" tvg-id="" tvg-name="24HRS CANAIS 275" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS CANAIS 275
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRlDKDL-mndO0XTCUI6Sf2l1Pb8vteAQ96zYQj8IyedTJ
+#EXTINF:-1 xui-id="4666621" tvg-id="" tvg-name="24HRS CANAIS 276" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS CANAIS 276
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRrVnpluDuPAtUpAIHtE4uEOLTbtHQuBwEwP7C0MuIYTX
+#EXTINF:-1 xui-id="4666622" tvg-id="" tvg-name="24HRS CANAIS 278" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS CANAIS 278
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRgWQoOuuk1SJoMiHMd4UsPYfn1hWiu2HXTt3G0c0BU9Y
+#EXTINF:-1 xui-id="4666623" tvg-id="" tvg-name="24HRS CANAIS 279" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS CANAIS 279
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRkdCHjcElJQPdIhEAuuk6JygAsq9c-j3lKWahhCE5wMu
+#EXTINF:-1 xui-id="4666624" tvg-id="" tvg-name="24HRS CANAIS 280" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS CANAIS 280
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRjBXMlgQZKiANmmeVZAKv7x9JwlupvrZ5HEMsiaMGC9Z
+#EXTINF:-1 xui-id="4666625" tvg-id="" tvg-name="24HRS CANAIS 281" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS CANAIS 281
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRsF2SiThUb9yDEVvRd4WBrRTcICIxx_EziutBgvz2tOd
+#EXTINF:-1 xui-id="4666626" tvg-id="" tvg-name="24HRS CANAIS 282" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS CANAIS 282
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRqBJdbrdgVXaJTQ_HvFe_WRTcQBFsX04pGYBJL8yc_Fa
+#EXTINF:-1 xui-id="4666627" tvg-id="" tvg-name="24HRS CANAIS 283" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS CANAIS 283
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRjnYiHb8rCWL1FaBspxHhTB4eq7FaPLdqaa4UcVzZZNT
+#EXTINF:-1 xui-id="4666628" tvg-id="" tvg-name="24HRS CANAIS 284" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS CANAIS 284
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRnmukr6ADq2UwKwok02qXxP4AbLBSXAWgbi_ukct8eP1
+#EXTINF:-1 xui-id="4666629" tvg-id="" tvg-name="24HRS CANAIS 30" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS CANAIS 30
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRpYaWb1_Vwm4eP0XWkhENaPKRMZLAWPY6EGiikJ3KF9G
+#EXTINF:-1 xui-id="4666630" tvg-id="" tvg-name="24HRS CANAIS 31" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS CANAIS 31
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRiLJZb27vvtMKrS4-Z1r6Vbcnv1ljq8_9qU-F-61SAW3
+#EXTINF:-1 xui-id="4666631" tvg-id="" tvg-name="24HRS CANAIS 33" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS CANAIS 33
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRitJGqnE2Mqe6ueEF_w9FE1Y2v7J2a-UrVWhlt7gsvTS
+#EXTINF:-1 xui-id="4666632" tvg-id="" tvg-name="24HRS CANAIS 35" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS CANAIS 35
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRix6s6WKZv4JDLadgaCIiLyYlFjW0lspBcrA6DUsFhcR
+#EXTINF:-1 xui-id="4666633" tvg-id="" tvg-name="24HRS CANAIS 38" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS CANAIS 38
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRkZNJXfcjfn9rgGQb5OCDKQK1AASCpy13n7RPdT9pXf_
+#EXTINF:-1 xui-id="4666634" tvg-id="" tvg-name="24HRS CANAIS 46" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS CANAIS 46
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRivx_mnhUAq71zcNlg7qd2dN2kldSO9PbiNr304qCMFz
+#EXTINF:-1 xui-id="4666635" tvg-id="" tvg-name="24HRS CANAIS 51" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS CANAIS 51
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRhhBcEMBT8GTMD9JjCvQ8EK3eSx2z8uQrMrTBV84bW6w
+#EXTINF:-1 xui-id="4666636" tvg-id="" tvg-name="24HRS CANAL VIVA - 13" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS CANAL VIVA - 13
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRl8eN_MbC6fiqTDTRusB2pOW2zoA92iyWVuQTjuoM53D
+#EXTINF:-1 xui-id="4666637" tvg-id="" tvg-name="24HRS DEXTER 242" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS DEXTER 242
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRg_tTxLbIfJO78aUNOWce0zuz2116s90InB4xs9GYmkv
+#EXTINF:-1 xui-id="4666638" tvg-id="" tvg-name="24HRS DORA AVENTUREIRA 159" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS DORA AVENTUREIRA 159
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRrlAFfGUL2aeMjQKXl-mISNCAzfVKNIJFxrXCVJbA7ii
+#EXTINF:-1 xui-id="4666639" tvg-id="" tvg-name="24HRS DOUG 160" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS DOUG 160
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRsMw03f_xudIZdLJgo8UrzzzwtpYi1UG3AhcnAYbcNQE
+#EXTINF:-1 xui-id="4666641" tvg-id="" tvg-name="24HRS DRAGON BALL Z 174" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS DRAGON BALL Z 174
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRrr5m-3by3YTVlLQkE04fyk4zdbsp9CpMH-3YByZDxbO
+#EXTINF:-1 xui-id="4666642" tvg-id="" tvg-name="24HRS DRAGON BALL Z(1) 173" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS DRAGON BALL Z(1) 173
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRtnY1kGsqqMBRwk2mAIwqfidbXJrRqNP-BPrEbCb_7b4
+#EXTINF:-1 xui-id="4666643" tvg-id="" tvg-name="24HRS DRAGON BALL Z(10) 163" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS DRAGON BALL Z(10) 163
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRm6K5JsTTi04KOO6nA0yqyX3R1FsRabDF22t_-VKh8pQ
+#EXTINF:-1 xui-id="4666644" tvg-id="" tvg-name="24HRS DRAGON BALL Z(11) 162" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS DRAGON BALL Z(11) 162
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRhIFc5XaFg8Gl3VnRDO9FziFqtXJqwbuf4DW0aX8Lb7O
+#EXTINF:-1 xui-id="4666645" tvg-id="" tvg-name="24HRS DRAGON BALL Z(2) 172" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS DRAGON BALL Z(2) 172
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRmRIqmIm6F9NaXWxZiBZlPQ3imBhHEMcFiZ0uH-8o6aF
+#EXTINF:-1 xui-id="4666646" tvg-id="" tvg-name="24HRS DRAGON BALL Z(3) 171" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS DRAGON BALL Z(3) 171
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRjEKoaoJ6d-LhZwRQdaxmVUqWXrPIzcxqPzfNnC_Xaqj
+#EXTINF:-1 xui-id="4666647" tvg-id="" tvg-name="24HRS DRAGON BALL Z(4) 170" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS DRAGON BALL Z(4) 170
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRsy2m4eGeEDxrmuHiYD9bF46swJl5eb4Btd_cmPJlXmX
+#EXTINF:-1 xui-id="4666648" tvg-id="" tvg-name="24HRS DRAGON BALL Z(7) 167" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS DRAGON BALL Z(7) 167
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRo3AfATmmCNffiP8mTg3_bKatAxXISmrlUUWSGEXPv1i
+#EXTINF:-1 xui-id="4666649" tvg-id="" tvg-name="24HRS DROOPY 177" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS DROOPY 177
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRkUDJhRMVLZOBuwUWD-0teFRX6xEJT48H3hS_MsBs6i7
+#EXTINF:-1 xui-id="4666651" tvg-id="" tvg-name="24HRS ESCOLINHA DO PROFESSOR RAIMUNDO 189" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS ESCOLINHA DO PROFESSOR RAIMUNDO 189
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRoaeXJBc2r0_Y_KE6KhZU8JAKSmQDgYR67BtLYXJ1_wq
+#EXTINF:-1 xui-id="4666652" tvg-id="" tvg-name="24HRS ESQUADRÃO DO TEMPO 191" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS ESQUADRÃO DO TEMPO 191
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRn3b-88e9h8TiLl-5LfZ0hIav8qxokknV9cZIf0Ui9u1
+#EXTINF:-1 xui-id="4666653" tvg-id="" tvg-name="24HRS EU SOU O MAXIMO 194" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS EU SOU O MAXIMO 194
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRmH3KsvSMTAyirYOARTax6_eK60IPyEzawKbGj4vyIgY
+#EXTINF:-1 xui-id="4666654" tvg-id="" tvg-name="24HRS FAISCA E FUMAÇA 196" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS FAISCA E FUMAÇA 196
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRuaEX9kGWZOs_ylYldd-kZEQ3Y_tlEvmhghgieN44JHs
+#EXTINF:-1 xui-id="4666655" tvg-id="" tvg-name="24HRS FITDANCE 203" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS FITDANCE 203
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRl9iXyyTUgaDVRYb-qceyEuxcnv1HRgdF29h_zK01GO8
+#EXTINF:-1 xui-id="4666656" tvg-id="" tvg-name="24HRS FREAKAZOID 207" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS FREAKAZOID 207
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRtgnaxfboraa0kt4G1f7WmKnIpGUpsOTsfkN2fVcFMHM
+#EXTINF:-1 xui-id="4666658" tvg-id="" tvg-name="24HRS HE-MAN 227" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS HE-MAN 227
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRqpsxlhNPjOjt-lg9xtYN0HugdsZ0a3QhQTjmeBx0zgg
+#EXTINF:-1 xui-id="4666659" tvg-id="" tvg-name="24HRS HERCULES 229" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS HERCULES 229
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRt9B3tWRz6l7GXLd9OsWZO6ptnfq2Ww_rZOMN3p-nE4Z
+#EXTINF:-1 xui-id="4666660" tvg-id="" tvg-name="24HRS HUGUINHO ZEZINHO E LUIZINHO 179" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS HUGUINHO ZEZINHO E LUIZINHO 179
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRv4dx0Nz0aq5IV_RJaVvL5ARoHBXv8WfICFECnM9kOty
+#EXTINF:-1 xui-id="4666661" tvg-id="" tvg-name="24HRS INCRIVEL HULK 234" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS INCRIVEL HULK 234
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRrLwECeT-HGQ86x4yfqFwurELVkOvSCwy3zHor8HagGb
+#EXTINF:-1 xui-id="4666662" tvg-id="" tvg-name="24HRS IRMÃO DO JOREL 236" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS IRMÃO DO JOREL 236
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRmnz0wm2DWjYBypZ_o9NhROubr0IYlYrFT5qcs7zbecF
+#EXTINF:-1 xui-id="4666663" tvg-id="" tvg-name="24HRS JOHNNY BRAVO 239" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS JOHNNY BRAVO 239
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRnL9YXvUVYDhUBj7bH0RIhmCY-xC37kxDWswGfpolG0_
+#EXTINF:-1 xui-id="4666664" tvg-id="" tvg-name="24HRS KENAN E KEL 251" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS KENAN E KEL 251
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRqTIh3BH4nrjAwImVkK2avLECQfOcNZsSHIKy7yjTKEo
+#EXTINF:-1 xui-id="4666665" tvg-id="" tvg-name="24HRS LULUZINHA 245" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS LULUZINHA 245
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRhfPzdWWgHytpGvMvg_ejthW9vefYM6UZDWTUemhYMgL
+#EXTINF:-1 xui-id="4666666" tvg-id="" tvg-name="24HRS MUTANTE REX 219" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS MUTANTE REX 219
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRqd2cFZxfVzihB9ELzeuSH76VMyPdxuWXmdtyw9Wepan
+#EXTINF:-1 xui-id="4666667" tvg-id="" tvg-name="24HRS O SHOW DA LUNA - 19" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS O SHOW DA LUNA - 19
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRjNn4jCnhK5xyYx5Tnk_a7BzYUbkuvLAqGJAOv8Z7AsW
+#EXTINF:-1 xui-id="4666668" tvg-id="" tvg-name="24HRS O SHOW TOM E JERRY - 42" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS O SHOW TOM E JERRY - 42
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRgry0zL3gP7zXMmOkdj1KF2k9P7TAabpmHUGhrIYL2UX
+#EXTINF:-1 xui-id="4666669" tvg-id="" tvg-name="24HRS POWER RANGERS - 2" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS POWER RANGERS - 2
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRp9vvPkbgXd773xnN6gP5Qf-0u3ishh-qtv7wxIZkOD3
+#EXTINF:-1 xui-id="4666670" tvg-id="" tvg-name="24HRS POWER RANGERS(1) - 3" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS POWER RANGERS(1) - 3
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRreWmRZUV8MuzQUUkfi-AKaM77wvGxOvE8XORlszTEiR
+#EXTINF:-1 xui-id="4666671" tvg-id="" tvg-name="24HRS POWER RANGERS(2) - 4" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS POWER RANGERS(2) - 4
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRilLjhFABdxs8SI7cYZgHD5MyVJxEttfUcRBAqdMaVi5
+#EXTINF:-1 xui-id="4666672" tvg-id="" tvg-name="24HRS POWER RANGERS(3) - 5" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS POWER RANGERS(3) - 5
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRvT_Di2mOpTcVh0Yk5Ce-kuziUoSlmCH0V8fsdnPe5Nl
+#EXTINF:-1 xui-id="4666673" tvg-id="" tvg-name="24HRS POWER RANGERS(4) - 6" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS POWER RANGERS(4) - 6
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRn2jbuHIyk83ezpjeZ_7bc2r2Uq0gCdvCpRZVZo9WhFD
+#EXTINF:-1 xui-id="4666674" tvg-id="" tvg-name="24HRS POWER RANGERS(5) - 7" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS POWER RANGERS(5) - 7
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRvznNhuiJ8dwBzPj8h_yriD4G_m4Czx9iqz9kmlKoQ-f
+#EXTINF:-1 xui-id="4666675" tvg-id="" tvg-name="24HRS POWER RANGERS(6) - 8" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS POWER RANGERS(6) - 8
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRsw3jmBlEVGJpRUYjBcgKgceVesIz-Mh5DWYMmB37SuS
+#EXTINF:-1 xui-id="4666676" tvg-id="" tvg-name="24HRS POWER RANGERS(7) - 9" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS POWER RANGERS(7) - 9
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRhgTVgYmcIC0N4OnD-e1FgLHALiE7Tjr2X_j7uMYOyWo
+#EXTINF:-1 xui-id="4666677" tvg-id="" tvg-name="24HRS RIQUINHO RICO - 12" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS RIQUINHO RICO - 12
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRvXKRVWMJ13PVm03S9ZM5tfkGRYVn3lVqd26tWjltxJR
+#EXTINF:-1 xui-id="4666678" tvg-id="" tvg-name="24HRS RS MUSIC - 24" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS RS MUSIC - 24
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRuDFXgelej7S1HvLCmUauaUE3iUbDOwe-uLVsBzKC-mC
+#EXTINF:-1 xui-id="4666679" tvg-id="" tvg-name="24HRS SITIO DO PICA-PAU AMARELO(ANTIGO) - 21" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS SITIO DO PICA-PAU AMARELO(ANTIGO) - 21
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRhNkdLfEZdvGKD4F0cWZnnObm8rBbjRwiJctNJ7YoCRk
+#EXTINF:-1 xui-id="4666680" tvg-id="" tvg-name="24HRS SONIC - 25" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS SONIC - 25
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRospi1PN4Dp_aZpQTzIUmR-cpRLS5FXYnmwmdHFEm9ou
+#EXTINF:-1 xui-id="4666681" tvg-id="" tvg-name="24HRS SOUTH PARK - 26" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS SOUTH PARK - 26
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRuQ6gNf5d4RZECn7iwHV28j8Ww5RDOx8C5hVooZTRsYQ
+#EXTINF:-1 xui-id="4666682" tvg-id="" tvg-name="24HRS SUPER AMIGOS - 28" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS SUPER AMIGOS - 28
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRtCIs5jOia_GmfiDxCLh6rUrYIH_knszPJI6t7L8F4R9
+#EXTINF:-1 xui-id="4666683" tvg-id="" tvg-name="24HRS SUPER SHOCK - 29" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS SUPER SHOCK - 29
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRhXVS0pz1DDu93sfvECX8Pe-cvstkRtaXXEtnIeFMMqS
+#EXTINF:-1 xui-id="4666684" tvg-id="" tvg-name="24HRS TARZAN - 34" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS TARZAN - 34
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRvROo6EBfJD1CvTJ9IzfFrSCYHRAeoBfQBt6k4AQeSut
+#EXTINF:-1 xui-id="4666685" tvg-id="" tvg-name="24HRS TELETUBBIES - 36" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS TELETUBBIES - 36
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRugsmra3WRhoLdFer0SbWr7NMljA94Rhs7rpQIyao_GW
+#EXTINF:-1 xui-id="4666686" tvg-id="" tvg-name="24HRS TESTE DE FIDELIDADE - 37" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS TESTE DE FIDELIDADE - 37
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRrJt5m2VmSwdPtLxxWtyzdQs4wDp1oZczaIIyFgcsPF-
+#EXTINF:-1 xui-id="4666687" tvg-id="" tvg-name="24HRS TRANSFORMERS - 43" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS TRANSFORMERS - 43
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRhvTtWULKsr7gbHRNZCv7bFz-85hHGLQDb7gncTsb554
+#EXTINF:-1 xui-id="4666688" tvg-id="" tvg-name="24HRS URSINHOS CARINHOSOS - 48" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS URSINHOS CARINHOSOS - 48
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRg12xTQsZl5lTL3sQpj7GzJTdza-DbNL2GsecsjWxTf4
+#EXTINF:-1 xui-id="4666689" tvg-id="" tvg-name="24HRS X-MEN -  49" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS X-MEN -  49
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRr_fI0OSKD50yvwWNpyxobqfxsFQoLDFiqUX3OPC4Meu
+#EXTINF:-1 xui-id="4666690" tvg-id="" tvg-name="24HRS ZÉ COMÉIA - 53" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HRS ZÉ COMÉIA - 53
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRth03HnTYpSrDdgFidHV0IjqRBmGEOEFgrDwxpfHr6iJ
+#EXTINF:-1 xui-id="4666691" tvg-id="" tvg-name="24HS: SMALLVILLE" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",24HS: SMALLVILLE
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRj3CCeAY4PehRK7_nBxuBn8sUks1q6hGchCHhaOOZ951
+#EXTINF:-1 xui-id="4238299" tvg-id="" tvg-name="3 Palavrinhas 24hs" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",3 Palavrinhas 24hs
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRgUVENdMMmM7k-ufW9DdEtkrBcbuUqUK9g4OLXFqBGAQ
+#EXTINF:-1 xui-id="4665769" tvg-id="" tvg-name="A FAZENDA 17 - CAMERA 01 FHD" tvg-logo="https://uploads.metropoles.com/wp-content/uploads/2020/08/21085858/A-fazenda-logo.jpg" group-title="F20 M5 A FAZENDA 17",A FAZENDA 17 - CAMERA 01 FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRgeg37HJNjIrMa_cyOYn2h3AHqWpDb19vGDgoaf5_k4G
+#EXTINF:-1 xui-id="4665770" tvg-id="" tvg-name="A FAZENDA 17 - CAMERA 01 HD" tvg-logo="https://uploads.metropoles.com/wp-content/uploads/2020/08/21085858/A-fazenda-logo.jpg" group-title="F20 M5 A FAZENDA 17",A FAZENDA 17 - CAMERA 01 HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRm4nEdFoJDWkmzy1yCLlPwtwipaacVkeZj0ubwCoua5l
+#EXTINF:-1 xui-id="4665771" tvg-id="" tvg-name="A FAZENDA 17 - CAMERA 02 FHD" tvg-logo="https://uploads.metropoles.com/wp-content/uploads/2020/08/21085858/A-fazenda-logo.jpg" group-title="F20 M5 A FAZENDA 17",A FAZENDA 17 - CAMERA 02 FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRkRfTDplzE_6BuBfBG8t06Rl29gLqGtkYJIgsqnFZa3i
+#EXTINF:-1 xui-id="4665772" tvg-id="" tvg-name="A FAZENDA 17 - CAMERA 02 HD" tvg-logo="https://uploads.metropoles.com/wp-content/uploads/2020/08/21085858/A-fazenda-logo.jpg" group-title="F20 M5 A FAZENDA 17",A FAZENDA 17 - CAMERA 02 HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRmJ29tAfMJuX6v5AnTyZkfzy3X4JMCqKIRDOAGxGwDdk
+#EXTINF:-1 xui-id="4665773" tvg-id="" tvg-name="A FAZENDA 17 - CAMERA 03 FHD" tvg-logo="https://uploads.metropoles.com/wp-content/uploads/2020/08/21085858/A-fazenda-logo.jpg" group-title="F20 M5 A FAZENDA 17",A FAZENDA 17 - CAMERA 03 FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRpLRIWla0clF74tMezqO29hTDMMEwJKHuEVXL5-gxqfz
+#EXTINF:-1 xui-id="4665774" tvg-id="" tvg-name="A FAZENDA 17 - CAMERA 03 FHD" tvg-logo="https://uploads.metropoles.com/wp-content/uploads/2020/08/21085858/A-fazenda-logo.jpg" group-title="F20 M5 A FAZENDA 17",A FAZENDA 17 - CAMERA 03 FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRi_6oWRXqoJ0o3WQSt4MY4OFJvTyPV5WmIWThPNg86wx
+#EXTINF:-1 xui-id="4665775" tvg-id="" tvg-name="A FAZENDA 17 - CAMERA 04 FHD" tvg-logo="https://uploads.metropoles.com/wp-content/uploads/2020/08/21085858/A-fazenda-logo.jpg" group-title="F20 M5 A FAZENDA 17",A FAZENDA 17 - CAMERA 04 FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRruIAT-UaVOpBeL0kkTHLtLaG212j08xcS8Wr9RLL64O
+#EXTINF:-1 xui-id="4665776" tvg-id="" tvg-name="A FAZENDA 17 - CAMERA 04 HD" tvg-logo="https://uploads.metropoles.com/wp-content/uploads/2020/08/21085858/A-fazenda-logo.jpg" group-title="F20 M5 A FAZENDA 17",A FAZENDA 17 - CAMERA 04 HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRkejV0OjTWkjcGYzeGdzkBlzJbUMhFDibMYd-HZNzLkc
+#EXTINF:-1 xui-id="4665777" tvg-id="" tvg-name="A FAZENDA 17 - CAMERA 05 FHD" tvg-logo="https://uploads.metropoles.com/wp-content/uploads/2020/08/21085858/A-fazenda-logo.jpg" group-title="F20 M5 A FAZENDA 17",A FAZENDA 17 - CAMERA 05 FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRlKbpEy9EbdChj6uEuGBydrvUnGuC2o5bbsiBGpKcP0f
+#EXTINF:-1 xui-id="4665778" tvg-id="" tvg-name="A FAZENDA 17 - CAMERA 05 HD" tvg-logo="https://uploads.metropoles.com/wp-content/uploads/2020/08/21085858/A-fazenda-logo.jpg" group-title="F20 M5 A FAZENDA 17",A FAZENDA 17 - CAMERA 05 HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRh7Annmy2FrvbcEMiJZOjMT5bpDzpiJuiQHD4dLIUQTO
+#EXTINF:-1 xui-id="4665779" tvg-id="" tvg-name="A FAZENDA 17 - CAMERA 06 FHD" tvg-logo="https://uploads.metropoles.com/wp-content/uploads/2020/08/21085858/A-fazenda-logo.jpg" group-title="F20 M5 A FAZENDA 17",A FAZENDA 17 - CAMERA 06 FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRvyl5vzPP8HgT5FIX7sOwjTRGqVLp4Jv0Vtgt1Z2jtkI
+#EXTINF:-1 xui-id="4665780" tvg-id="" tvg-name="A FAZENDA 17 - CAMERA 06 HD" tvg-logo="https://uploads.metropoles.com/wp-content/uploads/2020/08/21085858/A-fazenda-logo.jpg" group-title="F20 M5 A FAZENDA 17",A FAZENDA 17 - CAMERA 06 HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRnKvWYcqpNYZs6VhLPzohC1VmI24UVj7PttQ1RAGCY-K
+#EXTINF:-1 xui-id="4660438" tvg-id="" tvg-name="A FAZENDA 17 CAM 01" tvg-logo="https://uploads.metropoles.com/wp-content/uploads/2020/08/21085858/A-fazenda-logo.jpg" group-title="F20 M5 REALITY SHOW 2025",A FAZENDA 17 CAM 01
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRg5WsQrO6ZtREZz89Xb7UyVq5JVqBBA-1JRXaqgreqqc
+#EXTINF:-1 xui-id="4660439" tvg-id="" tvg-name="A FAZENDA 17 CAM 02" tvg-logo="https://uploads.metropoles.com/wp-content/uploads/2020/08/21085858/A-fazenda-logo.jpg" group-title="F20 M5 REALITY SHOW 2025",A FAZENDA 17 CAM 02
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRhxA6Jgw7MZyypkN0vFSLTik45LA1UYHXlf912tnKjiL
+#EXTINF:-1 xui-id="4660437" tvg-id="" tvg-name="A FAZENDA 17 CAM 03" tvg-logo="https://uploads.metropoles.com/wp-content/uploads/2020/08/21085858/A-fazenda-logo.jpg" group-title="F20 M5 REALITY SHOW 2025",A FAZENDA 17 CAM 03
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRjuc0DawpbaTbBVekzKnawmGKEovWhfb_Ron6aHMsNez
+#EXTINF:-1 xui-id="4660440" tvg-id="" tvg-name="A FAZENDA 17 CAM 04" tvg-logo="https://uploads.metropoles.com/wp-content/uploads/2020/08/21085858/A-fazenda-logo.jpg" group-title="F20 M5 REALITY SHOW 2025",A FAZENDA 17 CAM 04
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRhucKmYf0IsvnaQJFcEdjOuL4vlVqMZP5Q44KSSZjCFC
+#EXTINF:-1 xui-id="4660441" tvg-id="" tvg-name="A FAZENDA 17 CAM 05" tvg-logo="https://uploads.metropoles.com/wp-content/uploads/2020/08/21085858/A-fazenda-logo.jpg" group-title="F20 M5 REALITY SHOW 2025",A FAZENDA 17 CAM 05
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRu3H2xf_5pQ0odl0Y-PkqbGI0_0P5rHlsGDFsmx7edVc
+#EXTINF:-1 xui-id="4660442" tvg-id="" tvg-name="A FAZENDA 17 CAM 06" tvg-logo="https://uploads.metropoles.com/wp-content/uploads/2020/08/21085858/A-fazenda-logo.jpg" group-title="F20 M5 REALITY SHOW 2025",A FAZENDA 17 CAM 06
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRm1-e_j3tT94FIYl951mIwlxjg5D-WUio3UWBW_JLOc2
+#EXTINF:-1 xui-id="4238307" tvg-id="" tvg-name="A Feiticeira 24hs" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",A Feiticeira 24hs
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRqMSOGdUYYKe5sUr8EMqVRM48JK_X71LVOSR-VZgdSg4
+#EXTINF:-1 xui-id="4238300" tvg-id="" tvg-name="A Grande Familia 24hs" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",A Grande Familia 24hs
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRhY_NcxOcbFiWXAfI0uz2y8bHyReGi9cLQkhDwdLB0oM
+#EXTINF:-1 xui-id="4230933" tvg-id="AE.br" tvg-name="A&E 4K" tvg-logo="https://img.hotice.site/icones_channels/A&E.png" group-title="F20 M5 ⭐ 4K",A&E 4K
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRp7m4eeFJ69rm5ZaNyVPO7sea3jcng6l8ceOxdloungC
+#EXTINF:-1 xui-id="4230934" tvg-id="AE.br" tvg-name="A&E FHD" tvg-logo="https://img.hotice.site/icones_channels/A&E.png" group-title="F20 M5 ⏩ FILMES E SÉRIES",A&E FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRiuoqoZGSKJohAxLVIi4i6-5h0e2VCrmOcDEKHScCY4i
+#EXTINF:-1 xui-id="4230935" tvg-id="AE.br" tvg-name="A&E HD" tvg-logo="https://img.hotice.site/icones_channels/A&E.png" group-title="F20 M5 ⏩ FILMES E SÉRIES",A&E HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRnR97DcyvHTfFnGLs4UqDq-u1rhcfmRYfX0zcPFcWzsz
+#EXTINF:-1 xui-id="4230936" tvg-id="AE.br" tvg-name="A&E SD" tvg-logo="https://img.hotice.site/icones_channels/A&E.png" group-title="F20 M5 ⏩ FILMES E SÉRIES",A&E SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRta9ct-_iVz86P7smHDVtTv3d7cw_DFKroDV_gxE-MgI
+#EXTINF:-1 xui-id="4230940" tvg-id="AgroMais.br" tvg-name="AGROMAIS FHD" tvg-logo="https://img.hotice.site/icones_channels/AgroMais.png" group-title="F20 M5 ⭐ AGRO NEGOCIOS",AGROMAIS FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRuswt40ktu6XiyX00XRF_b8kQsEaQszADrOBHn4p1QK6
+#EXTINF:-1 xui-id="4230941" tvg-id="AgroMais.br" tvg-name="AGROMAIS HD" tvg-logo="https://img.hotice.site/icones_channels/AgroMais.png" group-title="F20 M5 ⭐ AGRO NEGOCIOS",AGROMAIS HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRg9aUbeqdofbVFZOebTpuWszLONevwccZ1hYXOVSU_5r
+#EXTINF:-1 xui-id="4230942" tvg-id="AgroMais.br" tvg-name="AGROMAIS SD" tvg-logo="https://img.hotice.site/icones_channels/AgroMais.png" group-title="F20 M5 ⭐ AGRO NEGOCIOS",AGROMAIS SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRvz8E4wP_oMgtxDkC18aAUyQbfdtHHUSMkxvK57yxXyq
+#EXTINF:-1 xui-id="4238222" tvg-id="" tvg-name="Aladdin 24hrs" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",Aladdin 24hrs
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRpimZUciSFas8QCGGhae5kExEjouPkvWbVk-clUGY1y3
+#EXTINF:-1 xui-id="4230943" tvg-id="AMC.br" tvg-name="AMC FHD" tvg-logo="https://img.hotice.site/icones_channels/AMC_HD.png" group-title="F20 M5 ⏩ FILMES E SÉRIES",AMC FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRpYbzwG4hNEZsxpIhxom0Poif9XsImbjFWhZa9VcPtZx
+#EXTINF:-1 xui-id="4230944" tvg-id="AMC.br" tvg-name="AMC FHD 4K" tvg-logo="https://img.hotice.site/icones_channels/AMC_HD.png" group-title="F20 M5 ⭐ 4K",AMC FHD 4K
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRuooEeU1Mv3H7ejmr5NoNczLL7iuFWokjYLU7lNOSwE_
+#EXTINF:-1 xui-id="4230945" tvg-id="AMC.br" tvg-name="AMC HD" tvg-logo="https://img.hotice.site/icones_channels/AMC_HD.png" group-title="F20 M5 ⏩ FILMES E SÉRIES",AMC HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRuDbZKmZzPAPLB8Lzd9TJivTu0cP0jz_JoHRI_N2FXjJ
+#EXTINF:-1 xui-id="4230946" tvg-id="AMC.br" tvg-name="AMC SD" tvg-logo="https://img.hotice.site/icones_channels/AMC_HD.png" group-title="F20 M5 ⏩ FILMES E SÉRIES",AMC SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRjnXzFeG9LnwfxHOPgO3IoEoUmQTjteoARglYipfn9vv
+#EXTINF:-1 xui-id="4230947" tvg-id="AnimalPlanet.br" tvg-name="ANIMAL PLANET 4K" tvg-logo="https://img.hotice.site/icones_channels/Animal_Planet_HD.png" group-title="F20 M5 ⭐ 4K",ANIMAL PLANET 4K
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRk0ie0a2AduKht4-M6K547hEAwJWSKZL8gp3vKzJNReA
+#EXTINF:-1 xui-id="4230948" tvg-id="AnimalPlanet.br" tvg-name="ANIMAL PLANET FHD" tvg-logo="https://img.hotice.site/icones_channels/Animal_Planet_HD.png" group-title="F20 M5 ⭐ DOCUMENTÁRIOS",ANIMAL PLANET FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRmunsuVn-js_3-9-k9CA1PZ3Z0lFUVjRkhiA_vOdPxRi
+#EXTINF:-1 xui-id="4230949" tvg-id="AnimalPlanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="https://img.hotice.site/icones_channels/Animal_Planet_HD.png" group-title="F20 M5 ⭐ DOCUMENTÁRIOS",ANIMAL PLANET HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRvyIlS2f4gGk9YwE9ygyCnJXsJgiaMvMpEVq9DOxpAlr
+#EXTINF:-1 xui-id="4230950" tvg-id="AnimalPlanet.br" tvg-name="ANIMAL PLANET SD" tvg-logo="https://img.hotice.site/icones_channels/Animal_Planet_HD.png" group-title="F20 M5 ⭐ DOCUMENTÁRIOS",ANIMAL PLANET SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRmX3fTWmmvUbT2NOvXK7bPxMve-VpsXLgkwq_jV-y5EV
+#EXTINF:-1 xui-id="4666692" tvg-id="" tvg-name="animes 24 horas" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",animes 24 horas
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRniw3k9gw1NCudMfFis-0U3VvHoOAT8yKj9XHIfzia3_
+#EXTINF:-1 xui-id="4230951" tvg-id="Arte1.br" tvg-name="ARTE 1 FHD" tvg-logo="https://img.hotice.site/icones_channels/Arte_1_HD.png" group-title="F20 M5 ⏩ FILMES E SÉRIES",ARTE 1 FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRn31kYfDUVYi-e-lswLu_UmENQJ5vmQdllBMj9c46eMC
+#EXTINF:-1 xui-id="4230952" tvg-id="Arte1.br" tvg-name="ARTE 1 HD" tvg-logo="https://img.hotice.site/icones_channels/Arte_1_HD.png" group-title="F20 M5 ⏩ FILMES E SÉRIES",ARTE 1 HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRr65UuLQJJMKLYFbQQFpNaPaYz8-3XkaSWrk04dUdbo1
+#EXTINF:-1 xui-id="4230953" tvg-id="Arte1.br" tvg-name="ARTE 1 SD" tvg-logo="https://img.hotice.site/icones_channels/Arte_1_HD.png" group-title="F20 M5 ⏩ FILMES E SÉRIES",ARTE 1 SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRvHxaWOI2myVtZy-HnBdtlcm6luHZEI7ex98vReJ29pY
+#EXTINF:-1 xui-id="4238223" tvg-id="" tvg-name="As Meninas Superpoderosas 24HS" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",As Meninas Superpoderosas 24HS
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRtcLrP70aUcZxGQ3er081hixpnjgrKrBambu061FzE9o
+#EXTINF:-1 xui-id="4230954" tvg-id="AXN.br" tvg-name="AXN 4K" tvg-logo="https://img.hotice.site/icones_channels/AXN_HD.png" group-title="F20 M5 ⭐ 4K",AXN 4K
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRhXBJ09p3bmLfemveNLj-ecZqGcIy7psgft8Ksnnyky3
+#EXTINF:-1 xui-id="4230955" tvg-id="AXN.br" tvg-name="AXN FHD" tvg-logo="https://img.hotice.site/icones_channels/AXN_HD.png" group-title="F20 M5 ⏩ FILMES E SÉRIES",AXN FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRlj93Fh4wYMsIN4y4T4pS6u-FYnS5VJhF3vR7ifMTLDl
+#EXTINF:-1 xui-id="4230956" tvg-id="AXN.br" tvg-name="AXN HD" tvg-logo="https://img.hotice.site/icones_channels/AXN_HD.png" group-title="F20 M5 ⏩ FILMES E SÉRIES",AXN HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRtgoZ004O_iIf-hgI6mnK2nQaQa0ymWKZ4w3ZJBcBRNi
+#EXTINF:-1 xui-id="4230957" tvg-id="AXN.br" tvg-name="AXN SD" tvg-logo="https://img.hotice.site/icones_channels/AXN_HD.png" group-title="F20 M5 ⏩ FILMES E SÉRIES",AXN SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRhgwr-HcxSnZBDZArQtIRTVoDwzsY1RYvjosD9qi6MUL
+#EXTINF:-1 xui-id="4230958" tvg-id="BandBahia.br" tvg-name="BAND BA - BAND BAHIA FHD" tvg-logo="https://img.hotice.site/icones_channels/BAND_HDTV.png" group-title="F20 M5 ⭐ BAND",BAND BA - BAND BAHIA FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRjbQCwUP5wfdMV5oao8JFBRTRjxPsJq3-MovRyM1zJwB
+#EXTINF:-1 xui-id="4230959" tvg-id="BandBahia.br" tvg-name="BAND BA - BAND BAHIA HD" tvg-logo="https://img.hotice.site/icones_channels/BAND_HDTV.png" group-title="F20 M5 ⭐ BAND",BAND BA - BAND BAHIA HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRmPUMMX-y5rwPIGVHtACOk_8liacPzz8DlIdLjqPLzBF
+#EXTINF:-1 xui-id="4230960" tvg-id="BandAmazonas.br" tvg-name="BAND CE - BAND CEARÁ FHD" tvg-logo="https://img.hotice.site/icones_channels/BAND_HDTV.png" group-title="F20 M5 ⭐ BAND",BAND CE - BAND CEARÁ FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRvJ3EIX8taa6C-5_cvU8KS2osmgBE8wNXeomNIUEEAFC
+#EXTINF:-1 xui-id="4230961" tvg-id="BandAmazonas.br" tvg-name="BAND CE - BAND CEARÁ HD" tvg-logo="https://img.hotice.site/icones_channels/BAND_HDTV.png" group-title="F20 M5 ⭐ BAND",BAND CE - BAND CEARÁ HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRssYEsn_wM8k3RI_S1oPr6_d499VSMWrFFscY4cxKDKe
+#EXTINF:-1 xui-id="4230968" tvg-id="br#band-minas" tvg-name="BAND MG - MINAS GERAIS FHD" tvg-logo="https://img.hotice.site/icones_channels/BAND_HDTV.png" group-title="F20 M5 ⭐ BAND",BAND MG - MINAS GERAIS FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRjJIxVUeo6bebXkV06zNvLyQtJlFDG2tE8mipPsB8uHu
+#EXTINF:-1 xui-id="4230969" tvg-id="br#band-minas" tvg-name="BAND MG - MINAS GERAIS HD" tvg-logo="https://img.hotice.site/icones_channels/BAND_HDTV.png" group-title="F20 M5 ⭐ BAND",BAND MG - MINAS GERAIS HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRsUqYAFa7yw67k8m6pXD7FjKWTikLAxhDki1bNSEEOpv
+#EXTINF:-1 xui-id="4230970" tvg-id="br#band-minas" tvg-name="BAND MG - MINAS GERAIS SD" tvg-logo="https://img.hotice.site/icones_channels/BAND_HDTV.png" group-title="F20 M5 ⭐ BAND",BAND MG - MINAS GERAIS SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRj-5r5F_DJr7LeDjwUBcFrtzoQyg0iOvsEf36gP7JVsg
+#EXTINF:-1 xui-id="4230971" tvg-id="BandNews.br" tvg-name="BAND NEWS FHD" tvg-logo="https://img.hotice.site/icones_channels/BAND_NEWS.png" group-title="F20 M5 ⭐ NOTÍCIAS",BAND NEWS FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRg7x2ltR29z_F9ru3oFFMOo0aEvxy-fxTMBBkdo4bTaX
+#EXTINF:-1 xui-id="4230972" tvg-id="BandNews.br" tvg-name="BAND NEWS HD" tvg-logo="https://img.hotice.site/icones_channels/BAND_NEWS.png" group-title="F20 M5 ⭐ NOTÍCIAS",BAND NEWS HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRsuHgJW7UKj9bpXAORPOQELh-DqBi2bwnpcAsMZVfwQc
+#EXTINF:-1 xui-id="4230973" tvg-id="BandNews.br" tvg-name="BAND NEWS SD" tvg-logo="https://img.hotice.site/icones_channels/BAND_NEWS.png" group-title="F20 M5 ⭐ NOTÍCIAS",BAND NEWS SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRmHzhyYTTs8Fxv0PFjfet933uHf0ZYR5xeQX35aXZgH2
+#EXTINF:-1 xui-id="4230978" tvg-id="br#band-rio" tvg-name="BAND RIO DE JANEIRO 4K" tvg-logo="https://img.hotice.site/icones_channels/BAND_HDTV.png" group-title="F20 M5 ⭐ 4K",BAND RIO DE JANEIRO 4K
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRsEHprNG0xoDpBYbFoBdG2u7yVeVVIfDdZXjAkFswTTZ
+#EXTINF:-1 xui-id="4230979" tvg-id="br#band-rio" tvg-name="BAND RJ - BAND RIO FHD" tvg-logo="https://img.hotice.site/icones_channels/BAND_HDTV.png" group-title="F20 M5 ⭐ BAND",BAND RJ - BAND RIO FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRpjxAGoq1-xs2F5q1PFm4PIfMjgr_KNGTGvzUwHyZHQj
+#EXTINF:-1 xui-id="4230980" tvg-id="br#band-rio" tvg-name="BAND RJ - BAND RIO HD" tvg-logo="https://img.hotice.site/icones_channels/BAND_HDTV.png" group-title="F20 M5 ⭐ BAND",BAND RJ - BAND RIO HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRn7avPAbAuE7_UUmTIKPKHEYAdKxNZtMSZBhTz7V3uyK
+#EXTINF:-1 xui-id="4230983" tvg-id="br#band-rio-grande-do-sul-hd" tvg-name="BAND RS - BAND RIO GRANDE DO SUL FHD" tvg-logo="https://img.hotice.site/icones_channels/BAND_HDTV.png" group-title="F20 M5 ⭐ BAND",BAND RS - BAND RIO GRANDE DO SUL FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRi_k4bMXGgjS1NnF0wTAfX6qiU6r4ZSyOj6lji8VDH7o
+#EXTINF:-1 xui-id="4230984" tvg-id="br#band-rio-grande-do-sul-hd" tvg-name="BAND RS - BAND RIO GRANDE DO SUL HD" tvg-logo="https://img.hotice.site/icones_channels/BAND_HDTV.png" group-title="F20 M5 ⭐ BAND",BAND RS - BAND RIO GRANDE DO SUL HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRqFvxq-DypTIk2KnD6E1bFT-8XAD6X8pM_iuGSRuZROu
+#EXTINF:-1 xui-id="4230985" tvg-id="BandSaoPaulo.br" tvg-name="BAND SAO PAULO 4K" tvg-logo="https://img.hotice.site/icones_channels/BAND_HDTV.png" group-title="F20 M5 ⭐ 4K",BAND SAO PAULO 4K
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRjj1tT5i8ZTsLTklWurdJumLc4SRFOPtcl4EsJdHxv7D
+#EXTINF:-1 xui-id="4230986" tvg-id="br#band" tvg-name="BAND SP - BAND CAMPINAS FHD" tvg-logo="https://img.hotice.site/icones_channels/BAND_HDTV.png" group-title="F20 M5 ⭐ BAND",BAND SP - BAND CAMPINAS FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRuq8cjFEBoSGS-412Io1hZ9GEhNnsx4st2tbDuDwFW83
+#EXTINF:-1 xui-id="4230987" tvg-id="24HAnimes" tvg-name="BAND SP - BAND CAMPINAS HD" tvg-logo="https://img.hotice.site/icones_channels/BAND_HDTV.png" group-title="F20 M5 ⭐ BAND",BAND SP - BAND CAMPINAS HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRgJ9uKWAecg8oSvlOWC_xLvPTESFYx00neKO62m6RUlX
+#EXTINF:-1 xui-id="4230988" tvg-id="BandSaoPaulo.br" tvg-name="BAND SP - BAND SAO PAULO FHD" tvg-logo="https://img.hotice.site/icones_channels/BAND_HDTV.png" group-title="F20 M5 ⭐ BAND",BAND SP - BAND SAO PAULO FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRvVWDUfcKkbiILJLLNmE0Y7W4bTFY4Mp4m4LgEpFiCtw
+#EXTINF:-1 xui-id="4230989" tvg-id="BandSaoPaulo.br" tvg-name="BAND SP - BAND SAO PAULO HD" tvg-logo="https://img.hotice.site/icones_channels/BAND_HDTV.png" group-title="F20 M5 ⭐ BAND",BAND SP - BAND SAO PAULO HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRgDliZk1SU08ZV5TFprfCNHhM7eOTkXT_7A1LrIjXSgd
+#EXTINF:-1 xui-id="4230990" tvg-id="BandSaoPaulo.br" tvg-name="BAND SP - BAND SAO PAULO SD" tvg-logo="http://longitudenow.site:80/images/9Nw9RlbJeU65ur_Bg0WfbA_AvdqbS_5PqAvxP8EonbpFBd5gzPCauemph3nucxTiIi35k3UckCjSiqyZd1lRIg.png" group-title="F20 M5 ⭐ BAND",BAND SP - BAND SAO PAULO SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRtCyph6bA5W6gg813CQ6_RAm_AVLWMHw5B_xNRsnvgju
+#EXTINF:-1 xui-id="4665781" tvg-id="BandSports.br" tvg-name="BAND SPORTS FHD" tvg-logo="https://img.hotice.site/icones_channels/BAND_Sports_HD.png" group-title="F20 M5 ESPORTES",BAND SPORTS FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRuPXFlzbM3L8uwZ2_gQtkxzxBc4ECxiaacrlCYtUULDb
+#EXTINF:-1 xui-id="4665782" tvg-id="BandSports.br" tvg-name="BAND SPORTS HD" tvg-logo="https://img.hotice.site/icones_channels/BAND_Sports_HD.png" group-title="F20 M5 ESPORTES",BAND SPORTS HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRhbO-mrwvoTQWwYDT95yO8ewt5YxCCgDvobF7dVBYhBB
+#EXTINF:-1 xui-id="4665783" tvg-id="BandSports.br" tvg-name="BAND SPORTS SD" tvg-logo="https://img.hotice.site/icones_channels/BAND_Sports_HD.png" group-title="F20 M5 ESPORTES",BAND SPORTS SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRnrwGzVdqNkCLRkW5N1zHd_mKFuo8XPHKDkYjMphO52W
+#EXTINF:-1 xui-id="4238224" tvg-id="" tvg-name="BEN 10 24HS" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",BEN 10 24HS
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRk86VxILbKJLW2rw9-ZBKhb9pCw-_-fxzNkd0wFoVws7
+#EXTINF:-1 xui-id="4230995" tvg-id="Bis.br" tvg-name="BIS FHD" tvg-logo="https://img.hotice.site/icones_channels/BIS_HD.png" group-title="F20 M5 ⭐ VARIEDADES",BIS FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRpU66h2BEpYaMijprPgOysQC4HHBhzBzTVLWlR-0duzA
+#EXTINF:-1 xui-id="4230996" tvg-id="Bis.br" tvg-name="BIS HD" tvg-logo="https://img.hotice.site/icones_channels/BIS_HD.png" group-title="F20 M5 ⭐ VARIEDADES",BIS HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRuQS5SvUpZNg93FM1ZRwsmc1Jr6Zo6BLWPE5LRLJFKZN
+#EXTINF:-1 xui-id="4238302" tvg-id="" tvg-name="Bita e os Animais 24hrs" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",Bita e os Animais 24hrs
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRu4M4yL7vLHctuApid9NMF2O4dTcb68c28TF5h1or9Fl
+#EXTINF:-1 xui-id="4238225" tvg-id="" tvg-name="BOB ESPONJA 24HS" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",BOB ESPONJA 24HS
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRiSNnqmVwYZqgsVA4tVRCWp3TVD3U8Ofw1_TdbvaY03c
+#EXTINF:-1 xui-id="4238322" tvg-id="" tvg-name="BREAKING BAD 24HRS" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",BREAKING BAD 24HRS
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRl_-Rg3S7Klgm8QCnXbxDTvvNhKG4iYWg6aEWk8xYhZ8
+#EXTINF:-1 xui-id="4238226" tvg-id="" tvg-name="Breaking Bad 24hs" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",Breaking Bad 24hs
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRgyRM15GnKsKy2V2CAJ6QNw5vS6X345EmZ52OuNhDaAZ
+#EXTINF:-1 xui-id="4230999" tvg-id="br#canal-brasil-hd" tvg-name="CANAL BRASIL 4K" tvg-logo="https://img.hotice.site/icones_channels/CANAL_BRASIL_HD.png" group-title="F20 M5 ⭐ 4K",CANAL BRASIL 4K
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRo_nTjNxGEe9b2EHSKR-x7cCKI5qO09XZ3mggKu9DKOA
+#EXTINF:-1 xui-id="4231000" tvg-id="br#canal-brasil-hd" tvg-name="CANAL BRASIL FHD" tvg-logo="https://img.hotice.site/icones_channels/CANAL_BRASIL_HD.png" group-title="F20 M5 ⭐ ABERTOS",CANAL BRASIL FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRncCIhsdJtpWAn_4iQrq8HTAV3okI-4e6UiNSIbF_-J1
+#EXTINF:-1 xui-id="4231001" tvg-id="br#canal-brasil-hd" tvg-name="CANAL BRASIL HD" tvg-logo="https://img.hotice.site/icones_channels/CANAL_BRASIL_HD.png" group-title="F20 M5 ⭐ ABERTOS",CANAL BRASIL HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRlP9QLQu0kGqjFz9jaLUoCz7H78BbDvgsu8JPB_1M_hM
+#EXTINF:-1 xui-id="4231002" tvg-id="br#canal-brasil-hd" tvg-name="CANAL BRASIL SD" tvg-logo="https://img.hotice.site/icones_channels/CANAL_BRASIL_HD.png" group-title="F20 M5 ⭐ ABERTOS",CANAL BRASIL SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRpjbxwM6lfB8N3bXJsX-2UqlE2TpMLD-suO7sgBw176x
+#EXTINF:-1 xui-id="4231003" tvg-id="CanaldoBoi.br" tvg-name="CANAL DO BOI FHD" tvg-logo="https://img.hotice.site/icones_channels/Canal_do_Boi_HD.png" group-title="F20 M5 ⭐ AGRO NEGOCIOS",CANAL DO BOI FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRnX7GEz00gN9sNhggKeY-nPuNTm_h0GmOM8Kx5pWNDzP
+#EXTINF:-1 xui-id="4231004" tvg-id="CanaldoBoi.br" tvg-name="CANAL DO BOI HD" tvg-logo="https://img.hotice.site/icones_channels/Canal_do_Boi_HD.png" group-title="F20 M5 ⭐ AGRO NEGOCIOS",CANAL DO BOI HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRpW1DIgni2bStA1X2v05szLCis_TsnaCe_q2VLHbfm_x
+#EXTINF:-1 xui-id="4231005" tvg-id="CanaldoBoi.br" tvg-name="CANAL DO BOI SD" tvg-logo="https://img.hotice.site/icones_channels/Canal_do_Boi_HD.png" group-title="F20 M5 ⭐ AGRO NEGOCIOS",CANAL DO BOI SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRoyrwXrfWBfBgpvQvVO2VdEmjlUBBJ5IHXbNvbUR4wwY
+#EXTINF:-1 xui-id="4231006" tvg-id="CanalFutura.br" tvg-name="CANAL FUTURA FHD" tvg-logo="https://img.hotice.site/icones_channels/Futura.png" group-title="F20 M5 ⭐ ABERTOS",CANAL FUTURA FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRr79GXNDag9OCllMcgBYVRER7UvnL2AZv6Jmcl8PW078
+#EXTINF:-1 xui-id="4231007" tvg-id="CanalFutura.br" tvg-name="CANAL FUTURA HD" tvg-logo="https://img.hotice.site/icones_channels/Futura.png" group-title="F20 M5 ⭐ ABERTOS",CANAL FUTURA HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRuF3zDmCP61rThiv7oGoh0of98knin7_Hrg5QLjfvTer
+#EXTINF:-1 xui-id="4231008" tvg-id="br#viva-hd" tvg-name="CANAL GLOBOPLAY NOVELAS FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ CANAIS NOVELAS",CANAL GLOBOPLAY NOVELAS FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRvPyD_FfzM8Oi-onW_sMR0S6JDGaMek7Wtouon74lDlJ
+#EXTINF:-1 xui-id="4231009" tvg-id="CanalViva.br" tvg-name="CANAL GLOBOPLAY NOVELAS HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ CANAIS NOVELAS",CANAL GLOBOPLAY NOVELAS HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRpyYFr-6i-N2q6humUWOf6Dm4YcWg3hEfzy6zRTQXMMd
+#EXTINF:-1 xui-id="4231010" tvg-id="br#viva-hd" tvg-name="CANAL GLOBOPLAY NOVELAS SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ CANAIS NOVELAS",CANAL GLOBOPLAY NOVELAS SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRjhu85uJasIJPWXgB5HmZWROBj2gSu5demC6FM8DWu6i
+#EXTINF:-1 xui-id="4665784" tvg-id="" tvg-name="CANAL GOAT 01 HD" tvg-logo="https://img.hotice.site/icones_channels/Canal_GOAT.png" group-title="F20 M5 ESPORTES PPV",CANAL GOAT 01 HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRoDmXK74-x-Le-XmedOvREWoNTfF8UAJmbkukXjov3ik
+#EXTINF:-1 xui-id="4665785" tvg-id="" tvg-name="CANAL GOAT 02 HD" tvg-logo="https://img.hotice.site/icones_channels/Canal_GOAT_2.png" group-title="F20 M5 ESPORTES PPV",CANAL GOAT 02 HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRuDrmhgAt9Ld5aJtDX1avwR2Ri4X_4ubX-RMrSPdqjZt
+#EXTINF:-1 xui-id="4665786" tvg-id="" tvg-name="CANAL OFF FHD" tvg-logo="https://img.hotice.site/icones_channels/OFF_HD.png" group-title="F20 M5 ️ESPORTES RADICAIS",CANAL OFF FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRoytm_M10nQXuLsn_qiNQeHTyDOa_gFuj-30r39NdYLe
+#EXTINF:-1 xui-id="4665787" tvg-id="CanalOff.br" tvg-name="CANAL OFF HD" tvg-logo="https://img.hotice.site/icones_channels/OFF_HD.png" group-title="F20 M5 ️ESPORTES RADICAIS",CANAL OFF HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRpHSJDu8Nq2A0jBlpDYtQaJACegksodebET86IoOcidW
+#EXTINF:-1 xui-id="4665788" tvg-id="CanalOff.br" tvg-name="CANAL OFF SD" tvg-logo="https://img.hotice.site/icones_channels/OFF_HD.png" group-title="F20 M5 ️ESPORTES RADICAIS",CANAL OFF SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRsykEm0QIx_hzIOjadnmtxDiu4u8QMEpT-Fo0huasSmx
+#EXTINF:-1 xui-id="4231017" tvg-id="RedeTV.br" tvg-name="CANAL REDE TV FHD" tvg-logo="https://img.hotice.site/icones_channels/Rede_TV!_HD.png" group-title="F20 M5 ⭐ ABERTOS",CANAL REDE TV FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRhIE6GL5ruMqVKdXxJuizzcD21FQgKVnwKptcF1ve5Qh
+#EXTINF:-1 xui-id="4231018" tvg-id="RedeTV.br" tvg-name="CANAL REDE TV HD" tvg-logo="https://img.hotice.site/icones_channels/Rede_TV!_HD.png" group-title="F20 M5 ⭐ ABERTOS",CANAL REDE TV HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRqmpohY3FUdJXzhG8eB5MIu0JoThcuUTCbJgmRchhPKM
+#EXTINF:-1 xui-id="4231019" tvg-id="CanalRural.br" tvg-name="CANAL RURAL FHD" tvg-logo="https://img.hotice.site/icones_channels/Canal_Rural.png" group-title="F20 M5 ⭐ AGRO NEGOCIOS",CANAL RURAL FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRozWuJKJ_6nghjnscHCvwGIIQBcPA_h04Gepwvi9XHO6
+#EXTINF:-1 xui-id="4231020" tvg-id="CanalRural.br" tvg-name="CANAL RURAL HD" tvg-logo="https://img.hotice.site/icones_channels/Canal_Rural.png" group-title="F20 M5 ⭐ AGRO NEGOCIOS",CANAL RURAL HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRte86as1Jt9LYMAlfDBxTOxbcl8JdasYwOE2c-5aF2x4
+#EXTINF:-1 xui-id="4231021" tvg-id="CanalRural.br" tvg-name="CANAL RURAL SD" tvg-logo="https://img.hotice.site/icones_channels/Canal_Rural.png" group-title="F20 M5 ⭐ AGRO NEGOCIOS",CANAL RURAL SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRtJ-7ehHKF--Ff4qIofMDORpdVWpdtQzKI-kzwOyo2xB
+#EXTINF:-1 xui-id="4231022" tvg-id="TNTNovelas.br" tvg-name="CANAL TNT NOVELAS FHD" tvg-logo="https://img.hotice.site/icones_channels/TNT_Novelas_HD.png" group-title="F20 M5 ⭐ CANAIS NOVELAS",CANAL TNT NOVELAS FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRnsXJFexlitJo-JO3nO-cSRF_cIhsxkJzzBeTnTRq7Nd
+#EXTINF:-1 xui-id="4231023" tvg-id="TNTNovelas.br" tvg-name="CANAL TNT NOVELAS HD" tvg-logo="https://img.hotice.site/icones_channels/TNT_Novelas_HD.png" group-title="F20 M5 ⭐ CANAIS NOVELAS",CANAL TNT NOVELAS HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRm7XMzN_nMNQybt-aCKygbfzTGDvGIF_vRgIKXu0_yct
+#EXTINF:-1 xui-id="4231024" tvg-id="TNTNovelas.br" tvg-name="CANAL TNT NOVELAS SD" tvg-logo="https://img.hotice.site/icones_channels/TNT_Novelas_HD.png" group-title="F20 M5 ⭐ CANAIS NOVELAS",CANAL TNT NOVELAS SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRmwWcxhFpaHpUxgbTBrSwEY2qkyNIqnDseaT3JSEnJiL
+#EXTINF:-1 xui-id="4231027" tvg-id="br#canal-brasil-hd" tvg-name="CANAL TV BRASIL FHD" tvg-logo="https://img.hotice.site/icones_channels/TV_Brasil__Esperança.png" group-title="F20 M5 ⭐ ABERTOS",CANAL TV BRASIL FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRrgTNVRSVPLHt6pTouHxfJ0d34X3SKJV2CXm2FBYxz1s
+#EXTINF:-1 xui-id="4231028" tvg-id="br#canal-brasil-hd" tvg-name="CANAL TV BRASIL HD" tvg-logo="https://img.hotice.site/icones_channels/TV_Brasil__Esperança.png" group-title="F20 M5 ⭐ ABERTOS",CANAL TV BRASIL HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRuSPTSMLuo26q4ylJsDf4G3tgXW8XDYdQPR6VxsNs_lF
+#EXTINF:-1 xui-id="4231029" tvg-id="br#cultura-hd" tvg-name="CANAL TV CULTURA FHD" tvg-logo="https://img.hotice.site/icones_channels/TV_Cultura.png" group-title="F20 M5 ⭐ ABERTOS",CANAL TV CULTURA FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRokCazHufxWavYkZnwdzq6hCVJA1_gBnggoM0gUz4nKy
+#EXTINF:-1 xui-id="4231030" tvg-id="br#cultura-hd" tvg-name="CANAL TV CULTURA HD" tvg-logo="https://img.hotice.site/icones_channels/TV_Cultura.png" group-title="F20 M5 ⭐ ABERTOS",CANAL TV CULTURA HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRp0zA3PylVaY2aCMj1qHW8kF6h6BPtbzCQSW5TwKnib8
+#EXTINF:-1 xui-id="4231031" tvg-id="br#gazeta-hd" tvg-name="CANAL TV GAZETA FHD" tvg-logo="https://img.hotice.site/icones_channels/Gazeta_HD.png" group-title="F20 M5 ⭐ ABERTOS",CANAL TV GAZETA FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRhHcRVnKdkyyNum_iiSfW7YwRtjR-cuiZ6h5mhYtFfUM
+#EXTINF:-1 xui-id="4231032" tvg-id="br#gazeta-hd" tvg-name="CANAL TV GAZETA HD" tvg-logo="https://img.hotice.site/icones_channels/Gazeta_HD.png" group-title="F20 M5 ⭐ ABERTOS",CANAL TV GAZETA HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRihI2TcvwGC9WFA2BGYTh2A9gz5wVl2byUx0i1r8Cr_6
+#EXTINF:-1 xui-id="4231033" tvg-id="24HAnimes" tvg-name="CANAL TV SENADO FHD" tvg-logo="https://img.hotice.site/icones_channels/TV_Senado.png" group-title="F20 M5 ⭐ ABERTOS",CANAL TV SENADO FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRuO6NTx9toJy96l_amkG9m1Ium9dB-KZhKm5VV5HtsW3
+#EXTINF:-1 xui-id="4231034" tvg-id="TVSenado.br" tvg-name="CANAL TV SENADO HD" tvg-logo="https://img.hotice.site/icones_channels/TV_Senado.png" group-title="F20 M5 ⭐ ABERTOS",CANAL TV SENADO HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRrP2KVPNACU2zRMSrPbPVO7jR2m6p2V9Wpk7X3EB1Rm1
+#EXTINF:-1 xui-id="4231035" tvg-id="TVEBahia.br" tvg-name="CANAL TVE FHD" tvg-logo="https://img.hotice.site/icones_channels/TVE.png" group-title="F20 M5 ⭐ ABERTOS",CANAL TVE FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRvJKYLcWatQ92CcU4frQJzIaQSpHSlwf06JmI048vK4y
+#EXTINF:-1 xui-id="4231036" tvg-id="TVEBahia.br" tvg-name="CANAL TVE HD" tvg-logo="https://img.hotice.site/icones_channels/TVE.png" group-title="F20 M5 ⭐ ABERTOS",CANAL TVE HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRujHpH3xfySjM-C9Aa2AWPCfxwPlpo7kerEdyQ0Dh4v6
+#EXTINF:-1 xui-id="4231037" tvg-id="br#canc-o-nova-hd" tvg-name="CANÇÃO NOVA FHD" tvg-logo="https://img.hotice.site/icones_channels/Cancao_Nova.png" group-title="F20 M5 ⭐ RELIGIOSOS",CANÇÃO NOVA FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRuCeXNkzHLDhwB5VtX_WHfi8-zCjCy-mipoQgFPn9IxX
+#EXTINF:-1 xui-id="4231038" tvg-id="br#canc-o-nova-hd" tvg-name="CANÇÃO NOVA HD" tvg-logo="https://img.hotice.site/icones_channels/Cancao_Nova.png" group-title="F20 M5 ⭐ RELIGIOSOS",CANÇÃO NOVA HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRrGC-iFshwcFe2jaNfCYV85wHxk-gMSrdKrWrnv9yo0t
+#EXTINF:-1 xui-id="4238227" tvg-id="" tvg-name="CAO CORAGEM 24HS" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",CAO CORAGEM 24HS
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRo0lCd0qYRKut30XFEjjTqM1ABBDLLWfDkMhaiegx25S
+#EXTINF:-1 xui-id="4231039" tvg-id="CartoonNetwork.br" tvg-name="CARTOON NETWORK FHD" tvg-logo="https://img.hotice.site/icones_channels/Cartoon_Network_HD.png" group-title="F20 M5 ⭐ INFANTIL",CARTOON NETWORK FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRlgqxJrf5JSBKujkkyS1DTqibRyirdjoAVrP1PlqiNbl
+#EXTINF:-1 xui-id="4231040" tvg-id="CartoonNetwork.br" tvg-name="CARTOON NETWORK HD" tvg-logo="https://img.hotice.site/icones_channels/Cartoon_Network_HD.png" group-title="F20 M5 ⭐ INFANTIL",CARTOON NETWORK HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRgVtFe76T-_JTBdIQ3x0vyTPdyd-gw8QqfTYj10MSVpD
+#EXTINF:-1 xui-id="4231041" tvg-id="CartoonNetwork.br" tvg-name="CARTOON NETWORK SD" tvg-logo="https://img.hotice.site/icones_channels/Cartoon_Network_HD.png" group-title="F20 M5 ⭐ INFANTIL",CARTOON NETWORK SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRtZIT8KFbvnzXc7QXC6b2rMD747oig15J_OjQZHbo_zU
+#EXTINF:-1 xui-id="4231042" tvg-id="Cartoonito.br" tvg-name="CARTOONITO FHD" tvg-logo="https://img.hotice.site/icones_channels/Cartoonito.png" group-title="F20 M5 ⭐ INFANTIL",CARTOONITO FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRl2rI9Ah41mC-OZm78GHezx1V5v6Z2Ge1FN0jtOtZVj-
+#EXTINF:-1 xui-id="4231043" tvg-id="Cartoonito.br" tvg-name="CARTOONITO HD" tvg-logo="https://img.hotice.site/icones_channels/Cartoonito.png" group-title="F20 M5 ⭐ INFANTIL",CARTOONITO HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRtw5ubF6ZlWVqMH5GQGWP9Rc4fbYcn5gC5ys2LhHjIx1
+#EXTINF:-1 xui-id="4238320" tvg-id="" tvg-name="CAVERNA DO DRAGAO 24HRS" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",CAVERNA DO DRAGAO 24HRS
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRub4aS0ONhRCh8r3L5SShl8qOaZOHPZ8xGcU1DY5Bo8r
+#EXTINF:-1 xui-id="4238228" tvg-id="" tvg-name="Caverna do Dragão 24HS" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",Caverna do Dragão 24HS
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRnG6ADsQXxJScGiI4z3eIHa9vWDgSLNXA40tj9cGfUe_
+#EXTINF:-1 xui-id="4665789" tvg-id="" tvg-name="CAZÉ TV (YOUTUBE)" tvg-logo="https://img.hotice.site/icones_channels/CazeTV.png" group-title="F20 M5 ESPORTES PPV",CAZÉ TV (YOUTUBE)
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRjw3BC0ooToNXNskF3qR6sxFYCaFTB-2On2dyWc0XIJl
+#EXTINF:-1 xui-id="4665790" tvg-id="" tvg-name="CAZÉ TV 01 FHD" tvg-logo="https://img.hotice.site/icones_channels/CazeTV.png" group-title="F20 M5 ESPORTES PPV",CAZÉ TV 01 FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRufcQFwEhzHRrMNTxEjyQoS3UjishBqaaHC4tQQAU0Yx
+#EXTINF:-1 xui-id="4665791" tvg-id="" tvg-name="CAZÉ TV 01 HD" tvg-logo="https://img.hotice.site/icones_channels/CazeTV.png" group-title="F20 M5 ESPORTES PPV",CAZÉ TV 01 HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRrbGr-jmrcEacx_5Nohfxn-0wuVBs1hBosxi9CdmlP9k
+#EXTINF:-1 xui-id="4665792" tvg-id="" tvg-name="CAZÉ TV 02 FHD" tvg-logo="https://img.hotice.site/icones_channels/CazeTV.png" group-title="F20 M5 ESPORTES PPV",CAZÉ TV 02 FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRthdgvq4aGFAMH84JmQY22fpNCC3TXQ3K0NdeSyahOzQ
+#EXTINF:-1 xui-id="4665793" tvg-id="" tvg-name="CAZÉ TV 02 HD" tvg-logo="https://img.hotice.site/icones_channels/CazeTV.png" group-title="F20 M5 ESPORTES PPV",CAZÉ TV 02 HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRk7HKdFyX7OWh0NF1rk-wOEMgmp7MbUSlBo29P3XfdD0
+#EXTINF:-1 xui-id="4665794" tvg-id="" tvg-name="CAZÉ TV 03 HD" tvg-logo="https://img.hotice.site/icones_channels/CazeTV.png" group-title="F20 M5 ESPORTES PPV",CAZÉ TV 03 HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRpy9WAvOIMNBxwD1mFQ_c6_rfjogvd-xjC8UXj1oiQIV
+#EXTINF:-1 xui-id="4238316" tvg-id="" tvg-name="CENTRAL KIDS 24HRS" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",CENTRAL KIDS 24HRS
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRinPPQA1ChEcCT9Mt5w84WnNtZbFSDrBdA97prxEe96V
+#EXTINF:-1 xui-id="4238229" tvg-id="" tvg-name="Chapolin Colorado 24hs" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",Chapolin Colorado 24hs
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRs-cM9jaZ0y3RugrQGBjlHtkGvw-TyPbgSpru_sQK5Mz
+#EXTINF:-1 xui-id="4238230" tvg-id="" tvg-name="CHAVES 24HS" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",CHAVES 24HS
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRpmnXEmmzjShnVaF2go4TqPmkgVw69Rc1E1YFGQ0ZVcq
+#EXTINF:-1 xui-id="4238231" tvg-id="" tvg-name="CHAVES DESENHO 24HS" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",CHAVES DESENHO 24HS
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRrCyq7A84Og7r_Xr3JqM9Rm5WqaeI0Nn1J9uzWAVzhAO
+#EXTINF:-1 xui-id="4231053" tvg-id="Cine Sky 1" tvg-name="CINE SKY 01" tvg-logo="https://img.inboxbr.pro/icones_channels/CineSKY.png" group-title="F20 M5 ⭐ CINE SKY",CINE SKY 01
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRqYVTV8CoBXvWyIoT0efoAcjjpE8Ebe9pvpKT1Q7XdiG
+#EXTINF:-1 xui-id="4231054" tvg-id="Cine Sky 2" tvg-name="CINE SKY 02" tvg-logo="https://img.inboxbr.pro/icones_channels/CineSKY.png" group-title="F20 M5 ⭐ CINE SKY",CINE SKY 02
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRht2zn5EErxABqBewXdDCStfUGlHmIUIEfMUAQngI6uW
+#EXTINF:-1 xui-id="4231055" tvg-id="Cine Sky 3" tvg-name="CINE SKY 03" tvg-logo="https://img.inboxbr.pro/icones_channels/CineSKY.png" group-title="F20 M5 ⭐ CINE SKY",CINE SKY 03
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRjFG1A4ka7ACms_DgrDbntcHl73MSBeB3SaNcG3pZctr
+#EXTINF:-1 xui-id="4231056" tvg-id="Cine Sky 4" tvg-name="CINE SKY 04" tvg-logo="https://img.inboxbr.pro/icones_channels/CineSKY.png" group-title="F20 M5 ⭐ CINE SKY",CINE SKY 04
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRu1sSHccsVoRDGFhf-jXUBwN_Xb3IV3FtWr3EUMT4UwQ
+#EXTINF:-1 xui-id="4231057" tvg-id="Cine Sky 5" tvg-name="CINE SKY 05" tvg-logo="https://img.inboxbr.pro/icones_channels/CineSKY.png" group-title="F20 M5 ⭐ CINE SKY",CINE SKY 05
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRlwSkiErlGN_Ks4nIP32XhF9NDurtHJoC1uTcMQz0F9F
+#EXTINF:-1 xui-id="4231063" tvg-id="br#cinemax-1" tvg-name="CINEMAX 4K" tvg-logo="https://img.hotice.site/icones_channels/CineMax_HD.png" group-title="F20 M5 ⭐ 4K",CINEMAX 4K
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRmIcpKU65yv2wnD-pHuU_DmoQOq8nmoaWHPBAlR6odsv
+#EXTINF:-1 xui-id="4231064" tvg-id="br#cinemax-1" tvg-name="CINEMAX FHD" tvg-logo="https://img.hotice.site/icones_channels/CineMax_HD.png" group-title="F20 M5 ⏩ FILMES E SÉRIES",CINEMAX FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRvNvh8u3ZckG4MnXSNriJSvrMAtZakisvf1x_ALlLySt
+#EXTINF:-1 xui-id="4231065" tvg-id="br#cinemax-1" tvg-name="CINEMAX HD" tvg-logo="https://img.hotice.site/icones_channels/CineMax_HD.png" group-title="F20 M5 ⏩ FILMES E SÉRIES",CINEMAX HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRnrkgAo4ffZmPLaaoxYc9b6wg89ZXOK32iNZKO07x4be
+#EXTINF:-1 xui-id="4231066" tvg-id="br#cinemax-1" tvg-name="CINEMAX SD" tvg-logo="https://img.hotice.site/icones_channels/CineMax_HD.png" group-title="F20 M5 ⏩ FILMES E SÉRIES",CINEMAX SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRuk0j0eGTyr5MtSPq7vAONsXWaEj715IDr8IivMfbQi5
+#EXTINF:-1 xui-id="4231067" tvg-id="br#cnn-brasil-1" tvg-name="CNN BRASIL FHD" tvg-logo="https://img.hotice.site/icones_channels/CNN_brasil_HD.png" group-title="F20 M5 ⭐ NOTÍCIAS",CNN BRASIL FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRniJ38BZ775yheIIa3yzPv6At2HQdWQmcjb_kLS6bz0C
+#EXTINF:-1 xui-id="4231068" tvg-id="br#cnn-brasil-1" tvg-name="CNN BRASIL HD" tvg-logo="https://img.hotice.site/icones_channels/CNN_brasil_HD.png" group-title="F20 M5 ⭐ NOTÍCIAS",CNN BRASIL HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRsDG4cUTU6uhnoJwMwqyppoGvJGt-s_xH5cFq7l0PpCg
+#EXTINF:-1 xui-id="4231069" tvg-id="br#cnn-brasil-1" tvg-name="CNN BRASIL SD" tvg-logo="https://img.hotice.site/icones_channels/CNN_brasil_HD.png" group-title="F20 M5 ⭐ NOTÍCIAS",CNN BRASIL SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRmPdRqjPfFkW6Uj1LpXZVX0D6Mv1CaQVwtC_xx-N-Z-T
+#EXTINF:-1 xui-id="4231074" tvg-id="Combate.br" tvg-name="COMBATE 4K" tvg-logo="https://img.hotice.site/icones_channels/COMBATE_HD.png" group-title="F20 M5 ⭐ 4K",COMBATE 4K
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRjMjwuN0O0SnseJcA9Rr3KKF2boCk2LgO-FQh5gdmkd4
+#EXTINF:-1 xui-id="4231075" tvg-id="Combate.br" tvg-name="COMBATE FHD" tvg-logo="https://img.hotice.site/icones_channels/COMBATE_HD.png" group-title="F20 M5 COMBATE UFC",COMBATE FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRhBTIPIkSk2fbF8aCnKJ4BUnI-aCMZRWp7gDwdIxsN2r
+#EXTINF:-1 xui-id="4231076" tvg-id="Combate.br" tvg-name="COMBATE HD" tvg-logo="https://img.hotice.site/icones_channels/COMBATE_HD.png" group-title="F20 M5 COMBATE UFC",COMBATE HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRixM6vp2wi_RWUqDNC0Hpr9taqywJqprALKduT95QSC7
+#EXTINF:-1 xui-id="4231077" tvg-id="Combate.br" tvg-name="COMBATE SD" tvg-logo="https://img.hotice.site/icones_channels/COMBATE_HD.png" group-title="F20 M5 COMBATE UFC",COMBATE SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRkquHey5UYvLlZ86PvT7YDCxdPosO5bybHzMmLmehqui
+#EXTINF:-1 xui-id="4231078" tvg-id="br#comedy-central-hd" tvg-name="COMEDY CENTRAL FHD" tvg-logo="https://img.hotice.site/icones_channels/Comedy_Central_HD.png" group-title="F20 M5 ⭐ VARIEDADES",COMEDY CENTRAL FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRqlm4RYXVVb7Blx7L6UlFJtJKqpFX04FNZgAiDzdu9do
+#EXTINF:-1 xui-id="4231079" tvg-id="br#comedy-central-hd" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://img.hotice.site/icones_channels/Comedy_Central_HD.png" group-title="F20 M5 ⭐ VARIEDADES",COMEDY CENTRAL HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRu-cDQsdngo8sBxcdG48XahM28WU-optX12rxDFE-KGi
+#EXTINF:-1 xui-id="4231080" tvg-id="br#comedy-central-hd" tvg-name="COMEDY CENTRAL SD" tvg-logo="https://img.hotice.site/icones_channels/Comedy_Central_HD.png" group-title="F20 M5 ⭐ VARIEDADES",COMEDY CENTRAL SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRu0UbzT2dscLa3xE84zcpkpdd97zPUnWzZtrPjth7QFS
+#EXTINF:-1 xui-id="4238308" tvg-id="" tvg-name="Corrida Maluca" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",Corrida Maluca
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRnVSNVz7P861dtBnW8JMiBW_DICvzSzWoigCvURQg7kC
+#EXTINF:-1 xui-id="4231081" tvg-id="br#curta-hd" tvg-name="CURTA! FHD" tvg-logo="https://img.hotice.site/icones_channels/Curta_HD.png" group-title="F20 M5 ⭐ VARIEDADES",CURTA! FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRnifGtpNW6JQbEAr_YAVOrDF3KT1lPpP6I34gozHcKMc
+#EXTINF:-1 xui-id="4231082" tvg-id="br#curta-hd" tvg-name="CURTA! HD" tvg-logo="https://img.hotice.site/icones_channels/Curta_HD.png" group-title="F20 M5 ⭐ VARIEDADES",CURTA! HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRpQP92cn6gYeG1QraWOOTh6K3XoO8-p9-3HJ72w-dklO
+#EXTINF:-1 xui-id="4231083" tvg-id="br#curta-hd" tvg-name="CURTA! SD" tvg-logo="https://img.hotice.site/icones_channels/Curta_HD.png" group-title="F20 M5 ⭐ VARIEDADES",CURTA! SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRjLdzlpsuknlbcAuBc7vNgy402Gt8kbWNFTznRkraPFw
+#EXTINF:-1 xui-id="4665795" tvg-id="" tvg-name="DAZN 01 BR HD" tvg-logo="https://img.hotice.site/icones_channels/DAZN.png" group-title="F20 M5 ELEVEN-DAZN",DAZN 01 BR HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRhKKiFbTYMSd9Ju7VQAevMB9cFpKL_lbPxaRfWNmRpZm
+#EXTINF:-1 xui-id="4665796" tvg-id="" tvg-name="DAZN 01 PT HD" tvg-logo="https://img.hotice.site/icones_channels/DAZN.png" group-title="F20 M5 ELEVEN-DAZN",DAZN 01 PT HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRrWJ78ncchxiH24QB-LLBTcrdqLfskIwxs3_SxhJu41A
+#EXTINF:-1 xui-id="4665797" tvg-id="" tvg-name="DAZN 02 BR HD" tvg-logo="https://img.hotice.site/icones_channels/DAZN_2.png" group-title="F20 M5 ELEVEN-DAZN",DAZN 02 BR HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRhIS3g9gGEu3xF8Ju74GH8EKaM5nlvibJooRO-Ys217o
+#EXTINF:-1 xui-id="4665799" tvg-id="" tvg-name="DAZN 02 PT HD" tvg-logo="https://img.hotice.site/icones_channels/DAZN_2.png" group-title="F20 M5 ELEVEN-DAZN",DAZN 02 PT HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRnCZF58uph2_eafVbhZTunakUr95UjE4tal8wl2py2U5
+#EXTINF:-1 xui-id="4665800" tvg-id="" tvg-name="DAZN 03 BR HD" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2021/03/dazn3.png?resize=440%2C264&ssl=1" group-title="F20 M5 ELEVEN-DAZN",DAZN 03 BR HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRledT6pHILiYLVUREAl8n8Wo0Xht1F2hQfSmQXFyGBub
+#EXTINF:-1 xui-id="4665801" tvg-id="" tvg-name="DAZN 03 PT HD" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2021/03/dazn3.png?resize=440%2C264&ssl=1" group-title="F20 M5 ELEVEN-DAZN",DAZN 03 PT HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRhv5bZT3gcUstls8_zA3Nl7h-VFCjMqWK8hYvjiGvjQ0
+#EXTINF:-1 xui-id="4665802" tvg-id="" tvg-name="DAZN 04 BR HD" tvg-logo="https://img.hotice.site/icones_channels/DAZN_4.png" group-title="F20 M5 ELEVEN-DAZN",DAZN 04 BR HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRk7kZPbVpfwOdGxR2OpgYDUoxBVBtIChEgehzX254yA4
+#EXTINF:-1 xui-id="4665803" tvg-id="" tvg-name="DAZN 04 PT HD" tvg-logo="https://img.hotice.site/icones_channels/DAZN_4.png" group-title="F20 M5 ELEVEN-DAZN",DAZN 04 PT HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRkOb9wzqEnJrS9zER7QZnk0wpTzGOZxzEggqlVEmPPHn
+#EXTINF:-1 xui-id="4238232" tvg-id="" tvg-name="DENIS O PIMENTINHA  24hrs" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",DENIS O PIMENTINHA  24hrs
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRjjHpMEBUUFn3BV5pXql9DMCkq4GwHRJTQQzTTA21V1j
+#EXTINF:-1 xui-id="4238233" tvg-id="" tvg-name="Desenhos Biblicos 24hs" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",Desenhos Biblicos 24hs
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRvdADcO7iXBR-UU94IrC9-HMzwuH6LFs1tcf-Wg_LymR
+#EXTINF:-1 xui-id="4238234" tvg-id="" tvg-name="DESENHOS DISNEY 24HRS" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",DESENHOS DISNEY 24HRS
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRsVC9MtYSAb48WnOEfKzEQRqZ8uQtlRYGLzCLWyUUqSP
+#EXTINF:-1 xui-id="4238235" tvg-id="" tvg-name="DIGIMON 24hrs" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",DIGIMON 24hrs
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRk_Ny7OEBbmZw66bCxSGkxiWymwGmVd-WXiogJdYz54H
+#EXTINF:-1 xui-id="4231092" tvg-id="DiscoveryChannel.br" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="https://img.hotice.site/icones_channels/DISCOVERY_HD.png" group-title="F20 M5 ⭐ DOCUMENTÁRIOS",DISCOVERY CHANNEL FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRtQ4jxbv8bIfZ61nAXu5x8drFbZsqq5PGnsX1EcBl-po
+#EXTINF:-1 xui-id="4231093" tvg-id="DiscoveryChannel.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://img.hotice.site/icones_channels/DISCOVERY_HD.png" group-title="F20 M5 ⭐ DOCUMENTÁRIOS",DISCOVERY CHANNEL HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRh5yi_gDbtB8n6X27RoD_6OXl7ACWQt8oVtAgQ6HEFhK
+#EXTINF:-1 xui-id="4231094" tvg-id="DiscoveryChannel.br" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="https://img.hotice.site/icones_channels/DISCOVERY_HD.png" group-title="F20 M5 ⭐ DOCUMENTÁRIOS",DISCOVERY CHANNEL SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRjZ7iAGXzKO8gn4Ogl_GKeLgcvRnvtDXxWYDl6sVZ1_W
+#EXTINF:-1 xui-id="4231095" tvg-id="br#discovery-hd" tvg-name="DISCOVERY H&H" tvg-logo="https://img.hotice.site/icones_channels/DISCOVERY_H&H_HD.png" group-title="F20 M5 ⭐ 4K",DISCOVERY H&H
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRj-kTPUtQesOfBw_rWYcZHfwF7cJAal0LFFazA3nYZjD
+#EXTINF:-1 xui-id="4231096" tvg-id="br#discovery-hd" tvg-name="DISCOVERY H&H 4K" tvg-logo="https://img.hotice.site/icones_channels/DISCOVERY_H&H_HD.png" group-title="F20 M5 ⭐ 4K",DISCOVERY H&H 4K
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRluEfNa-2B10sIGmgGL8zwAkdsKUBS7QbrvqBLs2TTpu
+#EXTINF:-1 xui-id="4231097" tvg-id="br#discovery-hd" tvg-name="DISCOVERY H&H FHD" tvg-logo="https://img.hotice.site/icones_channels/DISCOVERY_H&H_HD.png" group-title="F20 M5 ⭐ DOCUMENTÁRIOS",DISCOVERY H&H FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRsqmt4O6bIM4T1P5kLVKmFx_ENI9TvSKa1uua-Rup4VD
+#EXTINF:-1 xui-id="4231098" tvg-id="br#discovery-hd" tvg-name="DISCOVERY H&H HD" tvg-logo="https://img.hotice.site/icones_channels/DISCOVERY_H&H_HD.png" group-title="F20 M5 ⭐ DOCUMENTÁRIOS",DISCOVERY H&H HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRmbcq_Zm3wSvSF-nYlmWPtegNuQ90lGuZ2kVC1HhAtAF
+#EXTINF:-1 xui-id="4231099" tvg-id="br#discovery-hd" tvg-name="DISCOVERY H&H SD" tvg-logo="https://img.hotice.site/icones_channels/DISCOVERY_H&H_HD.png" group-title="F20 M5 ⭐ DOCUMENTÁRIOS",DISCOVERY H&H SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRpnFvQsuLAfS-qDSsJ4DH304BIK_lkTcO-C7SrwIIMqU
+#EXTINF:-1 xui-id="4231100" tvg-id="br#investigacao-discovery-hd" tvg-name="DISCOVERY INVESTIGAÇAO 4K" tvg-logo="https://img.hotice.site/icones_channels/ID_HD.png" group-title="F20 M5 ⭐ 4K",DISCOVERY INVESTIGAÇAO 4K
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRpQyCV3dggEWpY2dAIeu9psCh3Rdv1icnX_e9FdNBow_
+#EXTINF:-1 xui-id="4231101" tvg-id="Investigacao Discovery SD" tvg-name="DISCOVERY INVESTIGAÇAO FHD" tvg-logo="https://img.hotice.site/icones_channels/ID_HD.png" group-title="F20 M5 ⭐ DOCUMENTÁRIOS",DISCOVERY INVESTIGAÇAO FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRiyJL_kg9LdZKyHrJ8NsmQGbYR6moZ4zeQlOTRSppvlp
+#EXTINF:-1 xui-id="4231102" tvg-id="InvestigationDiscovery.br" tvg-name="DISCOVERY INVESTIGAÇAO HD" tvg-logo="https://img.hotice.site/icones_channels/ID_HD.png" group-title="F20 M5 ⭐ DOCUMENTÁRIOS",DISCOVERY INVESTIGAÇAO HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRtu6mOsBxWjr-MxXt4ZRnBGNCl8oPRBAgyHcqQd6GpPc
+#EXTINF:-1 xui-id="4231103" tvg-id="InvestigationDiscovery.br" tvg-name="DISCOVERY INVESTIGAÇAO SD" tvg-logo="https://img.hotice.site/icones_channels/ID_HD.png" group-title="F20 M5 ⭐ DOCUMENTÁRIOS",DISCOVERY INVESTIGAÇAO SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRnAUhi4wsCHOrcmQ1LrBcoaRSnJOt1jUdeYLu50cUyQ0
+#EXTINF:-1 xui-id="4231104" tvg-id="br#discovery-kids-hd" tvg-name="DISCOVERY KIDS FHD" tvg-logo="https://img.hotice.site/icones_channels/DISCOVERY_KIDS_HD.png" group-title="F20 M5 ⭐ INFANTIL",DISCOVERY KIDS FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRsy9hndiyEdAIpfedfCa3eI14-Irty6l_F_DMxrdD7PZ
+#EXTINF:-1 xui-id="4231105" tvg-id="br#discovery-kids-hd" tvg-name="DISCOVERY KIDS HD" tvg-logo="https://img.hotice.site/icones_channels/DISCOVERY_KIDS_HD.png" group-title="F20 M5 ⭐ INFANTIL",DISCOVERY KIDS HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRq5GMmk85T_1tpCEzcDCSLuFOUotojb5BaM0eFcSTmuQ
+#EXTINF:-1 xui-id="4231106" tvg-id="br#discovery-kids-hd" tvg-name="DISCOVERY KIDS SD" tvg-logo="https://img.hotice.site/icones_channels/DISCOVERY_KIDS_HD.png" group-title="F20 M5 ⭐ INFANTIL",DISCOVERY KIDS SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRmudLkuOcmQc8LRVN8zYRKu56uOODwNSSLIkEI1d7H64
+#EXTINF:-1 xui-id="4231107" tvg-id="br#discovery-science-hd" tvg-name="DISCOVERY SCIENCE 4K" tvg-logo="https://img.hotice.site/icones_channels/DISCOVERY_SCIENCE.png" group-title="F20 M5 ⭐ 4K",DISCOVERY SCIENCE 4K
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRr9mdPmIHHb3WSbKkK8NeJK4O4pTQXgZf4EpaStGeUbK
+#EXTINF:-1 xui-id="4231108" tvg-id="br#discovery-science-hd" tvg-name="DISCOVERY SCIENCE FHD" tvg-logo="https://img.hotice.site/icones_channels/DISCOVERY_SCIENCE.png" group-title="F20 M5 ⭐ DOCUMENTÁRIOS",DISCOVERY SCIENCE FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRlelKpuvM-x56pHlZYyWRPk820m5BRHbwFZ3lgvcnAQb
+#EXTINF:-1 xui-id="4231109" tvg-id="br#discovery-science-hd" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="https://img.hotice.site/icones_channels/DISCOVERY_SCIENCE.png" group-title="F20 M5 ⭐ DOCUMENTÁRIOS",DISCOVERY SCIENCE HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRkMG9icJM-Vek8lpAoMssi262za6_n480uPkV3cmmPqa
+#EXTINF:-1 xui-id="4231110" tvg-id="br#discovery-science-hd" tvg-name="DISCOVERY SCIENCE SD" tvg-logo="https://img.hotice.site/icones_channels/DISCOVERY_SCIENCE.png" group-title="F20 M5 ⭐ DOCUMENTÁRIOS",DISCOVERY SCIENCE SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRoqj1s0ex7HHLDtYoznZrSjUpcPjdltE6i1SgNeApK_G
+#EXTINF:-1 xui-id="4231111" tvg-id="DiscoveryTheater.br" tvg-name="DISCOVERY THEATER FHD" tvg-logo="https://img.hotice.site/icones_channels/DISCOVERY_THEATER_HD.png" group-title="F20 M5 ⭐ DOCUMENTÁRIOS",DISCOVERY THEATER FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRtSSJQoZQWoITFEnLacUPiHXv1KdF5OX72D1jHn2OvIp
+#EXTINF:-1 xui-id="4231112" tvg-id="DiscoveryTheater.br" tvg-name="DISCOVERY THEATER HD" tvg-logo="https://img.hotice.site/icones_channels/DISCOVERY_THEATER_HD.png" group-title="F20 M5 ⭐ DOCUMENTÁRIOS",DISCOVERY THEATER HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRlgxECJSpGlLv8Ic1C6f8Ra4m2tVc5q1L5FVtZAmgJlc
+#EXTINF:-1 xui-id="4231113" tvg-id="DiscoveryTheater.br" tvg-name="DISCOVERY THEATER SD" tvg-logo="https://img.hotice.site/icones_channels/DISCOVERY_THEATER_HD.png" group-title="F20 M5 ⭐ DOCUMENTÁRIOS",DISCOVERY THEATER SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRoU4LA3XtozlFcMcW5scA4kntN4eoax3oZcdBtCOsJmc
+#EXTINF:-1 xui-id="4231114" tvg-id="br#discovery-turbo-hd" tvg-name="DISCOVERY TURBO 4K" tvg-logo="https://img.hotice.site/icones_channels/DISCOVERY_TURBO_HD.png" group-title="F20 M5 ⭐ 4K",DISCOVERY TURBO 4K
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRijofO1aptEiva_Sw8TeVqCIPnYwISxotOGMC7MLSqHu
+#EXTINF:-1 xui-id="4231115" tvg-id="br#discovery-turbo-hd" tvg-name="DISCOVERY TURBO FHD" tvg-logo="https://img.hotice.site/icones_channels/DISCOVERY_TURBO_HD.png" group-title="F20 M5 ⭐ DOCUMENTÁRIOS",DISCOVERY TURBO FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRli7AKU5IZ6Mdezi2zobXfvo203R0kTrWYne840OzMZD
+#EXTINF:-1 xui-id="4231116" tvg-id="br#discovery-turbo-hd" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://img.hotice.site/icones_channels/DISCOVERY_TURBO_HD.png" group-title="F20 M5 ⭐ DOCUMENTÁRIOS",DISCOVERY TURBO HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRj0BWzIBj1cxicFtxlb1oYzSAlSga7plxs7CgzuwqIf2
+#EXTINF:-1 xui-id="4231117" tvg-id="br#discovery-turbo-hd" tvg-name="DISCOVERY TURBO SD" tvg-logo="https://img.hotice.site/icones_channels/DISCOVERY_TURBO_HD.png" group-title="F20 M5 ⭐ DOCUMENTÁRIOS",DISCOVERY TURBO SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRk7Q4t9m3G5fpsF02uhYS6tmUUz4U_u2bzWNepFJxEQK
+#EXTINF:-1 xui-id="4231118" tvg-id="DiscoveryWorld.br" tvg-name="DISCOVERY WORLD 4K" tvg-logo="https://img.hotice.site/icones_channels/DISCOVERY_WORLD.png" group-title="F20 M5 ⭐ 4K",DISCOVERY WORLD 4K
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRmWveR-LtttQdBnIPTJge3dT4jQ__mQMzITuaYK-aba_
+#EXTINF:-1 xui-id="4231119" tvg-id="DiscoveryWorld.br" tvg-name="DISCOVERY WORLD FHD" tvg-logo="https://img.hotice.site/icones_channels/DISCOVERY_WORLD.png" group-title="F20 M5 ⭐ DOCUMENTÁRIOS",DISCOVERY WORLD FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRtKEdwdeX8y65ttiu9kIBH_PDkmbeni7P0ZR68YdYWUp
+#EXTINF:-1 xui-id="4231120" tvg-id="DiscoveryWorld.br" tvg-name="DISCOVERY WORLD HD" tvg-logo="https://img.hotice.site/icones_channels/DISCOVERY_WORLD.png" group-title="F20 M5 ⭐ DOCUMENTÁRIOS",DISCOVERY WORLD HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRgD8RwUzqtyi1wrA9zXpDCCZZYl31UPRVhmYhYdL_Ofc
+#EXTINF:-1 xui-id="4231121" tvg-id="DiscoveryWorld.br" tvg-name="DISCOVERY WORLD SD" tvg-logo="https://img.hotice.site/icones_channels/DISCOVERY_WORLD.png" group-title="F20 M5 ⭐ DOCUMENTÁRIOS",DISCOVERY WORLD SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRjIHL4yXLFOAta0SN4KWjX7rqImNWPYg8dWZ5Pn2iaGi
+#EXTINF:-1 xui-id="4665804" tvg-id="" tvg-name="DISNEY+ 01 HD" tvg-logo="https://img.hotice.site/icones_channels/Disney+_HD.png" group-title="F20 M5 DISNEY+",DISNEY+ 01 HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRudHMnHF3aBb9MfLmfdbOWx5seQyJ3Y3pHI4YtuzbST1
+#EXTINF:-1 xui-id="4665805" tvg-id="" tvg-name="DISNEY+ 02 HD" tvg-logo="https://img.hotice.site/icones_channels/Disney+_HD.png" group-title="F20 M5 DISNEY+",DISNEY+ 02 HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRqc4eVrVNCabk7shTRGHpnH2hL04SqZLKSxrJdUwwBM9
+#EXTINF:-1 xui-id="4665806" tvg-id="" tvg-name="DISNEY+ 03 HD" tvg-logo="https://img.hotice.site/icones_channels/Disney+_HD.png" group-title="F20 M5 DISNEY+",DISNEY+ 03 HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRrROLe8_dM7kzqOnnFMMPWyHdkwLb6wRTc7EfJnAR8Dn
+#EXTINF:-1 xui-id="4665807" tvg-id="" tvg-name="DISNEY+ 04 HD" tvg-logo="https://img.hotice.site/icones_channels/Disney+_HD.png" group-title="F20 M5 DISNEY+",DISNEY+ 04 HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRjt38DQ1JUXOLBakE5pG-ADEt9W-lQuno86LgYfQCCh6
+#EXTINF:-1 xui-id="4665808" tvg-id="" tvg-name="DISNEY+ 05 HD" tvg-logo="https://img.hotice.site/icones_channels/Disney+_HD.png" group-title="F20 M5 DISNEY+",DISNEY+ 05 HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRjqMMQiIJim6RpV1IVDKinLul09dFXIsvZd8FHK8AFgo
+#EXTINF:-1 xui-id="4665809" tvg-id="" tvg-name="DISNEY+ 06 HD" tvg-logo="https://img.hotice.site/icones_channels/Disney+_HD.png" group-title="F20 M5 DISNEY+",DISNEY+ 06 HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRv5K92IhOFYWHNwPcvkA2G1xvRQnKp--AFXN6veTiE1H
+#EXTINF:-1 xui-id="4665810" tvg-id="" tvg-name="DISNEY+ 07 HD" tvg-logo="https://img.hotice.site/icones_channels/Disney+_HD.png" group-title="F20 M5 DISNEY+",DISNEY+ 07 HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRt60RGT7ORtQ0Q4w3xk_JYMdGcMm1HyX06mpkR48opom
+#EXTINF:-1 xui-id="4665811" tvg-id="" tvg-name="DISNEY+ 08 HD" tvg-logo="https://img.hotice.site/icones_channels/Disney+_HD.png" group-title="F20 M5 DISNEY+",DISNEY+ 08 HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRk9rjGi20Lds83c13NnBg5raD6iPEOH2q46ztwnK7MdM
+#EXTINF:-1 xui-id="4665812" tvg-id="" tvg-name="DISNEY+ 09 HD" tvg-logo="https://img.hotice.site/icones_channels/Disney+_HD.png" group-title="F20 M5 DISNEY+",DISNEY+ 09 HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRjbhxlmgA6s5a8a3dI_DbSDJhpzPJ8OanpqW95rK3wOv
+#EXTINF:-1 xui-id="4665813" tvg-id="" tvg-name="DISNEY+ 10 HD" tvg-logo="https://img.hotice.site/icones_channels/Disney+_HD.png" group-title="F20 M5 DISNEY+",DISNEY+ 10 HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRilrxLT2qQeqjA4D5wGY3VOrQEVrVgL9OinK2CZrO98Q
+#EXTINF:-1 xui-id="4238236" tvg-id="" tvg-name="Dois Homens e Meio 24HS" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",Dois Homens e Meio 24HS
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRgcyYWYFJSTbXhAf8RyZoq61UconhW087Yo2lfSnTsYj
+#EXTINF:-1 xui-id="4238238" tvg-id="" tvg-name="DRAGON BALL 24HS" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",DRAGON BALL 24HS
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRlg9usVGiMDwD_tjBI-G-iWB9JziQLWjLbwIlakFM-xF
+#EXTINF:-1 xui-id="4238239" tvg-id="" tvg-name="DRAGON BALL SUPER 24HS" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",DRAGON BALL SUPER 24HS
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRo30IOsgHZqXVpZNQyk16KxHWu4-HqK8QYZ-RrpdMWCO
+#EXTINF:-1 xui-id="4238240" tvg-id="" tvg-name="DRAGON BALL Z 24HS" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",DRAGON BALL Z 24HS
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRqsTgMlDXD3V1nxVAlgTTuC-EDnpAZ4BDC2kWfy7brXI
+#EXTINF:-1 xui-id="4231132" tvg-id="br#e-hd" tvg-name="E! FHD" tvg-logo="https://img.hotice.site/icones_channels/E!.png" group-title="F20 M5 ⭐ VARIEDADES",E! FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRkigw67M2i4j_y2vkhPXQxaMALQM_0blzFnQofs1Pov_
+#EXTINF:-1 xui-id="4231133" tvg-id="br#e-hd" tvg-name="E! HD" tvg-logo="https://img.hotice.site/icones_channels/E!.png" group-title="F20 M5 ⭐ VARIEDADES",E! HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRvNxbHn2T51bD-eR-GsxSmJSTrpg8Xui7-YkCeAqFTT8
+#EXTINF:-1 xui-id="4231134" tvg-id="br#e-hd" tvg-name="E! SD" tvg-logo="https://img.hotice.site/icones_channels/E!.png" group-title="F20 M5 ⭐ VARIEDADES",E! SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRhCoL2S19ZRlnt06N6iuJViO-Yc6sdskkl3bPBMgKCCK
+#EXTINF:-1 xui-id="4665814" tvg-id="" tvg-name="ELEVEN SPORTS 01" tvg-logo="https://img.hotice.site/icones_channels/ELEVEN_SPORTS_1_PT.png" group-title="F20 M5 ELEVEN-DAZN",ELEVEN SPORTS 01
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRnD5XmwAe-mlbmtkkSexfzcWKBWgQQmM-lbg5FHWN7fY
+#EXTINF:-1 xui-id="4665815" tvg-id="" tvg-name="ELEVEN SPORTS 02" tvg-logo="https://img.hotice.site/icones_channels/ELEVEN_SPORTS_2_PT.png" group-title="F20 M5 ELEVEN-DAZN",ELEVEN SPORTS 02
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRj9EVNutJkkglco8MUiHKZ2MloI0W17duLyz-0AjfZOJ
+#EXTINF:-1 xui-id="4665816" tvg-id="" tvg-name="ELEVEN SPORTS 03" tvg-logo="https://img.hotice.site/icones_channels/ELEVEN_SPORTS_3_PT.png" group-title="F20 M5 ELEVEN-DAZN",ELEVEN SPORTS 03
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRt0EtlNaFCBzFRwR02c26dqSfxjl-6SBiOFZ9NE3VaUT
+#EXTINF:-1 xui-id="4665817" tvg-id="" tvg-name="ELEVEN SPORTS 04" tvg-logo="https://img.hotice.site/icones_channels/ELEVEN_SPORTS_4_PT.png" group-title="F20 M5 ELEVEN-DAZN",ELEVEN SPORTS 04
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRhRwym91tBzgmk8q0uaWwiJ-ftAPu0cUry1b80fjcs7Q
+#EXTINF:-1 xui-id="4665818" tvg-id="" tvg-name="ELEVEN SPORTS 05" tvg-logo="https://img.hotice.site/icones_channels/ELEVEN_SPORTS_5_PT.png" group-title="F20 M5 ELEVEN-DAZN",ELEVEN SPORTS 05
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRjnlOuke9KEtOEdbiLIElna_fDiyiOD8NYYHKpyB5swP
+#EXTINF:-1 xui-id="4660165" tvg-id="" tvg-name="EPTV Sul de Minas HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",EPTV Sul de Minas HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRuccXP07zX9SXuXqdoW14xG83BFhZZc7B0UnFpVE3ZmE
+#EXTINF:-1 xui-id="4660166" tvg-id="" tvg-name="EPTV Sul de Minas SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",EPTV Sul de Minas SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRhIvXOdVkDCY1mzCc7Tt6xaOItc9uZDymh8ZeMZ3j8k7
+#EXTINF:-1 xui-id="4231140" tvg-id="br#espn-hd" tvg-name="ESPN 01 4K" tvg-logo="https://img.hotice.site/icones_channels/ESPN_HD.png" group-title="F20 M5 ⭐ 4K",ESPN 01 4K
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRhhENYY_Q-AKcPCd3XKNYa8KpPxUsyDVLMnO_fDQwb0U
+#EXTINF:-1 xui-id="4665819" tvg-id="br#espn-hd" tvg-name="ESPN 01 FHD" tvg-logo="https://img.hotice.site/icones_channels/ESPN_HD.png" group-title="F20 M5 ESPN",ESPN 01 FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRo0qOtdLqHhqchPLfLa0nMmjzaNbfy60lgKgJ-JP-jkT
+#EXTINF:-1 xui-id="4665820" tvg-id="br#espn-hd" tvg-name="ESPN 01 HD" tvg-logo="https://img.hotice.site/icones_channels/ESPN_HD.png" group-title="F20 M5 ESPN",ESPN 01 HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRjTYtn4EX9EqPJEhXZxpPp-nvCnWalOF3pKiOz9sFUGz
+#EXTINF:-1 xui-id="4665821" tvg-id="br#espn-hd" tvg-name="ESPN 01 SD" tvg-logo="https://img.hotice.site/icones_channels/ESPN_HD.png" group-title="F20 M5 ESPN",ESPN 01 SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRvvNIHh3BqWsrTMSqJlYF_Msv9kMBbrFG_pCQwYpIt1A
+#EXTINF:-1 xui-id="4231144" tvg-id="ESPN2.br" tvg-name="ESPN 02 4K" tvg-logo="https://img.hotice.site/icones_channels/ESPN_2_HD.png" group-title="F20 M5 ⭐ 4K",ESPN 02 4K
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRpshnaQ-2wzRmyESgyKxPduotJkZV11tzga_r-QR6f35
+#EXTINF:-1 xui-id="4665822" tvg-id="ESPN2.br" tvg-name="ESPN 02 FHD" tvg-logo="https://img.hotice.site/icones_channels/ESPN_2_HD.png" group-title="F20 M5 ESPN",ESPN 02 FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRqAHzU7mb8k9TV3j19HXXqen4Zr7AUBNNZIRDvfI6vOV
+#EXTINF:-1 xui-id="4665823" tvg-id="ESPN2.br" tvg-name="ESPN 02 HD" tvg-logo="https://img.hotice.site/icones_channels/ESPN_2_HD.png" group-title="F20 M5 ESPN",ESPN 02 HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRkP5SFJA87Lq5ME9y1p-M6D6KaPUi6aZbcwkfXW1hEVu
+#EXTINF:-1 xui-id="4665824" tvg-id="ESPN2.br" tvg-name="ESPN 02 SD" tvg-logo="https://img.hotice.site/icones_channels/ESPN_2_HD.png" group-title="F20 M5 ESPN",ESPN 02 SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRoWY02EtBKasQAr8Rbp_17eVtl2kMsdVyTIU87fKWH3f
+#EXTINF:-1 xui-id="4231148" tvg-id="ESPN3.br" tvg-name="ESPN 03 4K" tvg-logo="https://img.hotice.site/icones_channels/ESPN_3_HD.png" group-title="F20 M5 ⭐ 4K",ESPN 03 4K
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRoErCXnwhxBsZQSbhdR_c4YMtZLbUJoKloCOXOtyJtgy
+#EXTINF:-1 xui-id="4665825" tvg-id="ESPN3.br" tvg-name="ESPN 03 FHD" tvg-logo="https://img.hotice.site/icones_channels/ESPN_3_HD.png" group-title="F20 M5 ESPN",ESPN 03 FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRug11_i01vgh8rSAT7ezaQsmwydKQTrN0EbzM2ejWOIq
+#EXTINF:-1 xui-id="4665826" tvg-id="ESPN3.br" tvg-name="ESPN 03 HD" tvg-logo="https://img.hotice.site/icones_channels/ESPN_3_HD.png" group-title="F20 M5 ESPN",ESPN 03 HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRhcT6TlE6YQquGRyIkRTYQWvZLzammpRcpa1-zOs_XAS
+#EXTINF:-1 xui-id="4665827" tvg-id="ESPN3.br" tvg-name="ESPN 03 SD" tvg-logo="https://img.hotice.site/icones_channels/ESPN_3_HD.png" group-title="F20 M5 ESPN",ESPN 03 SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRuTNqBAq7_SM50MXUHvKHJ37Atxwb86WwEr31NUY_dQw
+#EXTINF:-1 xui-id="4231153" tvg-id="ESPN4.br" tvg-name="ESPN 04 4K" tvg-logo="https://img.hotice.site/icones_channels/ESPN_4_HD.png" group-title="F20 M5 ⭐ 4K",ESPN 04 4K
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRhOicUnzkmTpJuF9B4Mn4qg-QHxS99MhTFS067hNBQg-
+#EXTINF:-1 xui-id="4665828" tvg-id="ESPN4.br" tvg-name="ESPN 04 FHD" tvg-logo="https://img.hotice.site/icones_channels/ESPN_4_HD.png" group-title="F20 M5 ESPN",ESPN 04 FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRpQXp_eCz1gRgvwyhN_iYNq702FEkxeokevIWP68lk68
+#EXTINF:-1 xui-id="4665829" tvg-id="ESPN4.br" tvg-name="ESPN 04 HD" tvg-logo="https://img.hotice.site/icones_channels/ESPN_4_HD.png" group-title="F20 M5 ESPN",ESPN 04 HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRoP3Y9iJBPHOTkp6vmepiSn9asZQQGu95btRhURuR0kg
+#EXTINF:-1 xui-id="4665830" tvg-id="ESPN4.br" tvg-name="ESPN 04 SD" tvg-logo="https://img.hotice.site/icones_channels/ESPN_4_HD.png" group-title="F20 M5 ESPN",ESPN 04 SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRjJshAS3OIAnRLPA29psE9BUfZcflnr9Q7M8IAKF3qpA
+#EXTINF:-1 xui-id="4231157" tvg-id="ESPN5.br" tvg-name="ESPN 05 4K" tvg-logo="https://img.hotice.site/icones_channels/ESPN_5_HD.png" group-title="F20 M5 ⭐ 4K",ESPN 05 4K
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRheRrFRoY3u-fuL8PTkYW_KbnK-pXzO5mm2Pyp2FtTVO
+#EXTINF:-1 xui-id="4665831" tvg-id="ESPN5.br" tvg-name="ESPN 05 FHD" tvg-logo="https://img.hotice.site/icones_channels/ESPN_5_HD.png" group-title="F20 M5 ESPN",ESPN 05 FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRsWD9YvTGIQrYvBdp2APYhq9XsqomAbXuV3sQM13TJae
+#EXTINF:-1 xui-id="4665832" tvg-id="ESPN5.br" tvg-name="ESPN 05 HD" tvg-logo="https://img.hotice.site/icones_channels/ESPN_5_HD.png" group-title="F20 M5 ESPN",ESPN 05 HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRt9kiuZsGsnDwOv9zqQ_qnKLneiq3vo234HDqtdubrYI
+#EXTINF:-1 xui-id="4665833" tvg-id="ESPN5.br" tvg-name="ESPN 05 SD" tvg-logo="https://img.hotice.site/icones_channels/ESPN_5_HD.png" group-title="F20 M5 ESPN",ESPN 05 SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRqDJ3Sib_P9MTEQeaoOGNNdfDGhoQuCEC3oEYZoxHgth
+#EXTINF:-1 xui-id="4231161" tvg-id="ESPN6.br" tvg-name="ESPN 06 4K" tvg-logo="https://img.hotice.site/icones_channels/ESPN_6_HD.png" group-title="F20 M5 ⭐ 4K",ESPN 06 4K
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRn4ACw96piQCJo-yiTYSK0A1SDdjb6JCdqQAEBvFTtnn
+#EXTINF:-1 xui-id="4665834" tvg-id="ESPN6.br" tvg-name="ESPN 06 FHD" tvg-logo="https://img.hotice.site/icones_channels/ESPN_6_HD.png" group-title="F20 M5 ESPN",ESPN 06 FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRtBIaz2ywJqACYjf6adpD6l0ED_h-M6KyuaP4G942ebI
+#EXTINF:-1 xui-id="4665835" tvg-id="ESPN6.br" tvg-name="ESPN 06 HD" tvg-logo="https://img.hotice.site/icones_channels/ESPN_6_HD.png" group-title="F20 M5 ESPN",ESPN 06 HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRi_WK1kkNNJOP6rgCvr-mwuHJ4au84_hAw7jMkrqpuBE
+#EXTINF:-1 xui-id="4665836" tvg-id="ESPN6.br" tvg-name="ESPN 06 SD" tvg-logo="https://img.hotice.site/icones_channels/ESPN_6_HD.png" group-title="F20 M5 ESPN",ESPN 06 SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRj0Aw9AUDiTE09f884njYsmtSETfLU7uknuO9VjmCPWW
+#EXTINF:-1 xui-id="4238241" tvg-id="" tvg-name="Eu a Patroa e as Crianças 24hs" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",Eu a Patroa e as Crianças 24hs
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRnkkh1wuJwFBlehrEKndPR2g8lU6rLXNlfbk-8KZdTAd
+#EXTINF:-1 xui-id="4231165" tvg-id="TV Evangelizar SD" tvg-name="EVANGELIZAR FHD" tvg-logo="https://img.hotice.site/icones_channels/TV_EVANGELIZAR.png" group-title="F20 M5 ⭐ RELIGIOSOS",EVANGELIZAR FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRtD2AIuILZx9b2-Ly4cb07H9H-dfDrFXGK3V8dzOU4kU
+#EXTINF:-1 xui-id="4231166" tvg-id="TV Evangelizar SD" tvg-name="EVANGELIZAR HD" tvg-logo="https://img.hotice.site/icones_channels/TV_EVANGELIZAR.png" group-title="F20 M5 ⭐ RELIGIOSOS",EVANGELIZAR HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRhfVez3AJXKLZYyZrv5Ai4iKLxuC9QPwJvxQTFTtCS4P
+#EXTINF:-1 xui-id="4231167" tvg-id="FashionTV.br" tvg-name="FASHION TV FHD" tvg-logo="https://img.hotice.site/icones_channels/Fashion_TV.png" group-title="F20 M5 ⭐ VARIEDADES",FASHION TV FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRvBQkgVuUPEQZrVIyjUd8f_tj7mlfOBdlvTz3ZJmHjwy
+#EXTINF:-1 xui-id="4231168" tvg-id="FashionTV.br" tvg-name="FASHION TV HD" tvg-logo="https://img.hotice.site/icones_channels/Fashion_TV.png" group-title="F20 M5 ⭐ VARIEDADES",FASHION TV HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRufaNG1obF9WAFy65sYmxwQCM_jvoL7Bzv3hi1xKd81C
+#EXTINF:-1 xui-id="4231169" tvg-id="FashionTV.br" tvg-name="FASHION TV SD" tvg-logo="https://img.hotice.site/icones_channels/Fashion_TV.png" group-title="F20 M5 ⭐ VARIEDADES",FASHION TV SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRmFZB28QxAzQuAYJhYql9cBXXiww7Bs9aUfPp1NjkRLr
+#EXTINF:-1 xui-id="4231171" tvg-id="br#fish-tv-hd" tvg-name="FISH TV 4K" tvg-logo="https://img.hotice.site/icones_channels/FISH_TV.png" group-title="F20 M5 ⭐ 4K",FISH TV 4K
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRk0UuUKdt6ijYK0xSAim9OknFSmY2rhbg7BFEKD8UcpY
+#EXTINF:-1 xui-id="4231172" tvg-id="br#fish-tv-hd" tvg-name="FISH TV FHD" tvg-logo="https://img.hotice.site/icones_channels/FISH_TV.png" group-title="F20 M5 ⭐ PESCA ESPORTIVA",FISH TV FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRslmUR5FX69q7ie7zaeM3pCxNzr7xH732nUma_ohubI_
+#EXTINF:-1 xui-id="4231173" tvg-id="br#fish-tv-hd" tvg-name="FISH TV HD" tvg-logo="https://img.hotice.site/icones_channels/FISH_TV.png" group-title="F20 M5 ⭐ PESCA ESPORTIVA",FISH TV HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRuaPCQYM6ewoHusRoJrZQ7ts0ZBb_fa_mzKLutWKXLr5
+#EXTINF:-1 xui-id="4231174" tvg-id="br#fish-tv-hd" tvg-name="FISH TV SD" tvg-logo="https://img.hotice.site/icones_channels/FISH_TV.png" group-title="F20 M5 ⭐ PESCA ESPORTIVA",FISH TV SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRt4wj33fGv07x4zQ5SKjuVl24ClubjnOLQ5ugSEih1aW
+#EXTINF:-1 xui-id="4231175" tvg-id="FoodNetwork.br" tvg-name="FOOD NETWORK FHD" tvg-logo="https://img.hotice.site/icones_channels/Food_network_HD.png" group-title="F20 M5 ⭐ VARIEDADES",FOOD NETWORK FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRhNaO8Bh0KVq1mbm8Y4E-itCVbiRfDMvaCU3aGo1JjQq
+#EXTINF:-1 xui-id="4231176" tvg-id="FoodNetwork.br" tvg-name="FOOD NETWORK HD" tvg-logo="https://img.hotice.site/icones_channels/Food_network_HD.png" group-title="F20 M5 ⭐ VARIEDADES",FOOD NETWORK HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRihXVoyM5odvrOUhmlzv8RxTRaxCRyevVX8EIv_cF79I
+#EXTINF:-1 xui-id="4231177" tvg-id="FoodNetwork.br" tvg-name="FOOD NETWORK SD" tvg-logo="https://img.hotice.site/icones_channels/Food_network_HD.png" group-title="F20 M5 ⭐ VARIEDADES",FOOD NETWORK SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRqvYgoKY6cmUM1sah2bCmRRaM-TbJ7LX_c-Zln-hFfCB
+#EXTINF:-1 xui-id="4238242" tvg-id="" tvg-name="Formiga Atómica 24hs" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",Formiga Atómica 24hs
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRh9-YmSa9cr3-z7WrpXX5dnc2DdwQKU3uJ2qSq6h40y5
+#EXTINF:-1 xui-id="4238243" tvg-id="" tvg-name="Galinha Pintadinha 24hs" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",Galinha Pintadinha 24hs
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRtacymH6RodqTFCKCtrcgJqP8G8ji1nGf9T0D7Ppx5TX
+#EXTINF:-1 xui-id="4665837" tvg-id="" tvg-name="GE TV FHD" tvg-logo="https://entresinopses.com.br/wp-content/uploads/2025/09/ge-TV.jpg" group-title="F20 M5 ESPORTES PPV",GE TV FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRnKekvt9F7cMjKDEUseIfHeW5ZaVQUSLWFn3Yz86MXf2
+#EXTINF:-1 xui-id="4665838" tvg-id="" tvg-name="GE TV HD" tvg-logo="https://entresinopses.com.br/wp-content/uploads/2025/09/ge-TV.jpg" group-title="F20 M5 ESPORTES PPV",GE TV HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRj93Ibt28VrTxQRArACaPLTkZeswzN3CzenSFfgpWtOH
+#EXTINF:-1 xui-id="4665839" tvg-id="" tvg-name="GE TV SD" tvg-logo="https://entresinopses.com.br/wp-content/uploads/2025/09/ge-TV.jpg" group-title="F20 M5 ESPORTES PPV",GE TV SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRse3lAZPv2tpwHAM1HEs9mrm6kw4CXCdRaFqWD6avLv1
+#EXTINF:-1 xui-id="4231178" tvg-id="br#rede-amazonica-rio-branco" tvg-name="GLOBO AC - AMAZONICA RIO BRANCO FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO AC - AMAZONICA RIO BRANCO FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRhHjsU20PfMNnnS8vnEkPu1ogXr5d_gQPwz9Eac-VHX8
+#EXTINF:-1 xui-id="4231179" tvg-id="br#rede-amazonica-rio-branco" tvg-name="GLOBO AC - AMAZONICA RIO BRANCO HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO AC - AMAZONICA RIO BRANCO HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRqCquye9P-dzNxX17dtGtLY-RwiglzxPNlL4qJDL8tLi
+#EXTINF:-1 xui-id="4231180" tvg-id="br#rede-amazonica-rio-branco" tvg-name="GLOBO AC - AMAZONICA RIO BRANCO SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO AC - AMAZONICA RIO BRANCO SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRpZrsYmeU1mrtUN86qtnJAkcy5DfjRClz1tuISLcHpsN
+#EXTINF:-1 xui-id="4231181" tvg-id="br#rede-amazonica-rio-branco" tvg-name="GLOBO AC - REDE AMAZONICA CRUZEIRO DO SUL FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO AC - REDE AMAZONICA CRUZEIRO DO SUL FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRnk8dxrbuoeI0hkVJLkFawa2J8OtBR4HldKSverWtHc4
+#EXTINF:-1 xui-id="4231182" tvg-id="br#rede-amazonica-rio-branco" tvg-name="GLOBO AC - REDE AMAZONICA CRUZEIRO DO SUL HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO AC - REDE AMAZONICA CRUZEIRO DO SUL HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRtz5wUmcba4-RG2Fn4Zd6nx4pVzwXT5_wn5M3QB8-lfF
+#EXTINF:-1 xui-id="4231183" tvg-id="br#rede-amazonica-rio-branco" tvg-name="GLOBO AC - REDE AMAZONICA CRUZEIRO DO SUL SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO AC - REDE AMAZONICA CRUZEIRO DO SUL SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRsJ7jUIh7Ph5zeLvHE3r9tQmuwXBCeaaQWDomI-UKrUD
+#EXTINF:-1 xui-id="4231184" tvg-id="br#globo-s-o-paulo-hd" tvg-name="GLOBO AL - GAZETA DE ALAGOAS FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO AL - GAZETA DE ALAGOAS FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRnL41_6i5XYDK5z6figvOHRgB5iH2-zFSIhRdTn_OcQE
+#EXTINF:-1 xui-id="4231185" tvg-id="br#globo-s-o-paulo-hd" tvg-name="GLOBO AL - GAZETA DE ALAGOAS HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO AL - GAZETA DE ALAGOAS HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRo43n_Ta_N3kNAeL-WSfnntGaKYQW3X4gtw6vCjK4Dnc
+#EXTINF:-1 xui-id="4231186" tvg-id="br#globo-s-o-paulo-hd" tvg-name="GLOBO AL - GAZETA DE ALAGOAS SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO AL - GAZETA DE ALAGOAS SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRvZvDRs4End_1LGt7GXUyLaKJaybznJghzehA2OnS2jQ
+#EXTINF:-1 xui-id="4231187" tvg-id="br#globo-s-o-paulo-hd" tvg-name="GLOBO AL - TV GAZETA MACEIÓ FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO AL - TV GAZETA MACEIÓ FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRlsQkUY5yZRpYIwM4ABvfFGcWXKGGe1cZnrOAtFXop_j
+#EXTINF:-1 xui-id="4231188" tvg-id="br#globo-s-o-paulo-hd" tvg-name="GLOBO AL - TV GAZETA MACEIÓ HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO AL - TV GAZETA MACEIÓ HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRkTSJH-sA1OqGdHHn9xQe4zuFkvru5DfpKUteH_30dw7
+#EXTINF:-1 xui-id="4231189" tvg-id="br#globo-s-o-paulo-hd" tvg-name="GLOBO AL - TV GAZETA MACEIÓ SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO AL - TV GAZETA MACEIÓ SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRuN_N-DZD3is0TDkMAuWkdN35zOdfRNQGDEBXzxoKiyI
+#EXTINF:-1 xui-id="4231190" tvg-id="RedeAmazonicaManaus.br" tvg-name="GLOBO AM - AMAZONICA MANAUS FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO AM - AMAZONICA MANAUS FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRkDFYG6OggG50qFjQEdWyJ35hLMHKS7w0ZJ4ZpfhdH2X
+#EXTINF:-1 xui-id="4231191" tvg-id="RedeAmazonicaManaus.br" tvg-name="GLOBO AM - AMAZONICA MANAUS HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO AM - AMAZONICA MANAUS HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRs6NxJIlptQaxMnOR22c_1KszMf-ahDE6p2TzrbBefe2
+#EXTINF:-1 xui-id="4231192" tvg-id="RedeAmazonicaManaus.br" tvg-name="GLOBO AM - AMAZONICA MANAUS SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO AM - AMAZONICA MANAUS SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRuMoh6qNBg8uqvcLAVZgN6jD0zIFjlBLNYS3QMoiI55w
+#EXTINF:-1 xui-id="4231202" tvg-id="RedeAmazonicaManaus.br" tvg-name="GLOBO AM - REDE AMAZONICA PARINTINS FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO AM - REDE AMAZONICA PARINTINS FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRkTJ7F5ZyWiZdYHGx3hasaJlsMMUKH4xI1JsmzKrtqCI
+#EXTINF:-1 xui-id="4231203" tvg-id="RedeAmazonicaManaus.br" tvg-name="GLOBO AM - REDE AMAZONICA PARINTINS HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO AM - REDE AMAZONICA PARINTINS HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRhJsZs0Mf5alxvcXMZo6hSpH1MOjjLiPuTh7djxAAQ--
+#EXTINF:-1 xui-id="4231204" tvg-id="RedeAmazonicaManaus.br" tvg-name="GLOBO AM - REDE AMAZONICA PARINTINS SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO AM - REDE AMAZONICA PARINTINS SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRh8tk8zRsb8unpaDPjoxZdbTTfvQKcphaeRDxXRGmlKI
+#EXTINF:-1 xui-id="4231208" tvg-id="br#globo-s-o-paulo-hd" tvg-name="GLOBO BA - TV BAHIA FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO BA - TV BAHIA FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRodMydEv3td8MCAgKauSN2J1D3rJkWgrQjUkHuoyde2m
+#EXTINF:-1 xui-id="4231209" tvg-id="br#globo-s-o-paulo-hd" tvg-name="GLOBO BA - TV BAHIA HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO BA - TV BAHIA HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRgGIBqrzq4FcE6pA8dtCfsIPXCM2kmYOzT3emVHvsLAO
+#EXTINF:-1 xui-id="4231210" tvg-id="br#globo-s-o-paulo-hd" tvg-name="GLOBO BA - TV BAHIA SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO BA - TV BAHIA SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRkWo49Ym2a2YcX00kXPjIp6birQLsm8CnQkDkZ2iqwUG
+#EXTINF:-1 xui-id="4231211" tvg-id="Globo Bahia SD" tvg-name="GLOBO BA - TV OESTE FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO BA - TV OESTE FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRuY5qb9zEdmx7Dsr0yW9gzIuTy7kFEPXAa_IOKSfjbZw
+#EXTINF:-1 xui-id="4231212" tvg-id="Globo Bahia SD" tvg-name="GLOBO BA - TV OESTE HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO BA - TV OESTE HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRgVA2RIPsvuVCmUHU7mwGThX_t92JV4AjzoqMvIA7tAX
+#EXTINF:-1 xui-id="4231213" tvg-id="Globo Bahia SD" tvg-name="GLOBO BA - TV OESTE SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO BA - TV OESTE SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRkUBDiA26lDb5XzbOee0oYldCcaU-U4MaiLI4QUYvD2K
+#EXTINF:-1 xui-id="4231214" tvg-id="Globo Bahia SD" tvg-name="GLOBO BA - TV SANTA CRUZ FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO BA - TV SANTA CRUZ FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRjfj0Xa6aSRibvDcKu6XcmE90DUTsYkzylbhZBMt21My
+#EXTINF:-1 xui-id="4231215" tvg-id="Globo Bahia SD" tvg-name="GLOBO BA - TV SANTA CRUZ HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO BA - TV SANTA CRUZ HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRj3rz1d4ZRDxiAlGmWss6TpekW7Ytr6aTIKYjH9L8eyP
+#EXTINF:-1 xui-id="4231216" tvg-id="Globo Bahia SD" tvg-name="GLOBO BA - TV SANTA CRUZ SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO BA - TV SANTA CRUZ SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRls5bU8JGMeRz_mQIj0yfoIgbZyMhlfFqTAYegGeUMXQ
+#EXTINF:-1 xui-id="4231223" tvg-id="Globo Bahia SD" tvg-name="GLOBO BA - TV SUDOESTE FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO BA - TV SUDOESTE FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRmCOPaAxLqUmvYJi4EhcgZf5FCETpBQ5mmqN8f1FEOTq
+#EXTINF:-1 xui-id="4231224" tvg-id="Globo Bahia SD" tvg-name="GLOBO BA - TV SUDOESTE HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO BA - TV SUDOESTE HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRgTDD5H0ckMGjOq_HZ9Ml-lEmlm9OgUpgWHWcGA-95Ct
+#EXTINF:-1 xui-id="4231225" tvg-id="Globo Bahia SD" tvg-name="GLOBO BA - TV SUDOESTE SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO BA - TV SUDOESTE SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRrpdh5y9LzawWi1450En8q5gRty9TZPiHurbCJMDOkNE
+#EXTINF:-1 xui-id="4231226" tvg-id="Globo TV Verdes Mares Cariri SD" tvg-name="GLOBO CE - TV VERDES MARES CARIRI FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO CE - TV VERDES MARES CARIRI FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRpYVfel8oa3MmgeARRqvkmPvHkgYlJAKHhHTLNBEQnWZ
+#EXTINF:-1 xui-id="4231227" tvg-id="Globo TV Verdes Mares Cariri SD" tvg-name="GLOBO CE - TV VERDES MARES CARIRI HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO CE - TV VERDES MARES CARIRI HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRn66UZ9vpK_uhFqQXxOU-2h1s0yt7UykWmBWqvd6eCC3
+#EXTINF:-1 xui-id="4231228" tvg-id="Globo TV Verdes Mares Cariri SD" tvg-name="GLOBO CE - TV VERDES MARES CARIRI SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO CE - TV VERDES MARES CARIRI SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRtOZeCPmgVWOvkNiQ6Ywj-0RpJIJI8eHx3oOypZnTCye
+#EXTINF:-1 xui-id="4231229" tvg-id="br#tv-verdes-mares-hd" tvg-name="GLOBO CE - TV VERDES MARES FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO CE - TV VERDES MARES FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRujRt4cqm59kTcOGsxOYbjudrxGvJSmmMNDD7Buu4xDs
+#EXTINF:-1 xui-id="4231230" tvg-id="br#tv-verdes-mares-hd" tvg-name="GLOBO CE - TV VERDES MARES HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO CE - TV VERDES MARES HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRphvweREcnfeSf1GlNkGu7NOaicf6Ht-e6Ktbp-gTxRp
+#EXTINF:-1 xui-id="4231231" tvg-id="br#tv-verdes-mares-hd" tvg-name="GLOBO CE - TV VERDES MARES SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO CE - TV VERDES MARES SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRq9vQQq4w7J1QZo8f0BC_wuEkqyoNt-M27fMR6iOaWdD
+#EXTINF:-1 xui-id="4231232" tvg-id="TVGloboBrasilia.br" tvg-name="GLOBO DF - TV GLOBO BRASÍLIA FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO DF - TV GLOBO BRASÍLIA FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRusSLQ0oo7waNYVH_8B6b3EsVGxadsr88J6CeCXuw6nI
+#EXTINF:-1 xui-id="4231233" tvg-id="TVGloboBrasilia.br" tvg-name="GLOBO DF - TV GLOBO BRASÍLIA HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO DF - TV GLOBO BRASÍLIA HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRoi2-SycSswnVWjugVgIP4fK6YN9R0vfUSTWr9AXPART
+#EXTINF:-1 xui-id="4231234" tvg-id="TVGloboBrasilia.br" tvg-name="GLOBO DF - TV GLOBO BRASÍLIA SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO DF - TV GLOBO BRASÍLIA SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRrsPW4Q2cvxxH51aDB9GdaQ1k2d1glKcjIknJv1JD7UH
+#EXTINF:-1 xui-id="4231235" tvg-id="br#tv-vitoria-hd" tvg-name="GLOBO ES - TV GAZETA NOROESTE FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO ES - TV GAZETA NOROESTE FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRtM9F1whj_0aaDP0kGcFK6RfPONtY8IKcOxyFLqDPAJp
+#EXTINF:-1 xui-id="4231236" tvg-id="br#tv-vitoria-hd" tvg-name="GLOBO ES - TV GAZETA NOROESTE HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO ES - TV GAZETA NOROESTE HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRixPuPakEO3vB0O-kOtO-4ytwDHWnSH2tcQRDEiVe2n9
+#EXTINF:-1 xui-id="4231237" tvg-id="br#tv-vitoria-hd" tvg-name="GLOBO ES - TV GAZETA NOROESTE SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO ES - TV GAZETA NOROESTE SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRgk82_nZRQ-VebywOBMjv91fOWHa7PiWDsrqYzTuBeIk
+#EXTINF:-1 xui-id="4231238" tvg-id="br#tv-gazeta-sul" tvg-name="GLOBO ES - TV GAZETA SUL FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO ES - TV GAZETA SUL FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRsA5HIbZ5ORTMaliucqsQHyRwGLz6653tINQpfdpaXjZ
+#EXTINF:-1 xui-id="4231239" tvg-id="br#tv-gazeta-sul" tvg-name="GLOBO ES - TV GAZETA SUL HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO ES - TV GAZETA SUL HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRvFTWBRrrjBGrvlQ2A3WmoHUVtVf19Z7zEYkdHeX4eXX
+#EXTINF:-1 xui-id="4231240" tvg-id="br#tv-gazeta-sul" tvg-name="GLOBO ES - TV GAZETA SUL SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO ES - TV GAZETA SUL SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRucCZKYOeGC-2jIxPPPvuBC-fVPIpaZ97xExzHYkUx7J
+#EXTINF:-1 xui-id="4231242" tvg-id="br#tv-gazeta-sul" tvg-name="GLOBO ES - TV GAZETA VITORIA FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO ES - TV GAZETA VITORIA FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRuPVstrgVRObSK5ktnH-pI7RERYuUtdBh5ryJgtT5lJg
+#EXTINF:-1 xui-id="4231243" tvg-id="br#tv-gazeta-sul" tvg-name="GLOBO ES - TV GAZETA VITORIA HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO ES - TV GAZETA VITORIA HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRoTDnNKQxNj9dIEkhCTNUlWfeMX_K65gCxEuNlaePea-
+#EXTINF:-1 xui-id="4231244" tvg-id="br#tv-gazeta-sul" tvg-name="GLOBO ES - TV GAZETA VITORIA SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO ES - TV GAZETA VITORIA SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRme5gzDsOHAypgd2evwW71vxMB1NK_teo0NDyn1_M7jC
+#EXTINF:-1 xui-id="4231246" tvg-id="br#globo-anhanguera" tvg-name="GLOBO GO - TV ANHANGUERA ANÁPOLIS HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO GO - TV ANHANGUERA ANÁPOLIS HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRtBTjtK-ARZ3dIaRPZW9DZI_vX5Os5QW_wRXFu0R5y-0
+#EXTINF:-1 xui-id="4231247" tvg-id="br#globo-anhanguera" tvg-name="GLOBO GO - TV ANHANGUERA ANÁPOLIS SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO GO - TV ANHANGUERA ANÁPOLIS SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRhO9SyrWn7sD5p1w-UbsIGdouMtlkS8kO9q5mtCUZmng
+#EXTINF:-1 xui-id="4231251" tvg-id="TVAnhangueraGoiania.br" tvg-name="GLOBO GO - TV ANHANGUERA GOIANIA FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO GO - TV ANHANGUERA GOIANIA FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRo6eOTzPywqiTmacY8ymXZiGp8jy6VsI3fThz6aF5n6Z
+#EXTINF:-1 xui-id="4231252" tvg-id="TVAnhangueraGoiania.br" tvg-name="GLOBO GO - TV ANHANGUERA GOIANIA HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO GO - TV ANHANGUERA GOIANIA HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRuA6Qczb_71igetVBe6wpOp9xH_rshmZG_u1W61fLuFB
+#EXTINF:-1 xui-id="4231253" tvg-id="TVAnhangueraGoiania.br" tvg-name="GLOBO GO - TV ANHANGUERA GOIANIA SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO GO - TV ANHANGUERA GOIANIA SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRtNhSDnX43xRFfnIZx3XzAPSkAl680Je_k6b-e3c-zyP
+#EXTINF:-1 xui-id="4231269" tvg-id="24HAnimes" tvg-name="GLOBO MA - TV MIRANTE COCAIS FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO MA - TV MIRANTE COCAIS FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRv5_q3fXi6nVsA26O2FhWlOTXkrBDR_HpVt_z8qjDtA2
+#EXTINF:-1 xui-id="4231270" tvg-id="br#tv-mirante-s-o-luis" tvg-name="GLOBO MA - TV MIRANTE COCAIS HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO MA - TV MIRANTE COCAIS HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRl7f8xbRecUD6L1ZvGjvj_FFG_69ZfTPj7en4RRWyBv-
+#EXTINF:-1 xui-id="4231271" tvg-id="br#tv-mirante-s-o-luis" tvg-name="GLOBO MA - TV MIRANTE COCAIS SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO MA - TV MIRANTE COCAIS SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRiqFRI9T55V114Pk_4ORXfUT55PFQbK9A1TWV_P5Kqkg
+#EXTINF:-1 xui-id="4231272" tvg-id="br#tv-mirante-s-o-luis" tvg-name="GLOBO MA - TV MIRANTE FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO MA - TV MIRANTE FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRhYayTQPaUo02rZw5X0Yhkx_dZh4HtRG_jtNDv8ln85X
+#EXTINF:-1 xui-id="4231273" tvg-id="br#tv-mirante-s-o-luis" tvg-name="GLOBO MA - TV MIRANTE HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO MA - TV MIRANTE HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRnc0It6j6-Ivrl7mQCYLsi_M0gWG_2WFWcKhj1mCr68i
+#EXTINF:-1 xui-id="4231277" tvg-id="br#tv-mirante-s-o-luis" tvg-name="GLOBO MA - TV MIRANTE SAO LUIZ FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO MA - TV MIRANTE SAO LUIZ FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRpR5sD4DhQjr2-GjTRlwp2UqiD_txcFuQzBVYVNh8EG7
+#EXTINF:-1 xui-id="4231278" tvg-id="br#tv-mirante-s-o-luis" tvg-name="GLOBO MA - TV MIRANTE SAO LUIZ HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO MA - TV MIRANTE SAO LUIZ HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRnpokVMWYyUbcXQiSVmZ7SjA-DpVpt4NBFYI_u3WjlbZ
+#EXTINF:-1 xui-id="4231279" tvg-id="br#tv-mirante-s-o-luis" tvg-name="GLOBO MA - TV MIRANTE SAO LUIZ SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO MA - TV MIRANTE SAO LUIZ SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRtYGHA5Yb7KIpgWTjKLKUOpoWZt8iU53HyOXkP7t-_BE
+#EXTINF:-1 xui-id="4231280" tvg-id="br#tv-mirante-s-o-luis" tvg-name="GLOBO MA - TV MIRANTE SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO MA - TV MIRANTE SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRksyGPCHK3ELe6zPzstczin66HI0e4lE3X8RaYZhSnrJ
+#EXTINF:-1 xui-id="4231281" tvg-id="br#globo-belo-horizonte" tvg-name="GLOBO MG - INTERTV DOS VALES FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO MG - INTERTV DOS VALES FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRhGA2G6d5CoJiVi98p6G2EL5rBAu-PFk1m0pdYRJzH9N
+#EXTINF:-1 xui-id="4231282" tvg-id="br#globo-belo-horizonte" tvg-name="GLOBO MG - INTERTV DOS VALES HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO MG - INTERTV DOS VALES HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRhbrWrB7GB94DOv9kulR_qA-Cwrb11hezCOJlkeWGcO1
+#EXTINF:-1 xui-id="4231283" tvg-id="br#globo-belo-horizonte" tvg-name="GLOBO MG - INTERTV DOS VALES SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO MG - INTERTV DOS VALES SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRqtwMe_-a2-4Y0l3cqJnXk2_LrDRBbKcCLfkJQasdfX_
+#EXTINF:-1 xui-id="4231284" tvg-id="br#globo-belo-horizonte" tvg-name="GLOBO MG - INTERTV GRANDE MINAS FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO MG - INTERTV GRANDE MINAS FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRmPGgibWLHaoeDmHip54yfQK_vHaqggpsGOJFFl6wcIQ
+#EXTINF:-1 xui-id="4231285" tvg-id="br#globo-belo-horizonte" tvg-name="GLOBO MG - INTERTV GRANDE MINAS HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO MG - INTERTV GRANDE MINAS HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRhNPM1RlQ6xIlhzGuY7gpusocxpQq21LYiXzYKhMnCuy
+#EXTINF:-1 xui-id="4231286" tvg-id="br#globo-belo-horizonte" tvg-name="GLOBO MG - INTERTV GRANDE MINAS SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO MG - INTERTV GRANDE MINAS SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRowFjLcTYbq_x83wNhprA73sKRomvM5ARmeSAClDg6YQ
+#EXTINF:-1 xui-id="4231287" tvg-id="br#globo-belo-horizonte" tvg-name="GLOBO MG - TV GLOBO MINAS FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO MG - TV GLOBO MINAS FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRrebEPDVW8WuaqVtFweupTx-iIIQjxD8hBU5Q2X8fuiY
+#EXTINF:-1 xui-id="4231288" tvg-id="br#globo-belo-horizonte" tvg-name="GLOBO MG - TV GLOBO MINAS HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO MG - TV GLOBO MINAS HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRrH09ZkJqgIk209DFTWh679MpuoDe0R6X5FM7LeBh7p9
+#EXTINF:-1 xui-id="4231289" tvg-id="br#globo-belo-horizonte" tvg-name="GLOBO MG - TV GLOBO MINAS SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO MG - TV GLOBO MINAS SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRt-MGKfqiUXbaitOWFWXmGyzYE8k1R_d_hkkquY7DQ5a
+#EXTINF:-1 xui-id="4231290" tvg-id="br#globo-belo-horizonte" tvg-name="GLOBO MG - TV INTEGRAÇAO ARAXÁ FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO MG - TV INTEGRAÇAO ARAXÁ FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRpV9CjXB5TL8HtRWk3mHmsHQo5YIosMuVrAW9ZizvS4p
+#EXTINF:-1 xui-id="4231291" tvg-id="br#globo-belo-horizonte" tvg-name="GLOBO MG - TV INTEGRAÇAO ARAXÁ HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO MG - TV INTEGRAÇAO ARAXÁ HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRkVC8WcwaW7yHTpU766LLysTgN4kGhIYFmBTbVQAbzl1
+#EXTINF:-1 xui-id="4231292" tvg-id="br#globo-belo-horizonte" tvg-name="GLOBO MG - TV INTEGRAÇAO ARAXÁ SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO MG - TV INTEGRAÇAO ARAXÁ SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRi8-UbPJ1DW3fgwY79XL9CALiEw52-axVKtbDZ3bH0aB
+#EXTINF:-1 xui-id="4231295" tvg-id="br#globo-belo-horizonte" tvg-name="GLOBO MG - TV INTEGRAÇAO ITUIUTABA SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO MG - TV INTEGRAÇAO ITUIUTABA SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRhTqye5u7y9ygw3YyUi4iWuJs3fn1_5F3Q6hWVlbWXpS
+#EXTINF:-1 xui-id="4231296" tvg-id="br#globo-belo-horizonte" tvg-name="GLOBO MG - TV INTEGRAÇAO UBERLANDIA FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO MG - TV INTEGRAÇAO UBERLANDIA FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRvSuSUSiet4DMrv4I1na9NkpStNZvpBHsKgdGxeS889R
+#EXTINF:-1 xui-id="4231297" tvg-id="br#globo-belo-horizonte" tvg-name="GLOBO MG - TV INTEGRAÇAO UBERLANDIA HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO MG - TV INTEGRAÇAO UBERLANDIA HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRnoZOhisPAt2TkXSZGpM_laaM5ngCE1W6AP32HijEgGi
+#EXTINF:-1 xui-id="4231298" tvg-id="br#globo-belo-horizonte" tvg-name="GLOBO MG - TV INTEGRAÇAO UBERLANDIA SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO MG - TV INTEGRAÇAO UBERLANDIA SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRviPZsuMTdkpPtu9jhhrN9Ms6CrAzrMgydaOMCOlhoQW
+#EXTINF:-1 xui-id="4231300" tvg-id="br#tv-morena" tvg-name="GLOBO MS - TV MORENA CAMPO GRANDE FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO MS - TV MORENA CAMPO GRANDE FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRnftbTCKLpZQNnlE_4SGO62OH-I7a46XT3bgNbhX1KLa
+#EXTINF:-1 xui-id="4231301" tvg-id="br#tv-morena" tvg-name="GLOBO MS - TV MORENA CAMPO GRANDE HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO MS - TV MORENA CAMPO GRANDE HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRrvu-mK0qxH3DuJPW7oq3qGulLN0ZHE7CPcRks_jTzRa
+#EXTINF:-1 xui-id="4231302" tvg-id="br#tv-morena" tvg-name="GLOBO MS - TV MORENA CAMPO GRANDE SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO MS - TV MORENA CAMPO GRANDE SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRgQUauCTxMb66ohUCItAgt_fPzUfEfCwEoq0dGMHswsd
+#EXTINF:-1 xui-id="4231309" tvg-id="br#tv-morena" tvg-name="GLOBO MS - TV MORENA PONTA PORÃ FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO MS - TV MORENA PONTA PORÃ FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRh3vfiOY6EEyIoqhg4Z1gG0XvcOXlPNP6ZKbE6fuAjbR
+#EXTINF:-1 xui-id="4231310" tvg-id="br#tv-morena" tvg-name="GLOBO MS - TV MORENA PONTA PORÃ HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO MS - TV MORENA PONTA PORÃ HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRpbappyEgV9clK6zQAMgSUz-gIe20Hvh1V7irqFjowOW
+#EXTINF:-1 xui-id="4231311" tvg-id="br#tv-morena" tvg-name="GLOBO MS - TV MORENA PONTA PORÃ SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO MS - TV MORENA PONTA PORÃ SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRnFgc2RvopsdWBRupBY0N4Scuhx6tT15AZDWsU_7Jbcp
+#EXTINF:-1 xui-id="4231312" tvg-id="br#tv-morena" tvg-name="GLOBO MS - TV MORENA TRES LAGOAS FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO MS - TV MORENA TRES LAGOAS FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRmya0PfBpBb410Meyqel14nV2k9gL9EpsPm1y4NGQmba
+#EXTINF:-1 xui-id="4231313" tvg-id="br#tv-morena" tvg-name="GLOBO MS - TV MORENA TRES LAGOAS HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO MS - TV MORENA TRES LAGOAS HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRkA5pq4bL8jH1wwqOjZSaiZUQk27TAdDX6LWbCc_Fc8j
+#EXTINF:-1 xui-id="4231314" tvg-id="br#tv-morena" tvg-name="GLOBO MS - TV MORENA TRES LAGOAS SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO MS - TV MORENA TRES LAGOAS SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRvMrGTjC5tefkSSXELsjHQ0o8hgMjH0lps1xSxsC8w-A
+#EXTINF:-1 xui-id="4231315" tvg-id="Globo Centro America Cuiaba SD" tvg-name="GLOBO MT - TV CENTRO AMERICA CUIABABÁ  FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO MT - TV CENTRO AMERICA CUIABABÁ  FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRkKG5fmW5YJsE_kDAunPUzAB7tweYZ0XndogPzhoGQnW
+#EXTINF:-1 xui-id="4231316" tvg-id="Globo Centro America Cuiaba SD" tvg-name="GLOBO MT - TV CENTRO AMERICA CUIABABÁ HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO MT - TV CENTRO AMERICA CUIABABÁ HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRm5s2dm3FdQhmztd0J0cXIaXEwTXAvu3JjeVl3WRh0x_
+#EXTINF:-1 xui-id="4231317" tvg-id="Globo Centro America Cuiaba SD" tvg-name="GLOBO MT - TV CENTRO AMERICA CUIABABÁ SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO MT - TV CENTRO AMERICA CUIABABÁ SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRp-UqDu6Z52f1TFMFpLDd2bwxKO8iab87EvPMozAoY-1
+#EXTINF:-1 xui-id="4231333" tvg-id="br#globo-news-hd" tvg-name="GLOBO NEWS 4K" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ 4K",GLOBO NEWS 4K
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRp19N_gYRrBWbpMm4wt3BU7E_VTwPuRAjqmMTa6G_uPA
+#EXTINF:-1 xui-id="4231334" tvg-id="br#globo-news-hd" tvg-name="GLOBO NEWS FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ NOTÍCIAS",GLOBO NEWS FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRhISRCo3WX0b5OKKnZDDlHrAZ1l5n4ViAARHaUIpV3aH
+#EXTINF:-1 xui-id="4231335" tvg-id="br#globo-news-hd" tvg-name="GLOBO NEWS HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ NOTÍCIAS",GLOBO NEWS HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRtp_6CTbUZCUezHJ80xYf7zZczywpvEAJ3S-3Vt5FwFj
+#EXTINF:-1 xui-id="4231336" tvg-id="br#globo-news-hd" tvg-name="GLOBO NEWS SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ NOTÍCIAS",GLOBO NEWS SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRi1DzDpvzYi0HVPFUyYmxVLwSJMyNffRdlbao-q9YN4E
+#EXTINF:-1 xui-id="4231337" tvg-id="br#tv-liberal" tvg-name="GLOBO PA - TV LIBERAL ALTAMIRA FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO PA - TV LIBERAL ALTAMIRA FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRoP5cWSIEPMOrwRHde9CqH7c11hI80hkZgNefZ4JFGXY
+#EXTINF:-1 xui-id="4231338" tvg-id="br#tv-liberal" tvg-name="GLOBO PA - TV LIBERAL ALTAMIRA HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO PA - TV LIBERAL ALTAMIRA HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRhfdirYvXwbIahoGFL_S8FD2AqlThQKjXavgDNja82ST
+#EXTINF:-1 xui-id="4231339" tvg-id="br#tv-liberal" tvg-name="GLOBO PA - TV LIBERAL ALTAMIRA SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO PA - TV LIBERAL ALTAMIRA SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRuX39Kch1YfM-dEhYITt3gNWI5_x3ReUjAfNdnPBBBW-
+#EXTINF:-1 xui-id="4231340" tvg-id="br#tv-liberal" tvg-name="GLOBO PA - TV LIBERAL BELÉM FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO PA - TV LIBERAL BELÉM FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRqRGU7rPlP-TiyOXdMyWBp28mSTOgAlBwg6HpDBjAYV_
+#EXTINF:-1 xui-id="4231341" tvg-id="br#tv-liberal" tvg-name="GLOBO PA - TV LIBERAL BELÉM HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO PA - TV LIBERAL BELÉM HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRiPwImrBTHxlMPpduAg_QMEam0d0c9N5sLRoymoSOayF
+#EXTINF:-1 xui-id="4231342" tvg-id="br#tv-liberal" tvg-name="GLOBO PA - TV LIBERAL BELÉM SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO PA - TV LIBERAL BELÉM SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRlHlxer6Y5oPeS6zN3in052Tvb3X0SBusqGP7J7T6XsS
+#EXTINF:-1 xui-id="4231346" tvg-id="br#tv-liberal" tvg-name="GLOBO PA - TV LIBERAL FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO PA - TV LIBERAL FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRn9ftpeKfMcUqBKYVHBBZzp4Bwn3gm5xjhU_iimL0rBf
+#EXTINF:-1 xui-id="4231347" tvg-id="br#tv-liberal" tvg-name="GLOBO PA - TV LIBERAL HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO PA - TV LIBERAL HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRg7sS_L1vpfp157acduLWmQLOBH-FpL2swuS90suTWxa
+#EXTINF:-1 xui-id="4231357" tvg-id="br#tv-liberal" tvg-name="GLOBO PA - TV LIBERAL SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO PA - TV LIBERAL SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRo55dyVjWB_elF3G__-7LQz7hzbknfRFTLfUKJjBLgZH
+#EXTINF:-1 xui-id="4231364" tvg-id="br#globo-tv-tribuna" tvg-name="GLOBO PB - TV PARAIBA FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO PB - TV PARAIBA FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRvEOTFB0i71QOt-uG4roD9ofs-M-TDN4vpj-vscj5aqQ
+#EXTINF:-1 xui-id="4231365" tvg-id="br#globo-tv-tribuna" tvg-name="GLOBO PB - TV PARAIBA HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO PB - TV PARAIBA HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRtnSe6HjiRBRjouba29DbmtHFwCBoD3GpGE0cWC5kKtM
+#EXTINF:-1 xui-id="4231366" tvg-id="br#globo-tv-tribuna" tvg-name="GLOBO PB - TV PARAIBA SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO PB - TV PARAIBA SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRsHk1DsgMS6lfaZwU8h4ryj-zvHcAC64l39zBiIqTSgy
+#EXTINF:-1 xui-id="4231367" tvg-id="TVGloboNordeste.br" tvg-name="GLOBO PE - TV ASA BRANCA FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO PE - TV ASA BRANCA FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRhGwB2rKj-PBiQm4v5lDhkA3f_iy2KP1e__UTP8XimKa
+#EXTINF:-1 xui-id="4231368" tvg-id="TVGloboNordeste.br" tvg-name="GLOBO PE - TV ASA BRANCA HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO PE - TV ASA BRANCA HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRkQg2ZHy2-gX-6nqLsVV_yHhSkQuzvsN_WPtiTW9YxFc
+#EXTINF:-1 xui-id="4231369" tvg-id="TVGloboNordeste.br" tvg-name="GLOBO PE - TV ASA BRANCA SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO PE - TV ASA BRANCA SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRtTv6HQyZDl0_o9KLm7R8lReV12eCiwvNPEQ6WQ596d6
+#EXTINF:-1 xui-id="4231370" tvg-id="TVGloboNordeste.br" tvg-name="GLOBO PE - TV GLOBO PERNAMBUCO FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO PE - TV GLOBO PERNAMBUCO FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRgtqDhRDCV3w20x7EikaW6Ji-WnK2MOnJL8leyyXh-E8
+#EXTINF:-1 xui-id="4231371" tvg-id="TVGloboNordeste.br" tvg-name="GLOBO PE - TV GLOBO PERNAMBUCO HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO PE - TV GLOBO PERNAMBUCO HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRt4qurNDczynJRMIj2_JMAj49jympSZIQ8h1iXNIjvWN
+#EXTINF:-1 xui-id="4231372" tvg-id="TVGloboNordeste.br" tvg-name="GLOBO PE - TV GLOBO PERNAMBUCO SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO PE - TV GLOBO PERNAMBUCO SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRiJqCH1kB0gftGU6-rSU8prNXx8X8irz2zv8y61V1TMt
+#EXTINF:-1 xui-id="4231376" tvg-id="br#rede-globo-teresina" tvg-name="GLOBO PI - TV ALVORADA FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO PI - TV ALVORADA FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRhK-L9QGXcctieAoyKgsgGo_5xsjhd2Z0F4xYfFyZDs9
+#EXTINF:-1 xui-id="4231377" tvg-id="br#rede-globo-teresina" tvg-name="GLOBO PI - TV ALVORADA HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO PI - TV ALVORADA HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRl6oEm8casAzu8ZnW36BYTwOdDsf7CmrLK1DwJWicVer
+#EXTINF:-1 xui-id="4231378" tvg-id="br#tv-alvorada-do-sul-hd" tvg-name="GLOBO PI - TV ALVORADA SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO PI - TV ALVORADA SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRkadnuC8IeAseuNARmTJSV9pyxzIfx-cLUduIls-qxDp
+#EXTINF:-1 xui-id="4231380" tvg-id="br#rede-globo-teresina" tvg-name="GLOBO PI - TV CLUBE FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO PI - TV CLUBE FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRvlNgDsO_ggb5T8SuYLmw-mo3tWm0Ce-6UKEzoU8H3T2
+#EXTINF:-1 xui-id="4231381" tvg-id="br#rede-globo-teresina" tvg-name="GLOBO PI - TV CLUBE HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO PI - TV CLUBE HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRlqa1mEw1mx0ELt_oYntKc-4wg7Yeh78b0NOGXKwjq-k
+#EXTINF:-1 xui-id="4231382" tvg-id="br#rede-globo-teresina" tvg-name="GLOBO PI - TV CLUBE SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO PI - TV CLUBE SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRkTnQi8eXls7Df2aEv5Lg6UFy4jZp16aI_5e1XtntpgN
+#EXTINF:-1 xui-id="4231384" tvg-id="24HAnimes" tvg-name="GLOBO PR - RPC CASCAVEL HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO PR - RPC CASCAVEL HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRonqzQ4Qk5YvDSuJ3opKoaXAsDC2uJ2TlzlKyFwyzWh5
+#EXTINF:-1 xui-id="4231385" tvg-id="24HAnimes" tvg-name="GLOBO PR - RPC CASCAVEL SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO PR - RPC CASCAVEL SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRtDz-2cgCbj5tjH6SkK7p9KkNHxXacEPAyY9qc99ekvI
+#EXTINF:-1 xui-id="4231392" tvg-id="24HAnimes" tvg-name="GLOBO PR - RPC LONDRINA FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO PR - RPC LONDRINA FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRqY3uXjk2xvACvUUk7JTyhMwgLt21fyTmJgDfis6fb7Y
+#EXTINF:-1 xui-id="4231393" tvg-id="24HAnimes" tvg-name="GLOBO PR - RPC LONDRINA HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO PR - RPC LONDRINA HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRtY4kILObYG9PFUJlH1EAx3g4o7isXct7hSMau-jct2L
+#EXTINF:-1 xui-id="4231394" tvg-id="24HAnimes" tvg-name="GLOBO PR - RPC LONDRINA SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO PR - RPC LONDRINA SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRuJtLkZIWguNk2mJy4X5LBNJE6tt_5mbLoNs4rUUMXeE
+#EXTINF:-1 xui-id="4231401" tvg-id="RPCTVPontaGrossa.br" tvg-name="GLOBO PR - RPC PONTA GROSSA FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO PR - RPC PONTA GROSSA FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRvknn-_OKtat-RZi_2loBxSSTxmAWOa8XNwJwToAhxPZ
+#EXTINF:-1 xui-id="4231402" tvg-id="RPCTVPontaGrossa.br" tvg-name="GLOBO PR - RPC PONTA GROSSA HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO PR - RPC PONTA GROSSA HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRmDawZ8xp6qye92cbk3tYSZ-QoQ2P9lsalmmCwrxZ6Ms
+#EXTINF:-1 xui-id="4231403" tvg-id="RPCTVPontaGrossa.br" tvg-name="GLOBO PR - RPC PONTA GROSSA SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO PR - RPC PONTA GROSSA SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRsc39c_w6dBgJdhrXlehDkomKGjcf8iqjeV6Yj-jzII0
+#EXTINF:-1 xui-id="4231404" tvg-id="TVGloboRiodeJaneiro.br" tvg-name="GLOBO RJ - INTERTV ALTO LITORAL FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO RJ - INTERTV ALTO LITORAL FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRn5Z4MeqBmBUMsaLLDRUlUXtBjfGSIxThmQNYXG80AXF
+#EXTINF:-1 xui-id="4231405" tvg-id="TVGloboRiodeJaneiro.br" tvg-name="GLOBO RJ - INTERTV ALTO LITORAL HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO RJ - INTERTV ALTO LITORAL HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRkBp4MoC39DWW11zdoBIl4RW5a8_-BVlpS6EutdzAD2I
+#EXTINF:-1 xui-id="4231406" tvg-id="TVGloboRiodeJaneiro.br" tvg-name="GLOBO RJ - INTERTV ALTO LITORAL SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO RJ - INTERTV ALTO LITORAL SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRpxcGDyvSNAjYw9ith0cesc7pUsx4wVwiawi0NCXLKb_
+#EXTINF:-1 xui-id="4231407" tvg-id="TVGloboRiodeJaneiro.br" tvg-name="GLOBO RJ - INTERTV SERRA MAR FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO RJ - INTERTV SERRA MAR FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRmQP0X8lwZ9FrNB6oTZADQ1gB3ZYftTHsBUYs2zxpn_U
+#EXTINF:-1 xui-id="4231408" tvg-id="TVGloboRiodeJaneiro.br" tvg-name="GLOBO RJ - INTERTV SERRA MAR HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO RJ - INTERTV SERRA MAR HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRrsnNVPqHGF-fQqWSejKvFnIC87amzj0fRXhrcKZt2cO
+#EXTINF:-1 xui-id="4231409" tvg-id="TVGloboRiodeJaneiro.br" tvg-name="GLOBO RJ - INTERTV SERRA MAR SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO RJ - INTERTV SERRA MAR SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRsQI_W7g7Su4OKMo3vwGSYHlRuqZqSCvtHHieQje2DwT
+#EXTINF:-1 xui-id="4231411" tvg-id="TVGloboRiodeJaneiro.br" tvg-name="GLOBO RJ - TV GLOBO RIO DE JANEIRO FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO RJ - TV GLOBO RIO DE JANEIRO FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRojDwrU1MHCjCZkXNg7PWev8-W5W1DEc5ZCEquKUmvzE
+#EXTINF:-1 xui-id="4231412" tvg-id="TVGloboRiodeJaneiro.br" tvg-name="GLOBO RJ - TV GLOBO RIO DE JANEIRO HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO RJ - TV GLOBO RIO DE JANEIRO HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRspOwUyIfpMhQ_zs7y3_HjpHGMpd934VvGZbgdcZ5l5K
+#EXTINF:-1 xui-id="4231413" tvg-id="TVGloboRiodeJaneiro.br" tvg-name="GLOBO RJ - TV GLOBO RIO DE JANEIRO SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO RJ - TV GLOBO RIO DE JANEIRO SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRpR2XVJb-FSWB3INOBOaPY46Co7o8YSpk5RdZdvQP6Tv
+#EXTINF:-1 xui-id="4231414" tvg-id="InterTVCabugi.br" tvg-name="GLOBO RN - INTER TV CABUGI FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO RN - INTER TV CABUGI FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRvh7kXzZ5SRfz8LHG0QSc_wjI0ug8tv2wzNfZ-Sx7fAU
+#EXTINF:-1 xui-id="4231415" tvg-id="InterTVCabugi.br" tvg-name="GLOBO RN - INTER TV CABUGI HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO RN - INTER TV CABUGI HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRnjev7CdF-JaibJ7bzu7-KzfkuKFWAAFOCZfnSbje94N
+#EXTINF:-1 xui-id="4231416" tvg-id="InterTVCabugi.br" tvg-name="GLOBO RN - INTER TV CABUGI SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO RN - INTER TV CABUGI SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRuJh4Ety48gy-Kwr0OBVqhm3wn0ZizogJdqRXIruRc4V
+#EXTINF:-1 xui-id="4231417" tvg-id="InterTVCabugi.br" tvg-name="GLOBO RN - INTERTV COSTA BRANCA FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO RN - INTERTV COSTA BRANCA FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRssGU_WfifLTsWu64nV-J_p777Erzur-jlzjDZPHU9ZD
+#EXTINF:-1 xui-id="4231418" tvg-id="InterTVCabugi.br" tvg-name="GLOBO RN - INTERTV COSTA BRANCA HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO RN - INTERTV COSTA BRANCA HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRu17T3UnvLnD6hCuNnQ9Q68pKODN3tK3wrGeHjHSCFxE
+#EXTINF:-1 xui-id="4231419" tvg-id="InterTVCabugi.br" tvg-name="GLOBO RN - INTERTV COSTA BRANCA SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO RN - INTERTV COSTA BRANCA SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRk8zkJ-PnNNr6VU9_pP8hfbiOB-_kPrLMACQSxYcAPsc
+#EXTINF:-1 xui-id="4231420" tvg-id="br#tv-rondonia-hd" tvg-name="GLOBO RO - AMAZONICA PORTO VELHO FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO RO - AMAZONICA PORTO VELHO FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRg2qS-JQSBL1nZ03nua2l-S_eZl6Ebo6vwBDK5zAJukZ
+#EXTINF:-1 xui-id="4231421" tvg-id="br#tv-rondonia-hd" tvg-name="GLOBO RO - AMAZONICA PORTO VELHO HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO RO - AMAZONICA PORTO VELHO HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRnYciK-gHYObKPWwws0F-7vkXWUukdQJgH3u_OPXfpAF
+#EXTINF:-1 xui-id="4231422" tvg-id="br#tv-rondonia-hd" tvg-name="GLOBO RO - AMAZONICA PORTO VELHO SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO RO - AMAZONICA PORTO VELHO SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRjawewtLf5EZSH3Q5OhRZDEdtJxuIuF396u-z-LTpYKp
+#EXTINF:-1 xui-id="4231426" tvg-id="br#tv-rondonia-hd" tvg-name="GLOBO RO - REDE AMAZONICA CACOAL FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO RO - REDE AMAZONICA CACOAL FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRgeg-VzwhXMyKlThNjeBpSsjW7bhZUkqXURucDiYkoQv
+#EXTINF:-1 xui-id="4231427" tvg-id="br#tv-rondonia-hd" tvg-name="GLOBO RO - REDE AMAZONICA CACOAL HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO RO - REDE AMAZONICA CACOAL HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRsO_Moh3eEyo2GlQvPBjvRt8fk880R5rh3V_x2WpeeeN
+#EXTINF:-1 xui-id="4231428" tvg-id="br#tv-rondonia-hd" tvg-name="GLOBO RO - REDE AMAZONICA CACOAL SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO RO - REDE AMAZONICA CACOAL SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRt6gVIqm4Q0dPPdXkuIcm9n9NJCyhxfQz-RgP1-_MkFV
+#EXTINF:-1 xui-id="4231432" tvg-id="br#tv-rondonia-hd" tvg-name="GLOBO RO - REDE AMAZONICA VILHENA FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO RO - REDE AMAZONICA VILHENA FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRupCKXXaJLsQHCCBNTS5upSCJDsMSQOqwk9XTjKhHxrY
+#EXTINF:-1 xui-id="4231433" tvg-id="br#tv-rondonia-hd" tvg-name="GLOBO RO - REDE AMAZONICA VILHENA HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO RO - REDE AMAZONICA VILHENA HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRo21f-Tk7my0rp_XfqTuhJkig_e63rgN-AiBDwIsj3j9
+#EXTINF:-1 xui-id="4231434" tvg-id="br#tv-rondonia-hd" tvg-name="GLOBO RO - REDE AMAZONICA VILHENA SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO RO - REDE AMAZONICA VILHENA SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRkgWs-nES72j0T8QEcZDApokmFPUcTUAx5zmizJFqh94
+#EXTINF:-1 xui-id="4231435" tvg-id="RPCTVCuritiba.br" tvg-name="GLOBO RP - RP CURITIBA HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO RP - RP CURITIBA HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRp1sGEeGfHnqIPHyc77pdDWY68d9WEchCsBGbcW0gEdD
+#EXTINF:-1 xui-id="4231436" tvg-id="RPCTVCuritiba.br" tvg-name="GLOBO RP - RPC CURITIBA FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO RP - RPC CURITIBA FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRiMLb-cd8JA8Av5gR-_V8pNWqz0kr2ffNSTLtlRjXHVz
+#EXTINF:-1 xui-id="4231437" tvg-id="RPCTVCuritiba.br" tvg-name="GLOBO RP - RPC CURITIBA SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO RP - RPC CURITIBA SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRgRz0Xff8Ca-nJqPyQlbz0fuloMMzqDS4CUQBReajgAk
+#EXTINF:-1 xui-id="4231438" tvg-id="br#tv-boa-vista-hd" tvg-name="GLOBO RR - AMAZONICA BOA VISTA FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO RR - AMAZONICA BOA VISTA FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRifqfMeIaOS9bzNfwrcI_Kbx7cepaIiJj3qRtoVDNU2O
+#EXTINF:-1 xui-id="4231439" tvg-id="br#tv-boa-vista-hd" tvg-name="GLOBO RR - AMAZONICA BOA VISTA HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO RR - AMAZONICA BOA VISTA HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRoSYCOi5sOyv9259qEtBsMs4SFYSOwu6UUECWgrLGHz2
+#EXTINF:-1 xui-id="4231440" tvg-id="br#tv-boa-vista-hd" tvg-name="GLOBO RR - AMAZONICA BOA VISTA SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO RR - AMAZONICA BOA VISTA SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRgMGcr1K62S8mjzvMMqrk8Y2dbCjCExTJg1an4BJ_oQT
+#EXTINF:-1 xui-id="4231441" tvg-id="br#tv-roraima-hd" tvg-name="GLOBO RR - REDE AMAZONICA RORAINOPOLIS FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO RR - REDE AMAZONICA RORAINOPOLIS FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRhtoX5hY2A12lT8ecVGXC97zT0TnVH7bPszkMvAVUGbr
+#EXTINF:-1 xui-id="4231442" tvg-id="br#tv-roraima-hd" tvg-name="GLOBO RR - REDE AMAZONICA RORAINOPOLIS HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO RR - REDE AMAZONICA RORAINOPOLIS HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRnZeXEXyhI75Q38w2w2PlBt8P74Ddg2fZCFvtdOSigDn
+#EXTINF:-1 xui-id="4231443" tvg-id="br#tv-roraima-hd" tvg-name="GLOBO RR - REDE AMAZONICA RORAINOPOLIS SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO RR - REDE AMAZONICA RORAINOPOLIS SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRhOssi9EnCvUzy81SPYaE-zx3yYBu5BiN5jqgDpcfuml
+#EXTINF:-1 xui-id="4231447" tvg-id="RBSTVPortoAlegre.br" tvg-name="GLOBO RS - RBS TV CAXIAS DO SUL FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO RS - RBS TV CAXIAS DO SUL FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRpDLQjtMcmGCIaN8r11SNy5elk92RJzH-Wo4-GKNXQHY
+#EXTINF:-1 xui-id="4231448" tvg-id="RBSTVPortoAlegre.br" tvg-name="GLOBO RS - RBS TV CAXIAS DO SUL HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO RS - RBS TV CAXIAS DO SUL HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRnlAeNUN9binF-u_8A4JJ_Oe-CFOrpM-7wdRk-MgATYs
+#EXTINF:-1 xui-id="4231449" tvg-id="RBSTVPortoAlegre.br" tvg-name="GLOBO RS - RBS TV CAXIAS DO SUL SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO RS - RBS TV CAXIAS DO SUL SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRo9mV-q8jAx288qtFMNHxoTLv-NRpVjTzJu8eBO-uTOS
+#EXTINF:-1 xui-id="4231450" tvg-id="RBSTVPortoAlegre.br" tvg-name="GLOBO RS - RBS TV CRUZ ALTA FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO RS - RBS TV CRUZ ALTA FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRolPKlses3C1CqjuHp22gJvWi3qVf045LiQahaDDj7wt
+#EXTINF:-1 xui-id="4231451" tvg-id="RBSTVPortoAlegre.br" tvg-name="GLOBO RS - RBS TV CRUZ ALTA HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO RS - RBS TV CRUZ ALTA HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRtJDrpVImOqLQJGyUq1XjpUxdjLVCmDjlR8WFIZQ1QOy
+#EXTINF:-1 xui-id="4231452" tvg-id="RBSTVPortoAlegre.br" tvg-name="GLOBO RS - RBS TV CRUZ ALTA SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO RS - RBS TV CRUZ ALTA SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRs0HP2iR8J8zb9hR8EVBmlH11v8Znxj8yh9oTZJC_dX0
+#EXTINF:-1 xui-id="4231453" tvg-id="RBSTVPortoAlegre.br" tvg-name="GLOBO RS - RBS TV DOS VALES FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO RS - RBS TV DOS VALES FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRiKHM8D80_ZtJgJwAOe8eva4k4dvz1qDmk5DvD7JBXRq
+#EXTINF:-1 xui-id="4231454" tvg-id="RBSTVPortoAlegre.br" tvg-name="GLOBO RS - RBS TV DOS VALES HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO RS - RBS TV DOS VALES HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRqtTlDguh5mSJ0wJcFv_G4E_Pxs3bUBw_NhRQoyNhVaa
+#EXTINF:-1 xui-id="4231455" tvg-id="RBSTVPortoAlegre.br" tvg-name="GLOBO RS - RBS TV DOS VALES SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO RS - RBS TV DOS VALES SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRogFckMXFq4eNjOAHBM_Bu6GKuCLKM7EmEYpemOT3rWu
+#EXTINF:-1 xui-id="4231459" tvg-id="RBSTVPortoAlegre.br" tvg-name="GLOBO RS - RBS TV PASSO FUNDO FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO RS - RBS TV PASSO FUNDO FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRjYIRuQdUTsZHi6xlq9tVw7s3WTHLDHoBhjkVRlq_G0f
+#EXTINF:-1 xui-id="4231460" tvg-id="RBSTVPortoAlegre.br" tvg-name="GLOBO RS - RBS TV PASSO FUNDO HD" tvg-logo="http://longitudenow.site:80/images/9Nw9RlbJeU65ur_Bg0WfbA_AvdqbS_5PqAvxP8Eonbq1OHcIAM_hEaOC5T4IsJfIFzYLny9V306c9QGOv9TmfQ.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO RS - RBS TV PASSO FUNDO HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRgLEVCXD69PtGNQAwin56vBl0r8292-pf7fhWVJQlpqm
+#EXTINF:-1 xui-id="4231461" tvg-id="RBSTVPortoAlegre.br" tvg-name="GLOBO RS - RBS TV PASSO FUNDO SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO RS - RBS TV PASSO FUNDO SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRpY5uvd5_NzGfa-_ZV2OzfkFs33W7GWnlUJfLqX8O1O4
+#EXTINF:-1 xui-id="4231462" tvg-id="RBSTVPortoAlegre.br" tvg-name="GLOBO RS - RBS TV PELOTAS FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO RS - RBS TV PELOTAS FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRodienr_KtBVpHBFKFsnUZnbv2wplY9bpTOTkTKcF6bn
+#EXTINF:-1 xui-id="4231463" tvg-id="RBSTVPortoAlegre.br" tvg-name="GLOBO RS - RBS TV PELOTAS HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO RS - RBS TV PELOTAS HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRmWjwU_Yn1EBiIDX3VrjvhwsMDDCfZ1De7peHmckHqP0
+#EXTINF:-1 xui-id="4231464" tvg-id="RBSTVPortoAlegre.br" tvg-name="GLOBO RS - RBS TV PELOTAS SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO RS - RBS TV PELOTAS SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRgIZXY6IoCfxBumLo-ppjxCklG0lep1bVHOSvdkBmVuZ
+#EXTINF:-1 xui-id="4231465" tvg-id="RBSTVPortoAlegre.br" tvg-name="GLOBO RS - RBS TV PORTO ALEGRE FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO RS - RBS TV PORTO ALEGRE FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRtR-yXrvarO_JpHLOs7nhbuEz1kEaiwbkbh9h95SSYvv
+#EXTINF:-1 xui-id="4231466" tvg-id="RBSTVPortoAlegre.br" tvg-name="GLOBO RS - RBS TV PORTO ALEGRE FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO RS - RBS TV PORTO ALEGRE FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRqUXdZ0jTbekEdZSgJCKRJq2JZdI-ew5ljRC8yC3vSaW
+#EXTINF:-1 xui-id="4231467" tvg-id="RBSTVPortoAlegre.br" tvg-name="GLOBO RS - RBS TV PORTO ALEGRE HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO RS - RBS TV PORTO ALEGRE HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRjqZpIro0x2kKpTYVSkFdzckpfnv-yfATxPaE4GGj83M
+#EXTINF:-1 xui-id="4231468" tvg-id="RBSTVPortoAlegre.br" tvg-name="GLOBO RS - RBS TV PORTO ALEGRE HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO RS - RBS TV PORTO ALEGRE HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRtngBhtk9yU6CGSHZyXpE3nN4rtCvFaEpVt-zKzHIdK9
+#EXTINF:-1 xui-id="4231469" tvg-id="RBSTVPortoAlegre.br" tvg-name="GLOBO RS - RBS TV PORTO ALEGRE SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO RS - RBS TV PORTO ALEGRE SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRtVnmLoOgppSVYGge3jbLzQnztl-ScXiUVQxevoHWyYU
+#EXTINF:-1 xui-id="4231470" tvg-id="RBSTVPortoAlegre.br" tvg-name="GLOBO RS - RBS TV PORTO ALEGRE SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO RS - RBS TV PORTO ALEGRE SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRvB29uCMhi3EXfOIpnWBTgLrPYB6XSGbGV91js9_hu45
+#EXTINF:-1 xui-id="4231483" tvg-id="NSCTVBlumenau.br" tvg-name="GLOBO SC - NSC TV BLUMENAU FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO SC - NSC TV BLUMENAU FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRgS1d3RiF-kz7NJJUshdBQ5ZuifUT1QQcpqT97rQi4qe
+#EXTINF:-1 xui-id="4231484" tvg-id="NSCTVBlumenau.br" tvg-name="GLOBO SC - NSC TV BLUMENAU HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO SC - NSC TV BLUMENAU HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRgYicw4MIsjssYwBtlyKLDUdccx2iJdUU7JYcmgdhGyj
+#EXTINF:-1 xui-id="4231485" tvg-id="NSCTVBlumenau.br" tvg-name="GLOBO SC - NSC TV BLUMENAU SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO SC - NSC TV BLUMENAU SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRr-sUWOh6loQj0loYWtJL5qGc7NlftsUDSLXoEZJoSql
+#EXTINF:-1 xui-id="4231488" tvg-id="NSCTVFlorianopolis.br" tvg-name="GLOBO SC - NSC TV CENTRO OESTE SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO SC - NSC TV CENTRO OESTE SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRnfA_hMAanTFGoDy0gUVWbZQGJL16Gu7Gvk9RTqU4hWw
+#EXTINF:-1 xui-id="4231489" tvg-id="NSCTVChapeco.br" tvg-name="GLOBO SC - NSC TV CHAPECÓ FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO SC - NSC TV CHAPECÓ FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRkRtYu5zYnEJIUm95YH5qvj82725TQ_gyt5oy0m-xuz2
+#EXTINF:-1 xui-id="4231490" tvg-id="NSCTVChapeco.br" tvg-name="GLOBO SC - NSC TV CHAPECÓ HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO SC - NSC TV CHAPECÓ HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRnpfv7G5uw0TMql_NGNN6GdJeIldEDBA0JfwfgK6Z1yJ
+#EXTINF:-1 xui-id="4231491" tvg-id="NSCTVChapeco.br" tvg-name="GLOBO SC - NSC TV CHAPECÓ SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO SC - NSC TV CHAPECÓ SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRjiVZJgP2GrNSMbcIcVyNH2f-kgEMJrruAzDrIvTIaVn
+#EXTINF:-1 xui-id="4231492" tvg-id="NSCTVCriciuma.br" tvg-name="GLOBO SC - NSC TV CRICIÚMA FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO SC - NSC TV CRICIÚMA FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRjIpL2ruZuKGAZqO4Twuk56De4dgf-QR38GIgEISJT0V
+#EXTINF:-1 xui-id="4231493" tvg-id="NSCTVCriciuma.br" tvg-name="GLOBO SC - NSC TV CRICIÚMA HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO SC - NSC TV CRICIÚMA HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRpLYuqGHXOA2vVNYTFlyvCWzNKe7I0fq6lyeftAQdAbS
+#EXTINF:-1 xui-id="4231494" tvg-id="NSCTVCriciuma.br" tvg-name="GLOBO SC - NSC TV CRICIÚMA SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO SC - NSC TV CRICIÚMA SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRiMiGVUN7-GCE1LkGgN3QEcbUMvEtaUFaSTnYSvPmf8D
+#EXTINF:-1 xui-id="4231495" tvg-id="NSCTVFlorianopolis.br" tvg-name="GLOBO SC - NSC TV FLORIANOPOLIS FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO SC - NSC TV FLORIANOPOLIS FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRvbBGiKzYCVBW42xopIdA1Wgh777F8E3gDifBmzJAzLl
+#EXTINF:-1 xui-id="4231496" tvg-id="NSCTVFlorianopolis.br" tvg-name="GLOBO SC - NSC TV FLORIANOPOLIS HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO SC - NSC TV FLORIANOPOLIS HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRvKmgpYr2q3kychLrxndiJYVjkPNUjBk51wzF5aEOaDm
+#EXTINF:-1 xui-id="4231497" tvg-id="NSCTVFlorianopolis.br" tvg-name="GLOBO SC - NSC TV FLORIANOPOLIS SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO SC - NSC TV FLORIANOPOLIS SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRveAH013NmH7a8seMB0oM6BYKbbwpumt20DCftQJC_wT
+#EXTINF:-1 xui-id="4231498" tvg-id="NSCTVJoinville.br" tvg-name="GLOBO SC - NSC TV JOINVILLE FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO SC - NSC TV JOINVILLE FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRvlufKKdkgZwQ9jDsdXARrq-28YmoaPI-o_DHUBgt2-s
+#EXTINF:-1 xui-id="4231499" tvg-id="NSCTVJoinville.br" tvg-name="GLOBO SC - NSC TV JOINVILLE HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO SC - NSC TV JOINVILLE HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRj0ktN5CH-OgYUbAG7AOj_INaNUz9R9yexUfoLO2QnrZ
+#EXTINF:-1 xui-id="4231500" tvg-id="NSCTVJoinville.br" tvg-name="GLOBO SC - NSC TV JOINVILLE SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO SC - NSC TV JOINVILLE SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRqdCqrR14qszpQAgwdlHTqsH-1c9AdaUcnWk-Q2yk47-
+#EXTINF:-1 xui-id="4231501" tvg-id="br#rede-globo-aracaju" tvg-name="GLOBO SE - TV SERGIPE FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO SE - TV SERGIPE FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRoYJ7bB21fdr3ozyJgIbgW8cGe8pv1-ZUlkCyKMLug9e
+#EXTINF:-1 xui-id="4231502" tvg-id="br#rede-globo-aracaju" tvg-name="GLOBO SE - TV SERGIPE HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO SE - TV SERGIPE HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRiselKTA4nEY4AcOLXGGfLKbIggyz7kPj1WUD32YMZlJ
+#EXTINF:-1 xui-id="4231503" tvg-id="br#rede-globo-aracaju" tvg-name="GLOBO SE - TV SERGIPE SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO SE - TV SERGIPE SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRmE6aVyo8QbNENsKZ8gMIHr19IwSn3Cd_Fl795M6Z6bf
+#EXTINF:-1 xui-id="4231504" tvg-id="br#globo-s-o-paulo-hd" tvg-name="GLOBO SP - EPTV CAMPINAS FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO SP - EPTV CAMPINAS FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRsNDMTLpys6ajEITdjPuAVMx_pACZ3dclQJ1NTTWMtxg
+#EXTINF:-1 xui-id="4231505" tvg-id="br#globo-s-o-paulo-hd" tvg-name="GLOBO SP - EPTV CAMPINAS HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO SP - EPTV CAMPINAS HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRlBF62ZJHxFqreh_scb11PiC1NJzsphDWlVJafsk7zQL
+#EXTINF:-1 xui-id="4231506" tvg-id="br#globo-s-o-paulo-hd" tvg-name="GLOBO SP - EPTV CAMPINAS SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO SP - EPTV CAMPINAS SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRspBu1FF3weqW3KfxCIPGzFryNc9e_jJn6TNCBuEOgdC
+#EXTINF:-1 xui-id="4231507" tvg-id="br#globo-s-o-paulo-hd" tvg-name="GLOBO SP - EPTV RIBEIRAO PRETO FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO SP - EPTV RIBEIRAO PRETO FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRq4iPXCwqHSjxJmlvzRrAXgHX1TaXm7e1sXPAC2VMh8c
+#EXTINF:-1 xui-id="4231508" tvg-id="br#globo-s-o-paulo-hd" tvg-name="GLOBO SP - EPTV RIBEIRAO PRETO HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO SP - EPTV RIBEIRAO PRETO HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRqIKSHq5TIH6N5JWYrBwD5U1YvEVR8f19MmCOrc74Ljk
+#EXTINF:-1 xui-id="4231509" tvg-id="br#globo-s-o-paulo-hd" tvg-name="GLOBO SP - EPTV RIBEIRAO PRETO SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO SP - EPTV RIBEIRAO PRETO SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRtJKA48Mzg68yMal3E6HEFIQxqNqlQnWfJPWhGzqdi06
+#EXTINF:-1 xui-id="4231516" tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO SP - TV GLOBO SAO PAULO 4K" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ 4K",GLOBO SP - TV GLOBO SAO PAULO 4K
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRlBVZDJ23tvSTVAqYJy-x22qAO8s0uLZFH5JYS0nqvUC
+#EXTINF:-1 xui-id="4231517" tvg-id="br#globo-s-o-paulo-hd" tvg-name="GLOBO SP - TV GLOBO SAO PAULO FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO SP - TV GLOBO SAO PAULO FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRghe2OVMOuOIbRBbsUn-jqhhRXtgE1qpdFCzfTl9GQaY
+#EXTINF:-1 xui-id="4231518" tvg-id="br#globo-s-o-paulo-hd" tvg-name="GLOBO SP - TV GLOBO SAO PAULO HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO SP - TV GLOBO SAO PAULO HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRuc3YJ0ymvXVSLairqEg84fhnjnjdWBqg92UfGZpcGk9
+#EXTINF:-1 xui-id="4231519" tvg-id="br#globo-s-o-paulo-hd" tvg-name="GLOBO SP - TV GLOBO SAO PAULO SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO SP - TV GLOBO SAO PAULO SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRpJI6wRlDhNxSowTi91whuc8Gp9NjxFT5EBdzxb1I-qg
+#EXTINF:-1 xui-id="4231520" tvg-id="br#globo-s-o-paulo-hd" tvg-name="GLOBO SP - TV TEM BAURU FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO SP - TV TEM BAURU FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRpikdgD2fuIBC7pd_jgLe1gaJCmPhnXCeCroltOoGAwr
+#EXTINF:-1 xui-id="4231521" tvg-id="br#globo-s-o-paulo-hd" tvg-name="GLOBO SP - TV TEM BAURU HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO SP - TV TEM BAURU HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRqzgPF8URXdshOF2-PIPj5YD3e5yB321VfB_hHe-7nw3
+#EXTINF:-1 xui-id="4231522" tvg-id="br#globo-s-o-paulo-hd" tvg-name="GLOBO SP - TV TEM BAURU SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO SP - TV TEM BAURU SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRulDLc1Fejm3__5-UKCQMyuHhHPO3Om4ikGXzePflDPm
+#EXTINF:-1 xui-id="4231523" tvg-id="br#globo-s-o-paulo-hd" tvg-name="GLOBO SP - TV TEM ITAPETINGA FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO SP - TV TEM ITAPETINGA FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRmFb7cJ4Yyl2FmRQ3NXk2QD3GI6gnhykqZEg2E_YBzqe
+#EXTINF:-1 xui-id="4231524" tvg-id="br#globo-s-o-paulo-hd" tvg-name="GLOBO SP - TV TEM ITAPETINGA HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO SP - TV TEM ITAPETINGA HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRpNL-1zc-Gw6L0lwu7egP65JEV85gGcog8XH4Fez-F8D
+#EXTINF:-1 xui-id="4231525" tvg-id="br#globo-s-o-paulo-hd" tvg-name="GLOBO SP - TV TEM ITAPETINGA SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO SP - TV TEM ITAPETINGA SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRj6w7qhSBYveVki8IZ6POvoTq2-ICYy4UjmKIgosKsXz
+#EXTINF:-1 xui-id="4231526" tvg-id="br#globo-s-o-paulo-hd" tvg-name="GLOBO SP - TV TEM SAO JOSÉ DO RIO PRETO FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO SP - TV TEM SAO JOSÉ DO RIO PRETO FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRiTbSj_d2iTcdLQ9YmO7xkbDk516pmEdrLLrPtWBQOLf
+#EXTINF:-1 xui-id="4231527" tvg-id="br#globo-s-o-paulo-hd" tvg-name="GLOBO SP - TV TEM SAO JOSÉ DO RIO PRETO HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO SP - TV TEM SAO JOSÉ DO RIO PRETO HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRtK2AzUwEKWhmfqUBOxTXKVB42hYurd0hhvomaU2RmLB
+#EXTINF:-1 xui-id="4231528" tvg-id="br#globo-s-o-paulo-hd" tvg-name="GLOBO SP - TV TEM SAO JOSÉ DO RIO PRETO SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO SP - TV TEM SAO JOSÉ DO RIO PRETO SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRseTHK8sJXBO7HYpROCMCgSZdtsvB8z76YZhA3D4FfB7
+#EXTINF:-1 xui-id="4231529" tvg-id="br#globo-s-o-paulo-hd" tvg-name="GLOBO SP - TV TEM SOROCABA FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO SP - TV TEM SOROCABA FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRrsPrzHQkPswQotSLTpVyqQmkxq2NS8dk1EZx-zalnv-
+#EXTINF:-1 xui-id="4231530" tvg-id="br#globo-s-o-paulo-hd" tvg-name="GLOBO SP - TV TEM SOROCABA HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO SP - TV TEM SOROCABA HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRsUKBfwXRQXm2CASGWa_5FwpGFjpHcicfOM8JQ-zJR9i
+#EXTINF:-1 xui-id="4231531" tvg-id="br#globo-s-o-paulo-hd" tvg-name="GLOBO SP - TV TEM SOROCABA SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO SP - TV TEM SOROCABA SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRtDl_nS-pglJAACLPII_wQF7Zn_RaarJkqaV4TlK93sv
+#EXTINF:-1 xui-id="4231532" tvg-id="br#tv-tribuna-hd-1" tvg-name="GLOBO SP - TV TRIBUNA SANTOS FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO SP - TV TRIBUNA SANTOS FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRjy4N_ZqLmTv9SgMcK4_lTxAYwIovE0OIhHE-PjHt71v
+#EXTINF:-1 xui-id="4231533" tvg-id="br#tv-tribuna-hd" tvg-name="GLOBO SP - TV TRIBUNA SANTOS HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO SP - TV TRIBUNA SANTOS HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRjGmf2CIPME4WDuPu1o5eGqE2CThVHGVGXKNae-CLHeG
+#EXTINF:-1 xui-id="4231534" tvg-id="br#tv-tribuna-hd" tvg-name="GLOBO SP - TV TRIBUNA SANTOS SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO SP - TV TRIBUNA SANTOS SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRjovbzz0UV26fNvOnMq4-XFgQZuLOSIwa-yaOurSwSo0
+#EXTINF:-1 xui-id="4231535" tvg-id="24HAnimes" tvg-name="GLOBO SP - TV VANGUARDA TAUBATÉ FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO SP - TV VANGUARDA TAUBATÉ FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRqqyFWyv29MI4tdFWsNCB33xYj6pCk677h_MfOByI_Ao
+#EXTINF:-1 xui-id="4231537" tvg-id="24HAnimes" tvg-name="GLOBO SP - TV VANGUARDA TAUBATÉ SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO SP - TV VANGUARDA TAUBATÉ SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRvW4A9aByNuPk-6wFc5j1fEDmLBvMYayVW-wb9ojg4Bm
+#EXTINF:-1 xui-id="4231538" tvg-id="br#tv-anhanguera-palmas" tvg-name="GLOBO TO - TV ANHANGUERA ARAGUAINA FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO TO - TV ANHANGUERA ARAGUAINA FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRq8B9yRXizCA4nWH5G9bVdTqoqSm4KKAfbJ6jsLnSvFj
+#EXTINF:-1 xui-id="4231539" tvg-id="TVAnhangueraGoiania.br" tvg-name="GLOBO TO - TV ANHANGUERA ARAGUAINA HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO TO - TV ANHANGUERA ARAGUAINA HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRvTkEDKx1KfIJ331B3aAK6woXW7y5sdUjdlQsYhehqIV
+#EXTINF:-1 xui-id="4231540" tvg-id="br#tv-anhanguera-palmas" tvg-name="GLOBO TO - TV ANHANGUERA ARAGUAINA SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBO TO - TV ANHANGUERA ARAGUAINA SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRgrlNwOPmjeA8wj2l5rL8k06srK3BjKpsHRPkaRMSXe4
+#EXTINF:-1 xui-id="4231544" tvg-id="br#globo-belo-horizonte" tvg-name="GLOBOO MG - TV INTEGRAÇAO UBERABA FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBOO MG - TV INTEGRAÇAO UBERABA FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRuIPMATmsTD5niIdo7D-trKcFFOT30MJGvCpuHsJRIJm
+#EXTINF:-1 xui-id="4231545" tvg-id="br#globo-belo-horizonte" tvg-name="GLOBOO MG - TV INTEGRAÇAO UBERABA HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBOO MG - TV INTEGRAÇAO UBERABA HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRnxF1rrqVKrADblgAqep5Zo2GtPr4-2emnfgiGJjDF83
+#EXTINF:-1 xui-id="4231546" tvg-id="br#globo-belo-horizonte" tvg-name="GLOBOO MG - TV INTEGRAÇAO UBERABA SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F20 M5 ⭐ GLOBOS",GLOBOO MG - TV INTEGRAÇAO UBERABA SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRnHVVsnUrB3U13Dg5zhoZqOxn_BCLpOC5lUHluGKdP_A
+#EXTINF:-1 xui-id="4231547" tvg-id="br#gloob-hd" tvg-name="GLOOB FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOOB_HD.png" group-title="F20 M5 ⭐ INFANTIL",GLOOB FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRpAVo5iwJu72i9-yVMyC_gj4KIaWIp3vAOeyMZAUeghk
+#EXTINF:-1 xui-id="4231548" tvg-id="br#gloob-hd" tvg-name="GLOOB HD" tvg-logo="https://img.hotice.site/icones_channels/GLOOB_HD.png" group-title="F20 M5 ⭐ INFANTIL",GLOOB HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRm24Sru5z8wZ0dmkoqKjpMpAe4_8NFLxcdQE7Y-EHDUO
+#EXTINF:-1 xui-id="4231549" tvg-id="br#gloob-hd" tvg-name="GLOOB SD" tvg-logo="https://img.hotice.site/icones_channels/GLOOB_HD.png" group-title="F20 M5 ⭐ INFANTIL",GLOOB SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRhPRqf-kZ4weOLJMXdod6lUdpVknzw-L98OP4W7rh0ko
+#EXTINF:-1 xui-id="4231550" tvg-id="br#gloobinho-hd" tvg-name="GLOOBINHO FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOOBINHO.png" group-title="F20 M5 ⭐ INFANTIL",GLOOBINHO FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRnM8bbj4WpIa9jAR-NwTBWFAjC2tmbI5dq6sSzp_MES1
+#EXTINF:-1 xui-id="4231551" tvg-id="br#gloobinho-hd" tvg-name="GLOOBINHO HD" tvg-logo="https://img.hotice.site/icones_channels/GLOOBINHO.png" group-title="F20 M5 ⭐ INFANTIL",GLOOBINHO HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRqxzuR8Vle8zujLGNwElKQtKyFJ06zWvBixvmodLnGjz
+#EXTINF:-1 xui-id="4231552" tvg-id="br#gloobinho-hd" tvg-name="GLOOBINHO SD" tvg-logo="https://img.hotice.site/icones_channels/GLOOBINHO.png" group-title="F20 M5 ⭐ INFANTIL",GLOOBINHO SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRkzaJxUEF24eEiDkHUS7PoQWkjR7BaGA8Vk_mwAbcfnH
+#EXTINF:-1 xui-id="4231553" tvg-id="br#gnt-hd" tvg-name="GNT FHD" tvg-logo="https://img.hotice.site/icones_channels/GNT_HD.png" group-title="F20 M5 ⭐ VARIEDADES",GNT FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRs4kYx30UxGXNuTkBBGr9G8k7ssxh7uW2pE1HUgrVzoe
+#EXTINF:-1 xui-id="4231554" tvg-id="br#gnt-hd" tvg-name="GNT HD" tvg-logo="https://img.hotice.site/icones_channels/GNT_HD.png" group-title="F20 M5 ⭐ VARIEDADES",GNT HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRnocxmACz6kue3oTYKQUjVlb7dY7PSw1gzRWNftdd9ho
+#EXTINF:-1 xui-id="4231555" tvg-id="br#gnt-hd" tvg-name="GNT SD" tvg-logo="https://img.hotice.site/icones_channels/GNT_HD.png" group-title="F20 M5 ⭐ VARIEDADES",GNT SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRqj1KJfVI33cN8sE8BQgqV4gpPK4_QcGjJbV3y8qF-8Z
+#EXTINF:-1 xui-id="4238244" tvg-id="" tvg-name="Guardiões da Galaxia 24hs" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",Guardiões da Galaxia 24hs
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRgAJevU3Ut3nz9rAoAL5TsylGdFB1B1qXZ9805JfNw7D
+#EXTINF:-1 xui-id="4231557" tvg-id="HBO.br" tvg-name="HBO 4K" tvg-logo="https://img.inboxbr.pro/icones_channels/hbo.png" group-title="F20 M5 ⭐ 4K",HBO 4K
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRoxmloQXlJzsALzzBvSFMwHKtFHOOIG-r8DeQayN3mrm
+#EXTINF:-1 xui-id="4231558" tvg-id="HBOFamily.br" tvg-name="HBO FAMILY 4K" tvg-logo="https://img.hotice.site/icones_channels/HBO_FAMILY_HD.png" group-title="F20 M5 ⭐ 4K",HBO FAMILY 4K
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRrQGd7G4LD7M7a4h7cEaHECpv3g7acU7SUKouHbzE-Mf
+#EXTINF:-1 xui-id="4231559" tvg-id="HBOFamily.br" tvg-name="HBO FAMILY FHD" tvg-logo="https://img.hotice.site/icones_channels/HBO_FAMILY_HD.png" group-title="F20 M5 ⏩ HBO",HBO FAMILY FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRj34V6yY00-8xnMrSE8iyibhauXUrdRNrRIeUAS4Xx-I
+#EXTINF:-1 xui-id="4231560" tvg-id="HBOFamily.br" tvg-name="HBO FAMILY HD" tvg-logo="https://img.hotice.site/icones_channels/HBO_FAMILY_HD.png" group-title="F20 M5 ⏩ HBO",HBO FAMILY HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRi3P7h2MgancaRbH7vYTl72NBf7LKNwKxfA9MvKXlsb0
+#EXTINF:-1 xui-id="4231561" tvg-id="HBOFamily.br" tvg-name="HBO FAMILY SD" tvg-logo="https://img.hotice.site/icones_channels/HBO_FAMILY_HD.png" group-title="F20 M5 ⏩ HBO",HBO FAMILY SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRtwsuRnwVS5tEjJiXUA8N0iafYdNBahGNV55vf03dTPD
+#EXTINF:-1 xui-id="4231562" tvg-id="HBO.br" tvg-name="HBO FHD" tvg-logo="https://img.inboxbr.pro/icones_channels/hbo.png" group-title="F20 M5 ⏩ HBO",HBO FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRoGUGctw75Khm7bAZ6WHMy0fF9NQqfKiUoIumC2yqOgB
+#EXTINF:-1 xui-id="4231563" tvg-id="HBO.br" tvg-name="HBO HD" tvg-logo="https://img.inboxbr.pro/icones_channels/hbo.png" group-title="F20 M5 ⏩ HBO",HBO HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRt-nNrPg2NAwocOtBuj2OmpoMEdgLLnA4YUMnNdVuYlN
+#EXTINF:-1 xui-id="4231564" tvg-id="HBOMundi.br" tvg-name="HBO MUNDI 4K" tvg-logo="https://img.hotice.site/icones_channels/HBO_MUNDI_HD.png" group-title="F20 M5 ⭐ 4K",HBO MUNDI 4K
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRr-siSzCy2uTCJhCwQLrGvKYYnpbgbNmAnZKS12aHjaB
+#EXTINF:-1 xui-id="4231565" tvg-id="HBOMundi.br" tvg-name="HBO MUNDI FHD" tvg-logo="https://img.hotice.site/icones_channels/HBO_MUNDI_HD.png" group-title="F20 M5 ⏩ HBO",HBO MUNDI FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRvc-nC0MTK0C0Nxyc-uSsxyWOjQhkuiGNcHNQNtUTH2C
+#EXTINF:-1 xui-id="4231566" tvg-id="HBOMundi.br" tvg-name="HBO MUNDI HD" tvg-logo="https://img.hotice.site/icones_channels/HBO_MUNDI_HD.png" group-title="F20 M5 ⏩ HBO",HBO MUNDI HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRjJf0KBtzrV9ra5EkzMGvvQWruNJ5KlInnhibhjvE0_I
+#EXTINF:-1 xui-id="4231567" tvg-id="HBOMundi.br" tvg-name="HBO MUNDI SD" tvg-logo="https://img.hotice.site/icones_channels/HBO_MUNDI_HD.png" group-title="F20 M5 ⏩ HBO",HBO MUNDI SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRnpdu9OFrEkB369wCR929cG88cz44FRwV3e7TGygXuk6
+#EXTINF:-1 xui-id="4231568" tvg-id="HBOPop.br" tvg-name="HBO POP 4K" tvg-logo="https://img.hotice.site/icones_channels/HBO_POP_HD.png" group-title="F20 M5 ⭐ 4K",HBO POP 4K
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRn6Rnj93FzXfkKgq0Olbqsg5XXVKMhmJlTmCYGhUoNaP
+#EXTINF:-1 xui-id="4231569" tvg-id="HBOPop.br" tvg-name="HBO POP FHD" tvg-logo="https://img.hotice.site/icones_channels/HBO_POP_HD.png" group-title="F20 M5 ⏩ HBO",HBO POP FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRp4Ao69Znt8_zlSGokt6bTxbx8OSS4bTFGcmBp2gNINr
+#EXTINF:-1 xui-id="4231570" tvg-id="HBOPop.br" tvg-name="HBO POP HD" tvg-logo="https://img.hotice.site/icones_channels/HBO_POP_HD.png" group-title="F20 M5 ⏩ HBO",HBO POP HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRhqDV66K2IMtfBbfURofUP8RdT_fm-2ZijaClkhvOuGM
+#EXTINF:-1 xui-id="4231571" tvg-id="HBOPop.br" tvg-name="HBO POP SD" tvg-logo="https://img.hotice.site/icones_channels/HBO_POP_HD.png" group-title="F20 M5 ⏩ HBO",HBO POP SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRhbbQtx_aexIRjg579HUoZHHtyYw-_4FRkRwEJJB1OmS
+#EXTINF:-1 xui-id="4231572" tvg-id="HBO.br" tvg-name="HBO SD" tvg-logo="https://img.inboxbr.pro/icones_channels/hbo.png" group-title="F20 M5 ⏩ HBO",HBO SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRvo4W4jCexe_Dh5K7R6wSQovLIIPiuB2EBvFyisQ6AkF
+#EXTINF:-1 xui-id="4231573" tvg-id="HBOSignature.br" tvg-name="HBO SIGNATURE 4K" tvg-logo="https://img.hotice.site/icones_channels/HBO_SIGNATURE_HD.png" group-title="F20 M5 ⭐ 4K",HBO SIGNATURE 4K
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRhAEwJHQD7u6rBSUYjHPsMIJcHDSscBH3VCXxo3GlFzT
+#EXTINF:-1 xui-id="4231574" tvg-id="HBOSignature.br" tvg-name="HBO SIGNATURE FHD" tvg-logo="https://img.hotice.site/icones_channels/HBO_SIGNATURE_HD.png" group-title="F20 M5 ⏩ HBO",HBO SIGNATURE FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRqBIEubERyCJ_VijOPU8zAV6JRP-ixSzHZna2ag060dt
+#EXTINF:-1 xui-id="4231575" tvg-id="HBOSignature.br" tvg-name="HBO SIGNATURE HD" tvg-logo="https://img.hotice.site/icones_channels/HBO_SIGNATURE_HD.png" group-title="F20 M5 ⏩ HBO",HBO SIGNATURE HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRjHeNzvWZOBd9Go9Ust4RL5VDdLBFWTRH7HZe__0fvOW
+#EXTINF:-1 xui-id="4231576" tvg-id="HBOSignature.br" tvg-name="HBO SIGNATURE SD" tvg-logo="https://img.hotice.site/icones_channels/HBO_SIGNATURE_HD.png" group-title="F20 M5 ⏩ HBO",HBO SIGNATURE SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRr9sBss-WghNH8Tk7oCVW6vFcDVgmF3MbAk8LCs2gxNi
+#EXTINF:-1 xui-id="4231577" tvg-id="HBO Xtreme HD" tvg-name="HBO XTREME 4K" tvg-logo="https://img.hotice.site/icones_channels/HBO_XTREME_HD.png" group-title="F20 M5 ⭐ 4K",HBO XTREME 4K
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRsRHBvb34ikotgmUIvc8hm_TOsqUN9Zscyz6l0yTy1Kw
+#EXTINF:-1 xui-id="4231578" tvg-id="HBO Xtreme SD" tvg-name="HBO XTREME FHD" tvg-logo="https://img.hotice.site/icones_channels/HBO_XTREME_HD.png" group-title="F20 M5 ⏩ HBO",HBO XTREME FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRomX6ugHHMahUAHufUJKsDhW2cneR1zrSAaAuZFZw_WP
+#EXTINF:-1 xui-id="4231579" tvg-id="HBO Xtreme SD" tvg-name="HBO XTREME HD" tvg-logo="https://img.hotice.site/icones_channels/HBO_XTREME_HD.png" group-title="F20 M5 ⏩ HBO",HBO XTREME HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRvqW55azjdJFMmet4yxKVtWimUC5IR5DUfJiVGuoSJqE
+#EXTINF:-1 xui-id="4231580" tvg-id="HBO Xtreme SD" tvg-name="HBO XTREME SD" tvg-logo="https://img.hotice.site/icones_channels/HBO_XTREME_HD.png" group-title="F20 M5 ⏩ HBO",HBO XTREME SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRp_DI6gbw64U37uBDubUaxjVN4Y3TOE2E_YKUp5EBBo2
+#EXTINF:-1 xui-id="4231581" tvg-id="HBOPlus.br" tvg-name="HBO+ 4K" tvg-logo="https://img.inboxbr.pro/icones_channels/hboplus.png" group-title="F20 M5 ⭐ 4K",HBO+ 4K
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRmwPjTg5o0h52AX9YWzmuRknmAu4mPTtUBYAGUWLbBIp
+#EXTINF:-1 xui-id="4231582" tvg-id="HBOPlus.br" tvg-name="HBO+ FHD" tvg-logo="https://img.hotice.site/icones_channels/HBO_PLUS_HD.png" group-title="F20 M5 ⏩ HBO",HBO+ FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRn-kZAelg2AMQ0pCvr72Giset-PYnSV7c-N4Q_hlGDNp
+#EXTINF:-1 xui-id="4231583" tvg-id="HBOPlus.br" tvg-name="HBO+ HD" tvg-logo="https://img.hotice.site/icones_channels/HBO_PLUS_HD.png" group-title="F20 M5 ⏩ HBO",HBO+ HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRiy5FeKPhnFR93fPuMmmZRd_2eOFD_QBbmbHGBBdsGBp
+#EXTINF:-1 xui-id="4231584" tvg-id="HBOPlus.br" tvg-name="HBO+ SD" tvg-logo="https://img.hotice.site/icones_channels/HBO_PLUS_HD.png" group-title="F20 M5 ⏩ HBO",HBO+ SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRkC0UQm7obt4sTeRdbbGlGxbcHRJh5CtAt6UzIlLzDhU
+#EXTINF:-1 xui-id="4231585" tvg-id="HBO2.br" tvg-name="HBO2 FHD" tvg-logo="https://img.hotice.site/icones_channels/HBO_2_HD.png" group-title="F20 M5 ⏩ HBO",HBO2 FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRgVzXSa_UWCyYa9f-ioYS-XBqjMLM3yboyBvXJz7Sb7S
+#EXTINF:-1 xui-id="4231586" tvg-id="HBO2.br" tvg-name="HBO2 HD" tvg-logo="https://img.hotice.site/icones_channels/HBO_2_HD.png" group-title="F20 M5 ⏩ HBO",HBO2 HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRnxWN_H0l1zNzLFNmKwcKbCNB3r2yIwOUAJFzhw_EqAS
+#EXTINF:-1 xui-id="4231587" tvg-id="HBO2.br" tvg-name="HBO2 SD" tvg-logo="https://img.hotice.site/icones_channels/HBO_2_HD.png" group-title="F20 M5 ⏩ HBO",HBO2 SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRu3alt6e_tPrKM0Iwxf9ImBMkkrN1cPwsEfVPK8RjTXy
+#EXTINF:-1 xui-id="4238245" tvg-id="" tvg-name="He-Man 24hs" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",He-Man 24hs
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRlarq7cNEHHGvOrPiE8o89rA3RPWR_QaCztuD0QHKpno
+#EXTINF:-1 xui-id="4231588" tvg-id="br#hgtv-hd" tvg-name="HGTV 4K" tvg-logo="https://img.hotice.site/icones_channels/HGTV.png" group-title="F20 M5 ⭐ 4K",HGTV 4K
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRndenkncOFw64pNzQOiCZNERLS16pA_VTghy9B56glsL
+#EXTINF:-1 xui-id="4231589" tvg-id="br#hgtv-hd" tvg-name="HGTV FHD" tvg-logo="https://img.hotice.site/icones_channels/HGTV.png" group-title="F20 M5 ⭐ VARIEDADES",HGTV FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRmLWUt1c7vkIfwimE5zqQODjwhCcph6tvpkAQgpD2764
+#EXTINF:-1 xui-id="4231590" tvg-id="br#hgtv-hd" tvg-name="HGTV HD" tvg-logo="https://img.hotice.site/icones_channels/HGTV.png" group-title="F20 M5 ⭐ VARIEDADES",HGTV HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRjn1wJbKRNT4rAubjQMFjeyXsHp9Xex0W-6AZwRBTF2-
+#EXTINF:-1 xui-id="4231591" tvg-id="br#hgtv-hd" tvg-name="HGTV SD" tvg-logo="https://img.hotice.site/icones_channels/HGTV.png" group-title="F20 M5 ⭐ VARIEDADES",HGTV SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRnZM1NaTfa6QrWvoUfA2cTEOkf1cRAJu5NTp2BDq3Qt5
+#EXTINF:-1 xui-id="4238321" tvg-id="" tvg-name="HISTORIA BIBLICA PARA CRIANCA" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",HISTORIA BIBLICA PARA CRIANCA
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRkHSEctv5DhDeZ6PhUILHFSxXKbHwZ6fBWpRLrnuFy7Z
+#EXTINF:-1 xui-id="4238247" tvg-id="" tvg-name="Historias Disney 24hs" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",Historias Disney 24hs
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRgUHREaEjAWHTmvG_4Q0IkfwYjOGmGa6KC-V7Cfa1Boo
+#EXTINF:-1 xui-id="4231592" tvg-id="History2.br" tvg-name="HISTORY 2 4K" tvg-logo="https://img.hotice.site/icones_channels/H2_HD.png" group-title="F20 M5 ⭐ 4K",HISTORY 2 4K
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRuAB9A_htW7dp7bkKeZWINlct_xn8AzOAqstdT_dJCny
+#EXTINF:-1 xui-id="4231593" tvg-id="History2.br" tvg-name="HISTORY 2 FHD" tvg-logo="https://img.hotice.site/icones_channels/H2_HD.png" group-title="F20 M5 ⭐ DOCUMENTÁRIOS",HISTORY 2 FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRniCg-NSJ8QDB1Ugn1u0uycJo6AdxLAIVP-PhqFy2919
+#EXTINF:-1 xui-id="4231594" tvg-id="History2.br" tvg-name="HISTORY 2 FHD" tvg-logo="https://img.hotice.site/icones_channels/H2_HD.png" group-title="F20 M5 ⭐ DOCUMENTÁRIOS",HISTORY 2 FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRj3d6tSWnloLmSzrROnKFNGDNdgzvgWBYgX8Cp1it2nZ
+#EXTINF:-1 xui-id="4231595" tvg-id="History2.br" tvg-name="HISTORY 2 HD" tvg-logo="https://img.hotice.site/icones_channels/H2_HD.png" group-title="F20 M5 ⭐ DOCUMENTÁRIOS",HISTORY 2 HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRoUyvSnjJjbu5dxA27cVoSKxsPZHZEfpUVPC1P_0bWaz
+#EXTINF:-1 xui-id="4231596" tvg-id="History2.br" tvg-name="HISTORY 2 SD" tvg-logo="https://img.hotice.site/icones_channels/H2_HD.png" group-title="F20 M5 ⭐ DOCUMENTÁRIOS",HISTORY 2 SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRozifDM3-GXRASGDrW12M25Mjocx6l8kE_QQ6ppGRJl0
+#EXTINF:-1 xui-id="4231597" tvg-id="br#history-channel-hd" tvg-name="HISTORY CHANNEL 4K" tvg-logo="https://img.hotice.site/icones_channels/History_HD.png" group-title="F20 M5 ⭐ 4K",HISTORY CHANNEL 4K
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRlI2MKlERGJf6Bgnn0uJL7J5lq9dhVM2ajrIpA3uwXOy
+#EXTINF:-1 xui-id="4231598" tvg-id="br#history-channel-hd" tvg-name="HISTORY CHANNEL FHD" tvg-logo="https://img.hotice.site/icones_channels/History_HD.png" group-title="F20 M5 ⭐ DOCUMENTÁRIOS",HISTORY CHANNEL FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRoFFTufX-UzC7q51TFxjOimptPNPD2Q0s8ZpSCIYv7fV
+#EXTINF:-1 xui-id="4231599" tvg-id="br#history-channel-hd" tvg-name="HISTORY CHANNEL HD" tvg-logo="https://img.hotice.site/icones_channels/History_HD.png" group-title="F20 M5 ⭐ DOCUMENTÁRIOS",HISTORY CHANNEL HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRmkvW7kvJCxkPR1RopJuJnivtduyttVsByPLbfJ_M2fK
+#EXTINF:-1 xui-id="4231600" tvg-id="br#history-channel-hd" tvg-name="HISTORY CHANNEL SD" tvg-logo="https://img.hotice.site/icones_channels/History_HD.png" group-title="F20 M5 ⭐ DOCUMENTÁRIOS",HISTORY CHANNEL SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRqCt3j3YRZL1rOPPck3Vkcr51YsmDlc7EsE77XQdNa9I
+#EXTINF:-1 xui-id="4238248" tvg-id="" tvg-name="HOMEM ARANHA 24HS" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",HOMEM ARANHA 24HS
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRgSIxZeWEAfcro-1HIWXMrb5bbHI3vQn_WiTM12VfNay
+#EXTINF:-1 xui-id="4238249" tvg-id="" tvg-name="Homem de Ferro 24hs" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",Homem de Ferro 24hs
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRoCXdvhY-Jl67eZqwYIj9i6xyeMWpVUYzBMGD5dBLEa6
+#EXTINF:-1 xui-id="4238250" tvg-id="" tvg-name="HOMEMS DE PRETO 24HS" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",HOMEMS DE PRETO 24HS
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRjD0LccwfDn33R1-0lt4uUQ0bqtf4qBSlS7DBWXIawlA
+#EXTINF:-1 xui-id="4238246" tvg-id="" tvg-name="Hércules 24hs" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",Hércules 24hs
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRhXQ6nFKtQmYk_FW2uu0hzUF6gDMskg_1HLbLhNpan3s
+#EXTINF:-1 xui-id="4238251" tvg-id="" tvg-name="Incrível Hulk 24hs" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",Incrível Hulk 24hs
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRvvWbSbFxkEfMFMSPf6lkyOWuAG4aNrpzxuz2ACyoiCK
+#EXTINF:-1 xui-id="4238252" tvg-id="" tvg-name="Jack-Chan 24hs" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",Jack-Chan 24hs
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRpL8dCpoJ_iUFTdXdLcFxiYA54CcYHNCggNinqWpbnCH
+#EXTINF:-1 xui-id="4238253" tvg-id="" tvg-name="Jaspion 24HS" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",Jaspion 24HS
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRj6SjOKDsZnzb4-IJu7xmzkVO1jnaJBarxjA30Ygio3B
+#EXTINF:-1 xui-id="4666694" tvg-id="" tvg-name="Jaspion 24HS" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F20 M5 24HORAS F2",Jaspion 24HS
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRnLdVJJXMCYri9-y8Lujc_BQLhdh7RcVy5alYR6vYk3y
+#EXTINF:-1 xui-id="4238254" tvg-id="" tvg-name="JIRAYA O Incrível Ninja 24HS" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",JIRAYA O Incrível Ninja 24HS
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRl4_lP0L0T8e54bTsgiMOz4PhvyZFZSktDIXmTRmD-0j
+#EXTINF:-1 xui-id="4231603" tvg-id="JPNews.br" tvg-name="JOVEM PAN NEWS FHD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/jp-news-vertical@3x.png" group-title="F20 M5 ⭐ NOTÍCIAS",JOVEM PAN NEWS FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRj08D8kBKYE_spcvnOihbdX56B11BliY_srbNKAqMYnS
+#EXTINF:-1 xui-id="4231604" tvg-id="JPNews.br" tvg-name="JOVEM PAN NEWS HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/jp-news-vertical@3x.png" group-title="F20 M5 ⭐ NOTÍCIAS",JOVEM PAN NEWS HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRlHsgbAI7_tWGA9xYk-aNwT__1YR2tMwIHYaXVFIGQfq
+#EXTINF:-1 xui-id="4231605" tvg-id="Example" tvg-name="JOVEM PAN NEWS SD" tvg-logo="https://img.inboxbr.pro/icones_channels/jp-news-vertical.png" group-title="F20 M5 ⭐ NOTÍCIAS",JOVEM PAN NEWS SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRh3eGTjqYf76pKAJA2lX9zZMsiowTbFQ8rmB_zaD9vpm
+#EXTINF:-1 xui-id="4238255" tvg-id="" tvg-name="Kenan e Kel 24hs" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",Kenan e Kel 24hs
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRhM2zDcBRahN6KzpPPvQGxL5gIgjL9eN3Jhqp8djtwa5
+#EXTINF:-1 xui-id="4231606" tvg-id="br#lifetime-hd" tvg-name="LIFETIME 4K" tvg-logo="https://img.hotice.site/icones_channels/LIFE_TIME.png" group-title="F20 M5 ⭐ 4K",LIFETIME 4K
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRsmNbbMEcp1S011W3Kvb1_Qnzl_PSqwBlOQ_yLpl56Hd
+#EXTINF:-1 xui-id="4231607" tvg-id="br#lifetime-hd" tvg-name="LIFETIME FHD" tvg-logo="https://img.hotice.site/icones_channels/LIFE_TIME.png" group-title="F20 M5 ⭐ VARIEDADES",LIFETIME FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRm0TyHb0tmVYWtsxTnT-sZY3y1o55RNrjREx8WAQiKJ2
+#EXTINF:-1 xui-id="4231608" tvg-id="br#lifetime-hd" tvg-name="LIFETIME HD" tvg-logo="https://img.hotice.site/icones_channels/LIFE_TIME.png" group-title="F20 M5 ⭐ VARIEDADES",LIFETIME HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRkVAZ19T-ezhLY0QWCIVqDP71jmcyqiNyN5Dok4qXdZt
+#EXTINF:-1 xui-id="4231609" tvg-id="br#lifetime-hd" tvg-name="LIFETIME SD" tvg-logo="https://img.hotice.site/icones_channels/LIFE_TIME.png" group-title="F20 M5 ⭐ VARIEDADES",LIFETIME SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRhr3hJnGMiqxXsfO6yi6TSvxLdOAggoHCG1xS_RJCk4L
+#EXTINF:-1 xui-id="4238303" tvg-id="" tvg-name="Liga da Justica 24hs" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",Liga da Justica 24hs
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRo3No5cCo1w2n8Q5Ltp5XJ_sZHxBoCWK518vGu2m6cXC
+#EXTINF:-1 xui-id="4238256" tvg-id="" tvg-name="Luluzinha 24HS" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",Luluzinha 24HS
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRn6U_lkHW3FP7OzuLlwUQZHigtC3mXwGBGVheIoVSYQA
+#EXTINF:-1 xui-id="4665840" tvg-id="" tvg-name="MAX 01 HD" tvg-logo="https://logospng.org/download/max/max-1024.png" group-title="F20 M5 MAX-TNT SPORTS",MAX 01 HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRu2ms7lTkuWyuTScV_uutyruOvYtyHveLY-ZCmnuA35b
+#EXTINF:-1 xui-id="4665841" tvg-id="" tvg-name="MAX 02 HD" tvg-logo="https://logospng.org/download/max/max-1024.png" group-title="F20 M5 MAX-TNT SPORTS",MAX 02 HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRgAk-sX23JoKG0MbRV-6OXpmJUzX8fF7My0gP2zvz0_P
+#EXTINF:-1 xui-id="4665842" tvg-id="" tvg-name="MAX 03 HD" tvg-logo="https://logospng.org/download/max/max-1024.png" group-title="F20 M5 MAX-TNT SPORTS",MAX 03 HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRrFeeC-cVYvXP6XgaK1W-x-WdXD7Pi4zMN01hmJM-o7p
+#EXTINF:-1 xui-id="4665843" tvg-id="" tvg-name="MAX 04 HD" tvg-logo="https://logospng.org/download/max/max-1024.png" group-title="F20 M5 MAX-TNT SPORTS",MAX 04 HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRmOz4u8N2iPAnsowpDCx-XrzJWGjsF-FTRQqPuM3SJRe
+#EXTINF:-1 xui-id="4665844" tvg-id="" tvg-name="MAX 05 HD" tvg-logo="https://logospng.org/download/max/max-1024.png" group-title="F20 M5 MAX-TNT SPORTS",MAX 05 HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRnp9rjmc2kc5SheLcAc2Q-GLTmAnU_Qns9F_O055NiPl
+#EXTINF:-1 xui-id="4238257" tvg-id="" tvg-name="Medabots 24hs" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",Medabots 24hs
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRvDWmpv7NQ0OmpL5nHnpNphjQXg8xE8at7UuL1oPJdDf
+#EXTINF:-1 xui-id="4238258" tvg-id="" tvg-name="MegaMan 24hs" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",MegaMan 24hs
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRoNDhebVY7FmxD3l2VoW7hxiuqpPKgmBeK75n-slzZbE
+#EXTINF:-1 xui-id="4231616" tvg-id="br#megapix-hd" tvg-name="MEGAPIX 4K" tvg-logo="https://img.hotice.site/icones_channels/MEGAPIX_HD.png" group-title="F20 M5 ⭐ 4K",MEGAPIX 4K
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRlDMgVtiswNagEKUcYVsdevlcDgvYGpWtlRk4cuaIjme
+#EXTINF:-1 xui-id="4231617" tvg-id="br#megapix-hd" tvg-name="MEGAPIX FHD" tvg-logo="https://img.hotice.site/icones_channels/MEGAPIX_HD.png" group-title="F20 M5 ⏩ FILMES E SÉRIES",MEGAPIX FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRnw_OVxR-K30ZLubt93wiYwq2n7SgHS5yCgIms1lUgc9
+#EXTINF:-1 xui-id="4231618" tvg-id="br#megapix-hd" tvg-name="MEGAPIX HD" tvg-logo="https://img.hotice.site/icones_channels/MEGAPIX_HD.png" group-title="F20 M5 ⏩ FILMES E SÉRIES",MEGAPIX HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRtn9QpcJl4ZZRjODE-M-FsbAKJ7XKUfbBjHWWJ4btMuW
+#EXTINF:-1 xui-id="4231619" tvg-id="br#megapix-hd" tvg-name="MEGAPIX SD" tvg-logo="https://img.hotice.site/icones_channels/MEGAPIX_HD.png" group-title="F20 M5 ⏩ FILMES E SÉRIES",MEGAPIX SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRsq6rk-jkJRlqGW1NGl7zP1nVDGl4guLkJVOiIeNBdse
+#EXTINF:-1 xui-id="4231620" tvg-id="Example" tvg-name="MODO VIAGEM FHD" tvg-logo="https://img.hotice.site/icones_channels/Modo_Viagem_HD.png" group-title="F20 M5 ⭐ VARIEDADES",MODO VIAGEM FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRjnoTCavwCiTj3uVvRaKsvZ1tNUu_Ndpetrp6Q1FB1TX
+#EXTINF:-1 xui-id="4231621" tvg-id="plus.globosat.br" tvg-name="MODO VIAGEM HD" tvg-logo="https://img.hotice.site/icones_channels/Modo_Viagem_HD.png" group-title="F20 M5 ⭐ VARIEDADES",MODO VIAGEM HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRkvpXsZ5Ilw56bTuGqiRxAeLm1psXjbey1L0tc19aY5i
+#EXTINF:-1 xui-id="4231622" tvg-id="" tvg-name="MODO VIAGEM SD" tvg-logo="https://img.hotice.site/icones_channels/Modo_Viagem_HD.png" group-title="F20 M5 ⭐ VARIEDADES",MODO VIAGEM SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRscPpqjvjrczDc18SZILAHP3wyZoDSl40FIadYBPxkXo
+#EXTINF:-1 xui-id="4238259" tvg-id="" tvg-name="Mortal Kombat 24hs" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",Mortal Kombat 24hs
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRn_vy5nNP1ueP9YqBxjF9ZId241d-It5_RQ9ZWpWLrai
+#EXTINF:-1 xui-id="4238260" tvg-id="" tvg-name="Mr.Ben 24hs" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",Mr.Ben 24hs
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRnjl4z4-mW6cxKapc5UCwgnd-Pnzqj868TAHIt6w2kJE
+#EXTINF:-1 xui-id="4231625" tvg-id="br#mtv" tvg-name="MTV FHD" tvg-logo="https://img.hotice.site/icones_channels/MTV_HD.png" group-title="F20 M5 ⭐ MUSICAIS",MTV FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRhQsJOMh0_vH0tydhqA__LOeQT1c1GxIN5mFm0m5dTBI
+#EXTINF:-1 xui-id="4231626" tvg-id="br#mtv" tvg-name="MTV HD" tvg-logo="https://img.hotice.site/icones_channels/MTV_HD.png" group-title="F20 M5 ⭐ MUSICAIS",MTV HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRh4EtdcU6YU1uJWod9X1TjkvDBY0Xf13D8uoEcgh8HLc
+#EXTINF:-1 xui-id="4231627" tvg-id="MTVLive.uk" tvg-name="MTV LIVE FHD" tvg-logo="https://img.hotice.site/icones_channels/MTV_live_HD.png" group-title="F20 M5 ⭐ MUSICAIS",MTV LIVE FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRoUIL4nEKUvt8t7nDHS3Mv39JTWBdvu0HQaU20N0OuHS
+#EXTINF:-1 xui-id="4231628" tvg-id="MTVLive.uk" tvg-name="MTV LIVE HD" tvg-logo="https://img.hotice.site/icones_channels/MTV_live_HD.png" group-title="F20 M5 ⭐ MUSICAIS",MTV LIVE HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRldlZncVifteIQGXwN8eITXo20xAcvGGOI_Ca8pq2xvd
+#EXTINF:-1 xui-id="4231629" tvg-id="" tvg-name="MTV PLUTO TV HD" tvg-logo="https://img.hotice.site/icones_channels/MTV_HD.png" group-title="F20 M5 ⭐ MUSICAIS",MTV PLUTO TV HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRqluWIoIvXoEKyN1urXbLhtlx_We0IudA8Yadl3KT0za
+#EXTINF:-1 xui-id="4231632" tvg-id="br#multishow-hd" tvg-name="MULTISHOW FHD" tvg-logo="https://img.hotice.site/icones_channels/MULTISHOW_HD.png" group-title="F20 M5 ⭐ MUSICAIS",MULTISHOW FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRtNr16XcZfGcFuIwKv0wDVU1Yvv6-CTxjnJ0x4cQafwp
+#EXTINF:-1 xui-id="4231633" tvg-id="br#multishow-hd" tvg-name="MULTISHOW HD" tvg-logo="https://img.hotice.site/icones_channels/MULTISHOW_HD.png" group-title="F20 M5 ⭐ MUSICAIS",MULTISHOW HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRs9bfNCc6PpA-gMfBiuL3lZNzc6nirHWCSj4RQjqaR_S
+#EXTINF:-1 xui-id="4231634" tvg-id="br#music-box-brasil-hd" tvg-name="MUSIC BOX BRASIL FHD" tvg-logo="https://img.hotice.site/icones_channels/Music_Box_Brazil_HD.png" group-title="F20 M5 ⭐ MUSICAIS",MUSIC BOX BRASIL FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRp_8v-mbxl4wVtPnFtfDTAi0mZDZ9WBvyl6O1oyxJsQm
+#EXTINF:-1 xui-id="4231635" tvg-id="br#music-box-brasil-hd" tvg-name="MUSIC BOX BRASIL HD" tvg-logo="https://img.hotice.site/icones_channels/Music_Box_Brazil_HD.png" group-title="F20 M5 ⭐ MUSICAIS",MUSIC BOX BRASIL HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRlrw1X9CGbnEhJGtO-9OM07AjyxbI8edOZTrUJhg41VM
+#EXTINF:-1 xui-id="4231636" tvg-id="" tvg-name="MUSICAS CLASSICAS HD" tvg-logo="https://images.pluto.tv/channels/5f779951372da90007fd45e8/colorLogoPNG.png" group-title="F20 M5 ⭐ MUSICAIS",MUSICAS CLASSICAS HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRvH0fMo4QOU_wWx_cidiJ3l80BU6PoDnaMMYdh3FH15h
+#EXTINF:-1 xui-id="4238261" tvg-id="" tvg-name="NARUTO 24HS" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",NARUTO 24HS
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRgVYZXsRi0JS_4GoQ9iWewA_ezOp9QJSm0-5buwOp7PV
+#EXTINF:-1 xui-id="4238262" tvg-id="" tvg-name="Naruto Shippuden DUB 24HS" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",Naruto Shippuden DUB 24HS
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRkoFcYklQYyaJlUYMxzcG1vx2MDlrwvjyTmqpJaOmC9A
+#EXTINF:-1 xui-id="4231637" tvg-id="" tvg-name="NBA LAGUE PASS 01 HD" tvg-logo="https://img.inboxbr.pro/icones_channels/NBA League Pass.png" group-title="F20 M5 BASQUETE",NBA LAGUE PASS 01 HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRhwtKzsKGGpdEWZzMDM3dDv1_8s_21u1JWVd4e78rBfl
+#EXTINF:-1 xui-id="4231638" tvg-id="" tvg-name="NBA LEAGUE PASS 02 HD" tvg-logo="https://img.inboxbr.pro/icones_channels/NBA League Pass.png" group-title="F20 M5 BASQUETE",NBA LEAGUE PASS 02 HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRq8AHZLnMmfef80qIj_edBhJXvVTYluruuuw-dl3j_sE
+#EXTINF:-1 xui-id="4231644" tvg-id="" tvg-name="NBA TV HD" tvg-logo="https://img.inboxbr.pro/icones_channels/NBA TV.png" group-title="F20 M5 BASQUETE",NBA TV HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRv8ZG_aUqxMHr_aMfGa9LC_uThNB2ZmJAF8d_zKPTmK6
+#EXTINF:-1 xui-id="4231645" tvg-id="br#nick-jr-hd" tvg-name="NICK JR FHD" tvg-logo="https://img.hotice.site/icones_channels/Nick_JR_HD.png" group-title="F20 M5 ⭐ INFANTIL",NICK JR FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRv-dRQiK6Z7ynLIvWhbM3j9Y4jwtx1bYMhkhRcTNMpFt
+#EXTINF:-1 xui-id="4231646" tvg-id="br#nick-jr-hd" tvg-name="NICK JR HD" tvg-logo="https://img.hotice.site/icones_channels/Nick_JR_HD.png" group-title="F20 M5 ⭐ INFANTIL",NICK JR HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRi7C5hiprJBjcGkBIhjmLz--V9w2Rj9CXADxn8NCZk8V
+#EXTINF:-1 xui-id="4231647" tvg-id="br#nick-jr-hd" tvg-name="NICK JR SD" tvg-logo="https://img.hotice.site/icones_channels/Nick_JR_HD.png" group-title="F20 M5 ⭐ INFANTIL",NICK JR SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRlHPT0S3XpDTK7bJrwycNVyK6nNmx5Vrue6ru7afrsUa
+#EXTINF:-1 xui-id="4231648" tvg-id="br#nick-hd" tvg-name="NICK SD" tvg-logo="https://img.hotice.site/icones_channels/NICKELODEON_HD.png" group-title="F20 M5 ⭐ INFANTIL",NICK SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRlOx08hEElTYsBvBKunwzFcEwAAL2kV7HpMnBVVPSVZW
+#EXTINF:-1 xui-id="4231649" tvg-id="Nickelodeon.br" tvg-name="NICKELODEON FHD" tvg-logo="https://img.hotice.site/icones_channels/NICKELODEON_HD.png" group-title="F20 M5 ⭐ INFANTIL",NICKELODEON FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRurScn-e3cJqnRhY07NgAWqAcEEQp-Yqsnxfam-8LecY
+#EXTINF:-1 xui-id="4231650" tvg-id="Nickelodeon.br" tvg-name="NICKELODEON HD" tvg-logo="https://img.hotice.site/icones_channels/NICKELODEON_HD.png" group-title="F20 M5 ⭐ INFANTIL",NICKELODEON HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRuLTL7orw_65HnqNIJtw5lRrhVCmkLf5yIX98af5wBmM
+#EXTINF:-1 xui-id="4231651" tvg-id="Nickelodeon.br" tvg-name="NICKELODEON SD" tvg-logo="https://img.hotice.site/icones_channels/NICKELODEON_HD.png" group-title="F20 M5 ⭐ INFANTIL",NICKELODEON SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRkIdO1qBZ7k_JQCC_FwMIsPYPJm02GH4qBoCqlWGEXpA
+#EXTINF:-1 xui-id="4665909" tvg-id="" tvg-name="NOSSO FUTEBOL 01 HD" tvg-logo="https://img.inboxbr.pro/icones_channels/nosso-futebol.png" group-title="F20 M5 ESPORTES PPV",NOSSO FUTEBOL 01 HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRvPqSVUWsdVat57E8YndQcrKy_7VfX3HMB0FDnRGiM3r
+#EXTINF:-1 xui-id="4231660" tvg-id="br#tv-novo-tempo-hd" tvg-name="NOVO TEMPO FHD" tvg-logo="https://img.hotice.site/icones_channels/Novo_Tempo.png" group-title="F20 M5 ⭐ RELIGIOSOS",NOVO TEMPO FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRtp4AWsFtgS03XCt2LVe-K1UtOhhH-Gw59OlIlSmnikh
+#EXTINF:-1 xui-id="4231661" tvg-id="br#tv-novo-tempo-hd" tvg-name="NOVO TEMPO HD" tvg-logo="https://img.hotice.site/icones_channels/Novo_Tempo.png" group-title="F20 M5 ⭐ RELIGIOSOS",NOVO TEMPO HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRifpCGUKgJIiWGxwIB8ZFw9b0F32l_WYhHKlSFszj6Gr
+#EXTINF:-1 xui-id="4665845" tvg-id="" tvg-name="NSPORTS FHD" tvg-logo="https://img.hotice.site/icones_channels/TV_NSPORTS_1.png" group-title="F20 M5 ESPORTES PPV",NSPORTS FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRtqpRKqDv7c-hZNP7vZiIVhl-VWoD9MxMxBbwfoXjOeJ
+#EXTINF:-1 xui-id="4665846" tvg-id="" tvg-name="NSPORTS HD" tvg-logo="https://img.hotice.site/icones_channels/TV_NSPORTS_1.png" group-title="F20 M5 ESPORTES PPV",NSPORTS HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRv1edcXrO10lIM98lOOe8tHScLESfedb_3N5ZhOgztvD
+#EXTINF:-1 xui-id="4238263" tvg-id="" tvg-name="O Fantástico Mundo de Bobby 24hs" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",O Fantástico Mundo de Bobby 24hs
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRvbWL_JXcfpKSICe336GlJKqYZ4v19OxfzoNxomyBrKp
+#EXTINF:-1 xui-id="4238265" tvg-id="" tvg-name="O MASKARA 24HS" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",O MASKARA 24HS
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRm7K5ZIXeyNw7ZOEzteU5cadEho7etME1JgT1XpDoF7w
+#EXTINF:-1 xui-id="4238266" tvg-id="" tvg-name="Os Anjinhos - Rugrats 24HS" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",Os Anjinhos - Rugrats 24HS
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRqtInyH-iDHWaKJS5gRR1KqI_gCPKmNwPkQvsGnYO5BJ
+#EXTINF:-1 xui-id="4238267" tvg-id="" tvg-name="OS CAVALEIROS DO ZODIACO 24HS" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",OS CAVALEIROS DO ZODIACO 24HS
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRoZoo25nc7in0bX-KNbekxsn3gAFngNRm-bsbthXkkVg
+#EXTINF:-1 xui-id="4238268" tvg-id="" tvg-name="OS FLINTSTONES 24hs" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",OS FLINTSTONES 24hs
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRmEaVB1THk7GsGVHRxklNQIU3J8Owcc5l7d15s2DlVxR
+#EXTINF:-1 xui-id="4238269" tvg-id="" tvg-name="OS SIMPSONS 24HS" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",OS SIMPSONS 24HS
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRsubyCOoApsUqR269nt4XJVjAmAlm1s-VYBa7LHYkx8_
+#EXTINF:-1 xui-id="4238270" tvg-id="" tvg-name="Os Vingadores 24hs" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",Os Vingadores 24hs
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRpvdlgMMD1Pe0s6rAMWHn4ZPO7KxQqOwZyQtcHzpwPo9
+#EXTINF:-1 xui-id="4238271" tvg-id="" tvg-name="Papa-Léguas 24HS" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",Papa-Léguas 24HS
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRgorr5NRJUImi54KkX5kH-OPPs1KBGD87pV-Z01XGSw3
+#EXTINF:-1 xui-id="4231665" tvg-id="ParamountNetwork.br" tvg-name="PARAMOUNT NETWORK FHD" tvg-logo="https://img.hotice.site/icones_channels/PARAMOUNT_HD.png" group-title="F20 M5 ⏩ FILMES E SÉRIES",PARAMOUNT NETWORK FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRmp8Gr_l-BaBJKBUttVWVZ_C5uDWnbCWcvZiztmFmq4C
+#EXTINF:-1 xui-id="4231666" tvg-id="ParamountNetwork.br" tvg-name="PARAMOUNT NETWORK HD" tvg-logo="https://img.hotice.site/icones_channels/PARAMOUNT_HD.png" group-title="F20 M5 ⏩ FILMES E SÉRIES",PARAMOUNT NETWORK HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRpx38WQyDgqpe2lfkcSaMu3dFswVBjpcNdRcXmvZQsoa
+#EXTINF:-1 xui-id="4231667" tvg-id="ParamountNetwork.br" tvg-name="PARAMOUNT NETWORK SD" tvg-logo="https://img.hotice.site/icones_channels/PARAMOUNT_HD.png" group-title="F20 M5 ⏩ FILMES E SÉRIES",PARAMOUNT NETWORK SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRlaynisO-X96n7Vt1yd_yXy14Z6gpBU_wUVcfMyioGR9
+#EXTINF:-1 xui-id="4665847" tvg-id="br#paramount-brasil-hd" tvg-name="PARAMOUNT+ 01 FHD" tvg-logo="https://img.hotice.site/icones_channels/Paramount+_1.png" group-title="F20 M5 PARAMOUNT+",PARAMOUNT+ 01 FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRu4xs6uWfcWqhVOIytfgQResRM2tZ09PJ3Gc9J-ICPem
+#EXTINF:-1 xui-id="4665848" tvg-id="br#paramount-brasil-hd" tvg-name="PARAMOUNT+ 01 HD" tvg-logo="https://img.hotice.site/icones_channels/Paramount+_1.png" group-title="F20 M5 PARAMOUNT+",PARAMOUNT+ 01 HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRkKTi3DZ411bEGJfMzPGMydboZdrCXkT7T9irxZEH-y5
+#EXTINF:-1 xui-id="4665849" tvg-id="br#paramount-brasil-hd" tvg-name="PARAMOUNT+ 02 FHD" tvg-logo="https://img.hotice.site/icones_channels/Paramount+_1.png" group-title="F20 M5 PARAMOUNT+",PARAMOUNT+ 02 FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRrG3DJJz9CczPvYsXJAwmcR0j_zZgJua2AVWoEONix1z
+#EXTINF:-1 xui-id="4665850" tvg-id="br#paramount-brasil-hd" tvg-name="PARAMOUNT+ 02 HD" tvg-logo="https://img.hotice.site/icones_channels/Paramount+_1.png" group-title="F20 M5 PARAMOUNT+",PARAMOUNT+ 02 HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRn8-g86FISkvH_urZeWvTQ6Y08mijS0wLGp007DIfzPh
+#EXTINF:-1 xui-id="4665851" tvg-id="br#paramount-brasil-hd" tvg-name="PARAMOUNT+ 03 FHD" tvg-logo="https://img.hotice.site/icones_channels/Paramount+_1.png" group-title="F20 M5 PARAMOUNT+",PARAMOUNT+ 03 FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRoTVXg8zjttwFrdOniqctvzYpjtlKPp7FfFWdySk8Blm
+#EXTINF:-1 xui-id="4665852" tvg-id="br#paramount-brasil-hd" tvg-name="PARAMOUNT+ 03 HD" tvg-logo="https://img.hotice.site/icones_channels/Paramount+_1.png" group-title="F20 M5 PARAMOUNT+",PARAMOUNT+ 03 HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRmfU2YiC5-JDGwzXOSTAtxI0GaagpnVVrSTD2ok2EwZD
+#EXTINF:-1 xui-id="4665853" tvg-id="br#paramount-brasil-hd" tvg-name="PARAMOUNT+ 04 FHD" tvg-logo="https://img.hotice.site/icones_channels/Paramount+_1.png" group-title="F20 M5 PARAMOUNT+",PARAMOUNT+ 04 FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRh8QpVLQh7hz_pUciuRr5D4SzNaaYjB4m3bTZrAA_qTR
+#EXTINF:-1 xui-id="4665854" tvg-id="" tvg-name="PARAMOUNT+ 04 HD" tvg-logo="https://img.hotice.site/icones_channels/Paramount+_1.png" group-title="F20 M5 PARAMOUNT+",PARAMOUNT+ 04 HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRtmlv12TQIV7e4eeJusFMihz-NWqtyfbTeaTwUYcgyLN
+#EXTINF:-1 xui-id="4238318" tvg-id="" tvg-name="PEPA PIG 24HRS" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",PEPA PIG 24HRS
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRj10cUnh5VIzxdfiihskGYSvGpCHxua-Rbb4UHu1j1ta
+#EXTINF:-1 xui-id="4238272" tvg-id="" tvg-name="Peppa Pig 24hs" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",Peppa Pig 24hs
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRqdvmXYQ65LpI8n5Czvlq1sKKgsiAvI4E4neeHWJqWp9
+#EXTINF:-1 xui-id="4238273" tvg-id="" tvg-name="PERNALONGA 24HS" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",PERNALONGA 24HS
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRhCMTHcdYPhJWxlpsmpr0kiw8784kbwf97XxQNsMTukD
+#EXTINF:-1 xui-id="4238274" tvg-id="" tvg-name="Phineas e Ferb 24HS" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",Phineas e Ferb 24HS
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRmPBD6f4KLFxxYAddkrdypNiN9TxD3GVke4DK8bLvNhx
+#EXTINF:-1 xui-id="4238275" tvg-id="" tvg-name="PICA PAU 24HS" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",PICA PAU 24HS
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRpo6sp5aRGvbgeJd1zGVmWhH2C7IOlbsQkRoZczslMhF
+#EXTINF:-1 xui-id="4238276" tvg-id="" tvg-name="Pink-e-Cerebro 24hs" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",Pink-e-Cerebro 24hs
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRhWte-7CY1LFyCXsnfBi1YFL7QqdqTZu_y1y1xCoK_pl
+#EXTINF:-1 xui-id="4238277" tvg-id="" tvg-name="POKEMON 24HS" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",POKEMON 24HS
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRhJjAX3BJQmZH8krL0LHDT58WG0_myQi3gnnfNnkDB1L
+#EXTINF:-1 xui-id="4238278" tvg-id="" tvg-name="Popeye O Marinheiro 24hs" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",Popeye O Marinheiro 24hs
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRttTkj_n0m61XlFmoaN9TrjisxDDeuzWy7FzYt88Q_4E
+#EXTINF:-1 xui-id="4231677" tvg-id="br#telecine-premium-hd" tvg-name="PREMIERE 01 CLUBES 4K" tvg-logo="https://img.inboxbr.pro/icones_channels/premiere-clubes-hd.png" group-title="F20 M5 ⭐ 4K",PREMIERE 01 CLUBES 4K
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRkb3Xh2XApdYSkrbNB67BxLwuB49kF165rp8H5QLiSCE
+#EXTINF:-1 xui-id="4665855" tvg-id="PremiereClubes.br" tvg-name="PREMIERE 01 CLUBES FHD" tvg-logo="https://img.hotice.site/icones_channels/PREMIERE_6.png" group-title="F20 M5 PREMIERE FC",PREMIERE 01 CLUBES FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRlJr0kpBbRkbCR1CNzrmH86bp-MPVaIpWKrZzP8iaeNH
+#EXTINF:-1 xui-id="4665856" tvg-id="24HAnimes" tvg-name="PREMIERE 01 CLUBES HD" tvg-logo="https://img.hotice.site/icones_channels/PREMIERE_6.png" group-title="F20 M5 PREMIERE FC",PREMIERE 01 CLUBES HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRi-T0dciRFVDL6AWHyGXtTvRJYAXCoLIzDYEHsYGkdch
+#EXTINF:-1 xui-id="4665857" tvg-id="24HAnimes" tvg-name="PREMIERE 01 CLUBES SD" tvg-logo="https://img.hotice.site/icones_channels/PREMIERE_6.png" group-title="F20 M5 PREMIERE FC",PREMIERE 01 CLUBES SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRv29qHmYB-sSGvbLmMxLu-5JJcabBvQ9C_c1B4hCP8bd
+#EXTINF:-1 xui-id="4231681" tvg-id="br#premiere-2" tvg-name="PREMIERE 02 4K" tvg-logo="https://img.hotice.site/icones_channels/PREMIERE_2_HD.png" group-title="F20 M5 ⭐ 4K",PREMIERE 02 4K
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRo-V27wyliM6uJgEZ9rrZE5RgcwIBCxD3JU3s2TkyYfF
+#EXTINF:-1 xui-id="4665858" tvg-id="br#premiere-2" tvg-name="PREMIERE 02 FHD" tvg-logo="https://img.hotice.site/icones_channels/PREMIERE_6.png" group-title="F20 M5 PREMIERE FC",PREMIERE 02 FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRjkgsyzzP7VfWIoep5k3w3rGH-AwSAXbfzj9XLMiiNS6
+#EXTINF:-1 xui-id="4665859" tvg-id="br#premiere-2" tvg-name="PREMIERE 02 HD" tvg-logo="https://img.hotice.site/icones_channels/PREMIERE_6.png" group-title="F20 M5 PREMIERE FC",PREMIERE 02 HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRsfXNUwE8oLCeQmyEOJHK2mam-wjRrVxaCK59r8cqr_H
+#EXTINF:-1 xui-id="4665860" tvg-id="br#premiere-2" tvg-name="PREMIERE 02 SD" tvg-logo="https://img.hotice.site/icones_channels/PREMIERE_6.png" group-title="F20 M5 PREMIERE FC",PREMIERE 02 SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRjO1uaodX21nadQH9qyHLYWfP2EkjYwBIRFDcL0rb67q
+#EXTINF:-1 xui-id="4231685" tvg-id="br#premiere-3" tvg-name="PREMIERE 03 4K" tvg-logo="https://img.hotice.site/icones_channels/PREMIERE_2_HD.png" group-title="F20 M5 ⭐ 4K",PREMIERE 03 4K
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRhv6Pf658Uzk9RZAULI8bb-xmMIj_pkdJIjkyowpu4W3
+#EXTINF:-1 xui-id="4665861" tvg-id="br#premiere-2" tvg-name="PREMIERE 03 FHD" tvg-logo="https://img.hotice.site/icones_channels/PREMIERE_6.png" group-title="F20 M5 PREMIERE FC",PREMIERE 03 FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRhwYVhsIYF8WcsIPcs_GChMbTVFt5bhd64W4ksOnaOVQ
+#EXTINF:-1 xui-id="4665862" tvg-id="br#premiere-2" tvg-name="PREMIERE 03 HD" tvg-logo="https://img.hotice.site/icones_channels/PREMIERE_6.png" group-title="F20 M5 PREMIERE FC",PREMIERE 03 HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRi7G_NFmVmEZ0_iMXturSoJGOwpynWipcKG8iGDIq7A3
+#EXTINF:-1 xui-id="4665863" tvg-id="br#premiere-2" tvg-name="PREMIERE 03 SD" tvg-logo="https://img.hotice.site/icones_channels/PREMIERE_6.png" group-title="F20 M5 PREMIERE FC",PREMIERE 03 SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRjN1bucrDfnHuoqsMq3wRxPf2AAYFH4X7ZzexMhw-IsY
+#EXTINF:-1 xui-id="4231689" tvg-id="br#premiere-4" tvg-name="PREMIERE 04 4K" tvg-logo="https://img.hotice.site/icones_channels/PREMIERE_2_HD.png" group-title="F20 M5 ⭐ 4K",PREMIERE 04 4K
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRtC9A0VEDZVYmJ5qgq0za0nhM1OURihi9QrsvRjnn-Fl
+#EXTINF:-1 xui-id="4665864" tvg-id="br#premiere-2" tvg-name="PREMIERE 04 FHD" tvg-logo="https://img.hotice.site/icones_channels/PREMIERE_6.png" group-title="F20 M5 PREMIERE FC",PREMIERE 04 FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRhM_S-3FTZzw6ACBsyP7bzm3kneagjMBhn2JaMSKXOZk
+#EXTINF:-1 xui-id="4665865" tvg-id="br#premiere-2" tvg-name="PREMIERE 04 HD" tvg-logo="https://img.hotice.site/icones_channels/PREMIERE_6.png" group-title="F20 M5 PREMIERE FC",PREMIERE 04 HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRu6Xxv4ECXD3IdD8D8Er0rAFDj8Uogy3UkMq_koVVkGi
+#EXTINF:-1 xui-id="4665866" tvg-id="br#premiere-2" tvg-name="PREMIERE 04 SD" tvg-logo="https://img.hotice.site/icones_channels/PREMIERE_6.png" group-title="F20 M5 PREMIERE FC",PREMIERE 04 SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRi57ap8zWVqmvTmBDvWOWUMoijzUnTh_VxXSpr7URKWz
+#EXTINF:-1 xui-id="4231693" tvg-id="br#premiere-5-brazil" tvg-name="PREMIERE 05 4K" tvg-logo="https://img.hotice.site/icones_channels/PREMIERE_2_HD.png" group-title="F20 M5 ⭐ 4K",PREMIERE 05 4K
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRghpPsJEvl27TQIavQnw6jT4Z9nFMtA_Wm-DT-0w_H1q
+#EXTINF:-1 xui-id="4665867" tvg-id="br#premiere-2" tvg-name="PREMIERE 05 FHD" tvg-logo="https://img.hotice.site/icones_channels/PREMIERE_6.png" group-title="F20 M5 PREMIERE FC",PREMIERE 05 FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRjDfqBIcgUcYGw-SYfVOc22cdGt3AHaeOfv5wJ22g1NP
+#EXTINF:-1 xui-id="4665868" tvg-id="br#premiere-2" tvg-name="PREMIERE 05 HD" tvg-logo="https://img.hotice.site/icones_channels/PREMIERE_6.png" group-title="F20 M5 PREMIERE FC",PREMIERE 05 HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRiPH4BLBOxhvoL5EpzojP2WRLle8oXcgVZgJ2c8tEgb7
+#EXTINF:-1 xui-id="4665869" tvg-id="br#premiere-2" tvg-name="PREMIERE 05 SD" tvg-logo="https://img.hotice.site/icones_channels/PREMIERE_6.png" group-title="F20 M5 PREMIERE FC",PREMIERE 05 SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRrCT_SPAD2ydYfqfANFnL-MDjd-LICe8IBNBnYC0k_u8
+#EXTINF:-1 xui-id="4665870" tvg-id="br#premiere-2" tvg-name="PREMIERE 06 FHD" tvg-logo="https://img.hotice.site/icones_channels/PREMIERE_6.png" group-title="F20 M5 PREMIERE FC",PREMIERE 06 FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRgrydosj2Uj5u6qou6df9PwPCsirNeU8uO3k4o8FqY3d
+#EXTINF:-1 xui-id="4665871" tvg-id="br#premiere-2" tvg-name="PREMIERE 06 HD" tvg-logo="https://img.hotice.site/icones_channels/PREMIERE_6.png" group-title="F20 M5 PREMIERE FC",PREMIERE 06 HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRurMCmv2cmZ3R7yVUDU6-2Q9vECn7_HFeMWaRb-zoLeH
+#EXTINF:-1 xui-id="4665872" tvg-id="br#premiere-2" tvg-name="PREMIERE 06 SD" tvg-logo="https://img.hotice.site/icones_channels/PREMIERE_6.png" group-title="F20 M5 PREMIERE FC",PREMIERE 06 SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRkoQN_kZez5EaQPLAEb3lN0ysZQTFEXR1Fazov8FcLK3
+#EXTINF:-1 xui-id="4665873" tvg-id="br#premiere-2" tvg-name="PREMIERE 07 FHD" tvg-logo="https://img.hotice.site/icones_channels/PREMIERE_6.png" group-title="F20 M5 PREMIERE FC",PREMIERE 07 FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRm8NbPXdhlR-SqOMo-jfbkOSKac5hsEjv82re9nXgHSp
+#EXTINF:-1 xui-id="4665874" tvg-id="br#premiere-2" tvg-name="PREMIERE 07 HD" tvg-logo="https://img.hotice.site/icones_channels/PREMIERE_6.png" group-title="F20 M5 PREMIERE FC",PREMIERE 07 HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRldRcuI0vHBz-xsylulN0GoGwcB8y0ABjVFGcAHIjTwG
+#EXTINF:-1 xui-id="4665875" tvg-id="br#premiere-2" tvg-name="PREMIERE 07 SD" tvg-logo="https://img.hotice.site/icones_channels/PREMIERE_6.png" group-title="F20 M5 PREMIERE FC",PREMIERE 07 SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRv6spk6PVmU0uCwEW1ij_0T68q9FgF1lL6HQygltw2n_
+#EXTINF:-1 xui-id="4665876" tvg-id="br#premiere-2" tvg-name="PREMIERE 08 FHD" tvg-logo="https://img.hotice.site/icones_channels/PREMIERE_6.png" group-title="F20 M5 PREMIERE FC",PREMIERE 08 FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRiBpDS5byMQy8rOyJyrx5X1XCczSKt2rCngzp5kq82iD
+#EXTINF:-1 xui-id="4665877" tvg-id="br#premiere-2" tvg-name="PREMIERE 08 HD" tvg-logo="https://img.hotice.site/icones_channels/PREMIERE_6.png" group-title="F20 M5 PREMIERE FC",PREMIERE 08 HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRo_upBM-YZ5848WpGZjCT4EhQw6Xd6Utu6DXLBTDvoHg
+#EXTINF:-1 xui-id="4665878" tvg-id="br#premiere-2" tvg-name="PREMIERE 08 SD" tvg-logo="https://img.hotice.site/icones_channels/PREMIERE_6.png" group-title="F20 M5 PREMIERE FC",PREMIERE 08 SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRgeBrCVkDBlNB_NjnjRQC5r4FXoafFTUj40eBrMwxKyZ
+#EXTINF:-1 xui-id="4665879" tvg-id="Copa do Brasil¹ - Prime Video" tvg-name="PRIME VIDEO 01 HD" tvg-logo="https://img.inboxbr.pro/icones_channels/prime-video.png" group-title="F20 M5 PRIME VIDEOS",PRIME VIDEO 01 HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRkcADwgNmxjVTpwnMyR43qtESOWluoMAVRKazQVXYZLu
+#EXTINF:-1 xui-id="4665880" tvg-id="Copa do Brasil¹ - Prime Video" tvg-name="PRIME VIDEO 02 HD" tvg-logo="https://img.inboxbr.pro/icones_channels/prime-video.png" group-title="F20 M5 PRIME VIDEOS",PRIME VIDEO 02 HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRjsA32YckXmfMuT1Z4V8n1Bu-pVzIYaxBIy7KCTRMAmt
+#EXTINF:-1 xui-id="4665881" tvg-id="Copa do Brasil² - Prime Video" tvg-name="PRIME VIDEO 03 HD" tvg-logo="https://img.inboxbr.pro/icones_channels/prime-video.png" group-title="F20 M5 PRIME VIDEOS",PRIME VIDEO 03 HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRu0HzsTg-FZ8-TAeqJN-RKeS9HyWzdYTQ8oAZeRFJzth
+#EXTINF:-1 xui-id="4665882" tvg-id="Copa do Brasil¹ - Prime Video" tvg-name="PRIME VIDEO 04 HD" tvg-logo="https://img.inboxbr.pro/icones_channels/prime-video.png" group-title="F20 M5 PRIME VIDEOS",PRIME VIDEO 04 HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRj9XMRtmfGG_5rIzyr0GzSNIJwSNjk9dfdLZul_Zxfar
+#EXTINF:-1 xui-id="4665883" tvg-id="" tvg-name="PRIME VIDEOS 05 HD" tvg-logo="https://img.inboxbr.pro/icones_channels/prime-video.png" group-title="F20 M5 PRIME VIDEOS",PRIME VIDEOS 05 HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRrBV9mKfOPaoSV8psMFyosYoKbjIqsQzPnNlKF-RdBM1
+#EXTINF:-1 xui-id="4665884" tvg-id="" tvg-name="PRIME VIDEOS 06 HD" tvg-logo="https://img.inboxbr.pro/icones_channels/prime-video.png" group-title="F20 M5 PRIME VIDEOS",PRIME VIDEOS 06 HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRiQV04JqVY346ErI4rKcioSxukVFwUgdu1aDuogdetP9
+#EXTINF:-1 xui-id="4665885" tvg-id="" tvg-name="PRIME VIDEOS 07 HD" tvg-logo="https://img.inboxbr.pro/icones_channels/prime-video.png" group-title="F20 M5 PRIME VIDEOS",PRIME VIDEOS 07 HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRt6p-pxSQVAOPICbtdC8GCupf93A9AYgo6n0TexDS1pw
+#EXTINF:-1 xui-id="4665886" tvg-id="" tvg-name="PRIME VIDEOS 08 HD" tvg-logo="https://img.inboxbr.pro/icones_channels/prime-video.png" group-title="F20 M5 PRIME VIDEOS",PRIME VIDEOS 08 HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRg98R36QyVhWA7-yjtpaKmInsyLNQfCnM3Mk3Kz44WWd
+#EXTINF:-1 xui-id="4238319" tvg-id="" tvg-name="RAMBO 24HRS " tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",RAMBO 24HRS 
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRmyhiQ9O96Dr8PezarIp0EHZc557FVk4xf3cQEnQp25O
+#EXTINF:-1 xui-id="4238279" tvg-id="" tvg-name="Rambo 24hs" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",Rambo 24hs
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRiHKoMgl7Ksopx5V_bq2ONJZzk7D3qEi63QTvmLmFlv6
+#EXTINF:-1 xui-id="4231720" tvg-id="br#record-hd" tvg-name="RECORD AM - TV MANAUS FHD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F20 M5 ⭐ RECORD",RECORD AM - TV MANAUS FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRlxAJ-hJlDj9ApUgEwATWFPYQLyDDTYDdODC5izXtqs9
+#EXTINF:-1 xui-id="4231721" tvg-id="br#record-hd" tvg-name="RECORD AM - TV MANAUS HD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F20 M5 ⭐ RECORD",RECORD AM - TV MANAUS HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRpYyAtWzD1wcOwGsliIIllATZmCwkKVUiptLyCjJC3Mf
+#EXTINF:-1 xui-id="4231722" tvg-id="br#record-hd" tvg-name="RECORD AM - TV MANAUS SD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F20 M5 ⭐ RECORD",RECORD AM - TV MANAUS SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRl7JzP_mZm3HxSggwe2N0vP4l7T1prpyolaf_nBnPkpI
+#EXTINF:-1 xui-id="4231723" tvg-id="br#record-bahia" tvg-name="RECORD BA - TV CABRÁLIA FHD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F20 M5 ⭐ RECORD",RECORD BA - TV CABRÁLIA FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRn-1lq0erK_geDSplQGL6MqNIgwd4T9cHs9QQD3B1JbX
+#EXTINF:-1 xui-id="4231724" tvg-id="br#record-bahia" tvg-name="RECORD BA - TV CABRÁLIA HD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F20 M5 ⭐ RECORD",RECORD BA - TV CABRÁLIA HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRllgGybWDaWPh6i-Z1qLAad4lUnMHCOSW4YUmVxxX-Lj
+#EXTINF:-1 xui-id="4231725" tvg-id="br#record-bahia" tvg-name="RECORD BA - TV CABRÁLIA SD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F20 M5 ⭐ RECORD",RECORD BA - TV CABRÁLIA SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRkjdcDidPIu5lJZT4ezj2onob7MXFH-r5qcjpV7MZA-k
+#EXTINF:-1 xui-id="4231726" tvg-id="RecordTVItapoan.br" tvg-name="RECORD BA - TV ITAPOAN FHD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F20 M5 ⭐ RECORD",RECORD BA - TV ITAPOAN FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRs4XE4vbX4hKRUmQAuaI_Ow1mHN5K3TNq8gJ7GzMYlYU
+#EXTINF:-1 xui-id="4231727" tvg-id="RecordTVItapoan.br" tvg-name="RECORD BA - TV ITAPOAN HD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F20 M5 ⭐ RECORD",RECORD BA - TV ITAPOAN HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRnHw2m10zHywFaYqMMjFTXSiHL6nXlKAJrBW0IRt3n8K
+#EXTINF:-1 xui-id="4231728" tvg-id="RecordTVItapoan.br" tvg-name="RECORD BA - TV ITAPOAN SD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F20 M5 ⭐ RECORD",RECORD BA - TV ITAPOAN SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRuZYxMFeHuGjirQYv5UGVKY00CTMKW_LGt6xtoIoIrQy
+#EXTINF:-1 xui-id="4231729" tvg-id="Record SP SD" tvg-name="RECORD CE - TV CIDADE HD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F20 M5 ⭐ RECORD",RECORD CE - TV CIDADE HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRjuGIrM7kKIliN0DzBFfBuOHIYTAA3wNhX9wMv2tJbD0
+#EXTINF:-1 xui-id="4231730" tvg-id="br#record-brasilia" tvg-name="RECORD DF - TV BRASÍLIA FHD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F20 M5 ⭐ RECORD",RECORD DF - TV BRASÍLIA FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRmXJDkQxBxPbx5onYkqqJk1mF7YIuS3z6DG3__JwIp9S
+#EXTINF:-1 xui-id="4231731" tvg-id="br#record-brasilia" tvg-name="RECORD DF - TV BRASÍLIA HD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F20 M5 ⭐ RECORD",RECORD DF - TV BRASÍLIA HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRslTND2iq0xBAde0pe3jYr7AlpVmD6sEQZ9XplyOJ8sC
+#EXTINF:-1 xui-id="4231732" tvg-id="br#record-brasilia" tvg-name="RECORD DF - TV BRASÍLIA SD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F20 M5 ⭐ RECORD",RECORD DF - TV BRASÍLIA SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRv5jmVU3E-0UwC5BTQdQLkxVYcXunZ9fItwxcQ58y2k7
+#EXTINF:-1 xui-id="4231733" tvg-id="br#record-hd" tvg-name="RECORD ES - TV ESPIRO SANTO FHD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F20 M5 ⭐ RECORD",RECORD ES - TV ESPIRO SANTO FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRs3UC26AUz6VsUEjwcgmc8qVj5To1f4z4CFZEHjA2oFR
+#EXTINF:-1 xui-id="4231734" tvg-id="br#record-hd" tvg-name="RECORD ES - TV ESPIRO SANTO HD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F20 M5 ⭐ RECORD",RECORD ES - TV ESPIRO SANTO HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRoAlpZAYiliZDbuWuOIJJEElvn8ktw3kz4erfop_qjhT
+#EXTINF:-1 xui-id="4231735" tvg-id="br#record-hd" tvg-name="RECORD ES - TV ESPIRO SANTO SD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F20 M5 ⭐ RECORD",RECORD ES - TV ESPIRO SANTO SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRsMEjJMgk6qbl1wvwvtttcPv_z1VjPqOLx3sB4OphokW
+#EXTINF:-1 xui-id="4231736" tvg-id="br#record-goias" tvg-name="RECORD GO - TV GOÍAS FHD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F20 M5 ⭐ RECORD",RECORD GO - TV GOÍAS FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRtaHD2puX04Pu62H1Xi596c6GrqTe2CRsdI6x043utro
+#EXTINF:-1 xui-id="4231737" tvg-id="br#record-goias" tvg-name="RECORD GO - TV GOÍAS HD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F20 M5 ⭐ RECORD",RECORD GO - TV GOÍAS HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRgrigHAc_ejPxu85BROWl3b2i_XDbJFUppnGa1Ugi28T
+#EXTINF:-1 xui-id="4231738" tvg-id="br#record-goias" tvg-name="RECORD GO - TV GOÍAS SD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F20 M5 ⭐ RECORD",RECORD GO - TV GOÍAS SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRujyedbdmaguCYITgV6q4M9bzGMHzgkXxCDCNcuhSG1q
+#EXTINF:-1 xui-id="4231739" tvg-id="br#record-minas" tvg-name="RECORD MG - TV MINAS FHD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F20 M5 ⭐ RECORD",RECORD MG - TV MINAS FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRhyZ4QQ-7A_Y_q5VvrQ7DbsAWDXcXmP5yJG772QzDhXg
+#EXTINF:-1 xui-id="4231740" tvg-id="br#record-minas" tvg-name="RECORD MG - TV MINAS HD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F20 M5 ⭐ RECORD",RECORD MG - TV MINAS HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRtcOOibx3LLY_lVkZ7L2_kkjBZzvalRVHUhJe2IWtqoB
+#EXTINF:-1 xui-id="4231741" tvg-id="br#record-minas" tvg-name="RECORD MG - TV MINAS SD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F20 M5 ⭐ RECORD",RECORD MG - TV MINAS SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRmDpvpLwhcwOEHTdVD2vRvwjrzalM-etPO8bBoQoq-gy
+#EXTINF:-1 xui-id="4231742" tvg-id="RecordNews.br" tvg-name="RECORD NEWS FHD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F20 M5 ⭐ NOTÍCIAS",RECORD NEWS FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRgni7ROKXyMnxoF-yABEn6hcemDHpSFTV1JFoLsu7KxV
+#EXTINF:-1 xui-id="4231743" tvg-id="RecordNews.br" tvg-name="RECORD NEWS HD" tvg-logo="https://img.hotice.site/icones_channels/Record_News_HD.png" group-title="F20 M5 ⭐ NOTÍCIAS",RECORD NEWS HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRo-lNU5wE4eGhagN2o1xMw5vJwN2tvX-Zv22udD7-wMP
+#EXTINF:-1 xui-id="4231744" tvg-id="RecordNews.br" tvg-name="RECORD NEWS SD" tvg-logo="https://img.hotice.site/icones_channels/Record_News_HD.png" group-title="F20 M5 ⭐ NOTÍCIAS",RECORD NEWS SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRkX8Ye_ZSUJr1Nvb9QGGn0l0AG7_siiYZGfwLG9ru11x
+#EXTINF:-1 xui-id="4231745" tvg-id="br#record-hd" tvg-name="RECORD PA - TV BELÉM FHD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F20 M5 ⭐ RECORD",RECORD PA - TV BELÉM FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRlXS1GQajqGVpgyLgz-CW-IlirahUbbzpbHQ9OfVRIb6
+#EXTINF:-1 xui-id="4231746" tvg-id="br#record-hd" tvg-name="RECORD PA - TV BELÉM HD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F20 M5 ⭐ RECORD",RECORD PA - TV BELÉM HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRhi_nimXHgJ6NqiYDI_gVop-nEDe4IZlmy2dHoedDdUO
+#EXTINF:-1 xui-id="4231747" tvg-id="br#record-hd" tvg-name="RECORD PA - TV BELÉM SD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F20 M5 ⭐ RECORD",RECORD PA - TV BELÉM SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRrqQV4LOpGdGzG7jf6x5xpm1oC1IMVOr1YGJNhIQC5Z_
+#EXTINF:-1 xui-id="4231750" tvg-id="br#record-hd" tvg-name="RECORD PR - RIC TV FHD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F20 M5 ⭐ RECORD",RECORD PR - RIC TV FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRgNTRDn4W2skF5C7KqL1byydN1fN-X-bnDHzwvg3HLbZ
+#EXTINF:-1 xui-id="4231751" tvg-id="br#record-hd" tvg-name="RECORD PR - RIC TV HD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F20 M5 ⭐ RECORD",RECORD PR - RIC TV HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRtystqsnf1fZ9r8E6_XVfoD9HFwl3E5OS0tRiHWwyxGs
+#EXTINF:-1 xui-id="4231752" tvg-id="br#record-hd" tvg-name="RECORD PR - RIC TV SD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F20 M5 ⭐ RECORD",RECORD PR - RIC TV SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRgIMIBvF9Whr36EKhu0tXNUfBWY65HYlwQKwgOPAe_iD
+#EXTINF:-1 xui-id="4231753" tvg-id="br#record-hd" tvg-name="RECORD RIBEIRÃO PRETO FHD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F20 M5 ⭐ RECORD",RECORD RIBEIRÃO PRETO FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRs2qFz1lud9qcPSRNaVcNYB9A5mTkfU_BN85c_bvIJsC
+#EXTINF:-1 xui-id="4231754" tvg-id="br#record-hd" tvg-name="RECORD RIBEIRÃO PRETO HD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F20 M5 ⭐ RECORD",RECORD RIBEIRÃO PRETO HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRpBpKkCaxh2dCGgJxMDGGK5tEuK1TZxWoTWKiGs9-hBx
+#EXTINF:-1 xui-id="4231755" tvg-id="br#record-rio" tvg-name="RECORD RIO DE JANEIRO 4K" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F20 M5 ⭐ 4K",RECORD RIO DE JANEIRO 4K
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRgy_jCLtWXMGIc7GcSQl8JQcRaC-8B1HNnf6lO0Rvs2_
+#EXTINF:-1 xui-id="4231756" tvg-id="br#record-rio" tvg-name="RECORD RJ - TV RIO DE JANEIRO FHD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F20 M5 ⭐ RECORD",RECORD RJ - TV RIO DE JANEIRO FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRq5p54T75ubwd4SYOyH_xhbGg9atDBzrBRCBLkfcMqj0
+#EXTINF:-1 xui-id="4231757" tvg-id="br#record-rio" tvg-name="RECORD RJ - TV RIO DE JANEIRO HD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F20 M5 ⭐ RECORD",RECORD RJ - TV RIO DE JANEIRO HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRlVyRXdCavORQYaAJwLjeGH_2eSp4WDyH2x7xbrPiLbk
+#EXTINF:-1 xui-id="4231758" tvg-id="br#record-rio" tvg-name="RECORD RJ - TV RIO DE JANEIRO SD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F20 M5 ⭐ RECORD",RECORD RJ - TV RIO DE JANEIRO SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRta3ktBUwfua6WceLFSSewj--go_1ZMQhTA8SfjT41mW
+#EXTINF:-1 xui-id="4231767" tvg-id="br#record-porto-alegre" tvg-name="RECORD RS - TV PORTO ALEGRE FHD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F20 M5 ⭐ RECORD",RECORD RS - TV PORTO ALEGRE FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRg9irnOSrZnQq9vGXkg4l9cYP0jjknQ0I-pwujBVeljP
+#EXTINF:-1 xui-id="4231768" tvg-id="br#record-porto-alegre" tvg-name="RECORD RS - TV PORTO ALEGRE HD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F20 M5 ⭐ RECORD",RECORD RS - TV PORTO ALEGRE HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRr29FLcE2Uez8Z6eJxykSgT5i_L2RIm8SIL-Ib0zzfSO
+#EXTINF:-1 xui-id="4231769" tvg-id="br#record-porto-alegre" tvg-name="RECORD RS - TV PORTO ALEGRE SD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F20 M5 ⭐ RECORD",RECORD RS - TV PORTO ALEGRE SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRtabpzHd1Seeh8PWbAjKfDiyo73g_w6Ceq3ySUNys1G-
+#EXTINF:-1 xui-id="4231770" tvg-id="RecordTVSaoPaulo.br" tvg-name="RECORD SAO PAULO 4K" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F20 M5 ⭐ 4K",RECORD SAO PAULO 4K
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRuY_67M0ZPRnJ_AcZTnVNAiZxmcudqeERav6_OnYP8QB
+#EXTINF:-1 xui-id="4231771" tvg-id="br#record-florianopolis" tvg-name="RECORD SC - NDTV FLORIANÓPOLIS FHD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F20 M5 ⭐ RECORD",RECORD SC - NDTV FLORIANÓPOLIS FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRmrVHVotFD2xKBh6J1W7hqm_4QokDB3_XbujK-WKyRPf
+#EXTINF:-1 xui-id="4231772" tvg-id="br#record-florianopolis" tvg-name="RECORD SC - NDTV FLORIANÓPOLIS HD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F20 M5 ⭐ RECORD",RECORD SC - NDTV FLORIANÓPOLIS HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRpbJ4EvNdxOCuIDGx9naJP43vIJxZhe5K6V9Dlu3Dpx4
+#EXTINF:-1 xui-id="4231773" tvg-id="br#record-florianopolis" tvg-name="RECORD SC - NDTV FLORIANÓPOLIS SD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F20 M5 ⭐ RECORD",RECORD SC - NDTV FLORIANÓPOLIS SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRkznS27dfvli1l3G1zw9cyp9chcbGk0mX_MIvhMvOPNy
+#EXTINF:-1 xui-id="4231774" tvg-id="Record SP SD" tvg-name="RECORD SE - TV ATALAIA FHD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F20 M5 ⭐ RECORD",RECORD SE - TV ATALAIA FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRrRXI0Nww4H1ruT0ld4jztCKhTfiSZHtLD6kA5eWd2_C
+#EXTINF:-1 xui-id="4231775" tvg-id="Record SP SD" tvg-name="RECORD SE - TV ATALAIA HD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F20 M5 ⭐ RECORD",RECORD SE - TV ATALAIA HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRht0wg0ZauYJAnhyQN_eiS34pYBbzZvnfru2BtpnovSH
+#EXTINF:-1 xui-id="4231776" tvg-id="br#record-hd" tvg-name="RECORD SP - TH+ CAMPINAS FHD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F20 M5 ⭐ RECORD",RECORD SP - TH+ CAMPINAS FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRiVOUx7B5Zow3cWCzK0Qb9kTPrgUzAo1I5nxPfUDln88
+#EXTINF:-1 xui-id="4231777" tvg-id="br#record-hd" tvg-name="RECORD SP - TH+ CAMPINAS HD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F20 M5 ⭐ RECORD",RECORD SP - TH+ CAMPINAS HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRiA37SobZR65t_W0fOvSPB-pcnu027DJ9Ed116BzWVoz
+#EXTINF:-1 xui-id="4231778" tvg-id="br#record-hd" tvg-name="RECORD SP - TH+ CAMPINAS SD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F20 M5 ⭐ RECORD",RECORD SP - TH+ CAMPINAS SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRmWYDnMLXCuIh-WSzphfzwsPR98dS-KVhz06EpFoq2dK
+#EXTINF:-1 xui-id="4231779" tvg-id="br#record-hd" tvg-name="RECORD SP - TV LITORAL DE SANTOS FHD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F20 M5 ⭐ RECORD",RECORD SP - TV LITORAL DE SANTOS FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRh1_Q79dlhu7FmiRRoihmQkOZeG831T_SLn_R_RxRevb
+#EXTINF:-1 xui-id="4231780" tvg-id="br#record-hd" tvg-name="RECORD SP - TV LITORAL DE SANTOS HD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F20 M5 ⭐ RECORD",RECORD SP - TV LITORAL DE SANTOS HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRvtrCLhuxSpVeRH3CZWCapCrEU70yEVcI8CIVg7-THYN
+#EXTINF:-1 xui-id="4231781" tvg-id="br#record-hd" tvg-name="RECORD SP - TV LITORAL DE SANTOS SD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F20 M5 ⭐ RECORD",RECORD SP - TV LITORAL DE SANTOS SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRnV_ZvyJc95DMeJz1yqyGOsclLj2NuCtPfBl_XcmcnCM
+#EXTINF:-1 xui-id="4231782" tvg-id="RecordTVPaulista.br" tvg-name="RECORD SP - TV PAULISTA FHD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F20 M5 ⭐ RECORD",RECORD SP - TV PAULISTA FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRmXEJ5h5ZX_u-aThYEc3bJRZPvfncgiG29Tl2hh6aP8A
+#EXTINF:-1 xui-id="4231783" tvg-id="RecordTVPaulista.br" tvg-name="RECORD SP - TV PAULISTA HD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F20 M5 ⭐ RECORD",RECORD SP - TV PAULISTA HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRoi4FPXIJAprj8_PVlhfa-PmjcTmdyqdbkZApGWGyHox
+#EXTINF:-1 xui-id="4231784" tvg-id="RecordTVPaulista.br" tvg-name="RECORD SP - TV PAULISTA SD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F20 M5 ⭐ RECORD",RECORD SP - TV PAULISTA SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRhmSQCKec8H4ozwzFH7fDwoYz0TBpM7muDWHaTuRXZFs
+#EXTINF:-1 xui-id="4231785" tvg-id="br#record-hd" tvg-name="RECORD SP - TV RIO PRETO FHD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F20 M5 ⭐ RECORD",RECORD SP - TV RIO PRETO FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRv8AEs06Q2GCUxqs_fOhNYFgs--Yn-52ZdEPtKsF5Ks8
+#EXTINF:-1 xui-id="4231786" tvg-id="br#record-hd" tvg-name="RECORD SP - TV RIO PRETO HD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F20 M5 ⭐ RECORD",RECORD SP - TV RIO PRETO HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRkFN55XC9TM-tNBkJUdCwUxcTH35JqRhKnZVo5kja1C5
+#EXTINF:-1 xui-id="4231787" tvg-id="br#record-hd" tvg-name="RECORD SP - TV RIO PRETO SD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F20 M5 ⭐ RECORD",RECORD SP - TV RIO PRETO SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRuwmrPg9F-KI-y3bZW0uQWsvK4KEkp2M7EMyqnObbK12
+#EXTINF:-1 xui-id="4231788" tvg-id="RecordTVSaoPaulo.br" tvg-name="RECORD SP -TV SÃO PAULO FHD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F20 M5 ⭐ RECORD",RECORD SP -TV SÃO PAULO FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRpWlIQOdfasFcVF_ZXvw42R-E0Xwubl2MvFZoIXMtnW-
+#EXTINF:-1 xui-id="4231789" tvg-id="RecordTVSaoPaulo.br" tvg-name="RECORD SP -TV SÃO PAULO HD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F20 M5 ⭐ RECORD",RECORD SP -TV SÃO PAULO HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRpNxmcQ_GbJvWeTO47y-x6EEad_jTtjTIQ2g6Yfsm1gi
+#EXTINF:-1 xui-id="4231790" tvg-id="RecordTVSaoPaulo.br" tvg-name="RECORD SP -TV SÃO PAULO SD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F20 M5 ⭐ RECORD",RECORD SP -TV SÃO PAULO SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRmHE6O3vSCshuWtb4A9Mt_rfKpOiM1Eu9Hc3nPezGPKb
+#EXTINF:-1 xui-id="4231791" tvg-id="br#rede-gospel-hd" tvg-name="REDE GOSPEL FHD" tvg-logo="https://img.hotice.site/icones_channels/TV_Rede_Gospel.png" group-title="F20 M5 ⭐ RELIGIOSOS",REDE GOSPEL FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRh6I3iS0ONccz1uq2oa-fyI2lyPajhkTvS5oLZsdpwhK
+#EXTINF:-1 xui-id="4231792" tvg-id="br#rede-gospel-hd" tvg-name="REDE GOSPEL HD" tvg-logo="https://img.hotice.site/icones_channels/TV_Rede_Gospel.png" group-title="F20 M5 ⭐ RELIGIOSOS",REDE GOSPEL HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRi7dv4s3ghhZBMHHw6mgH5gat2Lso2r14gUs22BV6jZN
+#EXTINF:-1 xui-id="4231794" tvg-id="24HAnimes" tvg-name="REDE SECULO 21 FHD" tvg-logo="https://img.inboxbr.pro/icones_channels/rede-21.png" group-title="F20 M5 ⭐ RELIGIOSOS",REDE SECULO 21 FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRj3bP7fSrVyIk1gTt5m1LDzJiq-qi8EPLvejK1WwuZNL
+#EXTINF:-1 xui-id="4231795" tvg-id="24HAnimes" tvg-name="REDE SECULO 21 HD" tvg-logo="https://img.inboxbr.pro/icones_channels/rede-21.png" group-title="F20 M5 ⭐ RELIGIOSOS",REDE SECULO 21 HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRrEL2IG83djE5WPIrWvvpBIxzvpU7vG-NqKFkSuHlbk7
+#EXTINF:-1 xui-id="4231796" tvg-id="br#rede-vida-hd" tvg-name="REDE VIDA FHD" tvg-logo="https://img.hotice.site/icones_channels/Rede_Vida_hd.png" group-title="F20 M5 ⭐ RELIGIOSOS",REDE VIDA FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRkhrQSW_BUN8PpEVIUP9B2I6JGKVwYwnaZY8NlbT20rG
+#EXTINF:-1 xui-id="4231797" tvg-id="br#rede-vida-hd" tvg-name="REDE VIDA HD" tvg-logo="https://img.hotice.site/icones_channels/Rede_Vida_hd.png" group-title="F20 M5 ⭐ RELIGIOSOS",REDE VIDA HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRqgklKADYypLWeHYkGb9ltHKtXO5oAi6lWIWJTAXn5L0
+#EXTINF:-1 xui-id="4231798" tvg-id="br#rit-hd" tvg-name="RIT TV FHD" tvg-logo="https://img.inboxbr.pro/icones_channels/rit-tv.png" group-title="F20 M5 ⭐ RELIGIOSOS",RIT TV FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRkbz35TEge1shxy1zOgfzWr4FTBHd7d1vUQVvSehfsdd
+#EXTINF:-1 xui-id="4231799" tvg-id="br#rit-hd" tvg-name="RIT TV HD" tvg-logo="https://img.inboxbr.pro/icones_channels/rit-tv.png" group-title="F20 M5 ⭐ RELIGIOSOS",RIT TV HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRtJ3in6jXgDL5X8cXzzrQ0S4CxGCJGwWBQwD6nLSBgfW
+#EXTINF:-1 xui-id="4231806" tvg-id="br#tv-alterosa" tvg-name="SBT BA - TV ALTEROSA FHD" tvg-logo="https://img.hotice.site/icones_channels/SBT_Campinas.png" group-title="F20 M5 ⭐ SBT",SBT BA - TV ALTEROSA FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRodPtPo_nm6ihXh12WBJYARoIlSwECE7kwCFOCBCeouJ
+#EXTINF:-1 xui-id="4231807" tvg-id="br#tv-alterosa" tvg-name="SBT BA - TV ALTEROSA HD" tvg-logo="https://img.hotice.site/icones_channels/SBT_Campinas.png" group-title="F20 M5 ⭐ SBT",SBT BA - TV ALTEROSA HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRjZo_jM7WGwBoC5yaLr-q8blZrajL9Y4bPFZczrEtORO
+#EXTINF:-1 xui-id="4231809" tvg-id="br#tv-aratu-hd" tvg-name="SBT BA - TV ARATU HD" tvg-logo="https://img.hotice.site/icones_channels/SBT_Campinas.png" group-title="F20 M5 ⭐ SBT",SBT BA - TV ARATU HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRvwUVfR5NCx6CtZs-Wmcvtjc0KWgVPs7a22FcUlJneUW
+#EXTINF:-1 xui-id="4231812" tvg-id="br#sbt-brasilia" tvg-name="SBT DF - SBT BRASILIA FHD" tvg-logo="https://img.hotice.site/icones_channels/SBT_Campinas.png" group-title="F20 M5 ⭐ SBT",SBT DF - SBT BRASILIA FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRtnTJsc20sScUoZZrmNsvmkt3bHOgVG-inGdjj249Om4
+#EXTINF:-1 xui-id="4231813" tvg-id="br#sbt-brasilia" tvg-name="SBT DF - SBT BRASILIA HD" tvg-logo="https://img.hotice.site/icones_channels/SBT_Campinas.png" group-title="F20 M5 ⭐ SBT",SBT DF - SBT BRASILIA HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRtINZ3aXJh52pAsBrigMHa_VFcwiBnUxVymJ3yO6WF_L
+#EXTINF:-1 xui-id="4231814" tvg-id="br#sbt-goiania-tv-serra-dourada" tvg-name="SBT GO - TV SERRA DOURADA FHD" tvg-logo="https://img.hotice.site/icones_channels/SBT_Campinas.png" group-title="F20 M5 ⭐ SBT",SBT GO - TV SERRA DOURADA FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRoT1v1yuj_nDKdFKL36G1RQn9fUmnu7_6dZQz2eH4dD9
+#EXTINF:-1 xui-id="4231815" tvg-id="br#sbt-goiania-tv-serra-dourada" tvg-name="SBT GO - TV SERRA DOURADA HD" tvg-logo="https://img.hotice.site/icones_channels/SBT_Campinas.png" group-title="F20 M5 ⭐ SBT",SBT GO - TV SERRA DOURADA HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRqbg5TVDeP1hHXNTuBrvO1tjHTeKbzbHuZ9DYIxBKoQW
+#EXTINF:-1 xui-id="4231816" tvg-id="br#rede-difusora-hd" tvg-name="SBT MA - TV DIFUSORA FHD" tvg-logo="https://img.hotice.site/icones_channels/SBT_Campinas.png" group-title="F20 M5 ⭐ SBT",SBT MA - TV DIFUSORA FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRi6Fvc81ExcLob5JiLLy-xRZszIia75iQoi5ZEOiqIH4
+#EXTINF:-1 xui-id="4231817" tvg-id="br#rede-difusora-hd" tvg-name="SBT MA - TV DIFUSORA HD" tvg-logo="https://img.hotice.site/icones_channels/SBT_Campinas.png" group-title="F20 M5 ⭐ SBT",SBT MA - TV DIFUSORA HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRjnq0MWtQtmlBd90mEQxB6J1xYgiJTIvokXMpVLvuGRh
+#EXTINF:-1 xui-id="4231818" tvg-id="br#sbt-s-o-paulo" tvg-name="SBT MG - SBT MINAS HD" tvg-logo="https://img.hotice.site/icones_channels/SBT_Campinas.png" group-title="F20 M5 ⭐ SBT",SBT MG - SBT MINAS HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRst8i7WtCkEgzmeRQg62-YThTSxi2dlSh7mEpuXqovxN
+#EXTINF:-1 xui-id="4231819" tvg-id="SBTPara.br" tvg-name="SBT PA - SBT PARÁ FHD" tvg-logo="https://img.hotice.site/icones_channels/SBT_Campinas.png" group-title="F20 M5 ⭐ SBT",SBT PA - SBT PARÁ FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRuDqhG4y5HNSmST6aAspnwp6DMqoz0yUJq4ZvjJjDTjT
+#EXTINF:-1 xui-id="4231820" tvg-id="SBTPara.br" tvg-name="SBT PA - SBT PARÁ HD" tvg-logo="https://img.hotice.site/icones_channels/SBT_Campinas.png" group-title="F20 M5 ⭐ SBT",SBT PA - SBT PARÁ HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRt9MHbDmtd4P758fCI08W4rSpvtHv2_PpaCflkZd7EjV
+#EXTINF:-1 xui-id="4231822" tvg-id="br#tv-jornal-hd" tvg-name="SBT PE - TV JORNAL FHD" tvg-logo="https://img.hotice.site/icones_channels/SBT_Campinas.png" group-title="F20 M5 ⭐ SBT",SBT PE - TV JORNAL FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRpH5VangrUclwIIQZxSU2JGJXvWmYu555piCeuMZf8kW
+#EXTINF:-1 xui-id="4231823" tvg-id="br#tv-jornal-hd" tvg-name="SBT PE - TV JORNAL HD" tvg-logo="https://img.hotice.site/icones_channels/SBT_Campinas.png" group-title="F20 M5 ⭐ SBT",SBT PE - TV JORNAL HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRiOUicVWcvwYrkuwaq4HnKeq-5DsmcJwDjw8a2-rlaja
+#EXTINF:-1 xui-id="4231826" tvg-id="SBTRio.br" tvg-name="SBT RIO DE JANEIRO 4K" tvg-logo="https://img.hotice.site/icones_channels/SBT_Campinas.png" group-title="F20 M5 ⭐ 4K",SBT RIO DE JANEIRO 4K
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRoiQzRhmYF-z7GBhdX5iIpQKtrhH0i7sbFxJs39pf6FE
+#EXTINF:-1 xui-id="4231827" tvg-id="SBTRio.br" tvg-name="SBT RJ - SBT  RIO FHD" tvg-logo="https://img.hotice.site/icones_channels/SBT_Campinas.png" group-title="F20 M5 ⭐ SBT",SBT RJ - SBT  RIO FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRrGUUV_DUI5KEqcvX4ASeN0sHi_NC_ezeV23EvMl5oIF
+#EXTINF:-1 xui-id="4231828" tvg-id="SBTRio.br" tvg-name="SBT RJ - SBT  RIO HD" tvg-logo="https://img.hotice.site/icones_channels/SBT_Campinas.png" group-title="F20 M5 ⭐ SBT",SBT RJ - SBT  RIO HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRpRHAOyYS_59zBJhrunMqQi000lsxLxoDiNs7hD6E9Ua
+#EXTINF:-1 xui-id="4231829" tvg-id="SBTRio.br" tvg-name="SBT RJ - SBT  RIO SD" tvg-logo="https://img.hotice.site/icones_channels/SBT_Campinas.png" group-title="F20 M5 ⭐ SBT",SBT RJ - SBT  RIO SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRqGrhCOC0k6w6hnETzqJzfVYwoNL90ETrokxNgG1Q86k
+#EXTINF:-1 xui-id="4231830" tvg-id="RBSTVPortoAlegre.br" tvg-name="SBT RS - SBT PORTO ALEGRE FHD" tvg-logo="https://img.hotice.site/icones_channels/SBT_Campinas.png" group-title="F20 M5 ⭐ SBT",SBT RS - SBT PORTO ALEGRE FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRvKnRlzv0CNuWkvVygT0rP9RQwF2WdJuvkVkRTmPcKU0
+#EXTINF:-1 xui-id="4231831" tvg-id="RBSTVPortoAlegre.br" tvg-name="SBT RS - SBT PORTO ALEGRE HD" tvg-logo="https://img.hotice.site/icones_channels/SBT_Campinas.png" group-title="F20 M5 ⭐ SBT",SBT RS - SBT PORTO ALEGRE HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRpqDhnHZleg57t1PcYAClX7SzNLTNpwdJxuVHj9U8l9o
+#EXTINF:-1 xui-id="4231832" tvg-id="br#sbt-s-o-paulo" tvg-name="SBT SAO PAULO 4K" tvg-logo="https://img.hotice.site/icones_channels/SBT_Campinas.png" group-title="F20 M5 ⭐ 4K",SBT SAO PAULO 4K
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRkqTaexa8oRm57M50d825bw2QTkmSyGTkaQKy5kg5JQv
+#EXTINF:-1 xui-id="4231836" tvg-id="br#sbt-s-o-paulo" tvg-name="SBT SP - SBT SAO PAULO FHD" tvg-logo="https://img.hotice.site/icones_channels/SBT_Campinas.png" group-title="F20 M5 ⭐ SBT",SBT SP - SBT SAO PAULO FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRpItzer9Z3TvVlHkGsCghoUk-hTaGq5zSe-_dXAfMrX9
+#EXTINF:-1 xui-id="4231837" tvg-id="br#sbt-s-o-paulo" tvg-name="SBT SP - SBT SAO PAULO HD" tvg-logo="https://img.hotice.site/icones_channels/SBT_Campinas.png" group-title="F20 M5 ⭐ SBT",SBT SP - SBT SAO PAULO HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRr0TrKCtPubertZB7RtcsMwSFnJ73B_9lV1JcUbp7eR5
+#EXTINF:-1 xui-id="4231838" tvg-id="br#sbt-s-o-paulo" tvg-name="SBT SP - SBT SAO PAULO SD" tvg-logo="https://img.hotice.site/icones_channels/SBT_Campinas.png" group-title="F20 M5 ⭐ SBT",SBT SP - SBT SAO PAULO SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRvRnVJwJ4k2OY3PShuE3kDp7dkJpCrSFi5bW2L3bYLAz
+#EXTINF:-1 xui-id="4238280" tvg-id="" tvg-name="Scooby-Doo 24HS" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",Scooby-Doo 24HS
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRulX2Nn1kVBRA3hsUgMf40c9G-0EM2J7fEOFydsDNF1N
+#EXTINF:-1 xui-id="4238281" tvg-id="" tvg-name="Smallville 24hs" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",Smallville 24hs
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRiCZ-Clf5IC8gfD6hj87BsDVZ6hD6Fr_dTTXYDtmAY34
+#EXTINF:-1 xui-id="4238282" tvg-id="" tvg-name="Sobrenatural 24hs" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",Sobrenatural 24hs
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRv0u3FyuzOIAY_rRGqzZh4apQn9A6GH4VhT7sL-HyiK1
+#EXTINF:-1 xui-id="4231841" tvg-id="SonyChannel.br" tvg-name="SONY CHANNEL 4K" tvg-logo="https://img.hotice.site/icones_channels/SONY_HD.png" group-title="F20 M5 ⭐ 4K",SONY CHANNEL 4K
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRh37lHtLGtvtdrozI6dLRJc-Rr0OoJTmhzJijm-zjGHQ
+#EXTINF:-1 xui-id="4231842" tvg-id="SonyChannel.br" tvg-name="SONY CHANNEL FHD" tvg-logo="https://img.hotice.site/icones_channels/SONY_HD.png" group-title="F20 M5 ⏩ FILMES E SÉRIES",SONY CHANNEL FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRvIZ94p9kjlB9Vre5FMKlYhFl7q7GsHDNv4bAHFkmEKd
+#EXTINF:-1 xui-id="4231843" tvg-id="SonyChannel.br" tvg-name="SONY CHANNEL HD" tvg-logo="https://img.hotice.site/icones_channels/SONY_HD.png" group-title="F20 M5 ⏩ FILMES E SÉRIES",SONY CHANNEL HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRsDX_Wr2cpWCxbnupw-bsL2Rmc6PMODnehOCYBPbgYYo
+#EXTINF:-1 xui-id="4238283" tvg-id="" tvg-name="South Park 24HS" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",South Park 24HS
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRt_5kLMvsvJL-WzzKX06Sec7bLcLXHynU6OcLhqATNpH
+#EXTINF:-1 xui-id="4231849" tvg-id="24HAnimes" tvg-name="SPACE 4K" tvg-logo="https://img.hotice.site/icones_channels/SPACE_HD.png" group-title="F20 M5 ⭐ 4K",SPACE 4K
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRqKEFUKTMILlfieDNg-OvOcTW7Ih3r3dBYeFv7I1f8qe
+#EXTINF:-1 xui-id="4231850" tvg-id="24HAnimes" tvg-name="SPACE FHD" tvg-logo="https://img.hotice.site/icones_channels/SPACE_HD.png" group-title="F20 M5 ⏩ FILMES E SÉRIES",SPACE FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRm-HLaVDMOX4VzObcwn9uo7j972J-SI7TPPiu4cNRsk1
+#EXTINF:-1 xui-id="4231851" tvg-id="24HAnimes" tvg-name="SPACE HD" tvg-logo="https://img.hotice.site/icones_channels/SPACE_HD.png" group-title="F20 M5 ⏩ FILMES E SÉRIES",SPACE HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRrrLNd27O8qRbLy0lesHBJ9jMezrHKV8KIVxPeiE9_IP
+#EXTINF:-1 xui-id="4231852" tvg-id="24HAnimes" tvg-name="SPACE SD" tvg-logo="https://img.hotice.site/icones_channels/SPACE_HD.png" group-title="F20 M5 ⏩ FILMES E SÉRIES",SPACE SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRicnzLvJN-b3izY1CIbyqaKWwXTYRXNtRDnU9ajSSS7d
+#EXTINF:-1 xui-id="4231853" tvg-id="br#sportv2-hd" tvg-name="SPORTV 01 4K" tvg-logo="https://img.hotice.site/icones_channels/Sport_TV_1.png" group-title="F20 M5 ⭐ 4K",SPORTV 01 4K
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRlnXI-rZYYBsnKYqh6uGX4KMMnkdYmgMbKXTKMBaMfjC
+#EXTINF:-1 xui-id="4665887" tvg-id="SporTV.br" tvg-name="SPORTV 01 FHD" tvg-logo="https://img.hotice.site/icones_channels/SporTV_HD.png" group-title="F20 M5 SPORTV",SPORTV 01 FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRmLoZbf0C4T6pMFg3xxkWJ_G4nZw-VLIwlY3Z5O47dSy
+#EXTINF:-1 xui-id="4665888" tvg-id="br#sportv-hd" tvg-name="SPORTV 01 HD" tvg-logo="https://img.hotice.site/icones_channels/SporTV_HD.png" group-title="F20 M5 SPORTV",SPORTV 01 HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRgTOfDU0J4eeGiCwZd-w0FkHYabrPkcjYftt8ggz3toA
+#EXTINF:-1 xui-id="4665889" tvg-id="br#sportv-hd" tvg-name="SPORTV 01 SD" tvg-logo="https://img.hotice.site/icones_channels/SporTV_HD.png" group-title="F20 M5 SPORTV",SPORTV 01 SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRiDCtObUWT00CifnqVsei2jEOARrzY2GYNO0Rew3Vq7a
+#EXTINF:-1 xui-id="4231858" tvg-id="SporTV2.br" tvg-name="SPORTV 02 4K" tvg-logo="https://img.hotice.site/icones_channels/Sport_TV_2.png" group-title="F20 M5 ⭐ 4K",SPORTV 02 4K
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRgBqZH11HTZ7RChG6SkdH3e8jcmPClRlnRz9N-CTrWE0
+#EXTINF:-1 xui-id="4665890" tvg-id="br#sportv2-hd" tvg-name="SPORTV 02 FHD" tvg-logo="https://img.hotice.site/icones_channels/SporTV2_HD.png" group-title="F20 M5 SPORTV",SPORTV 02 FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRqerhCAcrrH59DoEd3pYL7m2tKi_VBbdwU-Ed_NN5oRv
+#EXTINF:-1 xui-id="4665891" tvg-id="br#sportv2-hd" tvg-name="SPORTV 02 HD" tvg-logo="https://img.hotice.site/icones_channels/SporTV2_HD.png" group-title="F20 M5 SPORTV",SPORTV 02 HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRsAJ3l_iU0pJjAtRmSUV10RF0-FUbFGUhPpztLFjCIOl
+#EXTINF:-1 xui-id="4665892" tvg-id="br#sportv2-hd" tvg-name="SPORTV 02 SD" tvg-logo="https://img.hotice.site/icones_channels/SporTV2_HD.png" group-title="F20 M5 SPORTV",SPORTV 02 SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRg6IKlwnu3jV79UcQ9kf27APMmDPZTleh-xmCDZS-mHp
+#EXTINF:-1 xui-id="4231863" tvg-id="SporTV3.br" tvg-name="SPORTV 03 4K" tvg-logo="https://img.hotice.site/icones_channels/Sport_TV_3.png" group-title="F20 M5 ⭐ 4K",SPORTV 03 4K
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRmWOsBlZpTD1RxnGqd4GA_CKJwnnbbzhF4I3MiGJyvMj
+#EXTINF:-1 xui-id="4665893" tvg-id="br#sportv3-hd" tvg-name="SPORTV 03 FHD" tvg-logo="https://img.hotice.site/icones_channels/SporTV3_HD.png" group-title="F20 M5 SPORTV",SPORTV 03 FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRsGrgDnmjngvmM1KxFKEZsxLPkeVvSWsdCdO_IjWH7le
+#EXTINF:-1 xui-id="4665894" tvg-id="br#sportv3-hd" tvg-name="SPORTV 03 HD" tvg-logo="https://img.hotice.site/icones_channels/SporTV3_HD.png" group-title="F20 M5 SPORTV",SPORTV 03 HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRqdgeS1YJXTyjWraHOJj34_v0Jp8UiJmzvV-dkvLGYMm
+#EXTINF:-1 xui-id="4665895" tvg-id="br#sportv3-hd" tvg-name="SPORTV 03 SD" tvg-logo="https://img.hotice.site/icones_channels/SporTV3_HD.png" group-title="F20 M5 SPORTV",SPORTV 03 SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRvNc5NlZzC0HATtJA_qK8HS-eTJ81J4hWjBc4PGDZx5S
+#EXTINF:-1 xui-id="4238284" tvg-id="" tvg-name="Steven Universe 24HS" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",Steven Universe 24HS
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRjXoCUZFEHO4y5-9aUlVZ8SNq8vAV_fjOesgTsU57kIY
+#EXTINF:-1 xui-id="4231869" tvg-id="br#studio-universal-hd" tvg-name="STUDIO UNIVERSAL 4K" tvg-logo="https://img.hotice.site/icones_channels/STUDIO_UNIVERSAL_HD.png" group-title="F20 M5 ⭐ 4K",STUDIO UNIVERSAL 4K
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRoRSp6wg94NiFk-YwUlLXHQpAR0SI9oFE4NSyy_XVnwu
+#EXTINF:-1 xui-id="4231870" tvg-id="br#studio-universal-hd" tvg-name="STUDIO UNIVERSAL FHD" tvg-logo="https://img.hotice.site/icones_channels/STUDIO_UNIVERSAL_HD.png" group-title="F20 M5 ⏩ FILMES E SÉRIES",STUDIO UNIVERSAL FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRs6iVDIS9-NquHAySRkUOJd-pOicMwPm3lERl5AX_msQ
+#EXTINF:-1 xui-id="4231871" tvg-id="br#studio-universal-hd" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://img.hotice.site/icones_channels/STUDIO_UNIVERSAL_HD.png" group-title="F20 M5 ⏩ FILMES E SÉRIES",STUDIO UNIVERSAL HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRhrFGUNrV2pgDPfymcJmqqLd3tItom-l5U_Fd1h1Ht3y
+#EXTINF:-1 xui-id="4231872" tvg-id="br#studio-universal-hd" tvg-name="STUDIO UNIVERSAL SD" tvg-logo="https://img.hotice.site/icones_channels/STUDIO_UNIVERSAL_HD.png" group-title="F20 M5 ⏩ FILMES E SÉRIES",STUDIO UNIVERSAL SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRoWV4iZZhePwMZs6INsRoQJCyaT5fw-azsDGgwbpeCps
+#EXTINF:-1 xui-id="4238306" tvg-id="" tvg-name="Super Choque 24hs" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",Super Choque 24hs
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRiqgFXNwK7TMRUGKNKd47cj3UG2v-GWcNnHlZ9LXoFSt
+#EXTINF:-1 xui-id="4238285" tvg-id="" tvg-name="Superman 24hs" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",Superman 24hs
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRoG59lcu2kD_Y-LoeoUgrL5KmEGoNspSP3d-mF1l8W3w
+#EXTINF:-1 xui-id="4238286" tvg-id="" tvg-name="TARTARUGAS NINJAS 24HS" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",TARTARUGAS NINJAS 24HS
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRu43Wucp0BK_6uWyayVgP4KuMY_qasi4zOVkJ7AsKNKR
+#EXTINF:-1 xui-id="4238314" tvg-id="" tvg-name="TAZ MANIA 24HRS" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",TAZ MANIA 24HRS
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRufdVtW3IpkoEAqR-oJKZN0fzUSRgOer72ybAUDZs2hD
+#EXTINF:-1 xui-id="4231873" tvg-id="TCM.br" tvg-name="TCM 4K" tvg-logo="https://img.hotice.site/icones_channels/TCM.png" group-title="F20 M5 ⭐ 4K",TCM 4K
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRp9sgTak6glkuGtafHUGK3R0387CqIbv6-FnS4cCYojY
+#EXTINF:-1 xui-id="4231874" tvg-id="TCM.br" tvg-name="TCM FHD" tvg-logo="https://img.hotice.site/icones_channels/TCM.png" group-title="F20 M5 ⏩ FILMES E SÉRIES",TCM FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRq5zZ6I57GYYT0ouqcTRgghoNewS2SpHnhXLTNXP1Yap
+#EXTINF:-1 xui-id="4231875" tvg-id="TCM.br" tvg-name="TCM FHD 4K" tvg-logo="https://img.hotice.site/icones_channels/TCM.png" group-title="F20 M5 ⭐ 4K",TCM FHD 4K
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRnFlH6RUBF0odfDKovoRcpgydnU_EvGV__pXHVDpftWW
+#EXTINF:-1 xui-id="4231876" tvg-id="TCM.br" tvg-name="TCM HD" tvg-logo="https://img.hotice.site/icones_channels/TCM.png" group-title="F20 M5 ⏩ FILMES E SÉRIES",TCM HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRjNVgl4I5VdgIJ-_-AoBMuN_FP1GzWp-NxuA2wBWDZna
+#EXTINF:-1 xui-id="4231877" tvg-id="TCM.br" tvg-name="TCM SD" tvg-logo="https://img.hotice.site/icones_channels/TCM.png" group-title="F20 M5 ⏩ FILMES E SÉRIES",TCM SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRoFyBKvEoFxfEJgPSm23OWoMJ8Mr7kooGW6xPnMV7iCI
+#EXTINF:-1 xui-id="4231878" tvg-id="br#telecine-action-hd" tvg-name="TELECINE ACTION 4K" tvg-logo="https://img.hotice.site/icones_channels/Telecine_Action_HD.png" group-title="F20 M5 ⭐ 4K",TELECINE ACTION 4K
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRstUw4qxz8fKS2SwvIz-FaXLy22H0Dqy5gyYZ1fTb8JO
+#EXTINF:-1 xui-id="4231879" tvg-id="br#telecine-action-hd" tvg-name="TELECINE ACTION FHD" tvg-logo="https://img.hotice.site/icones_channels/Telecine_Action_HD.png" group-title="F20 M5 ⏩TELECINE",TELECINE ACTION FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRi1oRJA_JbFbVsJZiJpExs7rgxtCxh088LxM6ZClAd3W
+#EXTINF:-1 xui-id="4231880" tvg-id="br#telecine-action-hd" tvg-name="TELECINE ACTION HD" tvg-logo="https://img.hotice.site/icones_channels/Telecine_Action_HD.png" group-title="F20 M5 ⏩TELECINE",TELECINE ACTION HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRjzfI--6WCKF6yJ4nAB7vbFwyURv7BupqJoWPskz_7bb
+#EXTINF:-1 xui-id="4231881" tvg-id="br#telecine-action-hd" tvg-name="TELECINE ACTION SD" tvg-logo="https://img.hotice.site/icones_channels/Telecine_Action_HD.png" group-title="F20 M5 ⏩TELECINE",TELECINE ACTION SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRkL8sEuKx-igSOvo-8YJQ5blM9rgDtaju__23GDoSv6W
+#EXTINF:-1 xui-id="4231882" tvg-id="br#telecine-cult-hd" tvg-name="TELECINE CULT 4K" tvg-logo="https://img.hotice.site/icones_channels/Telecine_Cult_HD.png" group-title="F20 M5 ⭐ 4K",TELECINE CULT 4K
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRozVg7rRfawmm-h9c2opkIoQ24NPStZaOkQ5Jtc29Mtx
+#EXTINF:-1 xui-id="4231883" tvg-id="br#telecine-cult-hd" tvg-name="TELECINE CULT FHD" tvg-logo="https://img.hotice.site/icones_channels/Telecine_Cult_HD.png" group-title="F20 M5 ⏩TELECINE",TELECINE CULT FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRs2eBaHB6-Yk8kDJfwLzee3SXb6ecLCwEg1-7MFHNzAp
+#EXTINF:-1 xui-id="4231884" tvg-id="br#telecine-cult-hd" tvg-name="TELECINE CULT HD" tvg-logo="https://img.hotice.site/icones_channels/Telecine_Cult_HD.png" group-title="F20 M5 ⏩TELECINE",TELECINE CULT HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRl1KzcaYR4Jh6eXQNI2Q65UeduA_Lv1Jcnm3GcZZBcjG
+#EXTINF:-1 xui-id="4231885" tvg-id="br#telecine-cult-hd" tvg-name="TELECINE CULT SD" tvg-logo="https://img.hotice.site/icones_channels/Telecine_Cult_HD.png" group-title="F20 M5 ⏩TELECINE",TELECINE CULT SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRkViE7abw-6GBSmlpN9EBj4qRWHiNHNAv_Vv3Z_fruTt
+#EXTINF:-1 xui-id="4231886" tvg-id="br#telecine-fun-hd" tvg-name="TELECINE FUN 4K" tvg-logo="https://img.hotice.site/icones_channels/Telecine_FUN_HD.png" group-title="F20 M5 ⭐ 4K",TELECINE FUN 4K
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRqdr7-kNaSZb9oxtKoIvWbkcBtA2zw2l2oQGdoJrdL2e
+#EXTINF:-1 xui-id="4231887" tvg-id="br#telecine-fun-hd" tvg-name="TELECINE FUN FHD" tvg-logo="https://img.hotice.site/icones_channels/Telecine_FUN_HD.png" group-title="F20 M5 ⏩TELECINE",TELECINE FUN FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRmmUf-_ImPc6xu7nuq2uZI7_R3GesJuyP5xoMCpcPNlM
+#EXTINF:-1 xui-id="4231888" tvg-id="br#telecine-fun-hd" tvg-name="TELECINE FUN HD" tvg-logo="https://img.hotice.site/icones_channels/Telecine_FUN_HD.png" group-title="F20 M5 ⏩TELECINE",TELECINE FUN HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRolTaug_bnBYUSJs0tcL3a6gk50iAoDhXm0Xeb5fZPnB
+#EXTINF:-1 xui-id="4231889" tvg-id="br#telecine-fun-hd" tvg-name="TELECINE FUN SD" tvg-logo="https://img.hotice.site/icones_channels/Telecine_FUN_HD.png" group-title="F20 M5 ⏩TELECINE",TELECINE FUN SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRgILYcIJHoes0jd1ojR3JNLrBt0_BCcKXnxjLQs5m1uE
+#EXTINF:-1 xui-id="4231890" tvg-id="br#telecine-pipoca-hd" tvg-name="TELECINE PIPOCA 4K" tvg-logo="https://img.hotice.site/icones_channels/Telecine_Pipoca_HD.png" group-title="F20 M5 ⭐ 4K",TELECINE PIPOCA 4K
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRibIFcIE2Qh7deUp_daIMxO0s_UWMMdaxuyl8szTyEg8
+#EXTINF:-1 xui-id="4231891" tvg-id="br#telecine-pipoca-hd" tvg-name="TELECINE PIPOCA FHD" tvg-logo="https://img.hotice.site/icones_channels/Telecine_Pipoca_HD.png" group-title="F20 M5 ⏩TELECINE",TELECINE PIPOCA FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRoVn-se0u4aIcDdM9zxqFadQRSsNIDf13Ti_CXZweM8L
+#EXTINF:-1 xui-id="4231892" tvg-id="br#telecine-pipoca-hd" tvg-name="TELECINE PIPOCA HD" tvg-logo="https://img.hotice.site/icones_channels/Telecine_Pipoca_HD.png" group-title="F20 M5 ⏩TELECINE",TELECINE PIPOCA HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRmqEemiHw2sABPo08CXK_l1WrN8kNc_ufxMfxztGFrdi
+#EXTINF:-1 xui-id="4231893" tvg-id="br#telecine-pipoca-hd" tvg-name="TELECINE PIPOCA SD" tvg-logo="https://img.hotice.site/icones_channels/Telecine_Pipoca_HD.png" group-title="F20 M5 ⏩TELECINE",TELECINE PIPOCA SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRnrOCjw1x2qZXPYPLGiVBL95aHV8oB5p3Y-ybYJOCCI0
+#EXTINF:-1 xui-id="4231894" tvg-id="br#telecine-premium-hd" tvg-name="TELECINE PREMIUM 4K" tvg-logo="https://img.hotice.site/icones_channels/Telecine_Premium_HD.png" group-title="F20 M5 ⭐ 4K",TELECINE PREMIUM 4K
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRupcImtps0XffN4GuxN4SBMWV4mQ4LhQurTgPR8PnJiS
+#EXTINF:-1 xui-id="4231895" tvg-id="br#telecine-premium-hd" tvg-name="TELECINE PREMIUM FHD" tvg-logo="https://img.hotice.site/icones_channels/Telecine_Premium_HD.png" group-title="F20 M5 ⏩TELECINE",TELECINE PREMIUM FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRhxpdVKbj9ZniBcCm4ieE_1lY-7Loa89buPglsujcz_B
+#EXTINF:-1 xui-id="4231896" tvg-id="br#telecine-premium-hd" tvg-name="TELECINE PREMIUM HD" tvg-logo="https://img.hotice.site/icones_channels/Telecine_Premium_HD.png" group-title="F20 M5 ⏩TELECINE",TELECINE PREMIUM HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRh4sV2k18MW-lW4Cwf5N5vtNvpmes-KXuR89ohek0Zk9
+#EXTINF:-1 xui-id="4231897" tvg-id="br#telecine-premium-hd" tvg-name="TELECINE PREMIUM SD" tvg-logo="https://img.hotice.site/icones_channels/Telecine_Premium_HD.png" group-title="F20 M5 ⏩TELECINE",TELECINE PREMIUM SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRuN1OmdGJluPouqt97vu95FptBhiAhGL6LNFQsrY80Df
+#EXTINF:-1 xui-id="4231898" tvg-id="br#telecine-touch-hd" tvg-name="TELECINE TOUCH 4K" tvg-logo="https://img.hotice.site/icones_channels/Telecine_Touch_HD.png" group-title="F20 M5 ⭐ 4K",TELECINE TOUCH 4K
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRmAlTgXeZ966t_YeekVz6BWnTtTN_2awNjUI4PrxXGOX
+#EXTINF:-1 xui-id="4231899" tvg-id="br#telecine-touch-hd" tvg-name="TELECINE TOUCH FHD" tvg-logo="https://img.hotice.site/icones_channels/Telecine_Touch_HD.png" group-title="F20 M5 ⏩TELECINE",TELECINE TOUCH FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRrILJhRFKZCFSCS6K7kUVXGthdm-zDJBhBzvI9cSxV7j
+#EXTINF:-1 xui-id="4231900" tvg-id="br#telecine-touch-hd" tvg-name="TELECINE TOUCH HD" tvg-logo="https://img.hotice.site/icones_channels/Telecine_Touch_HD.png" group-title="F20 M5 ⏩TELECINE",TELECINE TOUCH HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRvNGuTe8Bb0sIJ6qhCDi51FjOdlmWZ4ceFb994mUygjV
+#EXTINF:-1 xui-id="4231901" tvg-id="br#telecine-touch-hd" tvg-name="TELECINE TOUCH SD" tvg-logo="https://img.hotice.site/icones_channels/Telecine_Touch_HD.png" group-title="F20 M5 ⏩TELECINE",TELECINE TOUCH SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRtbC5HnAraTtzRFgt3w3YLho5xw1Ao9WmasWiky6UUGy
+#EXTINF:-1 xui-id="4231902" tvg-id="TerraViva.br" tvg-name="TERR VIVA HD" tvg-logo="https://img.hotice.site/icones_channels/Terra_Viva.png" group-title="F20 M5 ⭐ AGRO NEGOCIOS",TERR VIVA HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRhd_KEsmiKrtWhJRtzq27CQZ_uL3Dp0zyWXvY2K8OXjx
+#EXTINF:-1 xui-id="4231903" tvg-id="TerraViva.br" tvg-name="TERR VIVA SD" tvg-logo="https://img.hotice.site/icones_channels/Terra_Viva.png" group-title="F20 M5 ⭐ AGRO NEGOCIOS",TERR VIVA SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRueigmcwUMFD5txr9-AdVvu6TPn705y82sQnMyRX_UbA
+#EXTINF:-1 xui-id="4231904" tvg-id="TerraViva.br" tvg-name="TERRA VIVA FHD" tvg-logo="https://img.hotice.site/icones_channels/Terra_Viva.png" group-title="F20 M5 ⭐ AGRO NEGOCIOS",TERRA VIVA FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRhF63nA3z55p0wE2DMfwBEd2mchKCDRCNLVKMn9xSzi1
+#EXTINF:-1 xui-id="4238329" tvg-id="" tvg-name="THE BIG BANG THEORY 24HRS" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",THE BIG BANG THEORY 24HRS
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRjLTsvvb73boSJFhLkJ7vLRJUIA319L6aVeABW41wvxp
+#EXTINF:-1 xui-id="4238287" tvg-id="" tvg-name="Thundercats 24HS" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",Thundercats 24HS
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRsiU0pHKHfdxkz6jpOPoZzRhJhBNli5CAZJziatFijkp
+#EXTINF:-1 xui-id="4238288" tvg-id="" tvg-name="TIMAO E PUMBA 24HS" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",TIMAO E PUMBA 24HS
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRhWneQ7Rc3QpIibmm2d7ZLeuqc8G_Z2Iqfn924_0RJ8a
+#EXTINF:-1 xui-id="4231905" tvg-id="br#tlc-hd" tvg-name="TLC 4K" tvg-logo="https://img.hotice.site/icones_channels/TLC_HD.png" group-title="F20 M5 ⭐ 4K",TLC 4K
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRkCyVE8HrxBwpiU0HZ-8N00md0ePZfs6B8VtUtii_bVU
+#EXTINF:-1 xui-id="4231906" tvg-id="br#tlc-hd" tvg-name="TLC FHD" tvg-logo="https://img.hotice.site/icones_channels/TLC_HD.png" group-title="F20 M5 ⭐ DOCUMENTÁRIOS",TLC FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRuW5d-U4lW347F4TCUCILk9AcY8xTxONVpZYvToXyXd_
+#EXTINF:-1 xui-id="4231907" tvg-id="br#tlc-hd" tvg-name="TLC HD" tvg-logo="https://img.hotice.site/icones_channels/TLC_HD.png" group-title="F20 M5 ⭐ DOCUMENTÁRIOS",TLC HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRudWG_9OSHlho-KxW4T7sduEVvCSgCKPVU_ecivQGgqZ
+#EXTINF:-1 xui-id="4231908" tvg-id="br#tlc-hd" tvg-name="TLC SD" tvg-logo="https://img.hotice.site/icones_channels/TLC_HD.png" group-title="F20 M5 ⭐ DOCUMENTÁRIOS",TLC SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRthXJAYT9WRX7TaOmYFDcVMUU4gV51Sdls9kZWUCpKMx
+#EXTINF:-1 xui-id="4231909" tvg-id="br#tnt-hd" tvg-name="TNT FHD" tvg-logo="https://img.hotice.site/icones_channels/TNT_HD.png" group-title="F20 M5 ⏩ FILMES E SÉRIES",TNT FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRpKAMxPARV2b4RkBhyMYu6z5fMWezoONctHuCZJi6ebb
+#EXTINF:-1 xui-id="4231910" tvg-id="br#tnt-hd" tvg-name="TNT HD" tvg-logo="https://img.hotice.site/icones_channels/TNT_HD.png" group-title="F20 M5 ⏩ FILMES E SÉRIES",TNT HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRolMFoW835DYjHurddYwiayDvoUX8q1UVUgV9UB17-SW
+#EXTINF:-1 xui-id="4231911" tvg-id="TNTNovelas.br" tvg-name="TNT NOVELAS 4K" tvg-logo="https://img.hotice.site/icones_channels/TNT_Novelas_HD.png" group-title="F20 M5 ⭐ 4K",TNT NOVELAS 4K
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRrD2kKLDZH8VP8ilEVU4VjUjMhd7htiNXBrsotjLI1zI
+#EXTINF:-1 xui-id="4231912" tvg-id="br#tnt-hd" tvg-name="TNT SD" tvg-logo="https://img.hotice.site/icones_channels/TNT_HD.png" group-title="F20 M5 ⏩ FILMES E SÉRIES",TNT SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRixIr5rDr1nniPk0rG0fRWtGzHe6m_p1s6WaYFitqSt-
+#EXTINF:-1 xui-id="4231913" tvg-id="br#tnt-series-hd" tvg-name="TNT SERIES 4K" tvg-logo="https://img.hotice.site/icones_channels/TNT_SERIES_HD.png" group-title="F20 M5 ⭐ 4K",TNT SERIES 4K
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRqyEkdnba-f6nYPHlfRZWM-767fx62JgQZ-vHzaaoD48
+#EXTINF:-1 xui-id="4231914" tvg-id="br#tnt-series-hd" tvg-name="TNT SERIES FHD" tvg-logo="https://img.hotice.site/icones_channels/TNT_SERIES_HD.png" group-title="F20 M5 ⏩ FILMES E SÉRIES",TNT SERIES FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRr5y1aEHV4MKoqTvF6rUyK4n7eRsC5e41p-i85FqCHs4
+#EXTINF:-1 xui-id="4231915" tvg-id="br#tnt-series-hd" tvg-name="TNT SERIES HD" tvg-logo="https://img.hotice.site/icones_channels/TNT_SERIES_HD.png" group-title="F20 M5 ⏩ FILMES E SÉRIES",TNT SERIES HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRlrnVCF2WqH-wGSTlW-OClSEfKfMtod3G_zGJxWWLB9e
+#EXTINF:-1 xui-id="4231916" tvg-id="br#tnt-series-hd" tvg-name="TNT SERIES SD" tvg-logo="https://img.hotice.site/icones_channels/TNT_SERIES_HD.png" group-title="F20 M5 ⏩ FILMES E SÉRIES",TNT SERIES SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRpHdeVti3ikN60gYh9GX7guXqI-pws3fYFmKYSrBcTt3
+#EXTINF:-1 xui-id="4665901" tvg-id="br#tnt-hd" tvg-name="TNT SPORTS 01 HD" tvg-logo="https://img.inboxbr.pro/icones_channels/estadio-tnt-sports.png" group-title="F20 M5 MAX-TNT SPORTS",TNT SPORTS 01 HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRvM3XsBIxDCC3sFvAMAJT9lEBjzxdiPiVKh08SvtF9ST
+#EXTINF:-1 xui-id="4665902" tvg-id="br#tnt-hd" tvg-name="TNT SPORTS 02 HD" tvg-logo="https://img.inboxbr.pro/icones_channels/estadio-tnt-sports.png" group-title="F20 M5 MAX-TNT SPORTS",TNT SPORTS 02 HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRvaVJu9pQ5U5qSgnpQXNEDlABys7NMlXjS5kOEXn8Lkr
+#EXTINF:-1 xui-id="4665903" tvg-id="" tvg-name="TNT SPORTS 03 HD" tvg-logo="https://img.inboxbr.pro/icones_channels/estadio-tnt-sports.png" group-title="F20 M5 MAX-TNT SPORTS",TNT SPORTS 03 HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRl4zlJrABZIj95CAboEeAxGgRj24nuB11v2tvnoHdM7a
+#EXTINF:-1 xui-id="4238289" tvg-id="" tvg-name="TODO MUNDO ODEIA O CHRIS 24hs" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",TODO MUNDO ODEIA O CHRIS 24hs
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRo8a_DcoZwj9LRjrRxxQRHPmoT5yQHWu6IdsNb5-e0dN
+#EXTINF:-1 xui-id="4238290" tvg-id="" tvg-name="Tom & Jerry 24HS" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",Tom & Jerry 24HS
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRt8btxwdMiJNltQ7J9wwRFKOD9vnTBVh-Pcvppw_F_WR
+#EXTINF:-1 xui-id="4231920" tvg-id="Tooncast.us" tvg-name="TOONCAST FHD" tvg-logo="https://img.inboxbr.pro/icones_channels/tooncast.png" group-title="F20 M5 ⭐ INFANTIL",TOONCAST FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRpxF1LUYkdRin9km-lG1YTeraexG1NKDGfCNM-0XQpoH
+#EXTINF:-1 xui-id="4231921" tvg-id="Tooncast.us" tvg-name="TOONCAST HD" tvg-logo="https://img.inboxbr.pro/icones_channels/tooncast.png" group-title="F20 M5 ⭐ INFANTIL",TOONCAST HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRsC3m_PWc1ba1JzTs0wbgOPKzQiLKGM3HQb2x-cLBzyX
+#EXTINF:-1 xui-id="4231922" tvg-id="Tooncast.us" tvg-name="TOONCAST SD" tvg-logo="https://img.inboxbr.pro/icones_channels/tooncast.png" group-title="F20 M5 ⭐ INFANTIL",TOONCAST SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRhd667yPdljFw_AgKeFMj3ARxsjUhrpwydDTFYr993ll
+#EXTINF:-1 xui-id="4238291" tvg-id="" tvg-name="Tres Espias Demais 24hs" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",Tres Espias Demais 24hs
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRhCgOHNNL2nJOeN5LyuZDpnvFjUQTW5gBHJesmRCwBP7
+#EXTINF:-1 xui-id="4231923" tvg-id="br#tv-aparecida-hd" tvg-name="TV APARECIDA FHD" tvg-logo="https://img.hotice.site/icones_channels/TV_Aparecida_HD.png" group-title="F20 M5 ⭐ RELIGIOSOS",TV APARECIDA FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRhlZ35foDWFsfKsKwNooL7cOYE5Nod-EZjwctwX--Gl-
+#EXTINF:-1 xui-id="4231924" tvg-id="br#tv-aparecida-hd" tvg-name="TV APARECIDA HD" tvg-logo="https://img.hotice.site/icones_channels/TV_Aparecida_HD.png" group-title="F20 M5 ⭐ RELIGIOSOS",TV APARECIDA HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRjZfEJ1-WNk9dxDa-LZSNahbswYTQvuqq2S_7bZmy8dq
+#EXTINF:-1 xui-id="4231925" tvg-id="TVCamara.br" tvg-name="TV CAMARA FHD" tvg-logo="https://img.hotice.site/icones_channels/TV_CAMARA.png" group-title="F20 M5 ⭐ ABERTOS",TV CAMARA FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRj1X9RECKMWd-OhwGvdrQ86UKIaG21OrWEBlKSB3baeZ
+#EXTINF:-1 xui-id="4231928" tvg-id="br#tv-alterosa" tvg-name="TV PAI ETERNO FHD" tvg-logo="https://img.hotice.site/icones_channels/TV_Pai_Eterno.png" group-title="F20 M5 ⭐ RELIGIOSOS",TV PAI ETERNO FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRscYfhrKYPBgT7mRaaMkAAgtdyWwaEwF9C8cATMSAGmV
+#EXTINF:-1 xui-id="4231929" tvg-id="br#tv-alterosa" tvg-name="TV PAI ETERNO HD" tvg-logo="https://img.hotice.site/icones_channels/TV_Pai_Eterno.png" group-title="F20 M5 ⭐ RELIGIOSOS",TV PAI ETERNO HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRp-Zc2mLfKLK-pilkuODIrAzd4N94IfEtynmFGPxyfyf
+#EXTINF:-1 xui-id="4231930" tvg-id="TVRaTimBum.br" tvg-name="TV RA TIM BUM FHD" tvg-logo="https://img.inboxbr.pro/icones_channels/tv-ra-tim-bum.png" group-title="F20 M5 ⭐ INFANTIL",TV RA TIM BUM FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRqehrtLz-GMnQNO6O_OzQrg-TSnZ7GtCBsml5F83FOtc
+#EXTINF:-1 xui-id="4231931" tvg-id="TVRaTimBum.br" tvg-name="TV RA TIM BUM HD" tvg-logo="https://img.inboxbr.pro/icones_channels/tv-ra-tim-bum.png" group-title="F20 M5 ⭐ INFANTIL",TV RA TIM BUM HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRiBHBPCbKMAD9bJs8ZJRnk8OzCuegxWThUIQQG46DdzT
+#EXTINF:-1 xui-id="4231932" tvg-id="TVRaTimBum.br" tvg-name="TV RA TIM BUM SD" tvg-logo="https://img.inboxbr.pro/icones_channels/tv-ra-tim-bum.png" group-title="F20 M5 ⭐ INFANTIL",TV RA TIM BUM SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRj7R8ChBNXdq0zT-F95EO54Jtam_-xfRfzZVeECGiePF
+#EXTINF:-1 xui-id="4231933" tvg-id="" tvg-name="UFC FIGHT PASS 01 HD  (AO VIVO)" tvg-logo="https://img.hotice.site/icones_channels/UFC_Fight_Pass_2.png" group-title="F20 M5 COMBATE UFC",UFC FIGHT PASS 01 HD  (AO VIVO)
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRn4mYGQUgaQl4aTxKbgOeuCfZopX7p2bWDG8FhhOtf_b
+#EXTINF:-1 xui-id="4231934" tvg-id="" tvg-name="UFC FIGHT PASS 02 HD (AO VIVO)" tvg-logo="https://img.hotice.site/icones_channels/UFC_Fight_Pass_2.png" group-title="F20 M5 COMBATE UFC",UFC FIGHT PASS 02 HD (AO VIVO)
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRp4O1aFzXjENMZJ6TtAqGvCEI5RePR6q-RqBqMkeL-5N
+#EXTINF:-1 xui-id="4666506" tvg-id="" tvg-name="UFC FIGHT PASS 03" tvg-logo="https://img.hotice.site/icones_channels/UFC_Fight_Pass_2.png" group-title="F20 M5 COMBATE UFC",UFC FIGHT PASS 03
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRj7PBzhN8_hoQNUD884SnpACaNbYG6_AuybWFDwEooUj
+#EXTINF:-1 xui-id="4238292" tvg-id="" tvg-name="UM MALUCO NO PEDAÇO 24HS" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",UM MALUCO NO PEDAÇO 24HS
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRtdqOS4yqm_Wc7NFF1lQ-zgJCdXBd2tMh_iurPZumyBn
+#EXTINF:-1 xui-id="4238293" tvg-id="" tvg-name="Uma Família da Pesada 24hs" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",Uma Família da Pesada 24hs
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRoAo-JZhfhufe2FTOF5GIcuWX169NPt1PbQMPFCpmcLB
+#EXTINF:-1 xui-id="4231940" tvg-id="UniversalTV.br" tvg-name="UNIVERSAL TV 4K" tvg-logo="https://img.hotice.site/icones_channels/Universal_HD.png" group-title="F20 M5 ⭐ 4K",UNIVERSAL TV 4K
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRrGyO9obEQYXLhW_EXu-uuTZI-8kmImJr22IaJ-zRyPz
+#EXTINF:-1 xui-id="4231941" tvg-id="UniversalTV.br" tvg-name="UNIVERSAL TV FHD" tvg-logo="https://img.hotice.site/icones_channels/Universal_HD.png" group-title="F20 M5 ⏩ FILMES E SÉRIES",UNIVERSAL TV FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRhLj7hDQzZsbycFEK8-rp3DeITWiXPkETx72viKwvPU9
+#EXTINF:-1 xui-id="4231942" tvg-id="UniversalTV.br" tvg-name="UNIVERSAL TV HD" tvg-logo="https://img.hotice.site/icones_channels/Universal_HD.png" group-title="F20 M5 ⏩ FILMES E SÉRIES",UNIVERSAL TV HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRvxjnOTiFGgrn9DcoGBnBTSUDzje6q98tBzxrmvUHeVR
+#EXTINF:-1 xui-id="4231943" tvg-id="UniversalTV.br" tvg-name="UNIVERSAL TV SD" tvg-logo="https://img.hotice.site/icones_channels/Universal_HD.png" group-title="F20 M5 ⏩ FILMES E SÉRIES",UNIVERSAL TV SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRu7RjnvkuBt5z_TuowEuvyE9RgCeYw8hIQfirebvbmxn
+#EXTINF:-1 xui-id="4238294" tvg-id="" tvg-name="Ursinhos Carinhos 24hs" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",Ursinhos Carinhos 24hs
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRr51McDs9BQcNCOsUY_Bqz9r_63UF0grEAkWdrXSuHN_
+#EXTINF:-1 xui-id="4238304" tvg-id="" tvg-name="VAI QUE COLA 24HRS" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",VAI QUE COLA 24HRS
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRnP0qtwMVgWWt0pn4FQAaVLpKCQAtjkQAbUj7_R-of54
+#EXTINF:-1 xui-id="4238305" tvg-id="" tvg-name="Vai Que Cola 24hs" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",Vai Que Cola 24hs
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRtQg4jgyDneZn3wfqMiFVcTuWhlP5BqX7RVcFBILvp5Y
+#EXTINF:-1 xui-id="4238757" tvg-id="" tvg-name="Viva HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/aZrJGTCraXDT6QF/download/viva.png" group-title="F20 M5 ⭐ VARIEDADES",Viva HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRpvxaLa-Lis6BvxplGUp4mrG-KEOdct0IxF2RIt9G2YG
+#EXTINF:-1 xui-id="4238758" tvg-id="" tvg-name="Viva SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/aZrJGTCraXDT6QF/download/viva.png" group-title="F20 M5 ⭐ VARIEDADES",Viva SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRh8h9BgkMexMBv83lBwNMszMZKgyK_A7_maCM8GCpVWG
+#EXTINF:-1 xui-id="4231953" tvg-id="br#warner-channel-hd" tvg-name="WARNER CHANNEL 4K" tvg-logo="https://img.hotice.site/icones_channels/Warner_HD.png" group-title="F20 M5 ⭐ 4K",WARNER CHANNEL 4K
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRkq0MxcAp7HLtVFvDx4LCBa1FJW-nPEabgzoVInFjGvj
+#EXTINF:-1 xui-id="4231954" tvg-id="br#warner-channel-hd" tvg-name="WARNER CHANNEL FHD" tvg-logo="https://img.hotice.site/icones_channels/Warner_HD.png" group-title="F20 M5 ⏩ FILMES E SÉRIES",WARNER CHANNEL FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRjn7xPgPU_Z0VqKobqubNyFGHNV370wSqZqTypTP0zkN
+#EXTINF:-1 xui-id="4231955" tvg-id="br#warner-channel-hd" tvg-name="WARNER CHANNEL HD" tvg-logo="https://img.hotice.site/icones_channels/Warner_HD.png" group-title="F20 M5 ⏩ FILMES E SÉRIES",WARNER CHANNEL HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRtlu_cRpN5-cm2bueHyfP6mGHVoBOsHpEE69cvkQK1aQ
+#EXTINF:-1 xui-id="4231956" tvg-id="br#warner-channel-hd" tvg-name="WARNER CHANNEL SD" tvg-logo="https://img.hotice.site/icones_channels/Warner_HD.png" group-title="F20 M5 ⏩ FILMES E SÉRIES",WARNER CHANNEL SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRoubMeTjMdOjoAuZ9q3DEvB06_PKVye99u0Lz6SV_h43
+#EXTINF:-1 xui-id="4665904" tvg-id="br#woohoo-hd" tvg-name="WOOHOO FHD" tvg-logo="https://img.hotice.site/icones_channels/Woohoo.png" group-title="F20 M5 ️ESPORTES RADICAIS",WOOHOO FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRrySyWeT_j34KGZwXhzJ1CJEZ7BxM9cWH1trU7hsf_UD
+#EXTINF:-1 xui-id="4665905" tvg-id="br#woohoo-hd" tvg-name="WOOHOO HD" tvg-logo="https://img.hotice.site/icones_channels/Woohoo.png" group-title="F20 M5 ️ESPORTES RADICAIS",WOOHOO HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRlGiY-q11RLwSy01LAu5_OpM1cOqFTOlr2wsq6wdnuDL
+#EXTINF:-1 xui-id="4665906" tvg-id="br#woohoo-hd" tvg-name="WOOHOO SD" tvg-logo="https://img.hotice.site/icones_channels/Woohoo.png" group-title="F20 M5 ️ESPORTES RADICAIS",WOOHOO SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRgwBnzp4tqKUbh2iDOWdEpxiIefZv898VhlaE_QOrNuF
+#EXTINF:-1 xui-id="4238295" tvg-id="" tvg-name="X-MAN 24HS" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",X-MAN 24HS
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRp6jAVsGZpxOxjfLybpKlxbi_C7rEnVeaZNTb96RqB8e
+#EXTINF:-1 xui-id="4238296" tvg-id="" tvg-name="Xena 24hs" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",Xena 24hs
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRggcDEzZICtul3oY62yVk58tsHFOwqIoioRTpOPypIYX
+#EXTINF:-1 xui-id="4238297" tvg-id="" tvg-name="YU-GI-OH 24hs" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",YU-GI-OH 24hs
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRmFmYRrpfsVUeiFe2AbaxT8xdQWQlNUEMfnhgiuQW8fH
+#EXTINF:-1 xui-id="4238298" tvg-id="" tvg-name="YU-YU-Hakusho 24hs" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",YU-YU-Hakusho 24hs
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRtcWJ4OD4EyR8M-31p2bkyM9GG50zr6bqX24NYKWhpzu
+#EXTINF:-1 xui-id="4238317" tvg-id="" tvg-name="YUYU HAKUSHO 24 HRS" tvg-logo="" group-title="F20 M5 ⭐ 24HORAS",YUYU HAKUSHO 24 HRS
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRvB8CIF42x7U7huzkNMbABb8CypI3alvate4MGyZoYJV
+#EXTINF:-1 xui-id="4231961" tvg-id="ZooMoo.sg" tvg-name="ZOOMOO FHD" tvg-logo="https://img.inboxbr.pro/icones_channels/zoomoo-kids.png" group-title="F20 M5 ⭐ INFANTIL",ZOOMOO FHD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRvfnBpK2Av2eDwKIhEECtXdROa2uwUIqj7FaBEGLm-Cr
+#EXTINF:-1 xui-id="4231962" tvg-id="ZooMoo.sg" tvg-name="ZOOMOO HD" tvg-logo="https://img.inboxbr.pro/icones_channels/zoomoo-kids.png" group-title="F20 M5 ⭐ INFANTIL",ZOOMOO HD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRm5liyDI2zgdL3qPcxEX3K-ylfvGxZEb_CoqsnQ1XXOu
+#EXTINF:-1 xui-id="4231963" tvg-id="ZooMoo.sg" tvg-name="ZOOMOO SD" tvg-logo="https://img.inboxbr.pro/icones_channels/zoomoo-kids.png" group-title="F20 M5 ⭐ INFANTIL",ZOOMOO SD
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRqDOGNjnHzDrmCP6x7KlpVAnMsLAKXaOyQ1tIPXkYOQ5
+#EXTINF:-1 xui-id="4238750" tvg-id="" tvg-name="AdultIPTV.net Anal" tvg-logo="" group-title="F20 M5 ⭐ ADULTOS+18",AdultIPTV.net Anal
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRoF_gEErHfHpRcZ3vuwUzbKk_iI04ncu1SRsqposcV2m
+#EXTINF:-1 xui-id="4238737" tvg-id="" tvg-name="AdultIPTV.net Big Ass" tvg-logo="" group-title="F20 M5 ⭐ ADULTOS+18",AdultIPTV.net Big Ass
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRmiWRpfC9kK0T8J8t8hop-2sdHlmVGN8fwV4XLm1Hyhy
+#EXTINF:-1 xui-id="4238733" tvg-id="" tvg-name="AdultIPTV.net Big Dick" tvg-logo="" group-title="F20 M5 ⭐ ADULTOS+18",AdultIPTV.net Big Dick
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRs9yDAelKVioJ_B3aotrnvSC0bcdzP7Ttzh28DixYY7R
+#EXTINF:-1 xui-id="4238734" tvg-id="" tvg-name="AdultIPTV.net Big Tits" tvg-logo="" group-title="F20 M5 ⭐ ADULTOS+18",AdultIPTV.net Big Tits
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRqhbXBzdPul6VrOyXy5nMn8IiMdKRwKvuYEDEzoQzeqI
+#EXTINF:-1 xui-id="4238753" tvg-id="" tvg-name="AdultIPTV.net Blonde" tvg-logo="" group-title="F20 M5 ⭐ ADULTOS+18",AdultIPTV.net Blonde
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRkpLUB1hTvbKsKqEsvAu3_mCtHNzgSAQ3U1JMLNdpJMj
+#EXTINF:-1 xui-id="4238741" tvg-id="" tvg-name="AdultIPTV.net Blowjob" tvg-logo="" group-title="F20 M5 ⭐ ADULTOS+18",AdultIPTV.net Blowjob
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRrwduAeYgXMxhBt6jLc_PGb4ixvNG6rAiN28TpT9ph_C
+#EXTINF:-1 xui-id="4238752" tvg-id="" tvg-name="AdultIPTV.net Brunette" tvg-logo="" group-title="F20 M5 ⭐ ADULTOS+18",AdultIPTV.net Brunette
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRhLTfZnlN8CCxzA6srYqP-BtNRq5501R5bBdVjZ912BJ
+#EXTINF:-1 xui-id="4238751" tvg-id="" tvg-name="AdultIPTV.net Compilation" tvg-logo="" group-title="F20 M5 ⭐ ADULTOS+18",AdultIPTV.net Compilation
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRpxCjq4GNDIDPfC499lKkx0mXmjSavFCHQa6kxvvozuQ
+#EXTINF:-1 xui-id="4238744" tvg-id="" tvg-name="AdultIPTV.net Cuckold" tvg-logo="" group-title="F20 M5 ⭐ ADULTOS+18",AdultIPTV.net Cuckold
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRtusdYgZL5tyRjrwdPNfTJ1ZNBp8VbwfwuQZJ9wu1FO-
+#EXTINF:-1 xui-id="4238735" tvg-id="" tvg-name="AdultIPTV.net Fetish" tvg-logo="" group-title="F20 M5 ⭐ ADULTOS+18",AdultIPTV.net Fetish
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRgHrIE3iTO3NiLQGAtELJ0qGo3OQn75k-XoesohLx21k
+#EXTINF:-1 xui-id="4238749" tvg-id="" tvg-name="AdultIPTV.net Gangbang" tvg-logo="" group-title="F20 M5 ⭐ ADULTOS+18",AdultIPTV.net Gangbang
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRl-Yy9rLE0v1ojD_RnkO3ttvLelIguBZXOOGo_wjScfq
+#EXTINF:-1 xui-id="4238754" tvg-id="" tvg-name="AdultIPTV.net Gay" tvg-logo="" group-title="F20 M5 ⭐ ADULTOS+18",AdultIPTV.net Gay
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRpiJWbhS45qJqJBmP9w1omokMpJD0PulB32ma8Uaceyp
+#EXTINF:-1 xui-id="4238743" tvg-id="" tvg-name="AdultIPTV.net Hardcore" tvg-logo="" group-title="F20 M5 ⭐ ADULTOS+18",AdultIPTV.net Hardcore
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRmOsU4cfYDAHk6sKoJgSBjLKk1L_eOrBwI7CFEfA4RUr
+#EXTINF:-1 xui-id="4238738" tvg-id="" tvg-name="AdultIPTV.net Interracial" tvg-logo="" group-title="F20 M5 ⭐ ADULTOS+18",AdultIPTV.net Interracial
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRlsMsfL-a5cN0GZNRdYIy3ZM2ejcNNNwP8yncq1FD3IY
+#EXTINF:-1 xui-id="4238739" tvg-id="" tvg-name="AdultIPTV.net Latina" tvg-logo="" group-title="F20 M5 ⭐ ADULTOS+18",AdultIPTV.net Latina
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRkElpvZQRutnlLerUsZ9mA-FL6QqnAQdFYVKnQx-akI8
+#EXTINF:-1 xui-id="4238747" tvg-id="" tvg-name="AdultIPTV.net Lesbian" tvg-logo="" group-title="F20 M5 ⭐ ADULTOS+18",AdultIPTV.net Lesbian
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRvnx7nys1LcSu0o8EHMm8ki2bAMxjU5ae1pjsS_V2Icf
+#EXTINF:-1 xui-id="4238731" tvg-id="" tvg-name="AdultIPTV.net Live Cams" tvg-logo="" group-title="F20 M5 ⭐ ADULTOS+18",AdultIPTV.net Live Cams
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRo5FpiXCRUaDQkcA5kWDYiUpm7mnhEkh9NSxkp9cceSB
+#EXTINF:-1 xui-id="4238732" tvg-id="" tvg-name="AdultIPTV.net MILF" tvg-logo="" group-title="F20 M5 ⭐ ADULTOS+18",AdultIPTV.net MILF
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRggcp0oBJg_uf3nJO5ZmPYrkO8_NzTUSSSUO32ItAxAk
+#EXTINF:-1 xui-id="4238736" tvg-id="" tvg-name="AdultIPTV.net Pornstar" tvg-logo="" group-title="F20 M5 ⭐ ADULTOS+18",AdultIPTV.net Pornstar
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRg2e9Bh-RQwq4HnPauhVI0eoSti1pQX0U3s5cHfCtdh8
+#EXTINF:-1 xui-id="4238740" tvg-id="" tvg-name="AdultIPTV.net POV" tvg-logo="" group-title="F20 M5 ⭐ ADULTOS+18",AdultIPTV.net POV
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRixSejalyJp5VwLakz_LuZGhXfTf8btqAI_locOx1848
+#EXTINF:-1 xui-id="4238748" tvg-id="" tvg-name="AdultIPTV.net Rough" tvg-logo="" group-title="F20 M5 ⭐ ADULTOS+18",AdultIPTV.net Rough
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRjM_xQGV4-HKqJxnuo-O2oU01X72TvVUw5R_6STf1xR1
+#EXTINF:-1 xui-id="4238746" tvg-id="" tvg-name="AdultIPTV.net Russian" tvg-logo="" group-title="F20 M5 ⭐ ADULTOS+18",AdultIPTV.net Russian
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRqG_51brf-ICIzO42P9EBjLyvEg5lIbUv8c0XeHW7zDd
+#EXTINF:-1 xui-id="4238742" tvg-id="" tvg-name="AdultIPTV.net Teen" tvg-logo="" group-title="F20 M5 ⭐ ADULTOS+18",AdultIPTV.net Teen
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRrOgrzNaO9RciuqxcBYl9aqtc4aaoc9ZTUdoK5g7hqQc
+#EXTINF:-1 xui-id="4238745" tvg-id="" tvg-name="AdultIPTV.net Threesome" tvg-logo="" group-title="F20 M5 ⭐ ADULTOS+18",AdultIPTV.net Threesome
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRqeg4LCfZOVgdfq64AccJl_NM_rNMJV-e-dJLRT7hPhM
+#EXTINF:-1 xui-id="4238716" tvg-id="" tvg-name="XXX Big Dick" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="F20 M5 ⭐ ADULTOS+18",XXX Big Dick
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRswPulrmuA4aV5zez2D0y8Cji40Rl7DPe6AyU-kO5VoP
+#EXTINF:-1 xui-id="4238717" tvg-id="" tvg-name="XXX Big Tits" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="F20 M5 ⭐ ADULTOS+18",XXX Big Tits
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRoh5TX3xR829vhVNjgsZOhqKNLNE-G_42VT5nl6NOOrk
+#EXTINF:-1 xui-id="4238718" tvg-id="" tvg-name="XXX Blowjob" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="F20 M5 ⭐ ADULTOS+18",XXX Blowjob
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRusToIyUiCi7bZbS2-iAD6LgtSJ8Wt8NvrGUVBODNvhu
+#EXTINF:-1 xui-id="4238719" tvg-id="" tvg-name="XXX Cuckold" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="F20 M5 ⭐ ADULTOS+18",XXX Cuckold
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRu_I7nnFBGwWtgBepmvpK_h7t299tSx0OekYFRUc1iCr
+#EXTINF:-1 xui-id="4238720" tvg-id="" tvg-name="XXX Fetish" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="F20 M5 ⭐ ADULTOS+18",XXX Fetish
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRnon1cz97CTtA9McMlvdgPeC1Z0lLyWORWFWuw2YNSHd
+#EXTINF:-1 xui-id="4238721" tvg-id="" tvg-name="XXX Hardcore" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="F20 M5 ⭐ ADULTOS+18",XXX Hardcore
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRvsTnZdhUlHa_iCYLWivL8_PhGoIF10yuVqCxcXQLUHI
+#EXTINF:-1 xui-id="4238722" tvg-id="" tvg-name="XXX Interracial" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="F20 M5 ⭐ ADULTOS+18",XXX Interracial
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRvDIhhs7l_4orU0avr1-HgUOAGZp4uzzf_bVopMjqJxl
+#EXTINF:-1 xui-id="4238723" tvg-id="" tvg-name="XXX Latina" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="F20 M5 ⭐ ADULTOS+18",XXX Latina
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRsVGHldrkAwRH7tlKrdhZj68YgnHpX7ql6IHggyOWzQr
+#EXTINF:-1 xui-id="4238724" tvg-id="" tvg-name="XXX Lesbian" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="F20 M5 ⭐ ADULTOS+18",XXX Lesbian
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRncnrbd_Wi4pN8b5qxMPg2Dnni2tI-2EAmGIXmIntNC4
+#EXTINF:-1 xui-id="4238725" tvg-id="" tvg-name="XXX MILF" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="F20 M5 ⭐ ADULTOS+18",XXX MILF
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRmVe6GGf9aj8Gh0gMp1jp4_sUMJNfxgXBpf95YpbhXGr
+#EXTINF:-1 xui-id="4238727" tvg-id="" tvg-name="XXX Pornstar" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="F20 M5 ⭐ ADULTOS+18",XXX Pornstar
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRpUlLDPyTbc-EGnlVNVx90hASd6zFAx6mtee7UXsfx8u
+#EXTINF:-1 xui-id="4238726" tvg-id="" tvg-name="XXX POV" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="F20 M5 ⭐ ADULTOS+18",XXX POV
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRozr-_6YyIk-XlCV2TxnAn6RLYggYR3XN8o8Bw3YirDN
+#EXTINF:-1 xui-id="4238728" tvg-id="" tvg-name="XXX Russian" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="F20 M5 ⭐ ADULTOS+18",XXX Russian
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRl7rSNXJNyjt9TWaxhnaTfJqjeutkpFMkU9AldQdgqy9
+#EXTINF:-1 xui-id="4238729" tvg-id="" tvg-name="XXX Teen" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="F20 M5 ⭐ ADULTOS+18",XXX Teen
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRt8dihe3JjTtcfzS8uZ_Yo5ZOoQFz42eS0iSBTTrCCby
+#EXTINF:-1 xui-id="4238730" tvg-id="" tvg-name="XXX Threesome" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="F20 M5 ⭐ ADULTOS+18",XXX Threesome
+http://f1ads.fastcdn-delivery.site:80/play/fb-XjUvqBEpelflKSIYBRmwr1c8nHeIco5ysG7TlO-H_MJvXe5oAVMlhoFSDdE2q
+
+#EXTINF:-1 xui-id="4666508" tvg-id="" tvg-name="24H A Turma da Mônica" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24H A Turma da Mônica
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDSvucYfAmonLZ-ELH0tc4mpElx0pl_FNzqtRmQkAwuuF
+#EXTINF:-1 xui-id="4666509" tvg-id="" tvg-name="24H as meninas super poderosas" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24H as meninas super poderosas
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDQSCqiLGDpqIhl0q1bOacAmosG6Ai5q5Bnv3bC6SeY2d
+#EXTINF:-1 xui-id="4666511" tvg-id="" tvg-name="24H Dragon Ball" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24H Dragon Ball
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDXL6RSiiGgcsFjf8Bgb7hI9yR0Q1LIzjYH_76QegCwOC
+#EXTINF:-1 xui-id="4666513" tvg-id="" tvg-name="24H EU A PATROA E AS CRIANÇAS" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24H EU A PATROA E AS CRIANÇAS
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDStFYCSuRQVqUY72Fql2-dgwhdMoq7OqmOYas-_HEJDp
+#EXTINF:-1 xui-id="4666514" tvg-id="" tvg-name="24H Familia Dinoussauros" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24H Familia Dinoussauros
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDSKhTeTmCDMuulQ88D7svGUxgWJ0q42GHgxt3q7bg9B4
+#EXTINF:-1 xui-id="4666515" tvg-id="" tvg-name="24H FATOS INSANOS" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24H FATOS INSANOS
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDQ4Up5hReSknNjPoMpy-vSmnq8mmYJ4dbbyIY9LfWB6b
+#EXTINF:-1 xui-id="4666516" tvg-id="" tvg-name="24H Filmes Drama" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24H Filmes Drama
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDZGv7ZqO-6_V-h3cIywZNDGjR4FdV__bvKRDbRHjZSHm
+#EXTINF:-1 xui-id="4666517" tvg-id="" tvg-name="24H Filmes Lancamentos" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24H Filmes Lancamentos
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDZwhpwznRwAihkW4Ow49j1CZSWoVvw1g_ZY_UuJNYlG9
+#EXTINF:-1 xui-id="4666518" tvg-id="" tvg-name="24H FUTURAMA" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24H FUTURAMA
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDbjahk4b_cHXF1dNtev2a0BuP9vyug3c3MDfYBusn7I3
+#EXTINF:-1 xui-id="4666519" tvg-id="" tvg-name="24H Galinha Pintadinha" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24H Galinha Pintadinha
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDT_67Dd1qcQm9srccdIgFzn9foYAzKrzMnsD-nI2xBg1
+#EXTINF:-1 xui-id="4666520" tvg-id="" tvg-name="24h Homem aranha" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24h Homem aranha
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDfg3olHwFs5AvTeA-q2BAY_CjdJxqarGEZSE394PBsVQ
+#EXTINF:-1 xui-id="4666521" tvg-id="" tvg-name="24H iCarly Revival" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24H iCarly Revival
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDafa4heQbUxX5B8yQ9Cx1TXK15BthuokLiA8aarKGBUg
+#EXTINF:-1 xui-id="4666522" tvg-id="" tvg-name="24H JACKIE CHAN" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24H JACKIE CHAN
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDUZPYkXXbtOZVMbedS8qYhE6baTE788lwHYiXtZgbcIF
+#EXTINF:-1 xui-id="4666524" tvg-id="" tvg-name="24H Mickey Mouse" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24H Mickey Mouse
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDcNgw8c8evifwT1IESsQwl2HYQHH_g59heQMeePU-BpL
+#EXTINF:-1 xui-id="4666525" tvg-id="" tvg-name="24H OS FLINTSTONES" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24H OS FLINTSTONES
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDdro9PUYtHdQnoUtYIfkW4x-fi5tBy8osFqZiIoOE1J-
+#EXTINF:-1 xui-id="4666526" tvg-id="" tvg-name="24H Os Jetsons" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24H Os Jetsons
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDW8l3iz_ft9ZIts2QNpDRZ2aHEpaE4IBLFRwNj69CWck
+#EXTINF:-1 xui-id="4666527" tvg-id="" tvg-name="24H Os pinguins de madagascar" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24H Os pinguins de madagascar
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDdYafHDNLk_688gP9wG8TPTyddJcFczmM574qVDStRCG
+#EXTINF:-1 xui-id="4666528" tvg-id="" tvg-name="24H Os Simpsons" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24H Os Simpsons
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDT6znEVqkofeRQQMzLz5eYWsmOZt_eOQsQTZO5gW4XZu
+#EXTINF:-1 xui-id="4666530" tvg-id="" tvg-name="24H Pantera Cor de Rosa" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24H Pantera Cor de Rosa
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDflUi59CwzKD-srfCwhThufBuloMt59TgV3t4qKj60iL
+#EXTINF:-1 xui-id="4666531" tvg-id="" tvg-name="24H Papa Léguas" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24H Papa Léguas
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDaFkqD5LgOARSMyUwNJfCCgc7E2b9j-bV1lEVb8cfGfd
+#EXTINF:-1 xui-id="4666533" tvg-id="" tvg-name="24H Patrulha canina" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24H Patrulha canina
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDdLVYWKNyUywvCGZ4vzb7mBaM27h__hyrIExIIwpeP7Q
+#EXTINF:-1 xui-id="4666534" tvg-id="" tvg-name="24H PEGADINHAS JOAO KLEBER" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24H PEGADINHAS JOAO KLEBER
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDR-arKykcrcGjvPEMOw8DJjqA23EzP6SVCAF_dktpeGI
+#EXTINF:-1 xui-id="4666535" tvg-id="" tvg-name="24H Pernalonga e sua Turma" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24H Pernalonga e sua Turma
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDUfRjiWpQeui7gBsrxmfI8dlrI0f4yFEdR_rwR_KqlEn
+#EXTINF:-1 xui-id="4666536" tvg-id="" tvg-name="24H PICA PAU" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24H PICA PAU
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDcstqg-N3AebbVfSVqVmeKC-nCwX1b44LWeNgoacEuvd
+#EXTINF:-1 xui-id="4666539" tvg-id="" tvg-name="24H Popeye" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24H Popeye
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDfSzZ_8c7MbzBcsPaF0LlUd95G5NFil03hm1GGx1NFLf
+#EXTINF:-1 xui-id="4666540" tvg-id="" tvg-name="24H Super Homem" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24H Super Homem
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDSbAp2m5W5odt8On6C-1uk2WYVaMyEBzpr5x1yC6ANvU
+#EXTINF:-1 xui-id="4666541" tvg-id="" tvg-name="24H Thundercats" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24H Thundercats
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDb-roYNzoFg-O4A1QZQmZd-ETke9PVUtvBbVXL-_qJQM
+#EXTINF:-1 xui-id="4666542" tvg-id="" tvg-name="24H Timão e Pumba" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24H Timão e Pumba
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDScTmSuBF4VRnBoP2Xy6N1e5rNElkyJUlCyw4DmPpQPa
+#EXTINF:-1 xui-id="4666543" tvg-id="" tvg-name="24H Todo Mundo Odeia o Chris" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24H Todo Mundo Odeia o Chris
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDeziKQYdHVYpLS0SUgCTp82AAQ1DwmVv0i09ZKbTXZEB
+#EXTINF:-1 xui-id="4666544" tvg-id="" tvg-name="24H Tom & Jerry" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24H Tom & Jerry
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDVJaVDYVmzv7sLvthxaoZpfxvSsNU_5bTx3A2WgJI3LF
+#EXTINF:-1 xui-id="4666546" tvg-id="" tvg-name="24HR MR BEAN DESENHO 255" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HR MR BEAN DESENHO 255
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDXHl7JxIrtSpCbGfMPg-Vpv2s4aH7iT201-23Z1OeWJF
+#EXTINF:-1 xui-id="4666547" tvg-id="" tvg-name="24HRS 4 AMIGOS 202" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS 4 AMIGOS 202
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDTuqFNicvuImhgLMod5HVg6RCI6J_Qg8Z935tq60bxBZ
+#EXTINF:-1 xui-id="4666548" tvg-id="" tvg-name="24HRS A FAMILIA URSO 198" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS A FAMILIA URSO 198
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDZeni1_7TQiksCuiqXFd7EfCZdCF27hUGYMSi6lURpxL
+#EXTINF:-1 xui-id="4666549" tvg-id="" tvg-name="24HRS CANAIS 10" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS CANAIS 10
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDf-LFHTrkC3-dTxDtkigUPsxaxyHZT07QKn6vGPStFeV
+#EXTINF:-1 xui-id="4666550" tvg-id="" tvg-name="24HRS CANAIS 11" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS CANAIS 11
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDSEmRw9HiNuqjMbZKNJ67onioFUtlnvlW4vZJtI2l9_L
+#EXTINF:-1 xui-id="4666551" tvg-id="" tvg-name="24HRS CANAIS 14" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS CANAIS 14
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDVCxssxSSgzC09X-TkoQuqmUZEgnhPYHKDJcMGp44YbQ
+#EXTINF:-1 xui-id="4666552" tvg-id="" tvg-name="24HRS CANAIS 15" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS CANAIS 15
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDUF3_PKKCaubx-wIjMj-00zewB6mfQCINKXXNYtlT73t
+#EXTINF:-1 xui-id="4666553" tvg-id="" tvg-name="24HRS CANAIS 155" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS CANAIS 155
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDfiw5yx8sbXipG79dwYP5M44aM9BdiWEbcvCeOitbl8F
+#EXTINF:-1 xui-id="4666554" tvg-id="" tvg-name="24HRS CANAIS 156" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS CANAIS 156
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDemdUT__0T_C-2I_oSKiYEX_ZEX7j_3QFmXxw7nfBe2u
+#EXTINF:-1 xui-id="4666556" tvg-id="" tvg-name="24HRS CANAIS 158" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS CANAIS 158
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDSAZzKMdYz0JqHf8frAHXTmaui0fuDqWkOZ-TY8ykPLq
+#EXTINF:-1 xui-id="4666557" tvg-id="" tvg-name="24HRS CANAIS 16" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS CANAIS 16
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDffcu5cILbkFXLR7v1i-GpvVBpkwUDkRpw0olZkSM5Yb
+#EXTINF:-1 xui-id="4666558" tvg-id="" tvg-name="24HRS CANAIS 161" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS CANAIS 161
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDSNc07akqy2-rjp_maHGFQq8KU3Bh3or4pLnr_TG9i_C
+#EXTINF:-1 xui-id="4666560" tvg-id="" tvg-name="24HRS CANAIS 175" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS CANAIS 175
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDeTdZWJCZGzdDCo51DXjqVRjTFsxSQ4VGAujKG3nSRPJ
+#EXTINF:-1 xui-id="4666561" tvg-id="" tvg-name="24HRS CANAIS 176" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS CANAIS 176
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDS7WT7e4vMT856s0_Lqs8TSF9C2Cx4YJ5PjGp7bmq_ns
+#EXTINF:-1 xui-id="4666563" tvg-id="" tvg-name="24HRS CANAIS 18" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS CANAIS 18
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDTle7HuX7ej1rPvViBC-5kSkIhRgmZ_kx5uhRCXP7E4D
+#EXTINF:-1 xui-id="4666564" tvg-id="" tvg-name="24HRS CANAIS 180" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS CANAIS 180
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDaJhrcbXLpJjXHXeGmnLTnGdSWJ27eTAiOraK_4abro8
+#EXTINF:-1 xui-id="4666565" tvg-id="" tvg-name="24HRS CANAIS 181" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS CANAIS 181
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDYmFk9lquD5FFZwLpu6NL2SeE3IXNIynPgZhj55rr1f2
+#EXTINF:-1 xui-id="4666567" tvg-id="" tvg-name="24HRS CANAIS 184" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS CANAIS 184
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDZhjD_drRkELEs8u105-G1ij1RUH1dslVtLup17mZUhy
+#EXTINF:-1 xui-id="4666568" tvg-id="" tvg-name="24HRS CANAIS 186" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS CANAIS 186
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDZ5RUugXF1sIRPEhB7mATwHJzksm43N8GfqxcWtUgaMs
+#EXTINF:-1 xui-id="4666570" tvg-id="" tvg-name="24HRS CANAIS 190" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS CANAIS 190
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDQ2EjePYue9hGoPN3uw2cp6RHwQ1gd14iSzAPumiwvEq
+#EXTINF:-1 xui-id="4666571" tvg-id="" tvg-name="24HRS CANAIS 192" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS CANAIS 192
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDWxMP1jZ0F5YLENH84NH44e0cd8N3g6d05OAdW9yOXyi
+#EXTINF:-1 xui-id="4666572" tvg-id="" tvg-name="24HRS CANAIS 199" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS CANAIS 199
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDTxsIyReALLHz6PTZVqaN-7Rp9D4CActnorH1c9fBqQj
+#EXTINF:-1 xui-id="4666573" tvg-id="" tvg-name="24HRS CANAIS 200" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS CANAIS 200
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDYdCF6WCqKKBa_bcZv67QTOcfRujnzLD98UCJbuJVl-N
+#EXTINF:-1 xui-id="4666574" tvg-id="" tvg-name="24HRS CANAIS 204" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS CANAIS 204
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDb8KUC-alS8jnOkVxZsDFKLQoNYZAgciSU988NYe6f9S
+#EXTINF:-1 xui-id="4666575" tvg-id="" tvg-name="24HRS CANAIS 205" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS CANAIS 205
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDRzf2mJXWNtAW_ORh7eA95Xo7psBQ_if8vLCkSg1r51K
+#EXTINF:-1 xui-id="4666576" tvg-id="" tvg-name="24HRS CANAIS 206" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS CANAIS 206
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDcy3fOEp05jogPyhh1YVuEkLvS8rnjdqy4JKCIymx5UY
+#EXTINF:-1 xui-id="4666577" tvg-id="" tvg-name="24HRS CANAIS 208" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS CANAIS 208
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDTYiEk5QjvPTJ5e3LMI8tIEJB_ahIxGX7myNoPM2ql2H
+#EXTINF:-1 xui-id="4666578" tvg-id="" tvg-name="24HRS CANAIS 210" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS CANAIS 210
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDVw4B0fJtQmUu5J-6e8KD5EgkbkM5lvEwUFviux-9P1M
+#EXTINF:-1 xui-id="4666579" tvg-id="" tvg-name="24HRS CANAIS 211" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS CANAIS 211
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDZYkXWQT8IsM78pd0LX_NbGjOUis9CdEHPJ7mIhKny9J
+#EXTINF:-1 xui-id="4666580" tvg-id="" tvg-name="24HRS CANAIS 214" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS CANAIS 214
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDdO--LMBJ20fvHl0AbHll2S3aKXnSiIUx4QOx_JrEYzP
+#EXTINF:-1 xui-id="4666581" tvg-id="" tvg-name="24HRS CANAIS 215" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS CANAIS 215
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDfmO1K5PVUSDhSIE8dleG6S1ZPekLPl4ZJDnDF5bDc_X
+#EXTINF:-1 xui-id="4666582" tvg-id="" tvg-name="24HRS CANAIS 216" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS CANAIS 216
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDdzv4or9jhvEB7l9leIyafaq7VKgWlYqVBKnteXJdQFr
+#EXTINF:-1 xui-id="4666583" tvg-id="" tvg-name="24HRS CANAIS 217" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS CANAIS 217
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDYc6YBFNYB5lQAHJWex_CHuw85WbKXRPe4bl4iyZ_CET
+#EXTINF:-1 xui-id="4666584" tvg-id="" tvg-name="24HRS CANAIS 218" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS CANAIS 218
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDTjmlKE2HVsuMRM3GUsLbbbjww2GMou-TeiIQw2BP-p_
+#EXTINF:-1 xui-id="4666586" tvg-id="" tvg-name="24HRS CANAIS 221" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS CANAIS 221
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDTAjsSKj2qKDFhi-nm79HvlHWrlUTktrH6UzyH7zTSk1
+#EXTINF:-1 xui-id="4666587" tvg-id="" tvg-name="24HRS CANAIS 222" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS CANAIS 222
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDRuFdR5tF0CMh7ZTSVM-aReDRsVMsYkBma9JCSzHRohn
+#EXTINF:-1 xui-id="4666588" tvg-id="" tvg-name="24HRS CANAIS 223" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS CANAIS 223
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDflIm_5rfMI6Aaf-c95HUDILTXz4jVCE0seuPe-v79kG
+#EXTINF:-1 xui-id="4666589" tvg-id="" tvg-name="24HRS CANAIS 224" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS CANAIS 224
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDasGr4IhBING_NRq6-FF2YqVoIOq_QOSZTwF7jbqjUuf
+#EXTINF:-1 xui-id="4666590" tvg-id="" tvg-name="24HRS CANAIS 226" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS CANAIS 226
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDe05uHe9dGYdCGWn4EnZ79mvgWY7i_8jLtuzGEQP-gOK
+#EXTINF:-1 xui-id="4666591" tvg-id="" tvg-name="24HRS CANAIS 23" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS CANAIS 23
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDcThuFor9yXQc6bGiTk2yloIQW_1GKs_Ax7jtu-0MqSe
+#EXTINF:-1 xui-id="4666592" tvg-id="" tvg-name="24HRS CANAIS 230" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS CANAIS 230
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDVvCYsTCsow8xWmL5q0tTra-fXBIKLofsaOQXjtI77i1
+#EXTINF:-1 xui-id="4666593" tvg-id="" tvg-name="24HRS CANAIS 231" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS CANAIS 231
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDdsKqUc7Hf5Ii-JCC8eUkRcorrKEwyzh_CDTRsA-2MU2
+#EXTINF:-1 xui-id="4666594" tvg-id="" tvg-name="24HRS CANAIS 235" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS CANAIS 235
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDe-MVTPUdQhSAKv0n0Zi57e_SQkFBaKJvEFm9YH4Zro0
+#EXTINF:-1 xui-id="4666595" tvg-id="" tvg-name="24HRS CANAIS 237" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS CANAIS 237
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDXy5xm1K9xSm6Z75sfAbUQXaXqYWJHxedrfLRZLqWWxD
+#EXTINF:-1 xui-id="4666596" tvg-id="" tvg-name="24HRS CANAIS 238" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS CANAIS 238
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDYF1SjZ0zyAYpOAkS1s9OjJ6GquKx5IlGSRVeor2RCLX
+#EXTINF:-1 xui-id="4666598" tvg-id="" tvg-name="24HRS CANAIS 241" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS CANAIS 241
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDcoWgZM4VHiJXsMHMGJ5OS9QEMMf34yPo5pdFUhhc-xk
+#EXTINF:-1 xui-id="4666599" tvg-id="" tvg-name="24HRS CANAIS 244" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS CANAIS 244
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDRN7rBtTRlBdUtOaktJdcacAyi1HDM2WTS9Xg2FUTCD7
+#EXTINF:-1 xui-id="4666600" tvg-id="" tvg-name="24HRS CANAIS 246" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS CANAIS 246
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDcjKgDIMsl7ettIcXZzzCaLZHficSEEHN23hO6LbLCU_
+#EXTINF:-1 xui-id="4666601" tvg-id="" tvg-name="24HRS CANAIS 247" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS CANAIS 247
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDc2qyghBRYJ1CdO03RAOj5I-T5qN0x415CKDtgVwO_YU
+#EXTINF:-1 xui-id="4666602" tvg-id="" tvg-name="24HRS CANAIS 248" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS CANAIS 248
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDbC3bSNH6plddNJFDH23NFn_wSzHPjfaakkPIJpTBrSU
+#EXTINF:-1 xui-id="4666603" tvg-id="" tvg-name="24HRS CANAIS 249" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS CANAIS 249
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDfsyzmeyPTgSwwUcl3ZyZcnLP72cvQAiS4mxQ-EEGfO1
+#EXTINF:-1 xui-id="4666604" tvg-id="" tvg-name="24HRS CANAIS 250" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS CANAIS 250
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDUtXR-NgaOLC9Glv6OnTsCQR5GrbGLAfe2EKiJcIPYnw
+#EXTINF:-1 xui-id="4666605" tvg-id="" tvg-name="24HRS CANAIS 252" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS CANAIS 252
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDf9rRoza9wGIGPbZQVZ3aiYpsFnVYuuIAn0Z50Nj01_l
+#EXTINF:-1 xui-id="4666606" tvg-id="" tvg-name="24HRS CANAIS 253" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS CANAIS 253
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDXbSVyfW3HmKcF-BmEcCG9uD9RoRM3DCpEhTz27tLn-F
+#EXTINF:-1 xui-id="4666607" tvg-id="" tvg-name="24HRS CANAIS 254" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS CANAIS 254
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDWprVcbWsnfR7TdGe4evS7GOYHs5SCo08CHCjqUDyHmp
+#EXTINF:-1 xui-id="4666608" tvg-id="" tvg-name="24HRS CANAIS 256" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS CANAIS 256
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDU4toHc3AH06LUzARBR-jo1ZDbssTPZwt0frhO7QdP03
+#EXTINF:-1 xui-id="4666609" tvg-id="" tvg-name="24HRS CANAIS 257" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS CANAIS 257
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDal0jJzpHuQlhh4NHV66NeUECiINp_cVXH6IhAUAIgah
+#EXTINF:-1 xui-id="4666610" tvg-id="" tvg-name="24HRS CANAIS 258" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS CANAIS 258
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDWI-NYzW7IXFwS7PCHpw2SYu04NKIRHDA_2to1kGuyHS
+#EXTINF:-1 xui-id="4666611" tvg-id="" tvg-name="24HRS CANAIS 259" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS CANAIS 259
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDfodg-Y8BhWp5Y3GO2FDLzZpP2fo24uUMbHmxtSVTJRn
+#EXTINF:-1 xui-id="4666612" tvg-id="" tvg-name="24HRS CANAIS 261" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS CANAIS 261
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDZKcciL9Q7vO9QJM5poiPm4j3g9liNoCIilowEmyoLYp
+#EXTINF:-1 xui-id="4666613" tvg-id="" tvg-name="24HRS CANAIS 262" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS CANAIS 262
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDRCW4keycDyuhxgd25IMcwGirHKzZMaBSDXeQFdKxccD
+#EXTINF:-1 xui-id="4666615" tvg-id="" tvg-name="24HRS CANAIS 266" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS CANAIS 266
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDc5k3j-9hiL0ymdvf9RTy3HRT0kFzaQOj5p0_BYzEMth
+#EXTINF:-1 xui-id="4666616" tvg-id="" tvg-name="24HRS CANAIS 267" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS CANAIS 267
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDcwOrijsS38uQoPhYbGAtnm1LOrS8T3rSW7VrRirGhkV
+#EXTINF:-1 xui-id="4666617" tvg-id="" tvg-name="24HRS CANAIS 27" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS CANAIS 27
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDTXYNE1dQSzQO98ohNE6RTtb_uR4xpAQ2LBp6zXzlRQf
+#EXTINF:-1 xui-id="4666618" tvg-id="" tvg-name="24HRS CANAIS 270" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS CANAIS 270
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDdJrxY7Arf5cSUJgNW7q6_XRhrqGJDeguF5Jw08dCQDX
+#EXTINF:-1 xui-id="4666619" tvg-id="" tvg-name="24HRS CANAIS 274" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS CANAIS 274
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDfOp2tpIfcCqgSV959N0o6PsL9csgvuyodM5XiWSW87K
+#EXTINF:-1 xui-id="4666620" tvg-id="" tvg-name="24HRS CANAIS 275" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS CANAIS 275
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDZJA7o43jwcWdYslCLmj2SY6RD2idGXg1-G-9RwA4SO_
+#EXTINF:-1 xui-id="4666621" tvg-id="" tvg-name="24HRS CANAIS 276" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS CANAIS 276
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDXIke-VzJnEemZnoq7EMamozLAKT2ew1JSb0LHbSccDl
+#EXTINF:-1 xui-id="4666622" tvg-id="" tvg-name="24HRS CANAIS 278" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS CANAIS 278
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDZuc0SLhzQWiXEDtKi_AGzmfciQEbw0TMvGiErF81Sc3
+#EXTINF:-1 xui-id="4666623" tvg-id="" tvg-name="24HRS CANAIS 279" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS CANAIS 279
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDXF8pPDAjte_-qE-h9hTDvN0B3ZSrm2l-M2KSm9o4V-A
+#EXTINF:-1 xui-id="4666624" tvg-id="" tvg-name="24HRS CANAIS 280" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS CANAIS 280
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDe7iwa3L8-c6azrd3Lz0qWAJ8eTy7E8k_VX4Ay1Iyh6S
+#EXTINF:-1 xui-id="4666625" tvg-id="" tvg-name="24HRS CANAIS 281" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS CANAIS 281
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDfp5rgsN2QpUb8WJRnXNxwsvyjXSFJsHkcMtK-pueTve
+#EXTINF:-1 xui-id="4666626" tvg-id="" tvg-name="24HRS CANAIS 282" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS CANAIS 282
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDcBcGFAJ00LCM1iigbRDSS6hMlyRVVmUSThxgKVEC79s
+#EXTINF:-1 xui-id="4666627" tvg-id="" tvg-name="24HRS CANAIS 283" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS CANAIS 283
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDd9BMIRbOUnhIwT1ovtZCFPOPABO4hsnsjh7WSDF80kk
+#EXTINF:-1 xui-id="4666628" tvg-id="" tvg-name="24HRS CANAIS 284" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS CANAIS 284
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDcAlwQ8Zvp9L4EfrU7aZbl7P_iFA_9eeU_ZvVA6jriY_
+#EXTINF:-1 xui-id="4666629" tvg-id="" tvg-name="24HRS CANAIS 30" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS CANAIS 30
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDUhoOvypgEpHUZT8T0MS7wFsgF-eZpv4gMHNh-9gYhvq
+#EXTINF:-1 xui-id="4666630" tvg-id="" tvg-name="24HRS CANAIS 31" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS CANAIS 31
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDccgvOmPJWZbmqwF5_U_1EwbLo2-vHikf35x6TCG_62B
+#EXTINF:-1 xui-id="4666631" tvg-id="" tvg-name="24HRS CANAIS 33" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS CANAIS 33
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDZAxxzI6yy05cGp5-rZDVcZkiPgwIvhY9YDC-EN069ZE
+#EXTINF:-1 xui-id="4666632" tvg-id="" tvg-name="24HRS CANAIS 35" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS CANAIS 35
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDZBBcA6MJicD8vKfSo7lI6LttlZEzVWkVrrQOYfpdJMB
+#EXTINF:-1 xui-id="4666633" tvg-id="" tvg-name="24HRS CANAIS 38" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS CANAIS 38
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDez4VwcBSVvwb_BH9CceEquUqFBx0mhy7gb5T7NPR5SC
+#EXTINF:-1 xui-id="4666634" tvg-id="" tvg-name="24HRS CANAIS 46" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS CANAIS 46
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDd4W1uBPr6pfqBrejvw3oi9N-4Kpk1QZGN18ek35waPT
+#EXTINF:-1 xui-id="4666635" tvg-id="" tvg-name="24HRS CANAIS 51" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS CANAIS 51
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDesXukOsmW0TzagXtUYYx5U2laN2b2Qf6Si80xlEjxFC
+#EXTINF:-1 xui-id="4666636" tvg-id="" tvg-name="24HRS CANAL VIVA - 13" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS CANAL VIVA - 13
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDSHSS-Y4AAM2ashAoKKtINfI-gtjF3YXUS4-fkSzGnv3
+#EXTINF:-1 xui-id="4666637" tvg-id="" tvg-name="24HRS DEXTER 242" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS DEXTER 242
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDaWeLf9sPYdD59RLWR9_a-xs9uG2Lj_BpvhkwV4hOiA6
+#EXTINF:-1 xui-id="4666638" tvg-id="" tvg-name="24HRS DORA AVENTUREIRA 159" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS DORA AVENTUREIRA 159
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDalg0EMyJyJPuMFSL7VIZxPnwLfIbPNeg5gOEu_XNQCy
+#EXTINF:-1 xui-id="4666639" tvg-id="" tvg-name="24HRS DOUG 160" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS DOUG 160
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDaK_HjJn7K8uk6YYme2wWl90FaAXsjxiGAKO-d7XG2dd
+#EXTINF:-1 xui-id="4666641" tvg-id="" tvg-name="24HRS DRAGON BALL Z 174" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS DRAGON BALL Z 174
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDQ6Y5sSHckjuIWwebePBM5prrUKjRk4ou6dhfiXJV5_l
+#EXTINF:-1 xui-id="4666642" tvg-id="" tvg-name="24HRS DRAGON BALL Z(1) 173" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS DRAGON BALL Z(1) 173
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDSBvek6fDr1sOXmEpZ1wcSbFTa2OwyTSXQT7HpLGdkFM
+#EXTINF:-1 xui-id="4666643" tvg-id="" tvg-name="24HRS DRAGON BALL Z(10) 163" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS DRAGON BALL Z(10) 163
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDQighgy0e_iTS5huj8bh_yfgHq3LWT5W1IacDSEQQWmC
+#EXTINF:-1 xui-id="4666644" tvg-id="" tvg-name="24HRS DRAGON BALL Z(11) 162" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS DRAGON BALL Z(11) 162
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDVkgYP9BOhW5IV6ST-mGKpwGP8wK14fjf_EULJ4YY6Xv
+#EXTINF:-1 xui-id="4666645" tvg-id="" tvg-name="24HRS DRAGON BALL Z(2) 172" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS DRAGON BALL Z(2) 172
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDezGRdUzhz3Xz1lnc6FMaoduXelxbNR-prN1ZMK8R3iz
+#EXTINF:-1 xui-id="4666646" tvg-id="" tvg-name="24HRS DRAGON BALL Z(3) 171" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS DRAGON BALL Z(3) 171
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDbgQbUeHak91EhqvnAm0nwRMMUe4QhGi-GOqyjGQ2OZC
+#EXTINF:-1 xui-id="4666647" tvg-id="" tvg-name="24HRS DRAGON BALL Z(4) 170" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS DRAGON BALL Z(4) 170
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDf7KeET_UI1KmEEb8GjLXkc3IkIJeWWbyjayPeQFkX0_
+#EXTINF:-1 xui-id="4666648" tvg-id="" tvg-name="24HRS DRAGON BALL Z(7) 167" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS DRAGON BALL Z(7) 167
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDXQD9E48dXPYrumhTp5aZPtWEn6YZubboosnwge2BdKB
+#EXTINF:-1 xui-id="4666649" tvg-id="" tvg-name="24HRS DROOPY 177" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS DROOPY 177
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDcGE316cXb6eObKwGdWZKBxJWSovlHKZcwwA3n4BaMf-
+#EXTINF:-1 xui-id="4666651" tvg-id="" tvg-name="24HRS ESCOLINHA DO PROFESSOR RAIMUNDO 189" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS ESCOLINHA DO PROFESSOR RAIMUNDO 189
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDTrJ9AeZYC6kUGj6sHWd1Xo_aolhaOYnfwrnIUgWfCAT
+#EXTINF:-1 xui-id="4666652" tvg-id="" tvg-name="24HRS ESQUADRÃO DO TEMPO 191" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS ESQUADRÃO DO TEMPO 191
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDSb17U-YzwNXlMifqQfl-oGqAtNslG9mWUKycBbHxYAm
+#EXTINF:-1 xui-id="4666653" tvg-id="" tvg-name="24HRS EU SOU O MAXIMO 194" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS EU SOU O MAXIMO 194
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDd9OPLgnLZ9j6YO8alJ7PfnKTkdTzoufw2TAHGR2cK4Z
+#EXTINF:-1 xui-id="4666654" tvg-id="" tvg-name="24HRS FAISCA E FUMAÇA 196" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS FAISCA E FUMAÇA 196
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDTw2J-cW5J_u9G1sCUS6PVxyhj481ZOQss15cH0n__DI
+#EXTINF:-1 xui-id="4666655" tvg-id="" tvg-name="24HRS FITDANCE 203" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS FITDANCE 203
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDfQhHltnAGPcDuv-gCb-wNiSr3-dIY0W_4WWllqM_HTf
+#EXTINF:-1 xui-id="4666656" tvg-id="" tvg-name="24HRS FREAKAZOID 207" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS FREAKAZOID 207
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDXq0Z5JUDkH5DZBt9rKH-M-mzlfAL1QsrUCYmjtnj8dA
+#EXTINF:-1 xui-id="4666658" tvg-id="" tvg-name="24HRS HE-MAN 227" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS HE-MAN 227
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDX5kVaknYK1urj08aEF-Aq4M4_IFLO351x4fev5NYG1z
+#EXTINF:-1 xui-id="4666659" tvg-id="" tvg-name="24HRS HERCULES 229" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS HERCULES 229
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDR125jVuMd06hZoAzlwAgSE_PN5cruDFbJPsWKftFzJ8
+#EXTINF:-1 xui-id="4666660" tvg-id="" tvg-name="24HRS HUGUINHO ZEZINHO E LUIZINHO 179" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS HUGUINHO ZEZINHO E LUIZINHO 179
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDbhRTsl0Oo-vzpwmC4rdhvsND2SJSeluc-zpNCIUgO2w
+#EXTINF:-1 xui-id="4666661" tvg-id="" tvg-name="24HRS INCRIVEL HULK 234" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS INCRIVEL HULK 234
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDaNsTt_7ApgFU_Ihafg-j39H-__PHMiaGjM4B8073prc
+#EXTINF:-1 xui-id="4666662" tvg-id="" tvg-name="24HRS IRMÃO DO JOREL 236" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS IRMÃO DO JOREL 236
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDd51XPY5EviIdLRuaLLpfiSjMpXUsAA_-3TCgUSfnMww
+#EXTINF:-1 xui-id="4666663" tvg-id="" tvg-name="24HRS JOHNNY BRAVO 239" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS JOHNNY BRAVO 239
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDehlKA34nrsRltHSwjzSRfF7F6cZO0N0Jk6jD-98Vwj2
+#EXTINF:-1 xui-id="4666664" tvg-id="" tvg-name="24HRS KENAN E KEL 251" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS KENAN E KEL 251
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDcqm5C73OcukFbpYS5eTE_84r5gd-tTJj1MIz0R74o8l
+#EXTINF:-1 xui-id="4666665" tvg-id="" tvg-name="24HRS LULUZINHA 245" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS LULUZINHA 245
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDd2541ETkpHQYG8TZ-zTTs0cRX5pAuHmh6p5rHm6f7Ms
+#EXTINF:-1 xui-id="4666666" tvg-id="" tvg-name="24HRS MUTANTE REX 219" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS MUTANTE REX 219
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDRasPVPhEiI1jyqDCvGWcL_Mvhe-CuTN2fbDarzmW01F
+#EXTINF:-1 xui-id="4666667" tvg-id="" tvg-name="24HRS O SHOW DA LUNA - 19" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS O SHOW DA LUNA - 19
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDZyA8UuqhQUoOsdvcVzvYua0VJ9TY6ceH6n7Fs_mPU1k
+#EXTINF:-1 xui-id="4666668" tvg-id="" tvg-name="24HRS O SHOW TOM E JERRY - 42" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS O SHOW TOM E JERRY - 42
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDdb_j9Qa_-8Ms58vj6rCFUWo0vnqXqXIB70DYqxfnJ4_
+#EXTINF:-1 xui-id="4666669" tvg-id="" tvg-name="24HRS POWER RANGERS - 2" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS POWER RANGERS - 2
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDQUWn1P8sCi6FZ-fLi-thXunLESAGqGCfyveST6KmcmT
+#EXTINF:-1 xui-id="4666670" tvg-id="" tvg-name="24HRS POWER RANGERS(1) - 3" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS POWER RANGERS(1) - 3
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDabnouPfmiyTu5q2IL3ldzHxELfOCr0NiA8bLczx1dgw
+#EXTINF:-1 xui-id="4666671" tvg-id="" tvg-name="24HRS POWER RANGERS(2) - 4" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS POWER RANGERS(2) - 4
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDUxmiUfiRHf7JOj83yCdazrukMFy16CASiqggh_BSzBu
+#EXTINF:-1 xui-id="4666672" tvg-id="" tvg-name="24HRS POWER RANGERS(3) - 5" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS POWER RANGERS(3) - 5
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDfG2n_RjsArKV4b051C7UnykaHpxfVfcl1GYPo_2c5lT
+#EXTINF:-1 xui-id="4666673" tvg-id="" tvg-name="24HRS POWER RANGERS(4) - 6" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS POWER RANGERS(4) - 6
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDTZrL_pz1mJ0bjOmpU5GXAypZWFxdtJVas5mWT1PL0mJ
+#EXTINF:-1 xui-id="4666674" tvg-id="" tvg-name="24HRS POWER RANGERS(5) - 7" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS POWER RANGERS(5) - 7
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDWlnEOOITLeaxXE3IByMyc6GKB5I7zMvBbTfX09sMecA
+#EXTINF:-1 xui-id="4666675" tvg-id="" tvg-name="24HRS POWER RANGERS(6) - 8" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS POWER RANGERS(6) - 8
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDSa44S6WBKsCZJml3-C31KPP6ZeCQivxEEaeIyNlJUYa
+#EXTINF:-1 xui-id="4666676" tvg-id="" tvg-name="24HRS POWER RANGERS(7) - 9" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS POWER RANGERS(7) - 9
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDR-Q8lGXnzcpICVi3IK6wEkKMECZhIpO54AdTsFckgRj
+#EXTINF:-1 xui-id="4666677" tvg-id="" tvg-name="24HRS RIQUINHO RICO - 12" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS RIQUINHO RICO - 12
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDc1Eb-S_5y40xNezk6jCqUqKvoKFIxVqdHAx9Slhf0gJ
+#EXTINF:-1 xui-id="4666678" tvg-id="" tvg-name="24HRS RS MUSIC - 24" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS RS MUSIC - 24
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDYI1K-5yfame6Dw64oNo1XwyZi9GuR2wwtLqqzS6ypOj
+#EXTINF:-1 xui-id="4666679" tvg-id="" tvg-name="24HRS SITIO DO PICA-PAU AMARELO(ANTIGO) - 21" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS SITIO DO PICA-PAU AMARELO(ANTIGO) - 21
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDZFN_O3S1kMdtzq9-BUDEaGykrb2gqMRZr42cM4rxw8u
+#EXTINF:-1 xui-id="4666680" tvg-id="" tvg-name="24HRS SONIC - 25" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS SONIC - 25
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDX3WWRPVpfVynkLb9yfhvF1F5WXUZy8R7bwgExls4Y4l
+#EXTINF:-1 xui-id="4666681" tvg-id="" tvg-name="24HRS SOUTH PARK - 26" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS SOUTH PARK - 26
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDWtG42W3-G7jY6VMdi_ibuQnQrkUWLHe7YA4jtwiumKP
+#EXTINF:-1 xui-id="4666682" tvg-id="" tvg-name="24HRS SUPER AMIGOS - 28" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS SUPER AMIGOS - 28
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDdl2koZ5-Rh3VCEYxBS6eLa4AI91AJouj5n0wGkKXT0R
+#EXTINF:-1 xui-id="4666683" tvg-id="" tvg-name="24HRS SUPER SHOCK - 29" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS SUPER SHOCK - 29
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDQs0JLs593vj_NFIyrQlpoENF7LPx4i2cHAA4aMso1YU
+#EXTINF:-1 xui-id="4666684" tvg-id="" tvg-name="24HRS TARZAN - 34" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS TARZAN - 34
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDSfAHzhUuyLMhWuBMhAQS5bIbTD7aqRf6cbkhiba96u5
+#EXTINF:-1 xui-id="4666685" tvg-id="" tvg-name="24HRS TELETUBBIES - 36" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS TELETUBBIES - 36
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDQfRQZiM4far4eKAT1JVy0vVtnJZmYqeg4M-YPqipl63
+#EXTINF:-1 xui-id="4666686" tvg-id="" tvg-name="24HRS TESTE DE FIDELIDADE - 37" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS TESTE DE FIDELIDADE - 37
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDYFY3FEdsot9rl336ETsHIsO2Yc_zk6PGNTLjx1iZFjA
+#EXTINF:-1 xui-id="4666687" tvg-id="" tvg-name="24HRS TRANSFORMERS - 43" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS TRANSFORMERS - 43
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDbIU6pZRZYz3ILdK9KFOPLdBkhIEDyxMts9-73SqS_6W
+#EXTINF:-1 xui-id="4666688" tvg-id="" tvg-name="24HRS URSINHOS CARINHOSOS - 48" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS URSINHOS CARINHOSOS - 48
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDfn9TAcZCE5PwElVqBwmLqoI9lgIWWT1C33gFXW50IfH
+#EXTINF:-1 xui-id="4666689" tvg-id="" tvg-name="24HRS X-MEN -  49" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS X-MEN -  49
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDfj-4rMuZ3_tfLKrKY3sTe_OWFyPOzrWFi7ffxapu0Uu
+#EXTINF:-1 xui-id="4666690" tvg-id="" tvg-name="24HRS ZÉ COMÉIA - 53" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HRS ZÉ COMÉIA - 53
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDQb9Hl765Epms8q8tlVpA_hEcCSimIX9abUz3OS953bH
+#EXTINF:-1 xui-id="4666691" tvg-id="" tvg-name="24HS: SMALLVILLE" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",24HS: SMALLVILLE
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDZQwJUTYft9FaE6Rk9JgDSr-WHZF-St1RS41MplpiL97
+#EXTINF:-1 xui-id="4238299" tvg-id="" tvg-name="3 Palavrinhas 24hs" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",3 Palavrinhas 24hs
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDTN6-8G8Is1HDsI7uXFTMudSPcxfTU4npmDf468qzUf2
+#EXTINF:-1 xui-id="4665769" tvg-id="" tvg-name="A FAZENDA 17 - CAMERA 01 FHD" tvg-logo="https://uploads.metropoles.com/wp-content/uploads/2020/08/21085858/A-fazenda-logo.jpg" group-title="F21 M5 A FAZENDA 17",A FAZENDA 17 - CAMERA 01 FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDW-E_zDPsKpm2fibAoLId8XgFuml_W-wvgl0uhExPlFL
+#EXTINF:-1 xui-id="4665770" tvg-id="" tvg-name="A FAZENDA 17 - CAMERA 01 HD" tvg-logo="https://uploads.metropoles.com/wp-content/uploads/2020/08/21085858/A-fazenda-logo.jpg" group-title="F21 M5 A FAZENDA 17",A FAZENDA 17 - CAMERA 01 HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDZ5U_MA0VdSrKq9D9aSK38UXT1td40wbusflVQek5Kwf
+#EXTINF:-1 xui-id="4665771" tvg-id="" tvg-name="A FAZENDA 17 - CAMERA 02 FHD" tvg-logo="https://uploads.metropoles.com/wp-content/uploads/2020/08/21085858/A-fazenda-logo.jpg" group-title="F21 M5 A FAZENDA 17",A FAZENDA 17 - CAMERA 02 FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDTGEccn9PueSygTcqc4flRfyT_BUJuX4t7M5FvDXUVWd
+#EXTINF:-1 xui-id="4665772" tvg-id="" tvg-name="A FAZENDA 17 - CAMERA 02 HD" tvg-logo="https://uploads.metropoles.com/wp-content/uploads/2020/08/21085858/A-fazenda-logo.jpg" group-title="F21 M5 A FAZENDA 17",A FAZENDA 17 - CAMERA 02 HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDZ5lJdSR4pBURPBSn2TI4AOP4dYVbdcU628BvjVOUNnv
+#EXTINF:-1 xui-id="4665773" tvg-id="" tvg-name="A FAZENDA 17 - CAMERA 03 FHD" tvg-logo="https://uploads.metropoles.com/wp-content/uploads/2020/08/21085858/A-fazenda-logo.jpg" group-title="F21 M5 A FAZENDA 17",A FAZENDA 17 - CAMERA 03 FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDV_VQHuQyZRAgLbYcZMYl9U0wFhSV1rYaTNIjqGT4tNT
+#EXTINF:-1 xui-id="4665774" tvg-id="" tvg-name="A FAZENDA 17 - CAMERA 03 FHD" tvg-logo="https://uploads.metropoles.com/wp-content/uploads/2020/08/21085858/A-fazenda-logo.jpg" group-title="F21 M5 A FAZENDA 17",A FAZENDA 17 - CAMERA 03 FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDR-ZoQOkReNgVdw2fmgapqSUddNJxGCYSj9_VgpZ4QLr
+#EXTINF:-1 xui-id="4665775" tvg-id="" tvg-name="A FAZENDA 17 - CAMERA 04 FHD" tvg-logo="https://uploads.metropoles.com/wp-content/uploads/2020/08/21085858/A-fazenda-logo.jpg" group-title="F21 M5 A FAZENDA 17",A FAZENDA 17 - CAMERA 04 FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDabkg9tKBKverdFYZb75BNNwfqhas069zm3tVyn_yffp
+#EXTINF:-1 xui-id="4665776" tvg-id="" tvg-name="A FAZENDA 17 - CAMERA 04 HD" tvg-logo="https://uploads.metropoles.com/wp-content/uploads/2020/08/21085858/A-fazenda-logo.jpg" group-title="F21 M5 A FAZENDA 17",A FAZENDA 17 - CAMERA 04 HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDekfYib6wZuZlVA3TPXoghTeMVizhV_Pxz0IpJWszgjO
+#EXTINF:-1 xui-id="4665777" tvg-id="" tvg-name="A FAZENDA 17 - CAMERA 05 FHD" tvg-logo="https://uploads.metropoles.com/wp-content/uploads/2020/08/21085858/A-fazenda-logo.jpg" group-title="F21 M5 A FAZENDA 17",A FAZENDA 17 - CAMERA 05 FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDSAWFIfUVVhbdvwEoAcRyDQH8QBZYylKHP8WaoYqpC79
+#EXTINF:-1 xui-id="4665778" tvg-id="" tvg-name="A FAZENDA 17 - CAMERA 05 HD" tvg-logo="https://uploads.metropoles.com/wp-content/uploads/2020/08/21085858/A-fazenda-logo.jpg" group-title="F21 M5 A FAZENDA 17",A FAZENDA 17 - CAMERA 05 HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDTIUlk1H8gZyIJujFhjCm1BVEt_67nRTXHsjnF2_4yTu
+#EXTINF:-1 xui-id="4665779" tvg-id="" tvg-name="A FAZENDA 17 - CAMERA 06 FHD" tvg-logo="https://uploads.metropoles.com/wp-content/uploads/2020/08/21085858/A-fazenda-logo.jpg" group-title="F21 M5 A FAZENDA 17",A FAZENDA 17 - CAMERA 06 FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDV4zXmPOh3GJZeyxpslgwi9ArIaVqlAVAfMhByWjVZOD
+#EXTINF:-1 xui-id="4665780" tvg-id="" tvg-name="A FAZENDA 17 - CAMERA 06 HD" tvg-logo="https://uploads.metropoles.com/wp-content/uploads/2020/08/21085858/A-fazenda-logo.jpg" group-title="F21 M5 A FAZENDA 17",A FAZENDA 17 - CAMERA 06 HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDYR40jS_ZCKR3XWBbBZzLOw1uBSkpoer4X3B6cqUF7C_
+#EXTINF:-1 xui-id="4660438" tvg-id="" tvg-name="A FAZENDA 17 CAM 01" tvg-logo="https://uploads.metropoles.com/wp-content/uploads/2020/08/21085858/A-fazenda-logo.jpg" group-title="F21 M5 REALITY SHOW 2025",A FAZENDA 17 CAM 01
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDcc4wy18rlFwtrRw85UplZ-kOxVNrvFV2gyHN1rSL956
+#EXTINF:-1 xui-id="4660439" tvg-id="" tvg-name="A FAZENDA 17 CAM 02" tvg-logo="https://uploads.metropoles.com/wp-content/uploads/2020/08/21085858/A-fazenda-logo.jpg" group-title="F21 M5 REALITY SHOW 2025",A FAZENDA 17 CAM 02
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDb74CTlND9SSoscc6KvznVnFL3kCVAo-E3gxOv99HN6u
+#EXTINF:-1 xui-id="4660437" tvg-id="" tvg-name="A FAZENDA 17 CAM 03" tvg-logo="https://uploads.metropoles.com/wp-content/uploads/2020/08/21085858/A-fazenda-logo.jpg" group-title="F21 M5 REALITY SHOW 2025",A FAZENDA 17 CAM 03
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDRQeeayMk4ylrLeC0TIWFlnP5XxLoB7cs2NBVQgUhx1L
+#EXTINF:-1 xui-id="4660440" tvg-id="" tvg-name="A FAZENDA 17 CAM 04" tvg-logo="https://uploads.metropoles.com/wp-content/uploads/2020/08/21085858/A-fazenda-logo.jpg" group-title="F21 M5 REALITY SHOW 2025",A FAZENDA 17 CAM 04
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDWCnEFGD6O_PnKtJmeFJKYBJwa6dqIsTxsNyrUblEr2t
+#EXTINF:-1 xui-id="4660441" tvg-id="" tvg-name="A FAZENDA 17 CAM 05" tvg-logo="https://uploads.metropoles.com/wp-content/uploads/2020/08/21085858/A-fazenda-logo.jpg" group-title="F21 M5 REALITY SHOW 2025",A FAZENDA 17 CAM 05
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDbFtrMSx6Tr9mTmCnSg8qBh4rrg97FHKbzmIeAOPM0UI
+#EXTINF:-1 xui-id="4660442" tvg-id="" tvg-name="A FAZENDA 17 CAM 06" tvg-logo="https://uploads.metropoles.com/wp-content/uploads/2020/08/21085858/A-fazenda-logo.jpg" group-title="F21 M5 REALITY SHOW 2025",A FAZENDA 17 CAM 06
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDdqQ-PNW7shJ84LU4s5atFYmKvr6AUaZXXPX33l7SB6s
+#EXTINF:-1 xui-id="4238307" tvg-id="" tvg-name="A Feiticeira 24hs" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",A Feiticeira 24hs
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDaA3n3J_nedsrSm3IV47fkrlu-KQXQcXRMXffBPp1gFS
+#EXTINF:-1 xui-id="4238300" tvg-id="" tvg-name="A Grande Familia 24hs" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",A Grande Familia 24hs
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDe8rvDLXa4oQu9LDYE4J_2Ut36wl2UqcHIVNRfUfA5xg
+#EXTINF:-1 xui-id="4230933" tvg-id="AE.br" tvg-name="A&E 4K" tvg-logo="https://img.hotice.site/icones_channels/A&E.png" group-title="F21 M5 ⭐ 4K",A&E 4K
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDR6nrPmDN2hHc6XOe1iRC47gNteKv_0yTh03yMocSXGj
+#EXTINF:-1 xui-id="4230934" tvg-id="AE.br" tvg-name="A&E FHD" tvg-logo="https://img.hotice.site/icones_channels/A&E.png" group-title="F21 M5 ⏩ FILMES E SÉRIES",A&E FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDXHZJaJ007kyQlGkcVvYHvwN4fGDWPuZ7PjXIiBQ-k_F
+#EXTINF:-1 xui-id="4230935" tvg-id="AE.br" tvg-name="A&E HD" tvg-logo="https://img.hotice.site/icones_channels/A&E.png" group-title="F21 M5 ⏩ FILMES E SÉRIES",A&E HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDZa8avskrjdY14xUQSG7yRMicE2dipu-l5785_WvtS9k
+#EXTINF:-1 xui-id="4230936" tvg-id="AE.br" tvg-name="A&E SD" tvg-logo="https://img.hotice.site/icones_channels/A&E.png" group-title="F21 M5 ⏩ FILMES E SÉRIES",A&E SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDd2GQ1A1xqNDJilcETLtTrq42liA74mpqAxfE1kBKxYb
+#EXTINF:-1 xui-id="4230940" tvg-id="AgroMais.br" tvg-name="AGROMAIS FHD" tvg-logo="https://img.hotice.site/icones_channels/AgroMais.png" group-title="F21 M5 ⭐ AGRO NEGOCIOS",AGROMAIS FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDW6hdpQol95YPEqjbcD18Emv4DU-t6jFuleKUhpLq0pQ
+#EXTINF:-1 xui-id="4230941" tvg-id="AgroMais.br" tvg-name="AGROMAIS HD" tvg-logo="https://img.hotice.site/icones_channels/AgroMais.png" group-title="F21 M5 ⭐ AGRO NEGOCIOS",AGROMAIS HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDQXa-oGwtvWh-rB8OU1pmrGwg_5svHMGXKsn1bsDI4z_
+#EXTINF:-1 xui-id="4230942" tvg-id="AgroMais.br" tvg-name="AGROMAIS SD" tvg-logo="https://img.hotice.site/icones_channels/AgroMais.png" group-title="F21 M5 ⭐ AGRO NEGOCIOS",AGROMAIS SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDbCmhi05VDOhUZ8iM5AC4qU4IHccV4ioCiqZHAocaC7R
+#EXTINF:-1 xui-id="4238222" tvg-id="" tvg-name="Aladdin 24hrs" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",Aladdin 24hrs
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDQlmvSZFCfBvFarr7ioCdIBegwCdX8e46pc6p4OcDIoq
+#EXTINF:-1 xui-id="4230943" tvg-id="AMC.br" tvg-name="AMC FHD" tvg-logo="https://img.hotice.site/icones_channels/AMC_HD.png" group-title="F21 M5 ⏩ FILMES E SÉRIES",AMC FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDafl-pzq24b6PZB77bAqGzZVaeveuEwRQo18fBcUeVDk
+#EXTINF:-1 xui-id="4230944" tvg-id="AMC.br" tvg-name="AMC FHD 4K" tvg-logo="https://img.hotice.site/icones_channels/AMC_HD.png" group-title="F21 M5 ⭐ 4K",AMC FHD 4K
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDc5ZDT5zbEtuBAwGE3XLvaKlLD2aPBNWO_P-UySLifpU
+#EXTINF:-1 xui-id="4230945" tvg-id="AMC.br" tvg-name="AMC HD" tvg-logo="https://img.hotice.site/icones_channels/AMC_HD.png" group-title="F21 M5 ⏩ FILMES E SÉRIES",AMC HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDZo-Sssx59rBY3a1i-jc-VernqrSmyUPZOX2t1_eV_kC
+#EXTINF:-1 xui-id="4230946" tvg-id="AMC.br" tvg-name="AMC SD" tvg-logo="https://img.hotice.site/icones_channels/AMC_HD.png" group-title="F21 M5 ⏩ FILMES E SÉRIES",AMC SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDaSz5WlmOCUuAFsWhpBU3amIKSSXymm9-KAyyclXyDRt
+#EXTINF:-1 xui-id="4230947" tvg-id="AnimalPlanet.br" tvg-name="ANIMAL PLANET 4K" tvg-logo="https://img.hotice.site/icones_channels/Animal_Planet_HD.png" group-title="F21 M5 ⭐ 4K",ANIMAL PLANET 4K
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDWH8tpWdu-Zj0QsMFqRbIqBbDKsAiXewwfD6de8xCRcm
+#EXTINF:-1 xui-id="4230948" tvg-id="AnimalPlanet.br" tvg-name="ANIMAL PLANET FHD" tvg-logo="https://img.hotice.site/icones_channels/Animal_Planet_HD.png" group-title="F21 M5 ⭐ DOCUMENTÁRIOS",ANIMAL PLANET FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDT_pSYPXtCnBacGNLx6Zs0f2jlrVQZMKhCfgnIojO2jW
+#EXTINF:-1 xui-id="4230949" tvg-id="AnimalPlanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="https://img.hotice.site/icones_channels/Animal_Planet_HD.png" group-title="F21 M5 ⭐ DOCUMENTÁRIOS",ANIMAL PLANET HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDZxbPMo3TV2nPxYKdggTT6Qi18UsGs9F8bfliLIQJTGi
+#EXTINF:-1 xui-id="4230950" tvg-id="AnimalPlanet.br" tvg-name="ANIMAL PLANET SD" tvg-logo="https://img.hotice.site/icones_channels/Animal_Planet_HD.png" group-title="F21 M5 ⭐ DOCUMENTÁRIOS",ANIMAL PLANET SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDVo-1LDraKw7Ii6JgALtPUcwIryVRa7sWlHTVEoq8PtZ
+#EXTINF:-1 xui-id="4666692" tvg-id="" tvg-name="animes 24 horas" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",animes 24 horas
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDcEU3JUIsrG7SWiibQMkHF5IPvtttAeVGZrpqnRBhk_5
+#EXTINF:-1 xui-id="4230951" tvg-id="Arte1.br" tvg-name="ARTE 1 FHD" tvg-logo="https://img.hotice.site/icones_channels/Arte_1_HD.png" group-title="F21 M5 ⏩ FILMES E SÉRIES",ARTE 1 FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDW45PJLM2VTVAnG3OAufyp6TrcDM4cYD4Vf61nhgltla
+#EXTINF:-1 xui-id="4230952" tvg-id="Arte1.br" tvg-name="ARTE 1 HD" tvg-logo="https://img.hotice.site/icones_channels/Arte_1_HD.png" group-title="F21 M5 ⏩ FILMES E SÉRIES",ARTE 1 HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDVNZZege5oNo2qeRmOodiYswI1ePWjMAqCjAySlRJc_A
+#EXTINF:-1 xui-id="4230953" tvg-id="Arte1.br" tvg-name="ARTE 1 SD" tvg-logo="https://img.hotice.site/icones_channels/Arte_1_HD.png" group-title="F21 M5 ⏩ FILMES E SÉRIES",ARTE 1 SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDZACcBAA0DgVOEllvBu-lnEjlAJdxwmioPy_4U1-hn7F
+#EXTINF:-1 xui-id="4238223" tvg-id="" tvg-name="As Meninas Superpoderosas 24HS" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",As Meninas Superpoderosas 24HS
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDfJ13tALFsO5xPnKWreRmfS6nuqxBXdEM3tRe-n6_Mt2
+#EXTINF:-1 xui-id="4230954" tvg-id="AXN.br" tvg-name="AXN 4K" tvg-logo="https://img.hotice.site/icones_channels/AXN_HD.png" group-title="F21 M5 ⭐ 4K",AXN 4K
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDTYtq9Hpc3rIQTMAsJP8Qc_5IlSdnPLZQRZDWRUCujUS
+#EXTINF:-1 xui-id="4230955" tvg-id="AXN.br" tvg-name="AXN FHD" tvg-logo="https://img.hotice.site/icones_channels/AXN_HD.png" group-title="F21 M5 ⏩ FILMES E SÉRIES",AXN FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDfh8B3SkyhAjML-XWGnkWM21bq1Pw_EZ5RKu9OucN9ea
+#EXTINF:-1 xui-id="4230956" tvg-id="AXN.br" tvg-name="AXN HD" tvg-logo="https://img.hotice.site/icones_channels/AXN_HD.png" group-title="F21 M5 ⏩ FILMES E SÉRIES",AXN HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDcEKjA0_iCfEaCPHKnaIclImusA_YPgWAJkwsIQ0MFnF
+#EXTINF:-1 xui-id="4230957" tvg-id="AXN.br" tvg-name="AXN SD" tvg-logo="https://img.hotice.site/icones_channels/AXN_HD.png" group-title="F21 M5 ⏩ FILMES E SÉRIES",AXN SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDSCIiF490C23uRYPeb_gP8SRFs6J0-UXC3xxVSAVoMbb
+#EXTINF:-1 xui-id="4230958" tvg-id="BandBahia.br" tvg-name="BAND BA - BAND BAHIA FHD" tvg-logo="https://img.hotice.site/icones_channels/BAND_HDTV.png" group-title="F21 M5 ⭐ BAND",BAND BA - BAND BAHIA FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDXKMXWh3HaTi-Tinhb2y_efblJ1XkkmMtk4Qu7jOHNDo
+#EXTINF:-1 xui-id="4230959" tvg-id="BandBahia.br" tvg-name="BAND BA - BAND BAHIA HD" tvg-logo="https://img.hotice.site/icones_channels/BAND_HDTV.png" group-title="F21 M5 ⭐ BAND",BAND BA - BAND BAHIA HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDbdpPdaXudSSUbyXIWFbAigbqAE4Quj1Izg4FV2g-1di
+#EXTINF:-1 xui-id="4230960" tvg-id="BandAmazonas.br" tvg-name="BAND CE - BAND CEARÁ FHD" tvg-logo="https://img.hotice.site/icones_channels/BAND_HDTV.png" group-title="F21 M5 ⭐ BAND",BAND CE - BAND CEARÁ FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDZqYnXSoujK89prisDHgKr7L4y2V4qiYCq1ARokOPpKu
+#EXTINF:-1 xui-id="4230961" tvg-id="BandAmazonas.br" tvg-name="BAND CE - BAND CEARÁ HD" tvg-logo="https://img.hotice.site/icones_channels/BAND_HDTV.png" group-title="F21 M5 ⭐ BAND",BAND CE - BAND CEARÁ HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDSZOy_5dfdRBMYS5efuZEZmD0FMXvB-RiST17FYNQGJK
+#EXTINF:-1 xui-id="4230968" tvg-id="br#band-minas" tvg-name="BAND MG - MINAS GERAIS FHD" tvg-logo="https://img.hotice.site/icones_channels/BAND_HDTV.png" group-title="F21 M5 ⭐ BAND",BAND MG - MINAS GERAIS FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDYsx8U9y-Gnqh3RADb0TyKvI5CZD_d0YX37Y8zr_Vp4d
+#EXTINF:-1 xui-id="4230969" tvg-id="br#band-minas" tvg-name="BAND MG - MINAS GERAIS HD" tvg-logo="https://img.hotice.site/icones_channels/BAND_HDTV.png" group-title="F21 M5 ⭐ BAND",BAND MG - MINAS GERAIS HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDWGdARcsaaDlirsXebwFqOzhaK6p6qnvASZ2YsYvUV0D
+#EXTINF:-1 xui-id="4230970" tvg-id="br#band-minas" tvg-name="BAND MG - MINAS GERAIS SD" tvg-logo="https://img.hotice.site/icones_channels/BAND_HDTV.png" group-title="F21 M5 ⭐ BAND",BAND MG - MINAS GERAIS SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDV_MVfroyABD0lMA3ln-doFR6oVV5w6fZj_UmHZ_zvhF
+#EXTINF:-1 xui-id="4230971" tvg-id="BandNews.br" tvg-name="BAND NEWS FHD" tvg-logo="https://img.hotice.site/icones_channels/BAND_NEWS.png" group-title="F21 M5 ⭐ NOTÍCIAS",BAND NEWS FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDQD5G68JPaiKApXdY39qm3CcDijtxhMYjy9BAhPZvMAM
+#EXTINF:-1 xui-id="4230972" tvg-id="BandNews.br" tvg-name="BAND NEWS HD" tvg-logo="https://img.hotice.site/icones_channels/BAND_NEWS.png" group-title="F21 M5 ⭐ NOTÍCIAS",BAND NEWS HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDVlSJy0tEeMjH65Ap21h6qMnWX3bjyocfWVT1fu2W-nC
+#EXTINF:-1 xui-id="4230973" tvg-id="BandNews.br" tvg-name="BAND NEWS SD" tvg-logo="https://img.hotice.site/icones_channels/BAND_NEWS.png" group-title="F21 M5 ⭐ NOTÍCIAS",BAND NEWS SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDTzlbWBHK3GBd7q4g1tzwh1J4BvIMi-yaPrqmwVmcGYQ
+#EXTINF:-1 xui-id="4230978" tvg-id="br#band-rio" tvg-name="BAND RIO DE JANEIRO 4K" tvg-logo="https://img.hotice.site/icones_channels/BAND_HDTV.png" group-title="F21 M5 ⭐ 4K",BAND RIO DE JANEIRO 4K
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDVB8QJVPIxilqyVR0wvCDiurzOLhzXwJmkwzVq9qX4n8
+#EXTINF:-1 xui-id="4230979" tvg-id="br#band-rio" tvg-name="BAND RJ - BAND RIO FHD" tvg-logo="https://img.hotice.site/icones_channels/BAND_HDTV.png" group-title="F21 M5 ⭐ BAND",BAND RJ - BAND RIO FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDdQVjgTI36ZmOwXePevoirOKmUdf27o4oAFaRE6AKjP2
+#EXTINF:-1 xui-id="4230980" tvg-id="br#band-rio" tvg-name="BAND RJ - BAND RIO HD" tvg-logo="https://img.hotice.site/icones_channels/BAND_HDTV.png" group-title="F21 M5 ⭐ BAND",BAND RJ - BAND RIO HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDVWstZ-_yNHF7n3lTn6kZD5wqTMi0rGMohYpYBniI0Wy
+#EXTINF:-1 xui-id="4230983" tvg-id="br#band-rio-grande-do-sul-hd" tvg-name="BAND RS - BAND RIO GRANDE DO SUL FHD" tvg-logo="https://img.hotice.site/icones_channels/BAND_HDTV.png" group-title="F21 M5 ⭐ BAND",BAND RS - BAND RIO GRANDE DO SUL FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDbMDMor0x7gJmfmkwXHLZh8U2V0Fwx3TvXdV1wmzu3ty
+#EXTINF:-1 xui-id="4230984" tvg-id="br#band-rio-grande-do-sul-hd" tvg-name="BAND RS - BAND RIO GRANDE DO SUL HD" tvg-logo="https://img.hotice.site/icones_channels/BAND_HDTV.png" group-title="F21 M5 ⭐ BAND",BAND RS - BAND RIO GRANDE DO SUL HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDT2q3j3kwehpDGeOnuBF0kuP-OV7_wCj0LMqf-UOY4uL
+#EXTINF:-1 xui-id="4230985" tvg-id="BandSaoPaulo.br" tvg-name="BAND SAO PAULO 4K" tvg-logo="https://img.hotice.site/icones_channels/BAND_HDTV.png" group-title="F21 M5 ⭐ 4K",BAND SAO PAULO 4K
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDb3tGBiBa3o8F8aQ9PwUq9Im4_MojBIRIFNKk0_05pPg
+#EXTINF:-1 xui-id="4230986" tvg-id="br#band" tvg-name="BAND SP - BAND CAMPINAS FHD" tvg-logo="https://img.hotice.site/icones_channels/BAND_HDTV.png" group-title="F21 M5 ⭐ BAND",BAND SP - BAND CAMPINAS FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDcs5m2NgDs-ctR1AkXTA9aMvsAxzXh6E3_oZnxwgoIzM
+#EXTINF:-1 xui-id="4230987" tvg-id="24HAnimes" tvg-name="BAND SP - BAND CAMPINAS HD" tvg-logo="https://img.hotice.site/icones_channels/BAND_HDTV.png" group-title="F21 M5 ⭐ BAND",BAND SP - BAND CAMPINAS HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDdzIofOxqDBXgrulaXaaGKu1rAhq59DAOjgj4weA0vCM
+#EXTINF:-1 xui-id="4230988" tvg-id="BandSaoPaulo.br" tvg-name="BAND SP - BAND SAO PAULO FHD" tvg-logo="https://img.hotice.site/icones_channels/BAND_HDTV.png" group-title="F21 M5 ⭐ BAND",BAND SP - BAND SAO PAULO FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDW8mmWP0gsTBw0L5pMcm3EKyITXgsjb0mQdrNr07i_b8
+#EXTINF:-1 xui-id="4230989" tvg-id="BandSaoPaulo.br" tvg-name="BAND SP - BAND SAO PAULO HD" tvg-logo="https://img.hotice.site/icones_channels/BAND_HDTV.png" group-title="F21 M5 ⭐ BAND",BAND SP - BAND SAO PAULO HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDXmcDi3A6OZq6HI1mTNRs0Dy8k8yBJr3URoEH57RfJ33
+#EXTINF:-1 xui-id="4230990" tvg-id="BandSaoPaulo.br" tvg-name="BAND SP - BAND SAO PAULO SD" tvg-logo="http://longitudenow.site:80/images/9Nw9RlbJeU65ur_Bg0WfbA_AvdqbS_5PqAvxP8EonbpFBd5gzPCauemph3nucxTiIi35k3UckCjSiqyZd1lRIg.png" group-title="F21 M5 ⭐ BAND",BAND SP - BAND SAO PAULO SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDbRgUpXJkG3vPrDCIVVwRyi79WJ4jXkv3NKLXOKS0z4_
+#EXTINF:-1 xui-id="4665781" tvg-id="BandSports.br" tvg-name="BAND SPORTS FHD" tvg-logo="https://img.hotice.site/icones_channels/BAND_Sports_HD.png" group-title="F21 M5 ESPORTES",BAND SPORTS FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDbk0gtOo12tKuL338v_H3Ibn7c5ApSNJGEjxzgVqtTNg
+#EXTINF:-1 xui-id="4665782" tvg-id="BandSports.br" tvg-name="BAND SPORTS HD" tvg-logo="https://img.hotice.site/icones_channels/BAND_Sports_HD.png" group-title="F21 M5 ESPORTES",BAND SPORTS HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDYJrOhv-a12b50_XYK4se8sBT4BLPZB_oyv-krY4JT3x
+#EXTINF:-1 xui-id="4665783" tvg-id="BandSports.br" tvg-name="BAND SPORTS SD" tvg-logo="https://img.hotice.site/icones_channels/BAND_Sports_HD.png" group-title="F21 M5 ESPORTES",BAND SPORTS SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDXzW8B-xH2EP56PalnLlNncwZXCTM5MTrTVUUu4V9g1h
+#EXTINF:-1 xui-id="4238224" tvg-id="" tvg-name="BEN 10 24HS" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",BEN 10 24HS
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDTH2bzxJ99LOayF1E8Eh0xP7vZS6F1TU36YkZ-S6yLU1
+#EXTINF:-1 xui-id="4230995" tvg-id="Bis.br" tvg-name="BIS FHD" tvg-logo="https://img.hotice.site/icones_channels/BIS_HD.png" group-title="F21 M5 ⭐ VARIEDADES",BIS FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDcuRRbv8tcD5aoRNGyAPDsucbszUZpULWetDdyinyoOp
+#EXTINF:-1 xui-id="4230996" tvg-id="Bis.br" tvg-name="BIS HD" tvg-logo="https://img.hotice.site/icones_channels/BIS_HD.png" group-title="F21 M5 ⭐ VARIEDADES",BIS HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDaQGct09CCDcWPeOKg6P7j--Qbat97JIkXNp6lkjHjpY
+#EXTINF:-1 xui-id="4238302" tvg-id="" tvg-name="Bita e os Animais 24hrs" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",Bita e os Animais 24hrs
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDTgPvSyrr278S_u3yd8G_QTR7IlzS3snkUmRzgeOB1cN
+#EXTINF:-1 xui-id="4238225" tvg-id="" tvg-name="BOB ESPONJA 24HS" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",BOB ESPONJA 24HS
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDe5xz9O8YGfYFRH3UIbHLdDhPih0k3v265_mzyaZFXSp
+#EXTINF:-1 xui-id="4238322" tvg-id="" tvg-name="BREAKING BAD 24HRS" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",BREAKING BAD 24HRS
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDQbCLiDfDDxG6mnLfXIfy_l2c0I32GfI4wTAfmZfN2qT
+#EXTINF:-1 xui-id="4238226" tvg-id="" tvg-name="Breaking Bad 24hs" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",Breaking Bad 24hs
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDe0q5RMdrx7pjCRngAGy62bZNyztV3A0S5rP1QT20tFb
+#EXTINF:-1 xui-id="4230999" tvg-id="br#canal-brasil-hd" tvg-name="CANAL BRASIL 4K" tvg-logo="https://img.hotice.site/icones_channels/CANAL_BRASIL_HD.png" group-title="F21 M5 ⭐ 4K",CANAL BRASIL 4K
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDa--D0qml03JbKLhk5OlIFbZ3aBfMOh-DNRPWae7LkiD
+#EXTINF:-1 xui-id="4231000" tvg-id="br#canal-brasil-hd" tvg-name="CANAL BRASIL FHD" tvg-logo="https://img.hotice.site/icones_channels/CANAL_BRASIL_HD.png" group-title="F21 M5 ⭐ ABERTOS",CANAL BRASIL FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDejSkNLd2N5v1IljPsT-g1CyGEj_er4Alw1pXllAmdt1
+#EXTINF:-1 xui-id="4231001" tvg-id="br#canal-brasil-hd" tvg-name="CANAL BRASIL HD" tvg-logo="https://img.hotice.site/icones_channels/CANAL_BRASIL_HD.png" group-title="F21 M5 ⭐ ABERTOS",CANAL BRASIL HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDfbKMBqAeHi9uN8mOre6vtuORQgjkGCmmXa4AldOoGmH
+#EXTINF:-1 xui-id="4231002" tvg-id="br#canal-brasil-hd" tvg-name="CANAL BRASIL SD" tvg-logo="https://img.hotice.site/icones_channels/CANAL_BRASIL_HD.png" group-title="F21 M5 ⭐ ABERTOS",CANAL BRASIL SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDW_Va6D_imKqyq_XfCZZDpuGAG5M2tcAbFWsvGvPr6Zd
+#EXTINF:-1 xui-id="4231003" tvg-id="CanaldoBoi.br" tvg-name="CANAL DO BOI FHD" tvg-logo="https://img.hotice.site/icones_channels/Canal_do_Boi_HD.png" group-title="F21 M5 ⭐ AGRO NEGOCIOS",CANAL DO BOI FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDY68WvAXi3CLA0ia7YLka99aDQaFmdjMRNx8jcTfYRyJ
+#EXTINF:-1 xui-id="4231004" tvg-id="CanaldoBoi.br" tvg-name="CANAL DO BOI HD" tvg-logo="https://img.hotice.site/icones_channels/Canal_do_Boi_HD.png" group-title="F21 M5 ⭐ AGRO NEGOCIOS",CANAL DO BOI HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDRB9M9b0KS_EYZ0gILN_oQXAMpiBr00cbbuMYoPo_SFV
+#EXTINF:-1 xui-id="4231005" tvg-id="CanaldoBoi.br" tvg-name="CANAL DO BOI SD" tvg-logo="https://img.hotice.site/icones_channels/Canal_do_Boi_HD.png" group-title="F21 M5 ⭐ AGRO NEGOCIOS",CANAL DO BOI SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDcvQ4lw4EPmIYlSp7J-zmpz9zPWHK5JGVpltUyUuHLep
+#EXTINF:-1 xui-id="4231006" tvg-id="CanalFutura.br" tvg-name="CANAL FUTURA FHD" tvg-logo="https://img.hotice.site/icones_channels/Futura.png" group-title="F21 M5 ⭐ ABERTOS",CANAL FUTURA FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDZYeDuAfMmaMpk6mWBm6XbFWk98MrU5-YwaG0AFfRvNb
+#EXTINF:-1 xui-id="4231007" tvg-id="CanalFutura.br" tvg-name="CANAL FUTURA HD" tvg-logo="https://img.hotice.site/icones_channels/Futura.png" group-title="F21 M5 ⭐ ABERTOS",CANAL FUTURA HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDUJUX52d4xvwyCrKTqm4UJZ1E36sO0XU0kdb0exloNOW
+#EXTINF:-1 xui-id="4231008" tvg-id="br#viva-hd" tvg-name="CANAL GLOBOPLAY NOVELAS FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ CANAIS NOVELAS",CANAL GLOBOPLAY NOVELAS FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDY6H-_DBwU7p9s78VpUtCDqnrLuf6giBc83gufqv3Agw
+#EXTINF:-1 xui-id="4231009" tvg-id="CanalViva.br" tvg-name="CANAL GLOBOPLAY NOVELAS HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ CANAIS NOVELAS",CANAL GLOBOPLAY NOVELAS HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDSjxVjxv6MFFDkWcCK7n8E0XTCcGXF_unNL-_6rVop7G
+#EXTINF:-1 xui-id="4231010" tvg-id="br#viva-hd" tvg-name="CANAL GLOBOPLAY NOVELAS SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ CANAIS NOVELAS",CANAL GLOBOPLAY NOVELAS SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDXJOacfPg9HKWKCPVr6NVj_zAoqb233pKGL0FdyZnhLi
+#EXTINF:-1 xui-id="4665784" tvg-id="" tvg-name="CANAL GOAT 01 HD" tvg-logo="https://img.hotice.site/icones_channels/Canal_GOAT.png" group-title="F21 M5 ESPORTES PPV",CANAL GOAT 01 HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDQoE_WwrofeZf1IQW1efHeaWVq_0J_NKOL6SNpLQQAg1
+#EXTINF:-1 xui-id="4665785" tvg-id="" tvg-name="CANAL GOAT 02 HD" tvg-logo="https://img.hotice.site/icones_channels/Canal_GOAT_2.png" group-title="F21 M5 ESPORTES PPV",CANAL GOAT 02 HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDVm5TgUfoem9ZGB_QMX1iYqjU5thk0psMimRLnnm_J60
+#EXTINF:-1 xui-id="4665786" tvg-id="" tvg-name="CANAL OFF FHD" tvg-logo="https://img.hotice.site/icones_channels/OFF_HD.png" group-title="F21 M5 ️ESPORTES RADICAIS",CANAL OFF FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDXFFGRzRDtBJlF8K49gaO_8NDDRcCmELxdZWcKwUwDPv
+#EXTINF:-1 xui-id="4665787" tvg-id="CanalOff.br" tvg-name="CANAL OFF HD" tvg-logo="https://img.hotice.site/icones_channels/OFF_HD.png" group-title="F21 M5 ️ESPORTES RADICAIS",CANAL OFF HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDa8rblBkpWBBotJ0sqf_k36xVGw4rmZoF7f6aG33bXnM
+#EXTINF:-1 xui-id="4665788" tvg-id="CanalOff.br" tvg-name="CANAL OFF SD" tvg-logo="https://img.hotice.site/icones_channels/OFF_HD.png" group-title="F21 M5 ️ESPORTES RADICAIS",CANAL OFF SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDZGgB-1fqdSA3eyQbBP6-fIBXmcLNJjjGTnpKAlj0vsS
+#EXTINF:-1 xui-id="4231017" tvg-id="RedeTV.br" tvg-name="CANAL REDE TV FHD" tvg-logo="https://img.hotice.site/icones_channels/Rede_TV!_HD.png" group-title="F21 M5 ⭐ ABERTOS",CANAL REDE TV FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDdZPXXk0sfW3W0a6al48uzjeiZmm5VOGKek7DmNi9IUE
+#EXTINF:-1 xui-id="4231018" tvg-id="RedeTV.br" tvg-name="CANAL REDE TV HD" tvg-logo="https://img.hotice.site/icones_channels/Rede_TV!_HD.png" group-title="F21 M5 ⭐ ABERTOS",CANAL REDE TV HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDRnH67HrnL1VeaTEljFzbHPhJR-KtIgK9OqVFmPDZJXR
+#EXTINF:-1 xui-id="4231019" tvg-id="CanalRural.br" tvg-name="CANAL RURAL FHD" tvg-logo="https://img.hotice.site/icones_channels/Canal_Rural.png" group-title="F21 M5 ⭐ AGRO NEGOCIOS",CANAL RURAL FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDUZ7yK-YuMXvD24wBQPAdGIA3UHHRFhH4NdKKwF4ElxW
+#EXTINF:-1 xui-id="4231020" tvg-id="CanalRural.br" tvg-name="CANAL RURAL HD" tvg-logo="https://img.hotice.site/icones_channels/Canal_Rural.png" group-title="F21 M5 ⭐ AGRO NEGOCIOS",CANAL RURAL HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDUNFhTLiDgwSBDiao9qOVcBi24TEfAaOalHehKgQj8Cw
+#EXTINF:-1 xui-id="4231021" tvg-id="CanalRural.br" tvg-name="CANAL RURAL SD" tvg-logo="https://img.hotice.site/icones_channels/Canal_Rural.png" group-title="F21 M5 ⭐ AGRO NEGOCIOS",CANAL RURAL SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDWSun8BqsxWqA2G9GONPtwDnaDezx-4p9IXtpKHasVZ6
+#EXTINF:-1 xui-id="4231022" tvg-id="TNTNovelas.br" tvg-name="CANAL TNT NOVELAS FHD" tvg-logo="https://img.hotice.site/icones_channels/TNT_Novelas_HD.png" group-title="F21 M5 ⭐ CANAIS NOVELAS",CANAL TNT NOVELAS FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDTPFakDxjcit9u66WcEwRRvk5Jr9nyEg1092ht_HlyQv
+#EXTINF:-1 xui-id="4231023" tvg-id="TNTNovelas.br" tvg-name="CANAL TNT NOVELAS HD" tvg-logo="https://img.hotice.site/icones_channels/TNT_Novelas_HD.png" group-title="F21 M5 ⭐ CANAIS NOVELAS",CANAL TNT NOVELAS HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDeAimTOfjm5Ye-etzQy-wI_ECR30g3AItQn-2a0KM0JJ
+#EXTINF:-1 xui-id="4231024" tvg-id="TNTNovelas.br" tvg-name="CANAL TNT NOVELAS SD" tvg-logo="https://img.hotice.site/icones_channels/TNT_Novelas_HD.png" group-title="F21 M5 ⭐ CANAIS NOVELAS",CANAL TNT NOVELAS SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDYhxtA8VZ8jCLgWBHC-IkOGbxNb7l4hCgdCQqAVjjSW_
+#EXTINF:-1 xui-id="4231027" tvg-id="br#canal-brasil-hd" tvg-name="CANAL TV BRASIL FHD" tvg-logo="https://img.hotice.site/icones_channels/TV_Brasil__Esperança.png" group-title="F21 M5 ⭐ ABERTOS",CANAL TV BRASIL FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDQtHgHBGy5VcerlQ0rLYkNZmcrRaGcrXCrLhIygJf_nz
+#EXTINF:-1 xui-id="4231028" tvg-id="br#canal-brasil-hd" tvg-name="CANAL TV BRASIL HD" tvg-logo="https://img.hotice.site/icones_channels/TV_Brasil__Esperança.png" group-title="F21 M5 ⭐ ABERTOS",CANAL TV BRASIL HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDRcc7Hy-rpwwOWYellubCIXj_fZBFdrTa7d2cnFs02PO
+#EXTINF:-1 xui-id="4231029" tvg-id="br#cultura-hd" tvg-name="CANAL TV CULTURA FHD" tvg-logo="https://img.hotice.site/icones_channels/TV_Cultura.png" group-title="F21 M5 ⭐ ABERTOS",CANAL TV CULTURA FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDa_8UEGqGVmBP6g7YxOL3Vc3Bdp54jVeonfn8gi0uVqf
+#EXTINF:-1 xui-id="4231030" tvg-id="br#cultura-hd" tvg-name="CANAL TV CULTURA HD" tvg-logo="https://img.hotice.site/icones_channels/TV_Cultura.png" group-title="F21 M5 ⭐ ABERTOS",CANAL TV CULTURA HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDdbN19nbPllmXDFizRLAXHCl5QXZ2IilpGt37nLw7L0p
+#EXTINF:-1 xui-id="4231031" tvg-id="br#gazeta-hd" tvg-name="CANAL TV GAZETA FHD" tvg-logo="https://img.hotice.site/icones_channels/Gazeta_HD.png" group-title="F21 M5 ⭐ ABERTOS",CANAL TV GAZETA FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDaO8M9xgJ3y2jHXunWXu1tiuk4FKcK2rX22QPHukFCgF
+#EXTINF:-1 xui-id="4231032" tvg-id="br#gazeta-hd" tvg-name="CANAL TV GAZETA HD" tvg-logo="https://img.hotice.site/icones_channels/Gazeta_HD.png" group-title="F21 M5 ⭐ ABERTOS",CANAL TV GAZETA HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDXnsbH_LQTHxIUuFzzPT-gJyJ9sC8QpZCbcQ2vsmXm1U
+#EXTINF:-1 xui-id="4231033" tvg-id="24HAnimes" tvg-name="CANAL TV SENADO FHD" tvg-logo="https://img.hotice.site/icones_channels/TV_Senado.png" group-title="F21 M5 ⭐ ABERTOS",CANAL TV SENADO FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDf98jG4Iv8-NUkymU4gBNjDB9iLx1gJ_lwIs-6iVONK3
+#EXTINF:-1 xui-id="4231034" tvg-id="TVSenado.br" tvg-name="CANAL TV SENADO HD" tvg-logo="https://img.hotice.site/icones_channels/TV_Senado.png" group-title="F21 M5 ⭐ ABERTOS",CANAL TV SENADO HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDfCB1KTx1YqQsV85GnRIN6aoA2mIfFT_jKZ1ui3x3WQc
+#EXTINF:-1 xui-id="4231035" tvg-id="TVEBahia.br" tvg-name="CANAL TVE FHD" tvg-logo="https://img.hotice.site/icones_channels/TVE.png" group-title="F21 M5 ⭐ ABERTOS",CANAL TVE FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDVAHK5RN2q6LgRwRP_6oW-0jZOUZwA5bFE7GXTUfU2dB
+#EXTINF:-1 xui-id="4231036" tvg-id="TVEBahia.br" tvg-name="CANAL TVE HD" tvg-logo="https://img.hotice.site/icones_channels/TVE.png" group-title="F21 M5 ⭐ ABERTOS",CANAL TVE HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDeKr6d4Qo7ri2fG0oDfbLagedFFZ4wbyaZY8XziTSK07
+#EXTINF:-1 xui-id="4231037" tvg-id="br#canc-o-nova-hd" tvg-name="CANÇÃO NOVA FHD" tvg-logo="https://img.hotice.site/icones_channels/Cancao_Nova.png" group-title="F21 M5 ⭐ RELIGIOSOS",CANÇÃO NOVA FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDQwR3AYSSR1iNvY2mbdtUinWOyN5yULsM6aSlIWT9J5R
+#EXTINF:-1 xui-id="4231038" tvg-id="br#canc-o-nova-hd" tvg-name="CANÇÃO NOVA HD" tvg-logo="https://img.hotice.site/icones_channels/Cancao_Nova.png" group-title="F21 M5 ⭐ RELIGIOSOS",CANÇÃO NOVA HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDV59Lf1yQlWspob_O3qjx7ogzoc-ErBBhr4lhWq-n_76
+#EXTINF:-1 xui-id="4238227" tvg-id="" tvg-name="CAO CORAGEM 24HS" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",CAO CORAGEM 24HS
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDWsyuIHcnBgm5jNd6Wpg3mVCOXOyQ4xyefrCTPV0Y4AS
+#EXTINF:-1 xui-id="4231039" tvg-id="CartoonNetwork.br" tvg-name="CARTOON NETWORK FHD" tvg-logo="https://img.hotice.site/icones_channels/Cartoon_Network_HD.png" group-title="F21 M5 ⭐ INFANTIL",CARTOON NETWORK FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDdfkLBsoM9LgVTtSXndkQSdjGOnyr313IknvxmoXNN6t
+#EXTINF:-1 xui-id="4231040" tvg-id="CartoonNetwork.br" tvg-name="CARTOON NETWORK HD" tvg-logo="https://img.hotice.site/icones_channels/Cartoon_Network_HD.png" group-title="F21 M5 ⭐ INFANTIL",CARTOON NETWORK HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDS1A54TN8vZLHVCGmWdfKR3kyyhMi8v0x30hOUxlGv5J
+#EXTINF:-1 xui-id="4231041" tvg-id="CartoonNetwork.br" tvg-name="CARTOON NETWORK SD" tvg-logo="https://img.hotice.site/icones_channels/Cartoon_Network_HD.png" group-title="F21 M5 ⭐ INFANTIL",CARTOON NETWORK SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDf3tifdO4PLy0SdbNuIokJEYX6EzC2RAuFFC5kPMQrPz
+#EXTINF:-1 xui-id="4231042" tvg-id="Cartoonito.br" tvg-name="CARTOONITO FHD" tvg-logo="https://img.hotice.site/icones_channels/Cartoonito.png" group-title="F21 M5 ⭐ INFANTIL",CARTOONITO FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDZzIViA-Z3HacLtOZ7EiS85S-qPBxFVA0Rc1QqSOXMW7
+#EXTINF:-1 xui-id="4231043" tvg-id="Cartoonito.br" tvg-name="CARTOONITO HD" tvg-logo="https://img.hotice.site/icones_channels/Cartoonito.png" group-title="F21 M5 ⭐ INFANTIL",CARTOONITO HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDTYsEkyDszkpIGsZfjkhHMfWJT1yFzGLLVFoFx-C0WWu
+#EXTINF:-1 xui-id="4238320" tvg-id="" tvg-name="CAVERNA DO DRAGAO 24HRS" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",CAVERNA DO DRAGAO 24HRS
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDTnbYszPtxSU7xBhMOhVAcxYQI-CTnLINnxX4sH24N7i
+#EXTINF:-1 xui-id="4238228" tvg-id="" tvg-name="Caverna do Dragão 24HS" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",Caverna do Dragão 24HS
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDVM0UxYLKQlksBLXLsD-vJKq5e4vgeynd0SXZ7NzdnjX
+#EXTINF:-1 xui-id="4665789" tvg-id="" tvg-name="CAZÉ TV (YOUTUBE)" tvg-logo="https://img.hotice.site/icones_channels/CazeTV.png" group-title="F21 M5 ESPORTES PPV",CAZÉ TV (YOUTUBE)
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDYGHyArJCa84SUtcnrbnVp-dIxdJ_LVEFeySpsg4aRLB
+#EXTINF:-1 xui-id="4665790" tvg-id="" tvg-name="CAZÉ TV 01 FHD" tvg-logo="https://img.hotice.site/icones_channels/CazeTV.png" group-title="F21 M5 ESPORTES PPV",CAZÉ TV 01 FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDS-H2NDsoL1GeixhZ5o551nlT9xUnZoD7H-yIrWFzIfm
+#EXTINF:-1 xui-id="4665791" tvg-id="" tvg-name="CAZÉ TV 01 HD" tvg-logo="https://img.hotice.site/icones_channels/CazeTV.png" group-title="F21 M5 ESPORTES PPV",CAZÉ TV 01 HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDUnul4mvC3Zxp_uwQfd2XOIBQJV9ShPszhxNYdBj3ewk
+#EXTINF:-1 xui-id="4665792" tvg-id="" tvg-name="CAZÉ TV 02 FHD" tvg-logo="https://img.hotice.site/icones_channels/CazeTV.png" group-title="F21 M5 ESPORTES PPV",CAZÉ TV 02 FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDXKoiAYmnlcEDs1DYQM_md03652F8v6PCwGvFpAfSvql
+#EXTINF:-1 xui-id="4665793" tvg-id="" tvg-name="CAZÉ TV 02 HD" tvg-logo="https://img.hotice.site/icones_channels/CazeTV.png" group-title="F21 M5 ESPORTES PPV",CAZÉ TV 02 HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDRNzNZ06vDTDKpBK-UqN3qO2kJF6MV54faZBjEhEvect
+#EXTINF:-1 xui-id="4665794" tvg-id="" tvg-name="CAZÉ TV 03 HD" tvg-logo="https://img.hotice.site/icones_channels/CazeTV.png" group-title="F21 M5 ESPORTES PPV",CAZÉ TV 03 HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDfkEoLAVHl-CySm_1TsIL4NltW5EIhEj0SDxmsfVTSzQ
+#EXTINF:-1 xui-id="4238316" tvg-id="" tvg-name="CENTRAL KIDS 24HRS" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",CENTRAL KIDS 24HRS
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDWOw_2fDERcjRcdNij0-EeEUjE9JMSWelO6fOSN7vls3
+#EXTINF:-1 xui-id="4238229" tvg-id="" tvg-name="Chapolin Colorado 24hs" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",Chapolin Colorado 24hs
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDcbE4isHr0ZohJ1-NAIDxoPgm06V_s8LFxjl5mRfllrh
+#EXTINF:-1 xui-id="4238230" tvg-id="" tvg-name="CHAVES 24HS" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",CHAVES 24HS
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDdU8bzgnA7PDjPAv3TRXh06cTpXa1nuRDGbymV3FvRUl
+#EXTINF:-1 xui-id="4238231" tvg-id="" tvg-name="CHAVES DESENHO 24HS" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",CHAVES DESENHO 24HS
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDT8VM0BSi6f8M1p1IxBtnr2avL33FGBBPFr8HgyL1T6s
+#EXTINF:-1 xui-id="4231053" tvg-id="Cine Sky 1" tvg-name="CINE SKY 01" tvg-logo="https://img.inboxbr.pro/icones_channels/CineSKY.png" group-title="F21 M5 ⭐ CINE SKY",CINE SKY 01
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDX3WVawvnx5ok_JB7RVoAYJyDhZtfWFTGobDxEuyR9lJ
+#EXTINF:-1 xui-id="4231054" tvg-id="Cine Sky 2" tvg-name="CINE SKY 02" tvg-logo="https://img.inboxbr.pro/icones_channels/CineSKY.png" group-title="F21 M5 ⭐ CINE SKY",CINE SKY 02
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDcosTZj5pgeN00Q7MoaLHrA299KVDs9wmYcXnIii8bMf
+#EXTINF:-1 xui-id="4231055" tvg-id="Cine Sky 3" tvg-name="CINE SKY 03" tvg-logo="https://img.inboxbr.pro/icones_channels/CineSKY.png" group-title="F21 M5 ⭐ CINE SKY",CINE SKY 03
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDcXBvkmZrpFa8UnvhYIoS-5IF-oINJX2h8P8bKWOpRO6
+#EXTINF:-1 xui-id="4231056" tvg-id="Cine Sky 4" tvg-name="CINE SKY 04" tvg-logo="https://img.inboxbr.pro/icones_channels/CineSKY.png" group-title="F21 M5 ⭐ CINE SKY",CINE SKY 04
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDYd1baVkleBJeF77OOJtfRrHtKFKh7DuAitlO_ukeDNs
+#EXTINF:-1 xui-id="4231057" tvg-id="Cine Sky 5" tvg-name="CINE SKY 05" tvg-logo="https://img.inboxbr.pro/icones_channels/CineSKY.png" group-title="F21 M5 ⭐ CINE SKY",CINE SKY 05
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDSJi-QWYaVc6Fj865i5XJkdcv6LPVPdRAEdbz4zGyPLZ
+#EXTINF:-1 xui-id="4231063" tvg-id="br#cinemax-1" tvg-name="CINEMAX 4K" tvg-logo="https://img.hotice.site/icones_channels/CineMax_HD.png" group-title="F21 M5 ⭐ 4K",CINEMAX 4K
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDa-G7q2LMIFUqCcY0L6OA_EpVXtkYhwVjOvC4WViCIjS
+#EXTINF:-1 xui-id="4231064" tvg-id="br#cinemax-1" tvg-name="CINEMAX FHD" tvg-logo="https://img.hotice.site/icones_channels/CineMax_HD.png" group-title="F21 M5 ⏩ FILMES E SÉRIES",CINEMAX FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDbJgEwW9OiSffELcWFxPJImCQZM4V4hBf3TdEFQlObBV
+#EXTINF:-1 xui-id="4231065" tvg-id="br#cinemax-1" tvg-name="CINEMAX HD" tvg-logo="https://img.hotice.site/icones_channels/CineMax_HD.png" group-title="F21 M5 ⏩ FILMES E SÉRIES",CINEMAX HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDWcFpbDTs3wA__mdkHSiDqEvQPOnyuxjFTiEEt6STPa3
+#EXTINF:-1 xui-id="4231066" tvg-id="br#cinemax-1" tvg-name="CINEMAX SD" tvg-logo="https://img.hotice.site/icones_channels/CineMax_HD.png" group-title="F21 M5 ⏩ FILMES E SÉRIES",CINEMAX SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDWRjP6JwjS76-Hgc-dQvhCpYIcb4cmBYBKVjrcji6Ndw
+#EXTINF:-1 xui-id="4231067" tvg-id="br#cnn-brasil-1" tvg-name="CNN BRASIL FHD" tvg-logo="https://img.hotice.site/icones_channels/CNN_brasil_HD.png" group-title="F21 M5 ⭐ NOTÍCIAS",CNN BRASIL FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDR5GXFHSQsFyOIty3iaHyucIE6fs29kxMO3iCm-VB3ia
+#EXTINF:-1 xui-id="4231068" tvg-id="br#cnn-brasil-1" tvg-name="CNN BRASIL HD" tvg-logo="https://img.hotice.site/icones_channels/CNN_brasil_HD.png" group-title="F21 M5 ⭐ NOTÍCIAS",CNN BRASIL HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDXsZn1LXIzZqpnU5LIVIhptxpZN46m8Ki-lHPOTzwmeH
+#EXTINF:-1 xui-id="4231069" tvg-id="br#cnn-brasil-1" tvg-name="CNN BRASIL SD" tvg-logo="https://img.hotice.site/icones_channels/CNN_brasil_HD.png" group-title="F21 M5 ⭐ NOTÍCIAS",CNN BRASIL SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDX_X_U72q8bbzTEHwnYkWM8t3PFpHLsjQ4O1kLITApfe
+#EXTINF:-1 xui-id="4231074" tvg-id="Combate.br" tvg-name="COMBATE 4K" tvg-logo="https://img.hotice.site/icones_channels/COMBATE_HD.png" group-title="F21 M5 ⭐ 4K",COMBATE 4K
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDYiUZqr_84GezDPjr5t7QIpaespELZBJXLl3OmadAQzt
+#EXTINF:-1 xui-id="4231075" tvg-id="Combate.br" tvg-name="COMBATE FHD" tvg-logo="https://img.hotice.site/icones_channels/COMBATE_HD.png" group-title="F21 M5 COMBATE UFC",COMBATE FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDZ-6l99o23AJTiweycuHuCBGwvLWxiHh6_2nPJaQGzFP
+#EXTINF:-1 xui-id="4231076" tvg-id="Combate.br" tvg-name="COMBATE HD" tvg-logo="https://img.hotice.site/icones_channels/COMBATE_HD.png" group-title="F21 M5 COMBATE UFC",COMBATE HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDad6Ope9NehwKEzX8sR-ifMId27K2G_5eWKTB1JGlWhr
+#EXTINF:-1 xui-id="4231077" tvg-id="Combate.br" tvg-name="COMBATE SD" tvg-logo="https://img.hotice.site/icones_channels/COMBATE_HD.png" group-title="F21 M5 COMBATE UFC",COMBATE SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDf1gw18ANnV_pYrw0JR1H9H3GgUPwA3fN1Ma2R5GL4Cr
+#EXTINF:-1 xui-id="4231078" tvg-id="br#comedy-central-hd" tvg-name="COMEDY CENTRAL FHD" tvg-logo="https://img.hotice.site/icones_channels/Comedy_Central_HD.png" group-title="F21 M5 ⭐ VARIEDADES",COMEDY CENTRAL FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDV_0EXRWiiLc41GZr1PUr5LSYf31x5Y7ZkWlLBDog6vw
+#EXTINF:-1 xui-id="4231079" tvg-id="br#comedy-central-hd" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://img.hotice.site/icones_channels/Comedy_Central_HD.png" group-title="F21 M5 ⭐ VARIEDADES",COMEDY CENTRAL HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDfn9uWZQkHJ8mwV_6F256cbY5VSIaxf0vUXY7hRNmRKk
+#EXTINF:-1 xui-id="4231080" tvg-id="br#comedy-central-hd" tvg-name="COMEDY CENTRAL SD" tvg-logo="https://img.hotice.site/icones_channels/Comedy_Central_HD.png" group-title="F21 M5 ⭐ VARIEDADES",COMEDY CENTRAL SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDbHiAvYpYUMZj_HVI5hcT9E1OPLDASW2ylBojfzjUj5J
+#EXTINF:-1 xui-id="4238308" tvg-id="" tvg-name="Corrida Maluca" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",Corrida Maluca
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDRCskby7DfiKpDiqBInsaitBZhjn4lKGrYqUvM68XqwY
+#EXTINF:-1 xui-id="4231081" tvg-id="br#curta-hd" tvg-name="CURTA! FHD" tvg-logo="https://img.hotice.site/icones_channels/Curta_HD.png" group-title="F21 M5 ⭐ VARIEDADES",CURTA! FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDVCFp0L25WOO2aZ5W_gFoaAvzqkSTH1tkz4CLashQqsw
+#EXTINF:-1 xui-id="4231082" tvg-id="br#curta-hd" tvg-name="CURTA! HD" tvg-logo="https://img.hotice.site/icones_channels/Curta_HD.png" group-title="F21 M5 ⭐ VARIEDADES",CURTA! HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDWsnRo6z0yZmB2hdpU5srD5HLeMkdvtXWHtfo7bVzCef
+#EXTINF:-1 xui-id="4231083" tvg-id="br#curta-hd" tvg-name="CURTA! SD" tvg-logo="https://img.hotice.site/icones_channels/Curta_HD.png" group-title="F21 M5 ⭐ VARIEDADES",CURTA! SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDWdQV9CyK2fBnUcbo-PRSgU5pMnx_E8y_Px9oOeEOsMe
+#EXTINF:-1 xui-id="4665795" tvg-id="" tvg-name="DAZN 01 BR HD" tvg-logo="https://img.hotice.site/icones_channels/DAZN.png" group-title="F21 M5 ELEVEN-DAZN",DAZN 01 BR HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDYz0XBjLk38sZnvS8P5x2qCH49zCW23vvVCuALilMbPO
+#EXTINF:-1 xui-id="4665796" tvg-id="" tvg-name="DAZN 01 PT HD" tvg-logo="https://img.hotice.site/icones_channels/DAZN.png" group-title="F21 M5 ELEVEN-DAZN",DAZN 01 PT HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDXL0AcpFLxLhx_lkUluoT1EfM0RFit6zIDl0XXHDfJgw
+#EXTINF:-1 xui-id="4665797" tvg-id="" tvg-name="DAZN 02 BR HD" tvg-logo="https://img.hotice.site/icones_channels/DAZN_2.png" group-title="F21 M5 ELEVEN-DAZN",DAZN 02 BR HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDTb8B_Zfw0NsNnaoGPqylYmUjEgV10iXdyjh12nTucff
+#EXTINF:-1 xui-id="4665799" tvg-id="" tvg-name="DAZN 02 PT HD" tvg-logo="https://img.hotice.site/icones_channels/DAZN_2.png" group-title="F21 M5 ELEVEN-DAZN",DAZN 02 PT HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDTtPoLihfxwR00vPKjjwL2FlWvYXCMwoCJBNRbuwh8Nk
+#EXTINF:-1 xui-id="4665800" tvg-id="" tvg-name="DAZN 03 BR HD" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2021/03/dazn3.png?resize=440%2C264&ssl=1" group-title="F21 M5 ELEVEN-DAZN",DAZN 03 BR HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDdzJZBoJMWzFLR6tmOuwsTi84CdjuOLxY3WHPIjyZMeH
+#EXTINF:-1 xui-id="4665801" tvg-id="" tvg-name="DAZN 03 PT HD" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2021/03/dazn3.png?resize=440%2C264&ssl=1" group-title="F21 M5 ELEVEN-DAZN",DAZN 03 PT HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDb78yXyJ7cZzlrTXO_f4EhOqyfpvLVn-xFqCTU9FXEWr
+#EXTINF:-1 xui-id="4665802" tvg-id="" tvg-name="DAZN 04 BR HD" tvg-logo="https://img.hotice.site/icones_channels/DAZN_4.png" group-title="F21 M5 ELEVEN-DAZN",DAZN 04 BR HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDSixyauvUkYDNAwo2ijH47rMxnsNoJFLuHQQaxE7a71O
+#EXTINF:-1 xui-id="4665803" tvg-id="" tvg-name="DAZN 04 PT HD" tvg-logo="https://img.hotice.site/icones_channels/DAZN_4.png" group-title="F21 M5 ELEVEN-DAZN",DAZN 04 PT HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDUoOvL_0LH7IyxtuaoOKtpNgElwfxR94RCegA8-GxzZM
+#EXTINF:-1 xui-id="4238232" tvg-id="" tvg-name="DENIS O PIMENTINHA  24hrs" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",DENIS O PIMENTINHA  24hrs
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDSkTTuuq370Df7cSR6kYXcEIaA15BUbl9OAtVuaSLkQ0
+#EXTINF:-1 xui-id="4238233" tvg-id="" tvg-name="Desenhos Biblicos 24hs" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",Desenhos Biblicos 24hs
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDRcATQolStHDZCFK4uLZZaYAGTqivJQBEEEW_dbatGCH
+#EXTINF:-1 xui-id="4238234" tvg-id="" tvg-name="DESENHOS DISNEY 24HRS" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",DESENHOS DISNEY 24HRS
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDeqoQoPhu_WcumhASXGsmPnf8jCGnxBen2BGZVYHMX-_
+#EXTINF:-1 xui-id="4238235" tvg-id="" tvg-name="DIGIMON 24hrs" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",DIGIMON 24hrs
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDWuBG6CQGweyitjHWgysifSTN98mhP7237HHinkRpI1h
+#EXTINF:-1 xui-id="4231092" tvg-id="DiscoveryChannel.br" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="https://img.hotice.site/icones_channels/DISCOVERY_HD.png" group-title="F21 M5 ⭐ DOCUMENTÁRIOS",DISCOVERY CHANNEL FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDQVgtGqv5fbd9cSGvMDQnp70IuEZ7EmVmex9srm6O7y8
+#EXTINF:-1 xui-id="4231093" tvg-id="DiscoveryChannel.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://img.hotice.site/icones_channels/DISCOVERY_HD.png" group-title="F21 M5 ⭐ DOCUMENTÁRIOS",DISCOVERY CHANNEL HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDdj4zyMdsilGIMaLgAQZgMqlK6WM9YFhC653Y8xb2cVX
+#EXTINF:-1 xui-id="4231094" tvg-id="DiscoveryChannel.br" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="https://img.hotice.site/icones_channels/DISCOVERY_HD.png" group-title="F21 M5 ⭐ DOCUMENTÁRIOS",DISCOVERY CHANNEL SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDTcPmW4MhILY4GE_qJtZXIfZF0YdtMKM3vLVi8Kkv2KK
+#EXTINF:-1 xui-id="4231095" tvg-id="br#discovery-hd" tvg-name="DISCOVERY H&H" tvg-logo="https://img.hotice.site/icones_channels/DISCOVERY_H&H_HD.png" group-title="F21 M5 ⭐ 4K",DISCOVERY H&H
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDa5bkcViQOic714Lv3d1NP1r3JbSBWfyFHGVajnss9_z
+#EXTINF:-1 xui-id="4231096" tvg-id="br#discovery-hd" tvg-name="DISCOVERY H&H 4K" tvg-logo="https://img.hotice.site/icones_channels/DISCOVERY_H&H_HD.png" group-title="F21 M5 ⭐ 4K",DISCOVERY H&H 4K
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDfxEkH4eqhMuysSo_Pjo7V0EEUTkkMF0AklcgELJS7ja
+#EXTINF:-1 xui-id="4231097" tvg-id="br#discovery-hd" tvg-name="DISCOVERY H&H FHD" tvg-logo="https://img.hotice.site/icones_channels/DISCOVERY_H&H_HD.png" group-title="F21 M5 ⭐ DOCUMENTÁRIOS",DISCOVERY H&H FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDR95yxRP-U67QVGxNrVqRcPSxMbBfY6RXLzJaLlzfb9K
+#EXTINF:-1 xui-id="4231098" tvg-id="br#discovery-hd" tvg-name="DISCOVERY H&H HD" tvg-logo="https://img.hotice.site/icones_channels/DISCOVERY_H&H_HD.png" group-title="F21 M5 ⭐ DOCUMENTÁRIOS",DISCOVERY H&H HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDaa8tIAh3mi3fcBGvsuITiTL3I6cQFTrVeyQvHLhTos9
+#EXTINF:-1 xui-id="4231099" tvg-id="br#discovery-hd" tvg-name="DISCOVERY H&H SD" tvg-logo="https://img.hotice.site/icones_channels/DISCOVERY_H&H_HD.png" group-title="F21 M5 ⭐ DOCUMENTÁRIOS",DISCOVERY H&H SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDZ_kOKkQA0SrPcbUyKcKTcykfOWvmdFJubAWR-bq89Jz
+#EXTINF:-1 xui-id="4231100" tvg-id="br#investigacao-discovery-hd" tvg-name="DISCOVERY INVESTIGAÇAO 4K" tvg-logo="https://img.hotice.site/icones_channels/ID_HD.png" group-title="F21 M5 ⭐ 4K",DISCOVERY INVESTIGAÇAO 4K
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDaYkluN01DCs4b_NpCrTCrU7C0uh3KsRCYmBxVq75tkU
+#EXTINF:-1 xui-id="4231101" tvg-id="Investigacao Discovery SD" tvg-name="DISCOVERY INVESTIGAÇAO FHD" tvg-logo="https://img.hotice.site/icones_channels/ID_HD.png" group-title="F21 M5 ⭐ DOCUMENTÁRIOS",DISCOVERY INVESTIGAÇAO FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDWB9gwmPVQZnqSzhLFXUSXJigTW4TqMoLVOG-9KQ77Fp
+#EXTINF:-1 xui-id="4231102" tvg-id="InvestigationDiscovery.br" tvg-name="DISCOVERY INVESTIGAÇAO HD" tvg-logo="https://img.hotice.site/icones_channels/ID_HD.png" group-title="F21 M5 ⭐ DOCUMENTÁRIOS",DISCOVERY INVESTIGAÇAO HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDYrBtM21VPUpRNXl6nnK91lqIXmpDBAzYscIS1kVpUIK
+#EXTINF:-1 xui-id="4231103" tvg-id="InvestigationDiscovery.br" tvg-name="DISCOVERY INVESTIGAÇAO SD" tvg-logo="https://img.hotice.site/icones_channels/ID_HD.png" group-title="F21 M5 ⭐ DOCUMENTÁRIOS",DISCOVERY INVESTIGAÇAO SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDXTanf1i19tHH7A4cX--miRFpvob7Oz7pqt23WnCPD1p
+#EXTINF:-1 xui-id="4231104" tvg-id="br#discovery-kids-hd" tvg-name="DISCOVERY KIDS FHD" tvg-logo="https://img.hotice.site/icones_channels/DISCOVERY_KIDS_HD.png" group-title="F21 M5 ⭐ INFANTIL",DISCOVERY KIDS FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDVA_TVIraR31URcYmhsYj4_4by517pgEhWqkR7uyeMWO
+#EXTINF:-1 xui-id="4231105" tvg-id="br#discovery-kids-hd" tvg-name="DISCOVERY KIDS HD" tvg-logo="https://img.hotice.site/icones_channels/DISCOVERY_KIDS_HD.png" group-title="F21 M5 ⭐ INFANTIL",DISCOVERY KIDS HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDe4edqYW5axG7W4Q9qY8H2O8ZiYC6AwZBYr7RVkBOdIj
+#EXTINF:-1 xui-id="4231106" tvg-id="br#discovery-kids-hd" tvg-name="DISCOVERY KIDS SD" tvg-logo="https://img.hotice.site/icones_channels/DISCOVERY_KIDS_HD.png" group-title="F21 M5 ⭐ INFANTIL",DISCOVERY KIDS SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDR8eQLfdI0yITQuTb7gm-Lr980ZKK5T_m6gFcLUGLS_A
+#EXTINF:-1 xui-id="4231107" tvg-id="br#discovery-science-hd" tvg-name="DISCOVERY SCIENCE 4K" tvg-logo="https://img.hotice.site/icones_channels/DISCOVERY_SCIENCE.png" group-title="F21 M5 ⭐ 4K",DISCOVERY SCIENCE 4K
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDUOVLO9_laxaQtSmRmjVFN5W9fMWxyznUDf88psCI81f
+#EXTINF:-1 xui-id="4231108" tvg-id="br#discovery-science-hd" tvg-name="DISCOVERY SCIENCE FHD" tvg-logo="https://img.hotice.site/icones_channels/DISCOVERY_SCIENCE.png" group-title="F21 M5 ⭐ DOCUMENTÁRIOS",DISCOVERY SCIENCE FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDSOl_GUBcPm-dX8vGDci9ZKoMlEeYH7LYJYoHZphviB9
+#EXTINF:-1 xui-id="4231109" tvg-id="br#discovery-science-hd" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="https://img.hotice.site/icones_channels/DISCOVERY_SCIENCE.png" group-title="F21 M5 ⭐ DOCUMENTÁRIOS",DISCOVERY SCIENCE HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDZcGCmGkxDIswxTvAuM5qC_eN7f9HudNnYGHKCYiss3g
+#EXTINF:-1 xui-id="4231110" tvg-id="br#discovery-science-hd" tvg-name="DISCOVERY SCIENCE SD" tvg-logo="https://img.hotice.site/icones_channels/DISCOVERY_SCIENCE.png" group-title="F21 M5 ⭐ DOCUMENTÁRIOS",DISCOVERY SCIENCE SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDTLiI_pZ8cy6ks7E4OWgRzU5yVnqb7D1PEUubox-nCkK
+#EXTINF:-1 xui-id="4231111" tvg-id="DiscoveryTheater.br" tvg-name="DISCOVERY THEATER FHD" tvg-logo="https://img.hotice.site/icones_channels/DISCOVERY_THEATER_HD.png" group-title="F21 M5 ⭐ DOCUMENTÁRIOS",DISCOVERY THEATER FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDRDRUIY3hhYEDpxQx-jyxQtjKGcAyWw9K8MZQdb-c03T
+#EXTINF:-1 xui-id="4231112" tvg-id="DiscoveryTheater.br" tvg-name="DISCOVERY THEATER HD" tvg-logo="https://img.hotice.site/icones_channels/DISCOVERY_THEATER_HD.png" group-title="F21 M5 ⭐ DOCUMENTÁRIOS",DISCOVERY THEATER HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDVLNS73KpPLdXHZBu-mh46OYCvZAeYphoosXdChQQgA_
+#EXTINF:-1 xui-id="4231113" tvg-id="DiscoveryTheater.br" tvg-name="DISCOVERY THEATER SD" tvg-logo="https://img.hotice.site/icones_channels/DISCOVERY_THEATER_HD.png" group-title="F21 M5 ⭐ DOCUMENTÁRIOS",DISCOVERY THEATER SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDRyRcruRhpfFUxHq7RilJwlwj9G9BJNsrs0cIxBJPStv
+#EXTINF:-1 xui-id="4231114" tvg-id="br#discovery-turbo-hd" tvg-name="DISCOVERY TURBO 4K" tvg-logo="https://img.hotice.site/icones_channels/DISCOVERY_TURBO_HD.png" group-title="F21 M5 ⭐ 4K",DISCOVERY TURBO 4K
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDS_dWCc3kjmOoKcuLnGfS6C0c5TdMtRjA1QGZLF0oRO2
+#EXTINF:-1 xui-id="4231115" tvg-id="br#discovery-turbo-hd" tvg-name="DISCOVERY TURBO FHD" tvg-logo="https://img.hotice.site/icones_channels/DISCOVERY_TURBO_HD.png" group-title="F21 M5 ⭐ DOCUMENTÁRIOS",DISCOVERY TURBO FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDT2Y3y05Nqw4jT_K2NrBVe6L3GGUSJZ7RxVc5rslhljU
+#EXTINF:-1 xui-id="4231116" tvg-id="br#discovery-turbo-hd" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://img.hotice.site/icones_channels/DISCOVERY_TURBO_HD.png" group-title="F21 M5 ⭐ DOCUMENTÁRIOS",DISCOVERY TURBO HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDe5Tpo8VZD5bBT_aF78WeLI34Xdqe4Z44-SmN7g9El0G
+#EXTINF:-1 xui-id="4231117" tvg-id="br#discovery-turbo-hd" tvg-name="DISCOVERY TURBO SD" tvg-logo="https://img.hotice.site/icones_channels/DISCOVERY_TURBO_HD.png" group-title="F21 M5 ⭐ DOCUMENTÁRIOS",DISCOVERY TURBO SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDWQasJm6kxmH8vSk15euC3KBIGgGMrGDMLCUCpNSTDDM
+#EXTINF:-1 xui-id="4231118" tvg-id="DiscoveryWorld.br" tvg-name="DISCOVERY WORLD 4K" tvg-logo="https://img.hotice.site/icones_channels/DISCOVERY_WORLD.png" group-title="F21 M5 ⭐ 4K",DISCOVERY WORLD 4K
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDV2wKiLY12kE0uYW7gvXZcDe3ptMEyyXchgQCR0iWsnE
+#EXTINF:-1 xui-id="4231119" tvg-id="DiscoveryWorld.br" tvg-name="DISCOVERY WORLD FHD" tvg-logo="https://img.hotice.site/icones_channels/DISCOVERY_WORLD.png" group-title="F21 M5 ⭐ DOCUMENTÁRIOS",DISCOVERY WORLD FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDVoh2Cp_D-boEBDY6vA2okzuku82Zx8zOmdmEnTNPWaM
+#EXTINF:-1 xui-id="4231120" tvg-id="DiscoveryWorld.br" tvg-name="DISCOVERY WORLD HD" tvg-logo="https://img.hotice.site/icones_channels/DISCOVERY_WORLD.png" group-title="F21 M5 ⭐ DOCUMENTÁRIOS",DISCOVERY WORLD HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDa98mjjdNBItJWKcS1iHIGTq8NmUieKrroWe0TkWMUHg
+#EXTINF:-1 xui-id="4231121" tvg-id="DiscoveryWorld.br" tvg-name="DISCOVERY WORLD SD" tvg-logo="https://img.hotice.site/icones_channels/DISCOVERY_WORLD.png" group-title="F21 M5 ⭐ DOCUMENTÁRIOS",DISCOVERY WORLD SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDYk7kKDK0U70POlUHOU_3e6-txc5oWQigHpoCiNkfKz6
+#EXTINF:-1 xui-id="4665804" tvg-id="" tvg-name="DISNEY+ 01 HD" tvg-logo="https://img.hotice.site/icones_channels/Disney+_HD.png" group-title="F21 M5 DISNEY+",DISNEY+ 01 HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDSvGZx6IeBBdTHvCe-xA7MkGcb6XM2Fudj8vJR8l5ZOd
+#EXTINF:-1 xui-id="4665805" tvg-id="" tvg-name="DISNEY+ 02 HD" tvg-logo="https://img.hotice.site/icones_channels/Disney+_HD.png" group-title="F21 M5 DISNEY+",DISNEY+ 02 HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDStnM2p91MDARTUmYYLHbukiza5QHslrZnqW1FF1_n80
+#EXTINF:-1 xui-id="4665806" tvg-id="" tvg-name="DISNEY+ 03 HD" tvg-logo="https://img.hotice.site/icones_channels/Disney+_HD.png" group-title="F21 M5 DISNEY+",DISNEY+ 03 HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDQDlRSrrTzuP8OwtQQBnUvTH3utuouvXlm2lgGoHUNtl
+#EXTINF:-1 xui-id="4665807" tvg-id="" tvg-name="DISNEY+ 04 HD" tvg-logo="https://img.hotice.site/icones_channels/Disney+_HD.png" group-title="F21 M5 DISNEY+",DISNEY+ 04 HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDQ7GnqWYeeWWGlTgm-gWUfdixqgBIKe4lpIzI2l4yn5z
+#EXTINF:-1 xui-id="4665808" tvg-id="" tvg-name="DISNEY+ 05 HD" tvg-logo="https://img.hotice.site/icones_channels/Disney+_HD.png" group-title="F21 M5 DISNEY+",DISNEY+ 05 HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDcqtJfsvZrw0wJL3H86Y69sN8MG3crau4Bl30twYkatO
+#EXTINF:-1 xui-id="4665809" tvg-id="" tvg-name="DISNEY+ 06 HD" tvg-logo="https://img.hotice.site/icones_channels/Disney+_HD.png" group-title="F21 M5 DISNEY+",DISNEY+ 06 HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDWX61K0cChEChSI_xMI105nGicuZ8IL7tsW7TQfeF8H9
+#EXTINF:-1 xui-id="4665810" tvg-id="" tvg-name="DISNEY+ 07 HD" tvg-logo="https://img.hotice.site/icones_channels/Disney+_HD.png" group-title="F21 M5 DISNEY+",DISNEY+ 07 HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDdrFdQVyFlrMRl3ULL2f8jSGLN9UVGfbtG-8cNpFbfhr
+#EXTINF:-1 xui-id="4665811" tvg-id="" tvg-name="DISNEY+ 08 HD" tvg-logo="https://img.hotice.site/icones_channels/Disney+_HD.png" group-title="F21 M5 DISNEY+",DISNEY+ 08 HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDbIrYDoE2ZmxJHK8iNVxyClkNsEUT2ZnP_3u9bsgZYC1
+#EXTINF:-1 xui-id="4665812" tvg-id="" tvg-name="DISNEY+ 09 HD" tvg-logo="https://img.hotice.site/icones_channels/Disney+_HD.png" group-title="F21 M5 DISNEY+",DISNEY+ 09 HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDZiefwZrtR9aTnZhqPW32NSYzHJhvV2TzPgJpZfgzi48
+#EXTINF:-1 xui-id="4665813" tvg-id="" tvg-name="DISNEY+ 10 HD" tvg-logo="https://img.hotice.site/icones_channels/Disney+_HD.png" group-title="F21 M5 DISNEY+",DISNEY+ 10 HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDbt9Er-wW1CjIN4TXWY8VW9xke8s1QSlMHm23IicuLu-
+#EXTINF:-1 xui-id="4238236" tvg-id="" tvg-name="Dois Homens e Meio 24HS" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",Dois Homens e Meio 24HS
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDUYs2mF22UkPFvpoQRVOSw_IsgppezmPYyMEumcAS8oT
+#EXTINF:-1 xui-id="4238238" tvg-id="" tvg-name="DRAGON BALL 24HS" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",DRAGON BALL 24HS
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDS1kcJgwZJQqsqnAu3FBql39bfAkCSz7zHFuV7phDI1A
+#EXTINF:-1 xui-id="4238239" tvg-id="" tvg-name="DRAGON BALL SUPER 24HS" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",DRAGON BALL SUPER 24HS
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDYvrIT4jG6z0fD18tT2joG5Q82t2xg9pDMQwdmByBEgR
+#EXTINF:-1 xui-id="4238240" tvg-id="" tvg-name="DRAGON BALL Z 24HS" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",DRAGON BALL Z 24HS
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDRZbpbOtkTJCQRU9LJyuxh7vk-pH0x0asOmhGY1UbbIH
+#EXTINF:-1 xui-id="4231132" tvg-id="br#e-hd" tvg-name="E! FHD" tvg-logo="https://img.hotice.site/icones_channels/E!.png" group-title="F21 M5 ⭐ VARIEDADES",E! FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDa4WYGAyTPt_Mx3HHlbKvOKRHYPWC7kxbbOhPcvyJKht
+#EXTINF:-1 xui-id="4231133" tvg-id="br#e-hd" tvg-name="E! HD" tvg-logo="https://img.hotice.site/icones_channels/E!.png" group-title="F21 M5 ⭐ VARIEDADES",E! HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDaoXUoBXziA0MVx3Q7IPfPlFRY7qk9cjK0GbO7XjgA2u
+#EXTINF:-1 xui-id="4231134" tvg-id="br#e-hd" tvg-name="E! SD" tvg-logo="https://img.hotice.site/icones_channels/E!.png" group-title="F21 M5 ⭐ VARIEDADES",E! SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDVPQ5xLAr3Ec0tSuLeKAFF3Aiaq0_8xUO-AkubV9JnTh
+#EXTINF:-1 xui-id="4665814" tvg-id="" tvg-name="ELEVEN SPORTS 01" tvg-logo="https://img.hotice.site/icones_channels/ELEVEN_SPORTS_1_PT.png" group-title="F21 M5 ELEVEN-DAZN",ELEVEN SPORTS 01
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDS2KHzRfPX_qW7ZO_Zywn_0ewbXkED00LoFBP7Em-xFT
+#EXTINF:-1 xui-id="4665815" tvg-id="" tvg-name="ELEVEN SPORTS 02" tvg-logo="https://img.hotice.site/icones_channels/ELEVEN_SPORTS_2_PT.png" group-title="F21 M5 ELEVEN-DAZN",ELEVEN SPORTS 02
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDZzlE2BGwj0YmaE3Cirzbe9-n2fEFS83KI2K7LE3ZJ6W
+#EXTINF:-1 xui-id="4665816" tvg-id="" tvg-name="ELEVEN SPORTS 03" tvg-logo="https://img.hotice.site/icones_channels/ELEVEN_SPORTS_3_PT.png" group-title="F21 M5 ELEVEN-DAZN",ELEVEN SPORTS 03
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDevPsrw4CUS0KwtODh6OPw3jijlntW8aiHNd10OpOTiQ
+#EXTINF:-1 xui-id="4665817" tvg-id="" tvg-name="ELEVEN SPORTS 04" tvg-logo="https://img.hotice.site/icones_channels/ELEVEN_SPORTS_4_PT.png" group-title="F21 M5 ELEVEN-DAZN",ELEVEN SPORTS 04
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDT9EiY9gVtJEtyWGNj0wyTU9nz6gzQDryFytm7CWyAn-
+#EXTINF:-1 xui-id="4665818" tvg-id="" tvg-name="ELEVEN SPORTS 05" tvg-logo="https://img.hotice.site/icones_channels/ELEVEN_SPORTS_5_PT.png" group-title="F21 M5 ELEVEN-DAZN",ELEVEN SPORTS 05
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDQeYwZ07Ord6W2kXM5E83PPcnVzCOvM6-u3QjRQNXkcG
+#EXTINF:-1 xui-id="4660165" tvg-id="" tvg-name="EPTV Sul de Minas HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",EPTV Sul de Minas HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDZcMCgEtCJCiX_K1fYOQD5G7jDMTxFvcV5UjCCU-qoRY
+#EXTINF:-1 xui-id="4660166" tvg-id="" tvg-name="EPTV Sul de Minas SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",EPTV Sul de Minas SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDZWabaMK18fvT7OOXq6sIDmt9UfOZsqTxzzB5aHy_lNr
+#EXTINF:-1 xui-id="4231140" tvg-id="br#espn-hd" tvg-name="ESPN 01 4K" tvg-logo="https://img.hotice.site/icones_channels/ESPN_HD.png" group-title="F21 M5 ⭐ 4K",ESPN 01 4K
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDRdcKsqU90tsCFaTi2qBPtfqmIZRFh-GdSF7BFPGGrmo
+#EXTINF:-1 xui-id="4665819" tvg-id="br#espn-hd" tvg-name="ESPN 01 FHD" tvg-logo="https://img.hotice.site/icones_channels/ESPN_HD.png" group-title="F21 M5 ESPN",ESPN 01 FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDfLgerz_SDIqTB34C4gNlD2yFcpbsQ22oMAqYtuu3B72
+#EXTINF:-1 xui-id="4665820" tvg-id="br#espn-hd" tvg-name="ESPN 01 HD" tvg-logo="https://img.hotice.site/icones_channels/ESPN_HD.png" group-title="F21 M5 ESPN",ESPN 01 HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDXXnBYAG7-p3t1pmVZpvIYVd9IwUlEWGpxpRoERbAu4T
+#EXTINF:-1 xui-id="4665821" tvg-id="br#espn-hd" tvg-name="ESPN 01 SD" tvg-logo="https://img.hotice.site/icones_channels/ESPN_HD.png" group-title="F21 M5 ESPN",ESPN 01 SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDdkF_9nTcW0WNrtfohFJaE_G7WYTDFhWpWMvSsJK1PkX
+#EXTINF:-1 xui-id="4231144" tvg-id="ESPN2.br" tvg-name="ESPN 02 4K" tvg-logo="https://img.hotice.site/icones_channels/ESPN_2_HD.png" group-title="F21 M5 ⭐ 4K",ESPN 02 4K
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDWW6uq2lmbuwBA5SV-Gtwjo3D5GMxuvZIgCHC5voELUo
+#EXTINF:-1 xui-id="4665822" tvg-id="ESPN2.br" tvg-name="ESPN 02 FHD" tvg-logo="https://img.hotice.site/icones_channels/ESPN_2_HD.png" group-title="F21 M5 ESPN",ESPN 02 FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDUw-k9gXsMAMaMcvMINVPQGeFBLy-iGaGcJMnhoqoLky
+#EXTINF:-1 xui-id="4665823" tvg-id="ESPN2.br" tvg-name="ESPN 02 HD" tvg-logo="https://img.hotice.site/icones_channels/ESPN_2_HD.png" group-title="F21 M5 ESPN",ESPN 02 HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDTYtrluwbk03LKt9l3_pcbBUUoBT7pMiFIAqS1C0gWnZ
+#EXTINF:-1 xui-id="4665824" tvg-id="ESPN2.br" tvg-name="ESPN 02 SD" tvg-logo="https://img.hotice.site/icones_channels/ESPN_2_HD.png" group-title="F21 M5 ESPN",ESPN 02 SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDZ4aaTPJuSPbOGy73SpSQg2zRYOcfJOZKpB7ZsCYIytw
+#EXTINF:-1 xui-id="4231148" tvg-id="ESPN3.br" tvg-name="ESPN 03 4K" tvg-logo="https://img.hotice.site/icones_channels/ESPN_3_HD.png" group-title="F21 M5 ⭐ 4K",ESPN 03 4K
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDUf9IX8WlPGsU7nGB7kfaTSTVuOCzSIMjFVQD9Qx6QYB
+#EXTINF:-1 xui-id="4665825" tvg-id="ESPN3.br" tvg-name="ESPN 03 FHD" tvg-logo="https://img.hotice.site/icones_channels/ESPN_3_HD.png" group-title="F21 M5 ESPN",ESPN 03 FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDTbNzw-6Hq2k464M09iLgCyrL0oy8srPQC3KPaf5G3uS
+#EXTINF:-1 xui-id="4665826" tvg-id="ESPN3.br" tvg-name="ESPN 03 HD" tvg-logo="https://img.hotice.site/icones_channels/ESPN_3_HD.png" group-title="F21 M5 ESPN",ESPN 03 HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDSA8fRMMbsZI0mfd777eNv48LRl0cGn1I9cZnwmqOWYU
+#EXTINF:-1 xui-id="4665827" tvg-id="ESPN3.br" tvg-name="ESPN 03 SD" tvg-logo="https://img.hotice.site/icones_channels/ESPN_3_HD.png" group-title="F21 M5 ESPN",ESPN 03 SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDcTQP4SfyKhSWjVzfIfXMQGTi5mv1GA7hBUiJNsZC29T
+#EXTINF:-1 xui-id="4231153" tvg-id="ESPN4.br" tvg-name="ESPN 04 4K" tvg-logo="https://img.hotice.site/icones_channels/ESPN_4_HD.png" group-title="F21 M5 ⭐ 4K",ESPN 04 4K
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDaUgzl022CdOHYY_Bj0R8GLL945aEGyqSkE_JKxbZ3XO
+#EXTINF:-1 xui-id="4665828" tvg-id="ESPN4.br" tvg-name="ESPN 04 FHD" tvg-logo="https://img.hotice.site/icones_channels/ESPN_4_HD.png" group-title="F21 M5 ESPN",ESPN 04 FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDQBJeCnO08omLTceNyWARcE93p509RgeVfOkfinI9L7D
+#EXTINF:-1 xui-id="4665829" tvg-id="ESPN4.br" tvg-name="ESPN 04 HD" tvg-logo="https://img.hotice.site/icones_channels/ESPN_4_HD.png" group-title="F21 M5 ESPN",ESPN 04 HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDQvtXa09avUNO8YSl3-FdQIGceNJQSbLey2v-XZsSj2A
+#EXTINF:-1 xui-id="4665830" tvg-id="ESPN4.br" tvg-name="ESPN 04 SD" tvg-logo="https://img.hotice.site/icones_channels/ESPN_4_HD.png" group-title="F21 M5 ESPN",ESPN 04 SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDU4ex5RAIOwORVJlyZp54eS0v1gP9fywqZ9icdYB2mCI
+#EXTINF:-1 xui-id="4231157" tvg-id="ESPN5.br" tvg-name="ESPN 05 4K" tvg-logo="https://img.hotice.site/icones_channels/ESPN_5_HD.png" group-title="F21 M5 ⭐ 4K",ESPN 05 4K
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDZEGxp53P0X65vwZ-qALmwot0Ezn-n2JT6Zn9brfTrsf
+#EXTINF:-1 xui-id="4665831" tvg-id="ESPN5.br" tvg-name="ESPN 05 FHD" tvg-logo="https://img.hotice.site/icones_channels/ESPN_5_HD.png" group-title="F21 M5 ESPN",ESPN 05 FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDYxCWK074RyNIbDx4XE5RAeyueG9056roRdGJkcT_t6D
+#EXTINF:-1 xui-id="4665832" tvg-id="ESPN5.br" tvg-name="ESPN 05 HD" tvg-logo="https://img.hotice.site/icones_channels/ESPN_5_HD.png" group-title="F21 M5 ESPN",ESPN 05 HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDYIuaIO2ILtm6xMak_-4kAhROCDW2LQWhJKmzHh9Pa4E
+#EXTINF:-1 xui-id="4665833" tvg-id="ESPN5.br" tvg-name="ESPN 05 SD" tvg-logo="https://img.hotice.site/icones_channels/ESPN_5_HD.png" group-title="F21 M5 ESPN",ESPN 05 SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDYqdvvNIbVcZDQt1SwRDYXFNg90hq7o9yWboKSJyb9Ij
+#EXTINF:-1 xui-id="4231161" tvg-id="ESPN6.br" tvg-name="ESPN 06 4K" tvg-logo="https://img.hotice.site/icones_channels/ESPN_6_HD.png" group-title="F21 M5 ⭐ 4K",ESPN 06 4K
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDbDoEfh2NSHAI9n-2KyNyBHwgFgUjErUWbPqtb10hy80
+#EXTINF:-1 xui-id="4665834" tvg-id="ESPN6.br" tvg-name="ESPN 06 FHD" tvg-logo="https://img.hotice.site/icones_channels/ESPN_6_HD.png" group-title="F21 M5 ESPN",ESPN 06 FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDTa793zWTjoYwpijWlkaKyVBTgxqbXd8-HmYjHz3BzFg
+#EXTINF:-1 xui-id="4665835" tvg-id="ESPN6.br" tvg-name="ESPN 06 HD" tvg-logo="https://img.hotice.site/icones_channels/ESPN_6_HD.png" group-title="F21 M5 ESPN",ESPN 06 HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDWk4p-OxlMp-tAKYYZh8Mw-Ow-roH82z0dln8s6vq2MM
+#EXTINF:-1 xui-id="4665836" tvg-id="ESPN6.br" tvg-name="ESPN 06 SD" tvg-logo="https://img.hotice.site/icones_channels/ESPN_6_HD.png" group-title="F21 M5 ESPN",ESPN 06 SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDVaYh9bU7aIBJnvazhmi-JHpof2O9UWIJr6DcFcM-pN_
+#EXTINF:-1 xui-id="4238241" tvg-id="" tvg-name="Eu a Patroa e as Crianças 24hs" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",Eu a Patroa e as Crianças 24hs
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDbOG2mJiDGNNYVGc4IIaKLMEA5lSO4Rr_Kzj0gF4qeLl
+#EXTINF:-1 xui-id="4231165" tvg-id="TV Evangelizar SD" tvg-name="EVANGELIZAR FHD" tvg-logo="https://img.hotice.site/icones_channels/TV_EVANGELIZAR.png" group-title="F21 M5 ⭐ RELIGIOSOS",EVANGELIZAR FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDQEIrQZ-kpU28gRqz7SShhXTQ9qJe_m9t0Nqpx3Ar4DQ
+#EXTINF:-1 xui-id="4231166" tvg-id="TV Evangelizar SD" tvg-name="EVANGELIZAR HD" tvg-logo="https://img.hotice.site/icones_channels/TV_EVANGELIZAR.png" group-title="F21 M5 ⭐ RELIGIOSOS",EVANGELIZAR HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDZPWT36LcSmZe7fmzw2F6Qnsg4kwOaelwpPfihCNPvzm
+#EXTINF:-1 xui-id="4231167" tvg-id="FashionTV.br" tvg-name="FASHION TV FHD" tvg-logo="https://img.hotice.site/icones_channels/Fashion_TV.png" group-title="F21 M5 ⭐ VARIEDADES",FASHION TV FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDfHkbWaTE_kk6p4YPva1oKbI0NrhkDHId9erRl2cybGO
+#EXTINF:-1 xui-id="4231168" tvg-id="FashionTV.br" tvg-name="FASHION TV HD" tvg-logo="https://img.hotice.site/icones_channels/Fashion_TV.png" group-title="F21 M5 ⭐ VARIEDADES",FASHION TV HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDVxl4l45_wWSpJS5UBjXXRt514yu_Zl_VKP-qJGHGVuq
+#EXTINF:-1 xui-id="4231169" tvg-id="FashionTV.br" tvg-name="FASHION TV SD" tvg-logo="https://img.hotice.site/icones_channels/Fashion_TV.png" group-title="F21 M5 ⭐ VARIEDADES",FASHION TV SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDRqqvi-tQGKwjDnaQaqhXZ9pDDXwh0JIFEcZTSM_QQMb
+#EXTINF:-1 xui-id="4231171" tvg-id="br#fish-tv-hd" tvg-name="FISH TV 4K" tvg-logo="https://img.hotice.site/icones_channels/FISH_TV.png" group-title="F21 M5 ⭐ 4K",FISH TV 4K
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDd0u79ZyaU4LVjeItSbprGsql3EeZA-dqdp5BCAFaf6U
+#EXTINF:-1 xui-id="4231172" tvg-id="br#fish-tv-hd" tvg-name="FISH TV FHD" tvg-logo="https://img.hotice.site/icones_channels/FISH_TV.png" group-title="F21 M5 ⭐ PESCA ESPORTIVA",FISH TV FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDTIg2xExRx9ZGHW17yGDpywsV8XbTlBLlM7U1eB9a0UW
+#EXTINF:-1 xui-id="4231173" tvg-id="br#fish-tv-hd" tvg-name="FISH TV HD" tvg-logo="https://img.hotice.site/icones_channels/FISH_TV.png" group-title="F21 M5 ⭐ PESCA ESPORTIVA",FISH TV HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDW1dgJ1bYDybbkkYqvfBkZFzdhyusJ599MC0wl0RfUQA
+#EXTINF:-1 xui-id="4231174" tvg-id="br#fish-tv-hd" tvg-name="FISH TV SD" tvg-logo="https://img.hotice.site/icones_channels/FISH_TV.png" group-title="F21 M5 ⭐ PESCA ESPORTIVA",FISH TV SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDSyZ91zAxgeMlvyM99KTa-uNNEWcFJreQhVlNYk4B3vJ
+#EXTINF:-1 xui-id="4231175" tvg-id="FoodNetwork.br" tvg-name="FOOD NETWORK FHD" tvg-logo="https://img.hotice.site/icones_channels/Food_network_HD.png" group-title="F21 M5 ⭐ VARIEDADES",FOOD NETWORK FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDWWHb1shQ9REj0p8IcOi5ArSsx_bg0hnTKWaclZSEcJG
+#EXTINF:-1 xui-id="4231176" tvg-id="FoodNetwork.br" tvg-name="FOOD NETWORK HD" tvg-logo="https://img.hotice.site/icones_channels/Food_network_HD.png" group-title="F21 M5 ⭐ VARIEDADES",FOOD NETWORK HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDc5duz40s5Dz2IDMaaSCAAV2gsBY0c00pjtTI9mH5mz3
+#EXTINF:-1 xui-id="4231177" tvg-id="FoodNetwork.br" tvg-name="FOOD NETWORK SD" tvg-logo="https://img.hotice.site/icones_channels/Food_network_HD.png" group-title="F21 M5 ⭐ VARIEDADES",FOOD NETWORK SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDZokrPXrFHyGHsO8uyQZtT3yaUpuQ4IGeQ0G8LonxfUK
+#EXTINF:-1 xui-id="4238242" tvg-id="" tvg-name="Formiga Atómica 24hs" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",Formiga Atómica 24hs
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDQAfHUyVGanQeqJag7GaR9Luu54oBP9MK4GuBezx16rx
+#EXTINF:-1 xui-id="4238243" tvg-id="" tvg-name="Galinha Pintadinha 24hs" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",Galinha Pintadinha 24hs
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDcnYKW_cptmARD6MqGGEdbwqBW5pfB-CdHVLviKzMhIX
+#EXTINF:-1 xui-id="4665837" tvg-id="" tvg-name="GE TV FHD" tvg-logo="https://entresinopses.com.br/wp-content/uploads/2025/09/ge-TV.jpg" group-title="F21 M5 ESPORTES PPV",GE TV FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDeN4ctnelNat3zU0Q_Z3mF_jR-us6YWRRYRexdssDRNj
+#EXTINF:-1 xui-id="4665838" tvg-id="" tvg-name="GE TV HD" tvg-logo="https://entresinopses.com.br/wp-content/uploads/2025/09/ge-TV.jpg" group-title="F21 M5 ESPORTES PPV",GE TV HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDRVN7N5Y46Z9rYaXcj7HkgqHfmjSrqXiE3oGCez_1sMk
+#EXTINF:-1 xui-id="4665839" tvg-id="" tvg-name="GE TV SD" tvg-logo="https://entresinopses.com.br/wp-content/uploads/2025/09/ge-TV.jpg" group-title="F21 M5 ESPORTES PPV",GE TV SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDZKwm8AfmE_egbWb4WsmAjvB3r4gSdChWhKcZtUKf5H9
+#EXTINF:-1 xui-id="4231178" tvg-id="br#rede-amazonica-rio-branco" tvg-name="GLOBO AC - AMAZONICA RIO BRANCO FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO AC - AMAZONICA RIO BRANCO FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDWjxRR0JUW9HBsxVxJ0Rb5R9Qqpe_ZMGJuex8hIBH0GQ
+#EXTINF:-1 xui-id="4231179" tvg-id="br#rede-amazonica-rio-branco" tvg-name="GLOBO AC - AMAZONICA RIO BRANCO HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO AC - AMAZONICA RIO BRANCO HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDRvW1VjaPn1nDQ77aHfo156-hG7RdWP3myYP_xKM2A6t
+#EXTINF:-1 xui-id="4231180" tvg-id="br#rede-amazonica-rio-branco" tvg-name="GLOBO AC - AMAZONICA RIO BRANCO SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO AC - AMAZONICA RIO BRANCO SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDcGmCkbUB5QAoSraIOzjiDjKDioy9uK38njo8rkZWCfY
+#EXTINF:-1 xui-id="4231181" tvg-id="br#rede-amazonica-rio-branco" tvg-name="GLOBO AC - REDE AMAZONICA CRUZEIRO DO SUL FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO AC - REDE AMAZONICA CRUZEIRO DO SUL FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDTtcCWO9eSa9-nhgZ4Gj38ij0wqpzRabg88j186fIqMq
+#EXTINF:-1 xui-id="4231182" tvg-id="br#rede-amazonica-rio-branco" tvg-name="GLOBO AC - REDE AMAZONICA CRUZEIRO DO SUL HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO AC - REDE AMAZONICA CRUZEIRO DO SUL HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDYf5Y9I83kfUSj7JorWNWS9oio3hki0Ca7vEdKDYdp6r
+#EXTINF:-1 xui-id="4231183" tvg-id="br#rede-amazonica-rio-branco" tvg-name="GLOBO AC - REDE AMAZONICA CRUZEIRO DO SUL SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO AC - REDE AMAZONICA CRUZEIRO DO SUL SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDZxTYMbRLqpjBUa_S9I-XEzaDqZ_Ofr5JrecEt5FaMUS
+#EXTINF:-1 xui-id="4231184" tvg-id="br#globo-s-o-paulo-hd" tvg-name="GLOBO AL - GAZETA DE ALAGOAS FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO AL - GAZETA DE ALAGOAS FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDeE4GLV4aG9_shlPLb6SwsjPu9S4gEH1RwIu1f4MsGYd
+#EXTINF:-1 xui-id="4231185" tvg-id="br#globo-s-o-paulo-hd" tvg-name="GLOBO AL - GAZETA DE ALAGOAS HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO AL - GAZETA DE ALAGOAS HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDU10vw5V6hIx2fWmbFxeJF4t7H7ZU1ToS2hLEyesuGuu
+#EXTINF:-1 xui-id="4231186" tvg-id="br#globo-s-o-paulo-hd" tvg-name="GLOBO AL - GAZETA DE ALAGOAS SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO AL - GAZETA DE ALAGOAS SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDdkX1dFYJwizn4Vt9xn99p8L3OKYsYsR3YhDmFwjBGUt
+#EXTINF:-1 xui-id="4231187" tvg-id="br#globo-s-o-paulo-hd" tvg-name="GLOBO AL - TV GAZETA MACEIÓ FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO AL - TV GAZETA MACEIÓ FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDX3vdHchT_jdQidLI_wDty0U88RA20AMcmex16Y54Rb0
+#EXTINF:-1 xui-id="4231188" tvg-id="br#globo-s-o-paulo-hd" tvg-name="GLOBO AL - TV GAZETA MACEIÓ HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO AL - TV GAZETA MACEIÓ HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDT6lNZTNeE8QgwVGjgrvqWV1wrF6j-1iScqO-7LJhQwE
+#EXTINF:-1 xui-id="4231189" tvg-id="br#globo-s-o-paulo-hd" tvg-name="GLOBO AL - TV GAZETA MACEIÓ SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO AL - TV GAZETA MACEIÓ SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDbVFyeIHEzFiZeuFIk1PQGrHkcAXXgeZz3015FsraWic
+#EXTINF:-1 xui-id="4231190" tvg-id="RedeAmazonicaManaus.br" tvg-name="GLOBO AM - AMAZONICA MANAUS FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO AM - AMAZONICA MANAUS FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDb-BKD7AG3a8s6TEcfgmOrNNHU5fQr_wYN0Y8jo4aZqq
+#EXTINF:-1 xui-id="4231191" tvg-id="RedeAmazonicaManaus.br" tvg-name="GLOBO AM - AMAZONICA MANAUS HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO AM - AMAZONICA MANAUS HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDVhLon4xoj4VOGGkQnH1VUsb5m8aZ7XUsdlLvGl8VQaE
+#EXTINF:-1 xui-id="4231192" tvg-id="RedeAmazonicaManaus.br" tvg-name="GLOBO AM - AMAZONICA MANAUS SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO AM - AMAZONICA MANAUS SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDfoH3533O2rzlLofz-15iYWFJ0-scdCArG-9Ma9rqW6P
+#EXTINF:-1 xui-id="4231202" tvg-id="RedeAmazonicaManaus.br" tvg-name="GLOBO AM - REDE AMAZONICA PARINTINS FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO AM - REDE AMAZONICA PARINTINS FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDWMKxr28NHXE2c1gRCsoKfwcmtE-8MASAZMLG1dzMRJU
+#EXTINF:-1 xui-id="4231203" tvg-id="RedeAmazonicaManaus.br" tvg-name="GLOBO AM - REDE AMAZONICA PARINTINS HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO AM - REDE AMAZONICA PARINTINS HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDVeVlqkD3Bv1lY6kcxMWhmKiTkyzVj8l5B9IF9N1Nt0l
+#EXTINF:-1 xui-id="4231204" tvg-id="RedeAmazonicaManaus.br" tvg-name="GLOBO AM - REDE AMAZONICA PARINTINS SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO AM - REDE AMAZONICA PARINTINS SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDR4n9oQGpM9UHP0wFVynW6exqtOsTC7zNv8PbufQi_X_
+#EXTINF:-1 xui-id="4231208" tvg-id="br#globo-s-o-paulo-hd" tvg-name="GLOBO BA - TV BAHIA FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO BA - TV BAHIA FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDT094BKckrTC7zm-8rBk51yeofUTqf1HZ8CpnLSFfnmU
+#EXTINF:-1 xui-id="4231209" tvg-id="br#globo-s-o-paulo-hd" tvg-name="GLOBO BA - TV BAHIA HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO BA - TV BAHIA HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDbdHeYuTIoRUdogA-kE9PtMgr3Lx5KrouHE7SPTErD7o
+#EXTINF:-1 xui-id="4231210" tvg-id="br#globo-s-o-paulo-hd" tvg-name="GLOBO BA - TV BAHIA SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO BA - TV BAHIA SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDQeSUiHJDUL_FXILvHPwkXnxjHHqoJFb-r0XxiCDIczz
+#EXTINF:-1 xui-id="4231211" tvg-id="Globo Bahia SD" tvg-name="GLOBO BA - TV OESTE FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO BA - TV OESTE FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDYkBs-eKWPJX5B-2QvtlvyxA-CLKvilBORYlDE_ok5En
+#EXTINF:-1 xui-id="4231212" tvg-id="Globo Bahia SD" tvg-name="GLOBO BA - TV OESTE HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO BA - TV OESTE HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDeYDOe2nQgQv6TCesmkYydtfsR-1aF5zwNlPNDJjAlj-
+#EXTINF:-1 xui-id="4231213" tvg-id="Globo Bahia SD" tvg-name="GLOBO BA - TV OESTE SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO BA - TV OESTE SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDZgap2z2mx3YmVeLIhavao_7N2kaH2mhSHFSV4toSTgS
+#EXTINF:-1 xui-id="4231214" tvg-id="Globo Bahia SD" tvg-name="GLOBO BA - TV SANTA CRUZ FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO BA - TV SANTA CRUZ FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDYzqjAMtS6ir5OG9xYnsoTLvwLcigzslG3-W7JcKV8ai
+#EXTINF:-1 xui-id="4231215" tvg-id="Globo Bahia SD" tvg-name="GLOBO BA - TV SANTA CRUZ HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO BA - TV SANTA CRUZ HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDaMpWYS_d0VCByODgrHCZhgSisytPjN3haPdPNweBVo2
+#EXTINF:-1 xui-id="4231216" tvg-id="Globo Bahia SD" tvg-name="GLOBO BA - TV SANTA CRUZ SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO BA - TV SANTA CRUZ SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDfw91FDYgUeL-aaSAoRCyho-WZmqdtm9KI09uxEsjyON
+#EXTINF:-1 xui-id="4231223" tvg-id="Globo Bahia SD" tvg-name="GLOBO BA - TV SUDOESTE FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO BA - TV SUDOESTE FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDb7-JlNdTpKdtpaxFKTUZHPEx7jRN5JtRsyNnPMuvJAI
+#EXTINF:-1 xui-id="4231224" tvg-id="Globo Bahia SD" tvg-name="GLOBO BA - TV SUDOESTE HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO BA - TV SUDOESTE HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDWz5hZmn5uG76x5PaWObafFLSfb1h0_q4iOO1tf2cqFJ
+#EXTINF:-1 xui-id="4231225" tvg-id="Globo Bahia SD" tvg-name="GLOBO BA - TV SUDOESTE SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO BA - TV SUDOESTE SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDWQVX-4ShvyE0k8stIetuBAbIRgPi5QRsInyawp9hGDk
+#EXTINF:-1 xui-id="4231226" tvg-id="Globo TV Verdes Mares Cariri SD" tvg-name="GLOBO CE - TV VERDES MARES CARIRI FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO CE - TV VERDES MARES CARIRI FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDf-h_qoCpHHWnRSPhsFexgVozgAZ6Yaoi_1MSXaNo6aY
+#EXTINF:-1 xui-id="4231227" tvg-id="Globo TV Verdes Mares Cariri SD" tvg-name="GLOBO CE - TV VERDES MARES CARIRI HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO CE - TV VERDES MARES CARIRI HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDWKtTzcb6GUv74j4fCLS1OA9MzyOIgctNzmOnGcYoUK8
+#EXTINF:-1 xui-id="4231228" tvg-id="Globo TV Verdes Mares Cariri SD" tvg-name="GLOBO CE - TV VERDES MARES CARIRI SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO CE - TV VERDES MARES CARIRI SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDVnHjgRBh1BPgpwUnc3-ySkCFIAb2xDq4lAWqhNcqAn5
+#EXTINF:-1 xui-id="4231229" tvg-id="br#tv-verdes-mares-hd" tvg-name="GLOBO CE - TV VERDES MARES FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO CE - TV VERDES MARES FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDdpNFWshjQBIL1bc6fXq9o01zwpeuamewu1l1zzhPbYA
+#EXTINF:-1 xui-id="4231230" tvg-id="br#tv-verdes-mares-hd" tvg-name="GLOBO CE - TV VERDES MARES HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO CE - TV VERDES MARES HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDa-L1nVy-WW6AYnt1Ev-yIObfEA0oD8cPSWWombIMLmF
+#EXTINF:-1 xui-id="4231231" tvg-id="br#tv-verdes-mares-hd" tvg-name="GLOBO CE - TV VERDES MARES SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO CE - TV VERDES MARES SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDceoNSFEj3BpGgws4-_18gT-s63QNmMTVomqwi_arY9Q
+#EXTINF:-1 xui-id="4231232" tvg-id="TVGloboBrasilia.br" tvg-name="GLOBO DF - TV GLOBO BRASÍLIA FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO DF - TV GLOBO BRASÍLIA FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDf6BA3IES4TSAAV-Nfg1dKqxOUS4lIlFcdbt3q-a4NcH
+#EXTINF:-1 xui-id="4231233" tvg-id="TVGloboBrasilia.br" tvg-name="GLOBO DF - TV GLOBO BRASÍLIA HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO DF - TV GLOBO BRASÍLIA HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDaSFzD58RI9a9GQCFcXFHxH0u-4Ts8Td6c6tiUy1ZyJL
+#EXTINF:-1 xui-id="4231234" tvg-id="TVGloboBrasilia.br" tvg-name="GLOBO DF - TV GLOBO BRASÍLIA SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO DF - TV GLOBO BRASÍLIA SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDfJ03kagLHQLg9JSTOcGjE_05XTSqpFyPFxilTF7rRnQ
+#EXTINF:-1 xui-id="4231235" tvg-id="br#tv-vitoria-hd" tvg-name="GLOBO ES - TV GAZETA NOROESTE FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO ES - TV GAZETA NOROESTE FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDf9L04Q7HVyaOBn3m5Wdonozh_dynGpjnJQ4f1585sfS
+#EXTINF:-1 xui-id="4231236" tvg-id="br#tv-vitoria-hd" tvg-name="GLOBO ES - TV GAZETA NOROESTE HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO ES - TV GAZETA NOROESTE HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDda-cuYG2yxBLTNcogvuA783AzPUd1nHhzvgwuhhe6xd
+#EXTINF:-1 xui-id="4231237" tvg-id="br#tv-vitoria-hd" tvg-name="GLOBO ES - TV GAZETA NOROESTE SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO ES - TV GAZETA NOROESTE SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDSa0rabs498sMytunW7ZfvEg6U3GfNx5BMWf7YeaNLLP
+#EXTINF:-1 xui-id="4231238" tvg-id="br#tv-gazeta-sul" tvg-name="GLOBO ES - TV GAZETA SUL FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO ES - TV GAZETA SUL FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDWx98QLgtWeofyV3QlVqgkXMD4AoiFMlloQVC2coIvht
+#EXTINF:-1 xui-id="4231239" tvg-id="br#tv-gazeta-sul" tvg-name="GLOBO ES - TV GAZETA SUL HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO ES - TV GAZETA SUL HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDSnh-5fhimhhPtRFOwc58kc6K8dA6R9hV2xk2_h89yvd
+#EXTINF:-1 xui-id="4231240" tvg-id="br#tv-gazeta-sul" tvg-name="GLOBO ES - TV GAZETA SUL SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO ES - TV GAZETA SUL SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDdQQvZvUyjH2-bXMk7yIITbhhOwl4rsm-J8GWI7fslwm
+#EXTINF:-1 xui-id="4231242" tvg-id="br#tv-gazeta-sul" tvg-name="GLOBO ES - TV GAZETA VITORIA FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO ES - TV GAZETA VITORIA FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDTUXh3e8wwEuLHlV29uXh8oQ4dEv71DQ_udi_zWC0Wul
+#EXTINF:-1 xui-id="4231243" tvg-id="br#tv-gazeta-sul" tvg-name="GLOBO ES - TV GAZETA VITORIA HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO ES - TV GAZETA VITORIA HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDf5yeQvA4zVXKvsEjXlCJaM0tp8sEpQAg4r-zw1YJjit
+#EXTINF:-1 xui-id="4231244" tvg-id="br#tv-gazeta-sul" tvg-name="GLOBO ES - TV GAZETA VITORIA SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO ES - TV GAZETA VITORIA SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDddS4JR_uZkmWKG0E95nCauXUPB16SJYoOiLCscWtGIz
+#EXTINF:-1 xui-id="4231246" tvg-id="br#globo-anhanguera" tvg-name="GLOBO GO - TV ANHANGUERA ANÁPOLIS HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO GO - TV ANHANGUERA ANÁPOLIS HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDbTxfrwFwC7PQgoHS6Epa4C9tNmW2lGVLiRk0ugq5kKm
+#EXTINF:-1 xui-id="4231247" tvg-id="br#globo-anhanguera" tvg-name="GLOBO GO - TV ANHANGUERA ANÁPOLIS SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO GO - TV ANHANGUERA ANÁPOLIS SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDWLbrJR-JcBQrYAQ_XwlH4w1ZWS3tfYjZ9qIIWqEbf0Y
+#EXTINF:-1 xui-id="4231251" tvg-id="TVAnhangueraGoiania.br" tvg-name="GLOBO GO - TV ANHANGUERA GOIANIA FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO GO - TV ANHANGUERA GOIANIA FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDXcT6iAEtCfslk81iwJAUy7lPbalGOhMPSBFdNa2unEQ
+#EXTINF:-1 xui-id="4231252" tvg-id="TVAnhangueraGoiania.br" tvg-name="GLOBO GO - TV ANHANGUERA GOIANIA HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO GO - TV ANHANGUERA GOIANIA HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDfVttZa_aaU7T36Zc0XLhXUMtDSnDurr8RfgA6BmLzSU
+#EXTINF:-1 xui-id="4231253" tvg-id="TVAnhangueraGoiania.br" tvg-name="GLOBO GO - TV ANHANGUERA GOIANIA SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO GO - TV ANHANGUERA GOIANIA SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDYPsgsK2F6lfOuE4KE99Twc7AHF3VlDaJWDgbL1PH8S5
+#EXTINF:-1 xui-id="4231269" tvg-id="24HAnimes" tvg-name="GLOBO MA - TV MIRANTE COCAIS FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO MA - TV MIRANTE COCAIS FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDTq7FZTONChjYPQx8cW1TLs2cE8zG0uRGex_EaIM7Q8p
+#EXTINF:-1 xui-id="4231270" tvg-id="br#tv-mirante-s-o-luis" tvg-name="GLOBO MA - TV MIRANTE COCAIS HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO MA - TV MIRANTE COCAIS HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDVn6FVqglEeyspRx0d4em98-MAjiqekYGgGxnX6LeBs4
+#EXTINF:-1 xui-id="4231271" tvg-id="br#tv-mirante-s-o-luis" tvg-name="GLOBO MA - TV MIRANTE COCAIS SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO MA - TV MIRANTE COCAIS SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDex-8OFY3jiphOjQYy0MXxNUU-kLFrkmqpflmCfPacEA
+#EXTINF:-1 xui-id="4231272" tvg-id="br#tv-mirante-s-o-luis" tvg-name="GLOBO MA - TV MIRANTE FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO MA - TV MIRANTE FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDVxWM8Nzc_wb6RtvkDL67awPwYFHoKyHFbD-iJWWpR2I
+#EXTINF:-1 xui-id="4231273" tvg-id="br#tv-mirante-s-o-luis" tvg-name="GLOBO MA - TV MIRANTE HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO MA - TV MIRANTE HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDVYO4j-Lb3EFj5JNUx6OFoTQXgTprG82vQ6QtDVDfD7G
+#EXTINF:-1 xui-id="4231277" tvg-id="br#tv-mirante-s-o-luis" tvg-name="GLOBO MA - TV MIRANTE SAO LUIZ FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO MA - TV MIRANTE SAO LUIZ FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDcu0eLMhiN7hRaKiy6p-YPAx5p009PwUDttgD48IkRYk
+#EXTINF:-1 xui-id="4231278" tvg-id="br#tv-mirante-s-o-luis" tvg-name="GLOBO MA - TV MIRANTE SAO LUIZ HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO MA - TV MIRANTE SAO LUIZ HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDUbCmKSFK9crTsIHijFVUDWicd6-nZ2WT7LwfnShhtl1
+#EXTINF:-1 xui-id="4231279" tvg-id="br#tv-mirante-s-o-luis" tvg-name="GLOBO MA - TV MIRANTE SAO LUIZ SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO MA - TV MIRANTE SAO LUIZ SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDVN2qrOGtXC0LgEt6GtHFcVbRaYHPM9XH170Kb8TZaaJ
+#EXTINF:-1 xui-id="4231280" tvg-id="br#tv-mirante-s-o-luis" tvg-name="GLOBO MA - TV MIRANTE SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO MA - TV MIRANTE SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDXoeFgRAq1g1TkDei2eBcWd1FkoApF1kB3I9g6a6xDD1
+#EXTINF:-1 xui-id="4231281" tvg-id="br#globo-belo-horizonte" tvg-name="GLOBO MG - INTERTV DOS VALES FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO MG - INTERTV DOS VALES FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDao4MUaoVRWhkm4FKs251AX9a8TxWm9Ii2flLyBER_Ry
+#EXTINF:-1 xui-id="4231282" tvg-id="br#globo-belo-horizonte" tvg-name="GLOBO MG - INTERTV DOS VALES HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO MG - INTERTV DOS VALES HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDWfaPNHd_wMyjVp6ukmKVwBrxOWmcSrtt6uHnmktYtui
+#EXTINF:-1 xui-id="4231283" tvg-id="br#globo-belo-horizonte" tvg-name="GLOBO MG - INTERTV DOS VALES SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO MG - INTERTV DOS VALES SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDfsxwQfkfuOMwvtvhI_TveWlRiJr5f4No1VB0uqqbC-z
+#EXTINF:-1 xui-id="4231284" tvg-id="br#globo-belo-horizonte" tvg-name="GLOBO MG - INTERTV GRANDE MINAS FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO MG - INTERTV GRANDE MINAS FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDWuElXBBdomOPSL8B7didJ0CASUqmCPF51uEuIWB5H68
+#EXTINF:-1 xui-id="4231285" tvg-id="br#globo-belo-horizonte" tvg-name="GLOBO MG - INTERTV GRANDE MINAS HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO MG - INTERTV GRANDE MINAS HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDfCJ43f2l7OEwUjvlAvBv8dbhHBvwg96443R3YfEVb_B
+#EXTINF:-1 xui-id="4231286" tvg-id="br#globo-belo-horizonte" tvg-name="GLOBO MG - INTERTV GRANDE MINAS SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO MG - INTERTV GRANDE MINAS SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDecZlKtp8i36uj9F4jN1cQfgA3912lgC2gUoYEFrWw3Q
+#EXTINF:-1 xui-id="4231287" tvg-id="br#globo-belo-horizonte" tvg-name="GLOBO MG - TV GLOBO MINAS FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO MG - TV GLOBO MINAS FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDWqcYsE8_XD11PIDPhJbuWcQryHamDyYx8nUqeRSugP-
+#EXTINF:-1 xui-id="4231288" tvg-id="br#globo-belo-horizonte" tvg-name="GLOBO MG - TV GLOBO MINAS HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO MG - TV GLOBO MINAS HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDTdrtdZUgnAh0vIZ6ooT7ZEFxZ__JV-IzPQXOZebA8DA
+#EXTINF:-1 xui-id="4231289" tvg-id="br#globo-belo-horizonte" tvg-name="GLOBO MG - TV GLOBO MINAS SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO MG - TV GLOBO MINAS SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDYpEMH3E7Fk3-6lMZWU3W_iodPNo8HU8o05kJJZvq2YN
+#EXTINF:-1 xui-id="4231290" tvg-id="br#globo-belo-horizonte" tvg-name="GLOBO MG - TV INTEGRAÇAO ARAXÁ FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO MG - TV INTEGRAÇAO ARAXÁ FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDVGQQdIkUOVYJYVW2FUhZsUSLLSCMj7Vb-YjS_Zz2uIL
+#EXTINF:-1 xui-id="4231291" tvg-id="br#globo-belo-horizonte" tvg-name="GLOBO MG - TV INTEGRAÇAO ARAXÁ HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO MG - TV INTEGRAÇAO ARAXÁ HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDVSWZ7zBykwQePoXKdynZdwY10FMuSwtRszgjYJsoID8
+#EXTINF:-1 xui-id="4231292" tvg-id="br#globo-belo-horizonte" tvg-name="GLOBO MG - TV INTEGRAÇAO ARAXÁ SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO MG - TV INTEGRAÇAO ARAXÁ SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDZY27H3x8Sz2MLuf5QfPzmNMs3z4VZXMeFWyWSmCRpBS
+#EXTINF:-1 xui-id="4231295" tvg-id="br#globo-belo-horizonte" tvg-name="GLOBO MG - TV INTEGRAÇAO ITUIUTABA SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO MG - TV INTEGRAÇAO ITUIUTABA SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDVAO_uBAYqDmousUvpwV154TULKOKbI8lNC6QJzzYAfx
+#EXTINF:-1 xui-id="4231296" tvg-id="br#globo-belo-horizonte" tvg-name="GLOBO MG - TV INTEGRAÇAO UBERLANDIA FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO MG - TV INTEGRAÇAO UBERLANDIA FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDVtSkwDpJKQ1fCFMKa-PxbvYGK3dISbmE3YbBG_P8QKe
+#EXTINF:-1 xui-id="4231297" tvg-id="br#globo-belo-horizonte" tvg-name="GLOBO MG - TV INTEGRAÇAO UBERLANDIA HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO MG - TV INTEGRAÇAO UBERLANDIA HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDbw_59Wf517vUKkiAHCRx8kWf4p7tJjAaecvpF6zOcFL
+#EXTINF:-1 xui-id="4231298" tvg-id="br#globo-belo-horizonte" tvg-name="GLOBO MG - TV INTEGRAÇAO UBERLANDIA SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO MG - TV INTEGRAÇAO UBERLANDIA SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDbXEEEU4vDUI6cMRYFLwt5rhwkteW4WhKozL1RSi-paX
+#EXTINF:-1 xui-id="4231300" tvg-id="br#tv-morena" tvg-name="GLOBO MS - TV MORENA CAMPO GRANDE FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO MS - TV MORENA CAMPO GRANDE FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDQm6sFjgfijhLoPiI6WqSX_giofZe6AzDrhYYmK1nHUk
+#EXTINF:-1 xui-id="4231301" tvg-id="br#tv-morena" tvg-name="GLOBO MS - TV MORENA CAMPO GRANDE HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO MS - TV MORENA CAMPO GRANDE HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDegTCAeEpTsFWikmJ81nIm1QdJfzj6TdaoVPAJaV6ggk
+#EXTINF:-1 xui-id="4231302" tvg-id="br#tv-morena" tvg-name="GLOBO MS - TV MORENA CAMPO GRANDE SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO MS - TV MORENA CAMPO GRANDE SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDd6hBhbTmnGr7i-Oji5vNxcfKMXpsbCspFzicehrZCVW
+#EXTINF:-1 xui-id="4231309" tvg-id="br#tv-morena" tvg-name="GLOBO MS - TV MORENA PONTA PORÃ FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO MS - TV MORENA PONTA PORÃ FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDVbPC4CX8bbu1GK1wgkquqYyu56q_v5iNXANjhQkXKeA
+#EXTINF:-1 xui-id="4231310" tvg-id="br#tv-morena" tvg-name="GLOBO MS - TV MORENA PONTA PORÃ HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO MS - TV MORENA PONTA PORÃ HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDVYDuob5memcOJ0HhyJxkQavcGpKGTGbETlvfLUSP283
+#EXTINF:-1 xui-id="4231311" tvg-id="br#tv-morena" tvg-name="GLOBO MS - TV MORENA PONTA PORÃ SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO MS - TV MORENA PONTA PORÃ SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDdPdtU8nc_kqc8UKyM5W6MxdDxP3-V0KOM2feDP-r6bl
+#EXTINF:-1 xui-id="4231312" tvg-id="br#tv-morena" tvg-name="GLOBO MS - TV MORENA TRES LAGOAS FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO MS - TV MORENA TRES LAGOAS FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDdCbRyVzrzY8QViSSbTdTxGHJxvQb1dN_sD9EcQD7OK1
+#EXTINF:-1 xui-id="4231313" tvg-id="br#tv-morena" tvg-name="GLOBO MS - TV MORENA TRES LAGOAS HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO MS - TV MORENA TRES LAGOAS HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDeiCYmBMRYEjetScVNgsbsdS6r9ngWdn30Lzts4Eapf_
+#EXTINF:-1 xui-id="4231314" tvg-id="br#tv-morena" tvg-name="GLOBO MS - TV MORENA TRES LAGOAS SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO MS - TV MORENA TRES LAGOAS SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDavd943aHj_Cg4lvIsa2M7pVsaUcc_CjL86uQYuRM3GF
+#EXTINF:-1 xui-id="4231315" tvg-id="Globo Centro America Cuiaba SD" tvg-name="GLOBO MT - TV CENTRO AMERICA CUIABABÁ  FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO MT - TV CENTRO AMERICA CUIABABÁ  FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDU_4kdUDM3S2yMkZqN697_pL8pDFUFk3l0K6oNsG5jU0
+#EXTINF:-1 xui-id="4231316" tvg-id="Globo Centro America Cuiaba SD" tvg-name="GLOBO MT - TV CENTRO AMERICA CUIABABÁ HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO MT - TV CENTRO AMERICA CUIABABÁ HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDUFn2N_4aAXHVJ-syP21mOmf6tq-rtG2W5n7dEpq5pu1
+#EXTINF:-1 xui-id="4231317" tvg-id="Globo Centro America Cuiaba SD" tvg-name="GLOBO MT - TV CENTRO AMERICA CUIABABÁ SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO MT - TV CENTRO AMERICA CUIABABÁ SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDee3G5o9tUTeyCSKqgC7ltfknS5Zz7CVXY3VuTqUJAZy
+#EXTINF:-1 xui-id="4231333" tvg-id="br#globo-news-hd" tvg-name="GLOBO NEWS 4K" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ 4K",GLOBO NEWS 4K
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDRrVTGHHILiwww14uXGvCEYYz2IXFuojl1pftBzbJ7O6
+#EXTINF:-1 xui-id="4231334" tvg-id="br#globo-news-hd" tvg-name="GLOBO NEWS FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ NOTÍCIAS",GLOBO NEWS FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDUvOH6v3jrVHn_8QNqIskyTYldg8cJqrDfp77J30Heud
+#EXTINF:-1 xui-id="4231335" tvg-id="br#globo-news-hd" tvg-name="GLOBO NEWS HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ NOTÍCIAS",GLOBO NEWS HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDYaLL1HMNP_dNwGpOhfc0yPCLj3Qc29ByCZB3EbI2xX1
+#EXTINF:-1 xui-id="4231336" tvg-id="br#globo-news-hd" tvg-name="GLOBO NEWS SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ NOTÍCIAS",GLOBO NEWS SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDSfuAh-1PwTGJaf4DYawja8v0SPwuUaCSSKyRgtP9oIq
+#EXTINF:-1 xui-id="4231337" tvg-id="br#tv-liberal" tvg-name="GLOBO PA - TV LIBERAL ALTAMIRA FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO PA - TV LIBERAL ALTAMIRA FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDenZDwuukVxmBA6SSVWywv9nQ-7Z3XPTgr_UldCPZarv
+#EXTINF:-1 xui-id="4231338" tvg-id="br#tv-liberal" tvg-name="GLOBO PA - TV LIBERAL ALTAMIRA HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO PA - TV LIBERAL ALTAMIRA HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDfbVj1qTEUwr--j0wX_gv0IDJumM5u7P1uBycm5lYyGx
+#EXTINF:-1 xui-id="4231339" tvg-id="br#tv-liberal" tvg-name="GLOBO PA - TV LIBERAL ALTAMIRA SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO PA - TV LIBERAL ALTAMIRA SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDXTBxFFmW3dRiYX7Q6djEvArg5bVHA6OSu7JSQTXMjfn
+#EXTINF:-1 xui-id="4231340" tvg-id="br#tv-liberal" tvg-name="GLOBO PA - TV LIBERAL BELÉM FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO PA - TV LIBERAL BELÉM FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDWtkYPF-AOr_atrBQzaO8kCE6cfCFcu2eyrVl9JYcyuk
+#EXTINF:-1 xui-id="4231341" tvg-id="br#tv-liberal" tvg-name="GLOBO PA - TV LIBERAL BELÉM HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO PA - TV LIBERAL BELÉM HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDfG7_EM5t4YZyB65QW92rHSijw_CQrVWPO-vcKtZtxtr
+#EXTINF:-1 xui-id="4231342" tvg-id="br#tv-liberal" tvg-name="GLOBO PA - TV LIBERAL BELÉM SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO PA - TV LIBERAL BELÉM SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDSIDpm80n85LDfpP4ZY9oZND6fNaYCR144QivPsPgxx7
+#EXTINF:-1 xui-id="4231346" tvg-id="br#tv-liberal" tvg-name="GLOBO PA - TV LIBERAL FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO PA - TV LIBERAL FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDRSfCijLZTf7deWzyB72YxC-CpShe9gdzo4_3DEjD1bh
+#EXTINF:-1 xui-id="4231347" tvg-id="br#tv-liberal" tvg-name="GLOBO PA - TV LIBERAL HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO PA - TV LIBERAL HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDRXfbS-MoIcKFnLDqbClwcgS_rug_Y8QpXe0ElU0FiZ7
+#EXTINF:-1 xui-id="4231357" tvg-id="br#tv-liberal" tvg-name="GLOBO PA - TV LIBERAL SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO PA - TV LIBERAL SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDTIQHUdOApsmuILlPBiiHoDHHzAdViTMdHhuVKN8qJuf
+#EXTINF:-1 xui-id="4231364" tvg-id="br#globo-tv-tribuna" tvg-name="GLOBO PB - TV PARAIBA FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO PB - TV PARAIBA FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDTdzo7FgtHG0sImDA_CC5ZYRwTgKbpqffMXopXWbOsuJ
+#EXTINF:-1 xui-id="4231365" tvg-id="br#globo-tv-tribuna" tvg-name="GLOBO PB - TV PARAIBA HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO PB - TV PARAIBA HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDSE5Bfz_gpT2B3db1781RF2KC40FmtEl8WCnSFe70cPP
+#EXTINF:-1 xui-id="4231366" tvg-id="br#globo-tv-tribuna" tvg-name="GLOBO PB - TV PARAIBA SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO PB - TV PARAIBA SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDRgtMVyPmWL7rxuhIf3aeiQTDoHG88nNAnAhxKjwBnJc
+#EXTINF:-1 xui-id="4231367" tvg-id="TVGloboNordeste.br" tvg-name="GLOBO PE - TV ASA BRANCA FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO PE - TV ASA BRANCA FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDThJb99LS29gPGf_K01j7TjPlxCytHpuWrjSUUl7WYdn
+#EXTINF:-1 xui-id="4231368" tvg-id="TVGloboNordeste.br" tvg-name="GLOBO PE - TV ASA BRANCA HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO PE - TV ASA BRANCA HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDR3eIpWx4lwWXA0RSCEqHgYjR9rXiIXKkTCE6OeflcsJ
+#EXTINF:-1 xui-id="4231369" tvg-id="TVGloboNordeste.br" tvg-name="GLOBO PE - TV ASA BRANCA SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO PE - TV ASA BRANCA SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDWcDfqkTHlS0YlEuPPK1da3Xn9xoxU-GVhA-LBsAEztL
+#EXTINF:-1 xui-id="4231370" tvg-id="TVGloboNordeste.br" tvg-name="GLOBO PE - TV GLOBO PERNAMBUCO FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO PE - TV GLOBO PERNAMBUCO FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDbdC1ZM3E2PDyGEyZ8fnQF_iEkssqZx-jHIFN_Z2DFit
+#EXTINF:-1 xui-id="4231371" tvg-id="TVGloboNordeste.br" tvg-name="GLOBO PE - TV GLOBO PERNAMBUCO HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO PE - TV GLOBO PERNAMBUCO HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDdzYVXBCN5xP1FP8PpB4vlz9BXcB53gsI3aEfVXPzDhi
+#EXTINF:-1 xui-id="4231372" tvg-id="TVGloboNordeste.br" tvg-name="GLOBO PE - TV GLOBO PERNAMBUCO SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO PE - TV GLOBO PERNAMBUCO SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDSse5AL_Dj5KsUbUwrmHDzSyxcjba1n7BQb7lXUCpqui
+#EXTINF:-1 xui-id="4231376" tvg-id="br#rede-globo-teresina" tvg-name="GLOBO PI - TV ALVORADA FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO PI - TV ALVORADA FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDUAtDLGO73rwwjJIXDWCxtDijgehEJPl4NDM3IFpWwjK
+#EXTINF:-1 xui-id="4231377" tvg-id="br#rede-globo-teresina" tvg-name="GLOBO PI - TV ALVORADA HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO PI - TV ALVORADA HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDbyWRyWIaUvGQk9lI_SXkio7PsNrKWWqYcBV1wm5fq8V
+#EXTINF:-1 xui-id="4231378" tvg-id="br#tv-alvorada-do-sul-hd" tvg-name="GLOBO PI - TV ALVORADA SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO PI - TV ALVORADA SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDe_gQYtMitRebOfw7PlFP7SrCBQR0MXdAjYc_VeOS6K6
+#EXTINF:-1 xui-id="4231380" tvg-id="br#rede-globo-teresina" tvg-name="GLOBO PI - TV CLUBE FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO PI - TV CLUBE FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDRsoq6Q006z9jIgsSIdhExDz112xyNoT19D3aGXWcB_K
+#EXTINF:-1 xui-id="4231381" tvg-id="br#rede-globo-teresina" tvg-name="GLOBO PI - TV CLUBE HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO PI - TV CLUBE HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDc2dUT90CJzBcKH2y6Odn-7GKSmbXEygZup2zlSLINiz
+#EXTINF:-1 xui-id="4231382" tvg-id="br#rede-globo-teresina" tvg-name="GLOBO PI - TV CLUBE SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO PI - TV CLUBE SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDarPgq4dab2E-cp52sqfn1luXOpQU_UjMnvzgW_TG-bp
+#EXTINF:-1 xui-id="4231384" tvg-id="24HAnimes" tvg-name="GLOBO PR - RPC CASCAVEL HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO PR - RPC CASCAVEL HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDQZzLeLNAiyzZ9Cc8GOY5-2yAdmjiLfhPShkO86UXDY_
+#EXTINF:-1 xui-id="4231385" tvg-id="24HAnimes" tvg-name="GLOBO PR - RPC CASCAVEL SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO PR - RPC CASCAVEL SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDUgWNO2IV-DD-F2KUB2DpqSa0F1_3eoZZMMgV51UUhLJ
+#EXTINF:-1 xui-id="4231392" tvg-id="24HAnimes" tvg-name="GLOBO PR - RPC LONDRINA FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO PR - RPC LONDRINA FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDV0rhlVqeH9T6CAoIk2EUUD2UQEdCCQNtef5updaDYdZ
+#EXTINF:-1 xui-id="4231393" tvg-id="24HAnimes" tvg-name="GLOBO PR - RPC LONDRINA HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO PR - RPC LONDRINA HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDRutpEjIHZ8ldtubNX32EwVP3JU11wsbrc-EukVarluA
+#EXTINF:-1 xui-id="4231394" tvg-id="24HAnimes" tvg-name="GLOBO PR - RPC LONDRINA SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO PR - RPC LONDRINA SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDb2ZeVkV-4FALJfqZ-1-T1cEzYGo96naIvfdG60SBM_u
+#EXTINF:-1 xui-id="4231401" tvg-id="RPCTVPontaGrossa.br" tvg-name="GLOBO PR - RPC PONTA GROSSA FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO PR - RPC PONTA GROSSA FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDfmcV3ZTPkp68lyIo5_iesVLGpmI-gHY83S6j9_KgNrs
+#EXTINF:-1 xui-id="4231402" tvg-id="RPCTVPontaGrossa.br" tvg-name="GLOBO PR - RPC PONTA GROSSA HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO PR - RPC PONTA GROSSA HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDcP3c7Jr9fiBg7M8hr6ILGeYtIQONTJt5FjZtl4IbsEC
+#EXTINF:-1 xui-id="4231403" tvg-id="RPCTVPontaGrossa.br" tvg-name="GLOBO PR - RPC PONTA GROSSA SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO PR - RPC PONTA GROSSA SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDUw-PSQKrzjmXovA7wQRk7s52TYiezxjzlgLZj3gRmCo
+#EXTINF:-1 xui-id="4231404" tvg-id="TVGloboRiodeJaneiro.br" tvg-name="GLOBO RJ - INTERTV ALTO LITORAL FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO RJ - INTERTV ALTO LITORAL FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDeRj6XVDyEzyyCktPDqtF-BLxfN3ZW9LFgs8dppoTvTl
+#EXTINF:-1 xui-id="4231405" tvg-id="TVGloboRiodeJaneiro.br" tvg-name="GLOBO RJ - INTERTV ALTO LITORAL HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO RJ - INTERTV ALTO LITORAL HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDUCriGyaB-C8ZG7e2BAdj3XaL8dq5_iQq12Y7E0DN7xb
+#EXTINF:-1 xui-id="4231406" tvg-id="TVGloboRiodeJaneiro.br" tvg-name="GLOBO RJ - INTERTV ALTO LITORAL SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO RJ - INTERTV ALTO LITORAL SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDefHOzh1wncY_sFM2O_nfrtJBucvc8ZIEVX-ZJBxviRG
+#EXTINF:-1 xui-id="4231407" tvg-id="TVGloboRiodeJaneiro.br" tvg-name="GLOBO RJ - INTERTV SERRA MAR FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO RJ - INTERTV SERRA MAR FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDVMuMf4_tw6Qhyl17tEOuU7dMXGFVjlICvVyVkzdrLt0
+#EXTINF:-1 xui-id="4231408" tvg-id="TVGloboRiodeJaneiro.br" tvg-name="GLOBO RJ - INTERTV SERRA MAR HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO RJ - INTERTV SERRA MAR HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDdjAHWQwIKs2vTG5WanGv5X13XuIdtkX50UUQQ-cP6Fd
+#EXTINF:-1 xui-id="4231409" tvg-id="TVGloboRiodeJaneiro.br" tvg-name="GLOBO RJ - INTERTV SERRA MAR SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO RJ - INTERTV SERRA MAR SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDVOneD3ssrqAcgkunfYQ1RI9D4TrSc4dgrzX4bBNa75W
+#EXTINF:-1 xui-id="4231411" tvg-id="TVGloboRiodeJaneiro.br" tvg-name="GLOBO RJ - TV GLOBO RIO DE JANEIRO FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO RJ - TV GLOBO RIO DE JANEIRO FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDWc7z58p7VVoKsc2I6XCfZ8r2iTcff4_PeF8CKUXGydP
+#EXTINF:-1 xui-id="4231412" tvg-id="TVGloboRiodeJaneiro.br" tvg-name="GLOBO RJ - TV GLOBO RIO DE JANEIRO HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO RJ - TV GLOBO RIO DE JANEIRO HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDWvirsGbCNHCdN7SfdCPwFMTe7V92TDkdHJfNUpC713-
+#EXTINF:-1 xui-id="4231413" tvg-id="TVGloboRiodeJaneiro.br" tvg-name="GLOBO RJ - TV GLOBO RIO DE JANEIRO SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO RJ - TV GLOBO RIO DE JANEIRO SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDcBvqQCfdPWAZjY5VQQaTlXqStHzWeYqMvqG3as-vUgl
+#EXTINF:-1 xui-id="4231414" tvg-id="InterTVCabugi.br" tvg-name="GLOBO RN - INTER TV CABUGI FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO RN - INTER TV CABUGI FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDfMnHRu2yrPKm0Dil1yiy1Tmse8xLvLuHrvF6daDfThB
+#EXTINF:-1 xui-id="4231415" tvg-id="InterTVCabugi.br" tvg-name="GLOBO RN - INTER TV CABUGI HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO RN - INTER TV CABUGI HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDeqB8tH4z_k3FhOEsYYRe_uwyb-rip0Ka_Y01DiQfIqb
+#EXTINF:-1 xui-id="4231416" tvg-id="InterTVCabugi.br" tvg-name="GLOBO RN - INTER TV CABUGI SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO RN - INTER TV CABUGI SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDYdOtyWF9AjVn21E_gccCKHKPWzxoclq6_csRxvhT4Kf
+#EXTINF:-1 xui-id="4231417" tvg-id="InterTVCabugi.br" tvg-name="GLOBO RN - INTERTV COSTA BRANCA FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO RN - INTERTV COSTA BRANCA FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDS6-qWjE06d7vgUYwoqG3JjocslwzBbRPBSKu6fC6uyx
+#EXTINF:-1 xui-id="4231418" tvg-id="InterTVCabugi.br" tvg-name="GLOBO RN - INTERTV COSTA BRANCA HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO RN - INTERTV COSTA BRANCA HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDTG2nfO1WVwkkEOLnRg4ZPOcZiRqb_oWMz_HHSFj8Win
+#EXTINF:-1 xui-id="4231419" tvg-id="InterTVCabugi.br" tvg-name="GLOBO RN - INTERTV COSTA BRANCA SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO RN - INTERTV COSTA BRANCA SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDZUPgbPWlSIDuGiJo5DeWLHFNcuS9VeylVTCy3edUUny
+#EXTINF:-1 xui-id="4231420" tvg-id="br#tv-rondonia-hd" tvg-name="GLOBO RO - AMAZONICA PORTO VELHO FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO RO - AMAZONICA PORTO VELHO FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDVp0rNQmO-95q3j0Ru3DKuxc5RenzMao-nzHx3ExCMT7
+#EXTINF:-1 xui-id="4231421" tvg-id="br#tv-rondonia-hd" tvg-name="GLOBO RO - AMAZONICA PORTO VELHO HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO RO - AMAZONICA PORTO VELHO HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDcOR6_nSaRuHteek9xtHTLgQmLmEIyJK-8RTKelgJH82
+#EXTINF:-1 xui-id="4231422" tvg-id="br#tv-rondonia-hd" tvg-name="GLOBO RO - AMAZONICA PORTO VELHO SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO RO - AMAZONICA PORTO VELHO SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDRDxJBMGYnO3vdu7XoEdQJsgZ5whnLm6cEcp39_C4ABH
+#EXTINF:-1 xui-id="4231426" tvg-id="br#tv-rondonia-hd" tvg-name="GLOBO RO - REDE AMAZONICA CACOAL FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO RO - REDE AMAZONICA CACOAL FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDRxNzcSRe_KLlKTfCpykG4Te2QDPPsi5lhmf7EnK__Pr
+#EXTINF:-1 xui-id="4231427" tvg-id="br#tv-rondonia-hd" tvg-name="GLOBO RO - REDE AMAZONICA CACOAL HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO RO - REDE AMAZONICA CACOAL HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDV3Xb3PNOl1yHwO7QA-eIZO1rj-2LcdqRwS5Js94aqRJ
+#EXTINF:-1 xui-id="4231428" tvg-id="br#tv-rondonia-hd" tvg-name="GLOBO RO - REDE AMAZONICA CACOAL SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO RO - REDE AMAZONICA CACOAL SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDQetUEsfrJuJ661RrIijwH8EHiwiNmbjGVvR9ahxoEGv
+#EXTINF:-1 xui-id="4231432" tvg-id="br#tv-rondonia-hd" tvg-name="GLOBO RO - REDE AMAZONICA VILHENA FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO RO - REDE AMAZONICA VILHENA FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDXOC-nfPjU1AdEJsflPMSBXhVo-8ASoHA5-sFOsILNXY
+#EXTINF:-1 xui-id="4231433" tvg-id="br#tv-rondonia-hd" tvg-name="GLOBO RO - REDE AMAZONICA VILHENA HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO RO - REDE AMAZONICA VILHENA HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDduLYE7I7EHyVrwaPq6BBh-tLgH99fE71MJNSN2DlMLS
+#EXTINF:-1 xui-id="4231434" tvg-id="br#tv-rondonia-hd" tvg-name="GLOBO RO - REDE AMAZONICA VILHENA SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO RO - REDE AMAZONICA VILHENA SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDYKS3Nb-_BROikohihU3MwP00z2swQGbx3HauLXAZqnf
+#EXTINF:-1 xui-id="4231435" tvg-id="RPCTVCuritiba.br" tvg-name="GLOBO RP - RP CURITIBA HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO RP - RP CURITIBA HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDT9RYGjRMy8lHMt4AccSKEa523QUP5EmHiBFG47XPW5B
+#EXTINF:-1 xui-id="4231436" tvg-id="RPCTVCuritiba.br" tvg-name="GLOBO RP - RPC CURITIBA FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO RP - RPC CURITIBA FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDQCJi-BJRjBO-0ecj8nGyIecX6oZfeedm0sANASaq7NN
+#EXTINF:-1 xui-id="4231437" tvg-id="RPCTVCuritiba.br" tvg-name="GLOBO RP - RPC CURITIBA SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO RP - RPC CURITIBA SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDUP4mzIVx9mDL7GnlPAgF8jx4PoXgmkfAuMGPuYL9_VJ
+#EXTINF:-1 xui-id="4231438" tvg-id="br#tv-boa-vista-hd" tvg-name="GLOBO RR - AMAZONICA BOA VISTA FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO RR - AMAZONICA BOA VISTA FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDcC0sJyGNE7fHFxCdn1GGNsKeqmr8g_ZK2GQEMD7Zxm6
+#EXTINF:-1 xui-id="4231439" tvg-id="br#tv-boa-vista-hd" tvg-name="GLOBO RR - AMAZONICA BOA VISTA HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO RR - AMAZONICA BOA VISTA HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDS9fLdDquTk_c8s8BMO8_f1rkwyXFm4lXH6lFM0Nnieh
+#EXTINF:-1 xui-id="4231440" tvg-id="br#tv-boa-vista-hd" tvg-name="GLOBO RR - AMAZONICA BOA VISTA SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO RR - AMAZONICA BOA VISTA SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDf2GeQPZBvmC2wGHbkap_OEqlTmP_1B_f9cHHBk6htj8
+#EXTINF:-1 xui-id="4231441" tvg-id="br#tv-roraima-hd" tvg-name="GLOBO RR - REDE AMAZONICA RORAINOPOLIS FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO RR - REDE AMAZONICA RORAINOPOLIS FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDbXMupS_lEymt39fxdppE31OFnaai2K0dULNRyG7v-vo
+#EXTINF:-1 xui-id="4231442" tvg-id="br#tv-roraima-hd" tvg-name="GLOBO RR - REDE AMAZONICA RORAINOPOLIS HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO RR - REDE AMAZONICA RORAINOPOLIS HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDTMG_5m7UXlsrYB7d7RzuBQsJeJ7aPqcVDaja-lnFofr
+#EXTINF:-1 xui-id="4231443" tvg-id="br#tv-roraima-hd" tvg-name="GLOBO RR - REDE AMAZONICA RORAINOPOLIS SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO RR - REDE AMAZONICA RORAINOPOLIS SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDXWra_2CsC55g5BTzcwzhaTVM7VMAIT1Yzu3HW75kjX6
+#EXTINF:-1 xui-id="4231447" tvg-id="RBSTVPortoAlegre.br" tvg-name="GLOBO RS - RBS TV CAXIAS DO SUL FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO RS - RBS TV CAXIAS DO SUL FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDV2sZOLTOnXSaHLKaZgXb1bKosKmykeoGXJVY_NjIquE
+#EXTINF:-1 xui-id="4231448" tvg-id="RBSTVPortoAlegre.br" tvg-name="GLOBO RS - RBS TV CAXIAS DO SUL HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO RS - RBS TV CAXIAS DO SUL HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDR76AuHhPbvQm9pGZhGPDx80rmzMsVM4JtoGRL-e9xLF
+#EXTINF:-1 xui-id="4231449" tvg-id="RBSTVPortoAlegre.br" tvg-name="GLOBO RS - RBS TV CAXIAS DO SUL SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO RS - RBS TV CAXIAS DO SUL SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDbeBxDXneL8T3nEgBmoHH1qrzi4-5sXjIsiXhH3nqcOW
+#EXTINF:-1 xui-id="4231450" tvg-id="RBSTVPortoAlegre.br" tvg-name="GLOBO RS - RBS TV CRUZ ALTA FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO RS - RBS TV CRUZ ALTA FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDUY6s6SCKpEVo_wGRdAMFrBfBsB0oT2CnkHjLFjc-3rc
+#EXTINF:-1 xui-id="4231451" tvg-id="RBSTVPortoAlegre.br" tvg-name="GLOBO RS - RBS TV CRUZ ALTA HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO RS - RBS TV CRUZ ALTA HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDa2kXmIC7ODoZNZPHgfnxaGzz5SvVqxc_jQ-7PQa7lks
+#EXTINF:-1 xui-id="4231452" tvg-id="RBSTVPortoAlegre.br" tvg-name="GLOBO RS - RBS TV CRUZ ALTA SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO RS - RBS TV CRUZ ALTA SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDYap5LagEpoO8QxyCA68u2WajZY1LQC-GQaSHi4Q6eV8
+#EXTINF:-1 xui-id="4231453" tvg-id="RBSTVPortoAlegre.br" tvg-name="GLOBO RS - RBS TV DOS VALES FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO RS - RBS TV DOS VALES FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDWx7cLVntexjDe5TsoQvNwDj-A01D39_SHttWtoDXMeG
+#EXTINF:-1 xui-id="4231454" tvg-id="RBSTVPortoAlegre.br" tvg-name="GLOBO RS - RBS TV DOS VALES HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO RS - RBS TV DOS VALES HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDW3_JtBIg9_iyeQ1PtcBh9EnUVdCHqDadnlVRmr6FUkJ
+#EXTINF:-1 xui-id="4231455" tvg-id="RBSTVPortoAlegre.br" tvg-name="GLOBO RS - RBS TV DOS VALES SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO RS - RBS TV DOS VALES SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDRrHFhd3xG8NfquLWO5R_nGIa7jl2AU1Ax4x-P4nlbXO
+#EXTINF:-1 xui-id="4231459" tvg-id="RBSTVPortoAlegre.br" tvg-name="GLOBO RS - RBS TV PASSO FUNDO FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO RS - RBS TV PASSO FUNDO FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDZeL2ClxSMTMWV3qpThqFjXVL2DVL9BkrgKthkLyDMvm
+#EXTINF:-1 xui-id="4231460" tvg-id="RBSTVPortoAlegre.br" tvg-name="GLOBO RS - RBS TV PASSO FUNDO HD" tvg-logo="http://longitudenow.site:80/images/9Nw9RlbJeU65ur_Bg0WfbA_AvdqbS_5PqAvxP8Eonbq1OHcIAM_hEaOC5T4IsJfIFzYLny9V306c9QGOv9TmfQ.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO RS - RBS TV PASSO FUNDO HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDeFDbmHDzAEgRl44X4TxPjQaZW6duuhnrtHERQQGBZvi
+#EXTINF:-1 xui-id="4231461" tvg-id="RBSTVPortoAlegre.br" tvg-name="GLOBO RS - RBS TV PASSO FUNDO SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO RS - RBS TV PASSO FUNDO SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDfwooElMuoes8ObNl1anQK4fOBD0aT1eSA167ZjhETFV
+#EXTINF:-1 xui-id="4231462" tvg-id="RBSTVPortoAlegre.br" tvg-name="GLOBO RS - RBS TV PELOTAS FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO RS - RBS TV PELOTAS FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDTJi2aGjdvIvOKXSMEWSmhqJsxRmYSHles-zMxgUNLGJ
+#EXTINF:-1 xui-id="4231463" tvg-id="RBSTVPortoAlegre.br" tvg-name="GLOBO RS - RBS TV PELOTAS HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO RS - RBS TV PELOTAS HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDQpJ1Cm2CCEny6PzEAapVfI4w2OVyCqa0ZzTY-iOGx2m
+#EXTINF:-1 xui-id="4231464" tvg-id="RBSTVPortoAlegre.br" tvg-name="GLOBO RS - RBS TV PELOTAS SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO RS - RBS TV PELOTAS SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDYSv3DqdOOtt03iAsUEBxJk8mRTWrMVILvbbrSPb5MHV
+#EXTINF:-1 xui-id="4231465" tvg-id="RBSTVPortoAlegre.br" tvg-name="GLOBO RS - RBS TV PORTO ALEGRE FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO RS - RBS TV PORTO ALEGRE FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDU_ivFn58LQdk0qTXE5clayeWwQb__Na1Kat72_7zJf3
+#EXTINF:-1 xui-id="4231466" tvg-id="RBSTVPortoAlegre.br" tvg-name="GLOBO RS - RBS TV PORTO ALEGRE FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO RS - RBS TV PORTO ALEGRE FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDeOPH1OwPj5QYdKdxQKQ0yAiy0m1nxlayHgHk7a8gGM2
+#EXTINF:-1 xui-id="4231467" tvg-id="RBSTVPortoAlegre.br" tvg-name="GLOBO RS - RBS TV PORTO ALEGRE HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO RS - RBS TV PORTO ALEGRE HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDXBwM-JPE-qYUeqqyRklsJ5qAW5pBKY2gyAmM8E__Fhv
+#EXTINF:-1 xui-id="4231468" tvg-id="RBSTVPortoAlegre.br" tvg-name="GLOBO RS - RBS TV PORTO ALEGRE HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO RS - RBS TV PORTO ALEGRE HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDfgVv55Hsa9vENBZo8jRVD50tGSUiNyLjlu57AAh4hM1
+#EXTINF:-1 xui-id="4231469" tvg-id="RBSTVPortoAlegre.br" tvg-name="GLOBO RS - RBS TV PORTO ALEGRE SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO RS - RBS TV PORTO ALEGRE SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDRimm9l79HhDQx3jhE3eJLiE2TDbQRheVekHeAfkYAot
+#EXTINF:-1 xui-id="4231470" tvg-id="RBSTVPortoAlegre.br" tvg-name="GLOBO RS - RBS TV PORTO ALEGRE SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO RS - RBS TV PORTO ALEGRE SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDVsg3CyqbQQyLnX5e2VXHVRR_hvlwxG0bmqwqL_xO60X
+#EXTINF:-1 xui-id="4231483" tvg-id="NSCTVBlumenau.br" tvg-name="GLOBO SC - NSC TV BLUMENAU FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO SC - NSC TV BLUMENAU FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDd_9ZaIRkLpaavbK_VdBDswFhd-RYyD_pEbSUn0SMjcn
+#EXTINF:-1 xui-id="4231484" tvg-id="NSCTVBlumenau.br" tvg-name="GLOBO SC - NSC TV BLUMENAU HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO SC - NSC TV BLUMENAU HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDSYJpUd5jh6alyA5V9Rsv1k_owCsUGG7JVF9fWbrO3b0
+#EXTINF:-1 xui-id="4231485" tvg-id="NSCTVBlumenau.br" tvg-name="GLOBO SC - NSC TV BLUMENAU SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO SC - NSC TV BLUMENAU SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDRxMCBzIjcv-t2bDWY_kvcV-4KTWYDDEB_DutxI8EBDt
+#EXTINF:-1 xui-id="4231488" tvg-id="NSCTVFlorianopolis.br" tvg-name="GLOBO SC - NSC TV CENTRO OESTE SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO SC - NSC TV CENTRO OESTE SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDRoEt5plf-oU5wavetW4Qe_XjrdsLHSd8spA5OBrxd4D
+#EXTINF:-1 xui-id="4231489" tvg-id="NSCTVChapeco.br" tvg-name="GLOBO SC - NSC TV CHAPECÓ FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO SC - NSC TV CHAPECÓ FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDU-8eYlYQH2_3AE07ZpIfjdc0tZqHh0dXCv4cZ6lPN_p
+#EXTINF:-1 xui-id="4231490" tvg-id="NSCTVChapeco.br" tvg-name="GLOBO SC - NSC TV CHAPECÓ HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO SC - NSC TV CHAPECÓ HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDUYkxiwXYFmCi-3yv7KAISnA6KlKHcAQnf8vmoah7c9B
+#EXTINF:-1 xui-id="4231491" tvg-id="NSCTVChapeco.br" tvg-name="GLOBO SC - NSC TV CHAPECÓ SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO SC - NSC TV CHAPECÓ SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDQOFubR5WkbrrNlHdSVojG0paKSh1k6_U0jaJfd8sVIY
+#EXTINF:-1 xui-id="4231492" tvg-id="NSCTVCriciuma.br" tvg-name="GLOBO SC - NSC TV CRICIÚMA FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO SC - NSC TV CRICIÚMA FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDW75y0UNLTKidk4UrXDAD_Fre2Kd2PaYBBYnzKKxmR5W
+#EXTINF:-1 xui-id="4231493" tvg-id="NSCTVCriciuma.br" tvg-name="GLOBO SC - NSC TV CRICIÚMA HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO SC - NSC TV CRICIÚMA HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDU3n0cKMsb4jUXfMVKTSZsWpS_HgTC6HT6ecSxT6Q5gw
+#EXTINF:-1 xui-id="4231494" tvg-id="NSCTVCriciuma.br" tvg-name="GLOBO SC - NSC TV CRICIÚMA SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO SC - NSC TV CRICIÚMA SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDbnTcUYlSjyU6ciILOpoXICP3cYJKMMEfmWXQ7z9yeik
+#EXTINF:-1 xui-id="4231495" tvg-id="NSCTVFlorianopolis.br" tvg-name="GLOBO SC - NSC TV FLORIANOPOLIS FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO SC - NSC TV FLORIANOPOLIS FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDYBjhppV5Nnyf8FHwipaysN62q9xV89tQ8ZkbJMV2olJ
+#EXTINF:-1 xui-id="4231496" tvg-id="NSCTVFlorianopolis.br" tvg-name="GLOBO SC - NSC TV FLORIANOPOLIS HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO SC - NSC TV FLORIANOPOLIS HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDdRR7O-q35xSecp54zDnX9WGzG2I0JvgSgxCybN8nSNV
+#EXTINF:-1 xui-id="4231497" tvg-id="NSCTVFlorianopolis.br" tvg-name="GLOBO SC - NSC TV FLORIANOPOLIS SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO SC - NSC TV FLORIANOPOLIS SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDdbVKJYojQWaaCRWzd8gMtNNHj1akW8rJIgQKOm_VqTn
+#EXTINF:-1 xui-id="4231498" tvg-id="NSCTVJoinville.br" tvg-name="GLOBO SC - NSC TV JOINVILLE FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO SC - NSC TV JOINVILLE FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDeSAn2zv6IUon0FC2yeyLICoh0TO_8GjgSyH3H5jmS0P
+#EXTINF:-1 xui-id="4231499" tvg-id="NSCTVJoinville.br" tvg-name="GLOBO SC - NSC TV JOINVILLE HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO SC - NSC TV JOINVILLE HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDYmoOeqInE9Qq4LB5ScueYFZXG1PmQUTw3utQI-DXVWU
+#EXTINF:-1 xui-id="4231500" tvg-id="NSCTVJoinville.br" tvg-name="GLOBO SC - NSC TV JOINVILLE SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO SC - NSC TV JOINVILLE SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDQpB7sYLioZmXxvRuNh8JfSSb5nEuGiRBJ9IdezxzG5e
+#EXTINF:-1 xui-id="4231501" tvg-id="br#rede-globo-aracaju" tvg-name="GLOBO SE - TV SERGIPE FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO SE - TV SERGIPE FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDVw4_52bo38lGMAlGfmlmgK1Nb4zDFO5NyvnWL9tCbRm
+#EXTINF:-1 xui-id="4231502" tvg-id="br#rede-globo-aracaju" tvg-name="GLOBO SE - TV SERGIPE HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO SE - TV SERGIPE HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDaxaCU9wLgmV7SCc0gb2h_0M3aywOXdGM9nb5S8Y3lnT
+#EXTINF:-1 xui-id="4231503" tvg-id="br#rede-globo-aracaju" tvg-name="GLOBO SE - TV SERGIPE SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO SE - TV SERGIPE SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDTiefp3HwbnJmo8kkbL-PYjcgCxGVHMBxYxUqbYQmwvI
+#EXTINF:-1 xui-id="4231504" tvg-id="br#globo-s-o-paulo-hd" tvg-name="GLOBO SP - EPTV CAMPINAS FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO SP - EPTV CAMPINAS FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDYfxegOP1Xs09tDAnO3t2vgDGBjWUdHhkE52-4jqbMFP
+#EXTINF:-1 xui-id="4231505" tvg-id="br#globo-s-o-paulo-hd" tvg-name="GLOBO SP - EPTV CAMPINAS HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO SP - EPTV CAMPINAS HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDbnJrzmMuzGgen1tYVsu7ohzOFbG1HS-QvAT94oKulYC
+#EXTINF:-1 xui-id="4231506" tvg-id="br#globo-s-o-paulo-hd" tvg-name="GLOBO SP - EPTV CAMPINAS SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO SP - EPTV CAMPINAS SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDeefFplwXMrX-x2OPjiOJ9IO9deNboAglv-HED8CKK-l
+#EXTINF:-1 xui-id="4231507" tvg-id="br#globo-s-o-paulo-hd" tvg-name="GLOBO SP - EPTV RIBEIRAO PRETO FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO SP - EPTV RIBEIRAO PRETO FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDYfs9PdQkJGxVWFmmBXfo6PZqW5rUzIsCS2bn_NL7fv8
+#EXTINF:-1 xui-id="4231508" tvg-id="br#globo-s-o-paulo-hd" tvg-name="GLOBO SP - EPTV RIBEIRAO PRETO HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO SP - EPTV RIBEIRAO PRETO HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDWOi5edPzI39ZhLb0-mGe2Of5TDwakABrTYwtaGnDh3F
+#EXTINF:-1 xui-id="4231509" tvg-id="br#globo-s-o-paulo-hd" tvg-name="GLOBO SP - EPTV RIBEIRAO PRETO SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO SP - EPTV RIBEIRAO PRETO SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDVFCTzkaVLev9IO1E8aG9EcZ_79KyNb_XpZgCuFA0OsU
+#EXTINF:-1 xui-id="4231516" tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO SP - TV GLOBO SAO PAULO 4K" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ 4K",GLOBO SP - TV GLOBO SAO PAULO 4K
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDZjjpaxAX2Ts4a9E3ue4CAt26WztFXVHor_Dib2Q0C-0
+#EXTINF:-1 xui-id="4231517" tvg-id="br#globo-s-o-paulo-hd" tvg-name="GLOBO SP - TV GLOBO SAO PAULO FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO SP - TV GLOBO SAO PAULO FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDa0vU61L7ZLSNaUqdbU1hYzLS7JfeJNf7lqOR1R32IyU
+#EXTINF:-1 xui-id="4231518" tvg-id="br#globo-s-o-paulo-hd" tvg-name="GLOBO SP - TV GLOBO SAO PAULO HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO SP - TV GLOBO SAO PAULO HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDdSbc2DS_nJxhx01_VeD03fXAcOMboK1_1-pVOJjUebT
+#EXTINF:-1 xui-id="4231519" tvg-id="br#globo-s-o-paulo-hd" tvg-name="GLOBO SP - TV GLOBO SAO PAULO SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO SP - TV GLOBO SAO PAULO SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDcD9Y8pWW87a9EZTMyGc1WoSZ4KLMNVhBpIChVbaNfqL
+#EXTINF:-1 xui-id="4231520" tvg-id="br#globo-s-o-paulo-hd" tvg-name="GLOBO SP - TV TEM BAURU FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO SP - TV TEM BAURU FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDckszelAh8MG_ap2ZV1cm-4WQ1h8S-KSU0T_8hJvK0Dd
+#EXTINF:-1 xui-id="4231521" tvg-id="br#globo-s-o-paulo-hd" tvg-name="GLOBO SP - TV TEM BAURU HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO SP - TV TEM BAURU HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDUd-0aGoUZb3vvgRFcJakT09E46mMUNBwwpHtrBl9BSs
+#EXTINF:-1 xui-id="4231522" tvg-id="br#globo-s-o-paulo-hd" tvg-name="GLOBO SP - TV TEM BAURU SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO SP - TV TEM BAURU SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDeaimiySRi11gOAVqCbLco8XMu65LCPkWK2xBBckoIrz
+#EXTINF:-1 xui-id="4231523" tvg-id="br#globo-s-o-paulo-hd" tvg-name="GLOBO SP - TV TEM ITAPETINGA FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO SP - TV TEM ITAPETINGA FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDfcyJum_-AEJ4LKbgXerYS1qt2tktkmGbtPUegqi41z6
+#EXTINF:-1 xui-id="4231524" tvg-id="br#globo-s-o-paulo-hd" tvg-name="GLOBO SP - TV TEM ITAPETINGA HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO SP - TV TEM ITAPETINGA HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDcDxTI51M0Bm4Tg-6fLSgTHsQtWaXpQ0ntwKG-3mLYqm
+#EXTINF:-1 xui-id="4231525" tvg-id="br#globo-s-o-paulo-hd" tvg-name="GLOBO SP - TV TEM ITAPETINGA SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO SP - TV TEM ITAPETINGA SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDV_kLxeujRj7yV5atQiCHhFd4Zhh2SYUUtdF-_dZLokD
+#EXTINF:-1 xui-id="4231526" tvg-id="br#globo-s-o-paulo-hd" tvg-name="GLOBO SP - TV TEM SAO JOSÉ DO RIO PRETO FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO SP - TV TEM SAO JOSÉ DO RIO PRETO FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDRbBenmgHz5YMHkXEcmuhZpIo2f5NEmVH93DsHnj6pLS
+#EXTINF:-1 xui-id="4231527" tvg-id="br#globo-s-o-paulo-hd" tvg-name="GLOBO SP - TV TEM SAO JOSÉ DO RIO PRETO HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO SP - TV TEM SAO JOSÉ DO RIO PRETO HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDTyE6avN_Xr3mCjPvSbizFeMhUb31YwCRzq76QbRUdh9
+#EXTINF:-1 xui-id="4231528" tvg-id="br#globo-s-o-paulo-hd" tvg-name="GLOBO SP - TV TEM SAO JOSÉ DO RIO PRETO SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO SP - TV TEM SAO JOSÉ DO RIO PRETO SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDVjh33R6TYkUXeGEmuZ5iGhGGtKOZWA8S7jXLq07BMJC
+#EXTINF:-1 xui-id="4231529" tvg-id="br#globo-s-o-paulo-hd" tvg-name="GLOBO SP - TV TEM SOROCABA FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO SP - TV TEM SOROCABA FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDbppjZps4GsJSQKoZfTpi1rl_olEpkp7xN94FG2UF6pY
+#EXTINF:-1 xui-id="4231530" tvg-id="br#globo-s-o-paulo-hd" tvg-name="GLOBO SP - TV TEM SOROCABA HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO SP - TV TEM SOROCABA HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDSUxyUPewI_ieJ0zV6cS1ahVEL3Bw6zm2tI9IIrXhE9w
+#EXTINF:-1 xui-id="4231531" tvg-id="br#globo-s-o-paulo-hd" tvg-name="GLOBO SP - TV TEM SOROCABA SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO SP - TV TEM SOROCABA SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDTlYpxznFV-JVoOblC45mnomGNWEi7wPzG3s-eH12ST8
+#EXTINF:-1 xui-id="4231532" tvg-id="br#tv-tribuna-hd-1" tvg-name="GLOBO SP - TV TRIBUNA SANTOS FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO SP - TV TRIBUNA SANTOS FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDTdsuPWSF-o6K0WBJnG1Ic30Vqp6fFa8AgFhtwF7jBGz
+#EXTINF:-1 xui-id="4231533" tvg-id="br#tv-tribuna-hd" tvg-name="GLOBO SP - TV TRIBUNA SANTOS HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO SP - TV TRIBUNA SANTOS HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDWGOO5xRfUkLJS7AxJRqXga1DQXHxEE2rB910T6sYxMr
+#EXTINF:-1 xui-id="4231534" tvg-id="br#tv-tribuna-hd" tvg-name="GLOBO SP - TV TRIBUNA SANTOS SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO SP - TV TRIBUNA SANTOS SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDeJuh5RFCHRdq_U5DUphSAWusSJ7U1yUWjXjSLAS8NcN
+#EXTINF:-1 xui-id="4231535" tvg-id="24HAnimes" tvg-name="GLOBO SP - TV VANGUARDA TAUBATÉ FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO SP - TV VANGUARDA TAUBATÉ FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDT7TO3xTNDaGmjcA-wTrlzLvIYls1zokLEUhdGZ_qGuH
+#EXTINF:-1 xui-id="4231537" tvg-id="24HAnimes" tvg-name="GLOBO SP - TV VANGUARDA TAUBATÉ SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO SP - TV VANGUARDA TAUBATÉ SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDawTBMHTJwpzP3s87oR1Ni4asLEtiSRs8nQq72O2wVnM
+#EXTINF:-1 xui-id="4231538" tvg-id="br#tv-anhanguera-palmas" tvg-name="GLOBO TO - TV ANHANGUERA ARAGUAINA FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO TO - TV ANHANGUERA ARAGUAINA FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDb20SROQpMTHsnVln9R6jNJBKYNJmX6xzmQMG0FSrN6T
+#EXTINF:-1 xui-id="4231539" tvg-id="TVAnhangueraGoiania.br" tvg-name="GLOBO TO - TV ANHANGUERA ARAGUAINA HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO TO - TV ANHANGUERA ARAGUAINA HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDdjEt1fq7hlDXdG_nzMuGB3BgzmEaEYK4JeeAm6lFaqX
+#EXTINF:-1 xui-id="4231540" tvg-id="br#tv-anhanguera-palmas" tvg-name="GLOBO TO - TV ANHANGUERA ARAGUAINA SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBO TO - TV ANHANGUERA ARAGUAINA SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDXTPKYAXrBsVchSwlYu6cwpQT5jtm8CoNtUmlS1QSZ52
+#EXTINF:-1 xui-id="4231544" tvg-id="br#globo-belo-horizonte" tvg-name="GLOBOO MG - TV INTEGRAÇAO UBERABA FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBOO MG - TV INTEGRAÇAO UBERABA FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDRJiqyz6IUZ72oxGl96gB1YWAnoYQzTzMRCZtcgwMJzF
+#EXTINF:-1 xui-id="4231545" tvg-id="br#globo-belo-horizonte" tvg-name="GLOBOO MG - TV INTEGRAÇAO UBERABA HD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBOO MG - TV INTEGRAÇAO UBERABA HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDRB2N8zlmXPPSC45kmp6KdlKILf3XvBsxdzW5AphgFOD
+#EXTINF:-1 xui-id="4231546" tvg-id="br#globo-belo-horizonte" tvg-name="GLOBOO MG - TV INTEGRAÇAO UBERABA SD" tvg-logo="https://img.hotice.site/icones_channels/GLOBO_RS_HD.png" group-title="F21 M5 ⭐ GLOBOS",GLOBOO MG - TV INTEGRAÇAO UBERABA SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDWZDOmfgRullYBWJ1N4ca9Rel93Z74Xpuuxjh2xil9Jw
+#EXTINF:-1 xui-id="4231547" tvg-id="br#gloob-hd" tvg-name="GLOOB FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOOB_HD.png" group-title="F21 M5 ⭐ INFANTIL",GLOOB FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDcM81InkkdNbOm3n_D2ZDZRCsIlSAqiQUfq8bsux7vkl
+#EXTINF:-1 xui-id="4231548" tvg-id="br#gloob-hd" tvg-name="GLOOB HD" tvg-logo="https://img.hotice.site/icones_channels/GLOOB_HD.png" group-title="F21 M5 ⭐ INFANTIL",GLOOB HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDboz6E2mWvZEyl7-HPYYVerI-N0HVJvBJW2b3jfkM_m0
+#EXTINF:-1 xui-id="4231549" tvg-id="br#gloob-hd" tvg-name="GLOOB SD" tvg-logo="https://img.hotice.site/icones_channels/GLOOB_HD.png" group-title="F21 M5 ⭐ INFANTIL",GLOOB SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDZwe8rL0OfAFH66jJI7ReGDaD4y37BmPW5kSzB9qjkej
+#EXTINF:-1 xui-id="4231550" tvg-id="br#gloobinho-hd" tvg-name="GLOOBINHO FHD" tvg-logo="https://img.hotice.site/icones_channels/GLOOBINHO.png" group-title="F21 M5 ⭐ INFANTIL",GLOOBINHO FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDbeNS959hc4jRrp65y8Ud3N1DYfzwm9mvgVclUKtKBJb
+#EXTINF:-1 xui-id="4231551" tvg-id="br#gloobinho-hd" tvg-name="GLOOBINHO HD" tvg-logo="https://img.hotice.site/icones_channels/GLOOBINHO.png" group-title="F21 M5 ⭐ INFANTIL",GLOOBINHO HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDbYYjdAkEZPGJgb9gBhPP9SH9Vbp5L98Hvl7v7FYeyrb
+#EXTINF:-1 xui-id="4231552" tvg-id="br#gloobinho-hd" tvg-name="GLOOBINHO SD" tvg-logo="https://img.hotice.site/icones_channels/GLOOBINHO.png" group-title="F21 M5 ⭐ INFANTIL",GLOOBINHO SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDfrH4z9tRJtFEq0ezWLUnZe90aZfFbYg4ithSKh61Qnz
+#EXTINF:-1 xui-id="4231553" tvg-id="br#gnt-hd" tvg-name="GNT FHD" tvg-logo="https://img.hotice.site/icones_channels/GNT_HD.png" group-title="F21 M5 ⭐ VARIEDADES",GNT FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDSA3HqGMG7_9O7pnm6kHYGswP7NxYO0xwA-TTyixPn97
+#EXTINF:-1 xui-id="4231554" tvg-id="br#gnt-hd" tvg-name="GNT HD" tvg-logo="https://img.hotice.site/icones_channels/GNT_HD.png" group-title="F21 M5 ⭐ VARIEDADES",GNT HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDUHi0yv-JRG_8RjgDZttK1kBDWNa9jbCER5Noa2XVd54
+#EXTINF:-1 xui-id="4231555" tvg-id="br#gnt-hd" tvg-name="GNT SD" tvg-logo="https://img.hotice.site/icones_channels/GNT_HD.png" group-title="F21 M5 ⭐ VARIEDADES",GNT SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDS1RrY-w0kKPokRIJzpHPR9lZeKiET6RlJjo780f3umq
+#EXTINF:-1 xui-id="4238244" tvg-id="" tvg-name="Guardiões da Galaxia 24hs" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",Guardiões da Galaxia 24hs
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDRSmGBM52PWSZQ8BTDigWBUWW_0-a8v0sokTHIxVOPK_
+#EXTINF:-1 xui-id="4231557" tvg-id="HBO.br" tvg-name="HBO 4K" tvg-logo="https://img.inboxbr.pro/icones_channels/hbo.png" group-title="F21 M5 ⭐ 4K",HBO 4K
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDaNQyj49sMgOyHRRyo7549z769lO3KfV1KZ7ugJFEb4v
+#EXTINF:-1 xui-id="4231558" tvg-id="HBOFamily.br" tvg-name="HBO FAMILY 4K" tvg-logo="https://img.hotice.site/icones_channels/HBO_FAMILY_HD.png" group-title="F21 M5 ⭐ 4K",HBO FAMILY 4K
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDYcRuyN0r4HVHieLMcLP1VPV9HIA6uZMSnmjXmb8jc30
+#EXTINF:-1 xui-id="4231559" tvg-id="HBOFamily.br" tvg-name="HBO FAMILY FHD" tvg-logo="https://img.hotice.site/icones_channels/HBO_FAMILY_HD.png" group-title="F21 M5 ⏩ HBO",HBO FAMILY FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDWovtrSpapUuozBLAGQXIwKB0RqoxPzLWSgOK71wa7aF
+#EXTINF:-1 xui-id="4231560" tvg-id="HBOFamily.br" tvg-name="HBO FAMILY HD" tvg-logo="https://img.hotice.site/icones_channels/HBO_FAMILY_HD.png" group-title="F21 M5 ⏩ HBO",HBO FAMILY HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDQZ_PEPsLjXzZNYkbAneL2KfJHl3_t1G11XXZMGE-fLD
+#EXTINF:-1 xui-id="4231561" tvg-id="HBOFamily.br" tvg-name="HBO FAMILY SD" tvg-logo="https://img.hotice.site/icones_channels/HBO_FAMILY_HD.png" group-title="F21 M5 ⏩ HBO",HBO FAMILY SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDZ30j78jUoqsRsQkd7vqWF_Z7rEpMtu6Q2BAGTyVXbGW
+#EXTINF:-1 xui-id="4231562" tvg-id="HBO.br" tvg-name="HBO FHD" tvg-logo="https://img.inboxbr.pro/icones_channels/hbo.png" group-title="F21 M5 ⏩ HBO",HBO FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDSAKp0KYb1MKctP4ihj9X5WzTdKfZCJzj0PfskohMky8
+#EXTINF:-1 xui-id="4231563" tvg-id="HBO.br" tvg-name="HBO HD" tvg-logo="https://img.inboxbr.pro/icones_channels/hbo.png" group-title="F21 M5 ⏩ HBO",HBO HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDZIM9kt6nzLBY8DOPzsO1gaJWKZP6LGX7ISGUvmAaTIz
+#EXTINF:-1 xui-id="4231564" tvg-id="HBOMundi.br" tvg-name="HBO MUNDI 4K" tvg-logo="https://img.hotice.site/icones_channels/HBO_MUNDI_HD.png" group-title="F21 M5 ⭐ 4K",HBO MUNDI 4K
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDYKOlqQKBj-8XD83TRMn4wFJCd2pwMMP6h-7jDA9G9HF
+#EXTINF:-1 xui-id="4231565" tvg-id="HBOMundi.br" tvg-name="HBO MUNDI FHD" tvg-logo="https://img.hotice.site/icones_channels/HBO_MUNDI_HD.png" group-title="F21 M5 ⏩ HBO",HBO MUNDI FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDYiySPCZ5hxHPRErhBD38bPqj9QkH_ZO3FU_mxoTEPSk
+#EXTINF:-1 xui-id="4231566" tvg-id="HBOMundi.br" tvg-name="HBO MUNDI HD" tvg-logo="https://img.hotice.site/icones_channels/HBO_MUNDI_HD.png" group-title="F21 M5 ⏩ HBO",HBO MUNDI HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDaT0OTPzXqJXaHtUjocBVMJ078J3Zrx8IqFa789nrOAa
+#EXTINF:-1 xui-id="4231567" tvg-id="HBOMundi.br" tvg-name="HBO MUNDI SD" tvg-logo="https://img.hotice.site/icones_channels/HBO_MUNDI_HD.png" group-title="F21 M5 ⏩ HBO",HBO MUNDI SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDZEVDAqYgxhOwDokBC_0YRK7g1vZ47WbkFV8pX_0CzHh
+#EXTINF:-1 xui-id="4231568" tvg-id="HBOPop.br" tvg-name="HBO POP 4K" tvg-logo="https://img.hotice.site/icones_channels/HBO_POP_HD.png" group-title="F21 M5 ⭐ 4K",HBO POP 4K
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDZ_1afhfeDAbG6K4xv1VtXtJpPodxVFSSFRaBrZsWG9v
+#EXTINF:-1 xui-id="4231569" tvg-id="HBOPop.br" tvg-name="HBO POP FHD" tvg-logo="https://img.hotice.site/icones_channels/HBO_POP_HD.png" group-title="F21 M5 ⏩ HBO",HBO POP FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDbbi9cUQbU9dCkypMd4HR9vS7unfK5-pEnpyw9pGMqSz
+#EXTINF:-1 xui-id="4231570" tvg-id="HBOPop.br" tvg-name="HBO POP HD" tvg-logo="https://img.hotice.site/icones_channels/HBO_POP_HD.png" group-title="F21 M5 ⏩ HBO",HBO POP HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDeQqwZrZfslkPGqC3GDs1Luxk96w9Q78wb405oAkbo98
+#EXTINF:-1 xui-id="4231571" tvg-id="HBOPop.br" tvg-name="HBO POP SD" tvg-logo="https://img.hotice.site/icones_channels/HBO_POP_HD.png" group-title="F21 M5 ⏩ HBO",HBO POP SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDV3sp65UaCU-9m_hbJOub3pBTDDtDcupE_41n_mUhI9B
+#EXTINF:-1 xui-id="4231572" tvg-id="HBO.br" tvg-name="HBO SD" tvg-logo="https://img.inboxbr.pro/icones_channels/hbo.png" group-title="F21 M5 ⏩ HBO",HBO SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDRGnJ64spYIN-I-03QThY5Ik5gcH_DXgh4roKl220Q6r
+#EXTINF:-1 xui-id="4231573" tvg-id="HBOSignature.br" tvg-name="HBO SIGNATURE 4K" tvg-logo="https://img.hotice.site/icones_channels/HBO_SIGNATURE_HD.png" group-title="F21 M5 ⭐ 4K",HBO SIGNATURE 4K
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDWBGj8TxsvTdIRBdMF1L2oXVbLNP5RRYl828ED-R3Pyf
+#EXTINF:-1 xui-id="4231574" tvg-id="HBOSignature.br" tvg-name="HBO SIGNATURE FHD" tvg-logo="https://img.hotice.site/icones_channels/HBO_SIGNATURE_HD.png" group-title="F21 M5 ⏩ HBO",HBO SIGNATURE FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDYzPLscFAvgEezZdwmmqCPadNZdNTGpEqVJ8qqOjhTP3
+#EXTINF:-1 xui-id="4231575" tvg-id="HBOSignature.br" tvg-name="HBO SIGNATURE HD" tvg-logo="https://img.hotice.site/icones_channels/HBO_SIGNATURE_HD.png" group-title="F21 M5 ⏩ HBO",HBO SIGNATURE HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDQjzSwiQM53z23la4IO6NO9XUi57OBoLrSOo_yyRhpuo
+#EXTINF:-1 xui-id="4231576" tvg-id="HBOSignature.br" tvg-name="HBO SIGNATURE SD" tvg-logo="https://img.hotice.site/icones_channels/HBO_SIGNATURE_HD.png" group-title="F21 M5 ⏩ HBO",HBO SIGNATURE SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDbVusw0tAtM2dd9YP9lSoBUWSSLenri0_kt-1RqgJoYu
+#EXTINF:-1 xui-id="4231577" tvg-id="HBO Xtreme HD" tvg-name="HBO XTREME 4K" tvg-logo="https://img.hotice.site/icones_channels/HBO_XTREME_HD.png" group-title="F21 M5 ⭐ 4K",HBO XTREME 4K
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDSm5Sc0BHi5UbJf8idoD2pZ_lY2CLcMd_n0TGkc79P-F
+#EXTINF:-1 xui-id="4231578" tvg-id="HBO Xtreme SD" tvg-name="HBO XTREME FHD" tvg-logo="https://img.hotice.site/icones_channels/HBO_XTREME_HD.png" group-title="F21 M5 ⏩ HBO",HBO XTREME FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDUbGBcFONMrLc8edv1E6Ed2dTcylXJuz9cDnTwdX3wK4
+#EXTINF:-1 xui-id="4231579" tvg-id="HBO Xtreme SD" tvg-name="HBO XTREME HD" tvg-logo="https://img.hotice.site/icones_channels/HBO_XTREME_HD.png" group-title="F21 M5 ⏩ HBO",HBO XTREME HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDYG_I0u8TpFSj4OLf4r6HVwnFlJPrfcOopx6XLaVZ8lG
+#EXTINF:-1 xui-id="4231580" tvg-id="HBO Xtreme SD" tvg-name="HBO XTREME SD" tvg-logo="https://img.hotice.site/icones_channels/HBO_XTREME_HD.png" group-title="F21 M5 ⏩ HBO",HBO XTREME SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDbSHWNJ7IcyAS7bCmUdHHVGrWLAzNPJLmknApFOjICM4
+#EXTINF:-1 xui-id="4231581" tvg-id="HBOPlus.br" tvg-name="HBO+ 4K" tvg-logo="https://img.inboxbr.pro/icones_channels/hboplus.png" group-title="F21 M5 ⭐ 4K",HBO+ 4K
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDWzNYu8tRLER-ccEFBXCLf2TsPZlm5_6pFXk65JT9zPa
+#EXTINF:-1 xui-id="4231582" tvg-id="HBOPlus.br" tvg-name="HBO+ FHD" tvg-logo="https://img.hotice.site/icones_channels/HBO_PLUS_HD.png" group-title="F21 M5 ⏩ HBO",HBO+ FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDTQD0p1n8z0OlZn16YF80M0BhtH5qHnC13m2GV6zMP0D
+#EXTINF:-1 xui-id="4231583" tvg-id="HBOPlus.br" tvg-name="HBO+ HD" tvg-logo="https://img.hotice.site/icones_channels/HBO_PLUS_HD.png" group-title="F21 M5 ⏩ HBO",HBO+ HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDZcG9o2_MouK3QusDdhQbcK7_NRt2gfcQDpZVtN59Lm-
+#EXTINF:-1 xui-id="4231584" tvg-id="HBOPlus.br" tvg-name="HBO+ SD" tvg-logo="https://img.hotice.site/icones_channels/HBO_PLUS_HD.png" group-title="F21 M5 ⏩ HBO",HBO+ SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDUW78kuSDNBVDjpfoRaTk0kNb51HV0q8RkHgyy9kcolk
+#EXTINF:-1 xui-id="4231585" tvg-id="HBO2.br" tvg-name="HBO2 FHD" tvg-logo="https://img.hotice.site/icones_channels/HBO_2_HD.png" group-title="F21 M5 ⏩ HBO",HBO2 FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDf7p9qlGsm1Q2-3ohh_b6W7nnGagAayI_RDS2Ebs0uG4
+#EXTINF:-1 xui-id="4231586" tvg-id="HBO2.br" tvg-name="HBO2 HD" tvg-logo="https://img.hotice.site/icones_channels/HBO_2_HD.png" group-title="F21 M5 ⏩ HBO",HBO2 HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDSeP3nUaawozYaWzMWYX4KiU858nF5GBh7UJrfy5GbEC
+#EXTINF:-1 xui-id="4231587" tvg-id="HBO2.br" tvg-name="HBO2 SD" tvg-logo="https://img.hotice.site/icones_channels/HBO_2_HD.png" group-title="F21 M5 ⏩ HBO",HBO2 SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDaBwhu9NlOAvXyUWktnKAkn4chOISarLL3Nkcs5XELZm
+#EXTINF:-1 xui-id="4238245" tvg-id="" tvg-name="He-Man 24hs" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",He-Man 24hs
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDYxV141DxnmCRv7S3Iz9pxbzYsa220iIRoMfnsiN9Udy
+#EXTINF:-1 xui-id="4231588" tvg-id="br#hgtv-hd" tvg-name="HGTV 4K" tvg-logo="https://img.hotice.site/icones_channels/HGTV.png" group-title="F21 M5 ⭐ 4K",HGTV 4K
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDSpbm4mZI0oLL8WfxkmH-hX93ldrA1YyBuwbPIdudzFy
+#EXTINF:-1 xui-id="4231589" tvg-id="br#hgtv-hd" tvg-name="HGTV FHD" tvg-logo="https://img.hotice.site/icones_channels/HGTV.png" group-title="F21 M5 ⭐ VARIEDADES",HGTV FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDbtRPzErDf8b8U0RLs5YKrxpmQ2vuXN60iqQWbkS4VSU
+#EXTINF:-1 xui-id="4231590" tvg-id="br#hgtv-hd" tvg-name="HGTV HD" tvg-logo="https://img.hotice.site/icones_channels/HGTV.png" group-title="F21 M5 ⭐ VARIEDADES",HGTV HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDfCbkLJ0ncE8LoIKJd_MRIWjtQyleU2EyZxe4pCkRf9o
+#EXTINF:-1 xui-id="4231591" tvg-id="br#hgtv-hd" tvg-name="HGTV SD" tvg-logo="https://img.hotice.site/icones_channels/HGTV.png" group-title="F21 M5 ⭐ VARIEDADES",HGTV SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDVoLLoMg1AZiHJacvwTBQpPMH35zNXy6EN8eqOmwSCYk
+#EXTINF:-1 xui-id="4238321" tvg-id="" tvg-name="HISTORIA BIBLICA PARA CRIANCA" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",HISTORIA BIBLICA PARA CRIANCA
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDaIQqUsxB5hfoS1YHV2qKE_z2YWMgR9AGjQIng15H1gx
+#EXTINF:-1 xui-id="4238247" tvg-id="" tvg-name="Historias Disney 24hs" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",Historias Disney 24hs
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDbSwekUK2HdAsUSYm0b16I7qyYlETXM2RziG4wLr-_vn
+#EXTINF:-1 xui-id="4231592" tvg-id="History2.br" tvg-name="HISTORY 2 4K" tvg-logo="https://img.hotice.site/icones_channels/H2_HD.png" group-title="F21 M5 ⭐ 4K",HISTORY 2 4K
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDfed_bz-l2lYTJy4E14t7ljZXozvrxwAyZFV-OZwmxFK
+#EXTINF:-1 xui-id="4231593" tvg-id="History2.br" tvg-name="HISTORY 2 FHD" tvg-logo="https://img.hotice.site/icones_channels/H2_HD.png" group-title="F21 M5 ⭐ DOCUMENTÁRIOS",HISTORY 2 FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDbnbs1-lhMSVN57wiMdnsNbQrxzqm4zpfdglIM_8CMAa
+#EXTINF:-1 xui-id="4231594" tvg-id="History2.br" tvg-name="HISTORY 2 FHD" tvg-logo="https://img.hotice.site/icones_channels/H2_HD.png" group-title="F21 M5 ⭐ DOCUMENTÁRIOS",HISTORY 2 FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDYxoF225FxgEmsZ13LEgbn3cpUGE564-KzXkQzhponQs
+#EXTINF:-1 xui-id="4231595" tvg-id="History2.br" tvg-name="HISTORY 2 HD" tvg-logo="https://img.hotice.site/icones_channels/H2_HD.png" group-title="F21 M5 ⭐ DOCUMENTÁRIOS",HISTORY 2 HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDREi1l29D8o10X0KHpccU9bxrfZBm_40Hs7E3W6U0cPg
+#EXTINF:-1 xui-id="4231596" tvg-id="History2.br" tvg-name="HISTORY 2 SD" tvg-logo="https://img.hotice.site/icones_channels/H2_HD.png" group-title="F21 M5 ⭐ DOCUMENTÁRIOS",HISTORY 2 SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDQYCjoJAQ0Wj451VN4YNlpY2ffY4jfU324IaulfKQUEv
+#EXTINF:-1 xui-id="4231597" tvg-id="br#history-channel-hd" tvg-name="HISTORY CHANNEL 4K" tvg-logo="https://img.hotice.site/icones_channels/History_HD.png" group-title="F21 M5 ⭐ 4K",HISTORY CHANNEL 4K
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDch9pcvFfRJlLpt1erU_pfyz1dOwDMf4Q4H06REgTAvv
+#EXTINF:-1 xui-id="4231598" tvg-id="br#history-channel-hd" tvg-name="HISTORY CHANNEL FHD" tvg-logo="https://img.hotice.site/icones_channels/History_HD.png" group-title="F21 M5 ⭐ DOCUMENTÁRIOS",HISTORY CHANNEL FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDQ69eDCYOeAReHpb0QHFDoEydAhGhKpPjYsuSoD-BqI8
+#EXTINF:-1 xui-id="4231599" tvg-id="br#history-channel-hd" tvg-name="HISTORY CHANNEL HD" tvg-logo="https://img.hotice.site/icones_channels/History_HD.png" group-title="F21 M5 ⭐ DOCUMENTÁRIOS",HISTORY CHANNEL HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDeJnI0kHZX9wMGnNFlHqiJ6-3PrvGyomQeem8JJ8a8tg
+#EXTINF:-1 xui-id="4231600" tvg-id="br#history-channel-hd" tvg-name="HISTORY CHANNEL SD" tvg-logo="https://img.hotice.site/icones_channels/History_HD.png" group-title="F21 M5 ⭐ DOCUMENTÁRIOS",HISTORY CHANNEL SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDc6jVoA88aStlWVk63eSjGZX2r1liNIVlCoXEy5X3aXj
+#EXTINF:-1 xui-id="4238248" tvg-id="" tvg-name="HOMEM ARANHA 24HS" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",HOMEM ARANHA 24HS
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDS1RBLHZAbnbv9yvhZa037Gj91u76pMhrXOqwNndnZYb
+#EXTINF:-1 xui-id="4238249" tvg-id="" tvg-name="Homem de Ferro 24hs" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",Homem de Ferro 24hs
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDbjSq8BvCOa_o6diybDSd3UQ7v6N64RHy0pzMCMzBkts
+#EXTINF:-1 xui-id="4238250" tvg-id="" tvg-name="HOMEMS DE PRETO 24HS" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",HOMEMS DE PRETO 24HS
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDXDWDVvbIClzzU4adfWENJ7vTw7rp2ItQPhkgmbxKjG7
+#EXTINF:-1 xui-id="4238246" tvg-id="" tvg-name="Hércules 24hs" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",Hércules 24hs
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDYe6lARDfVrkRBvY_v-kZ2iVMiFKdLijt_nbh6z8Gk6k
+#EXTINF:-1 xui-id="4238251" tvg-id="" tvg-name="Incrível Hulk 24hs" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",Incrível Hulk 24hs
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDZ2pCA_gWWah_3HtHOv1B6GAf6LQguRMEidvCtfklMfq
+#EXTINF:-1 xui-id="4238252" tvg-id="" tvg-name="Jack-Chan 24hs" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",Jack-Chan 24hs
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDfkcfLIGXBtGYGTj0QGevRmAK-di5zI0LgIyf-z3ETJf
+#EXTINF:-1 xui-id="4238253" tvg-id="" tvg-name="Jaspion 24HS" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",Jaspion 24HS
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDR9LbJIy395M_pVLR5LnDP7LuR5BXQh_q9krRGmSGuqe
+#EXTINF:-1 xui-id="4666694" tvg-id="" tvg-name="Jaspion 24HS" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="F21 M5 24HORAS F2",Jaspion 24HS
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDbrYySZQo_wvzyy2vdRV09-UKQjjUwZGLfLZ1vjCvD3M
+#EXTINF:-1 xui-id="4238254" tvg-id="" tvg-name="JIRAYA O Incrível Ninja 24HS" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",JIRAYA O Incrível Ninja 24HS
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDVD9igOIVzTa4OAEVzwAl4f0QDmEBgAB4g6ZSMoNHrGf
+#EXTINF:-1 xui-id="4231603" tvg-id="JPNews.br" tvg-name="JOVEM PAN NEWS FHD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/jp-news-vertical@3x.png" group-title="F21 M5 ⭐ NOTÍCIAS",JOVEM PAN NEWS FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDZFially-3GmwtM_JCzMinuP4npL5ZHRclmYGzNtjktf
+#EXTINF:-1 xui-id="4231604" tvg-id="JPNews.br" tvg-name="JOVEM PAN NEWS HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/jp-news-vertical@3x.png" group-title="F21 M5 ⭐ NOTÍCIAS",JOVEM PAN NEWS HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDY80PQ_lRJTsA-gbxOqbqRn-6_YGP4pbxI3RWTy_n2WV
+#EXTINF:-1 xui-id="4231605" tvg-id="Example" tvg-name="JOVEM PAN NEWS SD" tvg-logo="https://img.inboxbr.pro/icones_channels/jp-news-vertical.png" group-title="F21 M5 ⭐ NOTÍCIAS",JOVEM PAN NEWS SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDTnIVEnBWVyd8ObQ_FX2Trvv5nUeu28hEJZXAEsg5Crw
+#EXTINF:-1 xui-id="4238255" tvg-id="" tvg-name="Kenan e Kel 24hs" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",Kenan e Kel 24hs
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDVyDzczftzz7kpcHLA50fp097EKlMLO9y6uRmYFqnhTB
+#EXTINF:-1 xui-id="4231606" tvg-id="br#lifetime-hd" tvg-name="LIFETIME 4K" tvg-logo="https://img.hotice.site/icones_channels/LIFE_TIME.png" group-title="F21 M5 ⭐ 4K",LIFETIME 4K
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDZHXx-Qxn1Y7jA5GVKCIrGqA_DAiJvVvIfRGvgrMQA9u
+#EXTINF:-1 xui-id="4231607" tvg-id="br#lifetime-hd" tvg-name="LIFETIME FHD" tvg-logo="https://img.hotice.site/icones_channels/LIFE_TIME.png" group-title="F21 M5 ⭐ VARIEDADES",LIFETIME FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDdwSDSDcKxV2Z8me8EX2ltEnIKuX1BUR_gSy2KF46i2r
+#EXTINF:-1 xui-id="4231608" tvg-id="br#lifetime-hd" tvg-name="LIFETIME HD" tvg-logo="https://img.hotice.site/icones_channels/LIFE_TIME.png" group-title="F21 M5 ⭐ VARIEDADES",LIFETIME HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDWrLar_E88W8_LgkCOEM1fuM2z9iP3uvMu26KVEuUFxf
+#EXTINF:-1 xui-id="4231609" tvg-id="br#lifetime-hd" tvg-name="LIFETIME SD" tvg-logo="https://img.hotice.site/icones_channels/LIFE_TIME.png" group-title="F21 M5 ⭐ VARIEDADES",LIFETIME SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDYxPAUFOG2vBtJdRSGPTcgaoRO8xy6_iRi1wA7sX1H5o
+#EXTINF:-1 xui-id="4238303" tvg-id="" tvg-name="Liga da Justica 24hs" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",Liga da Justica 24hs
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDS-vMyzuiKJCIgG7MYyCTtXz4xl9LMq-Y9Kb4AbPFKnx
+#EXTINF:-1 xui-id="4238256" tvg-id="" tvg-name="Luluzinha 24HS" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",Luluzinha 24HS
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDWI1w9anmhAZxytEIjD7r3x9_Fva2a-16F2P6R9fTk1_
+#EXTINF:-1 xui-id="4665840" tvg-id="" tvg-name="MAX 01 HD" tvg-logo="https://logospng.org/download/max/max-1024.png" group-title="F21 M5 MAX-TNT SPORTS",MAX 01 HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDcS5u683NzwvINY_Wti4eupoyqTARPnVVM7cALRhQ88x
+#EXTINF:-1 xui-id="4665841" tvg-id="" tvg-name="MAX 02 HD" tvg-logo="https://logospng.org/download/max/max-1024.png" group-title="F21 M5 MAX-TNT SPORTS",MAX 02 HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDeJhVmZrsMHo6GNgyjBKcJH9pKJTdV2YAq-oON4IdP7c
+#EXTINF:-1 xui-id="4665842" tvg-id="" tvg-name="MAX 03 HD" tvg-logo="https://logospng.org/download/max/max-1024.png" group-title="F21 M5 MAX-TNT SPORTS",MAX 03 HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDQYDAc8BwTIbmqPDcYUyJV2F0lGJy3PXJTGm35HEPzFr
+#EXTINF:-1 xui-id="4665843" tvg-id="" tvg-name="MAX 04 HD" tvg-logo="https://logospng.org/download/max/max-1024.png" group-title="F21 M5 MAX-TNT SPORTS",MAX 04 HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDRQppSd9fZ3E04iwHdmA9IvcRawNHqj6VChqUWz4_Jhm
+#EXTINF:-1 xui-id="4665844" tvg-id="" tvg-name="MAX 05 HD" tvg-logo="https://logospng.org/download/max/max-1024.png" group-title="F21 M5 MAX-TNT SPORTS",MAX 05 HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDSKY1mRBBQ_3BjguXwEYoFl3sF1OpfyabFixmsFnm4_i
+#EXTINF:-1 xui-id="4238257" tvg-id="" tvg-name="Medabots 24hs" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",Medabots 24hs
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDdMG3IQ3Jp1jrcNmwuLR-1u4AJWAPvKGHrqdelMdGmOn
+#EXTINF:-1 xui-id="4238258" tvg-id="" tvg-name="MegaMan 24hs" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",MegaMan 24hs
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDS9o4YDWblPVzVakX4mcoIXu3VG945ofW8ZVaO4PatRz
+#EXTINF:-1 xui-id="4231616" tvg-id="br#megapix-hd" tvg-name="MEGAPIX 4K" tvg-logo="https://img.hotice.site/icones_channels/MEGAPIX_HD.png" group-title="F21 M5 ⭐ 4K",MEGAPIX 4K
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDZNO4T_FxrUxmb2NkA1kuGPQn5OZfmxndHzWvFxc6vwz
+#EXTINF:-1 xui-id="4231617" tvg-id="br#megapix-hd" tvg-name="MEGAPIX FHD" tvg-logo="https://img.hotice.site/icones_channels/MEGAPIX_HD.png" group-title="F21 M5 ⏩ FILMES E SÉRIES",MEGAPIX FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDUxmIMZRWukwLfAx9UHkyIZFH6Ci0Ggv4cVCQuMGUC3o
+#EXTINF:-1 xui-id="4231618" tvg-id="br#megapix-hd" tvg-name="MEGAPIX HD" tvg-logo="https://img.hotice.site/icones_channels/MEGAPIX_HD.png" group-title="F21 M5 ⏩ FILMES E SÉRIES",MEGAPIX HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDV2Dv27iHOOZfOtoIxxJOLNge3wxPkQq09ha7UJfhE0d
+#EXTINF:-1 xui-id="4231619" tvg-id="br#megapix-hd" tvg-name="MEGAPIX SD" tvg-logo="https://img.hotice.site/icones_channels/MEGAPIX_HD.png" group-title="F21 M5 ⏩ FILMES E SÉRIES",MEGAPIX SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDXygpfGjETcsoSJy2IteEMujxUq3lDG6WLdCIliZ0S7r
+#EXTINF:-1 xui-id="4231620" tvg-id="Example" tvg-name="MODO VIAGEM FHD" tvg-logo="https://img.hotice.site/icones_channels/Modo_Viagem_HD.png" group-title="F21 M5 ⭐ VARIEDADES",MODO VIAGEM FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDRHmg1mnlkLI8YBAuPNX8Xc31_iqe50s6pERROe80e7t
+#EXTINF:-1 xui-id="4231621" tvg-id="plus.globosat.br" tvg-name="MODO VIAGEM HD" tvg-logo="https://img.hotice.site/icones_channels/Modo_Viagem_HD.png" group-title="F21 M5 ⭐ VARIEDADES",MODO VIAGEM HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDVbETtgUnqYGkYA05UevXG8vbDw8OFm8UxQWKWxt3wLU
+#EXTINF:-1 xui-id="4231622" tvg-id="" tvg-name="MODO VIAGEM SD" tvg-logo="https://img.hotice.site/icones_channels/Modo_Viagem_HD.png" group-title="F21 M5 ⭐ VARIEDADES",MODO VIAGEM SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDQDhKqVkxanfFjET_m1Bw1MWpExO7dpt8CDLbtds-XKy
+#EXTINF:-1 xui-id="4238259" tvg-id="" tvg-name="Mortal Kombat 24hs" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",Mortal Kombat 24hs
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDas0DDc6tL56LWKD1-aqbBO9C8CngGU4bxrlTpMN9X1Q
+#EXTINF:-1 xui-id="4238260" tvg-id="" tvg-name="Mr.Ben 24hs" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",Mr.Ben 24hs
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDZtKpNqOzHUzaf32e2nFIRYY-cPrtfsVmO-rapy564aN
+#EXTINF:-1 xui-id="4231625" tvg-id="br#mtv" tvg-name="MTV FHD" tvg-logo="https://img.hotice.site/icones_channels/MTV_HD.png" group-title="F21 M5 ⭐ MUSICAIS",MTV FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDSDvIA1_J9GJx10Q-R8Fq7Sw3YqajZ520C6ILCDlGmmr
+#EXTINF:-1 xui-id="4231626" tvg-id="br#mtv" tvg-name="MTV HD" tvg-logo="https://img.hotice.site/icones_channels/MTV_HD.png" group-title="F21 M5 ⭐ MUSICAIS",MTV HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDSm2MakYzO4CxKg4mADj0jRlCjhGio_Zfq82atf5_rxG
+#EXTINF:-1 xui-id="4231627" tvg-id="MTVLive.uk" tvg-name="MTV LIVE FHD" tvg-logo="https://img.hotice.site/icones_channels/MTV_live_HD.png" group-title="F21 M5 ⭐ MUSICAIS",MTV LIVE FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDRRSmk961o-e98vs-zH7NWi3u96uuFqpZ4SYpY4mkuKz
+#EXTINF:-1 xui-id="4231628" tvg-id="MTVLive.uk" tvg-name="MTV LIVE HD" tvg-logo="https://img.hotice.site/icones_channels/MTV_live_HD.png" group-title="F21 M5 ⭐ MUSICAIS",MTV LIVE HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDU7dsJs3tv3k2xPIRxJvpBZVVSVjY1pyX-y6NyynkmWB
+#EXTINF:-1 xui-id="4231629" tvg-id="" tvg-name="MTV PLUTO TV HD" tvg-logo="https://img.hotice.site/icones_channels/MTV_HD.png" group-title="F21 M5 ⭐ MUSICAIS",MTV PLUTO TV HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDSrO4PxSgSiKWf1PwzZYq9Q5tdfxakIBuhAMIwWaYZ8o
+#EXTINF:-1 xui-id="4231632" tvg-id="br#multishow-hd" tvg-name="MULTISHOW FHD" tvg-logo="https://img.hotice.site/icones_channels/MULTISHOW_HD.png" group-title="F21 M5 ⭐ MUSICAIS",MULTISHOW FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDVkZVxxzCtK4VZUsfmlECZCTWSGjpFdrmA6z8q_zEWw6
+#EXTINF:-1 xui-id="4231633" tvg-id="br#multishow-hd" tvg-name="MULTISHOW HD" tvg-logo="https://img.hotice.site/icones_channels/MULTISHOW_HD.png" group-title="F21 M5 ⭐ MUSICAIS",MULTISHOW HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDbLJPUecvBYt_o3-V7OvZZh-oQ4oz0lsrl6aIspKoPQd
+#EXTINF:-1 xui-id="4231634" tvg-id="br#music-box-brasil-hd" tvg-name="MUSIC BOX BRASIL FHD" tvg-logo="https://img.hotice.site/icones_channels/Music_Box_Brazil_HD.png" group-title="F21 M5 ⭐ MUSICAIS",MUSIC BOX BRASIL FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDedsjMOla_GuAtnH01YMOoEpWw9KlJr60X4kCaCQlTTZ
+#EXTINF:-1 xui-id="4231635" tvg-id="br#music-box-brasil-hd" tvg-name="MUSIC BOX BRASIL HD" tvg-logo="https://img.hotice.site/icones_channels/Music_Box_Brazil_HD.png" group-title="F21 M5 ⭐ MUSICAIS",MUSIC BOX BRASIL HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDddB16lmg-_wQZgebSnK1_AEfCAtYSkDFkWy_D8T1jrP
+#EXTINF:-1 xui-id="4231636" tvg-id="" tvg-name="MUSICAS CLASSICAS HD" tvg-logo="https://images.pluto.tv/channels/5f779951372da90007fd45e8/colorLogoPNG.png" group-title="F21 M5 ⭐ MUSICAIS",MUSICAS CLASSICAS HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDVVEdNwiyOy0wTB_aGCi4J4dt5EHz4KoNIDy9LAuJIIl
+#EXTINF:-1 xui-id="4238261" tvg-id="" tvg-name="NARUTO 24HS" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",NARUTO 24HS
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDePAOqVkS2MtOIpvDsIlhbU4t9g54YeO_lA4WMHX_qtU
+#EXTINF:-1 xui-id="4238262" tvg-id="" tvg-name="Naruto Shippuden DUB 24HS" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",Naruto Shippuden DUB 24HS
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDRkShOxhrzz-PJAqM_1oKgqM-xCcOEnBciWtGM5GSDn4
+#EXTINF:-1 xui-id="4231637" tvg-id="" tvg-name="NBA LAGUE PASS 01 HD" tvg-logo="https://img.inboxbr.pro/icones_channels/NBA League Pass.png" group-title="F21 M5 BASQUETE",NBA LAGUE PASS 01 HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDXuL7shtfyZCIbX975XCL96S9TVtM67Vtrh9iPsLp_sK
+#EXTINF:-1 xui-id="4231638" tvg-id="" tvg-name="NBA LEAGUE PASS 02 HD" tvg-logo="https://img.inboxbr.pro/icones_channels/NBA League Pass.png" group-title="F21 M5 BASQUETE",NBA LEAGUE PASS 02 HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDbpj_aCVOfiyGudstyceoOptllg7XVANmOTiemrkD48k
+#EXTINF:-1 xui-id="4231644" tvg-id="" tvg-name="NBA TV HD" tvg-logo="https://img.inboxbr.pro/icones_channels/NBA TV.png" group-title="F21 M5 BASQUETE",NBA TV HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDbPR1i3nstv2el4iXigHSiRWfNyKsTM2YPrz1dlw2bi8
+#EXTINF:-1 xui-id="4231645" tvg-id="br#nick-jr-hd" tvg-name="NICK JR FHD" tvg-logo="https://img.hotice.site/icones_channels/Nick_JR_HD.png" group-title="F21 M5 ⭐ INFANTIL",NICK JR FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDQ7Iy-ulkCK-DwVQLOsTIxHQj0GJQTsAvNpKzaziioWk
+#EXTINF:-1 xui-id="4231646" tvg-id="br#nick-jr-hd" tvg-name="NICK JR HD" tvg-logo="https://img.hotice.site/icones_channels/Nick_JR_HD.png" group-title="F21 M5 ⭐ INFANTIL",NICK JR HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDck8sFnByk14fV4QJMHHKde57oRpgZIKO6qSbIgNrrSY
+#EXTINF:-1 xui-id="4231647" tvg-id="br#nick-jr-hd" tvg-name="NICK JR SD" tvg-logo="https://img.hotice.site/icones_channels/Nick_JR_HD.png" group-title="F21 M5 ⭐ INFANTIL",NICK JR SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDQ2A-BXb_TC0smTq-s0zRVJaa1LmL4fLq-TAoYiZEgId
+#EXTINF:-1 xui-id="4231648" tvg-id="br#nick-hd" tvg-name="NICK SD" tvg-logo="https://img.hotice.site/icones_channels/NICKELODEON_HD.png" group-title="F21 M5 ⭐ INFANTIL",NICK SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDVEmiJZ-4DwTgCsD9fwWKiCPr9FrX-KycIwAvpeU5O_t
+#EXTINF:-1 xui-id="4231649" tvg-id="Nickelodeon.br" tvg-name="NICKELODEON FHD" tvg-logo="https://img.hotice.site/icones_channels/NICKELODEON_HD.png" group-title="F21 M5 ⭐ INFANTIL",NICKELODEON FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDfbox2gI-3jYFthYGpxHfwXBs1CmQUYeaZpGa_7GZBOH
+#EXTINF:-1 xui-id="4231650" tvg-id="Nickelodeon.br" tvg-name="NICKELODEON HD" tvg-logo="https://img.hotice.site/icones_channels/NICKELODEON_HD.png" group-title="F21 M5 ⭐ INFANTIL",NICKELODEON HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDbvIExn7HnYJHNbSt81Ya-ZXhvU1UORS8SOaWVtDUMzj
+#EXTINF:-1 xui-id="4231651" tvg-id="Nickelodeon.br" tvg-name="NICKELODEON SD" tvg-logo="https://img.hotice.site/icones_channels/NICKELODEON_HD.png" group-title="F21 M5 ⭐ INFANTIL",NICKELODEON SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDa4vv0JDawhu1P9VTRi6g9zL5FLwGMky1SAbDsdZ06ZB
+#EXTINF:-1 xui-id="4665909" tvg-id="" tvg-name="NOSSO FUTEBOL 01 HD" tvg-logo="https://img.inboxbr.pro/icones_channels/nosso-futebol.png" group-title="F21 M5 ESPORTES PPV",NOSSO FUTEBOL 01 HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDeev8RZs6TJLIONzzb-ztIM7Kt40qq_TB9KdYSatLErP
+#EXTINF:-1 xui-id="4231660" tvg-id="br#tv-novo-tempo-hd" tvg-name="NOVO TEMPO FHD" tvg-logo="https://img.hotice.site/icones_channels/Novo_Tempo.png" group-title="F21 M5 ⭐ RELIGIOSOS",NOVO TEMPO FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDXCbqmX2v2x-pnRLcVJEJ-sKb5IiyRqAwlJqm4Zf2oT5
+#EXTINF:-1 xui-id="4231661" tvg-id="br#tv-novo-tempo-hd" tvg-name="NOVO TEMPO HD" tvg-logo="https://img.hotice.site/icones_channels/Novo_Tempo.png" group-title="F21 M5 ⭐ RELIGIOSOS",NOVO TEMPO HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDXZgbMAEg5yGIEB4EQcdpwuiu6a4NAFD6Mm61YrtXL7r
+#EXTINF:-1 xui-id="4665845" tvg-id="" tvg-name="NSPORTS FHD" tvg-logo="https://img.hotice.site/icones_channels/TV_NSPORTS_1.png" group-title="F21 M5 ESPORTES PPV",NSPORTS FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDYztupotILt61gmvuM_XJLgOUXGVMSCEsE4n5j6K-lId
+#EXTINF:-1 xui-id="4665846" tvg-id="" tvg-name="NSPORTS HD" tvg-logo="https://img.hotice.site/icones_channels/TV_NSPORTS_1.png" group-title="F21 M5 ESPORTES PPV",NSPORTS HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDTPVEhNSSEKdShFJvrIJ4--7f6K_6QIRfpzwThbhhmfB
+#EXTINF:-1 xui-id="4238263" tvg-id="" tvg-name="O Fantástico Mundo de Bobby 24hs" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",O Fantástico Mundo de Bobby 24hs
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDUer-YphYcKjdXquENUG7KABj7zr-jsmleh5icpCgsDK
+#EXTINF:-1 xui-id="4238265" tvg-id="" tvg-name="O MASKARA 24HS" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",O MASKARA 24HS
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDS7vsfY4UOyrw9NGhxTWo0liV1Sr8k2IK4JFCIo7Rieg
+#EXTINF:-1 xui-id="4238266" tvg-id="" tvg-name="Os Anjinhos - Rugrats 24HS" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",Os Anjinhos - Rugrats 24HS
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDWxjgO8uMhAa-cYy-skYhvBWyL3gaYTy0gKIl6eICl9e
+#EXTINF:-1 xui-id="4238267" tvg-id="" tvg-name="OS CAVALEIROS DO ZODIACO 24HS" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",OS CAVALEIROS DO ZODIACO 24HS
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDSnTwEt3ZZHtHXZ57Lgvh6QMdKdbLRpnIQRGanBEffNk
+#EXTINF:-1 xui-id="4238268" tvg-id="" tvg-name="OS FLINTSTONES 24hs" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",OS FLINTSTONES 24hs
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDbXvuMJwDDhkYSBQuvdDpPeMwbO3vsuNd4gODAeSYxSv
+#EXTINF:-1 xui-id="4238269" tvg-id="" tvg-name="OS SIMPSONS 24HS" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",OS SIMPSONS 24HS
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDVDdx3LRNVxnCfJUH1cPGOsYsEjUE8cfgxOiAVx05pfA
+#EXTINF:-1 xui-id="4238270" tvg-id="" tvg-name="Os Vingadores 24hs" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",Os Vingadores 24hs
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDecIbHlSKtqMVDWQmbcwrOnQzI0uoauVXd9u6thZmk7r
+#EXTINF:-1 xui-id="4238271" tvg-id="" tvg-name="Papa-Léguas 24HS" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",Papa-Léguas 24HS
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDTsCpu0vY1b60BXhokRSbC0OXNzCkSuHal00_3-JkwGs
+#EXTINF:-1 xui-id="4231665" tvg-id="ParamountNetwork.br" tvg-name="PARAMOUNT NETWORK FHD" tvg-logo="https://img.hotice.site/icones_channels/PARAMOUNT_HD.png" group-title="F21 M5 ⏩ FILMES E SÉRIES",PARAMOUNT NETWORK FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDRMajoDS9G6Cpt34b9O4BigfAANugMgJyoBl3rW-x7JS
+#EXTINF:-1 xui-id="4231666" tvg-id="ParamountNetwork.br" tvg-name="PARAMOUNT NETWORK HD" tvg-logo="https://img.hotice.site/icones_channels/PARAMOUNT_HD.png" group-title="F21 M5 ⏩ FILMES E SÉRIES",PARAMOUNT NETWORK HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDUzeGWoZYg-veSz1ajUE6ITXxmXf1UnApMqEwzxk1Cus
+#EXTINF:-1 xui-id="4231667" tvg-id="ParamountNetwork.br" tvg-name="PARAMOUNT NETWORK SD" tvg-logo="https://img.hotice.site/icones_channels/PARAMOUNT_HD.png" group-title="F21 M5 ⏩ FILMES E SÉRIES",PARAMOUNT NETWORK SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDUpaA7hQmfh9fWR9BJNQc2JJnGqqf5URNgJT3CQ_VWit
+#EXTINF:-1 xui-id="4665847" tvg-id="br#paramount-brasil-hd" tvg-name="PARAMOUNT+ 01 FHD" tvg-logo="https://img.hotice.site/icones_channels/Paramount+_1.png" group-title="F21 M5 PARAMOUNT+",PARAMOUNT+ 01 FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDUuVysjPYCh03y1lR08BvgUxGSAll7xIcVj2DEOR7Is1
+#EXTINF:-1 xui-id="4665848" tvg-id="br#paramount-brasil-hd" tvg-name="PARAMOUNT+ 01 HD" tvg-logo="https://img.hotice.site/icones_channels/Paramount+_1.png" group-title="F21 M5 PARAMOUNT+",PARAMOUNT+ 01 HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDTE4R9_7bBiQ7vh7-TCArtodhfy9JH8C9IorhZLlgw4D
+#EXTINF:-1 xui-id="4665849" tvg-id="br#paramount-brasil-hd" tvg-name="PARAMOUNT+ 02 FHD" tvg-logo="https://img.hotice.site/icones_channels/Paramount+_1.png" group-title="F21 M5 PARAMOUNT+",PARAMOUNT+ 02 FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDdI-OavFYaPXVr5B9-Tg3O59bKAnVqCryf4a4ZLXS_bk
+#EXTINF:-1 xui-id="4665850" tvg-id="br#paramount-brasil-hd" tvg-name="PARAMOUNT+ 02 HD" tvg-logo="https://img.hotice.site/icones_channels/Paramount+_1.png" group-title="F21 M5 PARAMOUNT+",PARAMOUNT+ 02 HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDT_ViYhmPDTy0PtNARrCH9UZmBoUoQfEyOi1s-gb3fkr
+#EXTINF:-1 xui-id="4665851" tvg-id="br#paramount-brasil-hd" tvg-name="PARAMOUNT+ 03 FHD" tvg-logo="https://img.hotice.site/icones_channels/Paramount+_1.png" group-title="F21 M5 PARAMOUNT+",PARAMOUNT+ 03 FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDZmduapfBPedz4Ifdzal5F2dXyxoqLUkEiayAM3ruZxw
+#EXTINF:-1 xui-id="4665852" tvg-id="br#paramount-brasil-hd" tvg-name="PARAMOUNT+ 03 HD" tvg-logo="https://img.hotice.site/icones_channels/Paramount+_1.png" group-title="F21 M5 PARAMOUNT+",PARAMOUNT+ 03 HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDbKFC9yHpXtplkjikRKDg7fYm2bxr1hDsXbkOGU6LTFq
+#EXTINF:-1 xui-id="4665853" tvg-id="br#paramount-brasil-hd" tvg-name="PARAMOUNT+ 04 FHD" tvg-logo="https://img.hotice.site/icones_channels/Paramount+_1.png" group-title="F21 M5 PARAMOUNT+",PARAMOUNT+ 04 FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDfUFrew4gsV5qPlfR2F0un5gobxAl-fs8HCSFlJ6MlLb
+#EXTINF:-1 xui-id="4665854" tvg-id="" tvg-name="PARAMOUNT+ 04 HD" tvg-logo="https://img.hotice.site/icones_channels/Paramount+_1.png" group-title="F21 M5 PARAMOUNT+",PARAMOUNT+ 04 HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDdeGY4ls_io0CPKga0QjqdfVjTskVufW3QPhNP3AHgEf
+#EXTINF:-1 xui-id="4238318" tvg-id="" tvg-name="PEPA PIG 24HRS" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",PEPA PIG 24HRS
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDQqLJP7iw40J9VGzMId1qiwgGyJ_3HNldmcvnC8ZIb-e
+#EXTINF:-1 xui-id="4238272" tvg-id="" tvg-name="Peppa Pig 24hs" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",Peppa Pig 24hs
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDab8ICLa2mspPOWqwLHTIZ8H5vwEiLxTzuHDa14jBCYR
+#EXTINF:-1 xui-id="4238273" tvg-id="" tvg-name="PERNALONGA 24HS" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",PERNALONGA 24HS
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDdwPPmP-IdfPyk-Z_42m5VbPNO9OTo_DmEsBF5Zlulst
+#EXTINF:-1 xui-id="4238274" tvg-id="" tvg-name="Phineas e Ferb 24HS" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",Phineas e Ferb 24HS
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDYst9Mtllr5VH7hOQjki77Y0EjPaGzUhV0d6NXUXiWRc
+#EXTINF:-1 xui-id="4238275" tvg-id="" tvg-name="PICA PAU 24HS" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",PICA PAU 24HS
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDfmVdxy7VGcF3eE6fpYeMJbIccz9PK6XCLPcWg4YIb-k
+#EXTINF:-1 xui-id="4238276" tvg-id="" tvg-name="Pink-e-Cerebro 24hs" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",Pink-e-Cerebro 24hs
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDS1xIHisqs_fHsciPPLGpXh6wfNBSy9tvwXB5Orfx3Vv
+#EXTINF:-1 xui-id="4238277" tvg-id="" tvg-name="POKEMON 24HS" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",POKEMON 24HS
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDdnYsAtiegyCo9TkaNxHQE0P_8derEp7oPxIyM6JKLft
+#EXTINF:-1 xui-id="4238278" tvg-id="" tvg-name="Popeye O Marinheiro 24hs" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",Popeye O Marinheiro 24hs
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDbCtmGcwkkrGhfFHNjUP3c0PtKpyVLCx--R06r3y7rch
+#EXTINF:-1 xui-id="4231677" tvg-id="br#telecine-premium-hd" tvg-name="PREMIERE 01 CLUBES 4K" tvg-logo="https://img.inboxbr.pro/icones_channels/premiere-clubes-hd.png" group-title="F21 M5 ⭐ 4K",PREMIERE 01 CLUBES 4K
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDWH9qRw2DR-JGdJP6ZSbTrAqZ9VfmiSKhpOQ89OY_44D
+#EXTINF:-1 xui-id="4665855" tvg-id="PremiereClubes.br" tvg-name="PREMIERE 01 CLUBES FHD" tvg-logo="https://img.hotice.site/icones_channels/PREMIERE_6.png" group-title="F21 M5 PREMIERE FC",PREMIERE 01 CLUBES FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDbVz2v7UUmifztHyyeLMnnqTkSpcyVrys253IB6FeOFJ
+#EXTINF:-1 xui-id="4665856" tvg-id="24HAnimes" tvg-name="PREMIERE 01 CLUBES HD" tvg-logo="https://img.hotice.site/icones_channels/PREMIERE_6.png" group-title="F21 M5 PREMIERE FC",PREMIERE 01 CLUBES HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDfm73zbSJ7_C9IXHJ5rV7tRqeFJgE9oa6SJAWJ8EdwAX
+#EXTINF:-1 xui-id="4665857" tvg-id="24HAnimes" tvg-name="PREMIERE 01 CLUBES SD" tvg-logo="https://img.hotice.site/icones_channels/PREMIERE_6.png" group-title="F21 M5 PREMIERE FC",PREMIERE 01 CLUBES SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDaz4tR5bOsJcsFBRcgXzh8XJENEKzNlk8fhIZa-9LFcT
+#EXTINF:-1 xui-id="4231681" tvg-id="br#premiere-2" tvg-name="PREMIERE 02 4K" tvg-logo="https://img.hotice.site/icones_channels/PREMIERE_2_HD.png" group-title="F21 M5 ⭐ 4K",PREMIERE 02 4K
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDQngMBQimSze1ZQnr5Pt6wJv8ZmbSU2gu-alh7nVYxqq
+#EXTINF:-1 xui-id="4665858" tvg-id="br#premiere-2" tvg-name="PREMIERE 02 FHD" tvg-logo="https://img.hotice.site/icones_channels/PREMIERE_6.png" group-title="F21 M5 PREMIERE FC",PREMIERE 02 FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDc24sB9-ijNdTJ1CAdLF3F1aENtaE9RUeR4WFNU-YHj2
+#EXTINF:-1 xui-id="4665859" tvg-id="br#premiere-2" tvg-name="PREMIERE 02 HD" tvg-logo="https://img.hotice.site/icones_channels/PREMIERE_6.png" group-title="F21 M5 PREMIERE FC",PREMIERE 02 HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDYm2C6I2aHn_0D4d4LHrLmPUQKMyesaKXgzIOJ_83gqt
+#EXTINF:-1 xui-id="4665860" tvg-id="br#premiere-2" tvg-name="PREMIERE 02 SD" tvg-logo="https://img.hotice.site/icones_channels/PREMIERE_6.png" group-title="F21 M5 PREMIERE FC",PREMIERE 02 SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDSNWWhCRNmJLK9ABISPFacUQF2XUU8bl-5zaVQvr9dmc
+#EXTINF:-1 xui-id="4231685" tvg-id="br#premiere-3" tvg-name="PREMIERE 03 4K" tvg-logo="https://img.hotice.site/icones_channels/PREMIERE_2_HD.png" group-title="F21 M5 ⭐ 4K",PREMIERE 03 4K
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDV9RetbpQ9SRIYNnJxJbI2xqNH7ZpTQo6jNMAacECSeU
+#EXTINF:-1 xui-id="4665861" tvg-id="br#premiere-2" tvg-name="PREMIERE 03 FHD" tvg-logo="https://img.hotice.site/icones_channels/PREMIERE_6.png" group-title="F21 M5 PREMIERE FC",PREMIERE 03 FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDdDjyB5Mm6rt31idfTMzI7qO01VZHAQVd25OwwhviT1T
+#EXTINF:-1 xui-id="4665862" tvg-id="br#premiere-2" tvg-name="PREMIERE 03 HD" tvg-logo="https://img.hotice.site/icones_channels/PREMIERE_6.png" group-title="F21 M5 PREMIERE FC",PREMIERE 03 HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDZt3Ogh_qIXVML9zBOKopXj0AtJpAXPW6OoRO3P1VCo7
+#EXTINF:-1 xui-id="4665863" tvg-id="br#premiere-2" tvg-name="PREMIERE 03 SD" tvg-logo="https://img.hotice.site/icones_channels/PREMIERE_6.png" group-title="F21 M5 PREMIERE FC",PREMIERE 03 SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDd1CSroHlw0XneYHP2AMmoqKEsV_ifARvRJ9BK4kXzJE
+#EXTINF:-1 xui-id="4231689" tvg-id="br#premiere-4" tvg-name="PREMIERE 04 4K" tvg-logo="https://img.hotice.site/icones_channels/PREMIERE_2_HD.png" group-title="F21 M5 ⭐ 4K",PREMIERE 04 4K
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDapPcQ6J9TeX5r--kWkCAcvxZ0AoZHq01rbgtanaUvMi
+#EXTINF:-1 xui-id="4665864" tvg-id="br#premiere-2" tvg-name="PREMIERE 04 FHD" tvg-logo="https://img.hotice.site/icones_channels/PREMIERE_6.png" group-title="F21 M5 PREMIERE FC",PREMIERE 04 FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDW8s-4WHkK0b3GPEKCkCiG0GAzEwZsdnu5UUKud-T4m7
+#EXTINF:-1 xui-id="4665865" tvg-id="br#premiere-2" tvg-name="PREMIERE 04 HD" tvg-logo="https://img.hotice.site/icones_channels/PREMIERE_6.png" group-title="F21 M5 PREMIERE FC",PREMIERE 04 HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDTkT4rocqPySn8Hi7uOW59dlEzahquACrdtOptWzFN-B
+#EXTINF:-1 xui-id="4665866" tvg-id="br#premiere-2" tvg-name="PREMIERE 04 SD" tvg-logo="https://img.hotice.site/icones_channels/PREMIERE_6.png" group-title="F21 M5 PREMIERE FC",PREMIERE 04 SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDRyq7eR1B3EEWBOz6HBI6LqJqDxHfd1jYGa0DGaYALG0
+#EXTINF:-1 xui-id="4231693" tvg-id="br#premiere-5-brazil" tvg-name="PREMIERE 05 4K" tvg-logo="https://img.hotice.site/icones_channels/PREMIERE_2_HD.png" group-title="F21 M5 ⭐ 4K",PREMIERE 05 4K
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDSr7j9NenepGpJJA9py7fH797mdyMUSdd7MZoilLe9hC
+#EXTINF:-1 xui-id="4665867" tvg-id="br#premiere-2" tvg-name="PREMIERE 05 FHD" tvg-logo="https://img.hotice.site/icones_channels/PREMIERE_6.png" group-title="F21 M5 PREMIERE FC",PREMIERE 05 FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDWmjxllqhAFABjddrnsLlpWUVtGXWyUdSCrlCxnQF3AR
+#EXTINF:-1 xui-id="4665868" tvg-id="br#premiere-2" tvg-name="PREMIERE 05 HD" tvg-logo="https://img.hotice.site/icones_channels/PREMIERE_6.png" group-title="F21 M5 PREMIERE FC",PREMIERE 05 HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDTXpikx0xedD_zOzP8yHwJRPm-mxUdc5Caw86DgnAdBq
+#EXTINF:-1 xui-id="4665869" tvg-id="br#premiere-2" tvg-name="PREMIERE 05 SD" tvg-logo="https://img.hotice.site/icones_channels/PREMIERE_6.png" group-title="F21 M5 PREMIERE FC",PREMIERE 05 SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDefUVViatZib8V8EWxqJvwZ5QV1pqjmr_mCOS2AJF2y-
+#EXTINF:-1 xui-id="4665870" tvg-id="br#premiere-2" tvg-name="PREMIERE 06 FHD" tvg-logo="https://img.hotice.site/icones_channels/PREMIERE_6.png" group-title="F21 M5 PREMIERE FC",PREMIERE 06 FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDaf9Egpn461z7fDsmgoxOoZFdwG9MLXLY0jSqnxSIyfO
+#EXTINF:-1 xui-id="4665871" tvg-id="br#premiere-2" tvg-name="PREMIERE 06 HD" tvg-logo="https://img.hotice.site/icones_channels/PREMIERE_6.png" group-title="F21 M5 PREMIERE FC",PREMIERE 06 HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDdSJmlA-jjH8eazuokDhcQowT1WZi1OeJqDg-B7_txjx
+#EXTINF:-1 xui-id="4665872" tvg-id="br#premiere-2" tvg-name="PREMIERE 06 SD" tvg-logo="https://img.hotice.site/icones_channels/PREMIERE_6.png" group-title="F21 M5 PREMIERE FC",PREMIERE 06 SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDYZle6NF91UYG_sivU1lmr-RFh0uJvK_IiRHUfGc187s
+#EXTINF:-1 xui-id="4665873" tvg-id="br#premiere-2" tvg-name="PREMIERE 07 FHD" tvg-logo="https://img.hotice.site/icones_channels/PREMIERE_6.png" group-title="F21 M5 PREMIERE FC",PREMIERE 07 FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDU6Wevu6fvObt_7KHMN80Z_vB5qRRxQXXcfumLspqzLA
+#EXTINF:-1 xui-id="4665874" tvg-id="br#premiere-2" tvg-name="PREMIERE 07 HD" tvg-logo="https://img.hotice.site/icones_channels/PREMIERE_6.png" group-title="F21 M5 PREMIERE FC",PREMIERE 07 HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDeNUtwwirCF2dCJMJ0tR6VjxBZp4NDPgePF5BYpoRIF_
+#EXTINF:-1 xui-id="4665875" tvg-id="br#premiere-2" tvg-name="PREMIERE 07 SD" tvg-logo="https://img.hotice.site/icones_channels/PREMIERE_6.png" group-title="F21 M5 PREMIERE FC",PREMIERE 07 SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDVdFefnlxc5qOIhZkU1WJGWbc3ChE1Ev-XRU9TGRiIN4
+#EXTINF:-1 xui-id="4665876" tvg-id="br#premiere-2" tvg-name="PREMIERE 08 FHD" tvg-logo="https://img.hotice.site/icones_channels/PREMIERE_6.png" group-title="F21 M5 PREMIERE FC",PREMIERE 08 FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDeOg3et0Fr2yNjlE7N6doeTLWmX2lUKmsA8nPBxaFxWf
+#EXTINF:-1 xui-id="4665877" tvg-id="br#premiere-2" tvg-name="PREMIERE 08 HD" tvg-logo="https://img.hotice.site/icones_channels/PREMIERE_6.png" group-title="F21 M5 PREMIERE FC",PREMIERE 08 HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDUAJMYjTTsRzahnzszqPF7ND1uZYgKxmEQGuRQP83TU-
+#EXTINF:-1 xui-id="4665878" tvg-id="br#premiere-2" tvg-name="PREMIERE 08 SD" tvg-logo="https://img.hotice.site/icones_channels/PREMIERE_6.png" group-title="F21 M5 PREMIERE FC",PREMIERE 08 SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDfGl64J7qD5yeEV14r7vPzwg5Y3wi8Q61WlaA_Vu871D
+#EXTINF:-1 xui-id="4665879" tvg-id="Copa do Brasil¹ - Prime Video" tvg-name="PRIME VIDEO 01 HD" tvg-logo="https://img.inboxbr.pro/icones_channels/prime-video.png" group-title="F21 M5 PRIME VIDEOS",PRIME VIDEO 01 HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDQSq4tv0Z4wwbBbL9fDzEqbb3q98XlkA26HvASykEK59
+#EXTINF:-1 xui-id="4665880" tvg-id="Copa do Brasil¹ - Prime Video" tvg-name="PRIME VIDEO 02 HD" tvg-logo="https://img.inboxbr.pro/icones_channels/prime-video.png" group-title="F21 M5 PRIME VIDEOS",PRIME VIDEO 02 HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDfO0ZycAxBFdNxrrs-5Ej7vfVjRGvZem5k0cTFcBzGO7
+#EXTINF:-1 xui-id="4665881" tvg-id="Copa do Brasil² - Prime Video" tvg-name="PRIME VIDEO 03 HD" tvg-logo="https://img.inboxbr.pro/icones_channels/prime-video.png" group-title="F21 M5 PRIME VIDEOS",PRIME VIDEO 03 HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDVyE7Kh_DhOaNLajz3cnMqZ3KhvpE9RlO_iREgHSFeXs
+#EXTINF:-1 xui-id="4665882" tvg-id="Copa do Brasil¹ - Prime Video" tvg-name="PRIME VIDEO 04 HD" tvg-logo="https://img.inboxbr.pro/icones_channels/prime-video.png" group-title="F21 M5 PRIME VIDEOS",PRIME VIDEO 04 HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDbeO9sK6xoCrn82vSxHrnihFIcc0aY8aAD3t5pUm5m0g
+#EXTINF:-1 xui-id="4665883" tvg-id="" tvg-name="PRIME VIDEOS 05 HD" tvg-logo="https://img.inboxbr.pro/icones_channels/prime-video.png" group-title="F21 M5 PRIME VIDEOS",PRIME VIDEOS 05 HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDeoPYm0xRDCQWlHV3y_jvaXDgxxahTcxmnQbQQAVQeH_
+#EXTINF:-1 xui-id="4665884" tvg-id="" tvg-name="PRIME VIDEOS 06 HD" tvg-logo="https://img.inboxbr.pro/icones_channels/prime-video.png" group-title="F21 M5 PRIME VIDEOS",PRIME VIDEOS 06 HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDY6YvHxMX5spOGKLpmlbujehn6sOTfilEu0M42oPKxey
+#EXTINF:-1 xui-id="4665885" tvg-id="" tvg-name="PRIME VIDEOS 07 HD" tvg-logo="https://img.inboxbr.pro/icones_channels/prime-video.png" group-title="F21 M5 PRIME VIDEOS",PRIME VIDEOS 07 HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDYmfhHiBCwN8UwoghQoY4soYCL2BDKujLtfzOYS-Yhur
+#EXTINF:-1 xui-id="4665886" tvg-id="" tvg-name="PRIME VIDEOS 08 HD" tvg-logo="https://img.inboxbr.pro/icones_channels/prime-video.png" group-title="F21 M5 PRIME VIDEOS",PRIME VIDEOS 08 HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDQF4B-mseWysL6UExNQ31pa0lFDHFL9xgtKAY0xlGg8i
+#EXTINF:-1 xui-id="4238319" tvg-id="" tvg-name="RAMBO 24HRS " tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",RAMBO 24HRS 
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDRMRdBkaqLZyyZ7WvaCjnQiiXGrOnszZvcESj1_brNYV
+#EXTINF:-1 xui-id="4238279" tvg-id="" tvg-name="Rambo 24hs" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",Rambo 24hs
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDRpmc2Q-g6P0GK-lh0CVEstlEIVOWLOqFUG0Y56wPalG
+#EXTINF:-1 xui-id="4231720" tvg-id="br#record-hd" tvg-name="RECORD AM - TV MANAUS FHD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F21 M5 ⭐ RECORD",RECORD AM - TV MANAUS FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDdB6FW-CMb4MSMap49fyJ0NXNgh8jUSr4QqKjY8fBXEt
+#EXTINF:-1 xui-id="4231721" tvg-id="br#record-hd" tvg-name="RECORD AM - TV MANAUS HD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F21 M5 ⭐ RECORD",RECORD AM - TV MANAUS HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDQWdJbjg6o5KCBse1_0GdWZlpTSd-7Gw7kYuunBqbw9s
+#EXTINF:-1 xui-id="4231722" tvg-id="br#record-hd" tvg-name="RECORD AM - TV MANAUS SD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F21 M5 ⭐ RECORD",RECORD AM - TV MANAUS SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDdmgiE8qkDLMIlDaTzGiKDrGFFIw0ASqismPrHnfSI-H
+#EXTINF:-1 xui-id="4231723" tvg-id="br#record-bahia" tvg-name="RECORD BA - TV CABRÁLIA FHD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F21 M5 ⭐ RECORD",RECORD BA - TV CABRÁLIA FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDX1YywhEQ8EqjMX_6C6WxLbuSsLc6KxVNABxjtklgcQ9
+#EXTINF:-1 xui-id="4231724" tvg-id="br#record-bahia" tvg-name="RECORD BA - TV CABRÁLIA HD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F21 M5 ⭐ RECORD",RECORD BA - TV CABRÁLIA HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDT9vYxTymdVZtWAXHGCBbvkGsp_88-S_4cZepxXK7uJ9
+#EXTINF:-1 xui-id="4231725" tvg-id="br#record-bahia" tvg-name="RECORD BA - TV CABRÁLIA SD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F21 M5 ⭐ RECORD",RECORD BA - TV CABRÁLIA SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDcIF4IisMb_Wh8_ijqdlXh4o4PolC3PUyfCXJsVfYWyi
+#EXTINF:-1 xui-id="4231726" tvg-id="RecordTVItapoan.br" tvg-name="RECORD BA - TV ITAPOAN FHD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F21 M5 ⭐ RECORD",RECORD BA - TV ITAPOAN FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDVUa-mlqdFaSV7HCSvQGp8-q_rD6ke5aF6GD1Ss9o6mj
+#EXTINF:-1 xui-id="4231727" tvg-id="RecordTVItapoan.br" tvg-name="RECORD BA - TV ITAPOAN HD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F21 M5 ⭐ RECORD",RECORD BA - TV ITAPOAN HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDc26vzSRagWYuJgOs6vuOFWn3U6jr4mJkCTOsCXTrs4s
+#EXTINF:-1 xui-id="4231728" tvg-id="RecordTVItapoan.br" tvg-name="RECORD BA - TV ITAPOAN SD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F21 M5 ⭐ RECORD",RECORD BA - TV ITAPOAN SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDYOe8OM7HSZtV_IHPH-BvDPsGKqugInKJv9D46uuV5pc
+#EXTINF:-1 xui-id="4231729" tvg-id="Record SP SD" tvg-name="RECORD CE - TV CIDADE HD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F21 M5 ⭐ RECORD",RECORD CE - TV CIDADE HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDYg1I-GI9E1MhbrBd85kzup6f64x4RNWt8HRzMPUU5Hq
+#EXTINF:-1 xui-id="4231730" tvg-id="br#record-brasilia" tvg-name="RECORD DF - TV BRASÍLIA FHD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F21 M5 ⭐ RECORD",RECORD DF - TV BRASÍLIA FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDVIpg2D9-0jF2FUNBs3mCqUb1_9CRg2gPJRSSO_PW7yo
+#EXTINF:-1 xui-id="4231731" tvg-id="br#record-brasilia" tvg-name="RECORD DF - TV BRASÍLIA HD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F21 M5 ⭐ RECORD",RECORD DF - TV BRASÍLIA HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDW9kHuvCzpmSkS_5z0GS0IZJcsFZHNGfYMw1xWuOTO4x
+#EXTINF:-1 xui-id="4231732" tvg-id="br#record-brasilia" tvg-name="RECORD DF - TV BRASÍLIA SD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F21 M5 ⭐ RECORD",RECORD DF - TV BRASÍLIA SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDZP_0uSmrxwsSgeAAG81v_lWT0PJbUj-GFAlVEPHEtaS
+#EXTINF:-1 xui-id="4231733" tvg-id="br#record-hd" tvg-name="RECORD ES - TV ESPIRO SANTO FHD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F21 M5 ⭐ RECORD",RECORD ES - TV ESPIRO SANTO FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDdPmOB4yBRuDfLref2WQW_afm79h9zaMgULEFvxJoamy
+#EXTINF:-1 xui-id="4231734" tvg-id="br#record-hd" tvg-name="RECORD ES - TV ESPIRO SANTO HD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F21 M5 ⭐ RECORD",RECORD ES - TV ESPIRO SANTO HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDQOo2ZHB5xrbOOt_WPNsLzTRiPOIrbswjUcDtZwwSKkE
+#EXTINF:-1 xui-id="4231735" tvg-id="br#record-hd" tvg-name="RECORD ES - TV ESPIRO SANTO SD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F21 M5 ⭐ RECORD",RECORD ES - TV ESPIRO SANTO SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDZbFWB2d8CVm-7DB6UBk4g7r4Z-fkJuVdr2HIznqM1_y
+#EXTINF:-1 xui-id="4231736" tvg-id="br#record-goias" tvg-name="RECORD GO - TV GOÍAS FHD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F21 M5 ⭐ RECORD",RECORD GO - TV GOÍAS FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDUY6YHhyFCTwYLKf6JPvuSK5VNED4YP-dQmj8xymSM9_
+#EXTINF:-1 xui-id="4231737" tvg-id="br#record-goias" tvg-name="RECORD GO - TV GOÍAS HD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F21 M5 ⭐ RECORD",RECORD GO - TV GOÍAS HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDc05Dyc7TfpNcObXeyviQ_BsWLQIOKLlMBcyKJLbeA_j
+#EXTINF:-1 xui-id="4231738" tvg-id="br#record-goias" tvg-name="RECORD GO - TV GOÍAS SD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F21 M5 ⭐ RECORD",RECORD GO - TV GOÍAS SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDVVTQ3VirUkroNQ_Uadsk52YffatD1ljofoZ8PRcJlvI
+#EXTINF:-1 xui-id="4231739" tvg-id="br#record-minas" tvg-name="RECORD MG - TV MINAS FHD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F21 M5 ⭐ RECORD",RECORD MG - TV MINAS FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDcxd5eoPKQm388nu7_-abHwDaGIU5ZA-xUacjMnrpWRn
+#EXTINF:-1 xui-id="4231740" tvg-id="br#record-minas" tvg-name="RECORD MG - TV MINAS HD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F21 M5 ⭐ RECORD",RECORD MG - TV MINAS HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDWayb3_fCpmsSK-9BtDgAQ2nRzduTLPrkkPx5QPAN2Y8
+#EXTINF:-1 xui-id="4231741" tvg-id="br#record-minas" tvg-name="RECORD MG - TV MINAS SD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F21 M5 ⭐ RECORD",RECORD MG - TV MINAS SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDU9ekVz5LhzscbYjC2RhITNYhEl9gp4tEO3CP3_Zbv0B
+#EXTINF:-1 xui-id="4231742" tvg-id="RecordNews.br" tvg-name="RECORD NEWS FHD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F21 M5 ⭐ NOTÍCIAS",RECORD NEWS FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDU8ZCgX9fsKMd0pku45NFduCR7m2q4Y1yZAOXw6hH10y
+#EXTINF:-1 xui-id="4231743" tvg-id="RecordNews.br" tvg-name="RECORD NEWS HD" tvg-logo="https://img.hotice.site/icones_channels/Record_News_HD.png" group-title="F21 M5 ⭐ NOTÍCIAS",RECORD NEWS HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDSITI5J55lhsViQN7E2nBlUhlwpw3xcSwmLd9P1gNPbs
+#EXTINF:-1 xui-id="4231744" tvg-id="RecordNews.br" tvg-name="RECORD NEWS SD" tvg-logo="https://img.hotice.site/icones_channels/Record_News_HD.png" group-title="F21 M5 ⭐ NOTÍCIAS",RECORD NEWS SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDVhMFaMvGiu-lRPTIU743Xk54grcFk0VSPm_JgoidV0h
+#EXTINF:-1 xui-id="4231745" tvg-id="br#record-hd" tvg-name="RECORD PA - TV BELÉM FHD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F21 M5 ⭐ RECORD",RECORD PA - TV BELÉM FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDaivtBPmEEtGRPT91JMY4wzzMf7szJFzcgGmlfZFSruh
+#EXTINF:-1 xui-id="4231746" tvg-id="br#record-hd" tvg-name="RECORD PA - TV BELÉM HD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F21 M5 ⭐ RECORD",RECORD PA - TV BELÉM HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDZBvdbtL0p1zAJoJ0l_C4ZfBItSszUydercyjzGo-ENE
+#EXTINF:-1 xui-id="4231747" tvg-id="br#record-hd" tvg-name="RECORD PA - TV BELÉM SD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F21 M5 ⭐ RECORD",RECORD PA - TV BELÉM SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDRcLLOOJCH7NfrRGtsqunUgT5kA8nbGEluLSE__ZWMn-
+#EXTINF:-1 xui-id="4231750" tvg-id="br#record-hd" tvg-name="RECORD PR - RIC TV FHD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F21 M5 ⭐ RECORD",RECORD PR - RIC TV FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDRuUua7qcj5jb80PO_ROtt6H43Mgf4S0N7AnRO28qzAH
+#EXTINF:-1 xui-id="4231751" tvg-id="br#record-hd" tvg-name="RECORD PR - RIC TV HD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F21 M5 ⭐ RECORD",RECORD PR - RIC TV HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDXSTK7tVa6Eb2t6RaKT9y5QY3nZJ4eZ2VOTjd0el8YyN
+#EXTINF:-1 xui-id="4231752" tvg-id="br#record-hd" tvg-name="RECORD PR - RIC TV SD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F21 M5 ⭐ RECORD",RECORD PR - RIC TV SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDRHyx7bUBB2tLOxIOE9M9RCd0viehSf35YatfazbtqhL
+#EXTINF:-1 xui-id="4231753" tvg-id="br#record-hd" tvg-name="RECORD RIBEIRÃO PRETO FHD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F21 M5 ⭐ RECORD",RECORD RIBEIRÃO PRETO FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDapB2xjjSXwtXjmKH0nD8xrFTXGY0ZvjS-_qsKqoK8mO
+#EXTINF:-1 xui-id="4231754" tvg-id="br#record-hd" tvg-name="RECORD RIBEIRÃO PRETO HD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F21 M5 ⭐ RECORD",RECORD RIBEIRÃO PRETO HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDTOiL-c-cOMXZGKFrALx7ER2hOc4slso2PbmIGww94DK
+#EXTINF:-1 xui-id="4231755" tvg-id="br#record-rio" tvg-name="RECORD RIO DE JANEIRO 4K" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F21 M5 ⭐ 4K",RECORD RIO DE JANEIRO 4K
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDaWlYbIIMC6bjN5xankeNR_ROq7D3aQ_LYJBd_2_zi2i
+#EXTINF:-1 xui-id="4231756" tvg-id="br#record-rio" tvg-name="RECORD RJ - TV RIO DE JANEIRO FHD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F21 M5 ⭐ RECORD",RECORD RJ - TV RIO DE JANEIRO FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDbBmIWM0KF6TNljwORh_wboBVHs4uCD3cK5n8m23iYLF
+#EXTINF:-1 xui-id="4231757" tvg-id="br#record-rio" tvg-name="RECORD RJ - TV RIO DE JANEIRO HD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F21 M5 ⭐ RECORD",RECORD RJ - TV RIO DE JANEIRO HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDWzXSRQN91ADqucRrcXkQXpyOxVhbXs7DOeHxcINSXNV
+#EXTINF:-1 xui-id="4231758" tvg-id="br#record-rio" tvg-name="RECORD RJ - TV RIO DE JANEIRO SD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F21 M5 ⭐ RECORD",RECORD RJ - TV RIO DE JANEIRO SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDS92b0-G6-IQD7WSR11eWaPtyWqaYKS4sajzo5SPDD0L
+#EXTINF:-1 xui-id="4231767" tvg-id="br#record-porto-alegre" tvg-name="RECORD RS - TV PORTO ALEGRE FHD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F21 M5 ⭐ RECORD",RECORD RS - TV PORTO ALEGRE FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDZsm-76UmmgUK3Iq460gh6C_q8S8FotU71_p2I-3DkEa
+#EXTINF:-1 xui-id="4231768" tvg-id="br#record-porto-alegre" tvg-name="RECORD RS - TV PORTO ALEGRE HD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F21 M5 ⭐ RECORD",RECORD RS - TV PORTO ALEGRE HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDeJ6Uad1jicNLSzMoysPrQkW2PvBlZUbOvMUKN1tXzDZ
+#EXTINF:-1 xui-id="4231769" tvg-id="br#record-porto-alegre" tvg-name="RECORD RS - TV PORTO ALEGRE SD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F21 M5 ⭐ RECORD",RECORD RS - TV PORTO ALEGRE SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDUxTJyVgitA0wlUe_xoUhDMtANERDdFuiYcVMAgZH4hA
+#EXTINF:-1 xui-id="4231770" tvg-id="RecordTVSaoPaulo.br" tvg-name="RECORD SAO PAULO 4K" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F21 M5 ⭐ 4K",RECORD SAO PAULO 4K
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDXjG3Y_BaxXtMsKwa73YsVi4xYEhcYKA9Q5GNW_GSaNf
+#EXTINF:-1 xui-id="4231771" tvg-id="br#record-florianopolis" tvg-name="RECORD SC - NDTV FLORIANÓPOLIS FHD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F21 M5 ⭐ RECORD",RECORD SC - NDTV FLORIANÓPOLIS FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDWbZsEpyL_AI44SmZZOE92mzc_ZfrA6-kAGtiSa6pijI
+#EXTINF:-1 xui-id="4231772" tvg-id="br#record-florianopolis" tvg-name="RECORD SC - NDTV FLORIANÓPOLIS HD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F21 M5 ⭐ RECORD",RECORD SC - NDTV FLORIANÓPOLIS HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDbjlfS8aoERwkxtcr7OuBcGfKmsMt0xhYlnfakFqOkDe
+#EXTINF:-1 xui-id="4231773" tvg-id="br#record-florianopolis" tvg-name="RECORD SC - NDTV FLORIANÓPOLIS SD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F21 M5 ⭐ RECORD",RECORD SC - NDTV FLORIANÓPOLIS SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDQbdOaaHo-7MB5NnuA13EuFqs7UAcElI6w1eGgFp53r4
+#EXTINF:-1 xui-id="4231774" tvg-id="Record SP SD" tvg-name="RECORD SE - TV ATALAIA FHD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F21 M5 ⭐ RECORD",RECORD SE - TV ATALAIA FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDaPWGUfZMV9oQ_Lz2GqougqB3gpEEMIL1bbZvRbhbAM4
+#EXTINF:-1 xui-id="4231775" tvg-id="Record SP SD" tvg-name="RECORD SE - TV ATALAIA HD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F21 M5 ⭐ RECORD",RECORD SE - TV ATALAIA HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDbpvnY2Q8hmlviKzP1etoFokn0JID4wnZS-R0boMlPFS
+#EXTINF:-1 xui-id="4231776" tvg-id="br#record-hd" tvg-name="RECORD SP - TH+ CAMPINAS FHD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F21 M5 ⭐ RECORD",RECORD SP - TH+ CAMPINAS FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDQlxFBbsPVJH2o29w-_9ntv7RsuubVPaivOTJ08mxtht
+#EXTINF:-1 xui-id="4231777" tvg-id="br#record-hd" tvg-name="RECORD SP - TH+ CAMPINAS HD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F21 M5 ⭐ RECORD",RECORD SP - TH+ CAMPINAS HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDZL9pRMTI8vy3gNEzCieqGrZJEVIB2lSiHs7vPxVI-Ej
+#EXTINF:-1 xui-id="4231778" tvg-id="br#record-hd" tvg-name="RECORD SP - TH+ CAMPINAS SD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F21 M5 ⭐ RECORD",RECORD SP - TH+ CAMPINAS SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDbQ3Bzhix4mT0AbDXHVjbfCxSQPYEi7lDpniOvl1PN1l
+#EXTINF:-1 xui-id="4231779" tvg-id="br#record-hd" tvg-name="RECORD SP - TV LITORAL DE SANTOS FHD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F21 M5 ⭐ RECORD",RECORD SP - TV LITORAL DE SANTOS FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDdDT0A5-v1jBh78FRwU5IVcjH6MlAzfClZ9idRuUGC5l
+#EXTINF:-1 xui-id="4231780" tvg-id="br#record-hd" tvg-name="RECORD SP - TV LITORAL DE SANTOS HD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F21 M5 ⭐ RECORD",RECORD SP - TV LITORAL DE SANTOS HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDRhkxaH8iW0Z0qQSh-I2AmqUlacDirf1hj4nmVT-X9ho
+#EXTINF:-1 xui-id="4231781" tvg-id="br#record-hd" tvg-name="RECORD SP - TV LITORAL DE SANTOS SD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F21 M5 ⭐ RECORD",RECORD SP - TV LITORAL DE SANTOS SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDZsu8_kRCHhp0OpmtypNEaQE4sejXalU3JfQZBGivmsj
+#EXTINF:-1 xui-id="4231782" tvg-id="RecordTVPaulista.br" tvg-name="RECORD SP - TV PAULISTA FHD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F21 M5 ⭐ RECORD",RECORD SP - TV PAULISTA FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDQ1wor0usqXKUlF2Q1pGNOMaz6h2FalPWERfCm9aaaXz
+#EXTINF:-1 xui-id="4231783" tvg-id="RecordTVPaulista.br" tvg-name="RECORD SP - TV PAULISTA HD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F21 M5 ⭐ RECORD",RECORD SP - TV PAULISTA HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDctXnpSKjMrtpn3DZ2xClznZ5hzI_v52pW53PoEsPyG-
+#EXTINF:-1 xui-id="4231784" tvg-id="RecordTVPaulista.br" tvg-name="RECORD SP - TV PAULISTA SD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F21 M5 ⭐ RECORD",RECORD SP - TV PAULISTA SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDe7_Y39X7hi3up5DKrlX5rl0lDW9LUHBgYHlM20Ij7Vm
+#EXTINF:-1 xui-id="4231785" tvg-id="br#record-hd" tvg-name="RECORD SP - TV RIO PRETO FHD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F21 M5 ⭐ RECORD",RECORD SP - TV RIO PRETO FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDT3VxM41VDUak9GUr7tt3wbZyq6LBKvT0WX1enKYCeYS
+#EXTINF:-1 xui-id="4231786" tvg-id="br#record-hd" tvg-name="RECORD SP - TV RIO PRETO HD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F21 M5 ⭐ RECORD",RECORD SP - TV RIO PRETO HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDeyfZsTQSqr7cEY0fDJf038piQy2hs5ZjLatvkCq7vJr
+#EXTINF:-1 xui-id="4231787" tvg-id="br#record-hd" tvg-name="RECORD SP - TV RIO PRETO SD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F21 M5 ⭐ RECORD",RECORD SP - TV RIO PRETO SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDX10jfubu5P3-QQptBKTgVCXuh5ThmFV7CpbiZvR0onE
+#EXTINF:-1 xui-id="4231788" tvg-id="RecordTVSaoPaulo.br" tvg-name="RECORD SP -TV SÃO PAULO FHD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F21 M5 ⭐ RECORD",RECORD SP -TV SÃO PAULO FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDZvHSxqDSitsAcS0E2XclvY3By7gZ3AKwZ1dl6HfSqma
+#EXTINF:-1 xui-id="4231789" tvg-id="RecordTVSaoPaulo.br" tvg-name="RECORD SP -TV SÃO PAULO HD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F21 M5 ⭐ RECORD",RECORD SP -TV SÃO PAULO HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDRflLKw8EBKto9K6N-jcKoGOYH-SQDx17D_VqTYlAkl6
+#EXTINF:-1 xui-id="4231790" tvg-id="RecordTVSaoPaulo.br" tvg-name="RECORD SP -TV SÃO PAULO SD" tvg-logo="https://img.hotice.site/icones_channels/Record_HD.png" group-title="F21 M5 ⭐ RECORD",RECORD SP -TV SÃO PAULO SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDamOpwHlGF-TprItGSukhrISeG4LCdDGO472kS88q-wz
+#EXTINF:-1 xui-id="4231791" tvg-id="br#rede-gospel-hd" tvg-name="REDE GOSPEL FHD" tvg-logo="https://img.hotice.site/icones_channels/TV_Rede_Gospel.png" group-title="F21 M5 ⭐ RELIGIOSOS",REDE GOSPEL FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDU6usYvg_R0L3z1VSi0cWN5jhyJuYdQJ5aUt9UTMDnX1
+#EXTINF:-1 xui-id="4231792" tvg-id="br#rede-gospel-hd" tvg-name="REDE GOSPEL HD" tvg-logo="https://img.hotice.site/icones_channels/TV_Rede_Gospel.png" group-title="F21 M5 ⭐ RELIGIOSOS",REDE GOSPEL HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDRq8pwEHDPWwOmtpq-JKprFqk1SLA4J-c6G-9TZhoaKa
+#EXTINF:-1 xui-id="4231794" tvg-id="24HAnimes" tvg-name="REDE SECULO 21 FHD" tvg-logo="https://img.inboxbr.pro/icones_channels/rede-21.png" group-title="F21 M5 ⭐ RELIGIOSOS",REDE SECULO 21 FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDc29SfaBevzXs_wFn4rREjMeXL0G-gceXja3wOzNzcYR
+#EXTINF:-1 xui-id="4231795" tvg-id="24HAnimes" tvg-name="REDE SECULO 21 HD" tvg-logo="https://img.inboxbr.pro/icones_channels/rede-21.png" group-title="F21 M5 ⭐ RELIGIOSOS",REDE SECULO 21 HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDaC6p1Q4cnheiM4rWDRiuChWNU_C5XRiusFqvwkLCLZY
+#EXTINF:-1 xui-id="4231796" tvg-id="br#rede-vida-hd" tvg-name="REDE VIDA FHD" tvg-logo="https://img.hotice.site/icones_channels/Rede_Vida_hd.png" group-title="F21 M5 ⭐ RELIGIOSOS",REDE VIDA FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDerAxo8BX0WCKZouXq2o1_MJh69LW5RS4T6Hz2feGwBU
+#EXTINF:-1 xui-id="4231797" tvg-id="br#rede-vida-hd" tvg-name="REDE VIDA HD" tvg-logo="https://img.hotice.site/icones_channels/Rede_Vida_hd.png" group-title="F21 M5 ⭐ RELIGIOSOS",REDE VIDA HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDdyCzg9IaSNxkorNLDJ-XjblhgRgKipohA-sX2ZqWolW
+#EXTINF:-1 xui-id="4231798" tvg-id="br#rit-hd" tvg-name="RIT TV FHD" tvg-logo="https://img.inboxbr.pro/icones_channels/rit-tv.png" group-title="F21 M5 ⭐ RELIGIOSOS",RIT TV FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDZrurac0JIEN7H6Mb2Uaz7EQknPWu53DHYgSggqoJTmp
+#EXTINF:-1 xui-id="4231799" tvg-id="br#rit-hd" tvg-name="RIT TV HD" tvg-logo="https://img.inboxbr.pro/icones_channels/rit-tv.png" group-title="F21 M5 ⭐ RELIGIOSOS",RIT TV HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDf_5mx5nq4Ykrsska1fgQpemLTKiBgk59f5UjAnC_dP5
+#EXTINF:-1 xui-id="4231806" tvg-id="br#tv-alterosa" tvg-name="SBT BA - TV ALTEROSA FHD" tvg-logo="https://img.hotice.site/icones_channels/SBT_Campinas.png" group-title="F21 M5 ⭐ SBT",SBT BA - TV ALTEROSA FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDThicaqyaksTFs99tdYCK3LL2c9JopZqcsOWYvNlSc_m
+#EXTINF:-1 xui-id="4231807" tvg-id="br#tv-alterosa" tvg-name="SBT BA - TV ALTEROSA HD" tvg-logo="https://img.hotice.site/icones_channels/SBT_Campinas.png" group-title="F21 M5 ⭐ SBT",SBT BA - TV ALTEROSA HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDcjLOgWN_Xw24T4euoz-R6YYRjz_VQJT7P-qvWAdE3MX
+#EXTINF:-1 xui-id="4231809" tvg-id="br#tv-aratu-hd" tvg-name="SBT BA - TV ARATU HD" tvg-logo="https://img.hotice.site/icones_channels/SBT_Campinas.png" group-title="F21 M5 ⭐ SBT",SBT BA - TV ARATU HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDX5iGCW7-O0xwtF6f95L2PP_TgdCZCc2cR4RMh6z9g-O
+#EXTINF:-1 xui-id="4231812" tvg-id="br#sbt-brasilia" tvg-name="SBT DF - SBT BRASILIA FHD" tvg-logo="https://img.hotice.site/icones_channels/SBT_Campinas.png" group-title="F21 M5 ⭐ SBT",SBT DF - SBT BRASILIA FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDZ8aMyGo3wEB4msRqXW9vekmu3uSkcepHY37ypSPDVu9
+#EXTINF:-1 xui-id="4231813" tvg-id="br#sbt-brasilia" tvg-name="SBT DF - SBT BRASILIA HD" tvg-logo="https://img.hotice.site/icones_channels/SBT_Campinas.png" group-title="F21 M5 ⭐ SBT",SBT DF - SBT BRASILIA HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDQYuIBE5Eofl4FlBs0SDwPCmvKqAQ9D6LlRHA_PY6f3u
+#EXTINF:-1 xui-id="4231814" tvg-id="br#sbt-goiania-tv-serra-dourada" tvg-name="SBT GO - TV SERRA DOURADA FHD" tvg-logo="https://img.hotice.site/icones_channels/SBT_Campinas.png" group-title="F21 M5 ⭐ SBT",SBT GO - TV SERRA DOURADA FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDW_hzj6LaBGbqwBkvJJElYclb8PSVV5-KBdtuCuB2S_s
+#EXTINF:-1 xui-id="4231815" tvg-id="br#sbt-goiania-tv-serra-dourada" tvg-name="SBT GO - TV SERRA DOURADA HD" tvg-logo="https://img.hotice.site/icones_channels/SBT_Campinas.png" group-title="F21 M5 ⭐ SBT",SBT GO - TV SERRA DOURADA HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDexlwrN0i6ozxSDzlKKCU3_F4muDaM424SeofHNxIr95
+#EXTINF:-1 xui-id="4231816" tvg-id="br#rede-difusora-hd" tvg-name="SBT MA - TV DIFUSORA FHD" tvg-logo="https://img.hotice.site/icones_channels/SBT_Campinas.png" group-title="F21 M5 ⭐ SBT",SBT MA - TV DIFUSORA FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDUuPZmnDbNuHpKBSL04gAnxvuErsU1MntocUYLB0dxGp
+#EXTINF:-1 xui-id="4231817" tvg-id="br#rede-difusora-hd" tvg-name="SBT MA - TV DIFUSORA HD" tvg-logo="https://img.hotice.site/icones_channels/SBT_Campinas.png" group-title="F21 M5 ⭐ SBT",SBT MA - TV DIFUSORA HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDVy3Jsv_gfEflleGzNr8S-3oN4RkxTb0yI6WSL6hpSsm
+#EXTINF:-1 xui-id="4231818" tvg-id="br#sbt-s-o-paulo" tvg-name="SBT MG - SBT MINAS HD" tvg-logo="https://img.hotice.site/icones_channels/SBT_Campinas.png" group-title="F21 M5 ⭐ SBT",SBT MG - SBT MINAS HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDTwp5dQwpU9K1Px1q2zNPWnOJlYDJkA0XFaSAdWrGmXm
+#EXTINF:-1 xui-id="4231819" tvg-id="SBTPara.br" tvg-name="SBT PA - SBT PARÁ FHD" tvg-logo="https://img.hotice.site/icones_channels/SBT_Campinas.png" group-title="F21 M5 ⭐ SBT",SBT PA - SBT PARÁ FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDXMTbxAc-AYqzWcr-jmFLfOL7MKtaCaRsuE9IDkq3Bhg
+#EXTINF:-1 xui-id="4231820" tvg-id="SBTPara.br" tvg-name="SBT PA - SBT PARÁ HD" tvg-logo="https://img.hotice.site/icones_channels/SBT_Campinas.png" group-title="F21 M5 ⭐ SBT",SBT PA - SBT PARÁ HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDV5IMVBTlPgu9gO8mZsUczQkvUFNh3111WBZ0cf1BwUz
+#EXTINF:-1 xui-id="4231822" tvg-id="br#tv-jornal-hd" tvg-name="SBT PE - TV JORNAL FHD" tvg-logo="https://img.hotice.site/icones_channels/SBT_Campinas.png" group-title="F21 M5 ⭐ SBT",SBT PE - TV JORNAL FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDfEORCQLzqElJMXDLiEMUUaJEUwhvZ-UEp2-3-HnLSVO
+#EXTINF:-1 xui-id="4231823" tvg-id="br#tv-jornal-hd" tvg-name="SBT PE - TV JORNAL HD" tvg-logo="https://img.hotice.site/icones_channels/SBT_Campinas.png" group-title="F21 M5 ⭐ SBT",SBT PE - TV JORNAL HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDSJuuN8lSO3dGBUNaFdes4ZvELI-g7HA4pX8aOZE8jQm
+#EXTINF:-1 xui-id="4231826" tvg-id="SBTRio.br" tvg-name="SBT RIO DE JANEIRO 4K" tvg-logo="https://img.hotice.site/icones_channels/SBT_Campinas.png" group-title="F21 M5 ⭐ 4K",SBT RIO DE JANEIRO 4K
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDWK4D4ewQCnsPZLBdEKM6g9OlxvCYiifBNUNf4naoLMY
+#EXTINF:-1 xui-id="4231827" tvg-id="SBTRio.br" tvg-name="SBT RJ - SBT  RIO FHD" tvg-logo="https://img.hotice.site/icones_channels/SBT_Campinas.png" group-title="F21 M5 ⭐ SBT",SBT RJ - SBT  RIO FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDa3bKDstXV3mr27M2x1gfQO2NcLmArtSBPPD13iyK41I
+#EXTINF:-1 xui-id="4231828" tvg-id="SBTRio.br" tvg-name="SBT RJ - SBT  RIO HD" tvg-logo="https://img.hotice.site/icones_channels/SBT_Campinas.png" group-title="F21 M5 ⭐ SBT",SBT RJ - SBT  RIO HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDeF_1joyBZyes3XeQ8PoohsD8iVPJdwMbGbDKWhkyKY8
+#EXTINF:-1 xui-id="4231829" tvg-id="SBTRio.br" tvg-name="SBT RJ - SBT  RIO SD" tvg-logo="https://img.hotice.site/icones_channels/SBT_Campinas.png" group-title="F21 M5 ⭐ SBT",SBT RJ - SBT  RIO SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDZPaD0P17NHY_iOXlXU07b2taZtHi7whq24WhEtMWQNT
+#EXTINF:-1 xui-id="4231830" tvg-id="RBSTVPortoAlegre.br" tvg-name="SBT RS - SBT PORTO ALEGRE FHD" tvg-logo="https://img.hotice.site/icones_channels/SBT_Campinas.png" group-title="F21 M5 ⭐ SBT",SBT RS - SBT PORTO ALEGRE FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDQi3WzoP_pNVjeVLzOSPdtzXDJZkFAe_ORf4Tj00ndLZ
+#EXTINF:-1 xui-id="4231831" tvg-id="RBSTVPortoAlegre.br" tvg-name="SBT RS - SBT PORTO ALEGRE HD" tvg-logo="https://img.hotice.site/icones_channels/SBT_Campinas.png" group-title="F21 M5 ⭐ SBT",SBT RS - SBT PORTO ALEGRE HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDWAqSngfRX5bbwVx0Jp1-X4MSwoil3NxwTnsMjJ74O4T
+#EXTINF:-1 xui-id="4231832" tvg-id="br#sbt-s-o-paulo" tvg-name="SBT SAO PAULO 4K" tvg-logo="https://img.hotice.site/icones_channels/SBT_Campinas.png" group-title="F21 M5 ⭐ 4K",SBT SAO PAULO 4K
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDar2RrFSXENfN1LfQfbWO7d1afvXPjrC7uoILJyEpkYR
+#EXTINF:-1 xui-id="4231836" tvg-id="br#sbt-s-o-paulo" tvg-name="SBT SP - SBT SAO PAULO FHD" tvg-logo="https://img.hotice.site/icones_channels/SBT_Campinas.png" group-title="F21 M5 ⭐ SBT",SBT SP - SBT SAO PAULO FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDTEj2rPgybKCTj0a2fGTlyhlvudQWfn51aERC2sCr737
+#EXTINF:-1 xui-id="4231837" tvg-id="br#sbt-s-o-paulo" tvg-name="SBT SP - SBT SAO PAULO HD" tvg-logo="https://img.hotice.site/icones_channels/SBT_Campinas.png" group-title="F21 M5 ⭐ SBT",SBT SP - SBT SAO PAULO HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDcSo93uPXfk8wj0ZioZIaELPEjyVf9ZA1ZRRzDDwxaHO
+#EXTINF:-1 xui-id="4231838" tvg-id="br#sbt-s-o-paulo" tvg-name="SBT SP - SBT SAO PAULO SD" tvg-logo="https://img.hotice.site/icones_channels/SBT_Campinas.png" group-title="F21 M5 ⭐ SBT",SBT SP - SBT SAO PAULO SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDYI21V3rtsOfDVyPPeuK6bq2DrD5fTJGtiXGi9G_RUUa
+#EXTINF:-1 xui-id="4238280" tvg-id="" tvg-name="Scooby-Doo 24HS" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",Scooby-Doo 24HS
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDYro7zi5Z6NiJU5HQX4c0FhwOv5NM--bGAzosxTCHAT7
+#EXTINF:-1 xui-id="4238281" tvg-id="" tvg-name="Smallville 24hs" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",Smallville 24hs
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDVzlMDIZbC2DP8veZgvI3bAmCwOotAcBGsFNF90FSWpI
+#EXTINF:-1 xui-id="4238282" tvg-id="" tvg-name="Sobrenatural 24hs" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",Sobrenatural 24hs
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDZbbVCo6hS__gUV3vxUTH26NG8Y2GVmnSu1Jt09fx-QV
+#EXTINF:-1 xui-id="4231841" tvg-id="SonyChannel.br" tvg-name="SONY CHANNEL 4K" tvg-logo="https://img.hotice.site/icones_channels/SONY_HD.png" group-title="F21 M5 ⭐ 4K",SONY CHANNEL 4K
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDegHpAs9nymc7RuyZi3a0cjrwlhdOxGuBUN4dJYzmuUw
+#EXTINF:-1 xui-id="4231842" tvg-id="SonyChannel.br" tvg-name="SONY CHANNEL FHD" tvg-logo="https://img.hotice.site/icones_channels/SONY_HD.png" group-title="F21 M5 ⏩ FILMES E SÉRIES",SONY CHANNEL FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDXc4KPYIZSIoDKOin3ty_HU0K18rFHvXJV5iXuT3vqO2
+#EXTINF:-1 xui-id="4231843" tvg-id="SonyChannel.br" tvg-name="SONY CHANNEL HD" tvg-logo="https://img.hotice.site/icones_channels/SONY_HD.png" group-title="F21 M5 ⏩ FILMES E SÉRIES",SONY CHANNEL HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDX04ONXpMCMCNtn0nnlzhR_aBJ_GZItaxW8QmSPmn3P3
+#EXTINF:-1 xui-id="4238283" tvg-id="" tvg-name="South Park 24HS" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",South Park 24HS
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDdXpHtOdvtUnQhEmtucL59752mAwh-NTFJtH2o16kzWB
+#EXTINF:-1 xui-id="4231849" tvg-id="24HAnimes" tvg-name="SPACE 4K" tvg-logo="https://img.hotice.site/icones_channels/SPACE_HD.png" group-title="F21 M5 ⭐ 4K",SPACE 4K
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDZF1AwZbsVOlWcMktY6rH1xrJ2-pyRNLkOYg0Lz7KpBH
+#EXTINF:-1 xui-id="4231850" tvg-id="24HAnimes" tvg-name="SPACE FHD" tvg-logo="https://img.hotice.site/icones_channels/SPACE_HD.png" group-title="F21 M5 ⏩ FILMES E SÉRIES",SPACE FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDR3MAqnQfP5bDDClHyug65rV0nNN3gKT3FaDbxHqO5x1
+#EXTINF:-1 xui-id="4231851" tvg-id="24HAnimes" tvg-name="SPACE HD" tvg-logo="https://img.hotice.site/icones_channels/SPACE_HD.png" group-title="F21 M5 ⏩ FILMES E SÉRIES",SPACE HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDdAnxrLy5_wE39pDCsXJQGBCZhukZso_0axU40hrzjbc
+#EXTINF:-1 xui-id="4231852" tvg-id="24HAnimes" tvg-name="SPACE SD" tvg-logo="https://img.hotice.site/icones_channels/SPACE_HD.png" group-title="F21 M5 ⏩ FILMES E SÉRIES",SPACE SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDXqR2_SCwFAD5y6Jy3ZzCLZCAgF51nOQ984zdnyyLgiG
+#EXTINF:-1 xui-id="4231853" tvg-id="br#sportv2-hd" tvg-name="SPORTV 01 4K" tvg-logo="https://img.hotice.site/icones_channels/Sport_TV_1.png" group-title="F21 M5 ⭐ 4K",SPORTV 01 4K
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDXInQ-TVZ3HPoCEAcuh2RMWMS4QRzvneUtUY_WWzNJHO
+#EXTINF:-1 xui-id="4665887" tvg-id="SporTV.br" tvg-name="SPORTV 01 FHD" tvg-logo="https://img.hotice.site/icones_channels/SporTV_HD.png" group-title="F21 M5 SPORTV",SPORTV 01 FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDWtx4pzWEspIBCuSgCk8lpW3tzPWyE2r4OucFN_DQ3wt
+#EXTINF:-1 xui-id="4665888" tvg-id="br#sportv-hd" tvg-name="SPORTV 01 HD" tvg-logo="https://img.hotice.site/icones_channels/SporTV_HD.png" group-title="F21 M5 SPORTV",SPORTV 01 HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDRQ_EVB-JbdacKIT7jsVizPYi1A0jM8CfLwA-2t4r8Rr
+#EXTINF:-1 xui-id="4665889" tvg-id="br#sportv-hd" tvg-name="SPORTV 01 SD" tvg-logo="https://img.hotice.site/icones_channels/SporTV_HD.png" group-title="F21 M5 SPORTV",SPORTV 01 SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDWmugfBFSrP0gyMzTHjglq0FgKfN3TvMfbMs1xpjWMOQ
+#EXTINF:-1 xui-id="4231858" tvg-id="SporTV2.br" tvg-name="SPORTV 02 4K" tvg-logo="https://img.hotice.site/icones_channels/Sport_TV_2.png" group-title="F21 M5 ⭐ 4K",SPORTV 02 4K
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDY5n1L-NXxD46pd2pmEOaHAKaVvzVHJQ-JmjF1RfD9GS
+#EXTINF:-1 xui-id="4665890" tvg-id="br#sportv2-hd" tvg-name="SPORTV 02 FHD" tvg-logo="https://img.hotice.site/icones_channels/SporTV2_HD.png" group-title="F21 M5 SPORTV",SPORTV 02 FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDazoIT98KYydoPSrRYZgchnxy_PZU-hzbVZ4LmCmavv6
+#EXTINF:-1 xui-id="4665891" tvg-id="br#sportv2-hd" tvg-name="SPORTV 02 HD" tvg-logo="https://img.hotice.site/icones_channels/SporTV2_HD.png" group-title="F21 M5 SPORTV",SPORTV 02 HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDZtrQ-PdZfcrjT3XUGzXwg91Dj3hObfB4FT25X46Rsfs
+#EXTINF:-1 xui-id="4665892" tvg-id="br#sportv2-hd" tvg-name="SPORTV 02 SD" tvg-logo="https://img.hotice.site/icones_channels/SporTV2_HD.png" group-title="F21 M5 SPORTV",SPORTV 02 SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDWtmt8i8NqaGQ68p8tkhAp64gGccoIoWdKwp5eJlLGZ3
+#EXTINF:-1 xui-id="4231863" tvg-id="SporTV3.br" tvg-name="SPORTV 03 4K" tvg-logo="https://img.hotice.site/icones_channels/Sport_TV_3.png" group-title="F21 M5 ⭐ 4K",SPORTV 03 4K
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDdGKuodaieO4yI6AgQA2dNgJ8lU7ghLNANKk6ihe6av0
+#EXTINF:-1 xui-id="4665893" tvg-id="br#sportv3-hd" tvg-name="SPORTV 03 FHD" tvg-logo="https://img.hotice.site/icones_channels/SporTV3_HD.png" group-title="F21 M5 SPORTV",SPORTV 03 FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDVcymPerMPO3_MgqeAn81q7Qfkg0Ot2di4T5eD-ijyVS
+#EXTINF:-1 xui-id="4665894" tvg-id="br#sportv3-hd" tvg-name="SPORTV 03 HD" tvg-logo="https://img.hotice.site/icones_channels/SporTV3_HD.png" group-title="F21 M5 SPORTV",SPORTV 03 HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDd4Q1IqQd_-13EQEQVeE5aHtJXYKHVWaRPAhOsxXKAcy
+#EXTINF:-1 xui-id="4665895" tvg-id="br#sportv3-hd" tvg-name="SPORTV 03 SD" tvg-logo="https://img.hotice.site/icones_channels/SporTV3_HD.png" group-title="F21 M5 SPORTV",SPORTV 03 SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDbIXbOZZyr8jvwfJQU3r6aNYotBNu5ggU14pIvcx-S-7
+#EXTINF:-1 xui-id="4238284" tvg-id="" tvg-name="Steven Universe 24HS" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",Steven Universe 24HS
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDe5pXPUtJum_olh-ExfZTBIu40WuZ5NH77TusuXQ25I0
+#EXTINF:-1 xui-id="4231869" tvg-id="br#studio-universal-hd" tvg-name="STUDIO UNIVERSAL 4K" tvg-logo="https://img.hotice.site/icones_channels/STUDIO_UNIVERSAL_HD.png" group-title="F21 M5 ⭐ 4K",STUDIO UNIVERSAL 4K
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDWCGEmobEIse3sOtyNagVznuXMWvV4cCRLyca6ps6olP
+#EXTINF:-1 xui-id="4231870" tvg-id="br#studio-universal-hd" tvg-name="STUDIO UNIVERSAL FHD" tvg-logo="https://img.hotice.site/icones_channels/STUDIO_UNIVERSAL_HD.png" group-title="F21 M5 ⏩ FILMES E SÉRIES",STUDIO UNIVERSAL FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDU1SOL6fcJqk-9N0tRFQv2wYhmYHAH2mJh0eEVK5lKMl
+#EXTINF:-1 xui-id="4231871" tvg-id="br#studio-universal-hd" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://img.hotice.site/icones_channels/STUDIO_UNIVERSAL_HD.png" group-title="F21 M5 ⏩ FILMES E SÉRIES",STUDIO UNIVERSAL HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDUvM4EP0Qz5pJ41Wd7nVyc9qRecrG4IogT3SwkKFj7vd
+#EXTINF:-1 xui-id="4231872" tvg-id="br#studio-universal-hd" tvg-name="STUDIO UNIVERSAL SD" tvg-logo="https://img.hotice.site/icones_channels/STUDIO_UNIVERSAL_HD.png" group-title="F21 M5 ⏩ FILMES E SÉRIES",STUDIO UNIVERSAL SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDXiauGip7PZgs_gE2C7yP0IwKz6i3OvA0qN6lGOSyClz
+#EXTINF:-1 xui-id="4238306" tvg-id="" tvg-name="Super Choque 24hs" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",Super Choque 24hs
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDT_-6PDXajFO2t3id4sL4JSUnSv7Y_Dh799Wg8wEkILY
+#EXTINF:-1 xui-id="4238285" tvg-id="" tvg-name="Superman 24hs" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",Superman 24hs
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDRxOiHN5cRDQWer17dmS5yszkaaxsWgL1M2I653TOA6I
+#EXTINF:-1 xui-id="4238286" tvg-id="" tvg-name="TARTARUGAS NINJAS 24HS" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",TARTARUGAS NINJAS 24HS
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDTDDD6gJTql1AL8c2_fy5TrXMYELNEiAgkGup94wi5Ef
+#EXTINF:-1 xui-id="4238314" tvg-id="" tvg-name="TAZ MANIA 24HRS" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",TAZ MANIA 24HRS
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDe7B2AfVscuHS7-J-SKmh-sHFcI6ZyhmoQi9KZzoBVJs
+#EXTINF:-1 xui-id="4231873" tvg-id="TCM.br" tvg-name="TCM 4K" tvg-logo="https://img.hotice.site/icones_channels/TCM.png" group-title="F21 M5 ⭐ 4K",TCM 4K
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDZ2HJ3YjMefeUYHhT4huwX90iIP8eCgZA1yJK9oFgtPE
+#EXTINF:-1 xui-id="4231874" tvg-id="TCM.br" tvg-name="TCM FHD" tvg-logo="https://img.hotice.site/icones_channels/TCM.png" group-title="F21 M5 ⏩ FILMES E SÉRIES",TCM FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDcZKlJFGvYfCeppLrLSrpB-Tkrp--wbib4r2kJoyi6Rl
+#EXTINF:-1 xui-id="4231875" tvg-id="TCM.br" tvg-name="TCM FHD 4K" tvg-logo="https://img.hotice.site/icones_channels/TCM.png" group-title="F21 M5 ⭐ 4K",TCM FHD 4K
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDcjGT_jKwlMNjHQWnL-ggz_2XNtkkr1R08A_LHpsM59S
+#EXTINF:-1 xui-id="4231876" tvg-id="TCM.br" tvg-name="TCM HD" tvg-logo="https://img.hotice.site/icones_channels/TCM.png" group-title="F21 M5 ⏩ FILMES E SÉRIES",TCM HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDd-ruOuGPoupFoYCqHEW82naltpmv5bkehjJ87OE2hAT
+#EXTINF:-1 xui-id="4231877" tvg-id="TCM.br" tvg-name="TCM SD" tvg-logo="https://img.hotice.site/icones_channels/TCM.png" group-title="F21 M5 ⏩ FILMES E SÉRIES",TCM SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDdXhVywuO2KWeBmdj69XK_GDdQPFh4qtHpfdc7R1mYTJ
+#EXTINF:-1 xui-id="4231878" tvg-id="br#telecine-action-hd" tvg-name="TELECINE ACTION 4K" tvg-logo="https://img.hotice.site/icones_channels/Telecine_Action_HD.png" group-title="F21 M5 ⭐ 4K",TELECINE ACTION 4K
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDUjez5Pb8c2SWnGLwDT_z1-4HXN6-hPYLEnykZoq5J5X
+#EXTINF:-1 xui-id="4231879" tvg-id="br#telecine-action-hd" tvg-name="TELECINE ACTION FHD" tvg-logo="https://img.hotice.site/icones_channels/Telecine_Action_HD.png" group-title="F21 M5 ⏩TELECINE",TELECINE ACTION FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDWgviOSBE9YxQKAPBt2BcZVp5PKDo3KlHilPGVWz-dLy
+#EXTINF:-1 xui-id="4231880" tvg-id="br#telecine-action-hd" tvg-name="TELECINE ACTION HD" tvg-logo="https://img.hotice.site/icones_channels/Telecine_Action_HD.png" group-title="F21 M5 ⏩TELECINE",TELECINE ACTION HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDQvQt3VHyqdCpACHFGp4JLykQX0YwP0QTXZs_-korrF1
+#EXTINF:-1 xui-id="4231881" tvg-id="br#telecine-action-hd" tvg-name="TELECINE ACTION SD" tvg-logo="https://img.hotice.site/icones_channels/Telecine_Action_HD.png" group-title="F21 M5 ⏩TELECINE",TELECINE ACTION SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDaINYdbipS2oPo6d4kG4wjPrysGr4Ojqoy_4xEUwhM59
+#EXTINF:-1 xui-id="4231882" tvg-id="br#telecine-cult-hd" tvg-name="TELECINE CULT 4K" tvg-logo="https://img.hotice.site/icones_channels/Telecine_Cult_HD.png" group-title="F21 M5 ⭐ 4K",TELECINE CULT 4K
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDRIdLJ42Xw28GV7DB0MvEWj_2ssKaVNlfmC8zEaMNdWx
+#EXTINF:-1 xui-id="4231883" tvg-id="br#telecine-cult-hd" tvg-name="TELECINE CULT FHD" tvg-logo="https://img.hotice.site/icones_channels/Telecine_Cult_HD.png" group-title="F21 M5 ⏩TELECINE",TELECINE CULT FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDVjHLC4qKuYorbQLjZYSBw103wtPyvAXMJAwIYzq0x1k
+#EXTINF:-1 xui-id="4231884" tvg-id="br#telecine-cult-hd" tvg-name="TELECINE CULT HD" tvg-logo="https://img.hotice.site/icones_channels/Telecine_Cult_HD.png" group-title="F21 M5 ⏩TELECINE",TELECINE CULT HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDa4ZkgK0SX9tiHKDL1vwNaYr-2F1305T780PS68vgJKB
+#EXTINF:-1 xui-id="4231885" tvg-id="br#telecine-cult-hd" tvg-name="TELECINE CULT SD" tvg-logo="https://img.hotice.site/icones_channels/Telecine_Cult_HD.png" group-title="F21 M5 ⏩TELECINE",TELECINE CULT SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDZdRf1pNShTOEqrsIrtEjU4oNxxcnKEzH470m-JsZJzw
+#EXTINF:-1 xui-id="4231886" tvg-id="br#telecine-fun-hd" tvg-name="TELECINE FUN 4K" tvg-logo="https://img.hotice.site/icones_channels/Telecine_FUN_HD.png" group-title="F21 M5 ⭐ 4K",TELECINE FUN 4K
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDUz-CFaWjNo3EW2VgaMNE-khLVz7yyXxC2c7qRp_rEQY
+#EXTINF:-1 xui-id="4231887" tvg-id="br#telecine-fun-hd" tvg-name="TELECINE FUN FHD" tvg-logo="https://img.hotice.site/icones_channels/Telecine_FUN_HD.png" group-title="F21 M5 ⏩TELECINE",TELECINE FUN FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDby5yV5IHtLUZXjXM9vTF4druZ5pYzuPITaYQAWWL6hX
+#EXTINF:-1 xui-id="4231888" tvg-id="br#telecine-fun-hd" tvg-name="TELECINE FUN HD" tvg-logo="https://img.hotice.site/icones_channels/Telecine_FUN_HD.png" group-title="F21 M5 ⏩TELECINE",TELECINE FUN HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDUgySdueUIvLzQhJ0rUvd91PV6EElfKbdijARxcGYwQD
+#EXTINF:-1 xui-id="4231889" tvg-id="br#telecine-fun-hd" tvg-name="TELECINE FUN SD" tvg-logo="https://img.hotice.site/icones_channels/Telecine_FUN_HD.png" group-title="F21 M5 ⏩TELECINE",TELECINE FUN SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDff_BgdC12ZrwuzBUd-gRk0-5Zqf-Ae9QktTt-QN1P8T
+#EXTINF:-1 xui-id="4231890" tvg-id="br#telecine-pipoca-hd" tvg-name="TELECINE PIPOCA 4K" tvg-logo="https://img.hotice.site/icones_channels/Telecine_Pipoca_HD.png" group-title="F21 M5 ⭐ 4K",TELECINE PIPOCA 4K
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDZTRhzd187VvuWksNzZgbXjpzVd4ICooAzr0N1BRj7So
+#EXTINF:-1 xui-id="4231891" tvg-id="br#telecine-pipoca-hd" tvg-name="TELECINE PIPOCA FHD" tvg-logo="https://img.hotice.site/icones_channels/Telecine_Pipoca_HD.png" group-title="F21 M5 ⏩TELECINE",TELECINE PIPOCA FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDTwv38PP7qgp--Jkefiz877EU73oPg-qpLDNSbNuSMa9
+#EXTINF:-1 xui-id="4231892" tvg-id="br#telecine-pipoca-hd" tvg-name="TELECINE PIPOCA HD" tvg-logo="https://img.hotice.site/icones_channels/Telecine_Pipoca_HD.png" group-title="F21 M5 ⏩TELECINE",TELECINE PIPOCA HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDd2z_WFjaTjpZeKPePilkIuyQm5mNCEiQR2PNH9NvVmc
+#EXTINF:-1 xui-id="4231893" tvg-id="br#telecine-pipoca-hd" tvg-name="TELECINE PIPOCA SD" tvg-logo="https://img.hotice.site/icones_channels/Telecine_Pipoca_HD.png" group-title="F21 M5 ⏩TELECINE",TELECINE PIPOCA SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDVkaxLVPG4NV6SBMcvUCt38fRI6UdTbztTYgIqWXulIm
+#EXTINF:-1 xui-id="4231894" tvg-id="br#telecine-premium-hd" tvg-name="TELECINE PREMIUM 4K" tvg-logo="https://img.hotice.site/icones_channels/Telecine_Premium_HD.png" group-title="F21 M5 ⭐ 4K",TELECINE PREMIUM 4K
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDY9eseArLeTNw1D-kXC4cKy6k_Ibo21VDLge1fc_8LNv
+#EXTINF:-1 xui-id="4231895" tvg-id="br#telecine-premium-hd" tvg-name="TELECINE PREMIUM FHD" tvg-logo="https://img.hotice.site/icones_channels/Telecine_Premium_HD.png" group-title="F21 M5 ⏩TELECINE",TELECINE PREMIUM FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDaf7loOEKgynfP8LJlo0fvRiZGeF33waw1gFO-uJL-U0
+#EXTINF:-1 xui-id="4231896" tvg-id="br#telecine-premium-hd" tvg-name="TELECINE PREMIUM HD" tvg-logo="https://img.hotice.site/icones_channels/Telecine_Premium_HD.png" group-title="F21 M5 ⏩TELECINE",TELECINE PREMIUM HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDV93cxsQQV4jWIpXaLpY4EjGmzpJTKg0GAUWtt-cThWK
+#EXTINF:-1 xui-id="4231897" tvg-id="br#telecine-premium-hd" tvg-name="TELECINE PREMIUM SD" tvg-logo="https://img.hotice.site/icones_channels/Telecine_Premium_HD.png" group-title="F21 M5 ⏩TELECINE",TELECINE PREMIUM SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDX0fw38oIyJn5uEmkk4IW4b3ra8IgKc0nZoZaTg3AC06
+#EXTINF:-1 xui-id="4231898" tvg-id="br#telecine-touch-hd" tvg-name="TELECINE TOUCH 4K" tvg-logo="https://img.hotice.site/icones_channels/Telecine_Touch_HD.png" group-title="F21 M5 ⭐ 4K",TELECINE TOUCH 4K
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDXFHt3pu40aZLAsOyQuKTl01dJhkGJ0GKbLkRS_O7MzM
+#EXTINF:-1 xui-id="4231899" tvg-id="br#telecine-touch-hd" tvg-name="TELECINE TOUCH FHD" tvg-logo="https://img.hotice.site/icones_channels/Telecine_Touch_HD.png" group-title="F21 M5 ⏩TELECINE",TELECINE TOUCH FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDRUgwNNkOzJ2j4kUO_rdiS-rgTIQywrcZKrZcpowwHI3
+#EXTINF:-1 xui-id="4231900" tvg-id="br#telecine-touch-hd" tvg-name="TELECINE TOUCH HD" tvg-logo="https://img.hotice.site/icones_channels/Telecine_Touch_HD.png" group-title="F21 M5 ⏩TELECINE",TELECINE TOUCH HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDXXpHauNrKcbNhI3-YdpDFlXRNFCpORQbEEO-sVrRAih
+#EXTINF:-1 xui-id="4231901" tvg-id="br#telecine-touch-hd" tvg-name="TELECINE TOUCH SD" tvg-logo="https://img.hotice.site/icones_channels/Telecine_Touch_HD.png" group-title="F21 M5 ⏩TELECINE",TELECINE TOUCH SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDQ-xkIOikmR_h9a-6tcD6KSbK5uc2Coaua9v8dFI3qIF
+#EXTINF:-1 xui-id="4231902" tvg-id="TerraViva.br" tvg-name="TERR VIVA HD" tvg-logo="https://img.hotice.site/icones_channels/Terra_Viva.png" group-title="F21 M5 ⭐ AGRO NEGOCIOS",TERR VIVA HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDdyjD0YbGFU7uJ9nbEajmEa94N6Om0KW9jnQy-P9igUV
+#EXTINF:-1 xui-id="4231903" tvg-id="TerraViva.br" tvg-name="TERR VIVA SD" tvg-logo="https://img.hotice.site/icones_channels/Terra_Viva.png" group-title="F21 M5 ⭐ AGRO NEGOCIOS",TERR VIVA SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDXWOz3-iRAoabyplpVNPBnk-uQSgfFfm-oxc4FqJyhJ4
+#EXTINF:-1 xui-id="4231904" tvg-id="TerraViva.br" tvg-name="TERRA VIVA FHD" tvg-logo="https://img.hotice.site/icones_channels/Terra_Viva.png" group-title="F21 M5 ⭐ AGRO NEGOCIOS",TERRA VIVA FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDaTJwKFO-4HkJIEkslxsV-yP96TOoe2ZIWzAvNMM3PMZ
+#EXTINF:-1 xui-id="4238329" tvg-id="" tvg-name="THE BIG BANG THEORY 24HRS" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",THE BIG BANG THEORY 24HRS
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDUDPn3Mnf9tb7soJRhxa27LwLYxPp0utMdBUxte9JmV5
+#EXTINF:-1 xui-id="4238287" tvg-id="" tvg-name="Thundercats 24HS" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",Thundercats 24HS
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDf5heb_359lPRClmIgBw1hP3RGgDHrhu8n3-xSGa207N
+#EXTINF:-1 xui-id="4238288" tvg-id="" tvg-name="TIMAO E PUMBA 24HS" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",TIMAO E PUMBA 24HS
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDcUSAJ2BN5_2Tp7aauGIBGH24xMcaXKPLhu2fm46SwZn
+#EXTINF:-1 xui-id="4231905" tvg-id="br#tlc-hd" tvg-name="TLC 4K" tvg-logo="https://img.hotice.site/icones_channels/TLC_HD.png" group-title="F21 M5 ⭐ 4K",TLC 4K
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDdSJaqyopHeLarKAYNtVsOXkKKqfYOx01wMtBVZ0OoZ9
+#EXTINF:-1 xui-id="4231906" tvg-id="br#tlc-hd" tvg-name="TLC FHD" tvg-logo="https://img.hotice.site/icones_channels/TLC_HD.png" group-title="F21 M5 ⭐ DOCUMENTÁRIOS",TLC FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDdKCZNE83kkist5BxdfnNnQ9kVILotVYK3UxN9mqt8yr
+#EXTINF:-1 xui-id="4231907" tvg-id="br#tlc-hd" tvg-name="TLC HD" tvg-logo="https://img.hotice.site/icones_channels/TLC_HD.png" group-title="F21 M5 ⭐ DOCUMENTÁRIOS",TLC HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDRFbBBh0mlGCltjXVeE9KEu5bfKp9IpCqRlzdbFIp63J
+#EXTINF:-1 xui-id="4231908" tvg-id="br#tlc-hd" tvg-name="TLC SD" tvg-logo="https://img.hotice.site/icones_channels/TLC_HD.png" group-title="F21 M5 ⭐ DOCUMENTÁRIOS",TLC SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDSJTTKU1R43z6jUK3S0PU3BtIvCHlsjSf5PvHJF5DuDN
+#EXTINF:-1 xui-id="4231909" tvg-id="br#tnt-hd" tvg-name="TNT FHD" tvg-logo="https://img.hotice.site/icones_channels/TNT_HD.png" group-title="F21 M5 ⏩ FILMES E SÉRIES",TNT FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDfghP9s23LnvWIUOr9XV7_JqajdlVDlv_L9sNj-2C-Iy
+#EXTINF:-1 xui-id="4231910" tvg-id="br#tnt-hd" tvg-name="TNT HD" tvg-logo="https://img.hotice.site/icones_channels/TNT_HD.png" group-title="F21 M5 ⏩ FILMES E SÉRIES",TNT HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDQ3zLT0NafGe5WZCVqCJLpPCt2LQefc1ENwrcBkiJMwK
+#EXTINF:-1 xui-id="4231911" tvg-id="TNTNovelas.br" tvg-name="TNT NOVELAS 4K" tvg-logo="https://img.hotice.site/icones_channels/TNT_Novelas_HD.png" group-title="F21 M5 ⭐ 4K",TNT NOVELAS 4K
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDcLx04dsMmnR0JNqFiqBtglwp-3pCul4NUsfKP279rvu
+#EXTINF:-1 xui-id="4231912" tvg-id="br#tnt-hd" tvg-name="TNT SD" tvg-logo="https://img.hotice.site/icones_channels/TNT_HD.png" group-title="F21 M5 ⏩ FILMES E SÉRIES",TNT SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDSsFghoxyKIsx_A0Zzlm6RCaSJctBN5nfpewGikpOaaR
+#EXTINF:-1 xui-id="4231913" tvg-id="br#tnt-series-hd" tvg-name="TNT SERIES 4K" tvg-logo="https://img.hotice.site/icones_channels/TNT_SERIES_HD.png" group-title="F21 M5 ⭐ 4K",TNT SERIES 4K
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDRm47aias4xjkNsNTXw4nl5eW0ADzfMtL6ZdwDLUUjkq
+#EXTINF:-1 xui-id="4231914" tvg-id="br#tnt-series-hd" tvg-name="TNT SERIES FHD" tvg-logo="https://img.hotice.site/icones_channels/TNT_SERIES_HD.png" group-title="F21 M5 ⏩ FILMES E SÉRIES",TNT SERIES FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDb4ICXhCA8-kLfsbdu9oOqxWrYmXHCxRq4FFW2wMscW3
+#EXTINF:-1 xui-id="4231915" tvg-id="br#tnt-series-hd" tvg-name="TNT SERIES HD" tvg-logo="https://img.hotice.site/icones_channels/TNT_SERIES_HD.png" group-title="F21 M5 ⏩ FILMES E SÉRIES",TNT SERIES HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDTGUnlF5KIlaITlerWtIOvynlszK97h5HN24PPAF9apR
+#EXTINF:-1 xui-id="4231916" tvg-id="br#tnt-series-hd" tvg-name="TNT SERIES SD" tvg-logo="https://img.hotice.site/icones_channels/TNT_SERIES_HD.png" group-title="F21 M5 ⏩ FILMES E SÉRIES",TNT SERIES SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDSsbf0-L2zjKqsl8lCIOTUf5Yf711DRlT5zqwj3e9A-h
+#EXTINF:-1 xui-id="4665901" tvg-id="br#tnt-hd" tvg-name="TNT SPORTS 01 HD" tvg-logo="https://img.inboxbr.pro/icones_channels/estadio-tnt-sports.png" group-title="F21 M5 MAX-TNT SPORTS",TNT SPORTS 01 HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDSRnP0NhqrEHT_SLCVC-721KuD6kgH7jrL8ejmuWgyvA
+#EXTINF:-1 xui-id="4665902" tvg-id="br#tnt-hd" tvg-name="TNT SPORTS 02 HD" tvg-logo="https://img.inboxbr.pro/icones_channels/estadio-tnt-sports.png" group-title="F21 M5 MAX-TNT SPORTS",TNT SPORTS 02 HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDS85V9GLSDLkp6meDiKwu7iq3hSVeNqk6dTWvk4MdyVE
+#EXTINF:-1 xui-id="4665903" tvg-id="" tvg-name="TNT SPORTS 03 HD" tvg-logo="https://img.inboxbr.pro/icones_channels/estadio-tnt-sports.png" group-title="F21 M5 MAX-TNT SPORTS",TNT SPORTS 03 HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDd9toail0Ly6o1qfksxbyCojf4WGl-K6riR0PT21Rylc
+#EXTINF:-1 xui-id="4238289" tvg-id="" tvg-name="TODO MUNDO ODEIA O CHRIS 24hs" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",TODO MUNDO ODEIA O CHRIS 24hs
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDYp2LKBtijtITOS8Hc8WV1OQ8XugVeOHFWLrSGTWz5NF
+#EXTINF:-1 xui-id="4238290" tvg-id="" tvg-name="Tom & Jerry 24HS" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",Tom & Jerry 24HS
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDbdGVIwLU55bkA2c4p3QQjjqfP4Ide1hH_xeh68CpQSx
+#EXTINF:-1 xui-id="4231920" tvg-id="Tooncast.us" tvg-name="TOONCAST FHD" tvg-logo="https://img.inboxbr.pro/icones_channels/tooncast.png" group-title="F21 M5 ⭐ INFANTIL",TOONCAST FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDXjfWdP67EGLkKiDrlT5bQx_PlhJRo5q-C7tqbvGK7-P
+#EXTINF:-1 xui-id="4231921" tvg-id="Tooncast.us" tvg-name="TOONCAST HD" tvg-logo="https://img.inboxbr.pro/icones_channels/tooncast.png" group-title="F21 M5 ⭐ INFANTIL",TOONCAST HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDRQlc2HFBPtuOCYTxu8N42KTpTQ6gbKWEmKjG9ERJ9wr
+#EXTINF:-1 xui-id="4231922" tvg-id="Tooncast.us" tvg-name="TOONCAST SD" tvg-logo="https://img.inboxbr.pro/icones_channels/tooncast.png" group-title="F21 M5 ⭐ INFANTIL",TOONCAST SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDRirKbBZfn5KdAHE0EWiLFYnaE89gQtyvlZy41TR4vAa
+#EXTINF:-1 xui-id="4238291" tvg-id="" tvg-name="Tres Espias Demais 24hs" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",Tres Espias Demais 24hs
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDZJIPGVvpyZIaYjwC1ugedIstbaex8b4hMJvBM0E5id2
+#EXTINF:-1 xui-id="4231923" tvg-id="br#tv-aparecida-hd" tvg-name="TV APARECIDA FHD" tvg-logo="https://img.hotice.site/icones_channels/TV_Aparecida_HD.png" group-title="F21 M5 ⭐ RELIGIOSOS",TV APARECIDA FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDXQPCAymh5BtprP_0PYacQsgLJrFQYJDXDSLtpPnmgJ1
+#EXTINF:-1 xui-id="4231924" tvg-id="br#tv-aparecida-hd" tvg-name="TV APARECIDA HD" tvg-logo="https://img.hotice.site/icones_channels/TV_Aparecida_HD.png" group-title="F21 M5 ⭐ RELIGIOSOS",TV APARECIDA HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDWuwjXk8EoyxTZo0C1fth2tgA6qKyeg5B4RfqHkdVa_W
+#EXTINF:-1 xui-id="4231925" tvg-id="TVCamara.br" tvg-name="TV CAMARA FHD" tvg-logo="https://img.hotice.site/icones_channels/TV_CAMARA.png" group-title="F21 M5 ⭐ ABERTOS",TV CAMARA FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDaVL9RByM_OCw0u4-HzmIZfy8lym42e2mv75UpSztT64
+#EXTINF:-1 xui-id="4231928" tvg-id="br#tv-alterosa" tvg-name="TV PAI ETERNO FHD" tvg-logo="https://img.hotice.site/icones_channels/TV_Pai_Eterno.png" group-title="F21 M5 ⭐ RELIGIOSOS",TV PAI ETERNO FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDcM1mrqt3D2wDyMdLJUqcKQVAvi6XIEWD2_bxA5SrJ_z
+#EXTINF:-1 xui-id="4231929" tvg-id="br#tv-alterosa" tvg-name="TV PAI ETERNO HD" tvg-logo="https://img.hotice.site/icones_channels/TV_Pai_Eterno.png" group-title="F21 M5 ⭐ RELIGIOSOS",TV PAI ETERNO HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDdNYT2RqGC15bPwRgdKSl9RWbAvYksiM0rzL2AfKgsFY
+#EXTINF:-1 xui-id="4231930" tvg-id="TVRaTimBum.br" tvg-name="TV RA TIM BUM FHD" tvg-logo="https://img.inboxbr.pro/icones_channels/tv-ra-tim-bum.png" group-title="F21 M5 ⭐ INFANTIL",TV RA TIM BUM FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDYkQAcmjnEr1vZ9E_auDeu6-vG_5rudWB96DAf0LxQ_C
+#EXTINF:-1 xui-id="4231931" tvg-id="TVRaTimBum.br" tvg-name="TV RA TIM BUM HD" tvg-logo="https://img.inboxbr.pro/icones_channels/tv-ra-tim-bum.png" group-title="F21 M5 ⭐ INFANTIL",TV RA TIM BUM HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDUC0lZ3QzQZPZ8JEGXq0_vUYvH31diRHaD5hdt7a-hQN
+#EXTINF:-1 xui-id="4231932" tvg-id="TVRaTimBum.br" tvg-name="TV RA TIM BUM SD" tvg-logo="https://img.inboxbr.pro/icones_channels/tv-ra-tim-bum.png" group-title="F21 M5 ⭐ INFANTIL",TV RA TIM BUM SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDaJStiEnlSmYTnXFFCB-SpCrGlVxc4ENbaKuxzwQfg88
+#EXTINF:-1 xui-id="4231933" tvg-id="" tvg-name="UFC FIGHT PASS 01 HD  (AO VIVO)" tvg-logo="https://img.hotice.site/icones_channels/UFC_Fight_Pass_2.png" group-title="F21 M5 COMBATE UFC",UFC FIGHT PASS 01 HD  (AO VIVO)
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDURrxtGmuYGfKaEF19GT67-L0cmEP53EAHUQuD52Gyvs
+#EXTINF:-1 xui-id="4231934" tvg-id="" tvg-name="UFC FIGHT PASS 02 HD (AO VIVO)" tvg-logo="https://img.hotice.site/icones_channels/UFC_Fight_Pass_2.png" group-title="F21 M5 COMBATE UFC",UFC FIGHT PASS 02 HD (AO VIVO)
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDbCzKz5F2p-g4dcAyKXGL5uchvHsSEQHrG9O3-3JbDKH
+#EXTINF:-1 xui-id="4666506" tvg-id="" tvg-name="UFC FIGHT PASS 03" tvg-logo="https://img.hotice.site/icones_channels/UFC_Fight_Pass_2.png" group-title="F21 M5 COMBATE UFC",UFC FIGHT PASS 03
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDX_z8jXErab-cn30orJ9vr7Y77RmNg7YeUNF0cCSpLkc
+#EXTINF:-1 xui-id="4238292" tvg-id="" tvg-name="UM MALUCO NO PEDAÇO 24HS" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",UM MALUCO NO PEDAÇO 24HS
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDdN2ZfSkt_AlkyyGg9OWzn4ogSXVtaXS39illwKto0Bp
+#EXTINF:-1 xui-id="4238293" tvg-id="" tvg-name="Uma Família da Pesada 24hs" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",Uma Família da Pesada 24hs
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDTRXG_MCHHfiiYXGNlQq8TCQtaA3385Aed04hCusiEsW
+#EXTINF:-1 xui-id="4231940" tvg-id="UniversalTV.br" tvg-name="UNIVERSAL TV 4K" tvg-logo="https://img.hotice.site/icones_channels/Universal_HD.png" group-title="F21 M5 ⭐ 4K",UNIVERSAL TV 4K
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDYJ5osVIo6cvswaCq11U7OsXjQ8wtLCBK0BS3uVpbZ7i
+#EXTINF:-1 xui-id="4231941" tvg-id="UniversalTV.br" tvg-name="UNIVERSAL TV FHD" tvg-logo="https://img.hotice.site/icones_channels/Universal_HD.png" group-title="F21 M5 ⏩ FILMES E SÉRIES",UNIVERSAL TV FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDTg3XGISAWWDJnEqfZpyIrJXMANPt6y_0nW_D2ZYxg2J
+#EXTINF:-1 xui-id="4231942" tvg-id="UniversalTV.br" tvg-name="UNIVERSAL TV HD" tvg-logo="https://img.hotice.site/icones_channels/Universal_HD.png" group-title="F21 M5 ⏩ FILMES E SÉRIES",UNIVERSAL TV HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDYEwtEXGuMTfcRceB69oL0Q77crYCZfb_agtk9lf1peI
+#EXTINF:-1 xui-id="4231943" tvg-id="UniversalTV.br" tvg-name="UNIVERSAL TV SD" tvg-logo="https://img.hotice.site/icones_channels/Universal_HD.png" group-title="F21 M5 ⏩ FILMES E SÉRIES",UNIVERSAL TV SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDaev4f0LuxAk8qf0Q2otL0MaI7T6Vx7h8YwRSOOMicVS
+#EXTINF:-1 xui-id="4238294" tvg-id="" tvg-name="Ursinhos Carinhos 24hs" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",Ursinhos Carinhos 24hs
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDfyZgDsckwMh3SF4JQp7QtXoKZzS5cxDKVaNN0_arPeL
+#EXTINF:-1 xui-id="4238304" tvg-id="" tvg-name="VAI QUE COLA 24HRS" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",VAI QUE COLA 24HRS
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDcre1JqyOroadreCid_os3aFEzmf71F9JD7fBBHbukn3
+#EXTINF:-1 xui-id="4238305" tvg-id="" tvg-name="Vai Que Cola 24hs" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",Vai Que Cola 24hs
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDRGRDRzClD-g9ckuYvIdH11FnzFaXKmeu8CuRwOzNleq
+#EXTINF:-1 xui-id="4238757" tvg-id="" tvg-name="Viva HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/aZrJGTCraXDT6QF/download/viva.png" group-title="F21 M5 ⭐ VARIEDADES",Viva HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDSJErU_D4A5dRE2FcBLGxOGtF8rmIvRFO-1QLXJyDGe1
+#EXTINF:-1 xui-id="4238758" tvg-id="" tvg-name="Viva SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/aZrJGTCraXDT6QF/download/viva.png" group-title="F21 M5 ⭐ VARIEDADES",Viva SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDb4YLwW8UzZuwNEcbqSjwVslTsDYBFh7UObs4dx6P4R6
+#EXTINF:-1 xui-id="4231953" tvg-id="br#warner-channel-hd" tvg-name="WARNER CHANNEL 4K" tvg-logo="https://img.hotice.site/icones_channels/Warner_HD.png" group-title="F21 M5 ⭐ 4K",WARNER CHANNEL 4K
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDe3DLu8rc1zzO-06vBHhXBKPW5k6XNvKXeWSwUI8FvmV
+#EXTINF:-1 xui-id="4231954" tvg-id="br#warner-channel-hd" tvg-name="WARNER CHANNEL FHD" tvg-logo="https://img.hotice.site/icones_channels/Warner_HD.png" group-title="F21 M5 ⏩ FILMES E SÉRIES",WARNER CHANNEL FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDcQS-URKGSGGtphAzD2fqY2833q-ktBA2EzNYxxKYnBo
+#EXTINF:-1 xui-id="4231955" tvg-id="br#warner-channel-hd" tvg-name="WARNER CHANNEL HD" tvg-logo="https://img.hotice.site/icones_channels/Warner_HD.png" group-title="F21 M5 ⏩ FILMES E SÉRIES",WARNER CHANNEL HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDSQHpf0ZXXXVnNecpsiZKA6SUiHFy-PUXdVRj5CwMpSc
+#EXTINF:-1 xui-id="4231956" tvg-id="br#warner-channel-hd" tvg-name="WARNER CHANNEL SD" tvg-logo="https://img.hotice.site/icones_channels/Warner_HD.png" group-title="F21 M5 ⏩ FILMES E SÉRIES",WARNER CHANNEL SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDUx1WjcXHQPoShQvwgZPzAPinamB3eWfnJAlyg3y00N1
+#EXTINF:-1 xui-id="4665904" tvg-id="br#woohoo-hd" tvg-name="WOOHOO FHD" tvg-logo="https://img.hotice.site/icones_channels/Woohoo.png" group-title="F21 M5 ️ESPORTES RADICAIS",WOOHOO FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDYlOKYmO_tF9FsU2b7XVR8UWEqMVFsIJRpxElbbca73s
+#EXTINF:-1 xui-id="4665905" tvg-id="br#woohoo-hd" tvg-name="WOOHOO HD" tvg-logo="https://img.hotice.site/icones_channels/Woohoo.png" group-title="F21 M5 ️ESPORTES RADICAIS",WOOHOO HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDZCH18bEA7p9Z4HgmOBJRbk9kNqIxwhVKHNPEnkoxjLk
+#EXTINF:-1 xui-id="4665906" tvg-id="br#woohoo-hd" tvg-name="WOOHOO SD" tvg-logo="https://img.hotice.site/icones_channels/Woohoo.png" group-title="F21 M5 ️ESPORTES RADICAIS",WOOHOO SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDVXRFAuSA23SD7jdzlKfDWLqZoDOeWJCslHUdCMVBtGd
+#EXTINF:-1 xui-id="4238295" tvg-id="" tvg-name="X-MAN 24HS" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",X-MAN 24HS
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDakR_kjPpKnE2cxfQf4kUJ_irTgpHMG3WNQukSThD25T
+#EXTINF:-1 xui-id="4238296" tvg-id="" tvg-name="Xena 24hs" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",Xena 24hs
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDYB6mKoy-k_pITS7kn4prnqSNQl3HKfW9gcQI0_u5ihK
+#EXTINF:-1 xui-id="4238297" tvg-id="" tvg-name="YU-GI-OH 24hs" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",YU-GI-OH 24hs
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDbYq-TGyaZXAgpv0z39a0KbySYNNraAyPr_Yf3mUUo88
+#EXTINF:-1 xui-id="4238298" tvg-id="" tvg-name="YU-YU-Hakusho 24hs" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",YU-YU-Hakusho 24hs
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDai3JvV59oiwjUy565UIPzSS8GoX3ZpbP-kvSbn6WZh8
+#EXTINF:-1 xui-id="4238317" tvg-id="" tvg-name="YUYU HAKUSHO 24 HRS" tvg-logo="" group-title="F21 M5 ⭐ 24HORAS",YUYU HAKUSHO 24 HRS
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDTp3tPFziasN5gLC_BVFTM8wx0iGt07bavWEjfxHEV88
+#EXTINF:-1 xui-id="4231961" tvg-id="ZooMoo.sg" tvg-name="ZOOMOO FHD" tvg-logo="https://img.inboxbr.pro/icones_channels/zoomoo-kids.png" group-title="F21 M5 ⭐ INFANTIL",ZOOMOO FHD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDdr5dAXlLFAkQ4z2RT3H6klav0CKrrJ6hhHvxA909OZl
+#EXTINF:-1 xui-id="4231962" tvg-id="ZooMoo.sg" tvg-name="ZOOMOO HD" tvg-logo="https://img.inboxbr.pro/icones_channels/zoomoo-kids.png" group-title="F21 M5 ⭐ INFANTIL",ZOOMOO HD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDb_hilQAuE8kM-L62hEIvQA8uuyyhdJFjn80Jnw0V9gs
+#EXTINF:-1 xui-id="4231963" tvg-id="ZooMoo.sg" tvg-name="ZOOMOO SD" tvg-logo="https://img.inboxbr.pro/icones_channels/zoomoo-kids.png" group-title="F21 M5 ⭐ INFANTIL",ZOOMOO SD
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDWiLD4H6H61fGrBMU7UCfsH-8oU7lWI0IGKvYVR_ckwL
+#EXTINF:-1 xui-id="4238750" tvg-id="" tvg-name="AdultIPTV.net Anal" tvg-logo="" group-title="F21 M5 ⭐ ADULTOS+18",AdultIPTV.net Anal
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDQs0KXmceqpSEviEFIirrHuXg0pg5Uz9rD2nBInVAuqm
+#EXTINF:-1 xui-id="4238737" tvg-id="" tvg-name="AdultIPTV.net Big Ass" tvg-logo="" group-title="F21 M5 ⭐ ADULTOS+18",AdultIPTV.net Big Ass
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDZtw2me6lOo4455hy6EWwhSxaG-IxGIpAEyuOZaxrpwc
+#EXTINF:-1 xui-id="4238733" tvg-id="" tvg-name="AdultIPTV.net Big Dick" tvg-logo="" group-title="F21 M5 ⭐ ADULTOS+18",AdultIPTV.net Big Dick
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDRQnZZPMYES2LvKu-EL0g6zxDXIIkrSVbd_2PC-fssps
+#EXTINF:-1 xui-id="4238734" tvg-id="" tvg-name="AdultIPTV.net Big Tits" tvg-logo="" group-title="F21 M5 ⭐ ADULTOS+18",AdultIPTV.net Big Tits
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDd9IViZLdBpwBDKJbS2H2mszhbB7VA0BcccHdVLR4lUv
+#EXTINF:-1 xui-id="4238753" tvg-id="" tvg-name="AdultIPTV.net Blonde" tvg-logo="" group-title="F21 M5 ⭐ ADULTOS+18",AdultIPTV.net Blonde
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDdvjcSDvZZoqqNqa6ZFJcCpCsntEOLzye__Jg8xItJmU
+#EXTINF:-1 xui-id="4238741" tvg-id="" tvg-name="AdultIPTV.net Blowjob" tvg-logo="" group-title="F21 M5 ⭐ ADULTOS+18",AdultIPTV.net Blowjob
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDTPSHQuyxF4rWnGvl5tpU-JnFNPl21cgdw0AXz_wGhGB
+#EXTINF:-1 xui-id="4238752" tvg-id="" tvg-name="AdultIPTV.net Brunette" tvg-logo="" group-title="F21 M5 ⭐ ADULTOS+18",AdultIPTV.net Brunette
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDY9n5PdmCnwxVpG_-hzQPtHi23dc_OVuyHjuFeH_yBHr
+#EXTINF:-1 xui-id="4238751" tvg-id="" tvg-name="AdultIPTV.net Compilation" tvg-logo="" group-title="F21 M5 ⭐ ADULTOS+18",AdultIPTV.net Compilation
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDb7To8LLySGbfHY-KE-fW2Fqi1QC-0moPNP6Txq09jV9
+#EXTINF:-1 xui-id="4238744" tvg-id="" tvg-name="AdultIPTV.net Cuckold" tvg-logo="" group-title="F21 M5 ⭐ ADULTOS+18",AdultIPTV.net Cuckold
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDamp9HV4BJ88zYbUodwuLSYU736zrs4ZQ0FYIbyvEQnc
+#EXTINF:-1 xui-id="4238735" tvg-id="" tvg-name="AdultIPTV.net Fetish" tvg-logo="" group-title="F21 M5 ⭐ ADULTOS+18",AdultIPTV.net Fetish
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDcVGq7yNDRH7khf5_tIPxg0w0gmFCxVl3xDbevlKZfpL
+#EXTINF:-1 xui-id="4238749" tvg-id="" tvg-name="AdultIPTV.net Gangbang" tvg-logo="" group-title="F21 M5 ⭐ ADULTOS+18",AdultIPTV.net Gangbang
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDTCoJvq5KEQq82fmyH6qrdxVf3KQtMD0CQNNzRA3dB_-
+#EXTINF:-1 xui-id="4238754" tvg-id="" tvg-name="AdultIPTV.net Gay" tvg-logo="" group-title="F21 M5 ⭐ ADULTOS+18",AdultIPTV.net Gay
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDTiJes2xrgIijwTZ4B2TsxYI_BR9MlsuWC-9RaNdoZvU
+#EXTINF:-1 xui-id="4238743" tvg-id="" tvg-name="AdultIPTV.net Hardcore" tvg-logo="" group-title="F21 M5 ⭐ ADULTOS+18",AdultIPTV.net Hardcore
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDYh2J_x26pZol-yt87RK67cQmRHqOgEF1KcR5GvAmsXe
+#EXTINF:-1 xui-id="4238738" tvg-id="" tvg-name="AdultIPTV.net Interracial" tvg-logo="" group-title="F21 M5 ⭐ ADULTOS+18",AdultIPTV.net Interracial
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDVo7f69Vwg_Gk1SIeEHK4CHIaEeMtLxsYvvfRP-6xDJ9
+#EXTINF:-1 xui-id="4238739" tvg-id="" tvg-name="AdultIPTV.net Latina" tvg-logo="" group-title="F21 M5 ⭐ ADULTOS+18",AdultIPTV.net Latina
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDeYXyaRvQX0GnHXOfA2M21Aq058bAZ7059RY1FeRwjo0
+#EXTINF:-1 xui-id="4238747" tvg-id="" tvg-name="AdultIPTV.net Lesbian" tvg-logo="" group-title="F21 M5 ⭐ ADULTOS+18",AdultIPTV.net Lesbian
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDSf8eRE0MrAf7SKb2AQW3TEJofA4ba31jE25aZTAv9C5
+#EXTINF:-1 xui-id="4238731" tvg-id="" tvg-name="AdultIPTV.net Live Cams" tvg-logo="" group-title="F21 M5 ⭐ ADULTOS+18",AdultIPTV.net Live Cams
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDdE1NhYQBNfdq_wYYjtme3SptVF2ZPY_T7fbI2WNmRkJ
+#EXTINF:-1 xui-id="4238732" tvg-id="" tvg-name="AdultIPTV.net MILF" tvg-logo="" group-title="F21 M5 ⭐ ADULTOS+18",AdultIPTV.net MILF
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDS7lNhnTPbKyN-2xSBBiDpszePmBzdWRQ2761fFptapt
+#EXTINF:-1 xui-id="4238736" tvg-id="" tvg-name="AdultIPTV.net Pornstar" tvg-logo="" group-title="F21 M5 ⭐ ADULTOS+18",AdultIPTV.net Pornstar
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDXyv_-GgyqEw9wbE_OrjvrDKaxD23w5_c8RXbqOSN8zF
+#EXTINF:-1 xui-id="4238740" tvg-id="" tvg-name="AdultIPTV.net POV" tvg-logo="" group-title="F21 M5 ⭐ ADULTOS+18",AdultIPTV.net POV
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDRnb1zd7H3pOyf4LnjX6F0Lrof6Jbtkroz8ci2m56SBO
+#EXTINF:-1 xui-id="4238748" tvg-id="" tvg-name="AdultIPTV.net Rough" tvg-logo="" group-title="F21 M5 ⭐ ADULTOS+18",AdultIPTV.net Rough
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDfg67bH9aIUM1-sjqHVrJ9f8NTaeC1h1ne5nAPMR7MSo
+#EXTINF:-1 xui-id="4238746" tvg-id="" tvg-name="AdultIPTV.net Russian" tvg-logo="" group-title="F21 M5 ⭐ ADULTOS+18",AdultIPTV.net Russian
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDY9fVm4jF5WUY39QcEL0Z5QuI4LJphVpIwSvIFs3CEcQ
+#EXTINF:-1 xui-id="4238742" tvg-id="" tvg-name="AdultIPTV.net Teen" tvg-logo="" group-title="F21 M5 ⭐ ADULTOS+18",AdultIPTV.net Teen
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDfABSjMHU-ChotoA-tR1neIy0-820GFSdhgZeyA0fRT8
+#EXTINF:-1 xui-id="4238745" tvg-id="" tvg-name="AdultIPTV.net Threesome" tvg-logo="" group-title="F21 M5 ⭐ ADULTOS+18",AdultIPTV.net Threesome
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDXOrkQfmkM8RhlPWqx6e7_aWDcjqghJKQ1gijiv6v7Gw
+#EXTINF:-1 xui-id="4238716" tvg-id="" tvg-name="XXX Big Dick" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="F21 M5 ⭐ ADULTOS+18",XXX Big Dick
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDd1q1YFAFDuUUo6apDCTRYyPFJOKUjwbw6Zk2JbSzsol
+#EXTINF:-1 xui-id="4238717" tvg-id="" tvg-name="XXX Big Tits" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="F21 M5 ⭐ ADULTOS+18",XXX Big Tits
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDY9cBeBDyp9rUhB1eMkCCOhFCeQ0-95tL_mAHb96BZXU
+#EXTINF:-1 xui-id="4238718" tvg-id="" tvg-name="XXX Blowjob" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="F21 M5 ⭐ ADULTOS+18",XXX Blowjob
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDV6dncSZ73E9HwXwB8UBz-usXGpHrCYsGDFcLWqEAcb0
+#EXTINF:-1 xui-id="4238719" tvg-id="" tvg-name="XXX Cuckold" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="F21 M5 ⭐ ADULTOS+18",XXX Cuckold
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDV0Nzfiu5-4ssymDsIjqqaLHTROYepR_IDWkOJLwCpcN
+#EXTINF:-1 xui-id="4238720" tvg-id="" tvg-name="XXX Fetish" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="F21 M5 ⭐ ADULTOS+18",XXX Fetish
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDfqltZdPK6z7gWCsekF1bZ6A-vA62yw60HFCX8LNTwbG
+#EXTINF:-1 xui-id="4238721" tvg-id="" tvg-name="XXX Hardcore" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="F21 M5 ⭐ ADULTOS+18",XXX Hardcore
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDfRte-c7Y4IrGfatpj-8OarfYQizFmBxo47TxxxXMCDm
+#EXTINF:-1 xui-id="4238722" tvg-id="" tvg-name="XXX Interracial" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="F21 M5 ⭐ ADULTOS+18",XXX Interracial
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDfRXG7WdeSqo9sfHJtHJw6ng_7lPDXQsMUDc0S66Ci28
+#EXTINF:-1 xui-id="4238723" tvg-id="" tvg-name="XXX Latina" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="F21 M5 ⭐ ADULTOS+18",XXX Latina
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDRyK106Gm_KgaVv9xh965Vq27fSt20g2fVscysxUJlGj
+#EXTINF:-1 xui-id="4238724" tvg-id="" tvg-name="XXX Lesbian" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="F21 M5 ⭐ ADULTOS+18",XXX Lesbian
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDb59X67mpdK7Vq5ikf0G70-GgtxHK8nHfp1SYD0uMWD3
+#EXTINF:-1 xui-id="4238725" tvg-id="" tvg-name="XXX MILF" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="F21 M5 ⭐ ADULTOS+18",XXX MILF
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDUFxaPkkRvY-feJgcdU_-xQfTuOtXnxIL1xpFyJSnNDL
+#EXTINF:-1 xui-id="4238727" tvg-id="" tvg-name="XXX Pornstar" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="F21 M5 ⭐ ADULTOS+18",XXX Pornstar
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDWNRq86AVl_W6u0naLSwIlga-K0RF8LH7dCxVGli9ReW
+#EXTINF:-1 xui-id="4238726" tvg-id="" tvg-name="XXX POV" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="F21 M5 ⭐ ADULTOS+18",XXX POV
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDf75cKzBJEaBdI8G_lqHPqXvFN0X9ZN3wgl1Aj8L7GUa
+#EXTINF:-1 xui-id="4238728" tvg-id="" tvg-name="XXX Russian" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="F21 M5 ⭐ ADULTOS+18",XXX Russian
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDbzyS9u2-RAAkxTObs077wOEknXljG3Z7fU_vYTR6EsX
+#EXTINF:-1 xui-id="4238729" tvg-id="" tvg-name="XXX Teen" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="F21 M5 ⭐ ADULTOS+18",XXX Teen
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDW95U92FBf-nyoeR34smuybzc9ZPguuAv7HL61_MZDio
+#EXTINF:-1 xui-id="4238730" tvg-id="" tvg-name="XXX Threesome" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="F21 M5 ⭐ ADULTOS+18",XXX Threesome
+http://f1ads.fastcdn-delivery.site:80/play/lBYji6oaWEvgJIkFSx8jDWzbgaQqQ1hnN1R6Bq3kOXOLd9lcM0jBhORlxCM_wJXn
+
+
+#EXTINF:-1 tvg-id="" tvg-name="3 PALAVRINHAS" tvg-logo="http://appcliente.com:8880/images/1d6568c4d1167a00410efd579474580c.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",3 PALAVRINHAS
+http://saga10.pro:80/148043/844063/2639316
+#EXTINF:-1 tvg-id="" tvg-name="44 GATOS" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/924/sLDGHP.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",44 GATOS
+http://saga10.pro:80/148043/844063/2639317
+#EXTINF:-1 tvg-id="" tvg-name="A CASA MAGICA DA GABBY" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/QSAGhR.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",A CASA MAGICA DA GABBY
+http://saga10.pro:80/148043/844063/2639318
+#EXTINF:-1 tvg-id="" tvg-name="A FAMILIA ADAMS" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/XNdCuz.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",A FAMILIA ADAMS
+http://saga10.pro:80/148043/844063/2639319
+#EXTINF:-1 tvg-id="" tvg-name="A FORMIGA E O TAMANDUÁ" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/923/kNabMF.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",A FORMIGA E O TAMANDUÁ
+http://saga10.pro:80/148043/844063/2639320
+#EXTINF:-1 tvg-id="" tvg-name="A GALINHA PINTADINHA" tvg-logo="https://imagizer.imageshack.com/v2/1280x1024q90/923/w95jle.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",A GALINHA PINTADINHA
+http://saga10.pro:80/148043/844063/2639321
+#EXTINF:-1 tvg-id="" tvg-name="A MULHER BIÔNICA (CLÁSSICO)" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/923/83Zxeq.png" group-title="F22 M5 ESPECIAIS SERIADOS 24h",A MULHER BIÔNICA (CLÁSSICO)
+http://saga10.pro:80/148043/844063/2627287
+#EXTINF:-1 tvg-id="" tvg-name="A MULHER MARAVILHA" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/GAVyKf.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",A MULHER MARAVILHA
+http://saga10.pro:80/148043/844063/2639322
+#EXTINF:-1 tvg-id="" tvg-name="A PEQUENA SEREIA" tvg-logo="https://imagizer.imageshack.com/img924/5528/NoVrRE.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",A PEQUENA SEREIA
+http://saga10.pro:80/148043/844063/2639323
+#EXTINF:-1 tvg-id="" tvg-name="A TURMA DA MÔNICA" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/921/tbJ0NA.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",A TURMA DA MÔNICA
+http://saga10.pro:80/148043/844063/2639324
+#EXTINF:-1 tvg-id="" tvg-name="A TURMA DO BAIRRO" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/921/QNLR06.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",A TURMA DO BAIRRO
+http://saga10.pro:80/148043/844063/2639325
+#EXTINF:-1 tvg-id="" tvg-name="A TURMA DO MANDA-CHUVA" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/922/uow6Mh.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",A TURMA DO MANDA-CHUVA
+http://saga10.pro:80/148043/844063/2639326
+#EXTINF:-1 tvg-id="" tvg-name="A VACA E O FRANGO" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/9wFrz1.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",A VACA E O FRANGO
+http://saga10.pro:80/148043/844063/2639327
+#EXTINF:-1 tvg-id="" tvg-name="A ÁRVORE FAMILIAR DOS CROODS" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/oDn5rU.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",A ÁRVORE FAMILIAR DOS CROODS
+http://saga10.pro:80/148043/844063/2639328
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E FHD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png" group-title="F22 M5 CANAIS FILMES E SERIES",A&E FHD
+http://saga10.pro:80/148043/844063/2639888
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png" group-title="F22 M5 CANAIS FILMES E SERIES",A&E HD
+http://saga10.pro:80/148043/844063/2639889
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png" group-title="F22 M5 CANAIS FILMES E SERIES",A&E SD
+http://saga10.pro:80/148043/844063/2639890
+#EXTINF:-1 tvg-id="" tvg-name="ACÚSTICO INTERNACIONAL - CLIPES" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/fvDFKC.png" group-title="F22 M5 Filmes",ACÚSTICO INTERNACIONAL - CLIPES
+http://saga10.pro:80/148043/844063/2627276
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="AGRO+ HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/htkAmM.png" group-title="F22 M5 CANAIS ABERTOS",AGRO+ HD
+http://saga10.pro:80/148043/844063/1263147
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="AGRO+ SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/htkAmM.png" group-title="F22 M5 CANAIS ABERTOS",AGRO+ SD
+http://saga10.pro:80/148043/844063/1263146
+#EXTINF:-1 tvg-id="" tvg-name="ALADDIN" tvg-logo="https://picfiles.alphacoders.com/712/71289.png" group-title="F22 M5 Filmes",ALADDIN
+http://saga10.pro:80/148043/844063/2639329
+#EXTINF:-1 tvg-id="" tvg-name="ALL SPORTS" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/923/vmxvzS.png" group-title="F22 M5 CANAIS | ESPORTES PAY-PER-VIEW",ALL SPORTS
+http://saga10.pro:80/148043/844063/2649030
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME - 01" tvg-logo="http://tbsrv.me/images/Biifm5rtdRqCOVgLYDRxM5LqCCrf0Yp_0mekcJAA3qBRcI3UPQVaZksNPq-WsrthARdWRT3uitTowwWHVArO0g.png" group-title="F22 M5 CANAIS | ESPORTES PAY-PER-VIEW",AMAZON PRIME - 01
+http://saga10.pro:80/148043/844063/2649031
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME - 02" tvg-logo="http://tbsrv.me/images/Biifm5rtdRqCOVgLYDRxM5LqCCrf0Yp_0mekcJAA3qBRcI3UPQVaZksNPq-WsrthARdWRT3uitTowwWHVArO0g.png" group-title="F22 M5 CANAIS | ESPORTES PAY-PER-VIEW",AMAZON PRIME - 02
+http://saga10.pro:80/148043/844063/2649032
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME - 03" tvg-logo="http://tbsrv.me/images/Biifm5rtdRqCOVgLYDRxM5LqCCrf0Yp_0mekcJAA3qBRcI3UPQVaZksNPq-WsrthARdWRT3uitTowwWHVArO0g.png" group-title="F22 M5 CANAIS | ESPORTES PAY-PER-VIEW",AMAZON PRIME - 03
+http://saga10.pro:80/148043/844063/2649033
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME - 04" tvg-logo="http://tbsrv.me/images/Biifm5rtdRqCOVgLYDRxM5LqCCrf0Yp_0mekcJAA3qBRcI3UPQVaZksNPq-WsrthARdWRT3uitTowwWHVArO0g.png" group-title="F22 M5 CANAIS | ESPORTES PAY-PER-VIEW",AMAZON PRIME - 04
+http://saga10.pro:80/148043/844063/2649034
+#EXTINF:-1 tvg-id="amc.brasil.br" tvg-name="AMC FHD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/NWiwiv.png" group-title="F22 M5 CANAIS FILMES E SERIES",AMC FHD
+http://saga10.pro:80/148043/844063/2639891
+#EXTINF:-1 tvg-id="amc.brasil.br" tvg-name="AMC HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/NWiwiv.png" group-title="F22 M5 CANAIS FILMES E SERIES",AMC HD
+http://saga10.pro:80/148043/844063/2639892
+#EXTINF:-1 tvg-id="amc.brasil.br" tvg-name="AMC SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/NWiwiv.png" group-title="F22 M5 CANAIS FILMES E SERIES",AMC SD
+http://saga10.pro:80/148043/844063/2639893
+#EXTINF:-1 tvg-id="" tvg-name="ANDY PANDA" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/921/fkd2xG.png" group-title="F22 M5 Filmes",ANDY PANDA
+http://saga10.pro:80/148043/844063/2639330
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET FHD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/922/wYHvP7.png" group-title="F22 M5 CANAIS DOCUMENTÁRIOS",ANIMAL PLANET FHD
+http://saga10.pro:80/148043/844063/1262964
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/922/wYHvP7.png" group-title="F22 M5 CANAIS DOCUMENTÁRIOS",ANIMAL PLANET HD
+http://saga10.pro:80/148043/844063/1262963
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET SD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/922/wYHvP7.png" group-title="F22 M5 CANAIS DOCUMENTÁRIOS",ANIMAL PLANET SD
+http://saga10.pro:80/148043/844063/1262962
+#EXTINF:-1 tvg-id="" tvg-name="ANIMANIACS" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/922/twswzA.png" group-title="F22 M5 Filmes",ANIMANIACS
+http://saga10.pro:80/148043/844063/2639331
+#EXTINF:-1 tvg-id="" tvg-name="AREA RESTRITA AEROPORTO" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/rd0wE9.png" group-title="F22 M5 ESPECIAIS SERIADOS 24h",AREA RESTRITA AEROPORTO
+http://saga10.pro:80/148043/844063/2627288
+#EXTINF:-1 tvg-id="arte.1.br" tvg-name="ARTE 1 FHD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/924/eOa5XX.png" group-title="F22 M5 CANAIS FILMES E SERIES",ARTE 1 FHD
+http://saga10.pro:80/148043/844063/2639894
+#EXTINF:-1 tvg-id="arte.1.br" tvg-name="ARTE 1 HD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/924/eOa5XX.png" group-title="F22 M5 CANAIS FILMES E SERIES",ARTE 1 HD
+http://saga10.pro:80/148043/844063/2639895
+#EXTINF:-1 tvg-id="arte.1.br" tvg-name="ARTE 1 SD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/924/eOa5XX.png" group-title="F22 M5 CANAIS FILMES E SERIES",ARTE 1 SD
+http://saga10.pro:80/148043/844063/2639896
+#EXTINF:-1 tvg-id="" tvg-name="AS AVENTURAS DE JACKIE CHAN" tvg-logo="http://appcliente.com:8880/images/c1666d95c6e82c452ae8207bb384ebcb.png" group-title="F22 M5 Filmes",AS AVENTURAS DE JACKIE CHAN
+http://saga10.pro:80/148043/844063/2639333
+#EXTINF:-1 tvg-id="" tvg-name="AS AVENTURAS DE LADYBUG" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/dDff8P.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",AS AVENTURAS DE LADYBUG
+http://saga10.pro:80/148043/844063/2639334
+#EXTINF:-1 tvg-id="" tvg-name="AS AVENTURAS DE TINTIM" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/7OCsQd.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",AS AVENTURAS DE TINTIM
+http://saga10.pro:80/148043/844063/2639335
+#EXTINF:-1 tvg-id="" tvg-name="AS PANTERAS (CLÁSSICO)" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/923/Amo2qq.png" group-title="F22 M5 ESPECIAIS SERIADOS 24h",AS PANTERAS (CLÁSSICO)
+http://saga10.pro:80/148043/844063/2627289
+#EXTINF:-1 tvg-id="" tvg-name="AS TARTARUGAS NINJA" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/YgZwHu.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",AS TARTARUGAS NINJA
+http://saga10.pro:80/148043/844063/2639338
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN FHD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/tPqcjh.png" group-title="F22 M5 CANAIS FILMES E SERIES",AXN FHD
+http://saga10.pro:80/148043/844063/2639897
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/tPqcjh.png" group-title="F22 M5 CANAIS FILMES E SERIES",AXN HD
+http://saga10.pro:80/148043/844063/2639898
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN SD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/tPqcjh.png" group-title="F22 M5 CANAIS FILMES E SERIES",AXN SD
+http://saga10.pro:80/148043/844063/2639899
+#EXTINF:-1 tvg-id="" tvg-name="BABY LOONEY TUNES" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/qqCw0I.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",BABY LOONEY TUNES
+http://saga10.pro:80/148043/844063/2639339
+#EXTINF:-1 tvg-id="baby.br" tvg-name="BABY TV FHD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/dKjnsR.png" group-title="F22 M5 CANAIS INFANTIS",BABY TV FHD
+http://saga10.pro:80/148043/844063/1263430
+#EXTINF:-1 tvg-id="baby.br" tvg-name="BABY TV SD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/dKjnsR.png" group-title="F22 M5 Filmes",BABY TV SD
+http://saga10.pro:80/148043/844063/1263428
+#EXTINF:-1 tvg-id="" tvg-name="BACAMARTE E CHUMBINHO" tvg-logo="https://imagizer.imageshack.com/img922/9797/kME6OB.gif" group-title="F22 M5 ESPECIAIS DESENHOS 24h",BACAMARTE E CHUMBINHO
+http://saga10.pro:80/148043/844063/2639340
+#EXTINF:-1 tvg-id="" tvg-name="BAKUGAN" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/GwELog.png" group-title="F22 M5 Filmes",BAKUGAN
+http://saga10.pro:80/148043/844063/2639341
+#EXTINF:-1 tvg-id="band.bahia.br" tvg-name="BAND BAHIA HD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/CkUKdz.png" group-title="F22 M5 CANAIS BAND",BAND BAHIA HD
+http://saga10.pro:80/148043/844063/2649104
+#EXTINF:-1 tvg-id="band.belem.br" tvg-name="BAND BELEM DO PARA HD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/CkUKdz.png" group-title="F22 M5 CANAIS BAND",BAND BELEM DO PARA HD
+http://saga10.pro:80/148043/844063/2649105
+#EXTINF:-1 tvg-id="band.curitiba.br" tvg-name="BAND CURITIBA" tvg-logo="" group-title="F22 M5 CANAIS BAND",BAND CURITIBA
+http://saga10.pro:80/148043/844063/2908980
+#EXTINF:-1 tvg-id="band.vale.br" tvg-name="BAND ES HD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/CkUKdz.png" group-title="F22 M5 CANAIS BAND",BAND ES HD
+http://saga10.pro:80/148043/844063/2649106
+#EXTINF:-1 tvg-id="FOX" tvg-name="BAND NEWS FHD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/y8ucbm.png" group-title="F22 M5 CANAIS JORNALISMO",BAND NEWS FHD
+http://saga10.pro:80/148043/844063/1263120
+#EXTINF:-1 tvg-id="BandNews.br" tvg-name="BAND NEWS HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/y8ucbm.png" group-title="F22 M5 CANAIS JORNALISMO",BAND NEWS HD
+http://saga10.pro:80/148043/844063/1263119
+#EXTINF:-1 tvg-id="BandNews.br" tvg-name="BAND NEWS SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/y8ucbm.png" group-title="F22 M5 CANAIS JORNALISMO",BAND NEWS SD
+http://saga10.pro:80/148043/844063/1263118
+#EXTINF:-1 tvg-id="band.curitiba.br" tvg-name="BAND PR MARINGA HD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/CkUKdz.png" group-title="F22 M5 CANAIS BAND",BAND PR MARINGA HD
+http://saga10.pro:80/148043/844063/2649107
+#EXTINF:-1 tvg-id="band.rj.br" tvg-name="BAND RJ HD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/CkUKdz.png" group-title="F22 M5 CANAIS BAND",BAND RJ HD
+http://saga10.pro:80/148043/844063/2649108
+#EXTINF:-1 tvg-id="band.sao.paulo.br" tvg-name="BAND SP FHD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/CkUKdz.png" group-title="F22 M5 CANAIS BAND",BAND SP FHD
+http://saga10.pro:80/148043/844063/2649109
+#EXTINF:-1 tvg-id="band.sao.paulo.br" tvg-name="BAND SP SD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/CkUKdz.png" group-title="F22 M5 CANAIS BAND",BAND SP SD
+http://saga10.pro:80/148043/844063/2649110
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS FHD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/WHWkVN.png" group-title="F22 M5 CANAIS ESPORTES",BAND SPORTS FHD
+http://saga10.pro:80/148043/844063/2909058
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS HD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/WHWkVN.png" group-title="F22 M5 CANAIS ESPORTES",BAND SPORTS HD
+http://saga10.pro:80/148043/844063/2909056
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS HD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/WHWkVN.png" group-title="F22 M5 CANAIS ESPORTES",BAND SPORTS HD
+http://saga10.pro:80/148043/844063/2909057
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BANDSPORTS SD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/WHWkVN.png" group-title="F22 M5 CANAIS ESPORTES",BANDSPORTS SD
+http://saga10.pro:80/148043/844063/2909059
+#EXTINF:-1 tvg-id="" tvg-name="BARBIE" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/X2fNEQ.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",BARBIE
+http://saga10.pro:80/148043/844063/2639343
+#EXTINF:-1 tvg-id="" tvg-name="BATFINO" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/MKPFDU.png" group-title="F22 M5 Filmes",BATFINO
+http://saga10.pro:80/148043/844063/2639344
+#EXTINF:-1 tvg-id="" tvg-name="BATMAN ANIMATED SERIE" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/ikWxSX.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",BATMAN ANIMATED SERIE
+http://saga10.pro:80/148043/844063/2639345
+#EXTINF:-1 tvg-id="" tvg-name="BATMAN DO FUTURO" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/tOpq8k.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",BATMAN DO FUTURO
+http://saga10.pro:80/148043/844063/2639346
+#EXTINF:-1 tvg-id="" tvg-name="BATMAN E ROBIN (CLÁSSICO)" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/cgTdHe.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",BATMAN E ROBIN (CLÁSSICO)
+http://saga10.pro:80/148043/844063/2639347
+#EXTINF:-1 tvg-id="" tvg-name="BATWHEELS" tvg-logo="https://imagizer.imageshack.com/v2/320x240q70/922/7ccKwD.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",BATWHEELS
+http://saga10.pro:80/148043/844063/2639348
+#EXTINF:-1 tvg-id="" tvg-name="BEN 10" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/4h2FRG.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",BEN 10
+http://saga10.pro:80/148043/844063/2639349
+#EXTINF:-1 tvg-id="" tvg-name="BICUDO O LOBISOMEN" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/922/NVCq8R.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",BICUDO O LOBISOMEN
+http://saga10.pro:80/148043/844063/2639351
+#EXTINF:-1 tvg-id="" tvg-name="BIGASS HD" tvg-logo="https://seeklogo.com/images/K/Kijkwijzer__18_-logo-EE76BEF576-seeklogo.com.png" group-title="F22 M5 XXX +18 ADULTOS XXX",BIGASS HD
+http://saga10.pro:80/148043/844063/2612611
+#EXTINF:-1 tvg-id="" tvg-name="BIGDICK HD" tvg-logo="https://seeklogo.com/images/K/Kijkwijzer__18_-logo-EE76BEF576-seeklogo.com.png" group-title="F22 M5 XXX +18 ADULTOS XXX",BIGDICK HD
+http://saga10.pro:80/148043/844063/2612612
+#EXTINF:-1 tvg-id="" tvg-name="BIGTITS HD" tvg-logo="https://seeklogo.com/images/K/Kijkwijzer__18_-logo-EE76BEF576-seeklogo.com.png" group-title="F22 M5 XXX +18 ADULTOS XXX",BIGTITS HD
+http://saga10.pro:80/148043/844063/2612613
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="BIS FHD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/3o1kkD.png" group-title="F22 M5 MUSICA",BIS FHD
+http://saga10.pro:80/148043/844063/1263351
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS HD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/3o1kkD.png" group-title="F22 M5 MUSICA",BIS HD
+http://saga10.pro:80/148043/844063/1263350
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS SD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/3o1kkD.png" group-title="F22 M5 Filmes",BIS SD
+http://saga10.pro:80/148043/844063/1263349
+#EXTINF:-1 tvg-id="" tvg-name="BJJSTARS.TV" tvg-logo="https://agfight.com/wp-content/uploads/2021/03/Bjj-Star-1024x683.jpg" group-title="F22 M5 CANAIS | ESPORTES PAY-PER-VIEW",BJJSTARS.TV
+http://saga10.pro:80/148043/844063/2908952
+#EXTINF:-1 tvg-id="" tvg-name="BLOWJOB HD" tvg-logo="https://seeklogo.com/images/K/Kijkwijzer__18_-logo-EE76BEF576-seeklogo.com.png" group-title="F22 M5 XXX +18 ADULTOS XXX",BLOWJOB HD
+http://saga10.pro:80/148043/844063/2612614
+#EXTINF:-1 tvg-id="rede.boas.novas.br" tvg-name="BOAS NOVAS" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/Aco1pK.png" group-title="F22 M5 RELIGIOSOS",BOAS NOVAS
+http://saga10.pro:80/148043/844063/1263133
+#EXTINF:-1 tvg-id="" tvg-name="BOB ESPONJA" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/XBs0GS.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",BOB ESPONJA
+http://saga10.pro:80/148043/844063/2639353
+#EXTINF:-1 tvg-id="" tvg-name="BOB ZOOM" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/yhOGXx.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",BOB ZOOM
+http://saga10.pro:80/148043/844063/2639354
+#EXTINF:-1 tvg-id="" tvg-name="CADILAC & DINOSSAUROS" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/922/ZrWQ7s.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",CADILAC & DINOSSAUROS
+http://saga10.pro:80/148043/844063/2639357
+#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="CANAL BRASIL FHD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/924/n0LDHU.png" group-title="F22 M5 CANAIS FILMES E SERIES",CANAL BRASIL FHD
+http://saga10.pro:80/148043/844063/2639900
+#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="CANAL BRASIL HD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/924/n0LDHU.png" group-title="F22 M5 CANAIS FILMES E SERIES",CANAL BRASIL HD
+http://saga10.pro:80/148043/844063/2639901
+#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="CANAL BRASIL SD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/924/n0LDHU.png" group-title="F22 M5 CANAIS FILMES E SERIES",CANAL BRASIL SD
+http://saga10.pro:80/148043/844063/2639902
+#EXTINF:-1 tvg-id="canal.do.boi.br" tvg-name="CANAL DO BOI FHD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/M1hQQI.png" group-title="F22 M5 CANAIS ABERTOS",CANAL DO BOI FHD
+http://saga10.pro:80/148043/844063/1263157
+#EXTINF:-1 tvg-id="canal.do.boi.br" tvg-name="CANAL DO BOI HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/M1hQQI.png" group-title="F22 M5 CANAIS ABERTOS",CANAL DO BOI HD
+http://saga10.pro:80/148043/844063/1263156
+#EXTINF:-1 tvg-id="canal.do.boi.br" tvg-name="CANAL DO BOI SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/M1hQQI.png" group-title="F22 M5 CANAIS ABERTOS",CANAL DO BOI SD
+http://saga10.pro:80/148043/844063/1263155
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="CANAL RURAL " tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/dPo0pf.png" group-title="F22 M5 CANAIS ABERTOS",CANAL RURAL 
+http://saga10.pro:80/148043/844063/1263158
+#EXTINF:-1 tvg-id="sony.br" tvg-name="CANAL SONY FHD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/u4sccn.png" group-title="F22 M5 CANAIS FILMES E SERIES",CANAL SONY FHD
+http://saga10.pro:80/148043/844063/2639903
+#EXTINF:-1 tvg-id="sony.br" tvg-name="CANAL SONY HD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/u4sccn.png" group-title="F22 M5 CANAIS FILMES E SERIES",CANAL SONY HD
+http://saga10.pro:80/148043/844063/2639904
+#EXTINF:-1 tvg-id="sony.br" tvg-name="CANAL SONY SD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/u4sccn.png" group-title="F22 M5 CANAIS FILMES E SERIES",CANAL SONY SD
+http://saga10.pro:80/148043/844063/2639905
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="CANÇÃO NOVA HD" tvg-logo="http://3.bp.blogspot.com/-bKaGPzHjo_4/T_Lxx5e2vgI/AAAAAAAAAMo/mQ2TRVW2jgg/s600/V__GC_imagens_logo.png" group-title="F22 M5 RELIGIOSOS",CANÇÃO NOVA HD
+http://saga10.pro:80/148043/844063/1263134
+#EXTINF:-1 tvg-id="" tvg-name="CAPITÃO CAVERNA" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/IN8Ktl.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",CAPITÃO CAVERNA
+http://saga10.pro:80/148043/844063/2639358
+#EXTINF:-1 tvg-id="" tvg-name="CAPITÃO HARLOCK" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/924/AI0jHf.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",CAPITÃO HARLOCK
+http://saga10.pro:80/148043/844063/2639359
+#EXTINF:-1 tvg-id="" tvg-name="CAPITÃO PLANETA" tvg-logo="https://imagizer.imageshack.com/img924/9238/NBlvuN.gif" group-title="F22 M5 ESPECIAIS DESENHOS 24h",CAPITÃO PLANETA
+http://saga10.pro:80/148043/844063/2639360
+#EXTINF:-1 tvg-id="" tvg-name="CARETA E MUTRETA" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/9PXliM.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",CARETA E MUTRETA
+http://saga10.pro:80/148043/844063/2639361
+#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="CARTOON NETWORK FHD" tvg-logo="https://toonswithtony.files.wordpress.com/2011/05/cartoon_network.png" group-title="F22 M5 CANAIS INFANTIS",CARTOON NETWORK FHD
+http://saga10.pro:80/148043/844063/1263433
+#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="CARTOON NETWORK HD" tvg-logo="https://toonswithtony.files.wordpress.com/2011/05/cartoon_network.png" group-title="F22 M5 CANAIS INFANTIS",CARTOON NETWORK HD
+http://saga10.pro:80/148043/844063/1263432
+#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="CARTOON NETWORK SD" tvg-logo="https://toonswithtony.files.wordpress.com/2011/05/cartoon_network.png" group-title="F22 M5 CANAIS INFANTIS",CARTOON NETWORK SD
+http://saga10.pro:80/148043/844063/1263431
+#EXTINF:-1 tvg-id="cartoonito.br" tvg-name="CARTOONITO FHD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/9YIoFE.png" group-title="F22 M5 CANAIS INFANTIS",CARTOONITO FHD
+http://saga10.pro:80/148043/844063/1263436
+#EXTINF:-1 tvg-id="cartoonito.br" tvg-name="CARTOONITO HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/9YIoFE.png" group-title="F22 M5 CANAIS INFANTIS",CARTOONITO HD
+http://saga10.pro:80/148043/844063/1263435
+#EXTINF:-1 tvg-id="cartoonito.br" tvg-name="CARTOONITO SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/9YIoFE.png" group-title="F22 M5 CANAIS INFANTIS",CARTOONITO SD
+http://saga10.pro:80/148043/844063/1263434
+#EXTINF:-1 tvg-id="" tvg-name="CASTORES PIRADOS" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/if8pF8.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",CASTORES PIRADOS
+http://saga10.pro:80/148043/844063/2639362
+#EXTINF:-1 tvg-id="" tvg-name="CAVALEIROS DO ZODIACO" tvg-logo="https://imagizer.imageshack.com/img921/1162/jnF1ZM.png" group-title="F22 M5 Filmes",CAVALEIROS DO ZODIACO
+http://saga10.pro:80/148043/844063/2639363
+#EXTINF:-1 tvg-id="" tvg-name="CAVALO DE FOGO" tvg-logo="https://i.pinimg.com/originals/60/96/35/60963558bc1dcc21357ae9eab5f68468.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",CAVALO DE FOGO
+http://saga10.pro:80/148043/844063/2639364
+#EXTINF:-1 tvg-id="" tvg-name="CAVERNA DO DRAGÃO" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/xjaGR4.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",CAVERNA DO DRAGÃO
+http://saga10.pro:80/148043/844063/2639365
+#EXTINF:-1 tvg-id="" tvg-name="CAZE 1 FHD" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/08/2372.png" group-title="F22 M5 CANAIS | CAZE TV",CAZE 1 FHD
+http://saga10.pro:80/148043/844063/2818780
+#EXTINF:-1 tvg-id="" tvg-name="CAZE 2 FHD" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/08/2372.png" group-title="F22 M5 CANAIS | CAZE TV",CAZE 2 FHD
+http://saga10.pro:80/148043/844063/2818779
+#EXTINF:-1 tvg-id="" tvg-name="CAZE 3 FHD" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/08/2372.png" group-title="F22 M5 CANAIS | CAZE TV",CAZE 3 FHD
+http://saga10.pro:80/148043/844063/2818778
+#EXTINF:-1 tvg-id="" tvg-name="CHAPOLIN COLORADO" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/WX7TcE.png" group-title="F22 M5 ESPECIAIS SERIADOS 24h",CHAPOLIN COLORADO
+http://saga10.pro:80/148043/844063/2627290
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/TYJrCo.png" group-title="F22 M5 Filmes",CHAVES
+http://saga10.pro:80/148043/844063/2627291
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES ANIMADO" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/10rTPW.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",CHAVES ANIMADO
+http://saga10.pro:80/148043/844063/2639366
+#EXTINF:-1 tvg-id="" tvg-name="CHIPS" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/923/H5AEnN.png" group-title="F22 M5 Filmes",CHIPS
+http://saga10.pro:80/148043/844063/2627292
+#EXTINF:-1 tvg-id="" tvg-name="CINE 24 HORAS 1" tvg-logo="https://i.ibb.co/7CdFRBh/b0mb-N8o-400x400.png" group-title="F22 M5 ESPECIAIS CINE 24h",CINE 24 HORAS 1
+http://saga10.pro:80/148043/844063/3842057
+#EXTINF:-1 tvg-id="" tvg-name="CINE 24 HORAS 10" tvg-logo="https://i.ibb.co/7CdFRBh/b0mb-N8o-400x400.png" group-title="F22 M5 ESPECIAIS CINE 24h",CINE 24 HORAS 10
+http://saga10.pro:80/148043/844063/3842066
+#EXTINF:-1 tvg-id="" tvg-name="CINE 24 HORAS 11" tvg-logo="https://i.ibb.co/7CdFRBh/b0mb-N8o-400x400.png" group-title="F22 M5 ESPECIAIS CINE 24h",CINE 24 HORAS 11
+http://saga10.pro:80/148043/844063/3842067
+#EXTINF:-1 tvg-id="" tvg-name="CINE 24 HORAS 12" tvg-logo="https://i.ibb.co/7CdFRBh/b0mb-N8o-400x400.png" group-title="F22 M5 ESPECIAIS CINE 24h",CINE 24 HORAS 12
+http://saga10.pro:80/148043/844063/3842068
+#EXTINF:-1 tvg-id="" tvg-name="CINE 24 HORAS 13" tvg-logo="https://i.ibb.co/7CdFRBh/b0mb-N8o-400x400.png" group-title="F22 M5 ESPECIAIS CINE 24h",CINE 24 HORAS 13
+http://saga10.pro:80/148043/844063/3842069
+#EXTINF:-1 tvg-id="" tvg-name="CINE 24 HORAS 14" tvg-logo="https://i.ibb.co/7CdFRBh/b0mb-N8o-400x400.png" group-title="F22 M5 ESPECIAIS CINE 24h",CINE 24 HORAS 14
+http://saga10.pro:80/148043/844063/3842070
+#EXTINF:-1 tvg-id="" tvg-name="CINE 24 HORAS 15" tvg-logo="https://i.ibb.co/7CdFRBh/b0mb-N8o-400x400.png" group-title="F22 M5 ESPECIAIS CINE 24h",CINE 24 HORAS 15
+http://saga10.pro:80/148043/844063/3842071
+#EXTINF:-1 tvg-id="" tvg-name="CINE 24 HORAS 16" tvg-logo="https://i.ibb.co/7CdFRBh/b0mb-N8o-400x400.png" group-title="F22 M5 ESPECIAIS CINE 24h",CINE 24 HORAS 16
+http://saga10.pro:80/148043/844063/3842072
+#EXTINF:-1 tvg-id="" tvg-name="CINE 24 HORAS 17" tvg-logo="https://i.ibb.co/7CdFRBh/b0mb-N8o-400x400.png" group-title="F22 M5 ESPECIAIS CINE 24h",CINE 24 HORAS 17
+http://saga10.pro:80/148043/844063/3842073
+#EXTINF:-1 tvg-id="" tvg-name="CINE 24 HORAS 18" tvg-logo="https://i.ibb.co/7CdFRBh/b0mb-N8o-400x400.png" group-title="F22 M5 ESPECIAIS CINE 24h",CINE 24 HORAS 18
+http://saga10.pro:80/148043/844063/3842074
+#EXTINF:-1 tvg-id="" tvg-name="CINE 24 HORAS 19" tvg-logo="https://i.ibb.co/7CdFRBh/b0mb-N8o-400x400.png" group-title="F22 M5 ESPECIAIS CINE 24h",CINE 24 HORAS 19
+http://saga10.pro:80/148043/844063/3842075
+#EXTINF:-1 tvg-id="" tvg-name="CINE 24 HORAS 2" tvg-logo="https://i.ibb.co/7CdFRBh/b0mb-N8o-400x400.png" group-title="F22 M5 ESPECIAIS CINE 24h",CINE 24 HORAS 2
+http://saga10.pro:80/148043/844063/3842058
+#EXTINF:-1 tvg-id="" tvg-name="CINE 24 HORAS 20" tvg-logo="https://i.ibb.co/7CdFRBh/b0mb-N8o-400x400.png" group-title="F22 M5 ESPECIAIS CINE 24h",CINE 24 HORAS 20
+http://saga10.pro:80/148043/844063/3842076
+#EXTINF:-1 tvg-id="" tvg-name="CINE 24 HORAS 3" tvg-logo="https://i.ibb.co/7CdFRBh/b0mb-N8o-400x400.png" group-title="F22 M5 ESPECIAIS CINE 24h",CINE 24 HORAS 3
+http://saga10.pro:80/148043/844063/3842059
+#EXTINF:-1 tvg-id="" tvg-name="CINE 24 HORAS 4" tvg-logo="https://i.ibb.co/7CdFRBh/b0mb-N8o-400x400.png" group-title="F22 M5 ESPECIAIS CINE 24h",CINE 24 HORAS 4
+http://saga10.pro:80/148043/844063/3842060
+#EXTINF:-1 tvg-id="" tvg-name="CINE 24 HORAS 5" tvg-logo="https://i.ibb.co/7CdFRBh/b0mb-N8o-400x400.png" group-title="F22 M5 ESPECIAIS CINE 24h",CINE 24 HORAS 5
+http://saga10.pro:80/148043/844063/3842061
+#EXTINF:-1 tvg-id="" tvg-name="CINE 24 HORAS 6" tvg-logo="https://i.ibb.co/7CdFRBh/b0mb-N8o-400x400.png" group-title="F22 M5 ESPECIAIS CINE 24h",CINE 24 HORAS 6
+http://saga10.pro:80/148043/844063/3842062
+#EXTINF:-1 tvg-id="" tvg-name="CINE 24 HORAS 7" tvg-logo="https://i.ibb.co/7CdFRBh/b0mb-N8o-400x400.png" group-title="F22 M5 ESPECIAIS CINE 24h",CINE 24 HORAS 7
+http://saga10.pro:80/148043/844063/3842063
+#EXTINF:-1 tvg-id="" tvg-name="CINE 24 HORAS 8" tvg-logo="https://i.ibb.co/7CdFRBh/b0mb-N8o-400x400.png" group-title="F22 M5 ESPECIAIS CINE 24h",CINE 24 HORAS 8
+http://saga10.pro:80/148043/844063/3842064
+#EXTINF:-1 tvg-id="" tvg-name="CINE 24 HORAS 9" tvg-logo="https://i.ibb.co/7CdFRBh/b0mb-N8o-400x400.png" group-title="F22 M5 ESPECIAIS CINE 24h",CINE 24 HORAS 9
+http://saga10.pro:80/148043/844063/3842065
+#EXTINF:-1 tvg-id="5dcddfcb229eff00091b6bdf" tvg-name="CINE DRAMA" tvg-logo="https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/colorLogoPNG.png" group-title="F22 M5 PLUTO TV",CINE DRAMA
+http://saga10.pro:80/148043/844063/393031
+#EXTINF:-1 tvg-id="5f171f988ab9780007fa95ea" tvg-name="CINE ROMANCE" tvg-logo="http://images.pluto.tv/channels/5f171f988ab9780007fa95ea/solidLogoPNG.png" group-title="F22 M5 PLUTO TV",CINE ROMANCE
+http://saga10.pro:80/148043/844063/393032
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 1" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/923/0rd4ju.png" group-title="F22 M5 CINE SKY",CINE SKY 1
+http://saga10.pro:80/148043/844063/3014766
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 10" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/923/0rd4ju.png" group-title="F22 M5 CINE SKY",CINE SKY 10
+http://saga10.pro:80/148043/844063/3014775
+#EXTINF:-1 tvg-id="Cine Sky 4" tvg-name="CINE SKY 11" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/923/0rd4ju.png" group-title="F22 M5 CINE SKY",CINE SKY 11
+http://saga10.pro:80/148043/844063/2151034
+#EXTINF:-1 tvg-id="Cine Sky 3" tvg-name="CINE SKY 12" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/923/0rd4ju.png" group-title="F22 M5 Filmes",CINE SKY 12
+http://saga10.pro:80/148043/844063/2151033
+#EXTINF:-1 tvg-id="Cine Sky 2" tvg-name="CINE SKY 13" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/923/0rd4ju.png" group-title="F22 M5 CINE SKY",CINE SKY 13
+http://saga10.pro:80/148043/844063/2151032
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 2" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/923/0rd4ju.png" group-title="F22 M5 CINE SKY",CINE SKY 2
+http://saga10.pro:80/148043/844063/3014767
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 3" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/923/0rd4ju.png" group-title="F22 M5 CINE SKY",CINE SKY 3
+http://saga10.pro:80/148043/844063/3014768
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 4" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/923/0rd4ju.png" group-title="F22 M5 CINE SKY",CINE SKY 4
+http://saga10.pro:80/148043/844063/3014769
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 5" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/923/0rd4ju.png" group-title="F22 M5 CINE SKY",CINE SKY 5
+http://saga10.pro:80/148043/844063/3014770
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 6" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/923/0rd4ju.png" group-title="F22 M5 CINE SKY",CINE SKY 6
+http://saga10.pro:80/148043/844063/3014771
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 7" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/923/0rd4ju.png" group-title="F22 M5 CINE SKY",CINE SKY 7
+http://saga10.pro:80/148043/844063/3014772
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 8" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/923/0rd4ju.png" group-title="F22 M5 CINE SKY",CINE SKY 8
+http://saga10.pro:80/148043/844063/3014773
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 9" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/923/0rd4ju.png" group-title="F22 M5 CINE SKY",CINE SKY 9
+http://saga10.pro:80/148043/844063/3014774
+#EXTINF:-1 tvg-id="5f120e94a5714d00074576a1" tvg-name="CINE SUCESSOS" tvg-logo="https://imgur.com/6k7cOAE.png" group-title="F22 M5 PLUTO TV",CINE SUCESSOS
+http://saga10.pro:80/148043/844063/393028
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX FHD" tvg-logo="https://imagizer.imageshack.com/img921/4025/uUdg5m.png" group-title="F22 M5 CANAIS FILMES E SERIES",CINEMAX FHD
+http://saga10.pro:80/148043/844063/2639908
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX HD" tvg-logo="https://imagizer.imageshack.com/img921/4025/uUdg5m.png" group-title="F22 M5 CANAIS FILMES E SERIES",CINEMAX HD
+http://saga10.pro:80/148043/844063/2639909
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX SD" tvg-logo="https://imagizer.imageshack.com/img921/4025/uUdg5m.png" group-title="F22 M5 CANAIS FILMES E SERIES",CINEMAX SD
+http://saga10.pro:80/148043/844063/2639910
+#EXTINF:-1 tvg-id="FOX" tvg-name="CNN - BRASIL FHD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/TplZPj.png" group-title="F22 M5 CANAIS JORNALISMO",CNN - BRASIL FHD
+http://saga10.pro:80/148043/844063/1263123
+#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN - BRASIL HD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/TplZPj.png" group-title="F22 M5 CANAIS JORNALISMO",CNN - BRASIL HD
+http://saga10.pro:80/148043/844063/1263122
+#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN - BRASIL SD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/TplZPj.png" group-title="F22 M5 CANAIS JORNALISMO",CNN - BRASIL SD
+http://saga10.pro:80/148043/844063/1263121
+#EXTINF:-1 tvg-id="" tvg-name="COMANDOS EM AÇÃO" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/BHFeNm.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",COMANDOS EM AÇÃO
+http://saga10.pro:80/148043/844063/2639367
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE FHD" tvg-logo="https://imagizer.imageshack.com/img923/8510/tM7GEt.png" group-title="F22 M5 CANAIS ESPORTES",COMBATE FHD
+http://saga10.pro:80/148043/844063/2909060
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE HD" tvg-logo="https://imagizer.imageshack.com/img923/8510/tM7GEt.png" group-title="F22 M5 CANAIS ESPORTES",COMBATE HD
+http://saga10.pro:80/148043/844063/2909061
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE SD" tvg-logo="https://imagizer.imageshack.com/img923/8510/tM7GEt.png" group-title="F22 M5 CANAIS ESPORTES",COMBATE SD
+http://saga10.pro:80/148043/844063/2909062
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMEDY CENTRAL FHD" tvg-logo="https://imagizer.imageshack.com/img922/9616/umC3tN.png" group-title="F22 M5 VARIEDADES",COMEDY CENTRAL FHD
+http://saga10.pro:80/148043/844063/1263373
+#EXTINF:-1 tvg-id="comedy.central.br" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://imagizer.imageshack.com/img922/9616/umC3tN.png" group-title="F22 M5 VARIEDADES",COMEDY CENTRAL HD
+http://saga10.pro:80/148043/844063/1263372
+#EXTINF:-1 tvg-id="comedy.central.br" tvg-name="COMEDY CENTRAL SD" tvg-logo="https://imagizer.imageshack.com/img922/9616/umC3tN.png" group-title="F22 M5 VARIEDADES",COMEDY CENTRAL SD
+http://saga10.pro:80/148043/844063/1263371
+#EXTINF:-1 tvg-id="" tvg-name="COMICHÃO E COÇADINHA" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/GOLKXX.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",COMICHÃO E COÇADINHA
+http://saga10.pro:80/148043/844063/2639368
+#EXTINF:-1 tvg-id="" tvg-name="CORAGEM O CÃO COVARDE" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/Ic3Tar.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",CORAGEM O CÃO COVARDE
+http://saga10.pro:80/148043/844063/2639369
+#EXTINF:-1 tvg-id="" tvg-name="COSMO WARRIOR ZERO" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/GoZxs9.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",COSMO WARRIOR ZERO
+http://saga10.pro:80/148043/844063/2639370
+#EXTINF:-1 tvg-id="" tvg-name="CSI MIAMI" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/922/jrZJxt.png" group-title="F22 M5 ESPECIAIS SERIADOS 24h",CSI MIAMI
+http://saga10.pro:80/148043/844063/2627293
+#EXTINF:-1 tvg-id="" tvg-name="CUCKOLD HD" tvg-logo="https://seeklogo.com/images/K/Kijkwijzer__18_-logo-EE76BEF576-seeklogo.com.png" group-title="F22 M5 XXX +18 ADULTOS XXX",CUCKOLD HD
+http://saga10.pro:80/148043/844063/2612615
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="CURTA! FHD" tvg-logo="https://1.bp.blogspot.com/-afg4AA1ihZs/WacphiEZsKI/AAAAAAAA-Nk/tH6tqCqmT3A-i8e7mn6EtQBIZ0FTYqBrgCLcBGAs/s640/curta.png" group-title="F22 M5 VARIEDADES",CURTA! FHD
+http://saga10.pro:80/148043/844063/1263376
+#EXTINF:-1 tvg-id="curta.br" tvg-name="CURTA! HD" tvg-logo="https://1.bp.blogspot.com/-afg4AA1ihZs/WacphiEZsKI/AAAAAAAA-Nk/tH6tqCqmT3A-i8e7mn6EtQBIZ0FTYqBrgCLcBGAs/s640/curta.png" group-title="F22 M5 VARIEDADES",CURTA! HD
+http://saga10.pro:80/148043/844063/1263375
+#EXTINF:-1 tvg-id="curta.br" tvg-name="CURTA! SD" tvg-logo="https://1.bp.blogspot.com/-afg4AA1ihZs/WacphiEZsKI/AAAAAAAA-Nk/tH6tqCqmT3A-i8e7mn6EtQBIZ0FTYqBrgCLcBGAs/s640/curta.png" group-title="F22 M5 VARIEDADES",CURTA! SD
+http://saga10.pro:80/148043/844063/1263374
+#EXTINF:-1 tvg-id="" tvg-name="DE VOLTA PARA O FUTURO" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/WGU85K.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",DE VOLTA PARA O FUTURO
+http://saga10.pro:80/148043/844063/2639371
+#EXTINF:-1 tvg-id="" tvg-name="DEATH" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/BH4Zqz.png" group-title="F22 M5 Filmes",DEATH
+http://saga10.pro:80/148043/844063/2639372
+#EXTINF:-1 tvg-id="" tvg-name="DEBI & LOIDE" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/qsGTik.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",DEBI & LOIDE
+http://saga10.pro:80/148043/844063/2639373
+#EXTINF:-1 tvg-id="" tvg-name="DESENHOS BIBLICOS" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/923/Xr04xC.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",DESENHOS BIBLICOS
+http://saga10.pro:80/148043/844063/2639374
+#EXTINF:-1 tvg-id="" tvg-name="DESENHOS NOVO TESTAMENTO" tvg-logo="" group-title="F22 M5 ESPECIAIS DESENHOS 24h",DESENHOS NOVO TESTAMENTO
+http://saga10.pro:80/148043/844063/2639375
+#EXTINF:-1 tvg-id="" tvg-name="DI-GATA DEFENDERS" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/korkeT.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",DI-GATA DEFENDERS
+http://saga10.pro:80/148043/844063/2639376
+#EXTINF:-1 tvg-id="" tvg-name="DIGIMON" tvg-logo="http://appcliente.com:8880/images/df3b932e814b096428caf3e9c04992a2.png" group-title="F22 M5 Filmes",DIGIMON
+http://saga10.pro:80/148043/844063/2639377
+#EXTINF:-1 tvg-id="" tvg-name="DIGIMON ADVENTURE" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/OkLi7v.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",DIGIMON ADVENTURE
+http://saga10.pro:80/148043/844063/2639378
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/AIpj9X.png" group-title="F22 M5 CANAIS DISCOVERY",DISCOVERY CHANNEL FHD
+http://saga10.pro:80/148043/844063/1262967
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/AIpj9X.png" group-title="F22 M5 CANAIS DISCOVERY",DISCOVERY CHANNEL HD
+http://saga10.pro:80/148043/844063/1262966
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/AIpj9X.png" group-title="F22 M5 CANAIS DISCOVERY",DISCOVERY CHANNEL SD
+http://saga10.pro:80/148043/844063/1262965
+#EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="DISCOVERY H&H FHD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/HlY8PW.png" group-title="F22 M5 CANAIS DISCOVERY",DISCOVERY H&H FHD
+http://saga10.pro:80/148043/844063/1262970
+#EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="DISCOVERY H&H HD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/HlY8PW.png" group-title="F22 M5 CANAIS DISCOVERY",DISCOVERY H&H HD
+http://saga10.pro:80/148043/844063/1262969
+#EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="DISCOVERY H&H SD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/HlY8PW.png" group-title="F22 M5 CANAIS DISCOVERY",DISCOVERY H&H SD
+http://saga10.pro:80/148043/844063/1262968
+#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="DISCOVERY KIDS FHD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/GizFtO.png" group-title="F22 M5 CANAIS INFANTIS",DISCOVERY KIDS FHD
+http://saga10.pro:80/148043/844063/1263439
+#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="DISCOVERY KIDS HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/GizFtO.png" group-title="F22 M5 CANAIS INFANTIS",DISCOVERY KIDS HD
+http://saga10.pro:80/148043/844063/1263438
+#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="DISCOVERY KIDS SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/GizFtO.png" group-title="F22 M5 CANAIS INFANTIS",DISCOVERY KIDS SD
+http://saga10.pro:80/148043/844063/1263437
+#EXTINF:-1 tvg-id="discovery.sciene.br" tvg-name="DISCOVERY SCIENCE FHD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/KGY4Ms.png" group-title="F22 M5 CANAIS DISCOVERY",DISCOVERY SCIENCE FHD
+http://saga10.pro:80/148043/844063/1262973
+#EXTINF:-1 tvg-id="discovery.science.br" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/KGY4Ms.png" group-title="F22 M5 CANAIS DISCOVERY",DISCOVERY SCIENCE HD
+http://saga10.pro:80/148043/844063/1262972
+#EXTINF:-1 tvg-id="discovery.science.br" tvg-name="DISCOVERY SCIENCE SD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/KGY4Ms.png" group-title="F22 M5 CANAIS DISCOVERY",DISCOVERY SCIENCE SD
+http://saga10.pro:80/148043/844063/1262971
+#EXTINF:-1 tvg-id="discovery.theater.br" tvg-name="DISCOVERY THEATER FHD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/oZHa2I.png" group-title="F22 M5 CANAIS DISCOVERY",DISCOVERY THEATER FHD
+http://saga10.pro:80/148043/844063/1262976
+#EXTINF:-1 tvg-id="discovery.theater.br" tvg-name="DISCOVERY THEATER HD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/oZHa2I.png" group-title="F22 M5 CANAIS DISCOVERY",DISCOVERY THEATER HD
+http://saga10.pro:80/148043/844063/1262975
+#EXTINF:-1 tvg-id="discovery.theater.br" tvg-name="DISCOVERY THEATER SD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/oZHa2I.png" group-title="F22 M5 CANAIS DISCOVERY",DISCOVERY THEATER SD
+http://saga10.pro:80/148043/844063/1262974
+#EXTINF:-1 tvg-id="discovery.turbo.br" tvg-name="DISCOVERY TURBO FHD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/924/uyPnmV.png" group-title="F22 M5 CANAIS DISCOVERY",DISCOVERY TURBO FHD
+http://saga10.pro:80/148043/844063/1262979
+#EXTINF:-1 tvg-id="discovery.turbo.br" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/924/uyPnmV.png" group-title="F22 M5 CANAIS DISCOVERY",DISCOVERY TURBO HD
+http://saga10.pro:80/148043/844063/1262978
+#EXTINF:-1 tvg-id="discovery.turbo.br" tvg-name="DISCOVERY TURBO SD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/924/uyPnmV.png" group-title="F22 M5 CANAIS DISCOVERY",DISCOVERY TURBO SD
+http://saga10.pro:80/148043/844063/1262977
+#EXTINF:-1 tvg-id="discovery.world.br" tvg-name="DISCOVERY WORLD FHD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/924/dyuGgl.png" group-title="F22 M5 CANAIS DISCOVERY",DISCOVERY WORLD FHD
+http://saga10.pro:80/148043/844063/1262982
+#EXTINF:-1 tvg-id="discovery.world.br" tvg-name="DISCOVERY WORLD HD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/924/dyuGgl.png" group-title="F22 M5 CANAIS DISCOVERY",DISCOVERY WORLD HD
+http://saga10.pro:80/148043/844063/1262981
+#EXTINF:-1 tvg-id="discovery.world.br" tvg-name="DISCOVERY WORLD SD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/924/dyuGgl.png" group-title="F22 M5 CANAIS DISCOVERY",DISCOVERY WORLD SD
+http://saga10.pro:80/148043/844063/1262980
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 2 HD" tvg-logo="http://tbsrv.me/images/Biifm5rtdRqCOVgLYDRxM5LqCCrf0Yp_0mekcJAA3qBRcI3UPQVaZksNPq-WsrthZIkxVpFZiVHQNIloSbJw9g.png" group-title="F22 M5 CANAIS | ESPORTES PAY-PER-VIEW",DISNEY+ 2 HD
+http://saga10.pro:80/148043/844063/2649061
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 4 HD" tvg-logo="http://www.fontedoscanais.com/logos/canais/starplus.png" group-title="F22 M5 CANAIS | ESPORTES PAY-PER-VIEW",DISNEY+ 4 HD
+http://saga10.pro:80/148043/844063/3389881
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 1 HD" tvg-logo="http://tbsrv.me/images/Biifm5rtdRqCOVgLYDRxM5LqCCrf0Yp_0mekcJAA3qBRcI3UPQVaZksNPq-WsrthZIkxVpFZiVHQNIloSbJw9g.png" group-title="F22 M5 CANAIS | ESPORTES PAY-PER-VIEW",DISNEY+ 1 HD
+http://saga10.pro:80/148043/844063/2649060
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 5 HD" tvg-logo="http://www.fontedoscanais.com/logos/canais/starplus.png" group-title="F22 M5 CANAIS | ESPORTES PAY-PER-VIEW",DISNEY+ 5 HD
+http://saga10.pro:80/148043/844063/3389882
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 6 HD" tvg-logo="http://www.fontedoscanais.com/logos/canais/starplus.png" group-title="F22 M5 CANAIS | ESPORTES PAY-PER-VIEW",DISNEY+ 6 HD
+http://saga10.pro:80/148043/844063/3389883
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 3 HD" tvg-logo="http://tbsrv.me/images/Biifm5rtdRqCOVgLYDRxM5LqCCrf0Yp_0mekcJAA3qBRcI3UPQVaZksNPq-WsrthZIkxVpFZiVHQNIloSbJw9g.png" group-title="F22 M5 CANAIS | ESPORTES PAY-PER-VIEW",DISNEY+ 3 HD
+http://saga10.pro:80/148043/844063/2649062
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 7 HD" tvg-logo="http://www.fontedoscanais.com/logos/canais/starplus.png" group-title="F22 M5 CANAIS | ESPORTES PAY-PER-VIEW",DISNEY+ 7 HD
+http://saga10.pro:80/148043/844063/3389884
+#EXTINF:-1 tvg-id="" tvg-name="DOIS HOMENS E MEIO" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/OI5GEH.png" group-title="F22 M5 ESPECIAIS SERIADOS 24h",DOIS HOMENS E MEIO
+http://saga10.pro:80/148043/844063/2627294
+#EXTINF:-1 tvg-id="" tvg-name="DOUG FUNNIE" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/924/Jy8DAH.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",DOUG FUNNIE
+http://saga10.pro:80/148043/844063/2639379
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL Z" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/923/dUaSis.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",DRAGON BALL Z
+http://saga10.pro:80/148043/844063/2639380
+#EXTINF:-1 tvg-id="" tvg-name="DU DUDU E EDU" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/iotwTZ.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",DU DUDU E EDU
+http://saga10.pro:80/148043/844063/2639381
+#EXTINF:-1 tvg-id="" tvg-name="DUCK DODGES" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/G4qUjp.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",DUCK DODGES
+http://saga10.pro:80/148043/844063/2639382
+#EXTINF:-1 tvg-id="" tvg-name="DUCKTALES" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/922/vkMF8I.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",DUCKTALES
+http://saga10.pro:80/148043/844063/2639383
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="E! FHD" tvg-logo="https://static1.squarespace.com/static/5134d411e4b027b1c0564b1e/51968996e4b0af15cc44e4e0/519a8072e4b08ccdf8f320e9/1369079923811/e_logo.png" group-title="F22 M5 VARIEDADES",E! FHD
+http://saga10.pro:80/148043/844063/1263379
+#EXTINF:-1 tvg-id="e.br" tvg-name="E! HD" tvg-logo="https://static1.squarespace.com/static/5134d411e4b027b1c0564b1e/51968996e4b0af15cc44e4e0/519a8072e4b08ccdf8f320e9/1369079923811/e_logo.png" group-title="F22 M5 VARIEDADES",E! HD
+http://saga10.pro:80/148043/844063/1263378
+#EXTINF:-1 tvg-id="e.br" tvg-name="E! SD" tvg-logo="https://static1.squarespace.com/static/5134d411e4b027b1c0564b1e/51968996e4b0af15cc44e4e0/519a8072e4b08ccdf8f320e9/1369079923811/e_logo.png" group-title="F22 M5 Filmes",E! SD
+http://saga10.pro:80/148043/844063/1263377
+#EXTINF:-1 tvg-id="" tvg-name="ELETRO MUSIC - CLIPES" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/fvDFKC.png" group-title="F22 M5 ESPECIAIS CLIPES MUSICA 24h",ELETRO MUSIC - CLIPES
+http://saga10.pro:80/148043/844063/2627277
+#EXTINF:-1 tvg-id="" tvg-name="EU A PATROA E AS CRAINÇAS" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/5phXv9.png" group-title="F22 M5 ESPECIAIS SERIADOS 24h",EU A PATROA E AS CRAINÇAS
+http://saga10.pro:80/148043/844063/2627295
+#EXTINF:-1 tvg-id="" tvg-name="EU A PATROA E AS CRIANÇAS T01" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/5phXv9.png" group-title="F22 M5 ESPECIAIS SERIADOS 24h",EU A PATROA E AS CRIANÇAS T01
+http://saga10.pro:80/148043/844063/2627296
+#EXTINF:-1 tvg-id="" tvg-name="EU A PATROA E AS CRIANÇAS T02" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/5phXv9.png" group-title="F22 M5 ESPECIAIS SERIADOS 24h",EU A PATROA E AS CRIANÇAS T02
+http://saga10.pro:80/148043/844063/2627297
+#EXTINF:-1 tvg-id="" tvg-name="EU A PATROA E AS CRIANÇAS T03" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/5phXv9.png" group-title="F22 M5 ESPECIAIS SERIADOS 24h",EU A PATROA E AS CRIANÇAS T03
+http://saga10.pro:80/148043/844063/2627298
+#EXTINF:-1 tvg-id="" tvg-name="EU A PATROA E AS CRIANÇAS T04" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/5phXv9.png" group-title="F22 M5 ESPECIAIS SERIADOS 24h",EU A PATROA E AS CRIANÇAS T04
+http://saga10.pro:80/148043/844063/2627299
+#EXTINF:-1 tvg-id="" tvg-name="EU A PATROA E AS CRIANÇAS T05" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/5phXv9.png" group-title="F22 M5 ESPECIAIS SERIADOS 24h",EU A PATROA E AS CRIANÇAS T05
+http://saga10.pro:80/148043/844063/2627300
+#EXTINF:-1 tvg-id="" tvg-name="FABULAS DA DISNEY" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/xuzbns.png" group-title="F22 M5 Filmes",FABULAS DA DISNEY
+http://saga10.pro:80/148043/844063/2639384
+#EXTINF:-1 tvg-id="" tvg-name="FALCÃO AZUL E BIONICÃO" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/qcnd8D.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",FALCÃO AZUL E BIONICÃO
+http://saga10.pro:80/148043/844063/2639385
+#EXTINF:-1 tvg-id="" tvg-name="FAMÍLIA DINOSSAUROS" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/uXmXEU.png" group-title="F22 M5 ESPECIAIS SERIADOS 24h",FAMÍLIA DINOSSAUROS
+http://saga10.pro:80/148043/844063/2627301
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="FASHION TV FHD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/EPVUsW.png" group-title="F22 M5 VARIEDADES",FASHION TV FHD
+http://saga10.pro:80/148043/844063/1263382
+#EXTINF:-1 tvg-id="fashion.br" tvg-name="FASHION TV HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/EPVUsW.png" group-title="F22 M5 VARIEDADES",FASHION TV HD
+http://saga10.pro:80/148043/844063/1263381
+#EXTINF:-1 tvg-id="fashion.br" tvg-name="FASHION TV SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/EPVUsW.png" group-title="F22 M5 VARIEDADES",FASHION TV SD
+http://saga10.pro:80/148043/844063/1263380
+#EXTINF:-1 tvg-id="" tvg-name="FETISH HD" tvg-logo="https://seeklogo.com/images/K/Kijkwijzer__18_-logo-EE76BEF576-seeklogo.com.png" group-title="F22 M5 XXX +18 ADULTOS XXX",FETISH HD
+http://saga10.pro:80/148043/844063/2612616
+#EXTINF:-1 tvg-id="5f120f41b7d403000783a6d6" tvg-name="FILMES AÇÃO" tvg-logo="https://imgur.com/8Vr6580.png" group-title="F22 M5 CANAIS HBO",FILMES AÇÃO
+http://saga10.pro:80/148043/844063/393029
+#EXTINF:-1 tvg-id="5f171d3442a0500007362f22" tvg-name="FILMES SUSPENSE" tvg-logo="https://imgur.com/K9gHNmZ.png" group-title="F22 M5 PLUTO TV",FILMES SUSPENSE
+http://saga10.pro:80/148043/844063/393036
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="FISH TV FHD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/924/wDEDYg.png" group-title="F22 M5 CANAIS DOCUMENTÁRIOS",FISH TV FHD
+http://saga10.pro:80/148043/844063/1262985
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="FISH TV HD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/924/wDEDYg.png" group-title="F22 M5 CANAIS DOCUMENTÁRIOS",FISH TV HD
+http://saga10.pro:80/148043/844063/1262984
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="FISH TV SD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/924/wDEDYg.png" group-title="F22 M5 CANAIS DOCUMENTÁRIOS",FISH TV SD
+http://saga10.pro:80/148043/844063/1262983
+#EXTINF:-1 tvg-id="" tvg-name="FLASH GORDON - (CLÁSSICO)" tvg-logo="http://appcliente.com:8880/images/3ac98e36cac4fd077e18dfcef6aa1776.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",FLASH GORDON - (CLÁSSICO)
+http://saga10.pro:80/148043/844063/2639386
+#EXTINF:-1 tvg-id="" tvg-name="FLUXUSLUST HD" tvg-logo="https://seeklogo.com/images/K/Kijkwijzer__18_-logo-EE76BEF576-seeklogo.com.png" group-title="F22 M5 XXX +18 ADULTOS XXX",FLUXUSLUST HD
+http://saga10.pro:80/148043/844063/2612617
+#EXTINF:-1 tvg-id="" tvg-name="FMS TV FHD (COMBATE)" tvg-logo="https://i.imgur.com/BWZxtYG.png" group-title="F22 M5 CANAIS | ESPORTES PAY-PER-VIEW",FMS TV FHD (COMBATE)
+http://saga10.pro:80/148043/844063/3045766
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="FOOD NETWORK FHD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/K8rChV.png" group-title="F22 M5 VARIEDADES",FOOD NETWORK FHD
+http://saga10.pro:80/148043/844063/1263385
+#EXTINF:-1 tvg-id="food.network.br" tvg-name="FOOD NETWORK HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/K8rChV.png" group-title="F22 M5 VARIEDADES",FOOD NETWORK HD
+http://saga10.pro:80/148043/844063/1263384
+#EXTINF:-1 tvg-id="food.network.br" tvg-name="FOOD NETWORK SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/K8rChV.png" group-title="F22 M5 VARIEDADES",FOOD NETWORK SD
+http://saga10.pro:80/148043/844063/1263383
+#EXTINF:-1 tvg-id="" tvg-name="FORMIGA ATÔMICA" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/3pJNkj.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",FORMIGA ATÔMICA
+http://saga10.pro:80/148043/844063/2639387
+#EXTINF:-1 tvg-id="" tvg-name="FRANGO KUNG FU" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/1bYhXD.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",FRANGO KUNG FU
+http://saga10.pro:80/148043/844063/2639388
+#EXTINF:-1 tvg-id="" tvg-name="FRIENDS T01" tvg-logo="http://www.moblee.com.br/blog/wp-content/uploads/sites/2/2018/10/Friends1.png" group-title="F22 M5 ESPECIAIS SERIADOS 24h",FRIENDS T01
+http://saga10.pro:80/148043/844063/2627302
+#EXTINF:-1 tvg-id="" tvg-name="FRIENDS T02" tvg-logo="http://www.moblee.com.br/blog/wp-content/uploads/sites/2/2018/10/Friends1.png" group-title="F22 M5 ESPECIAIS SERIADOS 24h",FRIENDS T02
+http://saga10.pro:80/148043/844063/2627303
+#EXTINF:-1 tvg-id="" tvg-name="FRIENDS T03" tvg-logo="http://www.moblee.com.br/blog/wp-content/uploads/sites/2/2018/10/Friends1.png" group-title="F22 M5 ESPECIAIS SERIADOS 24h",FRIENDS T03
+http://saga10.pro:80/148043/844063/2627304
+#EXTINF:-1 tvg-id="" tvg-name="FRIENDS T04" tvg-logo="http://www.moblee.com.br/blog/wp-content/uploads/sites/2/2018/10/Friends1.png" group-title="F22 M5 ESPECIAIS SERIADOS 24h",FRIENDS T04
+http://saga10.pro:80/148043/844063/2627305
+#EXTINF:-1 tvg-id="" tvg-name="FRIENDS T05" tvg-logo="http://www.moblee.com.br/blog/wp-content/uploads/sites/2/2018/10/Friends1.png" group-title="F22 M5 ESPECIAIS SERIADOS 24h",FRIENDS T05
+http://saga10.pro:80/148043/844063/2627306
+#EXTINF:-1 tvg-id="" tvg-name="FRIENDS T06" tvg-logo="http://www.moblee.com.br/blog/wp-content/uploads/sites/2/2018/10/Friends1.png" group-title="F22 M5 ESPECIAIS SERIADOS 24h",FRIENDS T06
+http://saga10.pro:80/148043/844063/2627307
+#EXTINF:-1 tvg-id="" tvg-name="FRIENDS T07" tvg-logo="http://www.moblee.com.br/blog/wp-content/uploads/sites/2/2018/10/Friends1.png" group-title="F22 M5 ESPECIAIS SERIADOS 24h",FRIENDS T07
+http://saga10.pro:80/148043/844063/2627308
+#EXTINF:-1 tvg-id="" tvg-name="FRIENDS T08" tvg-logo="http://www.moblee.com.br/blog/wp-content/uploads/sites/2/2018/10/Friends1.png" group-title="F22 M5 ESPECIAIS SERIADOS 24h",FRIENDS T08
+http://saga10.pro:80/148043/844063/2627309
+#EXTINF:-1 tvg-id="" tvg-name="FRIENDS T09" tvg-logo="http://www.moblee.com.br/blog/wp-content/uploads/sites/2/2018/10/Friends1.png" group-title="F22 M5 ESPECIAIS SERIADOS 24h",FRIENDS T09
+http://saga10.pro:80/148043/844063/2627310
+#EXTINF:-1 tvg-id="" tvg-name="FRIENDS T10" tvg-logo="http://www.moblee.com.br/blog/wp-content/uploads/sites/2/2018/10/Friends1.png" group-title="F22 M5 Filmes",FRIENDS T10
+http://saga10.pro:80/148043/844063/2627311
+#EXTINF:-1 tvg-id="" tvg-name="FUNK - CLIPES" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/fvDFKC.png" group-title="F22 M5 ESPECIAIS CLIPES MUSICA 24h",FUNK - CLIPES
+http://saga10.pro:80/148043/844063/2627278
+#EXTINF:-1 tvg-id="" tvg-name="FURACAO LIVE 2" tvg-logo="" group-title="F22 M5 CANAIS | ESPORTES PAY-PER-VIEW",FURACAO LIVE 2
+http://saga10.pro:80/148043/844063/2908955
+#EXTINF:-1 tvg-id="" tvg-name="FURACAO TV" tvg-logo="" group-title="F22 M5 CANAIS | ESPORTES PAY-PER-VIEW",FURACAO TV
+http://saga10.pro:80/148043/844063/2839448
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="FUTURA FHD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/O6JzS4.png" group-title="F22 M5 VARIEDADES",FUTURA FHD
+http://saga10.pro:80/148043/844063/1263388
+#EXTINF:-1 tvg-id="futura.br" tvg-name="FUTURA HD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/O6JzS4.png" group-title="F22 M5 VARIEDADES",FUTURA HD
+http://saga10.pro:80/148043/844063/1263387
+#EXTINF:-1 tvg-id="futura.br" tvg-name="FUTURA SD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/O6JzS4.png" group-title="F22 M5 VARIEDADES",FUTURA SD
+http://saga10.pro:80/148043/844063/1263386
+#EXTINF:-1 tvg-id="" tvg-name="FUTURAMA" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/T9y6lM.png" group-title="F22 M5 Filmes",FUTURAMA
+http://saga10.pro:80/148043/844063/2639389
+#EXTINF:-1 tvg-id="" tvg-name="G.I JOE SIGMA 6" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/lMSeyH.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",G.I JOE SIGMA 6
+http://saga10.pro:80/148043/844063/2639390
+#EXTINF:-1 tvg-id="" tvg-name="GALAXY RANGERS" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/923/iBgRWv.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",GALAXY RANGERS
+http://saga10.pro:80/148043/844063/2639391
+#EXTINF:-1 tvg-id="" tvg-name="GALINHA BABY" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/923/BHvslI.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",GALINHA BABY
+http://saga10.pro:80/148043/844063/2639392
+#EXTINF:-1 tvg-id="" tvg-name="GARFIELD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/5YOyCe.png" group-title="F22 M5 Filmes",GARFIELD
+http://saga10.pro:80/148043/844063/2639393
+#EXTINF:-1 tvg-id="" tvg-name="GASPARZINHO E SEUS AMIGOS" tvg-logo="https://imagizer.imageshack.com/img922/7264/v9U7Ta.gif" group-title="F22 M5 Filmes",GASPARZINHO E SEUS AMIGOS
+http://saga10.pro:80/148043/844063/2639394
+#EXTINF:-1 tvg-id="" tvg-name="GATO FELIX" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/923/UqbOeB.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",GATO FELIX
+http://saga10.pro:80/148043/844063/2639395
+#EXTINF:-1 tvg-id="FOX" tvg-name="GLOBO NEWS FHD" tvg-logo="https://imagizer.imageshack.com/v2/1280x1024q90/921/gIgONl.png" group-title="F22 M5 CANAIS JORNALISMO",GLOBO NEWS FHD
+http://saga10.pro:80/148043/844063/1263126
+#EXTINF:-1 tvg-id="GloboNews.br" tvg-name="GLOBO NEWS HD" tvg-logo="https://imagizer.imageshack.com/v2/1280x1024q90/921/gIgONl.png" group-title="F22 M5 CANAIS JORNALISMO",GLOBO NEWS HD
+http://saga10.pro:80/148043/844063/1263125
+#EXTINF:-1 tvg-id="GloboNews.br" tvg-name="GLOBO NEWS SD" tvg-logo="https://imagizer.imageshack.com/v2/1280x1024q90/921/gIgONl.png" group-title="F22 M5 CANAIS JORNALISMO",GLOBO NEWS SD
+http://saga10.pro:80/148043/844063/1263124
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB FHD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/0LErhi.png" group-title="F22 M5 CANAIS INFANTIS",GLOOB FHD
+http://saga10.pro:80/148043/844063/1263445
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/0LErhi.png" group-title="F22 M5 CANAIS INFANTIS",GLOOB HD
+http://saga10.pro:80/148043/844063/1263444
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/0LErhi.png" group-title="F22 M5 CANAIS INFANTIS",GLOOB SD
+http://saga10.pro:80/148043/844063/1263443
+#EXTINF:-1 tvg-id="gloobinho.br" tvg-name="GLOOBINHO FHD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/OiiizV.png" group-title="F22 M5 CANAIS INFANTIS",GLOOBINHO FHD
+http://saga10.pro:80/148043/844063/1263448
+#EXTINF:-1 tvg-id="gloobinho.br" tvg-name="GLOOBINHO HD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/OiiizV.png" group-title="F22 M5 CANAIS INFANTIS",GLOOBINHO HD
+http://saga10.pro:80/148043/844063/1263447
+#EXTINF:-1 tvg-id="gloobinho.br" tvg-name="GLOOBINHO SD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/OiiizV.png" group-title="F22 M5 CANAIS INFANTIS",GLOOBINHO SD
+http://saga10.pro:80/148043/844063/1263446
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="GNT FHD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/u02Iqb.png" group-title="F22 M5 VARIEDADES",GNT FHD
+http://saga10.pro:80/148043/844063/1263391
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/u02Iqb.png" group-title="F22 M5 VARIEDADES",GNT HD
+http://saga10.pro:80/148043/844063/1263390
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/u02Iqb.png" group-title="F22 M5 VARIEDADES",GNT SD
+http://saga10.pro:80/148043/844063/1263389
+#EXTINF:-1 tvg-id="" tvg-name="GOAT 1" tvg-logo="https://canalgoat.com.br/img/logo-composite.png" group-title="F22 M5 CANAIS | ESPORTES PAY-PER-VIEW",GOAT 1
+http://saga10.pro:80/148043/844063/2818791
+#EXTINF:-1 tvg-id="" tvg-name="GOAT 2" tvg-logo="https://canalgoat.com.br/img/logo-composite.png" group-title="F22 M5 CANAIS | ESPORTES PAY-PER-VIEW",GOAT 2
+http://saga10.pro:80/148043/844063/2818792
+#EXTINF:-1 tvg-id="" tvg-name="GOAT 3" tvg-logo="https://canalgoat.com.br/img/logo-composite.png" group-title="F22 M5 CANAIS | ESPORTES PAY-PER-VIEW",GOAT 3
+http://saga10.pro:80/148043/844063/2818793
+#EXTINF:-1 tvg-id="" tvg-name="GORMETI" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/1QfUKC.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",GORMETI
+http://saga10.pro:80/148043/844063/2639396
+#EXTINF:-1 tvg-id="" tvg-name="GOSPEL - CLIPES" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/fvDFKC.png" group-title="F22 M5 ESPECIAIS CLIPES MUSICA 24h",GOSPEL - CLIPES
+http://saga10.pro:80/148043/844063/2627279
+#EXTINF:-1 tvg-id="history.2.br" tvg-name="H2 FHD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/923/JKU0Ir.png" group-title="F22 M5 CANAIS DOCUMENTÁRIOS",H2 FHD
+http://saga10.pro:80/148043/844063/1262991
+#EXTINF:-1 tvg-id="history.2.br" tvg-name="H2 HD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/923/JKU0Ir.png" group-title="F22 M5 CANAIS DOCUMENTÁRIOS",H2 HD
+http://saga10.pro:80/148043/844063/1262990
+#EXTINF:-1 tvg-id="history.2.br" tvg-name="H2 SD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/923/JKU0Ir.png" group-title="F22 M5 CANAIS DOCUMENTÁRIOS",H2 SD
+http://saga10.pro:80/148043/844063/1262989
+#EXTINF:-1 tvg-id="" tvg-name="HARDCORE HD" tvg-logo="https://seeklogo.com/images/K/Kijkwijzer__18_-logo-EE76BEF576-seeklogo.com.png" group-title="F22 M5 XXX +18 ADULTOS XXX",HARDCORE HD
+http://saga10.pro:80/148043/844063/2612618
+#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 SD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/7rKF8E.png" group-title="F22 M5 CANAIS HBO",HBO 2 SD
+http://saga10.pro:80/148043/844063/1263046
+#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO FAMILY FHD" tvg-logo="https://imagizer.imageshack.com/img924/8617/2gpz5i.png" group-title="F22 M5 CANAIS HBO",HBO FAMILY FHD
+http://saga10.pro:80/148043/844063/1263051
+#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO FAMILY HD" tvg-logo="https://imagizer.imageshack.com/img924/8617/2gpz5i.png" group-title="F22 M5 CANAIS HBO",HBO FAMILY HD
+http://saga10.pro:80/148043/844063/1263050
+#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO FAMILY SD" tvg-logo="https://imagizer.imageshack.com/img924/8617/2gpz5i.png" group-title="F22 M5 CANAIS HBO",HBO FAMILY SD
+http://saga10.pro:80/148043/844063/1263049
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO FHD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/Cv1K2x.png" group-title="F22 M5 CANAIS HBO",HBO FHD
+http://saga10.pro:80/148043/844063/1263045
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/Cv1K2x.png" group-title="F22 M5 CANAIS HBO",HBO HD
+http://saga10.pro:80/148043/844063/1263044
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 01" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/922/1VHuk2.png" group-title="F22 M5 CANAIS | HBO MAX",HBO MAX 01
+http://saga10.pro:80/148043/844063/2649042
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 02" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/922/1VHuk2.png" group-title="F22 M5 CANAIS | HBO MAX",HBO MAX 02
+http://saga10.pro:80/148043/844063/2649043
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 03" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/922/1VHuk2.png" group-title="F22 M5 CANAIS | HBO MAX",HBO MAX 03
+http://saga10.pro:80/148043/844063/2649044
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 04" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/922/1VHuk2.png" group-title="F22 M5 CANAIS | HBO MAX",HBO MAX 04
+http://saga10.pro:80/148043/844063/2649045
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 05" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/922/1VHuk2.png" group-title="F22 M5 CANAIS | HBO MAX",HBO MAX 05
+http://saga10.pro:80/148043/844063/3044812
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 06" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/922/1VHuk2.png" group-title="F22 M5 CANAIS | HBO MAX",HBO MAX 06
+http://saga10.pro:80/148043/844063/3044813
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 07" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/922/1VHuk2.png" group-title="F22 M5 CANAIS | HBO MAX",HBO MAX 07
+http://saga10.pro:80/148043/844063/3867361
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 08" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/922/1VHuk2.png" group-title="F22 M5 CANAIS | HBO MAX",HBO MAX 08
+http://saga10.pro:80/148043/844063/3867362
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 09" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/922/1VHuk2.png" group-title="F22 M5 CANAIS | HBO MAX",HBO MAX 09
+http://saga10.pro:80/148043/844063/3867363
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 10" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/922/1VHuk2.png" group-title="F22 M5 CANAIS | HBO MAX",HBO MAX 10
+http://saga10.pro:80/148043/844063/3867364
+#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO MUNDI FHD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/924/AQoYT1.png" group-title="F22 M5 CANAIS HBO",HBO MUNDI FHD
+http://saga10.pro:80/148043/844063/1263054
+#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO MUNDI HD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/924/AQoYT1.png" group-title="F22 M5 CANAIS HBO",HBO MUNDI HD
+http://saga10.pro:80/148043/844063/1263053
+#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO MUNDI SD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/924/AQoYT1.png" group-title="F22 M5 CANAIS HBO",HBO MUNDI SD
+http://saga10.pro:80/148043/844063/1263052
+#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP FHD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/zBI36X.png" group-title="F22 M5 CANAIS HBO",HBO POP FHD
+http://saga10.pro:80/148043/844063/1263057
+#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/zBI36X.png" group-title="F22 M5 CANAIS HBO",HBO POP HD
+http://saga10.pro:80/148043/844063/1263056
+#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/zBI36X.png" group-title="F22 M5 CANAIS HBO",HBO POP SD
+http://saga10.pro:80/148043/844063/1263055
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO SD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/Cv1K2x.png" group-title="F22 M5 CANAIS HBO",HBO SD
+http://saga10.pro:80/148043/844063/1263043
+#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO SIGNATURE FHD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/B16iIp.png" group-title="F22 M5 CANAIS HBO",HBO SIGNATURE FHD
+http://saga10.pro:80/148043/844063/1263060
+#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO SIGNATURE HD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/B16iIp.png" group-title="F22 M5 CANAIS HBO",HBO SIGNATURE HD
+http://saga10.pro:80/148043/844063/1263059
+#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO SIGNATURE SD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/B16iIp.png" group-title="F22 M5 CANAIS HBO",HBO SIGNATURE SD
+http://saga10.pro:80/148043/844063/1263058
+#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO XTREME FHD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/dack3P.png" group-title="F22 M5 CANAIS HBO",HBO XTREME FHD
+http://saga10.pro:80/148043/844063/1263063
+#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO XTREME HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/dack3P.png" group-title="F22 M5 CANAIS HBO",HBO XTREME HD
+http://saga10.pro:80/148043/844063/1263062
+#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO XTREME SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/dack3P.png" group-title="F22 M5 CANAIS HBO",HBO XTREME SD
+http://saga10.pro:80/148043/844063/1263061
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO+ FHD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/3IBU8y.png" group-title="F22 M5 CANAIS HBO",HBO+ FHD
+http://saga10.pro:80/148043/844063/1263066
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO+ HD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/3IBU8y.png" group-title="F22 M5 CANAIS HBO",HBO+ HD
+http://saga10.pro:80/148043/844063/1263065
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO+ SD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/3IBU8y.png" group-title="F22 M5 CANAIS HBO",HBO+ SD
+http://saga10.pro:80/148043/844063/1263064
+#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 FHD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/7rKF8E.png" group-title="F22 M5 CANAIS HBO",HBO 2 FHD
+http://saga10.pro:80/148043/844063/1263048
+#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 HD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/7rKF8E.png" group-title="F22 M5 CANAIS HBO",HBO 2 HD
+http://saga10.pro:80/148043/844063/1263047
+#EXTINF:-1 tvg-id="" tvg-name="HELLSING" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/1FSqlr.png" group-title="F22 M5 Filmes",HELLSING
+http://saga10.pro:80/148043/844063/2639397
+#EXTINF:-1 tvg-id="" tvg-name="HEY ARNOLD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/F7Apes.png" group-title="F22 M5 Filmes",HEY ARNOLD
+http://saga10.pro:80/148043/844063/2639398
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="HGTV FHD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/yLVo0Y.png" group-title="F22 M5 VARIEDADES",HGTV FHD
+http://saga10.pro:80/148043/844063/1263394
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/yLVo0Y.png" group-title="F22 M5 VARIEDADES",HGTV HD
+http://saga10.pro:80/148043/844063/1263393
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/yLVo0Y.png" group-title="F22 M5 Filmes",HGTV SD
+http://saga10.pro:80/148043/844063/1263392
+#EXTINF:-1 tvg-id="history.br" tvg-name="HISTORY CHANNEL FHD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/5QbC6N.png" group-title="F22 M5 CANAIS DOCUMENTÁRIOS",HISTORY CHANNEL FHD
+http://saga10.pro:80/148043/844063/1262988
+#EXTINF:-1 tvg-id="history.br" tvg-name="HISTORY CHANNEL HD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/5QbC6N.png" group-title="F22 M5 CANAIS DOCUMENTÁRIOS",HISTORY CHANNEL HD
+http://saga10.pro:80/148043/844063/1262987
+#EXTINF:-1 tvg-id="history.br" tvg-name="HISTORY CHANNEL SD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/5QbC6N.png" group-title="F22 M5 CANAIS DOCUMENTÁRIOS",HISTORY CHANNEL SD
+http://saga10.pro:80/148043/844063/1262986
+#EXTINF:-1 tvg-id="" tvg-name="HOMEM ARANHA" tvg-logo="https://imagizer.imageshack.com/img924/6775/MQcPCr.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",HOMEM ARANHA
+http://saga10.pro:80/148043/844063/2639399
+#EXTINF:-1 tvg-id="" tvg-name="HOMEM DE FERRO" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/hDsAxW.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",HOMEM DE FERRO
+http://saga10.pro:80/148043/844063/2639400
+#EXTINF:-1 tvg-id="" tvg-name="HOMEM PÁSSARO" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/jV7ro7.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",HOMEM PÁSSARO
+http://saga10.pro:80/148043/844063/2639401
+#EXTINF:-1 tvg-id="" tvg-name="HOT WHEELS BATTLE FORCE 5" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/R6XbOn.png" group-title="F22 M5 Filmes",HOT WHEELS BATTLE FORCE 5
+http://saga10.pro:80/148043/844063/2639402
+#EXTINF:-1 tvg-id="" tvg-name="HULK" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/922/gUrzDV.png" group-title="F22 M5 Filmes",HULK
+http://saga10.pro:80/148043/844063/2639403
+#EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="ID - INVESTIGATION DISCOVERY FHD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/UjcFBb.png" group-title="F22 M5 CANAIS DISCOVERY",ID - INVESTIGATION DISCOVERY FHD
+http://saga10.pro:80/148043/844063/1262994
+#EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="ID - INVESTIGATION DISCOVERY HD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/UjcFBb.png" group-title="F22 M5 CANAIS DISCOVERY",ID - INVESTIGATION DISCOVERY HD
+http://saga10.pro:80/148043/844063/1262993
+#EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="ID - INVESTIGATION DISCOVERY SD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/UjcFBb.png" group-title="F22 M5 CANAIS DISCOVERY",ID - INVESTIGATION DISCOVERY SD
+http://saga10.pro:80/148043/844063/1262992
+#EXTINF:-1 tvg-id="" tvg-name="INTERRACIAL HD" tvg-logo="https://seeklogo.com/images/K/Kijkwijzer__18_-logo-EE76BEF576-seeklogo.com.png" group-title="F22 M5 XXX +18 ADULTOS XXX",INTERRACIAL HD
+http://saga10.pro:80/148043/844063/2612619
+#EXTINF:-1 tvg-id="" tvg-name="INVASOR ZIM" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/922/3aCPlx.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",INVASOR ZIM
+http://saga10.pro:80/148043/844063/2639404
+#EXTINF:-1 tvg-id="5f32cf37c9ff2b00082adbc8" tvg-name="INVESTIGAÇÃO" tvg-logo="https://imagizer.imageshack.com/v2/320x240q70/923/Rdyv6E.png" group-title="F22 M5 PLUTO TV",INVESTIGAÇÃO
+http://saga10.pro:80/148043/844063/2416583
+#EXTINF:-1 tvg-id="" tvg-name="JASPION" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/017jpk.png" group-title="F22 M5 Filmes",JASPION
+http://saga10.pro:80/148043/844063/2627312
+#EXTINF:-1 tvg-id="" tvg-name="JIRAIYA: O INCRÍVEL NINJA" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/921/6ii4rF.png" group-title="F22 M5 ESPECIAIS SERIADOS 24h",JIRAIYA: O INCRÍVEL NINJA
+http://saga10.pro:80/148043/844063/2627313
+#EXTINF:-1 tvg-id="" tvg-name="JONNY QUEST" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/923/oXObmA.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",JONNY QUEST
+http://saga10.pro:80/148043/844063/2639405
+#EXTINF:-1 tvg-id="" tvg-name="JOSIE E AS GATINHAS NO ESPAÇO" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/923/LGEeZR.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",JOSIE E AS GATINHAS NO ESPAÇO
+http://saga10.pro:80/148043/844063/2639406
+#EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN NEWS FHD" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/922/HYYaNf.png" group-title="F22 M5 CANAIS JORNALISMO",JOVEM PAN NEWS FHD
+http://saga10.pro:80/148043/844063/1263129
+#EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN NEWS HD" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/922/HYYaNf.png" group-title="F22 M5 CANAIS JORNALISMO",JOVEM PAN NEWS HD
+http://saga10.pro:80/148043/844063/1263128
+#EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN NEWS SD" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/922/HYYaNf.png" group-title="F22 M5 CANAIS JORNALISMO",JOVEM PAN NEWS SD
+http://saga10.pro:80/148043/844063/1263127
+#EXTINF:-1 tvg-id="" tvg-name="KRYPTO O SUPERCÃO" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/GXeULu.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",KRYPTO O SUPERCÃO
+http://saga10.pro:80/148043/844063/2639407
+#EXTINF:-1 tvg-id="" tvg-name="LATINA HF" tvg-logo="https://seeklogo.com/images/K/Kijkwijzer__18_-logo-EE76BEF576-seeklogo.com.png" group-title="F22 M5 XXX +18 ADULTOS XXX",LATINA HF
+http://saga10.pro:80/148043/844063/2612620
+#EXTINF:-1 tvg-id="" tvg-name="LEGIÃO DOS SUPER HERÓIS" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/924/PlN7LP.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",LEGIÃO DOS SUPER HERÓIS
+http://saga10.pro:80/148043/844063/2639408
+#EXTINF:-1 tvg-id="" tvg-name="LEÃO DA MONTANHA" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/923/xB4dkQ.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",LEÃO DA MONTANHA
+http://saga10.pro:80/148043/844063/2639409
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="LIFETIME FHD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/s5alup.png" group-title="F22 M5 VARIEDADES",LIFETIME FHD
+http://saga10.pro:80/148043/844063/1263397
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="LIFETIME HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/s5alup.png" group-title="F22 M5 VARIEDADES",LIFETIME HD
+http://saga10.pro:80/148043/844063/1263396
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="LIFETIME SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/s5alup.png" group-title="F22 M5 VARIEDADES",LIFETIME SD
+http://saga10.pro:80/148043/844063/1263395
+#EXTINF:-1 tvg-id="" tvg-name="LIGEIRINHO" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/82arbB.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",LIGEIRINHO
+http://saga10.pro:80/148043/844063/2639410
+#EXTINF:-1 tvg-id="" tvg-name="LILO E STITCH" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/Yt3ZIe.png" group-title="F22 M5 Filmes",LILO E STITCH
+http://saga10.pro:80/148043/844063/2639411
+#EXTINF:-1 tvg-id="" tvg-name="LOONEY TUNES" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/VlnhQA.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",LOONEY TUNES
+http://saga10.pro:80/148043/844063/2639412
+#EXTINF:-1 tvg-id="" tvg-name="LULUZINHA" tvg-logo="http://2.bp.blogspot.com/--hbv5tZnx6I/TlkLV2K_sqI/AAAAAAAAF0o/TZsL3fLlngQ/s400/luluzinha.png" group-title="F22 M5 Filmes",LULUZINHA
+http://saga10.pro:80/148043/844063/2639413
+#EXTINF:-1 tvg-id="" tvg-name="MAGUILA O GORILA" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/922/TgaAdm.png" group-title="F22 M5 Filmes",MAGUILA O GORILA
+http://saga10.pro:80/148043/844063/2639414
+#EXTINF:-1 tvg-id="" tvg-name="MARKKET FHD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/NG4t8E.png" group-title="F22 M5 VARIEDADES",MARKKET FHD
+http://saga10.pro:80/148043/844063/1263400
+#EXTINF:-1 tvg-id="" tvg-name="MARKKET HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/NG4t8E.png" group-title="F22 M5 VARIEDADES",MARKKET HD
+http://saga10.pro:80/148043/844063/1263399
+#EXTINF:-1 tvg-id="" tvg-name="MARKKET SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/NG4t8E.png" group-title="F22 M5 VARIEDADES",MARKKET SD
+http://saga10.pro:80/148043/844063/1263398
+#EXTINF:-1 tvg-id="" tvg-name="MASHA E O URSO" tvg-logo="https://imagizer.imageshack.com/img924/1707/g0Htxb.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",MASHA E O URSO
+http://saga10.pro:80/148043/844063/2639415
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX FHD" tvg-logo="https://imagizer.imageshack.com/img923/9138/z7mtU6.png" group-title="F22 M5 CANAIS FILMES E SERIES",MEGAPIX FHD
+http://saga10.pro:80/148043/844063/2639917
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX HD" tvg-logo="https://imagizer.imageshack.com/img923/9138/z7mtU6.png" group-title="F22 M5 CANAIS FILMES E SERIES",MEGAPIX HD
+http://saga10.pro:80/148043/844063/2639918
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX SD" tvg-logo="https://imagizer.imageshack.com/img923/9138/z7mtU6.png" group-title="F22 M5 CANAIS FILMES E SERIES",MEGAPIX SD
+http://saga10.pro:80/148043/844063/2639919
+#EXTINF:-1 tvg-id="" tvg-name="MEU AMIGO DA ESCOLA E UM MACACO" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/uuKYZV.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",MEU AMIGO DA ESCOLA E UM MACACO
+http://saga10.pro:80/148043/844063/2639416
+#EXTINF:-1 tvg-id="" tvg-name="MICKEY E DONALD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/Vaehef.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",MICKEY E DONALD
+http://saga10.pro:80/148043/844063/2639417
+#EXTINF:-1 tvg-id="" tvg-name="MICKEY MOUSE" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/xRLBZr.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",MICKEY MOUSE
+http://saga10.pro:80/148043/844063/2639418
+#EXTINF:-1 tvg-id="" tvg-name="MICKEY MOUSE - CLÁSSICO" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/RrIc0A.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",MICKEY MOUSE - CLÁSSICO
+http://saga10.pro:80/148043/844063/2639419
+#EXTINF:-1 tvg-id="" tvg-name="MILF HD" tvg-logo="https://seeklogo.com/images/K/Kijkwijzer__18_-logo-EE76BEF576-seeklogo.com.png" group-title="F22 M5 XXX +18 ADULTOS XXX",MILF HD
+http://saga10.pro:80/148043/844063/2612621
+#EXTINF:-1 tvg-id="" tvg-name="MISTER MAGOO" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/922/MpMPrb.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",MISTER MAGOO
+http://saga10.pro:80/148043/844063/2639420
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="MODO VIAGEM FHD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/DVcqol.png" group-title="F22 M5 VARIEDADES",MODO VIAGEM FHD
+http://saga10.pro:80/148043/844063/1263403
+#EXTINF:-1 tvg-id="plus.globosat.br" tvg-name="MODO VIAGEM HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/DVcqol.png" group-title="F22 M5 VARIEDADES",MODO VIAGEM HD
+http://saga10.pro:80/148043/844063/1263402
+#EXTINF:-1 tvg-id="plus.globosat.br" tvg-name="MODO VIAGEM SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/DVcqol.png" group-title="F22 M5 VARIEDADES",MODO VIAGEM SD
+http://saga10.pro:80/148043/844063/1263401
+#EXTINF:-1 tvg-id="" tvg-name="MORTAL KOMBAT" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/WEB3bJ.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",MORTAL KOMBAT
+http://saga10.pro:80/148043/844063/2639421
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="MTV FHD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/cC4RIF.png" group-title="F22 M5 MUSICA",MTV FHD
+http://saga10.pro:80/148043/844063/1263354
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/cC4RIF.png" group-title="F22 M5 MUSICA",MTV HD
+http://saga10.pro:80/148043/844063/1263353
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="MTV LIVE FHD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/338OeC.png" group-title="F22 M5 MUSICA",MTV LIVE FHD
+http://saga10.pro:80/148043/844063/1263357
+#EXTINF:-1 tvg-id="mtv.live.br" tvg-name="MTV LIVE HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/338OeC.png" group-title="F22 M5 MUSICA",MTV LIVE HD
+http://saga10.pro:80/148043/844063/1263356
+#EXTINF:-1 tvg-id="mtv.live.br" tvg-name="MTV LIVE SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/338OeC.png" group-title="F22 M5 MUSICA",MTV LIVE SD
+http://saga10.pro:80/148043/844063/1263355
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="MTV S 00 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="F22 M5 MUSICA",MTV S 00 FHD
+http://saga10.pro:80/148043/844063/1263360
+#EXTINF:-1 tvg-id="mtv.brasil.br" tvg-name="MTV S 00 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="F22 M5 MUSICA",MTV S 00 HD
+http://saga10.pro:80/148043/844063/1263359
+#EXTINF:-1 tvg-id="mtv.brasil.br" tvg-name="MTV S 00 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="F22 M5 MUSICA",MTV S 00 SD
+http://saga10.pro:80/148043/844063/1263358
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/cC4RIF.png" group-title="F22 M5 Filmes",MTV SD
+http://saga10.pro:80/148043/844063/1263352
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="MULTISHOW FHD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/vHRJ4F.png" group-title="F22 M5 VARIEDADES",MULTISHOW FHD
+http://saga10.pro:80/148043/844063/1263406
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW HD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/vHRJ4F.png" group-title="F22 M5 VARIEDADES",MULTISHOW HD
+http://saga10.pro:80/148043/844063/1263405
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW SD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/vHRJ4F.png" group-title="F22 M5 VARIEDADES",MULTISHOW SD
+http://saga10.pro:80/148043/844063/1263404
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="MUSIC BOX BRAZIL FHD" tvg-logo="https://imagizer.imageshack.com/img924/6991/yrTRb5.png" group-title="F22 M5 MUSICA",MUSIC BOX BRAZIL FHD
+http://saga10.pro:80/148043/844063/1263363
+#EXTINF:-1 tvg-id="music.box.brasil.br" tvg-name="MUSIC BOX BRAZIL HD" tvg-logo="https://imagizer.imageshack.com/img924/6991/yrTRb5.png" group-title="F22 M5 MUSICA",MUSIC BOX BRAZIL HD
+http://saga10.pro:80/148043/844063/1263362
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="MUSIC BOX BRAZIL SD" tvg-logo="https://imagizer.imageshack.com/img924/6991/yrTRb5.png" group-title="F22 M5 MUSICA",MUSIC BOX BRAZIL SD
+http://saga10.pro:80/148043/844063/1263361
+#EXTINF:-1 tvg-id="" tvg-name="NARUTO" tvg-logo="https://imgur.com/046zDW4.png" group-title="F22 M5 Filmes",NARUTO
+http://saga10.pro:80/148043/844063/2639422
+#EXTINF:-1 tvg-id="" tvg-name="NBA LEAGUE PASS TV HD" tvg-logo="http://tbsrv.me/images/KzaeFxAY48SKwaLpBzQydD0ujZXoUKMqDn7yFZV3R0uwmnXf_XtCQz_A4x405Y9Fp9moBiJmIxU3Jx8IzxdMbwLAxuOcXtz_P1CrpE53m4w.png" group-title="F22 M5 CANAIS | ESPORTES PAY-PER-VIEW",NBA LEAGUE PASS TV HD
+http://saga10.pro:80/148043/844063/2649046
+#EXTINF:-1 tvg-id="nick.jr.br" tvg-name="NICK JR. FHD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/MID1Gk.png" group-title="F22 M5 CANAIS INFANTIS",NICK JR. FHD
+http://saga10.pro:80/148043/844063/1263451
+#EXTINF:-1 tvg-id="nick.jr.br" tvg-name="NICK JR. HD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/MID1Gk.png" group-title="F22 M5 CANAIS INFANTIS",NICK JR. HD
+http://saga10.pro:80/148043/844063/1263450
+#EXTINF:-1 tvg-id="nick.jr.br" tvg-name="NICK JR. SD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/MID1Gk.png" group-title="F22 M5 CANAIS INFANTIS",NICK JR. SD
+http://saga10.pro:80/148043/844063/1263449
+#EXTINF:-1 tvg-id="nick.br" tvg-name="NICKELODEON FHD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/MsvYq1.png" group-title="F22 M5 CANAIS INFANTIS",NICKELODEON FHD
+http://saga10.pro:80/148043/844063/1263454
+#EXTINF:-1 tvg-id="nick.br" tvg-name="NICKELODEON HD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/MsvYq1.png" group-title="F22 M5 CANAIS INFANTIS",NICKELODEON HD
+http://saga10.pro:80/148043/844063/1263453
+#EXTINF:-1 tvg-id="nick.br" tvg-name="NICKELODEON SD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/MsvYq1.png" group-title="F22 M5 CANAIS INFANTIS",NICKELODEON SD
+http://saga10.pro:80/148043/844063/1263452
+#EXTINF:-1 tvg-id="" tvg-name="NOSSO FUTEBOL - HD" tvg-logo="http://tbsrv.me/images/Biifm5rtdRqCOVgLYDRxM5LqCCrf0Yp_0mekcJAA3qBRcI3UPQVaZksNPq-WsrthZKr_KzmZfCKFYM4GvKSyKA.png" group-title="F22 M5 CANAIS | ESPORTES PAY-PER-VIEW",NOSSO FUTEBOL - HD
+http://saga10.pro:80/148043/844063/2649050
+#EXTINF:-1 tvg-id="" tvg-name="NOSSO FUTEBOL - 1 HD" tvg-logo="http://tbsrv.me/images/Biifm5rtdRqCOVgLYDRxM5LqCCrf0Yp_0mekcJAA3qBRcI3UPQVaZksNPq-WsrthZKr_KzmZfCKFYM4GvKSyKA.png" group-title="F22 M5 CANAIS | ESPORTES PAY-PER-VIEW",NOSSO FUTEBOL - 1 HD
+http://saga10.pro:80/148043/844063/2649051
+#EXTINF:-1 tvg-id="" tvg-name="NOSSO FUTEBOL - 2 HD" tvg-logo="http://tbsrv.me/images/Biifm5rtdRqCOVgLYDRxM5LqCCrf0Yp_0mekcJAA3qBRcI3UPQVaZksNPq-WsrthZKr_KzmZfCKFYM4GvKSyKA.png" group-title="F22 M5 CANAIS | ESPORTES PAY-PER-VIEW",NOSSO FUTEBOL - 2 HD
+http://saga10.pro:80/148043/844063/2649052
+#EXTINF:-1 tvg-id="" tvg-name="NOSSO FUTEBOL - 3 HD" tvg-logo="http://tbsrv.me/images/Biifm5rtdRqCOVgLYDRxM5LqCCrf0Yp_0mekcJAA3qBRcI3UPQVaZksNPq-WsrthZKr_KzmZfCKFYM4GvKSyKA.png" group-title="F22 M5 CANAIS | ESPORTES PAY-PER-VIEW",NOSSO FUTEBOL - 3 HD
+http://saga10.pro:80/148043/844063/2649053
+#EXTINF:-1 tvg-id="" tvg-name="NSPORTES 1 FHD" tvg-logo="https://blog.tvnsports.com.br/wp-content/uploads/2021/09/xLogo-Preto.png.pagespeed.ic.zqHinWurw6.png" group-title="F22 M5 CANAIS ESPORTES",NSPORTES 1 FHD
+http://saga10.pro:80/148043/844063/2818801
+#EXTINF:-1 tvg-id="" tvg-name="NSPORTES 3 FHD" tvg-logo="https://blog.tvnsports.com.br/wp-content/uploads/2021/09/xLogo-Preto.png.pagespeed.ic.zqHinWurw6.png" group-title="F22 M5 CANAIS | ESPORTES PAY-PER-VIEW",NSPORTES 3 FHD
+http://saga10.pro:80/148043/844063/2818799
+#EXTINF:-1 tvg-id="" tvg-name="O FANTÁSTICO MUNDO DE BOBBY" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/AX7ijA.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",O FANTÁSTICO MUNDO DE BOBBY
+http://saga10.pro:80/148043/844063/2639423
+#EXTINF:-1 tvg-id="" tvg-name="O MÁSKARA" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/924/WUPyfJ.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",O MÁSKARA
+http://saga10.pro:80/148043/844063/2639424
+#EXTINF:-1 tvg-id="" tvg-name="O PIRATA DO ESPAÇO" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/922/i5VSoe.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",O PIRATA DO ESPAÇO
+http://saga10.pro:80/148043/844063/2639425
+#EXTINF:-1 tvg-id="" tvg-name="O REI DO PEDAÇO" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/rBXhe1.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",O REI DO PEDAÇO
+http://saga10.pro:80/148043/844063/2639426
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="OFF FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo-0.png" group-title="F22 M5 VARIEDADES",OFF FHD
+http://saga10.pro:80/148043/844063/1263409
+#EXTINF:-1 tvg-id="off.br" tvg-name="OFF HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo-0.png" group-title="F22 M5 VARIEDADES",OFF HD
+http://saga10.pro:80/148043/844063/1263408
+#EXTINF:-1 tvg-id="off.br" tvg-name="OFF SD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo-0.png" group-title="F22 M5 VARIEDADES",OFF SD
+http://saga10.pro:80/148043/844063/1263407
+#EXTINF:-1 tvg-id="" tvg-name="OS FLINTSTONES" tvg-logo="https://imagizer.imageshack.com/v2/280x200q90/922/qZrBpA.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",OS FLINTSTONES
+http://saga10.pro:80/148043/844063/2639427
+#EXTINF:-1 tvg-id="" tvg-name="OS JETSONS" tvg-logo="https://imagizer.imageshack.com/v2/280x200q90/923/Zs2XD0.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",OS JETSONS
+http://saga10.pro:80/148043/844063/2639428
+#EXTINF:-1 tvg-id="" tvg-name="OS JOVENS TITANS" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/923/VBMZ98.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",OS JOVENS TITANS
+http://saga10.pro:80/148043/844063/2639429
+#EXTINF:-1 tvg-id="" tvg-name="OS NORMAIS" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/Ab8xa2.png" group-title="F22 M5 ESPECIAIS SERIADOS 24h",OS NORMAIS
+http://saga10.pro:80/148043/844063/2627314
+#EXTINF:-1 tvg-id="" tvg-name="OS PADRINHOS MÁGICOS" tvg-logo="https://imagizer.imageshack.com/img923/8383/Q8xd4y.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",OS PADRINHOS MÁGICOS
+http://saga10.pro:80/148043/844063/2639430
+#EXTINF:-1 tvg-id="" tvg-name="OS PINGUINS DE MADAGASCAR" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/6Xx6Lh.png" group-title="F22 M5 Filmes",OS PINGUINS DE MADAGASCAR
+http://saga10.pro:80/148043/844063/2639431
+#EXTINF:-1 tvg-id="" tvg-name="OS SIMPSONS" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/921/R7HHdp.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",OS SIMPSONS
+http://saga10.pro:80/148043/844063/2639432
+#EXTINF:-1 tvg-id="" tvg-name="OS SMURFS" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/i5bLF8.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",OS SMURFS
+http://saga10.pro:80/148043/844063/2639433
+#EXTINF:-1 tvg-id="" tvg-name="OS TRAPALHÕES - CLÁSSICOS" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/ekWDEp.png" group-title="F22 M5 ESPECIAIS SERIADOS 24h",OS TRAPALHÕES - CLÁSSICOS
+http://saga10.pro:80/148043/844063/2627315
+#EXTINF:-1 tvg-id="" tvg-name="OS TRÊS PATETAS" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/923/P4t7Xv.png" group-title="F22 M5 ESPECIAIS SERIADOS 24h",OS TRÊS PATETAS
+http://saga10.pro:80/148043/844063/2627316
+#EXTINF:-1 tvg-id="" tvg-name="OS URSINHOS GUMMI" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/1bCiJi.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",OS URSINHOS GUMMI
+http://saga10.pro:80/148043/844063/2639434
+#EXTINF:-1 tvg-id="" tvg-name="OS VINGADORES" tvg-logo="https://imagizer.imageshack.com/img922/9453/6wZGO0.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",OS VINGADORES
+http://saga10.pro:80/148043/844063/2639435
+#EXTINF:-1 tvg-id="" tvg-name="PAGODES - CLIPES" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/fvDFKC.png" group-title="F22 M5 ESPECIAIS CLIPES MUSICA 24h",PAGODES - CLIPES
+http://saga10.pro:80/148043/844063/2627280
+#EXTINF:-1 tvg-id="" tvg-name="PANTERA COR DE ROSA" tvg-logo="https://4.bp.blogspot.com/-wMxtQXyabR0/VzJGNPP__YI/AAAAAAABLMU/_TFkz1XeDpcc5-EO6jqxbXuxLByX3tqIQCLcB/s1600/pantera-cor-de-rosa-colorir-pintar-imprimir-desenho-imagem-molde-risco-pink-panther-coloring-pages-dibujos-www.espacoeducar-colorir.com%2B%25281%2529.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",PANTERA COR DE ROSA
+http://saga10.pro:80/148043/844063/2639436
+#EXTINF:-1 tvg-id="" tvg-name="PAPA LÉGUAS" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/unQUTw.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",PAPA LÉGUAS
+http://saga10.pro:80/148043/844063/2639437
+#EXTINF:-1 tvg-id="paramount.network.br" tvg-name="PARAMOUNT FHD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/1kqPRZ.png" group-title="F22 M5 CANAIS FILMES E SERIES",PARAMOUNT FHD
+http://saga10.pro:80/148043/844063/2639920
+#EXTINF:-1 tvg-id="paramount.network.br" tvg-name="PARAMOUNT HD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/1kqPRZ.png" group-title="F22 M5 CANAIS FILMES E SERIES",PARAMOUNT HD
+http://saga10.pro:80/148043/844063/2639921
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT PLUS - 01" tvg-logo="https://i.imgur.com/BLwIrkC.png" group-title="F22 M5 CANAIS | ESPORTES PAY-PER-VIEW",PARAMOUNT PLUS - 01
+http://saga10.pro:80/148043/844063/2649054
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT PLUS - 02" tvg-logo="https://i.imgur.com/BLwIrkC.png" group-title="F22 M5 CANAIS | ESPORTES PAY-PER-VIEW",PARAMOUNT PLUS - 02
+http://saga10.pro:80/148043/844063/2649055
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT PLUS - 03" tvg-logo="https://i.imgur.com/BLwIrkC.png" group-title="F22 M5 CANAIS | ESPORTES PAY-PER-VIEW",PARAMOUNT PLUS - 03
+http://saga10.pro:80/148043/844063/2649056
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT PLUS - 04" tvg-logo="https://i.imgur.com/BLwIrkC.png" group-title="F22 M5 CANAIS | ESPORTES PAY-PER-VIEW",PARAMOUNT PLUS - 04
+http://saga10.pro:80/148043/844063/2649057
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT PLUS - 05" tvg-logo="https://i.imgur.com/BLwIrkC.png" group-title="F22 M5 CANAIS | ESPORTES PAY-PER-VIEW",PARAMOUNT PLUS - 05
+http://saga10.pro:80/148043/844063/2649058
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT PLUS - 06" tvg-logo="https://i.imgur.com/BLwIrkC.png" group-title="F22 M5 CANAIS | ESPORTES PAY-PER-VIEW",PARAMOUNT PLUS - 06
+http://saga10.pro:80/148043/844063/2649059
+#EXTINF:-1 tvg-id="paramount.network.br" tvg-name="PARAMOUNT SD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/1kqPRZ.png" group-title="F22 M5 CANAIS FILMES E SERIES",PARAMOUNT SD
+http://saga10.pro:80/148043/844063/2639922
+#EXTINF:-1 tvg-id="" tvg-name="PATATI PATATA" tvg-logo="https://imagizer.imageshack.com/img921/9915/tNFkhE.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",PATATI PATATA
+http://saga10.pro:80/148043/844063/2639438
+#EXTINF:-1 tvg-id="" tvg-name="PATRULHA CANINA" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/ko9inv.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",PATRULHA CANINA
+http://saga10.pro:80/148043/844063/2639439
+#EXTINF:-1 tvg-id="" tvg-name="PEPE LEGAL" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/aGGCSD.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",PEPE LEGAL
+http://saga10.pro:80/148043/844063/2639440
+#EXTINF:-1 tvg-id="" tvg-name="PEPPA PIG" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/923/sFTjbn.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",PEPPA PIG
+http://saga10.pro:80/148043/844063/2639441
+#EXTINF:-1 tvg-id="" tvg-name="PERNALONGA E SUA TURMA" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/923/EIdbLB.png" group-title="F22 M5 Filmes",PERNALONGA E SUA TURMA
+http://saga10.pro:80/148043/844063/2639442
+#EXTINF:-1 tvg-id="" tvg-name="PICOLINO" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/bYguqo.png" group-title="F22 M5 Filmes",PICOLINO
+http://saga10.pro:80/148043/844063/2639443
+#EXTINF:-1 tvg-id="" tvg-name="PINKY E CÉREBRO" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/923/GOQQ9s.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",PINKY E CÉREBRO
+http://saga10.pro:80/148043/844063/2639444
+#EXTINF:-1 tvg-id="" tvg-name="POKEMON" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/gc7cT9.png" group-title="F22 M5 Filmes",POKEMON
+http://saga10.pro:80/148043/844063/2639445
+#EXTINF:-1 tvg-id="" tvg-name="POLICIA 24H" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/vSEPMm.png" group-title="F22 M5 ESPECIAIS SERIADOS 24h",POLICIA 24H
+http://saga10.pro:80/148043/844063/2627317
+#EXTINF:-1 tvg-id="" tvg-name="POP INTERNACIONAL - CLIPES" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/fvDFKC.png" group-title="F22 M5 ESPECIAIS CLIPES MUSICA 24h",POP INTERNACIONAL - CLIPES
+http://saga10.pro:80/148043/844063/2627281
+#EXTINF:-1 tvg-id="" tvg-name="POP NACIONAL - CLIPES" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/fvDFKC.png" group-title="F22 M5 ESPECIAIS CLIPES MUSICA 24h",POP NACIONAL - CLIPES
+http://saga10.pro:80/148043/844063/2627282
+#EXTINF:-1 tvg-id="" tvg-name="POPEYE" tvg-logo="https://imagizer.imageshack.com/img924/7897/2Iivjh.png" group-title="F22 M5 Filmes",POPEYE
+http://saga10.pro:80/148043/844063/2639447
+#EXTINF:-1 tvg-id="" tvg-name="PORNSTAR HD" tvg-logo="https://seeklogo.com/images/K/Kijkwijzer__18_-logo-EE76BEF576-seeklogo.com.png" group-title="F22 M5 XXX +18 ADULTOS XXX",PORNSTAR HD
+http://saga10.pro:80/148043/844063/2612622
+#EXTINF:-1 tvg-id="" tvg-name="POV HD" tvg-logo="https://seeklogo.com/images/K/Kijkwijzer__18_-logo-EE76BEF576-seeklogo.com.png" group-title="F22 M5 XXX +18 ADULTOS XXX",POV HD
+http://saga10.pro:80/148043/844063/2612623
+#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="PREMIERE 2 FHD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/jbsMeh.png" group-title="F22 M5 CANAIS PREMIERE",PREMIERE 2 FHD
+http://saga10.pro:80/148043/844063/2909015
+#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="PREMIERE 2 HD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/jbsMeh.png" group-title="F22 M5 CANAIS PREMIERE",PREMIERE 2 HD
+http://saga10.pro:80/148043/844063/2909016
+#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="PREMIERE 2 SD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/jbsMeh.png" group-title="F22 M5 CANAIS PREMIERE",PREMIERE 2 SD
+http://saga10.pro:80/148043/844063/2909017
+#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="PREMIERE 3 FHD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/kNe8YK.png" group-title="F22 M5 CANAIS PREMIERE",PREMIERE 3 FHD
+http://saga10.pro:80/148043/844063/2909018
+#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="PREMIERE 3 HD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/kNe8YK.png" group-title="F22 M5 CANAIS PREMIERE",PREMIERE 3 HD
+http://saga10.pro:80/148043/844063/2909019
+#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="PREMIERE 3 SD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/kNe8YK.png" group-title="F22 M5 CANAIS PREMIERE",PREMIERE 3 SD
+http://saga10.pro:80/148043/844063/2909020
+#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="PREMIERE 4 FHD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/924/dxZgq6.png" group-title="F22 M5 CANAIS PREMIERE",PREMIERE 4 FHD
+http://saga10.pro:80/148043/844063/2909021
+#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="PREMIERE 4 HD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/924/dxZgq6.png" group-title="F22 M5 CANAIS PREMIERE",PREMIERE 4 HD
+http://saga10.pro:80/148043/844063/2909022
+#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="PREMIERE 4 SD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/924/dxZgq6.png" group-title="F22 M5 CANAIS PREMIERE",PREMIERE 4 SD
+http://saga10.pro:80/148043/844063/2909023
+#EXTINF:-1 tvg-id="premiere.5.br" tvg-name="PREMIERE 5 FHD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/923/y7gI6S.png" group-title="F22 M5 CANAIS PREMIERE",PREMIERE 5 FHD
+http://saga10.pro:80/148043/844063/2909024
+#EXTINF:-1 tvg-id="premiere.5.br" tvg-name="PREMIERE 5 HD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/923/y7gI6S.png" group-title="F22 M5 CANAIS PREMIERE",PREMIERE 5 HD
+http://saga10.pro:80/148043/844063/2909025
+#EXTINF:-1 tvg-id="premiere.5.br" tvg-name="PREMIERE 5 SD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/923/y7gI6S.png" group-title="F22 M5 CANAIS PREMIERE",PREMIERE 5 SD
+http://saga10.pro:80/148043/844063/2909026
+#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="PREMIERE 6 FHD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/0RQIRP.png" group-title="F22 M5 CANAIS PREMIERE",PREMIERE 6 FHD
+http://saga10.pro:80/148043/844063/2909027
+#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="PREMIERE 6 HD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/0RQIRP.png" group-title="F22 M5 CANAIS PREMIERE",PREMIERE 6 HD
+http://saga10.pro:80/148043/844063/2909028
+#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="PREMIERE 6 SD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/0RQIRP.png" group-title="F22 M5 CANAIS PREMIERE",PREMIERE 6 SD
+http://saga10.pro:80/148043/844063/2909029
+#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="PREMIERE 7 FHD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/YJbbQ6.png" group-title="F22 M5 CANAIS PREMIERE",PREMIERE 7 FHD
+http://saga10.pro:80/148043/844063/2909030
+#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="PREMIERE 7 HD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/YJbbQ6.png" group-title="F22 M5 CANAIS PREMIERE",PREMIERE 7 HD
+http://saga10.pro:80/148043/844063/2909031
+#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="PREMIERE 7 SD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/YJbbQ6.png" group-title="F22 M5 CANAIS PREMIERE",PREMIERE 7 SD
+http://saga10.pro:80/148043/844063/2909032
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="PREMIERE CLUBES FHD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/UUQW0b.png" group-title="F22 M5 CANAIS PREMIERE",PREMIERE CLUBES FHD
+http://saga10.pro:80/148043/844063/2909035
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="PREMIERE CLUBES HD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/UUQW0b.png" group-title="F22 M5 CANAIS PREMIERE",PREMIERE CLUBES HD
+http://saga10.pro:80/148043/844063/2909036
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="PREMIERE CLUBES SD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/UUQW0b.png" group-title="F22 M5 CANAIS PREMIERE",PREMIERE CLUBES SD
+http://saga10.pro:80/148043/844063/2909037
+#EXTINF:-1 tvg-id="" tvg-name="PROGRAMA FANTASIA (CLÁSSICO)" tvg-logo="http://upload.wikimedia.org/wikipedia/pt/9/97/Fantasia-programa.jpg" group-title="F22 M5 ESPECIAIS SERIADOS 24h",PROGRAMA FANTASIA (CLÁSSICO)
+http://saga10.pro:80/148043/844063/2627318
+#EXTINF:-1 tvg-id="" tvg-name="PROGRAMA LIVRE (CLÁSSICO)" tvg-logo="http://upload.wikimedia.org/wikipedia/pt/4/4a/Programalivre-200x150.jpg" group-title="F22 M5 ESPECIAIS SERIADOS 24h",PROGRAMA LIVRE (CLÁSSICO)
+http://saga10.pro:80/148043/844063/2627319
+#EXTINF:-1 tvg-id="" tvg-name="PROGRAMA PLANETA XUXA (CLÁSSICO)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/17/Planeta_Xuxa.jpg/250px-Planeta_Xuxa.jpg" group-title="F22 M5 ESPECIAIS SERIADOS 24h",PROGRAMA PLANETA XUXA (CLÁSSICO)
+http://saga10.pro:80/148043/844063/2627320
+#EXTINF:-1 tvg-id="" tvg-name="PROGRAMA PÂNICO - NARCOS (CLÁSSICO)" tvg-logo="http://jpimg.com.br/uploads/2017/04/3908938880-panico-na-band-300x170.png" group-title="F22 M5 ESPECIAIS SERIADOS 24h",PROGRAMA PÂNICO - NARCOS (CLÁSSICO)
+http://saga10.pro:80/148043/844063/2627321
+#EXTINF:-1 tvg-id="" tvg-name="PROGRAMA PÂNICO - REI DROGADO (CLÁSSICO)" tvg-logo="http://jpimg.com.br/uploads/2017/04/3908938880-panico-na-band-300x170.png" group-title="F22 M5 ESPECIAIS SERIADOS 24h",PROGRAMA PÂNICO - REI DROGADO (CLÁSSICO)
+http://saga10.pro:80/148043/844063/2627322
+#EXTINF:-1 tvg-id="" tvg-name="PROGRAMA RETRATO FALADO (CLÁSSICO)" tvg-logo="http://i.ytimg.com/vi/3BgOUwbfhCI/hqdefault.jpg" group-title="F22 M5 ESPECIAIS SERIADOS 24h",PROGRAMA RETRATO FALADO (CLÁSSICO)
+http://saga10.pro:80/148043/844063/2627323
+#EXTINF:-1 tvg-id="" tvg-name="PROGRAMA SABADÃO SERTANEJO (CLÁSSICO)" tvg-logo="http://upload.wikimedia.org/wikipedia/pt/7/7a/Festival_Sertanejo.jpg" group-title="F22 M5 ESPECIAIS SERIADOS 24h",PROGRAMA SABADÃO SERTANEJO (CLÁSSICO)
+http://saga10.pro:80/148043/844063/2627324
+#EXTINF:-1 tvg-id="" tvg-name="PROGRAMA SHOW DO MILHÃO (CLÁSSICO)" tvg-logo="http://upload.wikimedia.org/wikipedia/pt/2/20/Showdomilhaosbt.jpg" group-title="F22 M5 ESPECIAIS SERIADOS 24h",PROGRAMA SHOW DO MILHÃO (CLÁSSICO)
+http://saga10.pro:80/148043/844063/2627325
+#EXTINF:-1 tvg-id="" tvg-name="PROGRAMA TRÓFEU IMPRENSA (CLÁSSICO)" tvg-logo="http://sfnoticias.com.br/wp-content/uploads/2015/04/capa1.jpg" group-title="F22 M5 ESPECIAIS SERIADOS 24h",PROGRAMA TRÓFEU IMPRENSA (CLÁSSICO)
+http://saga10.pro:80/148043/844063/2627326
+#EXTINF:-1 tvg-id="" tvg-name="PROGRAMA TV CRUJ (CLÁSSICO)" tvg-logo="http://vejasp.abril.com.br/wp-content/uploads/2020/11/1604601686659.jpg?quality=70&strip=info&w=640&resize=1200,800" group-title="F22 M5 ESPECIAIS SERIADOS 24h",PROGRAMA TV CRUJ (CLÁSSICO)
+http://saga10.pro:80/148043/844063/2627327
+#EXTINF:-1 tvg-id="" tvg-name="RABUGENTO" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/MWc3uK.png" group-title="F22 M5 Filmes",RABUGENTO
+http://saga10.pro:80/148043/844063/2639448
+#EXTINF:-1 tvg-id="" tvg-name="RECRUTA ZERO E HAGAR O TERRÍVEL" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/924/903EM1.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",RECRUTA ZERO E HAGAR O TERRÍVEL
+http://saga10.pro:80/148043/844063/2639449
+#EXTINF:-1 tvg-id="rede.brasil.br" tvg-name="REDE BRASIL SD" tvg-logo="http://www.imprensaemidia.com.br/wp-content/uploads/2018/04/LOGO-RBTV-Alta-resolu%C3%A7%C3%A3o.png" group-title="F22 M5 CANAIS ABERTOS",REDE BRASIL SD
+http://saga10.pro:80/148043/844063/1263324
+#EXTINF:-1 tvg-id="rede.familia.br" tvg-name="REDE FAMÍLIA HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/924/29yTmQ.png" group-title="F22 M5 CANAIS ABERTOS",REDE FAMÍLIA HD
+http://saga10.pro:80/148043/844063/1263325
+#EXTINF:-1 tvg-id="rede.gospel.br" tvg-name="REDE GOSPEL" tvg-logo="http://upload.wikimedia.org/wikipedia/pt/thumb/b/ba/LGT_Rede_Gospel.png/470px-LGT_Rede_Gospel.png" group-title="F22 M5 Filmes",REDE GOSPEL
+http://saga10.pro:80/148043/844063/1263135
+#EXTINF:-1 tvg-id="rede.super.br" tvg-name="REDE SUPER" tvg-logo="https://i1.wp.com/www.pibcuritiba.org.br/wp-content/uploads/2016/07/rede-super-logo-tv.png?w=1080&ssl=1" group-title="F22 M5 Filmes",REDE SUPER
+http://saga10.pro:80/148043/844063/1263136
+#EXTINF:-1 tvg-id="rede.vida.br" tvg-name="REDE VIDA HD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/nhVvbA.png" group-title="F22 M5 RELIGIOSOS",REDE VIDA HD
+http://saga10.pro:80/148043/844063/1263137
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="REDETV! FHD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/924/1Tz7RO.png" group-title="F22 M5 CANAIS ABERTOS",REDETV! FHD
+http://saga10.pro:80/148043/844063/1263328
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDETV! HD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/924/1Tz7RO.png" group-title="F22 M5 CANAIS ABERTOS",REDETV! HD
+http://saga10.pro:80/148043/844063/1263327
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDETV! SD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/924/1Tz7RO.png" group-title="F22 M5 CANAIS ABERTOS",REDETV! SD
+http://saga10.pro:80/148043/844063/1263326
+#EXTINF:-1 tvg-id="" tvg-name="RETRO MUSIC - CLIPES" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/fvDFKC.png" group-title="F22 M5 ESPECIAIS CLIPES MUSICA 24h",RETRO MUSIC - CLIPES
+http://saga10.pro:80/148043/844063/2627283
+#EXTINF:-1 tvg-id="" tvg-name="RIQUINHO RICO" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/LBvJ9w.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",RIQUINHO RICO
+http://saga10.pro:80/148043/844063/2639450
+#EXTINF:-1 tvg-id="" tvg-name="ROCK ROLL - CLIPES" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/fvDFKC.png" group-title="F22 M5 ESPECIAIS CLIPES MUSICA 24h",ROCK ROLL - CLIPES
+http://saga10.pro:80/148043/844063/2627284
+#EXTINF:-1 tvg-id="" tvg-name="RUSSIAN" tvg-logo="https://seeklogo.com/images/K/Kijkwijzer__18_-logo-EE76BEF576-seeklogo.com.png" group-title="F22 M5 XXX +18 ADULTOS XXX",RUSSIAN
+http://saga10.pro:80/148043/844063/2612624
+#EXTINF:-1 tvg-id="" tvg-name="SABRINA - A BRUXINHA ADOLESCENTE" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/HRce4i.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",SABRINA - A BRUXINHA ADOLESCENTE
+http://saga10.pro:80/148043/844063/2639451
+#EXTINF:-1 tvg-id="" tvg-name="SAKURA CARD CAPTORS" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/ZRg2Sd.png" group-title="F22 M5 Filmes",SAKURA CARD CAPTORS
+http://saga10.pro:80/148043/844063/2639452
+#EXTINF:-1 tvg-id="" tvg-name="SAMURAI JACK" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/1z4I4p.png" group-title="F22 M5 Filmes",SAMURAI JACK
+http://saga10.pro:80/148043/844063/2639453
+#EXTINF:-1 tvg-id="" tvg-name="SCOOBY DOO" tvg-logo="http://imageshack.com/a/img922/7168/9FBTC5.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",SCOOBY DOO
+http://saga10.pro:80/148043/844063/2639454
+#EXTINF:-1 tvg-id="" tvg-name="SERTANEJOS - CLIPES" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/fvDFKC.png" group-title="F22 M5 ESPECIAIS CLIPES MUSICA 24h",SERTANEJOS - CLIPES
+http://saga10.pro:80/148043/844063/2627285
+#EXTINF:-1 tvg-id="" tvg-name="SHAZZAN" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/922/df4CNd.png" group-title="F22 M5 Filmes",SHAZZAN
+http://saga10.pro:80/148043/844063/2639455
+#EXTINF:-1 tvg-id="" tvg-name="SHURATO" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/fHvBrk.png" group-title="F22 M5 Filmes",SHURATO
+http://saga10.pro:80/148043/844063/2639456
+#EXTINF:-1 tvg-id="" tvg-name="SNOOPY" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/LtOKv1.png" group-title="F22 M5 Filmes",SNOOPY
+http://saga10.pro:80/148043/844063/2639458
+#EXTINF:-1 tvg-id="" tvg-name="SOBRENATURAL" tvg-logo="https://cinema10.com.br/upload/series/series_4_MV5BMTJhM2VhZDItMTk4OS00MTRjLTlmMDQtNzEyYmM0NDA0YjhjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_SX670_AL_.jpg" group-title="F22 M5 Filmes",SOBRENATURAL
+http://saga10.pro:80/148043/844063/2639483
+#EXTINF:-1 tvg-id="" tvg-name="SONIC-X" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/Ukx38F.png" group-title="F22 M5 Filmes",SONIC-X
+http://saga10.pro:80/148043/844063/2639459
+#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE FHD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/KVkqxa.png" group-title="F22 M5 CANAIS FILMES E SERIES",SPACE FHD
+http://saga10.pro:80/148043/844063/2639923
+#EXTINF:-1 tvg-id="" tvg-name="SPACE GOOFS" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/923/zRzDhy.png" group-title="F22 M5 Filmes",SPACE GOOFS
+http://saga10.pro:80/148043/844063/2639460
+#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE HD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/KVkqxa.png" group-title="F22 M5 CANAIS FILMES E SERIES",SPACE HD
+http://saga10.pro:80/148043/844063/2639924
+#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE SD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/KVkqxa.png" group-title="F22 M5 CANAIS FILMES E SERIES",SPACE SD
+http://saga10.pro:80/148043/844063/2639925
+#EXTINF:-1 tvg-id="" tvg-name="SPEED RACER" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/tItxbg.png" group-title="F22 M5 Filmes",SPEED RACER
+http://saga10.pro:80/148043/844063/2639461
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 FHD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/73crmZ.png" group-title="F22 M5 CANAIS SPORTV",SPORTV 2 FHD
+http://saga10.pro:80/148043/844063/2909004
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/73crmZ.png" group-title="F22 M5 CANAIS SPORTV",SPORTV 2 HD
+http://saga10.pro:80/148043/844063/2909005
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/73crmZ.png" group-title="F22 M5 CANAIS SPORTV",SPORTV 2 SD
+http://saga10.pro:80/148043/844063/2909006
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 FHD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/CaPuNh.png" group-title="F22 M5 CANAIS SPORTV",SPORTV 3 FHD
+http://saga10.pro:80/148043/844063/2909007
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/CaPuNh.png" group-title="F22 M5 CANAIS SPORTV",SPORTV 3 HD
+http://saga10.pro:80/148043/844063/2909008
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/CaPuNh.png" group-title="F22 M5 CANAIS SPORTV",SPORTV 3 SD
+http://saga10.pro:80/148043/844063/2909009
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV FHD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/A6RGQN.png" group-title="F22 M5 CANAIS SPORTV",SPORTV FHD
+http://saga10.pro:80/148043/844063/2909010
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/A6RGQN.png" group-title="F22 M5 CANAIS SPORTV",SPORTV HD
+http://saga10.pro:80/148043/844063/2909011
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/A6RGQN.png" group-title="F22 M5 CANAIS SPORTV",SPORTV SD
+http://saga10.pro:80/148043/844063/2909012
+#EXTINF:-1 tvg-id="" tvg-name="STAR TREK - (CLÁSSICO)" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/923/ipo4nn.png" group-title="F22 M5 ESPECIAIS SERIADOS 24h",STAR TREK - (CLÁSSICO)
+http://saga10.pro:80/148043/844063/2627328
+#EXTINF:-1 tvg-id="" tvg-name="STAR WARS - THE CLONE WARS" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/31ePLp.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",STAR WARS - THE CLONE WARS
+http://saga10.pro:80/148043/844063/2639462
+#EXTINF:-1 tvg-id="" tvg-name="STREET FIGHTER" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/UoZBcq.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",STREET FIGHTER
+http://saga10.pro:80/148043/844063/2639463
+#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="STUDIO UNIVERSAL FHD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/Jbr3A1.png" group-title="F22 M5 CANAIS FILMES E SERIES",STUDIO UNIVERSAL FHD
+http://saga10.pro:80/148043/844063/2639929
+#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/Jbr3A1.png" group-title="F22 M5 CANAIS FILMES E SERIES",STUDIO UNIVERSAL HD
+http://saga10.pro:80/148043/844063/2639930
+#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="STUDIO UNIVERSAL SD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/Jbr3A1.png" group-title="F22 M5 CANAIS FILMES E SERIES",STUDIO UNIVERSAL SD
+http://saga10.pro:80/148043/844063/2639931
+#EXTINF:-1 tvg-id="" tvg-name="SUPER AMIGOS" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/oy7b0w.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",SUPER AMIGOS
+http://saga10.pro:80/148043/844063/2639464
+#EXTINF:-1 tvg-id="" tvg-name="SUPER HOMEM" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/hwwN1U.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",SUPER HOMEM
+http://saga10.pro:80/148043/844063/2639465
+#EXTINF:-1 tvg-id="" tvg-name="SUPER SHOCK" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/923/uZvxoy.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",SUPER SHOCK
+http://saga10.pro:80/148043/844063/2639466
+#EXTINF:-1 tvg-id="" tvg-name="SURFISTA PRATEADO" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/924/optSlM.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",SURFISTA PRATEADO
+http://saga10.pro:80/148043/844063/2639467
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="SYFY FHD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/5b1MAd.png" group-title="F22 M5 CANAIS FILMES E SERIES",SYFY FHD
+http://saga10.pro:80/148043/844063/2639932
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="SYFY HD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/5b1MAd.png" group-title="F22 M5 CANAIS FILMES E SERIES",SYFY HD
+http://saga10.pro:80/148043/844063/2639933
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="SYFY SD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/5b1MAd.png" group-title="F22 M5 CANAIS FILMES E SERIES",SYFY SD
+http://saga10.pro:80/148043/844063/2639934
+#EXTINF:-1 tvg-id="" tvg-name="TARTARUGA TOUCHE" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/uLraje.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",TARTARUGA TOUCHE
+http://saga10.pro:80/148043/844063/2639468
+#EXTINF:-1 tvg-id="" tvg-name="TAZ MANIA" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/923/Q0stVV.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",TAZ MANIA
+http://saga10.pro:80/148043/844063/2639469
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TELECINE ACTION FHD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/qTBtLH.png" group-title="F22 M5 CANAIS TELECINE",TELECINE ACTION FHD
+http://saga10.pro:80/148043/844063/1263090
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TELECINE ACTION HD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/qTBtLH.png" group-title="F22 M5 CANAIS TELECINE",TELECINE ACTION HD
+http://saga10.pro:80/148043/844063/1263089
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TELECINE ACTION SD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/qTBtLH.png" group-title="F22 M5 CANAIS TELECINE",TELECINE ACTION SD
+http://saga10.pro:80/148043/844063/1263088
+#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="TELECINE CULT FHD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/CPK6Ml.png" group-title="F22 M5 CANAIS TELECINE",TELECINE CULT FHD
+http://saga10.pro:80/148043/844063/1263093
+#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="TELECINE CULT HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/CPK6Ml.png" group-title="F22 M5 CANAIS TELECINE",TELECINE CULT HD
+http://saga10.pro:80/148043/844063/1263092
+#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="TELECINE CULT SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/CPK6Ml.png" group-title="F22 M5 CANAIS TELECINE",TELECINE CULT SD
+http://saga10.pro:80/148043/844063/1263091
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="TELECINE FUN FHD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/DLEPuL.png" group-title="F22 M5 CANAIS TELECINE",TELECINE FUN FHD
+http://saga10.pro:80/148043/844063/1263096
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="TELECINE FUN HD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/DLEPuL.png" group-title="F22 M5 CANAIS TELECINE",TELECINE FUN HD
+http://saga10.pro:80/148043/844063/1263095
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="TELECINE FUN SD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/DLEPuL.png" group-title="F22 M5 CANAIS TELECINE",TELECINE FUN SD
+http://saga10.pro:80/148043/844063/1263094
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="TELECINE PIPOCA FHD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/46pL8w.png" group-title="F22 M5 CANAIS TELECINE",TELECINE PIPOCA FHD
+http://saga10.pro:80/148043/844063/1263099
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="TELECINE PIPOCA HD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/46pL8w.png" group-title="F22 M5 CANAIS TELECINE",TELECINE PIPOCA HD
+http://saga10.pro:80/148043/844063/1263098
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="TELECINE PIPOCA SD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/46pL8w.png" group-title="F22 M5 CANAIS TELECINE",TELECINE PIPOCA SD
+http://saga10.pro:80/148043/844063/1263097
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="TELECINE PREMIUM FHD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/p7DGJi.png" group-title="F22 M5 CANAIS TELECINE",TELECINE PREMIUM FHD
+http://saga10.pro:80/148043/844063/1263102
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/p7DGJi.png" group-title="F22 M5 CANAIS TELECINE",TELECINE PREMIUM HD
+http://saga10.pro:80/148043/844063/1263101
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="TELECINE PREMIUM SD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/p7DGJi.png" group-title="F22 M5 CANAIS TELECINE",TELECINE PREMIUM SD
+http://saga10.pro:80/148043/844063/1263100
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="TELECINE TOUCH FHD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/EIDqSw.png" group-title="F22 M5 CANAIS TELECINE",TELECINE TOUCH FHD
+http://saga10.pro:80/148043/844063/1263105
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="TELECINE TOUCH HD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/EIDqSw.png" group-title="F22 M5 CANAIS TELECINE",TELECINE TOUCH HD
+http://saga10.pro:80/148043/844063/1263104
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="TELECINE TOUCH SD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/EIDqSw.png" group-title="F22 M5 CANAIS TELECINE",TELECINE TOUCH SD
+http://saga10.pro:80/148043/844063/1263103
+#EXTINF:-1 tvg-id="terra.viva.br" tvg-name="TERRA VIVA" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/BBdTfu.png" group-title="F22 M5 CANAIS ABERTOS",TERRA VIVA
+http://saga10.pro:80/148043/844063/1263336
+#EXTINF:-1 tvg-id="" tvg-name="THE BIG BAN THEORY" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/nZLMQX.png" group-title="F22 M5 ESPECIAIS SERIADOS 24h",THE BIG BAN THEORY
+http://saga10.pro:80/148043/844063/2627329
+#EXTINF:-1 tvg-id="" tvg-name="THUNDERCATS" tvg-logo="https://imagizer.imageshack.com/img921/322/sMQof0.png" group-title="F22 M5 Filmes",THUNDERCATS
+http://saga10.pro:80/148043/844063/2639470
+#EXTINF:-1 tvg-id="" tvg-name="TICO E TECO" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/WZDsMi.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",TICO E TECO
+http://saga10.pro:80/148043/844063/2639471
+#EXTINF:-1 tvg-id="" tvg-name="TIMÃO E PUMBA" tvg-logo="https://imagizer.imageshack.com/img922/8126/z1Zw6K.gif" group-title="F22 M5 ESPECIAIS DESENHOS 24h",TIMÃO E PUMBA
+http://saga10.pro:80/148043/844063/2639472
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="TLC FHD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/55JFAv.png" group-title="F22 M5 VARIEDADES",TLC FHD
+http://saga10.pro:80/148043/844063/1263415
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC HD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/55JFAv.png" group-title="F22 M5 VARIEDADES",TLC HD
+http://saga10.pro:80/148043/844063/1263414
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC SD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/55JFAv.png" group-title="F22 M5 VARIEDADES",TLC SD
+http://saga10.pro:80/148043/844063/1263413
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT FHD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/NAETrb.png" group-title="F22 M5 CANAIS FILMES E SERIES",TNT FHD
+http://saga10.pro:80/148043/844063/2639935
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/NAETrb.png" group-title="F22 M5 CANAIS FILMES E SERIES",TNT HD
+http://saga10.pro:80/148043/844063/2639936
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/NAETrb.png" group-title="F22 M5 CANAIS FILMES E SERIES",TNT SD
+http://saga10.pro:80/148043/844063/2639937
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 01" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/BydI0U.png" group-title="F22 M5 CANAIS | ESPORTES PAY-PER-VIEW",TNT SPORTS 01
+http://saga10.pro:80/148043/844063/2649063
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 02" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/BydI0U.png" group-title="F22 M5 CANAIS | ESPORTES PAY-PER-VIEW",TNT SPORTS 02
+http://saga10.pro:80/148043/844063/2649064
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 03" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/BydI0U.png" group-title="F22 M5 CANAIS | ESPORTES PAY-PER-VIEW",TNT SPORTS 03
+http://saga10.pro:80/148043/844063/2649065
+#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT SÉRIES FHD" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/qcqLWr.png" group-title="F22 M5 CANAIS FILMES E SERIES",TNT SÉRIES FHD
+http://saga10.pro:80/148043/844063/2639938
+#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT SÉRIES HD" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/qcqLWr.png" group-title="F22 M5 CANAIS FILMES E SERIES",TNT SÉRIES HD
+http://saga10.pro:80/148043/844063/2639939
+#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT SÉRIES SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/qcqLWr.png" group-title="F22 M5 CANAIS FILMES E SERIES",TNT SÉRIES SD
+http://saga10.pro:80/148043/844063/2639940
+#EXTINF:-1 tvg-id="" tvg-name="TODO MUNDO ODEIA O CRIS" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/923/HUmzYG.png" group-title="F22 M5 ESPECIAIS SERIADOS 24h",TODO MUNDO ODEIA O CRIS
+http://saga10.pro:80/148043/844063/2627330
+#EXTINF:-1 tvg-id="" tvg-name="TODO MUNDO ODEIA O CRIS T01" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/923/HUmzYG.png" group-title="F22 M5 ESPECIAIS SERIADOS 24h",TODO MUNDO ODEIA O CRIS T01
+http://saga10.pro:80/148043/844063/2627331
+#EXTINF:-1 tvg-id="" tvg-name="TODO MUNDO ODEIA O CRIS T02" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/923/HUmzYG.png" group-title="F22 M5 ESPECIAIS SERIADOS 24h",TODO MUNDO ODEIA O CRIS T02
+http://saga10.pro:80/148043/844063/2627332
+#EXTINF:-1 tvg-id="" tvg-name="TODO MUNDO ODEIA O CRIS T03" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/923/HUmzYG.png" group-title="F22 M5 ESPECIAIS SERIADOS 24h",TODO MUNDO ODEIA O CRIS T03
+http://saga10.pro:80/148043/844063/2627333
+#EXTINF:-1 tvg-id="" tvg-name="TODO MUNDO ODEIA O CRIS T04" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/923/HUmzYG.png" group-title="F22 M5 ESPECIAIS SERIADOS 24h",TODO MUNDO ODEIA O CRIS T04
+http://saga10.pro:80/148043/844063/2627334
+#EXTINF:-1 tvg-id="" tvg-name="TOM & JERRY" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/5k2iQk.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",TOM & JERRY
+http://saga10.pro:80/148043/844063/2639473
+#EXTINF:-1 tvg-id="" tvg-name="TORO E PANCHO" tvg-logo="https://imagizer.imageshack.com/img923/7039/TrGVLD.gif" group-title="F22 M5 Filmes",TORO E PANCHO
+http://saga10.pro:80/148043/844063/2639474
+#EXTINF:-1 tvg-id="trace.brazuca.br" tvg-name="TRACE BRAZUCA FHD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/Os36JR.png" group-title="F22 M5 MUSICA",TRACE BRAZUCA FHD
+http://saga10.pro:80/148043/844063/1263367
+#EXTINF:-1 tvg-id="trace.brazuca.br" tvg-name="TRACE BRAZUCA HD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/Os36JR.png" group-title="F22 M5 MUSICA",TRACE BRAZUCA HD
+http://saga10.pro:80/148043/844063/1263366
+#EXTINF:-1 tvg-id="trace.brazuca.br" tvg-name="TRACE BRAZUCA SD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/Os36JR.png" group-title="F22 M5 MUSICA",TRACE BRAZUCA SD
+http://saga10.pro:80/148043/844063/1263365
+#EXTINF:-1 tvg-id="" tvg-name="TRANSFORMERS" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/923/YXAz95.png" group-title="F22 M5 Filmes",TRANSFORMERS
+http://saga10.pro:80/148043/844063/2639475
+#EXTINF:-1 tvg-id="" tvg-name="TRANSFORMERS BEAST MACHINES" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/922/iSh7kn.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",TRANSFORMERS BEAST MACHINES
+http://saga10.pro:80/148043/844063/2639476
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="TRAVEL BOX BRAZIL FHD" tvg-logo="https://cdn.mitvstatic.com/channels/br_travel-box-brazil_m.png" group-title="F22 M5 VARIEDADES",TRAVEL BOX BRAZIL FHD
+http://saga10.pro:80/148043/844063/1263418
+#EXTINF:-1 tvg-id="travel.box.brazil.br" tvg-name="TRAVEL BOX BRAZIL HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_travel-box-brazil_m.png" group-title="F22 M5 VARIEDADES",TRAVEL BOX BRAZIL HD
+http://saga10.pro:80/148043/844063/1263417
+#EXTINF:-1 tvg-id="travel.box.brazil.br" tvg-name="TRAVEL BOX BRAZIL SD" tvg-logo="https://cdn.mitvstatic.com/channels/br_travel-box-brazil_m.png" group-title="F22 M5 VARIEDADES",TRAVEL BOX BRAZIL SD
+http://saga10.pro:80/148043/844063/1263416
+#EXTINF:-1 tvg-id="" tvg-name="TRES ESPIAS DEMAIS" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/BUn2Dx.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",TRES ESPIAS DEMAIS
+http://saga10.pro:80/148043/844063/2639477
+#EXTINF:-1 tvg-id="tv.aparecida.br" tvg-name="TV APARECIDA HD" tvg-logo="https://imageshack.com/a/img923/6936/3OeYjR.png" group-title="F22 M5 RELIGIOSOS",TV APARECIDA HD
+http://saga10.pro:80/148043/844063/1263138
+#EXTINF:-1 tvg-id="tv.brasil.br" tvg-name="TV BRASIL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/TV_Brasil_logo.png" group-title="F22 M5 CANAIS ABERTOS",TV BRASIL FHD
+http://saga10.pro:80/148043/844063/1263339
+#EXTINF:-1 tvg-id="tv.brasil.br" tvg-name="TV BRASIL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/TV_Brasil_logo.png" group-title="F22 M5 CANAIS ABERTOS",TV BRASIL HD
+http://saga10.pro:80/148043/844063/1263338
+#EXTINF:-1 tvg-id="tv.brasil.br" tvg-name="TV BRASIL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/TV_Brasil_logo.png" group-title="F22 M5 CANAIS ABERTOS",TV BRASIL SD
+http://saga10.pro:80/148043/844063/1263337
+#EXTINF:-1 tvg-id="" tvg-name="TV CRISTO VIVE" tvg-logo="https://imagizer.imageshack.com/v2/280x200q90/924/ALK4yS.png" group-title="F22 M5 RELIGIOSOS",TV CRISTO VIVE
+http://saga10.pro:80/148043/844063/1263139
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="TV CULTURA FHD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/TPnvmR.png" group-title="F22 M5 CANAIS ABERTOS",TV CULTURA FHD
+http://saga10.pro:80/148043/844063/1263343
+#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV CULTURA HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/TPnvmR.png" group-title="F22 M5 CANAIS ABERTOS",TV CULTURA HD
+http://saga10.pro:80/148043/844063/1263342
+#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV CULTURA SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/TPnvmR.png" group-title="F22 M5 CANAIS ABERTOS",TV CULTURA SD
+http://saga10.pro:80/148043/844063/1263341
+#EXTINF:-1 tvg-id="tv.camara.br" tvg-name="TV CÂMARA" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/7K1pAt.jpg" group-title="F22 M5 CANAIS ABERTOS",TV CÂMARA
+http://saga10.pro:80/148043/844063/1263340
+#EXTINF:-1 tvg-id="tv.escola.br" tvg-name="TV ESCOLA SD" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/922/pZ7O8i.png" group-title="F22 M5 Filmes",TV ESCOLA SD
+http://saga10.pro:80/148043/844063/1263344
+#EXTINF:-1 tvg-id="" tvg-name="TV ESPAÇO ESPÍRITA" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/npO2vh.png" group-title="F22 M5 RELIGIOSOS",TV ESPAÇO ESPÍRITA
+http://saga10.pro:80/148043/844063/1263140
+#EXTINF:-1 tvg-id="TV Evangelizar SD" tvg-name="TV EVANGELIZAR" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/921/TAa54t.png" group-title="F22 M5 RELIGIOSOS",TV EVANGELIZAR
+http://saga10.pro:80/148043/844063/1263141
+#EXTINF:-1 tvg-id="tv.justica.br" tvg-name="TV JUSTIÇA" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/LpBVpR.png" group-title="F22 M5 CANAIS ABERTOS",TV JUSTIÇA
+http://saga10.pro:80/148043/844063/1263346
+#EXTINF:-1 tvg-id="tv.mundial.br" tvg-name="TV MUNDIAL" tvg-logo="https://logodownload.org/wp-content/uploads/2014/10/igreja-mundial-do-poder-de-deus-logo-simbolo-4.png" group-title="F22 M5 RELIGIOSOS",TV MUNDIAL
+http://saga10.pro:80/148043/844063/1263142
+#EXTINF:-1 tvg-id="tv.novo.tempo.br" tvg-name="TV NOVO TEMPO HD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/rzf5NE.png" group-title="F22 M5 RELIGIOSOS",TV NOVO TEMPO HD
+http://saga10.pro:80/148043/844063/1263143
+#EXTINF:-1 tvg-id="" tvg-name="TV PAI ETERNO HD" tvg-logo="http://imageshack.com/a/img922/7467/FH96Y1.png" group-title="F22 M5 RELIGIOSOS",TV PAI ETERNO HD
+http://saga10.pro:80/148043/844063/1263144
+#EXTINF:-1 tvg-id="tv.ra.tim.bum.br" tvg-name="TV RÁ TIM BUM FHD" tvg-logo="http://images.mi.tv/channels/br_ra-tim-bum-1_m.png" group-title="F22 M5 CANAIS INFANTIS",TV RÁ TIM BUM FHD
+http://saga10.pro:80/148043/844063/1263458
+#EXTINF:-1 tvg-id="tv.ra.tim.bum.br" tvg-name="TV RÁ TIM BUM HD" tvg-logo="http://images.mi.tv/channels/br_ra-tim-bum-1_m.png" group-title="F22 M5 CANAIS INFANTIS",TV RÁ TIM BUM HD
+http://saga10.pro:80/148043/844063/1263457
+#EXTINF:-1 tvg-id="tv.ra.tim.bum.br" tvg-name="TV RÁ TIM BUM SD" tvg-logo="http://images.mi.tv/channels/br_ra-tim-bum-1_m.png" group-title="F22 M5 CANAIS INFANTIS",TV RÁ TIM BUM SD
+http://saga10.pro:80/148043/844063/1263456
+#EXTINF:-1 tvg-id="tv.senado.br" tvg-name="TV SENADO" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/TISeDi.png" group-title="F22 M5 CANAIS ABERTOS",TV SENADO
+http://saga10.pro:80/148043/844063/1263347
+#EXTINF:-1 tvg-id="tv.uniao.br" tvg-name="TV UNIVERSAL" tvg-logo="https://logodownload.org/wp-content/uploads/2014/10/igreja-umiversal-logo-simbolo.gif" group-title="F22 M5 RELIGIOSOS",TV UNIVERSAL
+http://saga10.pro:80/148043/844063/1263145
+#EXTINF:-1 tvg-id="tve.bahia.br" tvg-name="TVE BRASIL SD" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/923/XF7jhD.png" group-title="F22 M5 CANAIS ABERTOS",TVE BRASIL SD
+http://saga10.pro:80/148043/844063/1263348
+#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/fYoMcp.png" group-title="F22 M5 CANAIS | ESPORTES PAY-PER-VIEW",UFC FIGHT PASS
+http://saga10.pro:80/148043/844063/2649066
+#EXTINF:-1 tvg-id="" tvg-name="UFC FIGTH PASS 2" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/fYoMcp.png" group-title="F22 M5 CANAIS | ESPORTES PAY-PER-VIEW",UFC FIGTH PASS 2
+http://saga10.pro:80/148043/844063/2852020
+#EXTINF:-1 tvg-id="" tvg-name="UM MALUCO NO PEDAÇO" tvg-logo="https://occ-0-901-448.1.nflxso.net/art/2af9f/149ac7f103f618fbc78e8756f915e850e822af9f.png" group-title="F22 M5 ESPECIAIS SERIADOS 24h",UM MALUCO NO PEDAÇO
+http://saga10.pro:80/148043/844063/2627335
+#EXTINF:-1 tvg-id="" tvg-name="UMA FAMÍLIA DA PESADA" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/fUNMlu.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",UMA FAMÍLIA DA PESADA
+http://saga10.pro:80/148043/844063/2639478
+#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL TV FHD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/6TvXnU.png" group-title="F22 M5 CANAIS FILMES E SERIES",UNIVERSAL TV FHD
+http://saga10.pro:80/148043/844063/2639941
+#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL TV HD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/6TvXnU.png" group-title="F22 M5 CANAIS FILMES E SERIES",UNIVERSAL TV HD
+http://saga10.pro:80/148043/844063/2639942
+#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL TV SD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/6TvXnU.png" group-title="F22 M5 CANAIS FILMES E SERIES",UNIVERSAL TV SD
+http://saga10.pro:80/148043/844063/2639943
+#EXTINF:-1 tvg-id="" tvg-name="URSINHO POOH E SEUS AMIGOS" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/LEmdI3.png" group-title="F22 M5 Filmes",URSINHO POOH E SEUS AMIGOS
+http://saga10.pro:80/148043/844063/2639479
+#EXTINF:-1 tvg-id="" tvg-name="URSINHOS CARINHOSOS" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/ek2223.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",URSINHOS CARINHOSOS
+http://saga10.pro:80/148043/844063/2639480
+#EXTINF:-1 tvg-id="" tvg-name="VAI QUE COLA!" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/yz8ZnU.png" group-title="F22 M5 ESPECIAIS SERIADOS 24h",VAI QUE COLA!
+http://saga10.pro:80/148043/844063/2627336
+#EXTINF:-1 tvg-id="5f32d4d9ec194100070c7449" tvg-name="VIDA REAL" tvg-logo="https://imagizer.imageshack.com/v2/320x240q70/922/A5YvTu.png" group-title="F22 M5 PLUTO TV",VIDA REAL
+http://saga10.pro:80/148043/844063/2416584
+#EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER FHD" tvg-logo="https://imagizer.imageshack.com/img924/3108/BlllSq.png" group-title="F22 M5 CANAIS FILMES E SERIES",WARNER FHD
+http://saga10.pro:80/148043/844063/2639944
+#EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER HD" tvg-logo="https://imagizer.imageshack.com/img924/3108/BlllSq.png" group-title="F22 M5 CANAIS FILMES E SERIES",WARNER HD
+http://saga10.pro:80/148043/844063/2639945
+#EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER SD" tvg-logo="https://imagizer.imageshack.com/img924/3108/BlllSq.png" group-title="F22 M5 CANAIS FILMES E SERIES",WARNER SD
+http://saga10.pro:80/148043/844063/2639946
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="WOOHOO FHD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/DX99xs.png" group-title="F22 M5 VARIEDADES",WOOHOO FHD
+http://saga10.pro:80/148043/844063/1263427
+#EXTINF:-1 tvg-id="woohoo.br" tvg-name="WOOHOO HD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/DX99xs.png" group-title="F22 M5 VARIEDADES",WOOHOO HD
+http://saga10.pro:80/148043/844063/1263426
+#EXTINF:-1 tvg-id="woohoo.br" tvg-name="WOOHOO SD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/DX99xs.png" group-title="F22 M5 VARIEDADES",WOOHOO SD
+http://saga10.pro:80/148043/844063/1263425
+#EXTINF:-1 tvg-id="" tvg-name="X-MEN" tvg-logo="https://i.pinimg.com/originals/cf/b0/06/cfb006d76a5ff03cb23c08d8831a4ce3.png" group-title="F22 M5 Filmes",X-MEN
+http://saga10.pro:80/148043/844063/2639481
+#EXTINF:-1 tvg-id="canal.adulto.br" tvg-name="XXX ADULTO 01" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 XXX +18 ADULTOS XXX",XXX ADULTO 01
+http://saga10.pro:80/148043/844063/2627338
+#EXTINF:-1 tvg-id="canal.adulto.br" tvg-name="XXX ADULTO 02" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 XXX +18 ADULTOS XXX",XXX ADULTO 02
+http://saga10.pro:80/148043/844063/2627339
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 03" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 XXX +18 ADULTOS XXX",XXX ADULTO 03
+http://saga10.pro:80/148043/844063/2627340
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 04" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 XXX +18 ADULTOS XXX",XXX ADULTO 04
+http://saga10.pro:80/148043/844063/2627341
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 05" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 XXX +18 ADULTOS XXX",XXX ADULTO 05
+http://saga10.pro:80/148043/844063/2627342
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 06" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 XXX +18 ADULTOS XXX",XXX ADULTO 06
+http://saga10.pro:80/148043/844063/2627343
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 07" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 XXX +18 ADULTOS XXX",XXX ADULTO 07
+http://saga10.pro:80/148043/844063/2627344
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 08" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 XXX +18 ADULTOS XXX",XXX ADULTO 08
+http://saga10.pro:80/148043/844063/2627345
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 09" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 XXX +18 ADULTOS XXX",XXX ADULTO 09
+http://saga10.pro:80/148043/844063/2627346
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 10" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 XXX +18 ADULTOS XXX",XXX ADULTO 10
+http://saga10.pro:80/148043/844063/2627347
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 100" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 Filmes",XXX ADULTO 100
+http://saga10.pro:80/148043/844063/2627436
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 11" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 XXX +18 ADULTOS XXX",XXX ADULTO 11
+http://saga10.pro:80/148043/844063/2627348
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 12" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 XXX +18 ADULTOS XXX",XXX ADULTO 12
+http://saga10.pro:80/148043/844063/2627349
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 13" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 XXX +18 ADULTOS XXX",XXX ADULTO 13
+http://saga10.pro:80/148043/844063/2627350
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 15" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 Filmes",XXX ADULTO 15
+http://saga10.pro:80/148043/844063/2627351
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 16" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 Filmes",XXX ADULTO 16
+http://saga10.pro:80/148043/844063/2627352
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 17" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 Filmes",XXX ADULTO 17
+http://saga10.pro:80/148043/844063/2627353
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 18" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 XXX +18 ADULTOS XXX",XXX ADULTO 18
+http://saga10.pro:80/148043/844063/2627354
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 19" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 Filmes",XXX ADULTO 19
+http://saga10.pro:80/148043/844063/2627355
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 20" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 Filmes",XXX ADULTO 20
+http://saga10.pro:80/148043/844063/2627356
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 21" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 XXX +18 ADULTOS XXX",XXX ADULTO 21
+http://saga10.pro:80/148043/844063/2627357
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 22" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 Filmes",XXX ADULTO 22
+http://saga10.pro:80/148043/844063/2627358
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 23" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 Filmes",XXX ADULTO 23
+http://saga10.pro:80/148043/844063/2627359
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 24" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 XXX +18 ADULTOS XXX",XXX ADULTO 24
+http://saga10.pro:80/148043/844063/2627360
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 25" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 Filmes",XXX ADULTO 25
+http://saga10.pro:80/148043/844063/2627361
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 26" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 XXX +18 ADULTOS XXX",XXX ADULTO 26
+http://saga10.pro:80/148043/844063/2627362
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 27" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 Filmes",XXX ADULTO 27
+http://saga10.pro:80/148043/844063/2627363
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 28" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 Filmes",XXX ADULTO 28
+http://saga10.pro:80/148043/844063/2627364
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 29" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 Filmes",XXX ADULTO 29
+http://saga10.pro:80/148043/844063/2627365
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 30" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 Filmes",XXX ADULTO 30
+http://saga10.pro:80/148043/844063/2627366
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 31" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 Filmes",XXX ADULTO 31
+http://saga10.pro:80/148043/844063/2627367
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 32" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 Filmes",XXX ADULTO 32
+http://saga10.pro:80/148043/844063/2627368
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 33" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 Filmes",XXX ADULTO 33
+http://saga10.pro:80/148043/844063/2627369
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 34" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 Filmes",XXX ADULTO 34
+http://saga10.pro:80/148043/844063/2627370
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 35" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 Filmes",XXX ADULTO 35
+http://saga10.pro:80/148043/844063/2627371
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 36" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 Filmes",XXX ADULTO 36
+http://saga10.pro:80/148043/844063/2627372
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 37" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 Filmes",XXX ADULTO 37
+http://saga10.pro:80/148043/844063/2627373
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 38" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 Filmes",XXX ADULTO 38
+http://saga10.pro:80/148043/844063/2627374
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 39" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 Filmes",XXX ADULTO 39
+http://saga10.pro:80/148043/844063/2627375
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 40" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 Filmes",XXX ADULTO 40
+http://saga10.pro:80/148043/844063/2627376
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 41" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 Filmes",XXX ADULTO 41
+http://saga10.pro:80/148043/844063/2627377
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 42" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 Filmes",XXX ADULTO 42
+http://saga10.pro:80/148043/844063/2627378
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 43" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 Filmes",XXX ADULTO 43
+http://saga10.pro:80/148043/844063/2627379
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 44" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 Filmes",XXX ADULTO 44
+http://saga10.pro:80/148043/844063/2627380
+#EXTINF:-1 tvg-id="canal.adulto.br" tvg-name="XXX ADULTO 45" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 Filmes",XXX ADULTO 45
+http://saga10.pro:80/148043/844063/2627381
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 46" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 Filmes",XXX ADULTO 46
+http://saga10.pro:80/148043/844063/2627382
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 47" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 XXX +18 ADULTOS XXX",XXX ADULTO 47
+http://saga10.pro:80/148043/844063/2627383
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 48" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 Filmes",XXX ADULTO 48
+http://saga10.pro:80/148043/844063/2627384
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 49" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 Filmes",XXX ADULTO 49
+http://saga10.pro:80/148043/844063/2627385
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 50" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 Filmes",XXX ADULTO 50
+http://saga10.pro:80/148043/844063/2627386
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 51" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 Filmes",XXX ADULTO 51
+http://saga10.pro:80/148043/844063/2627387
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 52" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 Filmes",XXX ADULTO 52
+http://saga10.pro:80/148043/844063/2627388
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 53" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 Filmes",XXX ADULTO 53
+http://saga10.pro:80/148043/844063/2627389
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 54" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 Filmes",XXX ADULTO 54
+http://saga10.pro:80/148043/844063/2627390
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 55" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 Filmes",XXX ADULTO 55
+http://saga10.pro:80/148043/844063/2627391
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 56" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 Filmes",XXX ADULTO 56
+http://saga10.pro:80/148043/844063/2627392
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 57" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 Filmes",XXX ADULTO 57
+http://saga10.pro:80/148043/844063/2627393
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 58" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 Filmes",XXX ADULTO 58
+http://saga10.pro:80/148043/844063/2627394
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 59" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 Filmes",XXX ADULTO 59
+http://saga10.pro:80/148043/844063/2627395
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 60" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 Filmes",XXX ADULTO 60
+http://saga10.pro:80/148043/844063/2627396
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 61" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 Filmes",XXX ADULTO 61
+http://saga10.pro:80/148043/844063/2627397
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 62" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 Filmes",XXX ADULTO 62
+http://saga10.pro:80/148043/844063/2627398
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 63" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 Filmes",XXX ADULTO 63
+http://saga10.pro:80/148043/844063/2627399
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 64" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 Filmes",XXX ADULTO 64
+http://saga10.pro:80/148043/844063/2627400
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 65" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 Filmes",XXX ADULTO 65
+http://saga10.pro:80/148043/844063/2627401
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 66" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 Filmes",XXX ADULTO 66
+http://saga10.pro:80/148043/844063/2627402
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 67" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 Filmes",XXX ADULTO 67
+http://saga10.pro:80/148043/844063/2627403
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 68" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 Filmes",XXX ADULTO 68
+http://saga10.pro:80/148043/844063/2627404
+#EXTINF:-1 tvg-id="canal.adulto.br" tvg-name="XXX ADULTO 69" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 Filmes",XXX ADULTO 69
+http://saga10.pro:80/148043/844063/2627405
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 70" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 Filmes",XXX ADULTO 70
+http://saga10.pro:80/148043/844063/2627406
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 71" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 Filmes",XXX ADULTO 71
+http://saga10.pro:80/148043/844063/2627407
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 72" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 Filmes",XXX ADULTO 72
+http://saga10.pro:80/148043/844063/2627408
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 73" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 XXX +18 ADULTOS XXX",XXX ADULTO 73
+http://saga10.pro:80/148043/844063/2627409
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 74" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 Filmes",XXX ADULTO 74
+http://saga10.pro:80/148043/844063/2627410
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 75" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 Filmes",XXX ADULTO 75
+http://saga10.pro:80/148043/844063/2627411
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 76" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 Filmes",XXX ADULTO 76
+http://saga10.pro:80/148043/844063/2627412
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 77" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 Filmes",XXX ADULTO 77
+http://saga10.pro:80/148043/844063/2627413
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 78" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 Filmes",XXX ADULTO 78
+http://saga10.pro:80/148043/844063/2627414
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 79" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 Filmes",XXX ADULTO 79
+http://saga10.pro:80/148043/844063/2627415
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 80" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 Filmes",XXX ADULTO 80
+http://saga10.pro:80/148043/844063/2627416
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 81" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 Filmes",XXX ADULTO 81
+http://saga10.pro:80/148043/844063/2627417
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 82" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 XXX +18 ADULTOS XXX",XXX ADULTO 82
+http://saga10.pro:80/148043/844063/2627418
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 83" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 Filmes",XXX ADULTO 83
+http://saga10.pro:80/148043/844063/2627419
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 84" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 Filmes",XXX ADULTO 84
+http://saga10.pro:80/148043/844063/2627420
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 85" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 Filmes",XXX ADULTO 85
+http://saga10.pro:80/148043/844063/2627421
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 86" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 Filmes",XXX ADULTO 86
+http://saga10.pro:80/148043/844063/2627422
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 87" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 Filmes",XXX ADULTO 87
+http://saga10.pro:80/148043/844063/2627423
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 88" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 Filmes",XXX ADULTO 88
+http://saga10.pro:80/148043/844063/2627424
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 89" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 Filmes",XXX ADULTO 89
+http://saga10.pro:80/148043/844063/2627425
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 90" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 XXX +18 ADULTOS XXX",XXX ADULTO 90
+http://saga10.pro:80/148043/844063/2627426
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 91" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 Filmes",XXX ADULTO 91
+http://saga10.pro:80/148043/844063/2627427
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 92" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 Filmes",XXX ADULTO 92
+http://saga10.pro:80/148043/844063/2627428
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 93" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 Filmes",XXX ADULTO 93
+http://saga10.pro:80/148043/844063/2627429
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 94" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 Filmes",XXX ADULTO 94
+http://saga10.pro:80/148043/844063/2627430
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 95" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 Filmes",XXX ADULTO 95
+http://saga10.pro:80/148043/844063/2627431
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 96" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 Filmes",XXX ADULTO 96
+http://saga10.pro:80/148043/844063/2627432
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 97" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 Filmes",XXX ADULTO 97
+http://saga10.pro:80/148043/844063/2627433
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 98" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 Filmes",XXX ADULTO 98
+http://saga10.pro:80/148043/844063/2627434
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 99" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="F22 M5 Filmes",XXX ADULTO 99
+http://saga10.pro:80/148043/844063/2627435
+#EXTINF:-1 tvg-id="" tvg-name="XXX FOR MAN" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/svwrJV.png" group-title="F22 M5 XXX +18 ADULTOS XXX",XXX FOR MAN
+http://saga10.pro:80/148043/844063/2613407
+#EXTINF:-1 tvg-id="" tvg-name="XXX LESBIAN" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/3UiwoB.png" group-title="F22 M5 XXX +18 ADULTOS XXX",XXX LESBIAN
+http://saga10.pro:80/148043/844063/2613408
+#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="ZOOMOO FHD" tvg-logo="https://imagizer.imageshack.com/img921/6128/Ucr8mo.png" group-title="F22 M5 CANAIS INFANTIS",ZOOMOO FHD
+http://saga10.pro:80/148043/844063/2153587
+#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="ZOOMOO HD" tvg-logo="https://imagizer.imageshack.com/img921/6128/Ucr8mo.png" group-title="F22 M5 CANAIS INFANTIS",ZOOMOO HD
+http://saga10.pro:80/148043/844063/1263460
+#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="ZOOMOO SD" tvg-logo="https://imagizer.imageshack.com/img921/6128/Ucr8mo.png" group-title="F22 M5 CANAIS INFANTIS",ZOOMOO SD
+http://saga10.pro:80/148043/844063/1263459
+#EXTINF:-1 tvg-id="" tvg-name="ZÉ BUSCAPÉ" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/8eC2rw.png" group-title="F22 M5 ESPECIAIS SERIADOS 24h",ZÉ BUSCAPÉ
+http://saga10.pro:80/148043/844063/2627337
+#EXTINF:-1 tvg-id="" tvg-name="ZÉ BUSCAPÉ" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/8eC2rw.png" group-title="F22 M5 ESPECIAIS DESENHOS 24h",ZÉ BUSCAPÉ
+http://saga10.pro:80/148043/844063/2639482
+#EXTINF:-1 tvg-id="" tvg-name="ANTENA 1" tvg-logo="https://uploaddeimagens.com.br/images/003/434/770/full/radios.png" group-title="F22 M5 RADIOS PELO MUNDO",ANTENA 1
+http://saga10.pro:80/148043/844063/147084
+#EXTINF:-1 tvg-id="" tvg-name="BAND FIM 96,1" tvg-logo="https://uploaddeimagens.com.br/images/003/434/770/full/radios.png" group-title="F22 M5 RADIOS PELO MUNDO",BAND FIM 96,1
+http://saga10.pro:80/148043/844063/147090
+#EXTINF:-1 tvg-id="" tvg-name="FM O DIA - 100,5 RJ" tvg-logo="http://voxp2p.xyz:80/images/09b25342cd6c6394a4cbec68ac461df2.png" group-title="F22 M5 RADIOS PELO MUNDO",FM O DIA - 100,5 RJ
+http://saga10.pro:80/148043/844063/147085
+#EXTINF:-1 tvg-id="" tvg-name="GAZETA FM 88,1" tvg-logo="https://uploaddeimagens.com.br/images/003/434/770/full/radios.png" group-title="F22 M5 RADIOS PELO MUNDO",GAZETA FM 88,1
+http://saga10.pro:80/148043/844063/147093
+#EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN" tvg-logo="https://uploaddeimagens.com.br/images/003/434/770/full/radios.png" group-title="F22 M5 RADIOS PELO MUNDO",JOVEM PAN
+http://saga10.pro:80/148043/844063/147070
+#EXTINF:-1 tvg-id="" tvg-name="RADIO DISNEY FM" tvg-logo="https://uploaddeimagens.com.br/images/003/434/770/full/radios.png" group-title="F22 M5 RADIOS PELO MUNDO",RADIO DISNEY FM
+http://saga10.pro:80/148043/844063/147088
+#EXTINF:-1 tvg-id="" tvg-name="RADIO GLOBO FM 94,1" tvg-logo="https://uploaddeimagens.com.br/images/003/434/770/full/radios.png" group-title="F22 M5 RADIOS PELO MUNDO",RADIO GLOBO FM 94,1
+http://saga10.pro:80/148043/844063/147095
+#EXTINF:-1 tvg-id="" tvg-name="RADIO MIX FM SP" tvg-logo="https://uploaddeimagens.com.br/images/003/434/770/full/radios.png" group-title="F22 M5 RADIOS PELO MUNDO",RADIO MIX FM SP
+http://saga10.pro:80/148043/844063/147087
+#EXTINF:-1 tvg-id="" tvg-name="TOP FM 104,1" tvg-logo="https://uploaddeimagens.com.br/images/003/434/770/full/radios.png" group-title="F22 M5 RADIOS PELO MUNDO",TOP FM 104,1
+http://saga10.pro:80/148043/844063/147091
+#EXTINF:-1 tvg-id="" tvg-name="TROPICAL FM 107,9" tvg-logo="https://uploaddeimagens.com.br/images/003/434/770/full/radios.png" group-title="F22 M5 RADIOS PELO MUNDO",TROPICAL FM 107,9
+http://saga10.pro:80/148043/844063/147086
+#EXTINF:-1 tvg-id="" tvg-name="CAZE 4 FHD" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/08/2372.png" group-title="F22 M5 CANAIS | CAZE TV",CAZE 4 FHD
+http://saga10.pro:80/148043/844063/3878341
+#EXTINF:-1 tvg-id="" tvg-name="CAZE 5 FHD" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/08/2372.png" group-title="F22 M5 CANAIS | CAZE TV",CAZE 5 FHD
+http://saga10.pro:80/148043/844063/3878342
+#EXTINF:-1 tvg-id="" tvg-name="CAZE 6 FHD" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/08/2372.png" group-title="F22 M5 CANAIS | CAZE TV",CAZE 6 FHD
+http://saga10.pro:80/148043/844063/3878343
+#EXTINF:-1 tvg-id="" tvg-name="NFL FHD" tvg-logo="https://a4.espncdn.com/combiner/i?img=/i/espn/misc_logos/500/nfl.png" group-title="F22 M5 CANAIS ESPORTES",NFL FHD
+http://saga10.pro:80/148043/844063/3880055
+#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="ESPN 2 FHD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/cyuWDd.png" group-title="F22 M5 CANAIS ESPORTES",ESPN 2 FHD
+http://saga10.pro:80/148043/844063/3880625
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/cyuWDd.png" group-title="F22 M5 CANAIS ESPORTES",ESPN 2 HD
+http://saga10.pro:80/148043/844063/3880626
+#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="ESPN 2 SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/cyuWDd.png" group-title="F22 M5 CANAIS ESPORTES",ESPN 2 SD
+http://saga10.pro:80/148043/844063/3880627
+#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN 3 FHD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/klF98N.png" group-title="F22 M5 CANAIS ESPORTES",ESPN 3 FHD
+http://saga10.pro:80/148043/844063/3880629
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 3 HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/klF98N.png" group-title="F22 M5 CANAIS ESPORTES",ESPN 3 HD
+http://saga10.pro:80/148043/844063/3880630
+#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN 3 SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/klF98N.png" group-title="F22 M5 CANAIS ESPORTES",ESPN 3 SD
+http://saga10.pro:80/148043/844063/3880631
+#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN 4 FHD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/JNs4Dg.png" group-title="F22 M5 CANAIS ESPORTES",ESPN 4 FHD
+http://saga10.pro:80/148043/844063/3880633
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 4 HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/JNs4Dg.png" group-title="F22 M5 CANAIS ESPORTES",ESPN 4 HD
+http://saga10.pro:80/148043/844063/3880634
+#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN 4 SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/JNs4Dg.png" group-title="F22 M5 CANAIS ESPORTES",ESPN 4 SD
+http://saga10.pro:80/148043/844063/3880635
+#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="ESPN 5 FHD" tvg-logo="https://associacaoneo.com.br/wp-content/uploads/2024/02/ESPN-5-logo-460x260_c.png" group-title="F22 M5 CANAIS ESPORTES",ESPN 5 FHD
+http://saga10.pro:80/148043/844063/3880637
+#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="ESPN 5 HD" tvg-logo="https://associacaoneo.com.br/wp-content/uploads/2024/02/ESPN-5-logo-460x260_c.png" group-title="F22 M5 CANAIS ESPORTES",ESPN 5 HD
+http://saga10.pro:80/148043/844063/3880638
+#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="ESPN 5 SD" tvg-logo="https://associacaoneo.com.br/wp-content/uploads/2024/02/ESPN-5-logo-460x260_c.png" group-title="F22 M5 CANAIS ESPORTES",ESPN 5 SD
+http://saga10.pro:80/148043/844063/3880639
+#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN EXTRA FHD" tvg-logo="https://e7.pngegg.com/pngimages/798/473/png-clipart-espn-brasil-espn-extra-espn-espn-inc-grill-television-text.png" group-title="F22 M5 CANAIS ESPORTES",ESPN EXTRA FHD
+http://saga10.pro:80/148043/844063/3880641
+#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN EXTRA HD" tvg-logo="https://e7.pngegg.com/pngimages/798/473/png-clipart-espn-brasil-espn-extra-espn-espn-inc-grill-television-text.png" group-title="F22 M5 CANAIS ESPORTES",ESPN EXTRA HD
+http://saga10.pro:80/148043/844063/3880642
+#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN EXTRA SD" tvg-logo="https://e7.pngegg.com/pngimages/798/473/png-clipart-espn-brasil-espn-extra-espn-espn-inc-grill-television-text.png" group-title="F22 M5 CANAIS ESPORTES",ESPN EXTRA SD
+http://saga10.pro:80/148043/844063/3880643
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN FHD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/Qy3Pvx.png" group-title="F22 M5 CANAIS ESPORTES",ESPN FHD
+http://saga10.pro:80/148043/844063/3880644
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/Qy3Pvx.png" group-title="F22 M5 CANAIS ESPORTES",ESPN HD
+http://saga10.pro:80/148043/844063/3880645
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/Qy3Pvx.png" group-title="F22 M5 CANAIS ESPORTES",ESPN SD
+http://saga10.pro:80/148043/844063/3880646
+#EXTINF:-1 tvg-id="" tvg-name="ADULT SWIM HD" tvg-logo="" group-title="F22 M5 CANAIS INFANTIS",ADULT SWIM HD
+http://saga10.pro:80/148043/844063/2819005
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBR CIDADE VERDE FHD" tvg-logo="http://imageshack.com/a/img922/3637/BijOM9.png" group-title="F22 M5 CANAIS SBT",SBR CIDADE VERDE FHD
+http://saga10.pro:80/148043/844063/4845876
+#EXTINF:-1 tvg-id="" tvg-name="SBT BA HD" tvg-logo="http://imageshack.com/a/img922/3637/BijOM9.png" group-title="F22 M5 CANAIS SBT",SBT BA HD
+http://saga10.pro:80/148043/844063/4845877
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT BAHIA FHD" tvg-logo="http://imageshack.com/a/img922/3637/BijOM9.png" group-title="F22 M5 CANAIS SBT",SBT BAHIA FHD
+http://saga10.pro:80/148043/844063/4845878
+#EXTINF:-1 tvg-id="" tvg-name="SBT CEARA HD" tvg-logo="http://imageshack.com/a/img922/3637/BijOM9.png" group-title="F22 M5 CANAIS SBT",SBT CEARA HD
+http://saga10.pro:80/148043/844063/4845879
+#EXTINF:-1 tvg-id="" tvg-name="SBT CEARA SD" tvg-logo="http://imageshack.com/a/img922/3637/BijOM9.png" group-title="F22 M5 CANAIS SBT",SBT CEARA SD
+http://saga10.pro:80/148043/844063/4845880
+#EXTINF:-1 tvg-id="" tvg-name="SBT CENTRAL FHD" tvg-logo="http://imageshack.com/a/img922/3637/BijOM9.png" group-title="F22 M5 CANAIS SBT",SBT CENTRAL FHD
+http://saga10.pro:80/148043/844063/4845881
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT ES HD" tvg-logo="http://imageshack.com/a/img922/3637/BijOM9.png" group-title="F22 M5 CANAIS SBT",SBT ES HD
+http://saga10.pro:80/148043/844063/4845882
+#EXTINF:-1 tvg-id="" tvg-name="SBT GOIAS FHD" tvg-logo="http://imageshack.com/a/img922/3637/BijOM9.png" group-title="F22 M5 CANAIS SBT",SBT GOIAS FHD
+http://saga10.pro:80/148043/844063/4845883
+#EXTINF:-1 tvg-id="" tvg-name="SBT JORNAL INTERIOR HD" tvg-logo="http://imageshack.com/a/img922/3637/BijOM9.png" group-title="F22 M5 CANAIS SBT",SBT JORNAL INTERIOR HD
+http://saga10.pro:80/148043/844063/4845884
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT MT HD" tvg-logo="http://imageshack.com/a/img922/3637/BijOM9.png" group-title="F22 M5 CANAIS SBT",SBT MT HD
+http://saga10.pro:80/148043/844063/4845885
+#EXTINF:-1 tvg-id="" tvg-name="SBT PARÁ HD" tvg-logo="http://imageshack.com/a/img922/3637/BijOM9.png" group-title="F22 M5 CANAIS SBT",SBT PARÁ HD
+http://saga10.pro:80/148043/844063/4845886
+#EXTINF:-1 tvg-id="" tvg-name="SBT PR HD" tvg-logo="http://imageshack.com/a/img922/3637/BijOM9.png" group-title="F22 M5 CANAIS SBT",SBT PR HD
+http://saga10.pro:80/148043/844063/4845887
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT RECIFE HD" tvg-logo="http://imageshack.com/a/img922/3637/BijOM9.png" group-title="F22 M5 CANAIS SBT",SBT RECIFE HD
+http://saga10.pro:80/148043/844063/4845888
+#EXTINF:-1 tvg-id="sbt.rio.br" tvg-name="SBT RJ Capital HD" tvg-logo="http://imageshack.com/a/img922/3637/BijOM9.png" group-title="F22 M5 CANAIS SBT",SBT RJ Capital HD
+http://saga10.pro:80/148043/844063/4845889
+#EXTINF:-1 tvg-id="" tvg-name="SBT RJ HD" tvg-logo="http://imageshack.com/a/img922/3637/BijOM9.png" group-title="F22 M5 CANAIS SBT",SBT RJ HD
+http://saga10.pro:80/148043/844063/4845890
+#EXTINF:-1 tvg-id="" tvg-name="SBT RS FHD" tvg-logo="http://imageshack.com/a/img922/3637/BijOM9.png" group-title="F22 M5 CANAIS SBT",SBT RS FHD
+http://saga10.pro:80/148043/844063/4845891
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SOROCABA HD" tvg-logo="http://imageshack.com/a/img922/3637/BijOM9.png" group-title="F22 M5 CANAIS SBT",SBT SOROCABA HD
+http://saga10.pro:80/148043/844063/4845892
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP FHD" tvg-logo="http://imageshack.com/a/img922/3637/BijOM9.png" group-title="F22 M5 CANAIS SBT",SBT SP FHD
+http://saga10.pro:80/148043/844063/4845893
+#EXTINF:-1 tvg-id="" tvg-name="SBT SP HD" tvg-logo="http://imageshack.com/a/img922/3637/BijOM9.png" group-title="F22 M5 CANAIS SBT",SBT SP HD
+http://saga10.pro:80/148043/844063/4845894
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP SD" tvg-logo="http://imageshack.com/a/img922/3637/BijOM9.png" group-title="F22 M5 CANAIS SBT",SBT SP SD
+http://saga10.pro:80/148043/844063/4845895
+#EXTINF:-1 tvg-id="" tvg-name="SBT TV SERRA DOURADA FHD" tvg-logo="http://imageshack.com/a/img922/3637/BijOM9.png" group-title="F22 M5 CANAIS SBT",SBT TV SERRA DOURADA FHD
+http://saga10.pro:80/148043/844063/4845896
+#EXTINF:-1 tvg-id="" tvg-name="SBT VTV HD" tvg-logo="http://imageshack.com/a/img922/3637/BijOM9.png" group-title="F22 M5 CANAIS SBT",SBT VTV HD
+http://saga10.pro:80/148043/844063/4845897
+#EXTINF:-1 tvg-id="" tvg-name="TV Difusora (SBT São Luís)" tvg-logo="http://imageshack.com/a/img922/3637/BijOM9.png" group-title="F22 M5 CANAIS SBT",TV Difusora (SBT São Luís)
+http://saga10.pro:80/148043/844063/4845898
+#EXTINF:-1 tvg-id="" tvg-name="RECORD BAHIA  ITAPOAN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="F22 M5 CANAIS RECORDTV",RECORD BAHIA  ITAPOAN HD
+http://saga10.pro:80/148043/844063/5098430
+#EXTINF:-1 tvg-id="" tvg-name="RECORD BAHIA ITAPOAN SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="F22 M5 CANAIS RECORDTV",RECORD BAHIA ITAPOAN SD
+http://saga10.pro:80/148043/844063/5098431
+#EXTINF:-1 tvg-id="" tvg-name="RECORD BAHIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="F22 M5 CANAIS RECORDTV",RECORD BAHIA HD
+http://saga10.pro:80/148043/844063/5098432
+#EXTINF:-1 tvg-id="" tvg-name="RECORD BAHIA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="F22 M5 CANAIS RECORDTV",RECORD BAHIA SD
+http://saga10.pro:80/148043/844063/5098433
+#EXTINF:-1 tvg-id="" tvg-name="RECORD BAURU HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="F22 M5 CANAIS RECORDTV",RECORD BAURU HD
+http://saga10.pro:80/148043/844063/5098434
+#EXTINF:-1 tvg-id="" tvg-name="RECORD BAURU SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="F22 M5 CANAIS RECORDTV",RECORD BAURU SD
+http://saga10.pro:80/148043/844063/5098435
+#EXTINF:-1 tvg-id="" tvg-name="RECORD BELEM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="F22 M5 CANAIS RECORDTV",RECORD BELEM HD
+http://saga10.pro:80/148043/844063/5098436
+#EXTINF:-1 tvg-id="" tvg-name="RECORD BELEM SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="F22 M5 CANAIS RECORDTV",RECORD BELEM SD
+http://saga10.pro:80/148043/844063/5098437
+#EXTINF:-1 tvg-id="" tvg-name="RECORD BRASILIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="F22 M5 CANAIS RECORDTV",RECORD BRASILIA HD
+http://saga10.pro:80/148043/844063/5098438
+#EXTINF:-1 tvg-id="" tvg-name="RECORD BRASILIA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="F22 M5 CANAIS RECORDTV",RECORD BRASILIA SD
+http://saga10.pro:80/148043/844063/5098439
+#EXTINF:-1 tvg-id="" tvg-name="RECORD CABRÁLIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="F22 M5 CANAIS RECORDTV",RECORD CABRÁLIA HD
+http://saga10.pro:80/148043/844063/5098440
+#EXTINF:-1 tvg-id="" tvg-name="RECORD CABRÁLIA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="F22 M5 CANAIS RECORDTV",RECORD CABRÁLIA SD
+http://saga10.pro:80/148043/844063/5098441
+#EXTINF:-1 tvg-id="" tvg-name="RECORD CAMPINAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="F22 M5 CANAIS RECORDTV",RECORD CAMPINAS HD
+http://saga10.pro:80/148043/844063/5098442
+#EXTINF:-1 tvg-id="" tvg-name="RECORD CAMPINAS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="F22 M5 CANAIS RECORDTV",RECORD CAMPINAS SD
+http://saga10.pro:80/148043/844063/5098443
+#EXTINF:-1 tvg-id="" tvg-name="RECORD CAMPOS DOS GOYTACAZES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="F22 M5 CANAIS RECORDTV",RECORD CAMPOS DOS GOYTACAZES HD
+http://saga10.pro:80/148043/844063/5098444
+#EXTINF:-1 tvg-id="" tvg-name="RECORD CAMPOS DOS GOYTACAZES SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="F22 M5 CANAIS RECORDTV",RECORD CAMPOS DOS GOYTACAZES SD
+http://saga10.pro:80/148043/844063/5098445
+#EXTINF:-1 tvg-id="" tvg-name="RECORD CURITIBA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="F22 M5 CANAIS RECORDTV",RECORD CURITIBA HD
+http://saga10.pro:80/148043/844063/5098446
+#EXTINF:-1 tvg-id="" tvg-name="RECORD FLORIANÓPOLIS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="F22 M5 CANAIS RECORDTV",RECORD FLORIANÓPOLIS HD
+http://saga10.pro:80/148043/844063/5098447
+#EXTINF:-1 tvg-id="" tvg-name="RECORD FORTALEZA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="F22 M5 CANAIS RECORDTV",RECORD FORTALEZA HD
+http://saga10.pro:80/148043/844063/5098448
+#EXTINF:-1 tvg-id="" tvg-name="Record GOIAS - HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="F22 M5 CANAIS RECORDTV",Record GOIAS - HD
+http://saga10.pro:80/148043/844063/5098449
+#EXTINF:-1 tvg-id="" tvg-name="Record GOIAS - SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="F22 M5 CANAIS RECORDTV",Record GOIAS - SD
+http://saga10.pro:80/148043/844063/5098450
+#EXTINF:-1 tvg-id="" tvg-name="RECORD GUAÍBA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="F22 M5 CANAIS RECORDTV",RECORD GUAÍBA HD
+http://saga10.pro:80/148043/844063/5098451
+#EXTINF:-1 tvg-id="" tvg-name="RECORD GUAÍBA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="F22 M5 CANAIS RECORDTV",RECORD GUAÍBA SD
+http://saga10.pro:80/148043/844063/5098452
+#EXTINF:-1 tvg-id="" tvg-name="RECORD INTERIOR RJ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="F22 M5 CANAIS RECORDTV",RECORD INTERIOR RJ HD
+http://saga10.pro:80/148043/844063/5098453
+#EXTINF:-1 tvg-id="" tvg-name="RECORD MANAUS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="F22 M5 CANAIS RECORDTV",RECORD MANAUS HD
+http://saga10.pro:80/148043/844063/5098454
+#EXTINF:-1 tvg-id="" tvg-name="RECORD MANAUS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="F22 M5 CANAIS RECORDTV",RECORD MANAUS SD
+http://saga10.pro:80/148043/844063/5098455
+#EXTINF:-1 tvg-id="" tvg-name="RECORD MINAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="F22 M5 CANAIS RECORDTV",RECORD MINAS HD
+http://saga10.pro:80/148043/844063/5098456
+#EXTINF:-1 tvg-id="" tvg-name="RECORD MINAS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="F22 M5 CANAIS RECORDTV",RECORD MINAS SD
+http://saga10.pro:80/148043/844063/5098457
+#EXTINF:-1 tvg-id="" tvg-name="Record PR Maringá FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="F22 M5 CANAIS RECORDTV",Record PR Maringá FHD
+http://saga10.pro:80/148043/844063/5098462
+#EXTINF:-1 tvg-id="" tvg-name="RECORD RECIFE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="F22 M5 CANAIS RECORDTV",RECORD RECIFE HD
+http://saga10.pro:80/148043/844063/5098463
+#EXTINF:-1 tvg-id="" tvg-name="RECORD RIBEIRÃO PRETO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="F22 M5 CANAIS RECORDTV",RECORD RIBEIRÃO PRETO HD
+http://saga10.pro:80/148043/844063/5098464
+#EXTINF:-1 tvg-id="" tvg-name="RECORD RIBEIRÃO PRETO SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="F22 M5 CANAIS RECORDTV",RECORD RIBEIRÃO PRETO SD
+http://saga10.pro:80/148043/844063/5098465
+#EXTINF:-1 tvg-id="" tvg-name="RECORD RIO PRETO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="F22 M5 CANAIS RECORDTV",RECORD RIO PRETO HD
+http://saga10.pro:80/148043/844063/5098466
+#EXTINF:-1 tvg-id="" tvg-name="RECORD RIO PRETO SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="F22 M5 CANAIS RECORDTV",RECORD RIO PRETO SD
+http://saga10.pro:80/148043/844063/5098467
+#EXTINF:-1 tvg-id="" tvg-name="Record RJ - Capital HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="F22 M5 CANAIS RECORDTV",Record RJ - Capital HD
+http://saga10.pro:80/148043/844063/5098468
+#EXTINF:-1 tvg-id="" tvg-name="Record RJ - Capital SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="F22 M5 CANAIS RECORDTV",Record RJ - Capital SD
+http://saga10.pro:80/148043/844063/5098469
+#EXTINF:-1 tvg-id="" tvg-name="Record RS - HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="F22 M5 CANAIS RECORDTV",Record RS - HD
+http://saga10.pro:80/148043/844063/5098470
+#EXTINF:-1 tvg-id="" tvg-name="Record RS - SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="F22 M5 CANAIS RECORDTV",Record RS - SD
+http://saga10.pro:80/148043/844063/5098471
+#EXTINF:-1 tvg-id="" tvg-name="RECORD SANTOS E VALE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="F22 M5 CANAIS RECORDTV",RECORD SANTOS E VALE HD
+http://saga10.pro:80/148043/844063/5098472
+#EXTINF:-1 tvg-id="" tvg-name="RECORD SANTOS E VALE SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="F22 M5 CANAIS RECORDTV",RECORD SANTOS E VALE SD
+http://saga10.pro:80/148043/844063/5098473
+#EXTINF:-1 tvg-id="" tvg-name="RECORD SP CAPITAL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="F22 M5 CANAIS RECORDTV",RECORD SP CAPITAL FHD
+http://saga10.pro:80/148043/844063/5098474
+#EXTINF:-1 tvg-id="" tvg-name="RECORD SP CAPITAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="F22 M5 CANAIS RECORDTV",RECORD SP CAPITAL HD
+http://saga10.pro:80/148043/844063/5098475
+#EXTINF:-1 tvg-id="" tvg-name="RECORD SP CAPITAL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="F22 M5 CANAIS RECORDTV",RECORD SP CAPITAL SD
+http://saga10.pro:80/148043/844063/5098476
+#EXTINF:-1 tvg-id="" tvg-name="RECORD TV Atalaia HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="F22 M5 CANAIS RECORDTV",RECORD TV Atalaia HD
+http://saga10.pro:80/148043/844063/5098477
+#EXTINF:-1 tvg-id="" tvg-name="RECORD TV Atalaia SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="F22 M5 CANAIS RECORDTV",RECORD TV Atalaia SD
+http://saga10.pro:80/148043/844063/5098478
+#EXTINF:-1 tvg-id="" tvg-name="RECORD VITÓRIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="F22 M5 CANAIS RECORDTV",RECORD VITÓRIA HD
+http://saga10.pro:80/148043/844063/5098479
+#EXTINF:-1 tvg-id="" tvg-name="Sinal 1 HD" tvg-logo="https://s2-oglobo.glbimg.com/qezC7GfblM6gG4ZwhIPDdMOGA1s=/0x0:1600x1200/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2024/h/a/P4yZAaSJyd9uvmaMHrHg/whatsapp-image-2024-09-16-at-08.42.30.jpeg" group-title="F22 M5 CANAIS A FAZENDA",Sinal 1 HD
+http://saga10.pro:80/148043/844063/5103296
+#EXTINF:-1 tvg-id="" tvg-name="Sinal 2 HD" tvg-logo="https://s2-oglobo.glbimg.com/qezC7GfblM6gG4ZwhIPDdMOGA1s=/0x0:1600x1200/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2024/h/a/P4yZAaSJyd9uvmaMHrHg/whatsapp-image-2024-09-16-at-08.42.30.jpeg" group-title="F22 M5 CANAIS A FAZENDA",Sinal 2 HD
+http://saga10.pro:80/148043/844063/5103297
+#EXTINF:-1 tvg-id="" tvg-name="Sinal 3 HD" tvg-logo="https://s2-oglobo.glbimg.com/qezC7GfblM6gG4ZwhIPDdMOGA1s=/0x0:1600x1200/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2024/h/a/P4yZAaSJyd9uvmaMHrHg/whatsapp-image-2024-09-16-at-08.42.30.jpeg" group-title="F22 M5 CANAIS A FAZENDA",Sinal 3 HD
+http://saga10.pro:80/148043/844063/5103298
+#EXTINF:-1 tvg-id="" tvg-name="Sinal 4 HD" tvg-logo="https://s2-oglobo.glbimg.com/qezC7GfblM6gG4ZwhIPDdMOGA1s=/0x0:1600x1200/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2024/h/a/P4yZAaSJyd9uvmaMHrHg/whatsapp-image-2024-09-16-at-08.42.30.jpeg" group-title="F22 M5 CANAIS A FAZENDA",Sinal 4 HD
+http://saga10.pro:80/148043/844063/5103299
+#EXTINF:-1 tvg-id="" tvg-name="Sinal 5 HD" tvg-logo="https://s2-oglobo.glbimg.com/qezC7GfblM6gG4ZwhIPDdMOGA1s=/0x0:1600x1200/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2024/h/a/P4yZAaSJyd9uvmaMHrHg/whatsapp-image-2024-09-16-at-08.42.30.jpeg" group-title="F22 M5 CANAIS A FAZENDA",Sinal 5 HD
+http://saga10.pro:80/148043/844063/5103300
+#EXTINF:-1 tvg-id="" tvg-name="Sinal 6 HD" tvg-logo="https://s2-oglobo.glbimg.com/qezC7GfblM6gG4ZwhIPDdMOGA1s=/0x0:1600x1200/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2024/h/a/P4yZAaSJyd9uvmaMHrHg/whatsapp-image-2024-09-16-at-08.42.30.jpeg" group-title="F22 M5 CANAIS A FAZENDA",Sinal 6 HD
+http://saga10.pro:80/148043/844063/5103301
+
+
 
 # --- Adult Iptv ---
 #EXTINF:-1 tvg-id="Pornstar.xc" tvg-name="Pornstar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/PEGI_18_%282003-2009%29.png/250px-PEGI_18_%282003-2009%29.png" group-title="Adult IPTV",Pornstar
@@ -22345,12 +28448,22 @@ https://xc.adultiptv.net/live/adultiptv/adultiptv/2.m3u8
 https://xc.adultiptv.net/live/adultiptv/adultiptv/3.m3u8
 #EXTINF:-1 tvg-id="Cuckold.xc" tvg-name="Cuckold" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/PEGI_18_%282003-2009%29.png/250px-PEGI_18_%282003-2009%29.png" group-title="Adult IPTV",Cuckold
 https://xc.adultiptv.net/live/adultiptv/adultiptv/4.m3u8
+#EXTINF:-1 tvg-id="Fetish.xc" tvg-name="Fetish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/PEGI_18_%282003-2009%29.png/250px-PEGI_18_%282003-2009%29.png" group-title="Adult IPTV",Fetish
+https://xc.adultiptv.net/live/adultiptv/adultiptv/19.m3u8
+#EXTINF:-1 tvg-id="Gangbang.xc" tvg-name="Gangbang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/PEGI_18_%282003-2009%29.png/250px-PEGI_18_%282003-2009%29.png" group-title="Adult IPTV",Gangbang
+https://xc.adultiptv.net/live/adultiptv/adultiptv/18.m3u8
+#EXTINF:-1 tvg-id="Hardcore.xc" tvg-name="Hardcore" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/PEGI_18_%282003-2009%29.png/250px-PEGI_18_%282003-2009%29.png" group-title="Adult IPTV",Hardcore
+https://xc.adultiptv.net/live/adultiptv/adultiptv/7.m3u8
+#EXTINF:-1 tvg-id="Threesome.xc" tvg-name="Threesome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/PEGI_18_%282003-2009%29.png/250px-PEGI_18_%282003-2009%29.png" group-title="Adult IPTV",Threesome
+https://xc.adultiptv.net/live/adultiptv/adultiptv/14.m3u8
+#EXTINF:-1 tvg-id="Russian.xc" tvg-name="Russian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/PEGI_18_%282003-2009%29.png/250px-PEGI_18_%282003-2009%29.png" group-title="Adult IPTV",Russian
+https://xc.adultiptv.net/live/adultiptv/adultiptv/23.m3u8
+#EXTINF:-1 tvg-id="Rough.xc" tvg-name="Rough" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/PEGI_18_%282003-2009%29.png/250px-PEGI_18_%282003-2009%29.png" group-title="Adult IPTV",Rough
+https://xc.adultiptv.net/live/adultiptv/adultiptv/24.m3u8
 #EXTINF:-1 tvg-id="Anal.xc" tvg-name="Anal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/PEGI_18_%282003-2009%29.png/250px-PEGI_18_%282003-2009%29.png" group-title="Adult IPTV",Anal
 https://xc.adultiptv.net/live/adultiptv/adultiptv/5.m3u8
 #EXTINF:-1 tvg-id="Live_Cams.xc" tvg-name="Live Cams" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/PEGI_18_%282003-2009%29.png/250px-PEGI_18_%282003-2009%29.png" group-title="Adult IPTV",Live Cams
 https://xc.adultiptv.net/live/adultiptv/adultiptv/6.m3u8
-#EXTINF:-1 tvg-id="Hardcore.xc" tvg-name="Hardcore" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/PEGI_18_%282003-2009%29.png/250px-PEGI_18_%282003-2009%29.png" group-title="Adult IPTV",Hardcore
-https://xc.adultiptv.net/live/adultiptv/adultiptv/7.m3u8
 #EXTINF:-1 tvg-id="Bigdick.xc" tvg-name="Bigdick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/PEGI_18_%282003-2009%29.png/250px-PEGI_18_%282003-2009%29.png" group-title="Adult IPTV",Bigdick
 https://xc.adultiptv.net/live/adultiptv/adultiptv/8.m3u8
 #EXTINF:-1 tvg-id="Interracial.xc" tvg-name="Interracial" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/PEGI_18_%282003-2009%29.png/250px-PEGI_18_%282003-2009%29.png" group-title="Adult IPTV",Interracial
@@ -22363,29 +28476,22 @@ https://xc.adultiptv.net/live/adultiptv/adultiptv/11.m3u8
 https://xc.adultiptv.net/live/adultiptv/adultiptv/12.m3u8
 #EXTINF:-1 tvg-id="Latina.xc" tvg-name="Latina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/PEGI_18_%282003-2009%29.png/250px-PEGI_18_%282003-2009%29.png" group-title="Adult IPTV",Latina
 https://xc.adultiptv.net/live/adultiptv/adultiptv/13.m3u8
-#EXTINF:-1 tvg-id="Threesome.xc" tvg-name="Threesome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/PEGI_18_%282003-2009%29.png/250px-PEGI_18_%282003-2009%29.png" group-title="Adult IPTV",Threesome
-https://xc.adultiptv.net/live/adultiptv/adultiptv/14.m3u8
 #EXTINF:-1 tvg-id="Brunette.xc" tvg-name="Brunette" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/PEGI_18_%282003-2009%29.png/250px-PEGI_18_%282003-2009%29.png" group-title="Adult IPTV",Brunette
 https://xc.adultiptv.net/live/adultiptv/adultiptv/15.m3u8
 #EXTINF:-1 tvg-id="POV.xc" tvg-name="POV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/PEGI_18_%282003-2009%29.png/250px-PEGI_18_%282003-2009%29.png" group-title="Adult IPTV",POV
 https://xc.adultiptv.net/live/adultiptv/adultiptv/16.m3u8
 #EXTINF:-1 tvg-id="Big_Tits.xc" tvg-name="Big Tits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/PEGI_18_%282003-2009%29.png/250px-PEGI_18_%282003-2009%29.png" group-title="Adult IPTV",Big Tits
 https://xc.adultiptv.net/live/adultiptv/adultiptv/17.m3u8
-#EXTINF:-1 tvg-id="Gangbang.xc" tvg-name="Gangbang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/PEGI_18_%282003-2009%29.png/250px-PEGI_18_%282003-2009%29.png" group-title="Adult IPTV",Gangbang
-https://xc.adultiptv.net/live/adultiptv/adultiptv/18.m3u8
-#EXTINF:-1 tvg-id="Fetish.xc" tvg-name="Fetish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/PEGI_18_%282003-2009%29.png/250px-PEGI_18_%282003-2009%29.png" group-title="Adult IPTV",Fetish
-https://xc.adultiptv.net/live/adultiptv/adultiptv/19.m3u8
 #EXTINF:-1 tvg-id="Lesbian.xc" tvg-name="Lesbian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/PEGI_18_%282003-2009%29.png/250px-PEGI_18_%282003-2009%29.png" group-title="Adult IPTV",Lesbian
 https://xc.adultiptv.net/live/adultiptv/adultiptv/20.m3u8
 #EXTINF:-1 tvg-id="Blonde.xc" tvg-name="Blonde" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/PEGI_18_%282003-2009%29.png/250px-PEGI_18_%282003-2009%29.png" group-title="Adult IPTV",Blonde
 https://xc.adultiptv.net/live/adultiptv/adultiptv/21.m3u8
 #EXTINF:-1 tvg-id="Asian.xc" tvg-name="Asian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/PEGI_18_%282003-2009%29.png/250px-PEGI_18_%282003-2009%29.png" group-title="Adult IPTV",Asian
 https://xc.adultiptv.net/live/adultiptv/adultiptv/22.m3u8
-#EXTINF:-1 tvg-id="Russian.xc" tvg-name="Russian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/PEGI_18_%282003-2009%29.png/250px-PEGI_18_%282003-2009%29.png" group-title="Adult IPTV",Russian
-https://xc.adultiptv.net/live/adultiptv/adultiptv/23.m3u8
-#EXTINF:-1 tvg-id="Rough.xc" tvg-name="Rough" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/PEGI_18_%282003-2009%29.png/250px-PEGI_18_%282003-2009%29.png" group-title="Adult IPTV",Rough
-https://xc.adultiptv.net/live/adultiptv/adultiptv/24.m3u8
-#EXTINF:-1 tvg-id="Big_Ass.xc" tvg-name="Big Ass" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/PEGI_18_%282003-2009%29.png/250px-PEGI_18_%282003-2009%29.png" group-title="Adult IPTV",Big Ass
+
 
 #EXTINF:0 type="playlist" tvg-logo="https://en.wikipedia.org/wiki/Microsoft_Movies_%26_TV#/media/File:Movies_&_TV_logo.png",Lista_Filmes_e_Series
 http://dns.carnes.ink:8080/get.php?username=ZdEtSNbXb37d&password=xbb2ns98aprW&type=m3u_plus&output=m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://en.wikipedia.org/wiki/Microsoft_Movies_%26_TV#/media/File:Movies_&_TV_logo.png",Lista_Filmes_e_Series2
+http://f1ads.fastcdn-delivery.site/get.php?&username=988189694&password=432583663&type=m3u_plus
