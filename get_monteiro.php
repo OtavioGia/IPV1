@@ -56,6 +56,10 @@ https://video02.logicahost.com.br/360_maristela/360_maristela/chunklist_w1970838
 https://video02.logicahost.com.br/pensil/pensil/chunklist_w359480919.m3u8
 #EXTINF:-1 tvg-id="RioMampituba.trs" tvg-name="Rio Mampituba - Marina Paulo Prates" tvg-logo="https://torres.rs.gov.br/wp-content/uploads/2025/03/brasao-cor.png" group-title="Cameras Ao Vivo Torres RS",Rio Mampituba - Marina Paulo Prates
 https://video02.logicahost.com.br/marinapp/marinapp/chunklist_w1186029213.m3u8
+#EXTINF:-1 tvg-id="RioMampituba2.trs" tvg-name="Rio Mampituba 2" tvg-logo="https://torres.rs.gov.br/wp-content/uploads/2025/03/brasao-cor.png" group-title="Cameras Ao Vivo Torres RS",Rio Mampituba 2
+https://video02.logicahost.com.br/pordosol2/pordosol2/chunklist_w625245191.m3u8
+#EXTINF:-1 tvg-id="MarinaPorDoSol.trs" tvg-name="Marina Por do Sol" tvg-logo="https://torres.rs.gov.br/wp-content/uploads/2025/03/brasao-cor.png" group-title="Cameras Ao Vivo Torres RS",Marina Por do Sol
+https://video02.logicahost.com.br/pordosol/pordosol/chunklist_w447777542.m3u8
 #EXTINF:-1 tvg-id="QuatroPracas.trs" tvg-name="Quatro Praças" tvg-logo="https://torres.rs.gov.br/wp-content/uploads/2025/03/brasao-cor.png" group-title="Cameras Ao Vivo Torres RS",Quatro Praças
 https://video02.logicahost.com.br/quatropraca/quatropraca/chunklist_w1834772855.m3u8
 #EXTINF:-1 tvg-id="PanoramicaIlhaLobos.trs" tvg-name="Panorâmica Ilha dos Lobos" tvg-logo="https://torres.rs.gov.br/wp-content/uploads/2025/03/brasao-cor.png" group-title="Cameras Ao Vivo Torres RS",Panorâmica Ilha dos Lobos
