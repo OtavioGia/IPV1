@@ -100,6 +100,8 @@ https://video02.logicahost.com.br/aerorealizar/aerorealizar/chunklist_w955637404
 # --- Fonte 18 Max 3 Exp 25/12/2025 http://7vnx.xyz:8080/player_api.php?username=delcio&password=99118656 http://7vnx.xyz:8080/get.php?username=delcio&password=99118656&type=m3u_plus   ---
 # --- Fonte 19 Max 3 Exp 24/10/2025 http://7vnx.xyz:80/player_api.php?username=7csplay&password=seven2022 http://7vnx.xyz:8080/get.php?username=SamiraColodo&password=9hYJKLw7&type=m3u_plus   ---
 # --- Fonte 22 Max 5 Exp xx/xx/2035 http://saga10.pro/player_api.php?&username=148043&password=844063 http://saga10.pro/get.php?&username=148043&password=844063&type=m3u_plus   ---
+# --- Fonte 23 Max 3 Exp xx/xx/2025 http://yesme.shop/player_api.php?username=Gledson&password=Gledson http://yesme.shop/get.php?username=Gledson&password=Gledson&type=m3u_plus   ---
+# --- Fonte 24 Max 3 Exp xx/xx/2025 http://yesme.shop/player_api.php?username=592693566&password=291894002 http://yesme.shop/get.php?username=592693566&password=291894002&type=m3u_plus    ---
 
 #EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO BRASILIENSE HD¹" tvg-logo="http://contentsdeliver.link/logos/campeonatobrasiliensehd.png" group-title="F16 M5 CAMPEONATOS ESTADUAIS",CAMPEONATO BRASILIENSE HD¹
 http://trabalho724.top:8080/7csplay/seven2022/327183
@@ -24024,6 +24026,5109 @@ http://saga10.pro:80/148043/844063/5103300
 #EXTINF:-1 tvg-id="" tvg-name="Sinal 6 HD" tvg-logo="https://s2-oglobo.glbimg.com/qezC7GfblM6gG4ZwhIPDdMOGA1s=/0x0:1600x1200/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2024/h/a/P4yZAaSJyd9uvmaMHrHg/whatsapp-image-2024-09-16-at-08.42.30.jpeg" group-title="F22 M5 CANAIS A FAZENDA",Sinal 6 HD
 http://saga10.pro:80/148043/844063/5103301
 
+#EXTINF:-1 tvg-id="dummy-123" tvg-name="CAM 01: A Fazenda" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/a-fazenda-17.png" group-title="F23 M3  REALITY",CAM 01: A Fazenda
+http://cloudsalex.space:80/Gledson/Gledson/9014197.ts
+#EXTINF:-1 tvg-id="dummy-994" tvg-name="CAM 02: A Fazenda" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/a-fazenda-17.png" group-title="F23 M3  REALITY",CAM 02: A Fazenda
+http://cloudsalex.space:80/Gledson/Gledson/9014198.ts
+#EXTINF:-1 tvg-id="dummy-995" tvg-name="CAM 03: A Fazenda" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/a-fazenda-17.png" group-title="F23 M3  REALITY",CAM 03: A Fazenda
+http://cloudsalex.space:80/Gledson/Gledson/9014199.ts
+#EXTINF:-1 tvg-id="dummy-996" tvg-name="CAM 04: A Fazenda" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/a-fazenda-17.png" group-title="F23 M3  REALITY",CAM 04: A Fazenda
+http://cloudsalex.space:80/Gledson/Gledson/9014200.ts
+#EXTINF:-1 tvg-id="dummy-997" tvg-name="CAM 05: A Fazenda" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/a-fazenda-17.png" group-title="F23 M3  REALITY",CAM 05: A Fazenda
+http://cloudsalex.space:80/Gledson/Gledson/9014201.ts
+#EXTINF:-1 tvg-id="dummy-998" tvg-name="CAM 06: A Fazenda" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/a-fazenda-17.png" group-title="F23 M3  REALITY",CAM 06: A Fazenda
+http://cloudsalex.space:80/Gledson/Gledson/9014202.ts
+#EXTINF:-1 tvg-id="dummy-709" tvg-name="RECEITAS FAST HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/receitas-fast-fhd.png" group-title="F23 M3  24H STREAMING",RECEITAS FAST HD
+http://cloudsalex.space:80/Gledson/Gledson/9014203.ts
+#EXTINF:-1 tvg-id="dummy-605" tvg-name="MALHAÇÃO FAST HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/malhacao-fast-fhd.png" group-title="F23 M3  24H STREAMING",MALHAÇÃO FAST HD
+http://cloudsalex.space:80/Gledson/Gledson/9014204.ts
+#EXTINF:-1 tvg-id="dummy-313" tvg-name="D.P.A. FAST HD" tvg-logo="https://7svoficial.com/canais/globoplay.png" group-title="F23 M3  24H STREAMING",D.P.A. FAST HD
+http://cloudsalex.space:80/Gledson/Gledson/9014205.ts
+#EXTINF:-1 tvg-id="globorio.br" tvg-name="GLOBO RIO DE JANEIRO HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO RIO DE JANEIRO HD
+http://cloudsalex.space:80/Gledson/Gledson/9014206.ts
+#EXTINF:-1 tvg-id="globorio.br" tvg-name="GLOBO RIO DE JANEIRO FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO RIO DE JANEIRO FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014207.ts
+#EXTINF:-1 tvg-id="bandsãopaulo.br" tvg-name="GLOBO SÃO PAULO HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO SÃO PAULO HD
+http://cloudsalex.space:80/Gledson/Gledson/9014208.ts
+#EXTINF:-1 tvg-id="bandsãopaulo.br" tvg-name="GLOBO SÃO PAULO FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO SÃO PAULO FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014209.ts
+#EXTINF:-1 tvg-id="rbstvportoalegre.br" tvg-name="GLOBO RBS PORTO ALEGRE FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO RBS PORTO ALEGRE FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014210.ts
+#EXTINF:-1 tvg-id="rbstvportoalegre.br" tvg-name="GLOBO RBS PORTO ALEGRE HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO RBS PORTO ALEGRE HD
+http://cloudsalex.space:80/Gledson/Gledson/9014211.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS CAXIAS DO SUL FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO RBS CAXIAS DO SUL FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014212.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS CAXIAS DO SUL HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO RBS CAXIAS DO SUL HD
+http://cloudsalex.space:80/Gledson/Gledson/9014213.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS PASSO FUNDO FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO RBS PASSO FUNDO FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014214.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS PASSO FUNDO HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO RBS PASSO FUNDO HD
+http://cloudsalex.space:80/Gledson/Gledson/9014215.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS PELOTAS FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO RBS PELOTAS FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014216.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS PELOTAS HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO RBS PELOTAS HD
+http://cloudsalex.space:80/Gledson/Gledson/9014217.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS SANTA CRUZ DO SUL FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO RBS SANTA CRUZ DO SUL FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014218.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS SANTA CRUZ DO SUL HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO RBS SANTA CRUZ DO SUL HD
+http://cloudsalex.space:80/Gledson/Gledson/9014219.ts
+#EXTINF:-1 tvg-id="nsctvflorianópolis.br" tvg-name="GLOBO NSC FLORIANÓPOLIS FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO NSC FLORIANÓPOLIS FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014220.ts
+#EXTINF:-1 tvg-id="nsctvflorianópolis.br" tvg-name="GLOBO NSC FLORIANÓPOLIS HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO NSC FLORIANÓPOLIS HD
+http://cloudsalex.space:80/Gledson/Gledson/9014221.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC BLUMENAU FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO NSC BLUMENAU FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014222.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC BLUMENAU HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO NSC BLUMENAU HD
+http://cloudsalex.space:80/Gledson/Gledson/9014223.ts
+#EXTINF:-1 tvg-id="nsctvchapecó.br" tvg-name="GLOBO NSC CHAPECÓ FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO NSC CHAPECÓ FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014224.ts
+#EXTINF:-1 tvg-id="nsctvchapecó.br" tvg-name="GLOBO NSC CHAPECÓ HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO NSC CHAPECÓ HD
+http://cloudsalex.space:80/Gledson/Gledson/9014225.ts
+#EXTINF:-1 tvg-id="nsctvcriciúma.br" tvg-name="GLOBO NSC CRICIÚMA FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO NSC CRICIÚMA FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014226.ts
+#EXTINF:-1 tvg-id="nsctvcriciúma.br" tvg-name="GLOBO NSC CRICIÚMA HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO NSC CRICIÚMA HD
+http://cloudsalex.space:80/Gledson/Gledson/9014227.ts
+#EXTINF:-1 tvg-id="nsctvjoinville.br" tvg-name="GLOBO NSC JOINVILLE FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO NSC JOINVILLE FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014228.ts
+#EXTINF:-1 tvg-id="nsctvjoinville.br" tvg-name="GLOBO NSC JOINVILLE HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO NSC JOINVILLE HD
+http://cloudsalex.space:80/Gledson/Gledson/9014229.ts
+#EXTINF:-1 tvg-id="rpccuritiba.br" tvg-name="GLOBO RPC CURITIBA FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO RPC CURITIBA FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014230.ts
+#EXTINF:-1 tvg-id="rpccuritiba.br" tvg-name="GLOBO RPC CURITIBA HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO RPC CURITIBA HD
+http://cloudsalex.space:80/Gledson/Gledson/9014231.ts
+#EXTINF:-1 tvg-id="rpcfozdoiguaçu.br" tvg-name="GLOBO RPC FOZ DO IGUAÇU FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO RPC FOZ DO IGUAÇU FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014232.ts
+#EXTINF:-1 tvg-id="rpcfozdoiguaçu.br" tvg-name="GLOBO RPC FOZ DO IGUAÇU HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO RPC FOZ DO IGUAÇU HD
+http://cloudsalex.space:80/Gledson/Gledson/9014233.ts
+#EXTINF:-1 tvg-id="rpc.maringa.br" tvg-name="GLOBO RPC MARINGÁ FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO RPC MARINGÁ FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014234.ts
+#EXTINF:-1 tvg-id="rpc.maringa.br" tvg-name="GLOBO RPC MARINGÁ HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO RPC MARINGÁ HD
+http://cloudsalex.space:80/Gledson/Gledson/9014235.ts
+#EXTINF:-1 tvg-id="rpcparanavaí.br" tvg-name="GLOBO RPC PARANAVAÍ FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO RPC PARANAVAÍ FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014236.ts
+#EXTINF:-1 tvg-id="rpcparanavaí.br" tvg-name="GLOBO RPC PARANAVAÍ HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO RPC PARANAVAÍ HD
+http://cloudsalex.space:80/Gledson/Gledson/9014237.ts
+#EXTINF:-1 tvg-id="rpcpontagrossa.br" tvg-name="GLOBO RPC PONTA GROSSA FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO RPC PONTA GROSSA FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014238.ts
+#EXTINF:-1 tvg-id="rpcpontagrossa.br" tvg-name="GLOBO RPC PONTA GROSSA HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO RPC PONTA GROSSA HD
+http://cloudsalex.space:80/Gledson/Gledson/9014239.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC LONDRINA FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO RPC LONDRINA FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014240.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC LONDRINA HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO RPC LONDRINA HD
+http://cloudsalex.space:80/Gledson/Gledson/9014241.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV CAMPINAS FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO EPTV CAMPINAS FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014242.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV CAMPINAS HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO EPTV CAMPINAS HD
+http://cloudsalex.space:80/Gledson/Gledson/9014243.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV RIBEIRÃO PRETO FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO EPTV RIBEIRÃO PRETO FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014244.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV RIBEIRÃO PRETO HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO EPTV RIBEIRÃO PRETO HD
+http://cloudsalex.space:80/Gledson/Gledson/9014245.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV SUL DE MINAS FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO EPTV SUL DE MINAS FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014246.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV SUL DE MINAS HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO EPTV SUL DE MINAS HD
+http://cloudsalex.space:80/Gledson/Gledson/9014247.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO ACRE RIO BRANCO FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO ACRE RIO BRANCO FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014248.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO ACRE RIO BRANCO HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO ACRE RIO BRANCO HD
+http://cloudsalex.space:80/Gledson/Gledson/9014249.ts
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO BELÉM FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO BELÉM FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014250.ts
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO BELÉM HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO BELÉM HD
+http://cloudsalex.space:80/Gledson/Gledson/9014251.ts
+#EXTINF:-1 tvg-id="globobrasília.br" tvg-name="GLOBO BRASÍLIA FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO BRASÍLIA FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014252.ts
+#EXTINF:-1 tvg-id="globobrasília.br" tvg-name="GLOBO BRASÍLIA HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO BRASÍLIA HD
+http://cloudsalex.space:80/Gledson/Gledson/9014253.ts
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO MINAS FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO MINAS FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014254.ts
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO MINAS HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO MINAS HD
+http://cloudsalex.space:80/Gledson/Gledson/9014255.ts
+#EXTINF:-1 tvg-id="globonordeste.br" tvg-name="GLOBO NORDESTE FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO NORDESTE FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014256.ts
+#EXTINF:-1 tvg-id="globonordeste.br" tvg-name="GLOBO NORDESTE HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO NORDESTE HD
+http://cloudsalex.space:80/Gledson/Gledson/9014257.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO MANAUS FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO MANAUS FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014258.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO MANAUS HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO MANAUS HD
+http://cloudsalex.space:80/Gledson/Gledson/9014259.ts
+#EXTINF:-1 tvg-id="globoanhanguera.br" tvg-name="GLOBO ANHANGUERA FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO ANHANGUERA FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014260.ts
+#EXTINF:-1 tvg-id="globoanhanguera.br" tvg-name="GLOBO ANHANGUERA HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO ANHANGUERA HD
+http://cloudsalex.space:80/Gledson/Gledson/9014261.ts
+#EXTINF:-1 tvg-id="globotvbahia.br" tvg-name="GLOBO BAHIA FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO BAHIA FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014262.ts
+#EXTINF:-1 tvg-id="globotvbahia.br" tvg-name="GLOBO BAHIA HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO BAHIA HD
+http://cloudsalex.space:80/Gledson/Gledson/9014263.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TEM BAURU FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO TEM BAURU FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014264.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TEM BAURU HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO TEM BAURU HD
+http://cloudsalex.space:80/Gledson/Gledson/9014265.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TEM SOROCABA FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO TEM SOROCABA FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014266.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TEM SOROCABA HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO TEM SOROCABA HD
+http://cloudsalex.space:80/Gledson/Gledson/9014267.ts
+#EXTINF:-1 tvg-id="globotvtribuna.br" tvg-name="GLOBO TRIBUNA SANTOS FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO TRIBUNA SANTOS FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014268.ts
+#EXTINF:-1 tvg-id="globotvtribuna.br" tvg-name="GLOBO TRIBUNA SANTOS HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO TRIBUNA SANTOS HD
+http://cloudsalex.space:80/Gledson/Gledson/9014269.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO VANG. S.J. CAMPOS FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO VANG. S.J. CAMPOS FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014270.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO VANG. S.J. CAMPOS HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO VANG. S.J. CAMPOS HD
+http://cloudsalex.space:80/Gledson/Gledson/9014271.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO VANG. TAUBATÉ FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO VANG. TAUBATÉ FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014272.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO VANG. TAUBATÉ HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO VANG. TAUBATÉ HD
+http://cloudsalex.space:80/Gledson/Gledson/9014273.ts
+#EXTINF:-1 tvg-id="tvverdesmares.br" tvg-name="GLOBO VERDES MARES FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO VERDES MARES FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014274.ts
+#EXTINF:-1 tvg-id="tvverdesmares.br" tvg-name="GLOBO VERDES MARES HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO VERDES MARES HD
+http://cloudsalex.space:80/Gledson/Gledson/9014275.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO CENTRO AMÉRICA FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO CENTRO AMÉRICA FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014276.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO CENTRO AMÉRICA HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO CENTRO AMÉRICA HD
+http://cloudsalex.space:80/Gledson/Gledson/9014277.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV ALTO LITORAL FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO INTER TV ALTO LITORAL FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014278.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV ALTO LITORAL HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO INTER TV ALTO LITORAL HD
+http://cloudsalex.space:80/Gledson/Gledson/9014279.ts
+#EXTINF:-1 tvg-id="dummy-413" tvg-name="GLOBO INTER TV DOS VALES FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO INTER TV DOS VALES FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014280.ts
+#EXTINF:-1 tvg-id="dummy-413" tvg-name="GLOBO INTER TV DOS VALES HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO INTER TV DOS VALES HD
+http://cloudsalex.space:80/Gledson/Gledson/9014281.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV GRANDE MINAS FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO INTER TV GRANDE MINAS FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014282.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV GRANDE MINAS HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO INTER TV GRANDE MINAS HD
+http://cloudsalex.space:80/Gledson/Gledson/9014283.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO ALAGOAS FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO ALAGOAS FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014284.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO ALAGOAS HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO ALAGOAS HD
+http://cloudsalex.space:80/Gledson/Gledson/9014285.ts
+#EXTINF:-1 tvg-id="tvcabobranco.br" tvg-name="GLOBO ASA BRANCA FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO ASA BRANCA FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014286.ts
+#EXTINF:-1 tvg-id="tvcabobranco.br" tvg-name="GLOBO ASA BRANCA HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO ASA BRANCA HD
+http://cloudsalex.space:80/Gledson/Gledson/9014287.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO FRONTEIRA FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO FRONTEIRA FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014288.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO FRONTEIRA HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO FRONTEIRA HD
+http://cloudsalex.space:80/Gledson/Gledson/9014289.ts
+#EXTINF:-1 tvg-id="tvgazetasul.br" tvg-name="GLOBO GAZETA SUL FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO GAZETA SUL FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014290.ts
+#EXTINF:-1 tvg-id="tvgazetasul.br" tvg-name="GLOBO GAZETA SUL HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO GAZETA SUL HD
+http://cloudsalex.space:80/Gledson/Gledson/9014291.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTEG. JUIZ DE FORA FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO INTEG. JUIZ DE FORA FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014292.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTEG. JUIZ DE FORA HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO INTEG. JUIZ DE FORA HD
+http://cloudsalex.space:80/Gledson/Gledson/9014293.ts
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO MORENA FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO MORENA FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014294.ts
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO MORENA HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO MORENA HD
+http://cloudsalex.space:80/Gledson/Gledson/9014295.ts
+#EXTINF:-1 tvg-id="globorio.br" tvg-name="GLOBO RIO SUL FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO RIO SUL FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014296.ts
+#EXTINF:-1 tvg-id="globorio.br" tvg-name="GLOBO RIO SUL HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO RIO SUL HD
+http://cloudsalex.space:80/Gledson/Gledson/9014297.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO SERRA MAR FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO SERRA MAR FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014298.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO SERRA MAR HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO SERRA MAR HD
+http://cloudsalex.space:80/Gledson/Gledson/9014299.ts
+#EXTINF:-1 tvg-id="tvsergipe.br" tvg-name="GLOBO SERGIPE FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO SERGIPE FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014300.ts
+#EXTINF:-1 tvg-id="tvsergipe.br" tvg-name="GLOBO SERGIPE HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO SERGIPE HD
+http://cloudsalex.space:80/Gledson/Gledson/9014301.ts
+#EXTINF:-1 tvg-id="tvmirantesãoluis.br" tvg-name="GLOBO MIRANTE SÃO LUÍS FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO MIRANTE SÃO LUÍS FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014302.ts
+#EXTINF:-1 tvg-id="tvmirantesãoluis.br" tvg-name="GLOBO MIRANTE SÃO LUÍS HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO MIRANTE SÃO LUÍS HD
+http://cloudsalex.space:80/Gledson/Gledson/9014303.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO MIRANTE IMPERATRIZ FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO MIRANTE IMPERATRIZ FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014304.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO MIRANTE IMPERATRIZ HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO MIRANTE IMPERATRIZ HD
+http://cloudsalex.space:80/Gledson/Gledson/9014305.ts
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO SUBAÉ FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO SUBAÉ FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014306.ts
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO SUBAÉ HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO SUBAÉ HD
+http://cloudsalex.space:80/Gledson/Gledson/9014307.ts
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD RJ FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F23 M3  RECORD",RECORD RJ FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014308.ts
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD RJ HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F23 M3  RECORD",RECORD RJ HD
+http://cloudsalex.space:80/Gledson/Gledson/9014309.ts
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD SP FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F23 M3  RECORD",RECORD SP FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014310.ts
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD SP HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F23 M3  RECORD",RECORD SP HD
+http://cloudsalex.space:80/Gledson/Gledson/9014311.ts
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD RS FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F23 M3  RECORD",RECORD RS FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014312.ts
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD RS HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F23 M3  RECORD",RECORD RS HD
+http://cloudsalex.space:80/Gledson/Gledson/9014313.ts
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD BAHIA FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F23 M3  RECORD",RECORD BAHIA FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014314.ts
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD BAHIA HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F23 M3  RECORD",RECORD BAHIA HD
+http://cloudsalex.space:80/Gledson/Gledson/9014315.ts
+#EXTINF:-1 tvg-id="recordtvbelém.br" tvg-name="RECORD BELÉM FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F23 M3  RECORD",RECORD BELÉM FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014316.ts
+#EXTINF:-1 tvg-id="recordtvbelém.br" tvg-name="RECORD BELÉM HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F23 M3  RECORD",RECORD BELÉM HD
+http://cloudsalex.space:80/Gledson/Gledson/9014317.ts
+#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="RECORD BRASÍLIA FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F23 M3  RECORD",RECORD BRASÍLIA FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014318.ts
+#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="RECORD BRASÍLIA HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F23 M3  RECORD",RECORD BRASÍLIA HD
+http://cloudsalex.space:80/Gledson/Gledson/9014319.ts
+#EXTINF:-1 tvg-id="recordtvgoiás.br" tvg-name="RECORD GOIÁS FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F23 M3  RECORD",RECORD GOIÁS FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014320.ts
+#EXTINF:-1 tvg-id="recordtvgoiás.br" tvg-name="RECORD GOIÁS HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F23 M3  RECORD",RECORD GOIÁS HD
+http://cloudsalex.space:80/Gledson/Gledson/9014321.ts
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD MANAUS FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F23 M3  RECORD",RECORD MANAUS FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014322.ts
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD MANAUS HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F23 M3  RECORD",RECORD MANAUS HD
+http://cloudsalex.space:80/Gledson/Gledson/9014323.ts
+#EXTINF:-1 tvg-id="recordtvminas.br" tvg-name="RECORD MINAS FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F23 M3  RECORD",RECORD MINAS FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014324.ts
+#EXTINF:-1 tvg-id="recordtvminas.br" tvg-name="RECORD MINAS HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F23 M3  RECORD",RECORD MINAS HD
+http://cloudsalex.space:80/Gledson/Gledson/9014325.ts
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="AGRO MAIS FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/https-yt3googleusercontentcom-2gryoij-gwwiae0mlkb-wzpyrg-wvznsclgfqijuk-20250923-213714-0000.png" group-title="F23 M3  ABERTOS",AGRO MAIS FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014326.ts
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="AGRO MAIS HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/https-yt3googleusercontentcom-2gryoij-gwwiae0mlkb-wzpyrg-wvznsclgfqijuk-20250923-213714-0000.png" group-title="F23 M3  ABERTOS",AGRO MAIS HD
+http://cloudsalex.space:80/Gledson/Gledson/9014327.ts
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="AGRO MAIS SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/https-yt3googleusercontentcom-2gryoij-gwwiae0mlkb-wzpyrg-wvznsclgfqijuk-20250923-213714-0000.png" group-title="F23 M3  ABERTOS",AGRO MAIS SD
+http://cloudsalex.space:80/Gledson/Gledson/9014328.ts
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/band-sp-fhd.png" group-title="F23 M3  BAND",BAND FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014329.ts
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/band-sp-fhd.png" group-title="F23 M3  BAND",BAND HD
+http://cloudsalex.space:80/Gledson/Gledson/9014330.ts
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/band-sp-fhd.png" group-title="F23 M3  BAND",BAND SD
+http://cloudsalex.space:80/Gledson/Gledson/9014331.ts
+#EXTINF:-1 tvg-id="canaldoboi.br" tvg-name="CANAL DO BOI HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/canal-do-boi-hd.png" group-title="F23 M3  ABERTOS",CANAL DO BOI HD
+http://cloudsalex.space:80/Gledson/Gledson/9014332.ts
+#EXTINF:-1 tvg-id="canalrural.br" tvg-name="CANAL RURAL HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/canal-rural-fhd.png" group-title="F23 M3  ABERTOS",CANAL RURAL HD
+http://cloudsalex.space:80/Gledson/Gledson/9014333.ts
+#EXTINF:-1 tvg-id="futura.br" tvg-name="CANAL FUTURA FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/futura-fhd.png" group-title="F23 M3  ABERTOS",CANAL FUTURA FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014334.ts
+#EXTINF:-1 tvg-id="futura.br" tvg-name="CANAL FUTURA HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/futura-fhd.png" group-title="F23 M3  ABERTOS",CANAL FUTURA HD
+http://cloudsalex.space:80/Gledson/Gledson/9014335.ts
+#EXTINF:-1 tvg-id="futura.br" tvg-name="CANAL FUTURA SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/futura-fhd.png" group-title="F23 M3  ABERTOS",CANAL FUTURA SD
+http://cloudsalex.space:80/Gledson/Gledson/9014336.ts
+#EXTINF:-1 tvg-id="cultura.br" tvg-name="CULTURA FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/tv-cultura-fhd.png" group-title="F23 M3  ABERTOS",CULTURA FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014337.ts
+#EXTINF:-1 tvg-id="cultura.br" tvg-name="CULTURA HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/tv-cultura-fhd.png" group-title="F23 M3  ABERTOS",CULTURA HD
+http://cloudsalex.space:80/Gledson/Gledson/9014338.ts
+#EXTINF:-1 tvg-id="cultura.br" tvg-name="CULTURA SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/tv-cultura-fhd.png" group-title="F23 M3  ABERTOS",CULTURA SD
+http://cloudsalex.space:80/Gledson/Gledson/9014339.ts
+#EXTINF:-1 tvg-id="tvgazeta.br" tvg-name="GAZETA HD" tvg-logo="https://7svoficial.com/canais/gazeta.png" group-title="F23 M3  ABERTOS",GAZETA HD
+http://cloudsalex.space:80/Gledson/Gledson/9014340.ts
+#EXTINF:-1 tvg-id="" tvg-name="PLAY TV HD" tvg-logo="https://7svoficial.com/canais/playtv.png" group-title="F23 M3  ABERTOS",PLAY TV HD
+http://cloudsalex.space:80/Gledson/Gledson/9014341.ts
+#EXTINF:-1 tvg-id="tvpampa.br" tvg-name="TV PAMPA HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/tv-pampa.png" group-title="F23 M3  ABERTOS",TV PAMPA HD
+http://cloudsalex.space:80/Gledson/Gledson/9014342.ts
+#EXTINF:-1 tvg-id="redetv!.br" tvg-name="REDETV FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/rede-tv-sd.png" group-title="F23 M3  ABERTOS",REDETV FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014343.ts
+#EXTINF:-1 tvg-id="redetv!.br" tvg-name="REDETV HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/rede-tv-sd.png" group-title="F23 M3  ABERTOS",REDETV HD
+http://cloudsalex.space:80/Gledson/Gledson/9014344.ts
+#EXTINF:-1 tvg-id="redetv!.br" tvg-name="REDETV SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/rede-tv-sd.png" group-title="F23 M3  ABERTOS",REDETV SD
+http://cloudsalex.space:80/Gledson/Gledson/9014345.ts
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/stb-novo.png" group-title="F23 M3  SBT",SBT FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014346.ts
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/stb-novo.png" group-title="F23 M3  SBT",SBT HD
+http://cloudsalex.space:80/Gledson/Gledson/9014347.ts
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/stb-novo.png" group-title="F23 M3  SBT",SBT SD
+http://cloudsalex.space:80/Gledson/Gledson/9014348.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV ARATU HD" tvg-logo="https://7svoficial.com/canais/sbt.png" group-title="F23 M3  ABERTOS",TV ARATU HD
+http://cloudsalex.space:80/Gledson/Gledson/9014349.ts
+#EXTINF:-1 tvg-id="redebrasil.br" tvg-name="REDE BRASIL HD" tvg-logo="https://7svoficial.com/canais/redebrasil.png" group-title="F23 M3  ABERTOS",REDE BRASIL HD
+http://cloudsalex.space:80/Gledson/Gledson/9014350.ts
+#EXTINF:-1 tvg-id="terraviva.br" tvg-name="TERRA VIVA HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/terra-viva.png" group-title="F23 M3  ABERTOS",TERRA VIVA HD
+http://cloudsalex.space:80/Gledson/Gledson/9014351.ts
+#EXTINF:-1 tvg-id="tvbrasil.br" tvg-name="TV BRASIL HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/tv-brasil-hd.png" group-title="F23 M3  ABERTOS",TV BRASIL HD
+http://cloudsalex.space:80/Gledson/Gledson/9014352.ts
+#EXTINF:-1 tvg-id="tv.camara.br" tvg-name="TV CÂMARA HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/tv-camara-fhd.png" group-title="F23 M3  ABERTOS",TV CÂMARA HD
+http://cloudsalex.space:80/Gledson/Gledson/9014353.ts
+#EXTINF:-1 tvg-id="tvsenado.br" tvg-name="TV SENADO HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/tv-senado-fhd.png" group-title="F23 M3  ABERTOS",TV SENADO HD
+http://cloudsalex.space:80/Gledson/Gledson/9014354.ts
+#EXTINF:-1 tvg-id="dummy-208" tvg-name="CANAL GOV HD" tvg-logo="https://7svoficial.com/canais/gov.png" group-title="F23 M3  ABERTOS",CANAL GOV HD
+http://cloudsalex.space:80/Gledson/Gledson/9014355.ts
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="TELECINE ACTION FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/telecine-action-hd-alt.png" group-title="F23 M3  TELECINE",TELECINE ACTION FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014356.ts
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="TELECINE ACTION HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/telecine-action-hd-alt.png" group-title="F23 M3  TELECINE",TELECINE ACTION HD
+http://cloudsalex.space:80/Gledson/Gledson/9014357.ts
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="TELECINE ACTION SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/telecine-action-hd-alt.png" group-title="F23 M3  TELECINE",TELECINE ACTION SD
+http://cloudsalex.space:80/Gledson/Gledson/9014358.ts
+#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="TELECINE CULT FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/telecine-cult-sd.png" group-title="F23 M3  TELECINE",TELECINE CULT FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014359.ts
+#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="TELECINE CULT HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/telecine-cult-sd.png" group-title="F23 M3  TELECINE",TELECINE CULT HD
+http://cloudsalex.space:80/Gledson/Gledson/9014360.ts
+#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="TELECINE CULT SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/telecine-cult-sd.png" group-title="F23 M3  TELECINE",TELECINE CULT SD
+http://cloudsalex.space:80/Gledson/Gledson/9014361.ts
+#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="TELECINE FUN FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/telecine-fun-hd.png" group-title="F23 M3  TELECINE",TELECINE FUN FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014362.ts
+#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="TELECINE FUN HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/telecine-fun-hd.png" group-title="F23 M3  TELECINE",TELECINE FUN HD
+http://cloudsalex.space:80/Gledson/Gledson/9014363.ts
+#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="TELECINE FUN SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/telecine-fun-hd.png" group-title="F23 M3  TELECINE",TELECINE FUN SD
+http://cloudsalex.space:80/Gledson/Gledson/9014364.ts
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="TELECINE PIPOCA FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/telecine-pipoca-sd.png" group-title="F23 M3  TELECINE",TELECINE PIPOCA FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014365.ts
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="TELECINE PIPOCA HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/telecine-pipoca-sd.png" group-title="F23 M3  TELECINE",TELECINE PIPOCA HD
+http://cloudsalex.space:80/Gledson/Gledson/9014366.ts
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="TELECINE PIPOCA SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/telecine-pipoca-sd.png" group-title="F23 M3  TELECINE",TELECINE PIPOCA SD
+http://cloudsalex.space:80/Gledson/Gledson/9014367.ts
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TELECINE PREMIUM FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/telecine-premium-hd.png" group-title="F23 M3  TELECINE",TELECINE PREMIUM FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014368.ts
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/telecine-premium-hd.png" group-title="F23 M3  TELECINE",TELECINE PREMIUM HD
+http://cloudsalex.space:80/Gledson/Gledson/9014369.ts
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TELECINE PREMIUM SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/telecine-premium-hd.png" group-title="F23 M3  TELECINE",TELECINE PREMIUM SD
+http://cloudsalex.space:80/Gledson/Gledson/9014370.ts
+#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="TELECINE TOUCH FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/telecine-premium-hd.png" group-title="F23 M3  TELECINE",TELECINE TOUCH FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014371.ts
+#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="TELECINE TOUCH HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/telecine-premium-hd.png" group-title="F23 M3  TELECINE",TELECINE TOUCH HD
+http://cloudsalex.space:80/Gledson/Gledson/9014372.ts
+#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="TELECINE TOUCH SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/telecine-premium-hd.png" group-title="F23 M3  TELECINE",TELECINE TOUCH SD
+http://cloudsalex.space:80/Gledson/Gledson/9014373.ts
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/hbo-family-fhd.png" group-title="F23 M3  HBO",HBO FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014374.ts
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/hbo-1-fhd.png" group-title="F23 M3  HBO",HBO HD
+http://cloudsalex.space:80/Gledson/Gledson/9014375.ts
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/hbo-1-fhd.png" group-title="F23 M3  HBO",HBO SD
+http://cloudsalex.space:80/Gledson/Gledson/9014376.ts
+#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/hbo-2-hd-alt.png" group-title="F23 M3  HBO",HBO 2 FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014377.ts
+#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/hbo-2-hd-alt.png" group-title="F23 M3  HBO",HBO 2 HD
+http://cloudsalex.space:80/Gledson/Gledson/9014378.ts
+#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/hbo-2-hd-alt.png" group-title="F23 M3  HBO",HBO 2 SD
+http://cloudsalex.space:80/Gledson/Gledson/9014379.ts
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO FAMILY FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/hbo-family-fhd.png" group-title="F23 M3  HBO",HBO FAMILY FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014380.ts
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO FAMILY HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/hbo-family-fhd.png" group-title="F23 M3  HBO",HBO FAMILY HD
+http://cloudsalex.space:80/Gledson/Gledson/9014381.ts
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO FAMILY SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/hbo-family-fhd.png" group-title="F23 M3  HBO",HBO FAMILY SD
+http://cloudsalex.space:80/Gledson/Gledson/9014382.ts
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO+ FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/hbo-plus-fhd.png" group-title="F23 M3  HBO",HBO+ FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014383.ts
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO+ HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/hbo-plus-fhd.png" group-title="F23 M3  HBO",HBO+ HD
+http://cloudsalex.space:80/Gledson/Gledson/9014384.ts
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO+ SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/hbo-plus-fhd.png" group-title="F23 M3  HBO",HBO+ SD
+http://cloudsalex.space:80/Gledson/Gledson/9014385.ts
+#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO MUNDI FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/hbo-mundi-4k.png" group-title="F23 M3  HBO",HBO MUNDI FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014386.ts
+#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO MUNDI HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/hbo-mundi-4k.png" group-title="F23 M3  HBO",HBO MUNDI HD
+http://cloudsalex.space:80/Gledson/Gledson/9014387.ts
+#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO MUNDI SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/hbo-mundi-4k.png" group-title="F23 M3  HBO",HBO MUNDI SD
+http://cloudsalex.space:80/Gledson/Gledson/9014388.ts
+#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO POP FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/hbo-pop-4k.png" group-title="F23 M3  HBO",HBO POP FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014389.ts
+#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO POP HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/hbo-pop-4k.png" group-title="F23 M3  HBO",HBO POP HD
+http://cloudsalex.space:80/Gledson/Gledson/9014390.ts
+#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO POP SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/hbo-pop-4k.png" group-title="F23 M3  HBO",HBO POP SD
+http://cloudsalex.space:80/Gledson/Gledson/9014391.ts
+#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO SIGNATURE FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/hbo-signature-4k.png" group-title="F23 M3  HBO",HBO SIGNATURE FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014392.ts
+#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO SIGNATURE HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/hbo-signature-4k.png" group-title="F23 M3  HBO",HBO SIGNATURE HD
+http://cloudsalex.space:80/Gledson/Gledson/9014393.ts
+#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO SIGNATURE SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/hbo-signature-4k.png" group-title="F23 M3  HBO",HBO SIGNATURE SD
+http://cloudsalex.space:80/Gledson/Gledson/9014394.ts
+#EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBO XTREME FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/hbo-xtreme-4k.png" group-title="F23 M3  HBO",HBO XTREME FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014395.ts
+#EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBO XTREME HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/hbo-xtreme-4k.png" group-title="F23 M3  HBO",HBO XTREME HD
+http://cloudsalex.space:80/Gledson/Gledson/9014396.ts
+#EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBO XTREME SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/hbo-xtreme-4k.png" group-title="F23 M3  HBO",HBO XTREME SD
+http://cloudsalex.space:80/Gledson/Gledson/9014397.ts
+#EXTINF:-1 tvg-id="a&e.br" tvg-name="A&E FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/ae-fhd-alt.png" group-title="F23 M3  FILMES E SÉRIES",A&E FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014398.ts
+#EXTINF:-1 tvg-id="a&e.br" tvg-name="A&E HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/ae-fhd-alt.png" group-title="F23 M3  FILMES E SÉRIES",A&E HD
+http://cloudsalex.space:80/Gledson/Gledson/9014399.ts
+#EXTINF:-1 tvg-id="a&e.br" tvg-name="A&E SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/ae-fhd-alt.png" group-title="F23 M3  FILMES E SÉRIES",A&E SD
+http://cloudsalex.space:80/Gledson/Gledson/9014400.ts
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/amc-4k.png" group-title="F23 M3  FILMES E SÉRIES",AMC FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014401.ts
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/amc-4k.png" group-title="F23 M3  FILMES E SÉRIES",AMC HD
+http://cloudsalex.space:80/Gledson/Gledson/9014402.ts
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/amc-4k.png" group-title="F23 M3  FILMES E SÉRIES",AMC SD
+http://cloudsalex.space:80/Gledson/Gledson/9014403.ts
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/axn-fhd.png" group-title="F23 M3  FILMES E SÉRIES",AXN FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014404.ts
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/axn-fhd.png" group-title="F23 M3  FILMES E SÉRIES",AXN HD
+http://cloudsalex.space:80/Gledson/Gledson/9014405.ts
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/axn-fhd.png" group-title="F23 M3  FILMES E SÉRIES",AXN SD
+http://cloudsalex.space:80/Gledson/Gledson/9014406.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL SONY FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/canal-sony-4k.png" group-title="F23 M3  FILMES E SÉRIES",CANAL SONY FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014407.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL SONY HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/canal-sony-4k.png" group-title="F23 M3  FILMES E SÉRIES",CANAL SONY HD
+http://cloudsalex.space:80/Gledson/Gledson/9014408.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL SONY SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/canal-sony-4k.png" group-title="F23 M3  FILMES E SÉRIES",CANAL SONY SD
+http://cloudsalex.space:80/Gledson/Gledson/9014409.ts
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/cinemax-4k.png" group-title="F23 M3  FILMES E SÉRIES",CINEMAX FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014410.ts
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/cinemax-4k.png" group-title="F23 M3  FILMES E SÉRIES",CINEMAX HD
+http://cloudsalex.space:80/Gledson/Gledson/9014411.ts
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/cinemax-4k.png" group-title="F23 M3  FILMES E SÉRIES",CINEMAX SD
+http://cloudsalex.space:80/Gledson/Gledson/9014412.ts
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/megapix-4k.png" group-title="F23 M3  FILMES E SÉRIES",MEGAPIX FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014413.ts
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/megapix-4k.png" group-title="F23 M3  FILMES E SÉRIES",MEGAPIX HD
+http://cloudsalex.space:80/Gledson/Gledson/9014414.ts
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/megapix-4k.png" group-title="F23 M3  FILMES E SÉRIES",MEGAPIX SD
+http://cloudsalex.space:80/Gledson/Gledson/9014415.ts
+#EXTINF:-1 tvg-id="paramountchannel.br" tvg-name="PARAMOUNT CHANNEL FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/paramount-4k.png" group-title="F23 M3  FILMES E SÉRIES",PARAMOUNT CHANNEL FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014416.ts
+#EXTINF:-1 tvg-id="paramountchannel.br" tvg-name="PARAMOUNT CHANNEL HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/paramount-4k.png" group-title="F23 M3  FILMES E SÉRIES",PARAMOUNT CHANNEL HD
+http://cloudsalex.space:80/Gledson/Gledson/9014417.ts
+#EXTINF:-1 tvg-id="paramountchannel.br" tvg-name="PARAMOUNT CHANNEL SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/paramount-4k.png" group-title="F23 M3  FILMES E SÉRIES",PARAMOUNT CHANNEL SD
+http://cloudsalex.space:80/Gledson/Gledson/9014418.ts
+#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/space-fhd.png" group-title="F23 M3  FILMES E SÉRIES",SPACE FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014419.ts
+#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/space-fhd.png" group-title="F23 M3  FILMES E SÉRIES",SPACE HD
+http://cloudsalex.space:80/Gledson/Gledson/9014420.ts
+#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/space-fhd.png" group-title="F23 M3  FILMES E SÉRIES",SPACE SD
+http://cloudsalex.space:80/Gledson/Gledson/9014421.ts
+#EXTINF:-1 tvg-id="" tvg-name="SONY MOVIES FHD" tvg-logo="http://32q0d.xyz/images/sonymovies.png" group-title="F23 M3  FILMES E SÉRIES",SONY MOVIES FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014422.ts
+#EXTINF:-1 tvg-id="" tvg-name="SONY MOVIES HD" tvg-logo="http://32q0d.xyz/images/sonymovies.png" group-title="F23 M3  FILMES E SÉRIES",SONY MOVIES HD
+http://cloudsalex.space:80/Gledson/Gledson/9014423.ts
+#EXTINF:-1 tvg-id="" tvg-name="SONY MOVIES SD" tvg-logo="http://32q0d.xyz/images/sonymovies.png" group-title="F23 M3  FILMES E SÉRIES",SONY MOVIES SD
+http://cloudsalex.space:80/Gledson/Gledson/9014424.ts
+#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="STUDIO UNIVERSAL FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/studio-universal-4k.png" group-title="F23 M3  FILMES E SÉRIES",STUDIO UNIVERSAL FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014425.ts
+#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/studio-universal-4k.png" group-title="F23 M3  FILMES E SÉRIES",STUDIO UNIVERSAL HD
+http://cloudsalex.space:80/Gledson/Gledson/9014426.ts
+#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="STUDIO UNIVERSAL SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/studio-universal-4k.png" group-title="F23 M3  FILMES E SÉRIES",STUDIO UNIVERSAL SD
+http://cloudsalex.space:80/Gledson/Gledson/9014427.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA FHD" tvg-logo="https://7svoficial.com/canais/usa.png" group-title="F23 M3  FILMES E SÉRIES",USA FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014428.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA HD" tvg-logo="https://7svoficial.com/canais/usa.png" group-title="F23 M3  FILMES E SÉRIES",USA HD
+http://cloudsalex.space:80/Gledson/Gledson/9014429.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA SD" tvg-logo="https://7svoficial.com/canais/usa.png" group-title="F23 M3  FILMES E SÉRIES",USA SD
+http://cloudsalex.space:80/Gledson/Gledson/9014430.ts
+#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/tcm-fhd.png" group-title="F23 M3  FILMES E SÉRIES",TCM HD
+http://cloudsalex.space:80/Gledson/Gledson/9014431.ts
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/tnt-4k.png" group-title="F23 M3  FILMES E SÉRIES",TNT FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014432.ts
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/tnt-4k.png" group-title="F23 M3  FILMES E SÉRIES",TNT HD
+http://cloudsalex.space:80/Gledson/Gledson/9014433.ts
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/tnt-4k.png" group-title="F23 M3  FILMES E SÉRIES",TNT SD
+http://cloudsalex.space:80/Gledson/Gledson/9014434.ts
+#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT SÉRIES FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/tnt-series-fhd.png" group-title="F23 M3  FILMES E SÉRIES",TNT SÉRIES FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014435.ts
+#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT SÉRIES HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/tnt-series-fhd.png" group-title="F23 M3  FILMES E SÉRIES",TNT SÉRIES HD
+http://cloudsalex.space:80/Gledson/Gledson/9014436.ts
+#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT SÉRIES SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/tnt-series-fhd.png" group-title="F23 M3  FILMES E SÉRIES",TNT SÉRIES SD
+http://cloudsalex.space:80/Gledson/Gledson/9014437.ts
+#EXTINF:-1 tvg-id="tntnovelas.br" tvg-name="TNT NOVELAS FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/tnt-novelas-hd.png" group-title="F23 M3  FILMES E SÉRIES",TNT NOVELAS FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014438.ts
+#EXTINF:-1 tvg-id="tntnovelas.br" tvg-name="TNT NOVELAS HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/tnt-novelas-hd.png" group-title="F23 M3  FILMES E SÉRIES",TNT NOVELAS HD
+http://cloudsalex.space:80/Gledson/Gledson/9014439.ts
+#EXTINF:-1 tvg-id="tntnovelas.br" tvg-name="TNT NOVELAS SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/tnt-novelas-hd.png" group-title="F23 M3  FILMES E SÉRIES",TNT NOVELAS SD
+http://cloudsalex.space:80/Gledson/Gledson/9014440.ts
+#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL CHANNEL FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/universal-tv-uhd.png" group-title="F23 M3  FILMES E SÉRIES",UNIVERSAL CHANNEL FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014441.ts
+#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/universal-tv-uhd.png" group-title="F23 M3  FILMES E SÉRIES",UNIVERSAL CHANNEL HD
+http://cloudsalex.space:80/Gledson/Gledson/9014442.ts
+#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL CHANNEL SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/universal-tv-uhd.png" group-title="F23 M3  FILMES E SÉRIES",UNIVERSAL CHANNEL SD
+http://cloudsalex.space:80/Gledson/Gledson/9014443.ts
+#EXTINF:-1 tvg-id="dummy-971" tvg-name="UNIVERSAL PREMIERE FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/https-yt3googleusercontentcom-2gryoij-gwwiae0mlkb-wzpyrg-wvznsclgfqijuk-20250923-195750-0000.png" group-title="F23 M3  FILMES E SÉRIES",UNIVERSAL PREMIERE FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014444.ts
+#EXTINF:-1 tvg-id="dummy-971" tvg-name="UNIVERSAL PREMIERE HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/https-yt3googleusercontentcom-2gryoij-gwwiae0mlkb-wzpyrg-wvznsclgfqijuk-20250923-195750-0000.png" group-title="F23 M3  FILMES E SÉRIES",UNIVERSAL PREMIERE HD
+http://cloudsalex.space:80/Gledson/Gledson/9014445.ts
+#EXTINF:-1 tvg-id="dummy-971" tvg-name="UNIVERSAL PREMIERE SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/https-yt3googleusercontentcom-2gryoij-gwwiae0mlkb-wzpyrg-wvznsclgfqijuk-20250923-195750-0000.png" group-title="F23 M3  FILMES E SÉRIES",UNIVERSAL PREMIERE SD
+http://cloudsalex.space:80/Gledson/Gledson/9014446.ts
+#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL REALITY FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/universal-reality.png" group-title="F23 M3  FILMES E SÉRIES",UNIVERSAL REALITY FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014447.ts
+#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL REALITY HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/universal-reality.png" group-title="F23 M3  FILMES E SÉRIES",UNIVERSAL REALITY HD
+http://cloudsalex.space:80/Gledson/Gledson/9014448.ts
+#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL REALITY SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/universal-reality.png" group-title="F23 M3  FILMES E SÉRIES",UNIVERSAL REALITY SD
+http://cloudsalex.space:80/Gledson/Gledson/9014449.ts
+#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="WARNER CHANNEL FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/warner-tvb.png" group-title="F23 M3  FILMES E SÉRIES",WARNER CHANNEL FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014450.ts
+#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="WARNER CHANNEL HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/warner-tvb.png" group-title="F23 M3  FILMES E SÉRIES",WARNER CHANNEL HD
+http://cloudsalex.space:80/Gledson/Gledson/9014451.ts
+#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="WARNER CHANNEL SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/warner-tvb.png" group-title="F23 M3  FILMES E SÉRIES",WARNER CHANNEL SD
+http://cloudsalex.space:80/Gledson/Gledson/9014452.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 01" tvg-logo="https://7svoficial.com/canais/cinesky.png" group-title="F23 M3  24H FILMES",CINE SKY 01
+http://cloudsalex.space:80/Gledson/Gledson/9014453.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 02" tvg-logo="https://7svoficial.com/canais/cinesky.png" group-title="F23 M3  24H FILMES",CINE SKY 02
+http://cloudsalex.space:80/Gledson/Gledson/9014454.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 03" tvg-logo="https://7svoficial.com/canais/cinesky.png" group-title="F23 M3  24H FILMES",CINE SKY 03
+http://cloudsalex.space:80/Gledson/Gledson/9014455.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 04" tvg-logo="https://7svoficial.com/canais/cinesky.png" group-title="F23 M3  24H FILMES",CINE SKY 04
+http://cloudsalex.space:80/Gledson/Gledson/9014456.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 05" tvg-logo="https://7svoficial.com/canais/cinesky.png" group-title="F23 M3  24H FILMES",CINE SKY 05
+http://cloudsalex.space:80/Gledson/Gledson/9014457.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 06" tvg-logo="https://7svoficial.com/canais/cinesky.png" group-title="F23 M3  24H FILMES",CINE SKY 06
+http://cloudsalex.space:80/Gledson/Gledson/9014458.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 07" tvg-logo="https://7svoficial.com/canais/cinesky.png" group-title="F23 M3  24H FILMES",CINE SKY 07
+http://cloudsalex.space:80/Gledson/Gledson/9014459.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 08" tvg-logo="https://7svoficial.com/canais/cinesky.png" group-title="F23 M3  24H FILMES",CINE SKY 08
+http://cloudsalex.space:80/Gledson/Gledson/9014460.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 09" tvg-logo="https://7svoficial.com/canais/cinesky.png" group-title="F23 M3  24H FILMES",CINE SKY 09
+http://cloudsalex.space:80/Gledson/Gledson/9014461.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 10" tvg-logo="https://7svoficial.com/canais/cinesky.png" group-title="F23 M3  24H FILMES",CINE SKY 10
+http://cloudsalex.space:80/Gledson/Gledson/9014462.ts
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE 1 CLUBES FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/mosaico-premiere-fhd.png" group-title="F23 M3  PREMIERE",PREMIERE 1 CLUBES FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014463.ts
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE 1 CLUBES HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/mosaico-premiere-fhd.png" group-title="F23 M3  PREMIERE",PREMIERE 1 CLUBES HD
+http://cloudsalex.space:80/Gledson/Gledson/9014464.ts
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE 1 CLUBES SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/mosaico-premiere-fhd.png" group-title="F23 M3  PREMIERE",PREMIERE 1 CLUBES SD
+http://cloudsalex.space:80/Gledson/Gledson/9014465.ts
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="PREMIERE 2 FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/premiere-2-fhd-alt.png" group-title="F23 M3  PREMIERE",PREMIERE 2 FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014466.ts
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="PREMIERE 2 HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/premiere-2-fhd-alt.png" group-title="F23 M3  PREMIERE",PREMIERE 2 HD
+http://cloudsalex.space:80/Gledson/Gledson/9014467.ts
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="PREMIERE 2 SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/premiere-2-fhd-alt.png" group-title="F23 M3  PREMIERE",PREMIERE 2 SD
+http://cloudsalex.space:80/Gledson/Gledson/9014468.ts
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="PREMIERE 3 FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/premiere-3-fhd-alt.png" group-title="F23 M3  PREMIERE",PREMIERE 3 FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014469.ts
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="PREMIERE 3 HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/premiere-3-fhd-alt.png" group-title="F23 M3  PREMIERE",PREMIERE 3 HD
+http://cloudsalex.space:80/Gledson/Gledson/9014470.ts
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="PREMIERE 3 SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/premiere-3-fhd-alt.png" group-title="F23 M3  PREMIERE",PREMIERE 3 SD
+http://cloudsalex.space:80/Gledson/Gledson/9014471.ts
+#EXTINF:-1 tvg-id="premiere4.br" tvg-name="PREMIERE 4 FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/premiere-4-4k.png" group-title="F23 M3  PREMIERE",PREMIERE 4 FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014472.ts
+#EXTINF:-1 tvg-id="premiere4.br" tvg-name="PREMIERE 4 HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/premiere-4-4k.png" group-title="F23 M3  PREMIERE",PREMIERE 4 HD
+http://cloudsalex.space:80/Gledson/Gledson/9014473.ts
+#EXTINF:-1 tvg-id="premiere4.br" tvg-name="PREMIERE 4 SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/premiere-4-4k.png" group-title="F23 M3  PREMIERE",PREMIERE 4 SD
+http://cloudsalex.space:80/Gledson/Gledson/9014474.ts
+#EXTINF:-1 tvg-id="premiere5.br" tvg-name="PREMIERE 5 FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/premiere-5-fhd.png" group-title="F23 M3  PREMIERE",PREMIERE 5 FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014475.ts
+#EXTINF:-1 tvg-id="premiere5.br" tvg-name="PREMIERE 5 HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/premiere-5-fhd.png" group-title="F23 M3  PREMIERE",PREMIERE 5 HD
+http://cloudsalex.space:80/Gledson/Gledson/9014476.ts
+#EXTINF:-1 tvg-id="premiere5.br" tvg-name="PREMIERE 5 SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/premiere-5-fhd.png" group-title="F23 M3  PREMIERE",PREMIERE 5 SD
+http://cloudsalex.space:80/Gledson/Gledson/9014477.ts
+#EXTINF:-1 tvg-id="premiere6.br" tvg-name="PREMIERE 6 FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/premiere-6-4k.png" group-title="F23 M3  PREMIERE",PREMIERE 6 FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014478.ts
+#EXTINF:-1 tvg-id="premiere6.br" tvg-name="PREMIERE 6 HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/premiere-6-4k.png" group-title="F23 M3  PREMIERE",PREMIERE 6 HD
+http://cloudsalex.space:80/Gledson/Gledson/9014479.ts
+#EXTINF:-1 tvg-id="premiere6.br" tvg-name="PREMIERE 6 SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/premiere-6-4k.png" group-title="F23 M3  PREMIERE",PREMIERE 6 SD
+http://cloudsalex.space:80/Gledson/Gledson/9014480.ts
+#EXTINF:-1 tvg-id="premiere7.br" tvg-name="PREMIERE 7 FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/premiere-7-fhd.png" group-title="F23 M3  PREMIERE",PREMIERE 7 FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014481.ts
+#EXTINF:-1 tvg-id="premiere7.br" tvg-name="PREMIERE 7 HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/premiere-7-fhd.png" group-title="F23 M3  PREMIERE",PREMIERE 7 HD
+http://cloudsalex.space:80/Gledson/Gledson/9014482.ts
+#EXTINF:-1 tvg-id="premiere7.br" tvg-name="PREMIERE 7 SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/premiere-7-fhd.png" group-title="F23 M3  PREMIERE",PREMIERE 7 SD
+http://cloudsalex.space:80/Gledson/Gledson/9014483.ts
+#EXTINF:-1 tvg-id="premiere8.br" tvg-name="PREMIERE 8 FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/premiere-8-hd.png" group-title="F23 M3  PREMIERE",PREMIERE 8 FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014484.ts
+#EXTINF:-1 tvg-id="premiere8.br" tvg-name="PREMIERE 8 HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/premiere-8-hd.png" group-title="F23 M3  PREMIERE",PREMIERE 8 HD
+http://cloudsalex.space:80/Gledson/Gledson/9014485.ts
+#EXTINF:-1 tvg-id="premiere8.br" tvg-name="PREMIERE 8 SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/premiere-8-hd.png" group-title="F23 M3  PREMIERE",PREMIERE 8 SD
+http://cloudsalex.space:80/Gledson/Gledson/9014486.ts
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/band-sports-fhd.png" group-title="F23 M3  ESPORTES",BAND SPORTS FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014487.ts
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/band-sports-fhd.png" group-title="F23 M3  ESPORTES",BAND SPORTS HD
+http://cloudsalex.space:80/Gledson/Gledson/9014488.ts
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/band-sports-fhd.png" group-title="F23 M3  ESPORTES",BAND SPORTS SD
+http://cloudsalex.space:80/Gledson/Gledson/9014489.ts
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV 1 FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/sportv-uhd.png" group-title="F23 M3  SPORTV",SPORTV 1 FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014490.ts
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV 1 HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/sportv-uhd.png" group-title="F23 M3  SPORTV",SPORTV 1 HD
+http://cloudsalex.space:80/Gledson/Gledson/9014491.ts
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV 1 SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/sportv-uhd.png" group-title="F23 M3  SPORTV",SPORTV 1 SD
+http://cloudsalex.space:80/Gledson/Gledson/9014492.ts
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/sportv-fhd.png" group-title="F23 M3  SPORTV",SPORTV 2 FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014493.ts
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/sportv-fhd.png" group-title="F23 M3  SPORTV",SPORTV 2 HD
+http://cloudsalex.space:80/Gledson/Gledson/9014494.ts
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/sportv-fhd.png" group-title="F23 M3  SPORTV",SPORTV 2 SD
+http://cloudsalex.space:80/Gledson/Gledson/9014495.ts
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/sportv-uhd.png" group-title="F23 M3  SPORTV",SPORTV 3 FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014496.ts
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/sportv-uhd.png" group-title="F23 M3  SPORTV",SPORTV 3 HD
+http://cloudsalex.space:80/Gledson/Gledson/9014497.ts
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/sportv-uhd.png" group-title="F23 M3  SPORTV",SPORTV 3 SD
+http://cloudsalex.space:80/Gledson/Gledson/9014498.ts
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 1 FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/espn-1-4k.png" group-title="F23 M3  ESPN",ESPN 1 FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014499.ts
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 1 HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/espn-1-4k.png" group-title="F23 M3  ESPN",ESPN 1 HD
+http://cloudsalex.space:80/Gledson/Gledson/9014500.ts
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 1 SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/espn-1-4k.png" group-title="F23 M3  ESPN",ESPN 1 SD
+http://cloudsalex.space:80/Gledson/Gledson/9014501.ts
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/espn-2-4k.png" group-title="F23 M3  ESPN",ESPN 2 FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014502.ts
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/espn-2-4k.png" group-title="F23 M3  ESPN",ESPN 2 HD
+http://cloudsalex.space:80/Gledson/Gledson/9014503.ts
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/espn-2-4k.png" group-title="F23 M3  ESPN",ESPN 2 SD
+http://cloudsalex.space:80/Gledson/Gledson/9014504.ts
+#EXTINF:-1 tvg-id="espn3.br" tvg-name="ESPN 3 FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/espn-3-4k.png" group-title="F23 M3  ESPN",ESPN 3 FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014505.ts
+#EXTINF:-1 tvg-id="espn3.br" tvg-name="ESPN 3 HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/espn-3-4k.png" group-title="F23 M3  ESPN",ESPN 3 HD
+http://cloudsalex.space:80/Gledson/Gledson/9014506.ts
+#EXTINF:-1 tvg-id="espn3.br" tvg-name="ESPN 3 SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/espn-3-4k.png" group-title="F23 M3  ESPN",ESPN 3 SD
+http://cloudsalex.space:80/Gledson/Gledson/9014507.ts
+#EXTINF:-1 tvg-id="espn4.br" tvg-name="ESPN 4 FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/espn-4-4k.png" group-title="F23 M3  ESPN",ESPN 4 FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014508.ts
+#EXTINF:-1 tvg-id="espn4.br" tvg-name="ESPN 4 HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/espn-4-4k.png" group-title="F23 M3  ESPN",ESPN 4 HD
+http://cloudsalex.space:80/Gledson/Gledson/9014509.ts
+#EXTINF:-1 tvg-id="espn4.br" tvg-name="ESPN 4 SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/espn-4-4k.png" group-title="F23 M3  ESPN",ESPN 4 SD
+http://cloudsalex.space:80/Gledson/Gledson/9014510.ts
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 5 FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/espn-5-fhd.png" group-title="F23 M3  ESPN",ESPN 5 FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014511.ts
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 5 HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/espn-5-fhd.png" group-title="F23 M3  ESPN",ESPN 5 HD
+http://cloudsalex.space:80/Gledson/Gledson/9014512.ts
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 5 SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/espn-5-fhd.png" group-title="F23 M3  ESPN",ESPN 5 SD
+http://cloudsalex.space:80/Gledson/Gledson/9014513.ts
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 6 FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/espn-6-fhd.png" group-title="F23 M3  ESPN",ESPN 6 FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014514.ts
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 6 HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/espn-6-fhd.png" group-title="F23 M3  ESPN",ESPN 6 HD
+http://cloudsalex.space:80/Gledson/Gledson/9014515.ts
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 6 SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/espn-6-fhd.png" group-title="F23 M3  ESPN",ESPN 6 SD
+http://cloudsalex.space:80/Gledson/Gledson/9014516.ts
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/combate-h265.png" group-title="F23 M3  ESPORTES",COMBATE FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014517.ts
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/combate-h265.png" group-title="F23 M3  ESPORTES",COMBATE HD
+http://cloudsalex.space:80/Gledson/Gledson/9014518.ts
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/combate-h265.png" group-title="F23 M3  ESPORTES",COMBATE SD
+http://cloudsalex.space:80/Gledson/Gledson/9014519.ts
+#EXTINF:-1 tvg-id="dummy-665" tvg-name="PARAMOUNT+ 01" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/paramount-1.png" group-title="F23 M3  PARAMOUNT+",PARAMOUNT+ 01
+http://cloudsalex.space:80/Gledson/Gledson/9014520.ts
+#EXTINF:-1 tvg-id="dummy-666" tvg-name="PARAMOUNT+ 02" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/paramount-2.png" group-title="F23 M3  PARAMOUNT+",PARAMOUNT+ 02
+http://cloudsalex.space:80/Gledson/Gledson/9014521.ts
+#EXTINF:-1 tvg-id="dummy-667" tvg-name="PARAMOUNT+ 03" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/paramount-3.png" group-title="F23 M3  PARAMOUNT+",PARAMOUNT+ 03
+http://cloudsalex.space:80/Gledson/Gledson/9014522.ts
+#EXTINF:-1 tvg-id="dummy-665" tvg-name="PARAMOUNT+ 04" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/paramount-4.png" group-title="F23 M3  PARAMOUNT+",PARAMOUNT+ 04
+http://cloudsalex.space:80/Gledson/Gledson/9014523.ts
+#EXTINF:-1 tvg-id="dummy-866" tvg-name="SPORTYNET HD" tvg-logo="https://7svoficial.com/canais/sportynet.png" group-title="F23 M3  ESPORTES STREAMING",SPORTYNET HD
+http://cloudsalex.space:80/Gledson/Gledson/9014524.ts
+#EXTINF:-1 tvg-id="dummy-866" tvg-name="SPORTYNET+ 01" tvg-logo="https://7svoficial.com/canais/sportynet.png" group-title="F23 M3  ESPORTES STREAMING",SPORTYNET+ 01
+http://cloudsalex.space:80/Gledson/Gledson/9014525.ts
+#EXTINF:-1 tvg-id="dummy-867" tvg-name="SPORTYNET+ 02" tvg-logo="https://7svoficial.com/canais/sportynet.png" group-title="F23 M3  ESPORTES STREAMING",SPORTYNET+ 02
+http://cloudsalex.space:80/Gledson/Gledson/9014526.ts
+#EXTINF:-1 tvg-id="dummy-868" tvg-name="SPORTYNET+ 03" tvg-logo="https://7svoficial.com/canais/sportynet.png" group-title="F23 M3  ESPORTES STREAMING",SPORTYNET+ 03
+http://cloudsalex.space:80/Gledson/Gledson/9014527.ts
+#EXTINF:-1 tvg-id="" tvg-name="GETV FHD" tvg-logo="https://7svoficial.com/canais/ge-tv.png" group-title="F23 M3  ESPORTES STREAMING",GETV FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014528.ts
+#EXTINF:-1 tvg-id="" tvg-name="GETV HD" tvg-logo="https://7svoficial.com/canais/ge-tv.png" group-title="F23 M3  ESPORTES STREAMING",GETV HD
+http://cloudsalex.space:80/Gledson/Gledson/9014529.ts
+#EXTINF:-1 tvg-id="" tvg-name="GETV SD" tvg-logo="https://7svoficial.com/canais/ge-tv.png" group-title="F23 M3  ESPORTES STREAMING",GETV SD
+http://cloudsalex.space:80/Gledson/Gledson/9014530.ts
+#EXTINF:-1 tvg-id="" tvg-name="FIFA+ HD" tvg-logo="https://7svoficial.com/canais/fifaplus.png" group-title="F23 M3  ESPORTES STREAMING",FIFA+ HD
+http://cloudsalex.space:80/Gledson/Gledson/9014531.ts
+#EXTINF:-1 tvg-id="dummy-758" tvg-name="RED BULL TV HD" tvg-logo="https://7svoficial.com/canais/redbull.png" group-title="F23 M3  ESPORTES STREAMING",RED BULL TV HD
+http://cloudsalex.space:80/Gledson/Gledson/9014532.ts
+#EXTINF:-1 tvg-id="dummy-987" tvg-name="XSPORTS HD" tvg-logo="https://7svoficial.com/canais/xsports.png" group-title="F23 M3  ESPORTES STREAMING",XSPORTS HD
+http://cloudsalex.space:80/Gledson/Gledson/9014533.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 01" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/hbo-max-1-fhd.png" group-title="F23 M3  ESPORTES STREAMING",HBO MAX 01
+http://cloudsalex.space:80/Gledson/Gledson/9014534.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 02" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/hbo-max-1-fhd.png" group-title="F23 M3  ESPORTES STREAMING",HBO MAX 02
+http://cloudsalex.space:80/Gledson/Gledson/9014535.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 03" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/hbo-max-1-fhd.png" group-title="F23 M3  ESPORTES STREAMING",HBO MAX 03
+http://cloudsalex.space:80/Gledson/Gledson/9014536.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 04" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/hbo-max-1-fhd.png" group-title="F23 M3  ESPORTES STREAMING",HBO MAX 04
+http://cloudsalex.space:80/Gledson/Gledson/9014537.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 05" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/hbo-max-1-fhd.png" group-title="F23 M3  ESPORTES STREAMING",HBO MAX 05
+http://cloudsalex.space:80/Gledson/Gledson/9014538.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 06" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/hbo-max-1-fhd.png" group-title="F23 M3  ESPORTES STREAMING",HBO MAX 06
+http://cloudsalex.space:80/Gledson/Gledson/9014539.ts
+#EXTINF:-1 tvg-id="dummy-607" tvg-name="HBO MAX 07" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/hbo-max-1-fhd.png" group-title="F23 M3  ESPORTES STREAMING",HBO MAX 07
+http://cloudsalex.space:80/Gledson/Gledson/9014540.ts
+#EXTINF:-1 tvg-id="dummy-608" tvg-name="HBO MAX 08" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/hbo-max-1-fhd.png" group-title="F23 M3  ESPORTES STREAMING",HBO MAX 08
+http://cloudsalex.space:80/Gledson/Gledson/9014541.ts
+#EXTINF:-1 tvg-id="dummy-298" tvg-name="DISNEY+ 01" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/disney.png" group-title="F23 M3  ESPORTES STREAMING",DISNEY+ 01
+http://cloudsalex.space:80/Gledson/Gledson/9014542.ts
+#EXTINF:-1 tvg-id="dummy-299" tvg-name="DISNEY+ 02" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/disney.png" group-title="F23 M3  ESPORTES STREAMING",DISNEY+ 02
+http://cloudsalex.space:80/Gledson/Gledson/9014543.ts
+#EXTINF:-1 tvg-id="dummy-300" tvg-name="DISNEY+ 03" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/disney.png" group-title="F23 M3  ESPORTES STREAMING",DISNEY+ 03
+http://cloudsalex.space:80/Gledson/Gledson/9014544.ts
+#EXTINF:-1 tvg-id="dummy-301" tvg-name="DISNEY+ 04" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/disney.png" group-title="F23 M3  ESPORTES STREAMING",DISNEY+ 04
+http://cloudsalex.space:80/Gledson/Gledson/9014545.ts
+#EXTINF:-1 tvg-id="dummy-302" tvg-name="DISNEY+ 05" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/disney.png" group-title="F23 M3  ESPORTES STREAMING",DISNEY+ 05
+http://cloudsalex.space:80/Gledson/Gledson/9014546.ts
+#EXTINF:-1 tvg-id="dummy-298" tvg-name="DISNEY+ 06" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/disney.png" group-title="F23 M3  ESPORTES STREAMING",DISNEY+ 06
+http://cloudsalex.space:80/Gledson/Gledson/9014547.ts
+#EXTINF:-1 tvg-id="dummy-298" tvg-name="DISNEY+ 07" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/disney.png" group-title="F23 M3  ESPORTES STREAMING",DISNEY+ 07
+http://cloudsalex.space:80/Gledson/Gledson/9014548.ts
+#EXTINF:-1 tvg-id="dummy-298" tvg-name="DISNEY+ 08" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/disney.png" group-title="F23 M3  ESPORTES STREAMING",DISNEY+ 08
+http://cloudsalex.space:80/Gledson/Gledson/9014549.ts
+#EXTINF:-1 tvg-id="dummy-648" tvg-name="NSPORTS 01" tvg-logo="https://7svoficial.com/canais/nsports.png" group-title="F23 M3  ESPORTES STREAMING",NSPORTS 01
+http://cloudsalex.space:80/Gledson/Gledson/9014550.ts
+#EXTINF:-1 tvg-id="dummy-648" tvg-name="NSPORTS 02" tvg-logo="https://7svoficial.com/canais/nsports.png" group-title="F23 M3  ESPORTES STREAMING",NSPORTS 02
+http://cloudsalex.space:80/Gledson/Gledson/9014551.ts
+#EXTINF:-1 tvg-id="dummy-648" tvg-name="NSPORTS 03" tvg-logo="https://7svoficial.com/canais/nsports.png" group-title="F23 M3  ESPORTES STREAMING",NSPORTS 03
+http://cloudsalex.space:80/Gledson/Gledson/9014552.ts
+#EXTINF:-1 tvg-id="dummy-225" tvg-name="CAZÉTV 01" tvg-logo="https://7svoficial.com/canais/cazetv.png" group-title="F23 M3  ESPORTES STREAMING",CAZÉTV 01
+http://cloudsalex.space:80/Gledson/Gledson/9014553.ts
+#EXTINF:-1 tvg-id="dummy-225" tvg-name="CAZÉTV 02" tvg-logo="https://7svoficial.com/canais/cazetv.png" group-title="F23 M3  ESPORTES STREAMING",CAZÉTV 02
+http://cloudsalex.space:80/Gledson/Gledson/9014554.ts
+#EXTINF:-1 tvg-id="dummy-225" tvg-name="CAZÉTV 03" tvg-logo="https://7svoficial.com/canais/cazetv.png" group-title="F23 M3  ESPORTES STREAMING",CAZÉTV 03
+http://cloudsalex.space:80/Gledson/Gledson/9014555.ts
+#EXTINF:-1 tvg-id="dummy-225" tvg-name="CAZÉTV 04" tvg-logo="https://7svoficial.com/canais/cazetv.png" group-title="F23 M3  ESPORTES STREAMING",CAZÉTV 04
+http://cloudsalex.space:80/Gledson/Gledson/9014556.ts
+#EXTINF:-1 tvg-id="dummy-225" tvg-name="CAZÉTV 05" tvg-logo="https://7svoficial.com/canais/cazetv.png" group-title="F23 M3  ESPORTES STREAMING",CAZÉTV 05
+http://cloudsalex.space:80/Gledson/Gledson/9014557.ts
+#EXTINF:-1 tvg-id="dummy-225" tvg-name="CAZÉTV 06" tvg-logo="https://7svoficial.com/canais/cazetv.png" group-title="F23 M3  ESPORTES STREAMING",CAZÉTV 06
+http://cloudsalex.space:80/Gledson/Gledson/9014558.ts
+#EXTINF:-1 tvg-id="dummy-225" tvg-name="CAZÉTV 07" tvg-logo="https://7svoficial.com/canais/cazetv.png" group-title="F23 M3  ESPORTES STREAMING",CAZÉTV 07
+http://cloudsalex.space:80/Gledson/Gledson/9014559.ts
+#EXTINF:-1 tvg-id="dummy-225" tvg-name="CAZÉTV 08" tvg-logo="https://7svoficial.com/canais/cazetv.png" group-title="F23 M3  ESPORTES STREAMING",CAZÉTV 08
+http://cloudsalex.space:80/Gledson/Gledson/9014560.ts
+#EXTINF:-1 tvg-id="dummy-701" tvg-name="PRIME VIDEO 01" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/prime-video-02.png" group-title="F23 M3  PRIME VIDEO",PRIME VIDEO 01
+http://cloudsalex.space:80/Gledson/Gledson/9014561.ts
+#EXTINF:-1 tvg-id="dummy-701" tvg-name="PRIME VIDEO 02" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/prime-video-02.png" group-title="F23 M3  PRIME VIDEO",PRIME VIDEO 02
+http://cloudsalex.space:80/Gledson/Gledson/9014562.ts
+#EXTINF:-1 tvg-id="dummy-701" tvg-name="PRIME VIDEO 03" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/prime-video-02.png" group-title="F23 M3  PRIME VIDEO",PRIME VIDEO 03
+http://cloudsalex.space:80/Gledson/Gledson/9014563.ts
+#EXTINF:-1 tvg-id="dummy-701" tvg-name="PRIME VIDEO 04" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/prime-video-02.png" group-title="F23 M3  PRIME VIDEO",PRIME VIDEO 04
+http://cloudsalex.space:80/Gledson/Gledson/9014564.ts
+#EXTINF:-1 tvg-id="dummy-701" tvg-name="PRIME VIDEO 05" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/prime-video-02.png" group-title="F23 M3  PRIME VIDEO",PRIME VIDEO 05
+http://cloudsalex.space:80/Gledson/Gledson/9014565.ts
+#EXTINF:-1 tvg-id="dummy-701" tvg-name="PRIME VIDEO 06" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/prime-video-02.png" group-title="F23 M3  PRIME VIDEO",PRIME VIDEO 06
+http://cloudsalex.space:80/Gledson/Gledson/9014566.ts
+#EXTINF:-1 tvg-id="dummy-701" tvg-name="PRIME VIDEO 07" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/prime-video-02.png" group-title="F23 M3  PRIME VIDEO",PRIME VIDEO 07
+http://cloudsalex.space:80/Gledson/Gledson/9014567.ts
+#EXTINF:-1 tvg-id="dummy-701" tvg-name="PRIME VIDEO 08" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/prime-video-02.png" group-title="F23 M3  PRIME VIDEO",PRIME VIDEO 08
+http://cloudsalex.space:80/Gledson/Gledson/9014568.ts
+#EXTINF:-1 tvg-id="dummy-639" tvg-name="NETFLIX LIVE HD" tvg-logo="https://7svoficial.com/canais/netflixlive.png" group-title="F23 M3  ESPORTES STREAMING",NETFLIX LIVE HD
+http://cloudsalex.space:80/Gledson/Gledson/9014569.ts
+#EXTINF:-1 tvg-id="dummy-964" tvg-name="UFC FIGHT PASS 01" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/ufc-fight-pass-fhd.png" group-title="F23 M3  ESPORTES STREAMING",UFC FIGHT PASS 01
+http://cloudsalex.space:80/Gledson/Gledson/9014570.ts
+#EXTINF:-1 tvg-id="dummy-965" tvg-name="UFC FIGHT PASS 02" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/ufc-fight-pass-fhd.png" group-title="F23 M3  ESPORTES STREAMING",UFC FIGHT PASS 02
+http://cloudsalex.space:80/Gledson/Gledson/9014571.ts
+#EXTINF:-1 tvg-id="dummy-966" tvg-name="UFC FIGHT PASS 03" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/ufc-fight-pass-fhd.png" group-title="F23 M3  ESPORTES STREAMING",UFC FIGHT PASS 03
+http://cloudsalex.space:80/Gledson/Gledson/9014572.ts
+#EXTINF:-1 tvg-id="" tvg-name="FÓRMULA 1 TV" tvg-logo="https://7svoficial.com/canais/formula1.png" group-title="F23 M3  ESPORTES STREAMING",FÓRMULA 1 TV
+http://cloudsalex.space:80/Gledson/Gledson/9014573.ts
+#EXTINF:-1 tvg-id="dummy-264" tvg-name="DAZN 01" tvg-logo="https://7svoficial.com/canais/dazn.png" group-title="F23 M3  ESPORTES STREAMING",DAZN 01
+http://cloudsalex.space:80/Gledson/Gledson/9014574.ts
+#EXTINF:-1 tvg-id="dummy-264" tvg-name="DAZN 02" tvg-logo="https://7svoficial.com/canais/dazn.png" group-title="F23 M3  ESPORTES STREAMING",DAZN 02
+http://cloudsalex.space:80/Gledson/Gledson/9014575.ts
+#EXTINF:-1 tvg-id="dummy-264" tvg-name="DAZN 03" tvg-logo="https://7svoficial.com/canais/dazn.png" group-title="F23 M3  ESPORTES STREAMING",DAZN 03
+http://cloudsalex.space:80/Gledson/Gledson/9014576.ts
+#EXTINF:-1 tvg-id="dummy-264" tvg-name="DAZN 04" tvg-logo="https://7svoficial.com/canais/dazn.png" group-title="F23 M3  ESPORTES STREAMING",DAZN 04
+http://cloudsalex.space:80/Gledson/Gledson/9014577.ts
+#EXTINF:-1 tvg-id="dummy-264" tvg-name="DAZN 05" tvg-logo="https://7svoficial.com/canais/dazn.png" group-title="F23 M3  ESPORTES STREAMING",DAZN 05
+http://cloudsalex.space:80/Gledson/Gledson/9014578.ts
+#EXTINF:-1 tvg-id="dummy-264" tvg-name="DAZN 06" tvg-logo="https://7svoficial.com/canais/dazn.png" group-title="F23 M3  ESPORTES STREAMING",DAZN 06
+http://cloudsalex.space:80/Gledson/Gledson/9014579.ts
+#EXTINF:-1 tvg-id="dummy-208" tvg-name="CANAL GOAT 01" tvg-logo="https://7svoficial.com/canais/canalgoat.png" group-title="F23 M3  ESPORTES STREAMING",CANAL GOAT 01
+http://cloudsalex.space:80/Gledson/Gledson/9014580.ts
+#EXTINF:-1 tvg-id="dummy-208" tvg-name="CANAL GOAT 02" tvg-logo="https://7svoficial.com/canais/canalgoat.png" group-title="F23 M3  ESPORTES STREAMING",CANAL GOAT 02
+http://cloudsalex.space:80/Gledson/Gledson/9014581.ts
+#EXTINF:-1 tvg-id="dummy-208" tvg-name="CANAL GOAT 03" tvg-logo="https://7svoficial.com/canais/canalgoat.png" group-title="F23 M3  ESPORTES STREAMING",CANAL GOAT 03
+http://cloudsalex.space:80/Gledson/Gledson/9014582.ts
+#EXTINF:-1 tvg-id="dummy-1126" tvg-name="NBA LEAGUE PASS 01" tvg-logo="https://7svoficial.com/canais/nba.png" group-title="F23 M3  ESPORTES STREAMING",NBA LEAGUE PASS 01
+http://cloudsalex.space:80/Gledson/Gledson/9014583.ts
+#EXTINF:-1 tvg-id="dummy-1125" tvg-name="NBA LEAGUE PASS 02" tvg-logo="https://7svoficial.com/canais/nba.png" group-title="F23 M3  ESPORTES STREAMING",NBA LEAGUE PASS 02
+http://cloudsalex.space:80/Gledson/Gledson/9014584.ts
+#EXTINF:-1 tvg-id="dummy-1124" tvg-name="NBA LEAGUE PASS 03" tvg-logo="https://7svoficial.com/canais/nba.png" group-title="F23 M3  ESPORTES STREAMING",NBA LEAGUE PASS 03
+http://cloudsalex.space:80/Gledson/Gledson/9014585.ts
+#EXTINF:-1 tvg-id="dummy-1123" tvg-name="NBA LEAGUE PASS 04" tvg-logo="https://7svoficial.com/canais/nba.png" group-title="F23 M3  ESPORTES STREAMING",NBA LEAGUE PASS 04
+http://cloudsalex.space:80/Gledson/Gledson/9014586.ts
+#EXTINF:-1 tvg-id="dummy-1122" tvg-name="NBA LEAGUE PASS 05" tvg-logo="https://7svoficial.com/canais/nba.png" group-title="F23 M3  ESPORTES STREAMING",NBA LEAGUE PASS 05
+http://cloudsalex.space:80/Gledson/Gledson/9014587.ts
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/discovery-channel-4k.png" group-title="F23 M3  DISCOVERY",DISCOVERY CHANNEL FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014588.ts
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/discovery-channel-4k.png" group-title="F23 M3  DISCOVERY",DISCOVERY CHANNEL HD
+http://cloudsalex.space:80/Gledson/Gledson/9014589.ts
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/discovery-channel-4k.png" group-title="F23 M3  DISCOVERY",DISCOVERY CHANNEL SD
+http://cloudsalex.space:80/Gledson/Gledson/9014590.ts
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY H&H FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/discoveryhomehealth.png" group-title="F23 M3  DISCOVERY",DISCOVERY H&H FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014591.ts
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY H&H HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/discoveryhomehealth.png" group-title="F23 M3  DISCOVERY",DISCOVERY H&H HD
+http://cloudsalex.space:80/Gledson/Gledson/9014592.ts
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY H&H SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/discoveryhomehealth.png" group-title="F23 M3  DISCOVERY",DISCOVERY H&H SD
+http://cloudsalex.space:80/Gledson/Gledson/9014593.ts
+#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="DISCOVERY SCIENCE FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/discovery-science-4k.png" group-title="F23 M3  DISCOVERY",DISCOVERY SCIENCE FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014594.ts
+#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/discovery-science-4k.png" group-title="F23 M3  DISCOVERY",DISCOVERY SCIENCE HD
+http://cloudsalex.space:80/Gledson/Gledson/9014595.ts
+#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="DISCOVERY SCIENCE SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/discovery-science-4k.png" group-title="F23 M3  DISCOVERY",DISCOVERY SCIENCE SD
+http://cloudsalex.space:80/Gledson/Gledson/9014596.ts
+#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="DISCOVERY THEATER FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/discoverytheater.png" group-title="F23 M3  DISCOVERY",DISCOVERY THEATER FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014597.ts
+#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="DISCOVERY THEATER HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/discoverytheater.png" group-title="F23 M3  DISCOVERY",DISCOVERY THEATER HD
+http://cloudsalex.space:80/Gledson/Gledson/9014598.ts
+#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="DISCOVERY THEATER SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/discoverytheater.png" group-title="F23 M3  DISCOVERY",DISCOVERY THEATER SD
+http://cloudsalex.space:80/Gledson/Gledson/9014599.ts
+#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="DISCOVERY TURBO FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/discoveryturbo.png" group-title="F23 M3  DISCOVERY",DISCOVERY TURBO FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014600.ts
+#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/discoveryturbo.png" group-title="F23 M3  DISCOVERY",DISCOVERY TURBO HD
+http://cloudsalex.space:80/Gledson/Gledson/9014601.ts
+#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="DISCOVERY TURBO SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/discoveryturbo.png" group-title="F23 M3  DISCOVERY",DISCOVERY TURBO SD
+http://cloudsalex.space:80/Gledson/Gledson/9014602.ts
+#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="DISCOVERY WORLD FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/discoveryworld.png" group-title="F23 M3  DISCOVERY",DISCOVERY WORLD FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014603.ts
+#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="DISCOVERY WORLD HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/discoveryworld.png" group-title="F23 M3  DISCOVERY",DISCOVERY WORLD HD
+http://cloudsalex.space:80/Gledson/Gledson/9014604.ts
+#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="DISCOVERY WORLD SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/discoveryworld.png" group-title="F23 M3  DISCOVERY",DISCOVERY WORLD SD
+http://cloudsalex.space:80/Gledson/Gledson/9014605.ts
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="ANIMAL PLANET FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/animal-planet-uhd.png" group-title="F23 M3  DOCUMENTÁRIOS",ANIMAL PLANET FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014606.ts
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/animal-planet-uhd.png" group-title="F23 M3  DOCUMENTÁRIOS",ANIMAL PLANET HD
+http://cloudsalex.space:80/Gledson/Gledson/9014607.ts
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="ANIMAL PLANET SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/animal-planet-uhd.png" group-title="F23 M3  DOCUMENTÁRIOS",ANIMAL PLANET SD
+http://cloudsalex.space:80/Gledson/Gledson/9014608.ts
+#EXTINF:-1 tvg-id="historychannel.br" tvg-name="HISTORY CHANNEL FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/history-hd-alt.png" group-title="F23 M3  DOCUMENTÁRIOS",HISTORY CHANNEL FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014609.ts
+#EXTINF:-1 tvg-id="historychannel.br" tvg-name="HISTORY CHANNEL HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/history-hd-alt.png" group-title="F23 M3  DOCUMENTÁRIOS",HISTORY CHANNEL HD
+http://cloudsalex.space:80/Gledson/Gledson/9014610.ts
+#EXTINF:-1 tvg-id="historychannel.br" tvg-name="HISTORY CHANNEL SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/history-hd-alt.png" group-title="F23 M3  DOCUMENTÁRIOS",HISTORY CHANNEL SD
+http://cloudsalex.space:80/Gledson/Gledson/9014611.ts
+#EXTINF:-1 tvg-id="" tvg-name="H2 FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/history2.png" group-title="F23 M3  DOCUMENTÁRIOS",H2 FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014612.ts
+#EXTINF:-1 tvg-id="" tvg-name="H2 HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/history2.png" group-title="F23 M3  DOCUMENTÁRIOS",H2 HD
+http://cloudsalex.space:80/Gledson/Gledson/9014613.ts
+#EXTINF:-1 tvg-id="" tvg-name="H2 SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/history2.png" group-title="F23 M3  DOCUMENTÁRIOS",H2 SD
+http://cloudsalex.space:80/Gledson/Gledson/9014614.ts
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/hgtv-fhd.png" group-title="F23 M3  DOCUMENTÁRIOS",HGTV FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014615.ts
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/hgtv-fhd.png" group-title="F23 M3  DOCUMENTÁRIOS",HGTV HD
+http://cloudsalex.space:80/Gledson/Gledson/9014616.ts
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/hgtv-fhd.png" group-title="F23 M3  DOCUMENTÁRIOS",HGTV SD
+http://cloudsalex.space:80/Gledson/Gledson/9014617.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/investigacao-discovery-hd-alt.png" group-title="F23 M3  DOCUMENTÁRIOS",ID FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014618.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/investigacao-discovery-hd-alt.png" group-title="F23 M3  DOCUMENTÁRIOS",ID HD
+http://cloudsalex.space:80/Gledson/Gledson/9014619.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/investigacao-discovery-hd-alt.png" group-title="F23 M3  DOCUMENTÁRIOS",ID SD
+http://cloudsalex.space:80/Gledson/Gledson/9014620.ts
+#EXTINF:-1 tvg-id="" tvg-name="BABYTV FHD" tvg-logo="https://7svoficial.com/canais/babytv.png" group-title="F23 M3  INFANTIL",BABYTV FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014621.ts
+#EXTINF:-1 tvg-id="" tvg-name="BABYTV HD" tvg-logo="https://7svoficial.com/canais/babytv.png" group-title="F23 M3  INFANTIL",BABYTV HD
+http://cloudsalex.space:80/Gledson/Gledson/9014622.ts
+#EXTINF:-1 tvg-id="cartoonito.br" tvg-name="CARTOONITO FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/cartoonito-fhd.png" group-title="F23 M3  INFANTIL",CARTOONITO FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014623.ts
+#EXTINF:-1 tvg-id="cartoonito.br" tvg-name="CARTOONITO HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/cartoonito-fhd.png" group-title="F23 M3  INFANTIL",CARTOONITO HD
+http://cloudsalex.space:80/Gledson/Gledson/9014624.ts
+#EXTINF:-1 tvg-id="cartoonito.br" tvg-name="CARTOONITO SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/cartoonito-fhd.png" group-title="F23 M3  INFANTIL",CARTOONITO SD
+http://cloudsalex.space:80/Gledson/Gledson/9014625.ts
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="CARTOON NETWORK FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/cartoon-network-fhd.png" group-title="F23 M3  INFANTIL",CARTOON NETWORK FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014626.ts
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="CARTOON NETWORK HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/cartoon-network-fhd.png" group-title="F23 M3  INFANTIL",CARTOON NETWORK HD
+http://cloudsalex.space:80/Gledson/Gledson/9014627.ts
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="CARTOON NETWORK SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/cartoon-network-fhd.png" group-title="F23 M3  INFANTIL",CARTOON NETWORK SD
+http://cloudsalex.space:80/Gledson/Gledson/9014628.ts
+#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="DISCOVERY KIDS FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/discovery-kids-4k.png" group-title="F23 M3  INFANTIL",DISCOVERY KIDS FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014629.ts
+#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="DISCOVERY KIDS HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/discovery-kids-4k.png" group-title="F23 M3  INFANTIL",DISCOVERY KIDS HD
+http://cloudsalex.space:80/Gledson/Gledson/9014630.ts
+#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="DISCOVERY KIDS SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/discovery-kids-4k.png" group-title="F23 M3  INFANTIL",DISCOVERY KIDS SD
+http://cloudsalex.space:80/Gledson/Gledson/9014631.ts
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/gloob-fhd-alt.png" group-title="F23 M3  INFANTIL",GLOOB FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014632.ts
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/gloob-fhd-alt.png" group-title="F23 M3  INFANTIL",GLOOB HD
+http://cloudsalex.space:80/Gledson/Gledson/9014633.ts
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/gloob-fhd-alt.png" group-title="F23 M3  INFANTIL",GLOOB SD
+http://cloudsalex.space:80/Gledson/Gledson/9014634.ts
+#EXTINF:-1 tvg-id="gloobinho.br" tvg-name="GLOOBINHO FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/gloobinho-fhd.png" group-title="F23 M3  INFANTIL",GLOOBINHO FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014635.ts
+#EXTINF:-1 tvg-id="gloobinho.br" tvg-name="GLOOBINHO HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/gloobinho-fhd.png" group-title="F23 M3  INFANTIL",GLOOBINHO HD
+http://cloudsalex.space:80/Gledson/Gledson/9014636.ts
+#EXTINF:-1 tvg-id="gloobinho.br" tvg-name="GLOOBINHO SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/gloobinho-fhd.png" group-title="F23 M3  INFANTIL",GLOOBINHO SD
+http://cloudsalex.space:80/Gledson/Gledson/9014637.ts
+#EXTINF:-1 tvg-id="nickjr..br" tvg-name="NICK JR FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/nickelodeon-fhd.png" group-title="F23 M3  INFANTIL",NICK JR FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014638.ts
+#EXTINF:-1 tvg-id="nickjr..br" tvg-name="NICK JR HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/nickelodeon-fhd.png" group-title="F23 M3  INFANTIL",NICK JR HD
+http://cloudsalex.space:80/Gledson/Gledson/9014639.ts
+#EXTINF:-1 tvg-id="nickjr..br" tvg-name="NICK JR SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/nickelodeon-fhd.png" group-title="F23 M3  INFANTIL",NICK JR SD
+http://cloudsalex.space:80/Gledson/Gledson/9014640.ts
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/nickelodeon-fhd.png" group-title="F23 M3  INFANTIL",NICKELODEON FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014641.ts
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/nickelodeon-fhd.png" group-title="F23 M3  INFANTIL",NICKELODEON HD
+http://cloudsalex.space:80/Gledson/Gledson/9014642.ts
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/nickelodeon-fhd.png" group-title="F23 M3  INFANTIL",NICKELODEON SD
+http://cloudsalex.space:80/Gledson/Gledson/9014643.ts
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="TOONCAST HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/tooncast-hd.png" group-title="F23 M3  INFANTIL",TOONCAST HD
+http://cloudsalex.space:80/Gledson/Gledson/9014644.ts
+#EXTINF:-1 tvg-id="ratimbum.br" tvg-name="TV RÁTIMBUM FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/tv-ratimbum-hd.png" group-title="F23 M3  INFANTIL",TV RÁTIMBUM FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014645.ts
+#EXTINF:-1 tvg-id="ratimbum.br" tvg-name="TV RÁTIMBUM HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/tv-ratimbum-hd.png" group-title="F23 M3  INFANTIL",TV RÁTIMBUM HD
+http://cloudsalex.space:80/Gledson/Gledson/9014646.ts
+#EXTINF:-1 tvg-id="ratimbum.br" tvg-name="TV RÁTIMBUM SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/tv-ratimbum-hd.png" group-title="F23 M3  INFANTIL",TV RÁTIMBUM SD
+http://cloudsalex.space:80/Gledson/Gledson/9014647.ts
+#EXTINF:-1 tvg-id="" tvg-name="DUMDUM FHD" tvg-logo="https://7svoficial.com/canais/dumdum.png" group-title="F23 M3  INFANTIL",DUMDUM FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014648.ts
+#EXTINF:-1 tvg-id="" tvg-name="DUMDUM HD" tvg-logo="https://7svoficial.com/canais/dumdum.png" group-title="F23 M3  INFANTIL",DUMDUM HD
+http://cloudsalex.space:80/Gledson/Gledson/9014649.ts
+#EXTINF:-1 tvg-id="" tvg-name="DUMDUM SD" tvg-logo="https://7svoficial.com/canais/dumdum.png" group-title="F23 M3  INFANTIL",DUMDUM SD
+http://cloudsalex.space:80/Gledson/Gledson/9014650.ts
+#EXTINF:-1 tvg-id="arte1.br" tvg-name="ARTE1 FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/arte-1-fhd.png" group-title="F23 M3  VARIEDADES",ARTE1 FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014651.ts
+#EXTINF:-1 tvg-id="arte1.br" tvg-name="ARTE1 HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/arte-1-fhd.png" group-title="F23 M3  VARIEDADES",ARTE1 HD
+http://cloudsalex.space:80/Gledson/Gledson/9014652.ts
+#EXTINF:-1 tvg-id="arte1.br" tvg-name="ARTE1 SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/arte-1-fhd.png" group-title="F23 M3  VARIEDADES",ARTE1 SD
+http://cloudsalex.space:80/Gledson/Gledson/9014653.ts
+#EXTINF:-1 tvg-id="adultswim.br" tvg-name="ADULT SWIM FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/adultswim.png" group-title="F23 M3  VARIEDADES",ADULT SWIM FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014654.ts
+#EXTINF:-1 tvg-id="adultswim.br" tvg-name="ADULT SWIM HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/adultswim.png" group-title="F23 M3  VARIEDADES",ADULT SWIM HD
+http://cloudsalex.space:80/Gledson/Gledson/9014655.ts
+#EXTINF:-1 tvg-id="adultswim.br" tvg-name="ADULT SWIM SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/adultswim.png" group-title="F23 M3  VARIEDADES",ADULT SWIM SD
+http://cloudsalex.space:80/Gledson/Gledson/9014656.ts
+#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="CANAL BRASIL FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/canal-brasil-4k.png" group-title="F23 M3  VARIEDADES",CANAL BRASIL FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014657.ts
+#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="CANAL BRASIL HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/canal-brasil-4k.png" group-title="F23 M3  VARIEDADES",CANAL BRASIL HD
+http://cloudsalex.space:80/Gledson/Gledson/9014658.ts
+#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="CANAL BRASIL SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/canal-brasil-4k.png" group-title="F23 M3  VARIEDADES",CANAL BRASIL SD
+http://cloudsalex.space:80/Gledson/Gledson/9014659.ts
+#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="COMEDY CENTRAL FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/comedy-central-fhd.png" group-title="F23 M3  VARIEDADES",COMEDY CENTRAL FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014660.ts
+#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/comedy-central-fhd.png" group-title="F23 M3  VARIEDADES",COMEDY CENTRAL HD
+http://cloudsalex.space:80/Gledson/Gledson/9014661.ts
+#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="COMEDY CENTRAL SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/comedy-central-fhd.png" group-title="F23 M3  VARIEDADES",COMEDY CENTRAL SD
+http://cloudsalex.space:80/Gledson/Gledson/9014662.ts
+#EXTINF:-1 tvg-id="curta!.br" tvg-name="CURTA! FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/curta-hd.jpg" group-title="F23 M3  VARIEDADES",CURTA! FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014663.ts
+#EXTINF:-1 tvg-id="curta!.br" tvg-name="CURTA! HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/curta-hd.jpg" group-title="F23 M3  VARIEDADES",CURTA! HD
+http://cloudsalex.space:80/Gledson/Gledson/9014664.ts
+#EXTINF:-1 tvg-id="curta!.br" tvg-name="CURTA! SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/curta-hd.jpg" group-title="F23 M3  VARIEDADES",CURTA! SD
+http://cloudsalex.space:80/Gledson/Gledson/9014665.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL OFF FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/off-4k.png" group-title="F23 M3  VARIEDADES",CANAL OFF FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014666.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL OFF HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/off-4k.png" group-title="F23 M3  VARIEDADES",CANAL OFF HD
+http://cloudsalex.space:80/Gledson/Gledson/9014667.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL OFF SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/off-4k.png" group-title="F23 M3  VARIEDADES",CANAL OFF SD
+http://cloudsalex.space:80/Gledson/Gledson/9014668.ts
+#EXTINF:-1 tvg-id="dogtv.br" tvg-name="DOGTV FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/dogtv-fhd.png" group-title="F23 M3  VARIEDADES",DOGTV FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014669.ts
+#EXTINF:-1 tvg-id="dogtv.br" tvg-name="DOGTV HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/dogtv-fhd.png" group-title="F23 M3  VARIEDADES",DOGTV HD
+http://cloudsalex.space:80/Gledson/Gledson/9014670.ts
+#EXTINF:-1 tvg-id="dogtv.br" tvg-name="DOGTV SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/dogtv-fhd.png" group-title="F23 M3  VARIEDADES",DOGTV SD
+http://cloudsalex.space:80/Gledson/Gledson/9014671.ts
+#EXTINF:-1 tvg-id="e.br" tvg-name="E! FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/e-fhd.png" group-title="F23 M3  VARIEDADES",E! FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014672.ts
+#EXTINF:-1 tvg-id="e.br" tvg-name="E! HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/e-fhd.png" group-title="F23 M3  VARIEDADES",E! HD
+http://cloudsalex.space:80/Gledson/Gledson/9014673.ts
+#EXTINF:-1 tvg-id="e.br" tvg-name="E! SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/e-fhd.png" group-title="F23 M3  VARIEDADES",E! SD
+http://cloudsalex.space:80/Gledson/Gledson/9014674.ts
+#EXTINF:-1 tvg-id="fashiontv.br" tvg-name="FASHION TV HD" tvg-logo="http://32q0d.xyz/images/logos/fashiontv_logo_blue_vertical-1.png" group-title="F23 M3  VARIEDADES",FASHION TV HD
+http://cloudsalex.space:80/Gledson/Gledson/9014675.ts
+#EXTINF:-1 tvg-id="film&arts.br" tvg-name="FILM&ARTS FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/film-e-arts.png" group-title="F23 M3  VARIEDADES",FILM&ARTS FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014676.ts
+#EXTINF:-1 tvg-id="film&arts.br" tvg-name="FILM&ARTS HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/film-e-arts.png" group-title="F23 M3  VARIEDADES",FILM&ARTS HD
+http://cloudsalex.space:80/Gledson/Gledson/9014677.ts
+#EXTINF:-1 tvg-id="film&arts.br" tvg-name="FILM&ARTS SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/film-e-arts.png" group-title="F23 M3  VARIEDADES",FILM&ARTS SD
+http://cloudsalex.space:80/Gledson/Gledson/9014678.ts
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="FISH TV FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/fish-tv-fhd.png" group-title="F23 M3  VARIEDADES",FISH TV FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014679.ts
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="FISH TV HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/fish-tv-fhd.png" group-title="F23 M3  VARIEDADES",FISH TV HD
+http://cloudsalex.space:80/Gledson/Gledson/9014680.ts
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="FISH TV SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/fish-tv-fhd.png" group-title="F23 M3  VARIEDADES",FISH TV SD
+http://cloudsalex.space:80/Gledson/Gledson/9014681.ts
+#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="FOOD NETWORK FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/food-network-fhd.png" group-title="F23 M3  VARIEDADES",FOOD NETWORK FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014682.ts
+#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="FOOD NETWORK HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/food-network-fhd.png" group-title="F23 M3  VARIEDADES",FOOD NETWORK HD
+http://cloudsalex.space:80/Gledson/Gledson/9014683.ts
+#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="FOOD NETWORK SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/food-network-fhd.png" group-title="F23 M3  VARIEDADES",FOOD NETWORK SD
+http://cloudsalex.space:80/Gledson/Gledson/9014684.ts
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/gnt-4k.png" group-title="F23 M3  VARIEDADES",GNT FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014685.ts
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/gnt-4k.png" group-title="F23 M3  VARIEDADES",GNT HD
+http://cloudsalex.space:80/Gledson/Gledson/9014686.ts
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/gnt-4k.png" group-title="F23 M3  VARIEDADES",GNT SD
+http://cloudsalex.space:80/Gledson/Gledson/9014687.ts
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="LIFETIME FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/lifetime-fhd.png" group-title="F23 M3  VARIEDADES",LIFETIME FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014688.ts
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="LIFETIME HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/lifetime-fhd.png" group-title="F23 M3  VARIEDADES",LIFETIME HD
+http://cloudsalex.space:80/Gledson/Gledson/9014689.ts
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="LIFETIME SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/lifetime-fhd.png" group-title="F23 M3  VARIEDADES",LIFETIME SD
+http://cloudsalex.space:80/Gledson/Gledson/9014690.ts
+#EXTINF:-1 tvg-id="modoviagem.br" tvg-name="MODO VIAGEM FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/modo-viagem-fhd.png" group-title="F23 M3  VARIEDADES",MODO VIAGEM FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014691.ts
+#EXTINF:-1 tvg-id="modoviagem.br" tvg-name="MODO VIAGEM HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/modo-viagem-fhd.png" group-title="F23 M3  VARIEDADES",MODO VIAGEM HD
+http://cloudsalex.space:80/Gledson/Gledson/9014692.ts
+#EXTINF:-1 tvg-id="modoviagem.br" tvg-name="MODO VIAGEM SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/modo-viagem-fhd.png" group-title="F23 M3  VARIEDADES",MODO VIAGEM SD
+http://cloudsalex.space:80/Gledson/Gledson/9014693.ts
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/tlc-uhd.png" group-title="F23 M3  VARIEDADES",TLC FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014694.ts
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/tlc-uhd.png" group-title="F23 M3  VARIEDADES",TLC HD
+http://cloudsalex.space:80/Gledson/Gledson/9014695.ts
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/tlc-uhd.png" group-title="F23 M3  VARIEDADES",TLC SD
+http://cloudsalex.space:80/Gledson/Gledson/9014696.ts
+#EXTINF:-1 tvg-id="" tvg-name="TRIP BRASIL CHANNEL FHD" tvg-logo="https://7svoficial.com/canais/tbc.png" group-title="F23 M3  VARIEDADES",TRIP BRASIL CHANNEL FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014697.ts
+#EXTINF:-1 tvg-id="" tvg-name="TRIP BRASIL CHANNEL HD" tvg-logo="https://7svoficial.com/canais/tbc.png" group-title="F23 M3  VARIEDADES",TRIP BRASIL CHANNEL HD
+http://cloudsalex.space:80/Gledson/Gledson/9014698.ts
+#EXTINF:-1 tvg-id="" tvg-name="TRIP BRASIL CHANNEL SD" tvg-logo="https://7svoficial.com/canais/tbc.png" group-title="F23 M3  VARIEDADES",TRIP BRASIL CHANNEL SD
+http://cloudsalex.space:80/Gledson/Gledson/9014699.ts
+#EXTINF:-1 tvg-id="tracebrazuca.br" tvg-name="TRACE BRAZUCA FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/trace-brazuca-fhd.png" group-title="F23 M3  VARIEDADES",TRACE BRAZUCA FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014700.ts
+#EXTINF:-1 tvg-id="tracebrazuca.br" tvg-name="TRACE BRAZUCA HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/trace-brazuca-fhd.png" group-title="F23 M3  VARIEDADES",TRACE BRAZUCA HD
+http://cloudsalex.space:80/Gledson/Gledson/9014701.ts
+#EXTINF:-1 tvg-id="tracebrazuca.br" tvg-name="TRACE BRAZUCA SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/trace-brazuca-fhd.png" group-title="F23 M3  VARIEDADES",TRACE BRAZUCA SD
+http://cloudsalex.space:80/Gledson/Gledson/9014702.ts
+#EXTINF:-1 tvg-id="travelboxbrazil.br" tvg-name="TRAVEL BOX BRAZIL FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/travel-box-brazil-hd.png" group-title="F23 M3  VARIEDADES",TRAVEL BOX BRAZIL FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014703.ts
+#EXTINF:-1 tvg-id="travelboxbrazil.br" tvg-name="TRAVEL BOX BRAZIL HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/travel-box-brazil-hd.png" group-title="F23 M3  VARIEDADES",TRAVEL BOX BRAZIL HD
+http://cloudsalex.space:80/Gledson/Gledson/9014704.ts
+#EXTINF:-1 tvg-id="travelboxbrazil.br" tvg-name="TRAVEL BOX BRAZIL SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/travel-box-brazil-hd.png" group-title="F23 M3  VARIEDADES",TRAVEL BOX BRAZIL SD
+http://cloudsalex.space:80/Gledson/Gledson/9014705.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV5 MONDE FHD" tvg-logo="https://7svoficial.com/canais/tv5monde.png" group-title="F23 M3  VARIEDADES",TV5 MONDE FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014706.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV5 MONDE HD" tvg-logo="https://7svoficial.com/canais/tv5monde.png" group-title="F23 M3  VARIEDADES",TV5 MONDE HD
+http://cloudsalex.space:80/Gledson/Gledson/9014707.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV5 MONDE SD" tvg-logo="https://7svoficial.com/canais/tv5monde.png" group-title="F23 M3  VARIEDADES",TV5 MONDE SD
+http://cloudsalex.space:80/Gledson/Gledson/9014708.ts
+#EXTINF:-1 tvg-id="dummy-790" tvg-name="SABOR & ARTE FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/sabor-arte-hd.png" group-title="F23 M3  VARIEDADES",SABOR & ARTE FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014709.ts
+#EXTINF:-1 tvg-id="dummy-790" tvg-name="SABOR & ARTE HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/sabor-arte-hd.png" group-title="F23 M3  VARIEDADES",SABOR & ARTE HD
+http://cloudsalex.space:80/Gledson/Gledson/9014710.ts
+#EXTINF:-1 tvg-id="dummy-790" tvg-name="SABOR & ARTE SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/sabor-arte-hd.png" group-title="F23 M3  VARIEDADES",SABOR & ARTE SD
+http://cloudsalex.space:80/Gledson/Gledson/9014711.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBOPLAY NOVELAS FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/globoplay-fhd.png" group-title="F23 M3  VARIEDADES",GLOBOPLAY NOVELAS FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014712.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBOPLAY NOVELAS HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/globoplay-fhd.png" group-title="F23 M3  VARIEDADES",GLOBOPLAY NOVELAS HD
+http://cloudsalex.space:80/Gledson/Gledson/9014713.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBOPLAY NOVELAS SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/globoplay-fhd.png" group-title="F23 M3  VARIEDADES",GLOBOPLAY NOVELAS SD
+http://cloudsalex.space:80/Gledson/Gledson/9014714.ts
+#EXTINF:-1 tvg-id="woohoo.br" tvg-name="CANAL WOOHOO FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/woohoo-hd.png" group-title="F23 M3  VARIEDADES",CANAL WOOHOO FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014715.ts
+#EXTINF:-1 tvg-id="woohoo.br" tvg-name="CANAL WOOHOO HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/woohoo-hd.png" group-title="F23 M3  VARIEDADES",CANAL WOOHOO HD
+http://cloudsalex.space:80/Gledson/Gledson/9014716.ts
+#EXTINF:-1 tvg-id="woohoo.br" tvg-name="CANAL WOOHOO SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/woohoo-hd.png" group-title="F23 M3  VARIEDADES",CANAL WOOHOO SD
+http://cloudsalex.space:80/Gledson/Gledson/9014717.ts
+#EXTINF:-1 tvg-id="bandnews.br" tvg-name="BAND NEWS FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/band-news-4k.png" group-title="F23 M3  NOTÍCIAS",BAND NEWS FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014718.ts
+#EXTINF:-1 tvg-id="bandnews.br" tvg-name="BAND NEWS HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/band-news-4k.png" group-title="F23 M3  NOTÍCIAS",BAND NEWS HD
+http://cloudsalex.space:80/Gledson/Gledson/9014719.ts
+#EXTINF:-1 tvg-id="bandnews.br" tvg-name="BAND NEWS SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/band-news-4k.png" group-title="F23 M3  NOTÍCIAS",BAND NEWS SD
+http://cloudsalex.space:80/Gledson/Gledson/9014720.ts
+#EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="CNN BRASIL FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/cnn-brasil-h265.png" group-title="F23 M3  NOTÍCIAS",CNN BRASIL FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014721.ts
+#EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="CNN BRASIL HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/cnn-brasil-h265.png" group-title="F23 M3  NOTÍCIAS",CNN BRASIL HD
+http://cloudsalex.space:80/Gledson/Gledson/9014722.ts
+#EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="CNN BRASIL SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/cnn-brasil-h265.png" group-title="F23 M3  NOTÍCIAS",CNN BRASIL SD
+http://cloudsalex.space:80/Gledson/Gledson/9014723.ts
+#EXTINF:-1 tvg-id="rtpinternacional.br" tvg-name="CNN INTERNATIONAL FHD" tvg-logo="https://7svoficial.com/canais/cnninternational.png" group-title="F23 M3  NOTÍCIAS",CNN INTERNATIONAL FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014724.ts
+#EXTINF:-1 tvg-id="rtpinternacional.br" tvg-name="CNN INTERNATIONAL HD" tvg-logo="https://7svoficial.com/canais/cnninternational.png" group-title="F23 M3  NOTÍCIAS",CNN INTERNATIONAL HD
+http://cloudsalex.space:80/Gledson/Gledson/9014725.ts
+#EXTINF:-1 tvg-id="rtpinternacional.br" tvg-name="CNN INTERNATIONAL SD" tvg-logo="https://7svoficial.com/canais/cnninternational.png" group-title="F23 M3  NOTÍCIAS",CNN INTERNATIONAL SD
+http://cloudsalex.space:80/Gledson/Gledson/9014726.ts
+#EXTINF:-1 tvg-id="dummy-246" tvg-name="CNN MONEY FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/cnn-money.png" group-title="F23 M3  NOTÍCIAS",CNN MONEY FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014727.ts
+#EXTINF:-1 tvg-id="dummy-246" tvg-name="CNN MONEY HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/cnn-money.png" group-title="F23 M3  NOTÍCIAS",CNN MONEY HD
+http://cloudsalex.space:80/Gledson/Gledson/9014728.ts
+#EXTINF:-1 tvg-id="dummy-246" tvg-name="CNN MONEY SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/cnn-money.png" group-title="F23 M3  NOTÍCIAS",CNN MONEY SD
+http://cloudsalex.space:80/Gledson/Gledson/9014729.ts
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="GLOBO NEWS FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/globo-news-fhd.png" group-title="F23 M3  NOTÍCIAS",GLOBO NEWS FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014730.ts
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="GLOBO NEWS HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/globo-news-fhd.png" group-title="F23 M3  NOTÍCIAS",GLOBO NEWS HD
+http://cloudsalex.space:80/Gledson/Gledson/9014731.ts
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="GLOBO NEWS SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/globo-news-fhd.png" group-title="F23 M3  NOTÍCIAS",GLOBO NEWS SD
+http://cloudsalex.space:80/Gledson/Gledson/9014732.ts
+#EXTINF:-1 tvg-id="jovempannews.br" tvg-name="JOVEM PAN NEWS FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/jovem-pan-news-hd-alt.png" group-title="F23 M3  NOTÍCIAS",JOVEM PAN NEWS FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014733.ts
+#EXTINF:-1 tvg-id="jovempannews.br" tvg-name="JOVEM PAN NEWS HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/jovem-pan-news-hd-alt.png" group-title="F23 M3  NOTÍCIAS",JOVEM PAN NEWS HD
+http://cloudsalex.space:80/Gledson/Gledson/9014734.ts
+#EXTINF:-1 tvg-id="jovempannews.br" tvg-name="JOVEM PAN NEWS SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/jovem-pan-news-hd-alt.png" group-title="F23 M3  NOTÍCIAS",JOVEM PAN NEWS SD
+http://cloudsalex.space:80/Gledson/Gledson/9014735.ts
+#EXTINF:-1 tvg-id="recordnews.br" tvg-name="RECORD NEWS FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/record-news-fhd.png" group-title="F23 M3  NOTÍCIAS",RECORD NEWS FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014736.ts
+#EXTINF:-1 tvg-id="recordnews.br" tvg-name="RECORD NEWS HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/record-news-fhd.png" group-title="F23 M3  NOTÍCIAS",RECORD NEWS HD
+http://cloudsalex.space:80/Gledson/Gledson/9014737.ts
+#EXTINF:-1 tvg-id="recordnews.br" tvg-name="RECORD NEWS SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/record-news-fhd.png" group-title="F23 M3  NOTÍCIAS",RECORD NEWS SD
+http://cloudsalex.space:80/Gledson/Gledson/9014738.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNBC FHD" tvg-logo="https://7svoficial.com/canais/cnbc.png" group-title="F23 M3  NOTÍCIAS",CNBC FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014739.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNBC HD" tvg-logo="https://7svoficial.com/canais/cnbc.png" group-title="F23 M3  NOTÍCIAS",CNBC HD
+http://cloudsalex.space:80/Gledson/Gledson/9014740.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNBC SD" tvg-logo="https://7svoficial.com/canais/cnbc.png" group-title="F23 M3  NOTÍCIAS",CNBC SD
+http://cloudsalex.space:80/Gledson/Gledson/9014741.ts
+#EXTINF:-1 tvg-id="" tvg-name="DW FHD" tvg-logo="https://7svoficial.com/canais/dw.png" group-title="F23 M3  NOTÍCIAS",DW FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014742.ts
+#EXTINF:-1 tvg-id="" tvg-name="DW HD" tvg-logo="https://7svoficial.com/canais/dw.png" group-title="F23 M3  NOTÍCIAS",DW HD
+http://cloudsalex.space:80/Gledson/Gledson/9014743.ts
+#EXTINF:-1 tvg-id="" tvg-name="DW SD" tvg-logo="https://7svoficial.com/canais/dw.png" group-title="F23 M3  NOTÍCIAS",DW SD
+http://cloudsalex.space:80/Gledson/Gledson/9014744.ts
+#EXTINF:-1 tvg-id="" tvg-name="BM&C NEWS FHD" tvg-logo="https://7svoficial.com/canais/bm&c.png" group-title="F23 M3  NOTÍCIAS",BM&C NEWS FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014745.ts
+#EXTINF:-1 tvg-id="" tvg-name="BM&C NEWS HD" tvg-logo="https://7svoficial.com/canais/bm&c.png" group-title="F23 M3  NOTÍCIAS",BM&C NEWS HD
+http://cloudsalex.space:80/Gledson/Gledson/9014746.ts
+#EXTINF:-1 tvg-id="" tvg-name="BM&C NEWS SD" tvg-logo="https://7svoficial.com/canais/bm&c.png" group-title="F23 M3  NOTÍCIAS",BM&C NEWS SD
+http://cloudsalex.space:80/Gledson/Gledson/9014747.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBC NEWS FHD" tvg-logo="https://7svoficial.com/canais/bbcnews.png" group-title="F23 M3  NOTÍCIAS",BBC NEWS FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014748.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBC NEWS HD" tvg-logo="https://7svoficial.com/canais/bbcnews.png" group-title="F23 M3  NOTÍCIAS",BBC NEWS HD
+http://cloudsalex.space:80/Gledson/Gledson/9014749.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBC NEWS SD" tvg-logo="https://7svoficial.com/canais/bbcnews.png" group-title="F23 M3  NOTÍCIAS",BBC NEWS SD
+http://cloudsalex.space:80/Gledson/Gledson/9014750.ts
+#EXTINF:-1 tvg-id="bloomberg.br" tvg-name="BLOOMBERG FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/bloomberg-hd.png" group-title="F23 M3  NOTÍCIAS",BLOOMBERG FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014751.ts
+#EXTINF:-1 tvg-id="bloomberg.br" tvg-name="BLOOMBERG HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/bloomberg-hd.png" group-title="F23 M3  NOTÍCIAS",BLOOMBERG HD
+http://cloudsalex.space:80/Gledson/Gledson/9014752.ts
+#EXTINF:-1 tvg-id="bloomberg.br" tvg-name="BLOOMBERG SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/bloomberg-hd.png" group-title="F23 M3  NOTÍCIAS",BLOOMBERG SD
+http://cloudsalex.space:80/Gledson/Gledson/9014753.ts
+#EXTINF:-1 tvg-id="cançãonova.br" tvg-name="CANÇÃO NOVA FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/cancao-nova-hd.png" group-title="F23 M3  RELIGIOSOS",CANÇÃO NOVA FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014754.ts
+#EXTINF:-1 tvg-id="cançãonova.br" tvg-name="CANÇÃO NOVA HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/cancao-nova-hd.png" group-title="F23 M3  RELIGIOSOS",CANÇÃO NOVA HD
+http://cloudsalex.space:80/Gledson/Gledson/9014755.ts
+#EXTINF:-1 tvg-id="cançãonova.br" tvg-name="CANÇÃO NOVA SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/cancao-nova-hd.png" group-title="F23 M3  RELIGIOSOS",CANÇÃO NOVA SD
+http://cloudsalex.space:80/Gledson/Gledson/9014756.ts
+#EXTINF:-1 tvg-id="redegospel.br" tvg-name="REDE GOSPEL FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/rede-gospel-sd.png" group-title="F23 M3  RELIGIOSOS",REDE GOSPEL FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014757.ts
+#EXTINF:-1 tvg-id="redegospel.br" tvg-name="REDE GOSPEL HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/rede-gospel-sd.png" group-title="F23 M3  RELIGIOSOS",REDE GOSPEL HD
+http://cloudsalex.space:80/Gledson/Gledson/9014758.ts
+#EXTINF:-1 tvg-id="redegospel.br" tvg-name="REDE GOSPEL SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/rede-gospel-sd.png" group-title="F23 M3  RELIGIOSOS",REDE GOSPEL SD
+http://cloudsalex.space:80/Gledson/Gledson/9014759.ts
+#EXTINF:-1 tvg-id="redevida.br" tvg-name="REDE VIDA FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/rede-vida-uhd.png" group-title="F23 M3  RELIGIOSOS",REDE VIDA FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014760.ts
+#EXTINF:-1 tvg-id="redevida.br" tvg-name="REDE VIDA HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/rede-vida-uhd.png" group-title="F23 M3  RELIGIOSOS",REDE VIDA HD
+http://cloudsalex.space:80/Gledson/Gledson/9014761.ts
+#EXTINF:-1 tvg-id="redevida.br" tvg-name="REDE VIDA SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/rede-vida-uhd.png" group-title="F23 M3  RELIGIOSOS",REDE VIDA SD
+http://cloudsalex.space:80/Gledson/Gledson/9014762.ts
+#EXTINF:-1 tvg-id="tvaparecida.br" tvg-name="TV APARECIDA FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/tv-aparecida-fhd.png" group-title="F23 M3  RELIGIOSOS",TV APARECIDA FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014763.ts
+#EXTINF:-1 tvg-id="tvaparecida.br" tvg-name="TV APARECIDA HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/tv-aparecida-fhd.png" group-title="F23 M3  RELIGIOSOS",TV APARECIDA HD
+http://cloudsalex.space:80/Gledson/Gledson/9014764.ts
+#EXTINF:-1 tvg-id="tvaparecida.br" tvg-name="TV APARECIDA SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/tv-aparecida-fhd.png" group-title="F23 M3  RELIGIOSOS",TV APARECIDA SD
+http://cloudsalex.space:80/Gledson/Gledson/9014765.ts
+#EXTINF:-1 tvg-id="tvnovotempo.br" tvg-name="TV NOVO TEMPO HD" tvg-logo="https://7svoficial.com/canais/novotempo.png" group-title="F23 M3  RELIGIOSOS",TV NOVO TEMPO HD
+http://cloudsalex.space:80/Gledson/Gledson/9014766.ts
+#EXTINF:-1 tvg-id="dummy-953" tvg-name="TV PAI ETERNO HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/pai-eterno-fhd.png" group-title="F23 M3  RELIGIOSOS",TV PAI ETERNO HD
+http://cloudsalex.space:80/Gledson/Gledson/9014767.ts
+#EXTINF:-1 tvg-id="redesuper.br" tvg-name="REDE SUPER HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/rede-super-tv2.png" group-title="F23 M3  RELIGIOSOS",REDE SUPER HD
+http://cloudsalex.space:80/Gledson/Gledson/9014768.ts
+#EXTINF:-1 tvg-id="dummy-938" tvg-name="TV EVANGELIZAR FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/evangelizar.png" group-title="F23 M3  RELIGIOSOS",TV EVANGELIZAR FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014769.ts
+#EXTINF:-1 tvg-id="dummy-938" tvg-name="TV EVANGELIZAR HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/evangelizar.png" group-title="F23 M3  RELIGIOSOS",TV EVANGELIZAR HD
+http://cloudsalex.space:80/Gledson/Gledson/9014770.ts
+#EXTINF:-1 tvg-id="dummy-938" tvg-name="TV EVANGELIZAR SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/evangelizar.png" group-title="F23 M3  RELIGIOSOS",TV EVANGELIZAR SD
+http://cloudsalex.space:80/Gledson/Gledson/9014771.ts
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/bis-4k.png" group-title="F23 M3  MUSICAIS",BIS FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014772.ts
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/bis-4k.png" group-title="F23 M3  MUSICAIS",BIS HD
+http://cloudsalex.space:80/Gledson/Gledson/9014773.ts
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/bis-4k.png" group-title="F23 M3  MUSICAIS",BIS SD
+http://cloudsalex.space:80/Gledson/Gledson/9014774.ts
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/mtv-4k.png" group-title="F23 M3  MUSICAIS",MTV FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014775.ts
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/mtv-4k.png" group-title="F23 M3  MUSICAIS",MTV HD
+http://cloudsalex.space:80/Gledson/Gledson/9014776.ts
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/mtv-4k.png" group-title="F23 M3  MUSICAIS",MTV SD
+http://cloudsalex.space:80/Gledson/Gledson/9014777.ts
+#EXTINF:-1 tvg-id="mtvlive.br" tvg-name="MTV LIVE FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/mtv-4k.png" group-title="F23 M3  MUSICAIS",MTV LIVE FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014778.ts
+#EXTINF:-1 tvg-id="mtvlive.br" tvg-name="MTV LIVE HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/mtv-4k.png" group-title="F23 M3  MUSICAIS",MTV LIVE HD
+http://cloudsalex.space:80/Gledson/Gledson/9014779.ts
+#EXTINF:-1 tvg-id="mtvlive.br" tvg-name="MTV LIVE SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/mtv-4k.png" group-title="F23 M3  MUSICAIS",MTV LIVE SD
+http://cloudsalex.space:80/Gledson/Gledson/9014780.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV '00s FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/mtv-4k.png" group-title="F23 M3  MUSICAIS",MTV '00s FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014781.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV '00s HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/mtv-4k.png" group-title="F23 M3  MUSICAIS",MTV '00s HD
+http://cloudsalex.space:80/Gledson/Gledson/9014782.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV '00s SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/mtv-4k.png" group-title="F23 M3  MUSICAIS",MTV '00s SD
+http://cloudsalex.space:80/Gledson/Gledson/9014783.ts
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/multishow-fhd.png" group-title="F23 M3  MUSICAIS",MULTISHOW FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014784.ts
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/multishow-fhd.png" group-title="F23 M3  MUSICAIS",MULTISHOW HD
+http://cloudsalex.space:80/Gledson/Gledson/9014785.ts
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/multishow-fhd.png" group-title="F23 M3  MUSICAIS",MULTISHOW SD
+http://cloudsalex.space:80/Gledson/Gledson/9014786.ts
+#EXTINF:-1 tvg-id="musicboxbrasil.br" tvg-name="MUSIC BOX BRAZIL FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/music-box-brazil-fhd.png" group-title="F23 M3  MUSICAIS",MUSIC BOX BRAZIL FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014787.ts
+#EXTINF:-1 tvg-id="musicboxbrasil.br" tvg-name="MUSIC BOX BRAZIL HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/music-box-brazil-fhd.png" group-title="F23 M3  MUSICAIS",MUSIC BOX BRAZIL HD
+http://cloudsalex.space:80/Gledson/Gledson/9014788.ts
+#EXTINF:-1 tvg-id="musicboxbrasil.br" tvg-name="MUSIC BOX BRAZIL SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/music-box-brazil-fhd.png" group-title="F23 M3  MUSICAIS",MUSIC BOX BRAZIL SD
+http://cloudsalex.space:80/Gledson/Gledson/9014789.ts
+#EXTINF:-1 tvg-id="primeboxbrazil.br" tvg-name="PRIME BOX BRAZIL FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/prime-box-brazil-fhd.png" group-title="F23 M3  MUSICAIS",PRIME BOX BRAZIL FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014790.ts
+#EXTINF:-1 tvg-id="primeboxbrazil.br" tvg-name="PRIME BOX BRAZIL HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/prime-box-brazil-fhd.png" group-title="F23 M3  MUSICAIS",PRIME BOX BRAZIL HD
+http://cloudsalex.space:80/Gledson/Gledson/9014791.ts
+#EXTINF:-1 tvg-id="primeboxbrazil.br" tvg-name="PRIME BOX BRAZIL SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/prime-box-brazil-fhd.png" group-title="F23 M3  MUSICAIS",PRIME BOX BRAZIL SD
+http://cloudsalex.space:80/Gledson/Gledson/9014792.ts
+#EXTINF:-1 tvg-id="dummy-77" tvg-name="[24H] MR BEAST" tvg-logo="https://7svoficial.com/canais/youtube24h.png" group-title="F23 M3  24H STREAMING",[24H] MR BEAST
+http://cloudsalex.space:80/Gledson/Gledson/9014793.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] VOCÊ SABIA?" tvg-logo="https://7svoficial.com/canais/youtube24h.png" group-title="F23 M3  24H STREAMING",[24H] VOCÊ SABIA?
+http://cloudsalex.space:80/Gledson/Gledson/9014794.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] FATOS DESCONHECIDOS" tvg-logo="https://7svoficial.com/canais/youtube24h.png" group-title="F23 M3  24H STREAMING",[24H] FATOS DESCONHECIDOS
+http://cloudsalex.space:80/Gledson/Gledson/9014795.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] EI NERD" tvg-logo="https://7svoficial.com/canais/youtube24h.png" group-title="F23 M3  24H STREAMING",[24H] EI NERD
+http://cloudsalex.space:80/Gledson/Gledson/9014796.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] CIÊNCIA TODO DIA" tvg-logo="https://7svoficial.com/canais/youtube24h.png" group-title="F23 M3  24H STREAMING",[24H] CIÊNCIA TODO DIA
+http://cloudsalex.space:80/Gledson/Gledson/9014797.ts
+#EXTINF:-1 tvg-id="dummy-2127" tvg-name="[24H] MANUAL DO MUNDO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFwj6ju_RvtoVnwHN-Xt1Tr-IPyLS2R4hEIg&s" group-title="F23 M3  24H STREAMING",[24H] MANUAL DO MUNDO
+http://cloudsalex.space:80/Gledson/Gledson/9014798.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] TEMPESTADE NO MAR" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24H STREAMING",[24H] TEMPESTADE NO MAR
+http://cloudsalex.space:80/Gledson/Gledson/9014799.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] ÁGUA CORRENTE" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24H STREAMING",[24H] ÁGUA CORRENTE
+http://cloudsalex.space:80/Gledson/Gledson/9014800.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] RIO COM NEVASCA" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24H STREAMING",[24H] RIO COM NEVASCA
+http://cloudsalex.space:80/Gledson/Gledson/9014801.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] PRAIA PARADISÍACA" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24H STREAMING",[24H] PRAIA PARADISÍACA
+http://cloudsalex.space:80/Gledson/Gledson/9014802.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] NOITE DE LUA CHEIA" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24H STREAMING",[24H] NOITE DE LUA CHEIA
+http://cloudsalex.space:80/Gledson/Gledson/9014803.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] FUNDO DO MAR" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24H STREAMING",[24H] FUNDO DO MAR
+http://cloudsalex.space:80/Gledson/Gledson/9014804.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] CHUVA NA JANELA" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24H STREAMING",[24H] CHUVA NA JANELA
+http://cloudsalex.space:80/Gledson/Gledson/9014805.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] CACHOEIRA NA FLORESTA" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24H STREAMING",[24H] CACHOEIRA NA FLORESTA
+http://cloudsalex.space:80/Gledson/Gledson/9014806.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] LAREIRA" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24H STREAMING",[24H] LAREIRA
+http://cloudsalex.space:80/Gledson/Gledson/9014807.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] CHUVA TELA PRETA" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24H STREAMING",[24H] CHUVA TELA PRETA
+http://cloudsalex.space:80/Gledson/Gledson/9014808.ts
+#EXTINF:-1 tvg-id="dummy-5" tvg-name="[24H] 3 PALAVRINHAS" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24H DESENHOS",[24H] 3 PALAVRINHAS
+http://cloudsalex.space:80/Gledson/Gledson/9014809.ts
+#EXTINF:-1 tvg-id="dummy-38" tvg-name="[24H] CAVERNA DO DRAGÃO" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24H DESENHOS",[24H] CAVERNA DO DRAGÃO
+http://cloudsalex.space:80/Gledson/Gledson/9014810.ts
+#EXTINF:-1 tvg-id="dummy-17" tvg-name="[24H] AS MENINAS SUPERPODEROSAS" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24H DESENHOS",[24H] AS MENINAS SUPERPODEROSAS
+http://cloudsalex.space:80/Gledson/Gledson/9014811.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] SNOOPY" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24H DESENHOS",[24H] SNOOPY
+http://cloudsalex.space:80/Gledson/Gledson/9014812.ts
+#EXTINF:-1 tvg-id="dummy-45" tvg-name="[24H] DIGIMON" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24H DESENHOS",[24H] DIGIMON
+http://cloudsalex.space:80/Gledson/Gledson/9014813.ts
+#EXTINF:-1 tvg-id="dummy-11" tvg-name="[24H] PATRULHA CANINA" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24H DESENHOS",[24H] PATRULHA CANINA
+http://cloudsalex.space:80/Gledson/Gledson/9014814.ts
+#EXTINF:-1 tvg-id="dummy-28" tvg-name="[24H] BOKU NO HERO ACADEMIA" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24H DESENHOS",[24H] BOKU NO HERO ACADEMIA
+http://cloudsalex.space:80/Gledson/Gledson/9014815.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] BATMAN: A SÉRIE ANIMADA" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24H DESENHOS",[24H] BATMAN: A SÉRIE ANIMADA
+http://cloudsalex.space:80/Gledson/Gledson/9014816.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] LIGA DA JUSTIÇA: SEM LIMITES" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24H DESENHOS",[24H] LIGA DA JUSTIÇA: SEM LIMITES
+http://cloudsalex.space:80/Gledson/Gledson/9014817.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] LIGA DA JUSTIÇA" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24H DESENHOS",[24H] LIGA DA JUSTIÇA
+http://cloudsalex.space:80/Gledson/Gledson/9014818.ts
+#EXTINF:-1 tvg-id="dummy-105" tvg-name="[24H] SUPER CHOQUE" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24H DESENHOS",[24H] SUPER CHOQUE
+http://cloudsalex.space:80/Gledson/Gledson/9014819.ts
+#EXTINF:-1 tvg-id="dummy-116" tvg-name="[24H] UMA FAMÍLIA DA PESADA" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24H DESENHOS",[24H] UMA FAMÍLIA DA PESADA
+http://cloudsalex.space:80/Gledson/Gledson/9014820.ts
+#EXTINF:-1 tvg-id="dummy-88" tvg-name="[24H] OS SIMPSONS" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24H DESENHOS",[24H] OS SIMPSONS
+http://cloudsalex.space:80/Gledson/Gledson/9014821.ts
+#EXTINF:-1 tvg-id="dummy-99" tvg-name="[24H] RICK E MORTY" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24H DESENHOS",[24H] RICK E MORTY
+http://cloudsalex.space:80/Gledson/Gledson/9014822.ts
+#EXTINF:-1 tvg-id="dummy-22" tvg-name="[24H] BABY LOONEY TUNES" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24H DESENHOS",[24H] BABY LOONEY TUNES
+http://cloudsalex.space:80/Gledson/Gledson/9014823.ts
+#EXTINF:-1 tvg-id="dummy-80" tvg-name="[24H] O INCRÍVEL MUNDO DE GUMBALL" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24H DESENHOS",[24H] O INCRÍVEL MUNDO DE GUMBALL
+http://cloudsalex.space:80/Gledson/Gledson/9014824.ts
+#EXTINF:-1 tvg-id="dummy-65" tvg-name="[24H] HORA DE AVENTURA" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24H DESENHOS",[24H] HORA DE AVENTURA
+http://cloudsalex.space:80/Gledson/Gledson/9014825.ts
+#EXTINF:-1 tvg-id="dummy-64" tvg-name="[24H] HOMEM-ARANHA" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24H DESENHOS",[24H] HOMEM-ARANHA
+http://cloudsalex.space:80/Gledson/Gledson/9014826.ts
+#EXTINF:-1 tvg-id="dummy-64" tvg-name="[24H] HOMEM-ARANHA: ULTIMATE" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24H DESENHOS",[24H] HOMEM-ARANHA: ULTIMATE
+http://cloudsalex.space:80/Gledson/Gledson/9014827.ts
+#EXTINF:-1 tvg-id="dummy-64" tvg-name="[24H] HOMEM-ARANHA: AÇÃO SEM LIMITES" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24H DESENHOS",[24H] HOMEM-ARANHA: AÇÃO SEM LIMITES
+http://cloudsalex.space:80/Gledson/Gledson/9014828.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] MANDA-CHUVA" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24H DESENHOS",[24H] MANDA-CHUVA
+http://cloudsalex.space:80/Gledson/Gledson/9014829.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] ONE PUNCH-MAN" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24H DESENHOS",[24H] ONE PUNCH-MAN
+http://cloudsalex.space:80/Gledson/Gledson/9014830.ts
+#EXTINF:-1 tvg-id="dummy-16" tvg-name="[24H] AS AVENTURAS DE JACKIE CHAN" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24H DESENHOS",[24H] AS AVENTURAS DE JACKIE CHAN
+http://cloudsalex.space:80/Gledson/Gledson/9014831.ts
+#EXTINF:-1 tvg-id="dummy-114" tvg-name="[24H] A TURMA DO PATETA" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24H DESENHOS",[24H] A TURMA DO PATETA
+http://cloudsalex.space:80/Gledson/Gledson/9014832.ts
+#EXTINF:-1 tvg-id="dummy-110" tvg-name="[24H] TOM E JERRY" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24H DESENHOS",[24H] TOM E JERRY
+http://cloudsalex.space:80/Gledson/Gledson/9014833.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] OS VINGADORES" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24H DESENHOS",[24H] OS VINGADORES
+http://cloudsalex.space:80/Gledson/Gledson/9014834.ts
+#EXTINF:-1 tvg-id="dummy-84" tvg-name="[24H] OS CAVALEIROS DO ZODÍACO" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24H DESENHOS",[24H] OS CAVALEIROS DO ZODÍACO
+http://cloudsalex.space:80/Gledson/Gledson/9014835.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] WOLVERINE E OS X-MEN" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24H DESENHOS",[24H] WOLVERINE E OS X-MEN
+http://cloudsalex.space:80/Gledson/Gledson/9014836.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] X-MEN: EVOLUTION" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24H DESENHOS",[24H] X-MEN: EVOLUTION
+http://cloudsalex.space:80/Gledson/Gledson/9014837.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] HOMEM DE FERRO" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24H DESENHOS",[24H] HOMEM DE FERRO
+http://cloudsalex.space:80/Gledson/Gledson/9014838.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] IRON MAN" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24H DESENHOS",[24H] IRON MAN
+http://cloudsalex.space:80/Gledson/Gledson/9014839.ts
+#EXTINF:-1 tvg-id="dummy-112" tvg-name="[24H] TRÊS ESPIÃS DEMAIS" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24H DESENHOS",[24H] TRÊS ESPIÃS DEMAIS
+http://cloudsalex.space:80/Gledson/Gledson/9014840.ts
+#EXTINF:-1 tvg-id="dummy-27" tvg-name="[24H] BOB ESPONJA" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24H DESENHOS",[24H] BOB ESPONJA
+http://cloudsalex.space:80/Gledson/Gledson/9014841.ts
+#EXTINF:-1 tvg-id="dummy-83" tvg-name="[24H] O MÁSKARA" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24H DESENHOS",[24H] O MÁSKARA
+http://cloudsalex.space:80/Gledson/Gledson/9014842.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] DEATH NOTE" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24H DESENHOS",[24H] DEATH NOTE
+http://cloudsalex.space:80/Gledson/Gledson/9014843.ts
+#EXTINF:-1 tvg-id="dummy-63" tvg-name="[24H] HE-MAN" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24H DESENHOS",[24H] HE-MAN
+http://cloudsalex.space:80/Gledson/Gledson/9014844.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] KND: A TURMA DO BAIRRO" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24H DESENHOS",[24H] KND: A TURMA DO BAIRRO
+http://cloudsalex.space:80/Gledson/Gledson/9014845.ts
+#EXTINF:-1 tvg-id="dummy-22" tvg-name="[24H] LOONEY TUNES" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24H DESENHOS",[24H] LOONEY TUNES
+http://cloudsalex.space:80/Gledson/Gledson/9014846.ts
+#EXTINF:-1 tvg-id="dummy-90" tvg-name="[24H] PAPA-LÉGUAS" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24H DESENHOS",[24H] PAPA-LÉGUAS
+http://cloudsalex.space:80/Gledson/Gledson/9014847.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] GAGUINHO E PATOLINO" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24H DESENHOS",[24H] GAGUINHO E PATOLINO
+http://cloudsalex.space:80/Gledson/Gledson/9014848.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] PIU-PIU E FRAJOLA" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24H DESENHOS",[24H] PIU-PIU E FRAJOLA
+http://cloudsalex.space:80/Gledson/Gledson/9014849.ts
+#EXTINF:-1 tvg-id="dummy-94" tvg-name="[24H] PICA-PAU" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24H DESENHOS",[24H] PICA-PAU
+http://cloudsalex.space:80/Gledson/Gledson/9014850.ts
+#EXTINF:-1 tvg-id="dummy-102" tvg-name="[24H] SCOOBY-DOO" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24H DESENHOS",[24H] SCOOBY-DOO
+http://cloudsalex.space:80/Gledson/Gledson/9014851.ts
+#EXTINF:-1 tvg-id="dummy-107" tvg-name="[24H] THUNDERCATS" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24H DESENHOS",[24H] THUNDERCATS
+http://cloudsalex.space:80/Gledson/Gledson/9014852.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] AMERICAN DAD!" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24H DESENHOS",[24H] AMERICAN DAD!
+http://cloudsalex.space:80/Gledson/Gledson/9014853.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] APENAS UM SHOW" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24H DESENHOS",[24H] APENAS UM SHOW
+http://cloudsalex.space:80/Gledson/Gledson/9014854.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] BABY SHARK" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24H DESENHOS",[24H] BABY SHARK
+http://cloudsalex.space:80/Gledson/Gledson/9014855.ts
+#EXTINF:-1 tvg-id="dummy-25" tvg-name="[24H] BEYBLADE" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24H DESENHOS",[24H] BEYBLADE
+http://cloudsalex.space:80/Gledson/Gledson/9014856.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] BLAZE E OS MONSTER MACHINES" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24H DESENHOS",[24H] BLAZE E OS MONSTER MACHINES
+http://cloudsalex.space:80/Gledson/Gledson/9014857.ts
+#EXTINF:-1 tvg-id="dummy-29" tvg-name="[24H] BOB ZOOM" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24H DESENHOS",[24H] BOB ZOOM
+http://cloudsalex.space:80/Gledson/Gledson/9014858.ts
+#EXTINF:-1 tvg-id="dummy-43" tvg-name="[24H] CORRIDA MALUCA" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24H DESENHOS",[24H] CORRIDA MALUCA
+http://cloudsalex.space:80/Gledson/Gledson/9014859.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] DESENHOS BÍBLICOS" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24H DESENHOS",[24H] DESENHOS BÍBLICOS
+http://cloudsalex.space:80/Gledson/Gledson/9014860.ts
+#EXTINF:-1 tvg-id="dummy-93" tvg-name="[24H] DORA E SEUS AMIGOS" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24H DESENHOS",[24H] DORA E SEUS AMIGOS
+http://cloudsalex.space:80/Gledson/Gledson/9014861.ts
+#EXTINF:-1 tvg-id="dummy-47" tvg-name="[24H] DRAGON BALL" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24H DESENHOS",[24H] DRAGON BALL
+http://cloudsalex.space:80/Gledson/Gledson/9014862.ts
+#EXTINF:-1 tvg-id="dummy-47" tvg-name="[24H] DRAGON BALL Z" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24H DESENHOS",[24H] DRAGON BALL Z
+http://cloudsalex.space:80/Gledson/Gledson/9014863.ts
+#EXTINF:-1 tvg-id="dummy-47" tvg-name="[24H] DRAGON BALL KAI" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24H DESENHOS",[24H] DRAGON BALL KAI
+http://cloudsalex.space:80/Gledson/Gledson/9014864.ts
+#EXTINF:-1 tvg-id="dummy-47" tvg-name="[24H] DRAGON BALL SUPER" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24H DESENHOS",[24H] DRAGON BALL SUPER
+http://cloudsalex.space:80/Gledson/Gledson/9014865.ts
+#EXTINF:-1 tvg-id="dummy-59" tvg-name="[24H] FUTURAMA" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/futura-fhd.png" group-title="F23 M3  24H DESENHOS",[24H] FUTURAMA
+http://cloudsalex.space:80/Gledson/Gledson/9014866.ts
+#EXTINF:-1 tvg-id="dummy-60" tvg-name="[24H] GALINHA PINTADINHA" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24H DESENHOS",[24H] GALINHA PINTADINHA
+http://cloudsalex.space:80/Gledson/Gledson/9014867.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] MASHA E O URSO" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24H DESENHOS",[24H] MASHA E O URSO
+http://cloudsalex.space:80/Gledson/Gledson/9014868.ts
+#EXTINF:-1 tvg-id="dummy-77" tvg-name="[24H] MR. BEAN" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24H DESENHOS",[24H] MR. BEAN
+http://cloudsalex.space:80/Gledson/Gledson/9014869.ts
+#EXTINF:-1 tvg-id="dummy-78" tvg-name="[24H] MUNDO BITA" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24H DESENHOS",[24H] MUNDO BITA
+http://cloudsalex.space:80/Gledson/Gledson/9014870.ts
+#EXTINF:-1 tvg-id="dummy-79" tvg-name="[24H] NARUTO" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24H DESENHOS",[24H] NARUTO
+http://cloudsalex.space:80/Gledson/Gledson/9014871.ts
+#EXTINF:-1 tvg-id="dummy-94" tvg-name="[24H] O NOVO PICA-PAU" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24H DESENHOS",[24H] O NOVO PICA-PAU
+http://cloudsalex.space:80/Gledson/Gledson/9014872.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] ONE PIECE" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24H DESENHOS",[24H] ONE PIECE
+http://cloudsalex.space:80/Gledson/Gledson/9014873.ts
+#EXTINF:-1 tvg-id="dummy-86" tvg-name="[24H] OS FLINTSTONES" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24H DESENHOS",[24H] OS FLINTSTONES
+http://cloudsalex.space:80/Gledson/Gledson/9014874.ts
+#EXTINF:-1 tvg-id="dummy-88" tvg-name="[24H] OS JETSONS" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24H DESENHOS",[24H] OS JETSONS
+http://cloudsalex.space:80/Gledson/Gledson/9014875.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] OS JOVENS TITÃS" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24H DESENHOS",[24H] OS JOVENS TITÃS
+http://cloudsalex.space:80/Gledson/Gledson/9014876.ts
+#EXTINF:-1 tvg-id="dummy-91" tvg-name="[24H] PATATI PATATÁ" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24H DESENHOS",[24H] PATATI PATATÁ
+http://cloudsalex.space:80/Gledson/Gledson/9014877.ts
+#EXTINF:-1 tvg-id="dummy-92" tvg-name="[24H] PEPPA PIG" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24H DESENHOS",[24H] PEPPA PIG
+http://cloudsalex.space:80/Gledson/Gledson/9014878.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] POKÉMON" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24H DESENHOS",[24H] POKÉMON
+http://cloudsalex.space:80/Gledson/Gledson/9014879.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] SANTIAGO DOS MARES" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24H DESENHOS",[24H] SANTIAGO DOS MARES
+http://cloudsalex.space:80/Gledson/Gledson/9014880.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] SONIC THE HEDGEHOG" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24H DESENHOS",[24H] SONIC THE HEDGEHOG
+http://cloudsalex.space:80/Gledson/Gledson/9014881.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] YIN YANG YO!" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24H DESENHOS",[24H] YIN YANG YO!
+http://cloudsalex.space:80/Gledson/Gledson/9014882.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] AEROPORTO MIAMI" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24 SÉRIES",[24H] AEROPORTO MIAMI
+http://cloudsalex.space:80/Gledson/Gledson/9014883.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] AEROPORTO: ÁREA RESTRITA" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24 SÉRIES",[24H] AEROPORTO: ÁREA RESTRITA
+http://cloudsalex.space:80/Gledson/Gledson/9014884.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] OPERAÇÃO FRONTEIRA: BRASIL" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24 SÉRIES",[24H] OPERAÇÃO FRONTEIRA: BRASIL
+http://cloudsalex.space:80/Gledson/Gledson/9014885.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] QUILOS MORTAIS" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24 SÉRIES",[24H] QUILOS MORTAIS
+http://cloudsalex.space:80/Gledson/Gledson/9014886.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] BODYCAM" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24 SÉRIES",[24H] BODYCAM
+http://cloudsalex.space:80/Gledson/Gledson/9014887.ts
+#EXTINF:-1 tvg-id="dummy-8" tvg-name="[24H] A GRANDE FAMÍLIA DO ALASCA" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24 SÉRIES",[24H] A GRANDE FAMÍLIA DO ALASCA
+http://cloudsalex.space:80/Gledson/Gledson/9014888.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] AS PIORES PRISÕES DO MUNDO" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24 SÉRIES",[24H] AS PIORES PRISÕES DO MUNDO
+http://cloudsalex.space:80/Gledson/Gledson/9014889.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] O MISTÉRIO DO TRIÂNGULO DAS BERMUDAS" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24 SÉRIES",[24H] O MISTÉRIO DO TRIÂNGULO DAS BERMUDAS
+http://cloudsalex.space:80/Gledson/Gledson/9014890.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] CONSTRUÇÕES NO ALASCA" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24 SÉRIES",[24H] CONSTRUÇÕES NO ALASCA
+http://cloudsalex.space:80/Gledson/Gledson/9014891.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] VIDA REMOTA" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24 SÉRIES",[24H] VIDA REMOTA
+http://cloudsalex.space:80/Gledson/Gledson/9014892.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] LARGADOS E PELADOS" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24 SÉRIES",[24H] LARGADOS E PELADOS
+http://cloudsalex.space:80/Gledson/Gledson/9014893.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] LARGADOS E PELADOS: LATINOS" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24 SÉRIES",[24H] LARGADOS E PELADOS: LATINOS
+http://cloudsalex.space:80/Gledson/Gledson/9014894.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] EU, A PATROA E AS CRIANÇAS" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24 SÉRIES",[24H] EU, A PATROA E AS CRIANÇAS
+http://cloudsalex.space:80/Gledson/Gledson/9014895.ts
+#EXTINF:-1 tvg-id="dummy-109" tvg-name="[24H] TODO MUNDO ODEIA O CHRIS" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24 SÉRIES",[24H] TODO MUNDO ODEIA O CHRIS
+http://cloudsalex.space:80/Gledson/Gledson/9014896.ts
+#EXTINF:-1 tvg-id="dummy-26" tvg-name="[24H] THE BIG BANG THEORY" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24 SÉRIES",[24H] THE BIG BANG THEORY
+http://cloudsalex.space:80/Gledson/Gledson/9014897.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] DOIS HOMENS E MEIO" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24 SÉRIES",[24H] DOIS HOMENS E MEIO
+http://cloudsalex.space:80/Gledson/Gledson/9014898.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] SMALLVILLE" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24 SÉRIES",[24H] SMALLVILLE
+http://cloudsalex.space:80/Gledson/Gledson/9014899.ts
+#EXTINF:-1 tvg-id="dummy-115" tvg-name="[24H] UM MALUCO NO PEDAÇO" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24 SÉRIES",[24H] UM MALUCO NO PEDAÇO
+http://cloudsalex.space:80/Gledson/Gledson/9014900.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] ALF, O ETEIMOSO" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24 SÉRIES",[24H] ALF, O ETEIMOSO
+http://cloudsalex.space:80/Gledson/Gledson/9014901.ts
+#EXTINF:-1 tvg-id="dummy-40" tvg-name="[24H] CHAVES" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24 SÉRIES",[24H] CHAVES
+http://cloudsalex.space:80/Gledson/Gledson/9014902.ts
+#EXTINF:-1 tvg-id="dummy-77" tvg-name="[24H] MR. BEAN" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24 SÉRIES",[24H] MR. BEAN
+http://cloudsalex.space:80/Gledson/Gledson/9014903.ts
+#EXTINF:-1 tvg-id="dummy-32" tvg-name="[24H] FAMÍLIA DINOSSAUROS" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24 SÉRIES",[24H] FAMÍLIA DINOSSAUROS
+http://cloudsalex.space:80/Gledson/Gledson/9014904.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] ALIENÍGENAS DO PASSADO" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24 SÉRIES",[24H] ALIENÍGENAS DO PASSADO
+http://cloudsalex.space:80/Gledson/Gledson/9014905.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] LARGADOS E PELADOS: A TRIBO" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24 SÉRIES",[24H] LARGADOS E PELADOS: A TRIBO
+http://cloudsalex.space:80/Gledson/Gledson/9014906.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] FEBRE DO OURO" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24 SÉRIES",[24H] FEBRE DO OURO
+http://cloudsalex.space:80/Gledson/Gledson/9014907.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] FRIENDS" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F23 M3  24 SÉRIES",[24H] FRIENDS
+http://cloudsalex.space:80/Gledson/Gledson/9014908.ts
+#EXTINF:-1 tvg-id="playboy.br" tvg-name="PLAYBOY HD" tvg-logo="https://7svoficial.com/canais/playboytv.png" group-title="F23 M3  ADULTOS +18",PLAYBOY HD
+http://cloudsalex.space:80/Gledson/Gledson/9014909.ts
+#EXTINF:-1 tvg-id="playboy.br" tvg-name="PLAYBOY SD" tvg-logo="https://7svoficial.com/canais/playboytv.png" group-title="F23 M3  ADULTOS +18",PLAYBOY SD
+http://cloudsalex.space:80/Gledson/Gledson/9014910.ts
+#EXTINF:-1 tvg-id="sextremebrazil.br" tvg-name="SEXTREME HD" tvg-logo="https://7svoficial.com/canais/sextreme.png" group-title="F23 M3  ADULTOS +18",SEXTREME HD
+http://cloudsalex.space:80/Gledson/Gledson/9014911.ts
+#EXTINF:-1 tvg-id="sextremebrazil.br" tvg-name="SEXTREME SD" tvg-logo="https://7svoficial.com/canais/sextreme.png" group-title="F23 M3  ADULTOS +18",SEXTREME SD
+http://cloudsalex.space:80/Gledson/Gledson/9014912.ts
+#EXTINF:-1 tvg-id="sexyhot.br" tvg-name="SEXY HOT HD" tvg-logo="https://7svoficial.com/canais/sexyhot.png" group-title="F23 M3  ADULTOS +18",SEXY HOT HD
+http://cloudsalex.space:80/Gledson/Gledson/9014913.ts
+#EXTINF:-1 tvg-id="sexyhot.br" tvg-name="SEXY HOT SD" tvg-logo="https://7svoficial.com/canais/sexyhot.png" group-title="F23 M3  ADULTOS +18",SEXY HOT SD
+http://cloudsalex.space:80/Gledson/Gledson/9014914.ts
+#EXTINF:-1 tvg-id="venustv.br" tvg-name="VENUS HD" tvg-logo="https://7svoficial.com/canais/venus.png" group-title="F23 M3  ADULTOS +18",VENUS HD
+http://cloudsalex.space:80/Gledson/Gledson/9014915.ts
+#EXTINF:-1 tvg-id="venustv.br" tvg-name="VENUS SD" tvg-logo="https://7svoficial.com/canais/venus.png" group-title="F23 M3  ADULTOS +18",VENUS SD
+http://cloudsalex.space:80/Gledson/Gledson/9014916.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 01" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F23 M3  ADULTOS +18",[+18] ADULTO 01
+http://cloudsalex.space:80/Gledson/Gledson/9014917.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 02" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F23 M3  ADULTOS +18",[+18] ADULTO 02
+http://cloudsalex.space:80/Gledson/Gledson/9014918.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 03" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F23 M3  ADULTOS +18",[+18] ADULTO 03
+http://cloudsalex.space:80/Gledson/Gledson/9014919.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 04" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F23 M3  ADULTOS +18",[+18] ADULTO 04
+http://cloudsalex.space:80/Gledson/Gledson/9014920.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 05" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F23 M3  ADULTOS +18",[+18] ADULTO 05
+http://cloudsalex.space:80/Gledson/Gledson/9014921.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 06" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F23 M3  ADULTOS +18",[+18] ADULTO 06
+http://cloudsalex.space:80/Gledson/Gledson/9014922.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 07" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F23 M3  ADULTOS +18",[+18] ADULTO 07
+http://cloudsalex.space:80/Gledson/Gledson/9014923.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 08" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F23 M3  ADULTOS +18",[+18] ADULTO 08
+http://cloudsalex.space:80/Gledson/Gledson/9014924.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 09" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F23 M3  ADULTOS +18",[+18] ADULTO 09
+http://cloudsalex.space:80/Gledson/Gledson/9014925.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 10" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F23 M3  ADULTOS +18",[+18] ADULTO 10
+http://cloudsalex.space:80/Gledson/Gledson/9014926.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 11" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F23 M3  ADULTOS +18",[+18] ADULTO 11
+http://cloudsalex.space:80/Gledson/Gledson/9014927.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 12" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F23 M3  ADULTOS +18",[+18] ADULTO 12
+http://cloudsalex.space:80/Gledson/Gledson/9014928.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 13" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F23 M3  ADULTOS +18",[+18] ADULTO 13
+http://cloudsalex.space:80/Gledson/Gledson/9014929.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 14" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F23 M3  ADULTOS +18",[+18] ADULTO 14
+http://cloudsalex.space:80/Gledson/Gledson/9014930.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 15" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F23 M3  ADULTOS +18",[+18] ADULTO 15
+http://cloudsalex.space:80/Gledson/Gledson/9014931.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 16" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F23 M3  ADULTOS +18",[+18] ADULTO 16
+http://cloudsalex.space:80/Gledson/Gledson/9014932.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 17" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F23 M3  ADULTOS +18",[+18] ADULTO 17
+http://cloudsalex.space:80/Gledson/Gledson/9014933.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 18" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F23 M3  ADULTOS +18",[+18] ADULTO 18
+http://cloudsalex.space:80/Gledson/Gledson/9014934.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 19" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F23 M3  ADULTOS +18",[+18] ADULTO 19
+http://cloudsalex.space:80/Gledson/Gledson/9014935.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 20" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F23 M3  ADULTOS +18",[+18] ADULTO 20
+http://cloudsalex.space:80/Gledson/Gledson/9014936.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 21" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F23 M3  ADULTOS +18",[+18] ADULTO 21
+http://cloudsalex.space:80/Gledson/Gledson/9014937.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 22" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F23 M3  ADULTOS +18",[+18] ADULTO 22
+http://cloudsalex.space:80/Gledson/Gledson/9014938.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 23" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F23 M3  ADULTOS +18",[+18] ADULTO 23
+http://cloudsalex.space:80/Gledson/Gledson/9014939.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 24" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F23 M3  ADULTOS +18",[+18] ADULTO 24
+http://cloudsalex.space:80/Gledson/Gledson/9014940.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 25" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F23 M3  ADULTOS +18",[+18] ADULTO 25
+http://cloudsalex.space:80/Gledson/Gledson/9014941.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 26" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F23 M3  ADULTOS +18",[+18] ADULTO 26
+http://cloudsalex.space:80/Gledson/Gledson/9014942.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 27" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F23 M3  ADULTOS +18",[+18] ADULTO 27
+http://cloudsalex.space:80/Gledson/Gledson/9014943.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 28" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F23 M3  ADULTOS +18",[+18] ADULTO 28
+http://cloudsalex.space:80/Gledson/Gledson/9014944.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 29" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F23 M3  ADULTOS +18",[+18] ADULTO 29
+http://cloudsalex.space:80/Gledson/Gledson/9014945.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 30" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F23 M3  ADULTOS +18",[+18] ADULTO 30
+http://cloudsalex.space:80/Gledson/Gledson/9014946.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 31" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F23 M3  ADULTOS +18",[+18] ADULTO 31
+http://cloudsalex.space:80/Gledson/Gledson/9014947.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 32" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F23 M3  ADULTOS +18",[+18] ADULTO 32
+http://cloudsalex.space:80/Gledson/Gledson/9014948.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 33" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F23 M3  ADULTOS +18",[+18] ADULTO 33
+http://cloudsalex.space:80/Gledson/Gledson/9014949.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 34" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F23 M3  ADULTOS +18",[+18] ADULTO 34
+http://cloudsalex.space:80/Gledson/Gledson/9014950.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 35" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F23 M3  ADULTOS +18",[+18] ADULTO 35
+http://cloudsalex.space:80/Gledson/Gledson/9014951.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 36" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F23 M3  ADULTOS +18",[+18] ADULTO 36
+http://cloudsalex.space:80/Gledson/Gledson/9014952.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 37" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F23 M3  ADULTOS +18",[+18] ADULTO 37
+http://cloudsalex.space:80/Gledson/Gledson/9014953.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 38" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F23 M3  ADULTOS +18",[+18] ADULTO 38
+http://cloudsalex.space:80/Gledson/Gledson/9014954.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 39" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F23 M3  ADULTOS +18",[+18] ADULTO 39
+http://cloudsalex.space:80/Gledson/Gledson/9014955.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 40" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F23 M3  ADULTOS +18",[+18] ADULTO 40
+http://cloudsalex.space:80/Gledson/Gledson/9014956.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 41" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F23 M3  ADULTOS +18",[+18] ADULTO 41
+http://cloudsalex.space:80/Gledson/Gledson/9014957.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 42" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F23 M3  ADULTOS +18",[+18] ADULTO 42
+http://cloudsalex.space:80/Gledson/Gledson/9014958.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 43" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F23 M3  ADULTOS +18",[+18] ADULTO 43
+http://cloudsalex.space:80/Gledson/Gledson/9014959.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 44" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F23 M3  ADULTOS +18",[+18] ADULTO 44
+http://cloudsalex.space:80/Gledson/Gledson/9014960.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 45" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F23 M3  ADULTOS +18",[+18] ADULTO 45
+http://cloudsalex.space:80/Gledson/Gledson/9014961.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 46" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F23 M3  ADULTOS +18",[+18] ADULTO 46
+http://cloudsalex.space:80/Gledson/Gledson/9014962.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 47" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F23 M3  ADULTOS +18",[+18] ADULTO 47
+http://cloudsalex.space:80/Gledson/Gledson/9014963.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 48" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F23 M3  ADULTOS +18",[+18] ADULTO 48
+http://cloudsalex.space:80/Gledson/Gledson/9014964.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 49" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F23 M3  ADULTOS +18",[+18] ADULTO 49
+http://cloudsalex.space:80/Gledson/Gledson/9014965.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 50" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F23 M3  ADULTOS +18",[+18] ADULTO 50
+http://cloudsalex.space:80/Gledson/Gledson/9014966.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 51" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F23 M3  ADULTOS +18",[+18] ADULTO 51
+http://cloudsalex.space:80/Gledson/Gledson/9014967.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 52" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F23 M3  ADULTOS +18",[+18] ADULTO 52
+http://cloudsalex.space:80/Gledson/Gledson/9014968.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 53" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F23 M3  ADULTOS +18",[+18] ADULTO 53
+http://cloudsalex.space:80/Gledson/Gledson/9014969.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 54" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F23 M3  ADULTOS +18",[+18] ADULTO 54
+http://cloudsalex.space:80/Gledson/Gledson/9014970.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 55" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F23 M3  ADULTOS +18",[+18] ADULTO 55
+http://cloudsalex.space:80/Gledson/Gledson/9014971.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 56" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F23 M3  ADULTOS +18",[+18] ADULTO 56
+http://cloudsalex.space:80/Gledson/Gledson/9014972.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 57" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F23 M3  ADULTOS +18",[+18] ADULTO 57
+http://cloudsalex.space:80/Gledson/Gledson/9014973.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 58" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F23 M3  ADULTOS +18",[+18] ADULTO 58
+http://cloudsalex.space:80/Gledson/Gledson/9014974.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 59" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F23 M3  ADULTOS +18",[+18] ADULTO 59
+http://cloudsalex.space:80/Gledson/Gledson/9014975.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 60" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F23 M3  ADULTOS +18",[+18] ADULTO 60
+http://cloudsalex.space:80/Gledson/Gledson/9014976.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 61" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F23 M3  ADULTOS +18",[+18] ADULTO 61
+http://cloudsalex.space:80/Gledson/Gledson/9014977.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 62" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F23 M3  ADULTOS +18",[+18] ADULTO 62
+http://cloudsalex.space:80/Gledson/Gledson/9014978.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 63" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F23 M3  ADULTOS +18",[+18] ADULTO 63
+http://cloudsalex.space:80/Gledson/Gledson/9014979.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 64" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F23 M3  ADULTOS +18",[+18] ADULTO 64
+http://cloudsalex.space:80/Gledson/Gledson/9014980.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 65" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F23 M3  ADULTOS +18",[+18] ADULTO 65
+http://cloudsalex.space:80/Gledson/Gledson/9014981.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 66" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F23 M3  ADULTOS +18",[+18] ADULTO 66
+http://cloudsalex.space:80/Gledson/Gledson/9014982.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 67" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F23 M3  ADULTOS +18",[+18] ADULTO 67
+http://cloudsalex.space:80/Gledson/Gledson/9014983.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 68" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F23 M3  ADULTOS +18",[+18] ADULTO 68
+http://cloudsalex.space:80/Gledson/Gledson/9014984.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 69" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F23 M3  ADULTOS +18",[+18] ADULTO 69
+http://cloudsalex.space:80/Gledson/Gledson/9014985.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 70" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F23 M3  ADULTOS +18",[+18] ADULTO 70
+http://cloudsalex.space:80/Gledson/Gledson/9014986.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 71" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F23 M3  ADULTOS +18",[+18] ADULTO 71
+http://cloudsalex.space:80/Gledson/Gledson/9014987.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 72" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F23 M3  ADULTOS +18",[+18] ADULTO 72
+http://cloudsalex.space:80/Gledson/Gledson/9014988.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 73" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F23 M3  ADULTOS +18",[+18] ADULTO 73
+http://cloudsalex.space:80/Gledson/Gledson/9014989.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 74" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F23 M3  ADULTOS +18",[+18] ADULTO 74
+http://cloudsalex.space:80/Gledson/Gledson/9014990.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 75" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F23 M3  ADULTOS +18",[+18] ADULTO 75
+http://cloudsalex.space:80/Gledson/Gledson/9014991.ts
+#EXTINF:-1 tvg-id="bandrj.br" tvg-name="BAND RN HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/band-sp-fhd.png" group-title="F23 M3  BAND",BAND RN HD
+http://cloudsalex.space:80/Gledson/Gledson/9014992.ts
+#EXTINF:-1 tvg-id="" tvg-name="BAND CAMPINAS HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/band-sp-fhd.png" group-title="F23 M3  BAND",BAND CAMPINAS HD
+http://cloudsalex.space:80/Gledson/Gledson/9014993.ts
+#EXTINF:-1 tvg-id="bandbrasília.br" tvg-name="BAND BRASÍLIA HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/band-sp-fhd.png" group-title="F23 M3  BAND",BAND BRASÍLIA HD
+http://cloudsalex.space:80/Gledson/Gledson/9014994.ts
+#EXTINF:-1 tvg-id="bandrj.br" tvg-name="Band RJ HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/band-sp-fhd.png" group-title="F23 M3  BAND",Band RJ HD
+http://cloudsalex.space:80/Gledson/Gledson/9014995.ts
+#EXTINF:-1 tvg-id="bandrj.br" tvg-name="Band RS HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/band-sp-fhd.png" group-title="F23 M3  BAND",Band RS HD
+http://cloudsalex.space:80/Gledson/Gledson/9014996.ts
+#EXTINF:-1 tvg-id="tvsergipe.br" tvg-name="Band Sergipe HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/band-sp-fhd.png" group-title="F23 M3  BAND",Band Sergipe HD
+http://cloudsalex.space:80/Gledson/Gledson/9014997.ts
+#EXTINF:-1 tvg-id="band.minas.br" tvg-name="BAND MINAS HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/band-sp-fhd.png" group-title="F23 M3  BAND",BAND MINAS HD
+http://cloudsalex.space:80/Gledson/Gledson/9014998.ts
+#EXTINF:-1 tvg-id="band.minas.br" tvg-name="BAND MINAS FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/band-sp-fhd.png" group-title="F23 M3  BAND",BAND MINAS FHD
+http://cloudsalex.space:80/Gledson/Gledson/9014999.ts
+#EXTINF:-1 tvg-id="sbtrs.br" tvg-name="SBT RS HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/stb-novo.png" group-title="F23 M3  SBT",SBT RS HD
+http://cloudsalex.space:80/Gledson/Gledson/9015000.ts
+#EXTINF:-1 tvg-id="" tvg-name="SBT BSB HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/stb-novo.png" group-title="F23 M3  SBT",SBT BSB HD
+http://cloudsalex.space:80/Gledson/Gledson/9015001.ts
+#EXTINF:-1 tvg-id="" tvg-name="SBT Sergipe -Tv Aperiper HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/stb-novo.png" group-title="F23 M3  SBT",SBT Sergipe -Tv Aperiper HD
+http://cloudsalex.space:80/Gledson/Gledson/9015002.ts
+#EXTINF:-1 tvg-id="sbtrs.br" tvg-name="SBT RJ FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/stb-novo.png" group-title="F23 M3  SBT",SBT RJ FHD
+http://cloudsalex.space:80/Gledson/Gledson/9015003.ts
+#EXTINF:-1 tvg-id="sbtrs.br" tvg-name="SBT RJ HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/stb-novo.png" group-title="F23 M3  SBT",SBT RJ HD
+http://cloudsalex.space:80/Gledson/Gledson/9015004.ts
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/stb-novo.png" group-title="F23 M3  SBT",SBT SP HD
+http://cloudsalex.space:80/Gledson/Gledson/9015005.ts
+#EXTINF:-1 tvg-id="sbtbrasilia.br" tvg-name="SBT BRASILIA FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/stb-novo.png" group-title="F23 M3  SBT",SBT BRASILIA FHD
+http://cloudsalex.space:80/Gledson/Gledson/9015006.ts
+#EXTINF:-1 tvg-id="" tvg-name="SBT-MG-Tv Alterosa FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/stb-novo.png" group-title="F23 M3  SBT",SBT-MG-Tv Alterosa FHD
+http://cloudsalex.space:80/Gledson/Gledson/9015007.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tv Alterosa HD [SBT MG]" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/stb-novo.png" group-title="F23 M3  SBT",Tv Alterosa HD [SBT MG]
+http://cloudsalex.space:80/Gledson/Gledson/9015008.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC News" tvg-logo="http://tvgolatino.com:8080/images/94591eb4868b546b12484a4449f082b7.png" group-title="F23 M3  EUA",USA: ABC News
+http://cloudsalex.space:80/Gledson/Gledson/9015009.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC Albany NY" tvg-logo="http://tvgolatino.com:8080/images/94591eb4868b546b12484a4449f082b7.png" group-title="F23 M3  EUA",USA: ABC Albany NY
+http://cloudsalex.space:80/Gledson/Gledson/9015010.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC Atlanta" tvg-logo="" group-title="F23 M3  EUA",USA: ABC Atlanta
+http://cloudsalex.space:80/Gledson/Gledson/9015011.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC Augusta WJBF" tvg-logo="http://tvgolatino.com:8080/images/2299daf49fd6c0357a255e33e96753e6.png" group-title="F23 M3  EUA",USA: ABC Augusta WJBF
+http://cloudsalex.space:80/Gledson/Gledson/9015012.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC Baltimore" tvg-logo="http://tvgolatino.com:8080/images/39a0c542d4d7dae617c52fd58cce1136.png" group-title="F23 M3  EUA",USA: ABC Baltimore
+http://cloudsalex.space:80/Gledson/Gledson/9015013.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC Boston" tvg-logo="http://tvgolatino.com:8080/images/34a2883aacc8b3a78156d887dfe96770.png" group-title="F23 M3  EUA",USA: ABC Boston
+http://cloudsalex.space:80/Gledson/Gledson/9015014.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC Buffalo" tvg-logo="http://tvgolatino.com:8080/images/b8678af89044208daba86760cb979ab8.png" group-title="F23 M3  EUA",USA: ABC Buffalo
+http://cloudsalex.space:80/Gledson/Gledson/9015015.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC Charlotte" tvg-logo="http://tvgolatino.com:8080/images/aeb8146ece7c169c31d21ae2556f44e4.png" group-title="F23 M3  EUA",USA: ABC Charlotte
+http://cloudsalex.space:80/Gledson/Gledson/9015016.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC Chicago HD" tvg-logo="http://tvgolatino.com:8080/images/7f88ffbc5e91bc2622b30c2fd45ceb91.png" group-title="F23 M3  EUA",USA: ABC Chicago HD
+http://cloudsalex.space:80/Gledson/Gledson/9015017.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC Cleveland" tvg-logo="http://tvgolatino.com:8080/images/893ab6462d0e03f3aba363f6497d36df.png" group-title="F23 M3  EUA",USA: ABC Cleveland
+http://cloudsalex.space:80/Gledson/Gledson/9015018.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC Cincinnati" tvg-logo="" group-title="F23 M3  EUA",USA: ABC Cincinnati
+http://cloudsalex.space:80/Gledson/Gledson/9015019.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC Columbus" tvg-logo="http://tvgolatino.com:8080/images/a26d52bb27aab62a9d6c9fc580c5d1fc.PNG" group-title="F23 M3  EUA",USA: ABC Columbus
+http://cloudsalex.space:80/Gledson/Gledson/9015020.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC New Orleans" tvg-logo="http://tvgolatino.com:8080/images/920beb6307e64ac4588b22af72f9e301.png" group-title="F23 M3  EUA",USA: ABC New Orleans
+http://cloudsalex.space:80/Gledson/Gledson/9015021.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC Detroit HD" tvg-logo="http://tvgolatino.com:8080/images/ac7a679b00089f7ea03d5aa499374896.png" group-title="F23 M3  EUA",USA: ABC Detroit HD
+http://cloudsalex.space:80/Gledson/Gledson/9015022.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC Fresno" tvg-logo="http://tvgolatino.com:8080/images/3aead99609a7c1bd3dc49ff4755a3f66.png" group-title="F23 M3  EUA",USA: ABC Fresno
+http://cloudsalex.space:80/Gledson/Gledson/9015023.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC houston" tvg-logo="http://tvgolatino.com:8080/images/68c3b4a91a2085f12d75fda811f65ea4.png" group-title="F23 M3  EUA",USA: ABC houston
+http://cloudsalex.space:80/Gledson/Gledson/9015024.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC Indianapolis" tvg-logo="http://tvgolatino.com:8080/images/860d38b6740c5c43f61766ec701f5032.png" group-title="F23 M3  EUA",USA: ABC Indianapolis
+http://cloudsalex.space:80/Gledson/Gledson/9015025.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC Jacksonville" tvg-logo="http://tvgolatino.com:8080/images/3f6565acfa6355d873444157d83b1712.png" group-title="F23 M3  EUA",USA: ABC Jacksonville
+http://cloudsalex.space:80/Gledson/Gledson/9015026.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC Kansas City" tvg-logo="http://tvgolatino.com:8080/images/85b57aa33190733052e5a96a996fbceb.png" group-title="F23 M3  EUA",USA: ABC Kansas City
+http://cloudsalex.space:80/Gledson/Gledson/9015027.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC Las Vegas" tvg-logo="" group-title="F23 M3  EUA",USA: ABC Las Vegas
+http://cloudsalex.space:80/Gledson/Gledson/9015028.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC Los Angeles HD" tvg-logo="http://tvgolatino.com:8080/images/8b997180397ccb6723090140b09b548c.png" group-title="F23 M3  EUA",USA: ABC Los Angeles HD
+http://cloudsalex.space:80/Gledson/Gledson/9015029.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC Miami" tvg-logo="http://tvgolatino.com:8080/images/a70c5f1f5180aad825e06e0e7a39dd40.png" group-title="F23 M3  EUA",USA: ABC Miami
+http://cloudsalex.space:80/Gledson/Gledson/9015030.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC Milwaukee" tvg-logo="http://tvgolatino.com:8080/images/f909c703cd235f94d2eda615ff2b2a64.png" group-title="F23 M3  EUA",USA: ABC Milwaukee
+http://cloudsalex.space:80/Gledson/Gledson/9015031.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC Nashville" tvg-logo="http://tvgolatino.com:8080/images/f28fe0ecde1626c2bf36802e69db0b19.png" group-title="F23 M3  EUA",USA: ABC Nashville
+http://cloudsalex.space:80/Gledson/Gledson/9015032.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC New York" tvg-logo="http://tvgolatino.com:8080/images/d7640141ce6dd62b6334a04a8db14e5c.png" group-title="F23 M3  EUA",USA: ABC New York
+http://cloudsalex.space:80/Gledson/Gledson/9015033.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC Tampa" tvg-logo="" group-title="F23 M3  EUA",USA: ABC Tampa
+http://cloudsalex.space:80/Gledson/Gledson/9015034.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC Phoenix" tvg-logo="http://tvgolatino.com:8080/images/55acc3d9dbebf2878f4d518c53081c3a.png" group-title="F23 M3  EUA",USA: ABC Phoenix
+http://cloudsalex.space:80/Gledson/Gledson/9015035.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC Orlando" tvg-logo="http://tvgolatino.com:8080/images/247b5c67c91d597c45704f21c7d1a59e.png" group-title="F23 M3  EUA",USA: ABC Orlando
+http://cloudsalex.space:80/Gledson/Gledson/9015036.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC Sacramento" tvg-logo="http://tvgolatino.com:8080/images/87456257900e1b54cd1b25fa9ee2b7c8.png" group-title="F23 M3  EUA",USA: ABC Sacramento
+http://cloudsalex.space:80/Gledson/Gledson/9015037.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC Portland" tvg-logo="http://tvgolatino.com:8080/images/252c4575563451edaa4911b0d20ff2c6.png" group-title="F23 M3  EUA",USA: ABC Portland
+http://cloudsalex.space:80/Gledson/Gledson/9015038.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC San Francisco" tvg-logo="http://tvgolatino.com:8080/images/54c7afdcdc538db0fda10104b8537403.png" group-title="F23 M3  EUA",USA: ABC San Francisco
+http://cloudsalex.space:80/Gledson/Gledson/9015039.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC Salt Lake City" tvg-logo="http://tvgolatino.com:8080/images/c75347413b932d3dae730c483f415f82.png" group-title="F23 M3  EUA",USA: ABC Salt Lake City
+http://cloudsalex.space:80/Gledson/Gledson/9015040.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC San Diego" tvg-logo="http://tvgolatino.com:8080/images/a2dd9b9628b89ec6002e87d245fe5bc1.jpg" group-title="F23 M3  EUA",USA: ABC San Diego
+http://cloudsalex.space:80/Gledson/Gledson/9015041.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC San Antonio" tvg-logo="http://tvgolatino.com:8080/images/069f95308f7f117480cd4646a1759a20.png" group-title="F23 M3  EUA",USA: ABC San Antonio
+http://cloudsalex.space:80/Gledson/Gledson/9015042.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC Seatle" tvg-logo="" group-title="F23 M3  EUA",USA: ABC Seatle
+http://cloudsalex.space:80/Gledson/Gledson/9015043.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: PBS Tampa" tvg-logo="" group-title="F23 M3  EUA",USA: PBS Tampa
+http://cloudsalex.space:80/Gledson/Gledson/9015044.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC Tulsa" tvg-logo="" group-title="F23 M3  EUA",USA: ABC Tulsa
+http://cloudsalex.space:80/Gledson/Gledson/9015045.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC Washington" tvg-logo="http://tvgolatino.com:8080/images/fefa4b78e2df8c49dac29f2dfd058884.png" group-title="F23 M3  EUA",USA: ABC Washington
+http://cloudsalex.space:80/Gledson/Gledson/9015046.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS Augusta" tvg-logo="http://tvgolatino.com:8080/images/cf457302cb43278b9592d7d5b7383208.PNG" group-title="F23 M3  EUA",USA: CBS Augusta
+http://cloudsalex.space:80/Gledson/Gledson/9015047.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS Albany" tvg-logo="http://tvgolatino.com:8080/images/c20d69401bea705f218463fafd2f1b0e.png" group-title="F23 M3  EUA",USA: CBS Albany
+http://cloudsalex.space:80/Gledson/Gledson/9015048.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS Baltimore" tvg-logo="http://tvgolatino.com:8080/images/ee7546e307659b8760af684b9ec018b9.png" group-title="F23 M3  EUA",USA: CBS Baltimore
+http://cloudsalex.space:80/Gledson/Gledson/9015049.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS Boston" tvg-logo="http://tvgolatino.com:8080/images/0c9cddba33d81e8348e7a4c93d84038e.png" group-title="F23 M3  EUA",USA: CBS Boston
+http://cloudsalex.space:80/Gledson/Gledson/9015050.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS Charleston" tvg-logo="http://tvgolatino.com:8080/images/1519a15824c802b2deed940c3dd4ce57.png" group-title="F23 M3  EUA",USA: CBS Charleston
+http://cloudsalex.space:80/Gledson/Gledson/9015051.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS Charlotte" tvg-logo="http://tvgolatino.com:8080/images/83394f04032d3af83301653b858979c3.png" group-title="F23 M3  EUA",USA: CBS Charlotte
+http://cloudsalex.space:80/Gledson/Gledson/9015052.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS Chicago" tvg-logo="http://tvgolatino.com:8080/images/199e8cc1de9e8eca09e0f9d100305e42.png" group-title="F23 M3  EUA",USA: CBS Chicago
+http://cloudsalex.space:80/Gledson/Gledson/9015053.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS Cincinnati" tvg-logo="http://tvgolatino.com:8080/images/712d5970c7202677c18524c48f150fc5.png" group-title="F23 M3  EUA",USA: CBS Cincinnati
+http://cloudsalex.space:80/Gledson/Gledson/9015054.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS Cleveland" tvg-logo="http://tvgolatino.com:8080/images/574a97a89f9a38c49ec90f833a6a26fe.png" group-title="F23 M3  EUA",USA: CBS Cleveland
+http://cloudsalex.space:80/Gledson/Gledson/9015055.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS Columbia" tvg-logo="http://tvgolatino.com:8080/images/965d570ed3a5aa923597ce0b31669e63.png" group-title="F23 M3  EUA",USA: CBS Columbia
+http://cloudsalex.space:80/Gledson/Gledson/9015056.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS Columbus" tvg-logo="http://tvgolatino.com:8080/images/c0d6ee533a8280cbe6e3d5cecc370e5f.png" group-title="F23 M3  EUA",USA: CBS Columbus
+http://cloudsalex.space:80/Gledson/Gledson/9015057.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS Detroit" tvg-logo="http://tvgolatino.com:8080/images/9b80efa2f2661861813e1b6ce12e31d6.png" group-title="F23 M3  EUA",USA: CBS Detroit
+http://cloudsalex.space:80/Gledson/Gledson/9015058.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS Fresno" tvg-logo="http://tvgolatino.com:8080/images/fdcfd4dbf622856f6ddbbcdd134d2c70.png" group-title="F23 M3  EUA",USA: CBS Fresno
+http://cloudsalex.space:80/Gledson/Gledson/9015059.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS Houston" tvg-logo="http://tvgolatino.com:8080/images/578dc272fb26276513de1028d3160b9d.png" group-title="F23 M3  EUA",USA: CBS Houston
+http://cloudsalex.space:80/Gledson/Gledson/9015060.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS Kansas City" tvg-logo="http://tvgolatino.com:8080/images/87cf04d1b04871397bf2d03bc526eb8d.png" group-title="F23 M3  EUA",USA: CBS Kansas City
+http://cloudsalex.space:80/Gledson/Gledson/9015061.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS Las Vegas" tvg-logo="http://tvgolatino.com:8080/images/1101d6e2d0edf6f5051de46fb49b7452.png" group-title="F23 M3  EUA",USA: CBS Las Vegas
+http://cloudsalex.space:80/Gledson/Gledson/9015062.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS Los Angeles Kcal-9 HD" tvg-logo="http://tvgolatino.com:8080/images/676b56bc7a7171b4da71dbe9b24d72f0.png" group-title="F23 M3  EUA",USA: CBS Los Angeles Kcal-9 HD
+http://cloudsalex.space:80/Gledson/Gledson/9015063.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS Los Angeles KCBS HD" tvg-logo="http://tvgolatino.com:8080/images/676b56bc7a7171b4da71dbe9b24d72f0.png" group-title="F23 M3  EUA",USA: CBS Los Angeles KCBS HD
+http://cloudsalex.space:80/Gledson/Gledson/9015064.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS Miami" tvg-logo="http://tvgolatino.com:8080/images/47f0ac4152d87edea2a3d624c42254e0.png" group-title="F23 M3  EUA",USA: CBS Miami
+http://cloudsalex.space:80/Gledson/Gledson/9015065.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS Monterey" tvg-logo="http://tvgolatino.com:8080/images/753fb4225eafcc5766c795db8ff8ef7d.png" group-title="F23 M3  EUA",USA: CBS Monterey
+http://cloudsalex.space:80/Gledson/Gledson/9015066.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS New York" tvg-logo="http://tvgolatino.com:8080/images/4e5a2d6cb211d2b38b61c2819a88a52f.png" group-title="F23 M3  EUA",USA: CBS New York
+http://cloudsalex.space:80/Gledson/Gledson/9015067.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS Nashville" tvg-logo="http://tvgolatino.com:8080/images/b193d065fe52172e697cf4f92f7ef1d0.png" group-title="F23 M3  EUA",USA: CBS Nashville
+http://cloudsalex.space:80/Gledson/Gledson/9015068.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS Orlando" tvg-logo="http://tvgolatino.com:8080/images/87eeb6f4fddf287c8a690fd6c7bebe23.png" group-title="F23 M3  EUA",USA: CBS Orlando
+http://cloudsalex.space:80/Gledson/Gledson/9015069.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS Philadelphia" tvg-logo="http://tvgolatino.com:8080/images/34d230d5efe957db8450ea72d7f92a69.png" group-title="F23 M3  EUA",USA: CBS Philadelphia
+http://cloudsalex.space:80/Gledson/Gledson/9015070.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS Phoenix" tvg-logo="http://tvgolatino.com:8080/images/bb875db061e6093e346fcd59087e5abf.png" group-title="F23 M3  EUA",USA: CBS Phoenix
+http://cloudsalex.space:80/Gledson/Gledson/9015071.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS Pittsburgh" tvg-logo="http://tvgolatino.com:8080/images/09e7a09b50835c06838f4374070741c7.png" group-title="F23 M3  EUA",USA: CBS Pittsburgh
+http://cloudsalex.space:80/Gledson/Gledson/9015072.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS San Antonio" tvg-logo="http://tvgolatino.com:8080/images/64c1f564b05f4de39e6326dbbedbd73c.png" group-title="F23 M3  EUA",USA: CBS San Antonio
+http://cloudsalex.space:80/Gledson/Gledson/9015073.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS San Diego KFMB" tvg-logo="http://tvgolatino.com:8080/images/f64f7989b62d8a45aecf44b004258a30.png" group-title="F23 M3  EUA",USA: CBS San Diego KFMB
+http://cloudsalex.space:80/Gledson/Gledson/9015074.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS San Francisco" tvg-logo="http://tvgolatino.com:8080/images/1f8d3067c538e153a9d1640d41054e94.png" group-title="F23 M3  EUA",USA: CBS San Francisco
+http://cloudsalex.space:80/Gledson/Gledson/9015075.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS Salt Lake City" tvg-logo="http://tvgolatino.com:8080/images/89f6c387ae7d0e4ceda09261bf80d5e5.PNG" group-title="F23 M3  EUA",USA: CBS Salt Lake City
+http://cloudsalex.space:80/Gledson/Gledson/9015076.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS Seattle" tvg-logo="http://tvgolatino.com:8080/images/be944b6e3088dd078265270ccc482c3a.png" group-title="F23 M3  EUA",USA: CBS Seattle
+http://cloudsalex.space:80/Gledson/Gledson/9015077.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS ST. Louis" tvg-logo="http://tvgolatino.com:8080/images/61eaf046f760f3fd8ccfa4a9a67f0b04.png" group-title="F23 M3  EUA",USA: CBS ST. Louis
+http://cloudsalex.space:80/Gledson/Gledson/9015078.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS Tampa" tvg-logo="http://tvgolatino.com:8080/images/835c50464e97610e27926d870ae76222.png" group-title="F23 M3  EUA",USA: CBS Tampa
+http://cloudsalex.space:80/Gledson/Gledson/9015079.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS Tucson" tvg-logo="http://tvgolatino.com:8080/images/e378163c844f8f571349479cc114bc47.png" group-title="F23 M3  EUA",USA: CBS Tucson
+http://cloudsalex.space:80/Gledson/Gledson/9015080.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS Washington" tvg-logo="http://tvgolatino.com:8080/images/43e2c40ed090336025c96b58401617a5.png" group-title="F23 M3  EUA",USA: CBS Washington
+http://cloudsalex.space:80/Gledson/Gledson/9015081.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX Albuquerque" tvg-logo="http://tvgolatino.com:8080/images/ee816d5510457cef0ba19a6fe11fe9e7.png" group-title="F23 M3  EUA",USA: FOX Albuquerque
+http://cloudsalex.space:80/Gledson/Gledson/9015082.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX Augusta" tvg-logo="http://tvgolatino.com:8080/images/90a9e961b406610b4489f5d792f4feaa.png" group-title="F23 M3  EUA",USA: FOX Augusta
+http://cloudsalex.space:80/Gledson/Gledson/9015083.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX Albany" tvg-logo="http://tvgolatino.com:8080/images/6e127c0ba182077a66fac742c16fce24.PNG" group-title="F23 M3  EUA",USA: FOX Albany
+http://cloudsalex.space:80/Gledson/Gledson/9015084.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX Ocala" tvg-logo="http://tvgolatino.com:8080/images/4c7008b5afd7f9418719afd9dc624cbc.png" group-title="F23 M3  EUA",USA: FOX Ocala
+http://cloudsalex.space:80/Gledson/Gledson/9015085.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX Boston" tvg-logo="http://tvgolatino.com:8080/images/25cabec6b5fc7f0d0877da5fc16cdb48.png" group-title="F23 M3  EUA",USA: FOX Boston
+http://cloudsalex.space:80/Gledson/Gledson/9015086.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX Buffalo" tvg-logo="http://tvgolatino.com:8080/images/ea3f4e1d2b298dee8b022b57d76f2c85.png" group-title="F23 M3  EUA",USA: FOX Buffalo
+http://cloudsalex.space:80/Gledson/Gledson/9015087.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX Charlotte" tvg-logo="http://tvgolatino.com:8080/images/5199971987a110ccd93a43c07cfa2f0e.png" group-title="F23 M3  EUA",USA: FOX Charlotte
+http://cloudsalex.space:80/Gledson/Gledson/9015088.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX Chicago" tvg-logo="http://tvgolatino.com:8080/images/19ca8f602195aed0b20c230f47ee0890.png" group-title="F23 M3  EUA",USA: FOX Chicago
+http://cloudsalex.space:80/Gledson/Gledson/9015089.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX Cincinnati" tvg-logo="http://tvgolatino.com:8080/images/ff78fed60cfb859531052e45611576af.png" group-title="F23 M3  EUA",USA: FOX Cincinnati
+http://cloudsalex.space:80/Gledson/Gledson/9015090.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX Orlando" tvg-logo="" group-title="F23 M3  EUA",USA: FOX Orlando
+http://cloudsalex.space:80/Gledson/Gledson/9015091.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX Denver" tvg-logo="http://tvgolatino.com:8080/images/48fcfeaa33902fe9ec8c424dbe208c3b.png" group-title="F23 M3  EUA",USA: FOX Denver
+http://cloudsalex.space:80/Gledson/Gledson/9015092.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX Dallas" tvg-logo="http://tvgolatino.com:8080/images/1df3f6f640afb3204b94fd346c37c491.png" group-title="F23 M3  EUA",USA: FOX Dallas
+http://cloudsalex.space:80/Gledson/Gledson/9015093.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX Detroit HD" tvg-logo="http://tvgolatino.com:8080/images/457370d36b32ba21f996ff7f42b96380.png" group-title="F23 M3  EUA",USA: FOX Detroit HD
+http://cloudsalex.space:80/Gledson/Gledson/9015094.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX Greenville" tvg-logo="http://tvgo.re:8080/images/f46ef0ed686654f1a6290236dbd26998.png" group-title="F23 M3  EUA",USA: FOX Greenville
+http://cloudsalex.space:80/Gledson/Gledson/9015095.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX Hartford" tvg-logo="http://tvgolatino.com:8080/images/f3275cf7deae33b97928dce05520b1b3.png" group-title="F23 M3  EUA",USA: FOX Hartford
+http://cloudsalex.space:80/Gledson/Gledson/9015096.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX Houston" tvg-logo="http://tvgolatino.com:8080/images/75d984df679b6cd92eda21bb5187e613.png" group-title="F23 M3  EUA",USA: FOX Houston
+http://cloudsalex.space:80/Gledson/Gledson/9015097.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX Indianapolis" tvg-logo="http://tvgolatino.com:8080/images/912998702123c045e3ccc92d5c0f07f5.png" group-title="F23 M3  EUA",USA: FOX Indianapolis
+http://cloudsalex.space:80/Gledson/Gledson/9015098.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX Kansas City" tvg-logo="http://tvgolatino.com:8080/images/0d28dcf9d97e258ae555dec0f4383937.png" group-title="F23 M3  EUA",USA: FOX Kansas City
+http://cloudsalex.space:80/Gledson/Gledson/9015099.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX Los Angeles" tvg-logo="http://tvgolatino.com:8080/images/04ad21f9ad2c0d8c860985cdc9a9063b.png" group-title="F23 M3  EUA",USA: FOX Los Angeles
+http://cloudsalex.space:80/Gledson/Gledson/9015100.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX Memphis" tvg-logo="http://tvgolatino.com:8080/images/c21a6d4a5a8ff756e89e3e8739486f2f.png" group-title="F23 M3  EUA",USA: FOX Memphis
+http://cloudsalex.space:80/Gledson/Gledson/9015101.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX Miami" tvg-logo="http://tvgolatino.com:8080/images/24dc39e092adc005f6e300a86dee2c26.png" group-title="F23 M3  EUA",USA: FOX Miami
+http://cloudsalex.space:80/Gledson/Gledson/9015102.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX Minneaspolis" tvg-logo="" group-title="F23 M3  EUA",USA: FOX Minneaspolis
+http://cloudsalex.space:80/Gledson/Gledson/9015103.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX Nashville" tvg-logo="http://tvgolatino.com:8080/images/eda02401929be21886d1ce9b55630e27.png" group-title="F23 M3  EUA",USA: FOX Nashville
+http://cloudsalex.space:80/Gledson/Gledson/9015104.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Fox News" tvg-logo="http://tvgo.re:8080/images/33a8be5410a951bbd2cec14d5e4167ef.png" group-title="F23 M3  EUA",USA: Fox News
+http://cloudsalex.space:80/Gledson/Gledson/9015105.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX New Orleans" tvg-logo="http://tvgolatino.com:8080/images/0061869537f63122987f18daa4da7979.png" group-title="F23 M3  EUA",USA: FOX New Orleans
+http://cloudsalex.space:80/Gledson/Gledson/9015106.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Fox New York" tvg-logo="http://tvgolatino.com:8080/images/b086a3e545850111e9b68c563c8b1539.png" group-title="F23 M3  EUA",USA: Fox New York
+http://cloudsalex.space:80/Gledson/Gledson/9015107.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX Panama City" tvg-logo="http://tvgo.re:8080/images/f332748d148ed984f62fe2bb3b18ad15.png" group-title="F23 M3  EUA",USA: FOX Panama City
+http://cloudsalex.space:80/Gledson/Gledson/9015108.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX Philadelphia" tvg-logo="http://tvgolatino.com:8080/images/3071ca6db9f5e4a727842899b7630dd0.png" group-title="F23 M3  EUA",USA: FOX Philadelphia
+http://cloudsalex.space:80/Gledson/Gledson/9015109.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX Phoenix" tvg-logo="http://tvgolatino.com:8080/images/b8731adcdf9f2d897f48f8002c65cc0c.png" group-title="F23 M3  EUA",USA: FOX Phoenix
+http://cloudsalex.space:80/Gledson/Gledson/9015110.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX Pittsburgh" tvg-logo="http://tvgolatino.com:8080/images/1957ea54287afef3e9b035b5aa5f1b96.png" group-title="F23 M3  EUA",USA: FOX Pittsburgh
+http://cloudsalex.space:80/Gledson/Gledson/9015111.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX Jacksonville" tvg-logo="http://tvgolatino.com:8080/images/60ce43ebef82f3878f85e35fb3164397.png" group-title="F23 M3  EUA",USA: FOX Jacksonville
+http://cloudsalex.space:80/Gledson/Gledson/9015112.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX Salt Lake City" tvg-logo="http://tvgolatino.com:8080/images/5b7d81eacd91f2e5e8222a826f8d76ad.jpg" group-title="F23 M3  EUA",USA: FOX Salt Lake City
+http://cloudsalex.space:80/Gledson/Gledson/9015113.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX San Antonio" tvg-logo="http://tvgolatino.com:8080/images/33008a34b0e1ba42956823ba1588c2d0.jpg" group-title="F23 M3  EUA",USA: FOX San Antonio
+http://cloudsalex.space:80/Gledson/Gledson/9015114.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX San Diego" tvg-logo="http://tvgolatino.com:8080/images/648d3f0e626bd1bcd5aafe587bceb854.png" group-title="F23 M3  EUA",USA: FOX San Diego
+http://cloudsalex.space:80/Gledson/Gledson/9015115.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX San Francisco" tvg-logo="http://tvgolatino.com:8080/images/263ed2081d65b09d8ae360bb197294d2.png" group-title="F23 M3  EUA",USA: FOX San Francisco
+http://cloudsalex.space:80/Gledson/Gledson/9015116.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX San Luis" tvg-logo="http://tvgolatino.com:8080/images/2b92e4ca6908abf8b903bec93c85a349.png" group-title="F23 M3  EUA",USA: FOX San Luis
+http://cloudsalex.space:80/Gledson/Gledson/9015117.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX San Jose" tvg-logo="http://tvgolatino.com:8080/images/263ed2081d65b09d8ae360bb197294d2.png" group-title="F23 M3  EUA",USA: FOX San Jose
+http://cloudsalex.space:80/Gledson/Gledson/9015118.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX Sacramento" tvg-logo="http://tvgolatino.com:8080/images/e9d77eb6d27c4d353dce38aceaf959ba.png" group-title="F23 M3  EUA",USA: FOX Sacramento
+http://cloudsalex.space:80/Gledson/Gledson/9015119.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX St Louis" tvg-logo="http://tvgolatino.com:8080/images/13f508e35a598e4ddbd94d649db96a1f.png" group-title="F23 M3  EUA",USA: FOX St Louis
+http://cloudsalex.space:80/Gledson/Gledson/9015120.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX Tucson" tvg-logo="http://tvgolatino.com:8080/images/cf27407a761568ce06f1c154d8d55070.png" group-title="F23 M3  EUA",USA: FOX Tucson
+http://cloudsalex.space:80/Gledson/Gledson/9015121.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX Washington" tvg-logo="http://tvgolatino.com:8080/images/988951f90cb645a812780140c7088e18.png" group-title="F23 M3  EUA",USA: FOX Washington
+http://cloudsalex.space:80/Gledson/Gledson/9015122.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX Cleveland" tvg-logo="http://tvgolatino.com:8080/images/68c96d2e9daf8236ec67a4e3807cd58d.png" group-title="F23 M3  EUA",USA: FOX Cleveland
+http://cloudsalex.space:80/Gledson/Gledson/9015123.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC Albany" tvg-logo="http://tvgolatino.com:8080/images/52dfc8d17c297079e7e683a353bfb692.png" group-title="F23 M3  EUA",USA: NBC Albany
+http://cloudsalex.space:80/Gledson/Gledson/9015124.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC Alburquerque" tvg-logo="http://tvgolatino.com:8080/images/3ae00d501dc68839a76d879532d62101.png" group-title="F23 M3  EUA",USA: NBC Alburquerque
+http://cloudsalex.space:80/Gledson/Gledson/9015125.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC Augusta" tvg-logo="http://tvgolatino.com:8080/images/d7208bb63b02f3660a4fe27a193e024f.png" group-title="F23 M3  EUA",USA: NBC Augusta
+http://cloudsalex.space:80/Gledson/Gledson/9015126.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC: Baltimore" tvg-logo="http://tvgolatino.com:8080/images/8838d8cbbbbfc793ee196d3b3fac1aea.png" group-title="F23 M3  EUA",USA: NBC: Baltimore
+http://cloudsalex.space:80/Gledson/Gledson/9015127.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC Boston" tvg-logo="http://tvgolatino.com:8080/images/1a6f231022b8167d18ee76c0e467f6f5.png" group-title="F23 M3  EUA",USA: NBC Boston
+http://cloudsalex.space:80/Gledson/Gledson/9015128.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC Buffalo" tvg-logo="http://tvgolatino.com:8080/images/034e614cc739aff937b885ad8efe06d2.png" group-title="F23 M3  EUA",USA: NBC Buffalo
+http://cloudsalex.space:80/Gledson/Gledson/9015129.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC Charlestone" tvg-logo="http://tvgolatino.com:8080/images/f865d8cac93e25dcd92ba691a4341416.png" group-title="F23 M3  EUA",USA: NBC Charlestone
+http://cloudsalex.space:80/Gledson/Gledson/9015130.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC Chicago" tvg-logo="http://tvgolatino.com:8080/images/1ed5babe7659619bcd84aa123f4a7fd1.png" group-title="F23 M3  EUA",USA: NBC Chicago
+http://cloudsalex.space:80/Gledson/Gledson/9015131.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC Cincinnati" tvg-logo="http://tvgolatino.com:8080/images/98494c360bacf0cc65d12e3a36d48d52.png" group-title="F23 M3  EUA",USA: NBC Cincinnati
+http://cloudsalex.space:80/Gledson/Gledson/9015132.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC Cleveland" tvg-logo="http://tvgolatino.com:8080/images/bf804bdb66af16619326bf672220a989.png" group-title="F23 M3  EUA",USA: NBC Cleveland
+http://cloudsalex.space:80/Gledson/Gledson/9015133.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC Columbia" tvg-logo="http://tvgolatino.com:8080/images/002e4c15f73f293425629ebcf94e925d.png" group-title="F23 M3  EUA",USA: NBC Columbia
+http://cloudsalex.space:80/Gledson/Gledson/9015134.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC Columbus" tvg-logo="http://tvgolatino.com:8080/images/82f7657e84e69ef7c7ae91edbd689bc3.png" group-title="F23 M3  EUA",USA: NBC Columbus
+http://cloudsalex.space:80/Gledson/Gledson/9015135.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC Denver" tvg-logo="http://tvgolatino.com:8080/images/b15c7f4daa8ba39274421e4a4d612784.png" group-title="F23 M3  EUA",USA: NBC Denver
+http://cloudsalex.space:80/Gledson/Gledson/9015136.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC Fresno" tvg-logo="http://tvgolatino.com:8080/images/ac71e5689641c286edc253b0a94d31d6.png" group-title="F23 M3  EUA",USA: NBC Fresno
+http://cloudsalex.space:80/Gledson/Gledson/9015137.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC GREEN BAY" tvg-logo="http://tvgolatino.com:8080/images/392454ecc47dd37716e90d4e1174b4cf.png" group-title="F23 M3  EUA",USA: NBC GREEN BAY
+http://cloudsalex.space:80/Gledson/Gledson/9015138.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC Jacksonville" tvg-logo="http://tvgolatino.com:8080/images/6f8efce1c032a2c847dc37b8ba30a86f.png" group-title="F23 M3  EUA",USA: NBC Jacksonville
+http://cloudsalex.space:80/Gledson/Gledson/9015139.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC Kansas City" tvg-logo="http://tvgolatino.com:8080/images/e37b1a24db127c640b6477eaea9fa272.png" group-title="F23 M3  EUA",USA: NBC Kansas City
+http://cloudsalex.space:80/Gledson/Gledson/9015140.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC Los Angeles" tvg-logo="http://tvgolatino.com:8080/images/c08f3229cf915faf465f7904946b361f.png" group-title="F23 M3  EUA",USA: NBC Los Angeles
+http://cloudsalex.space:80/Gledson/Gledson/9015141.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC Milwaukee" tvg-logo="http://tvgolatino.com:8080/images/025907310d8104226267aba310adaf2d.png" group-title="F23 M3  EUA",USA: NBC Milwaukee
+http://cloudsalex.space:80/Gledson/Gledson/9015142.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC Miami" tvg-logo="http://tvgolatino.com:8080/images/853071515ecf7e1c7c7bff1c24d7a330.png" group-title="F23 M3  EUA",USA: NBC Miami
+http://cloudsalex.space:80/Gledson/Gledson/9015143.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC New York" tvg-logo="http://tvgolatino.com:8080/images/5e498e0c418b32ef0fbadac3d72d2896.png" group-title="F23 M3  EUA",USA: NBC New York
+http://cloudsalex.space:80/Gledson/Gledson/9015144.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC Orlando" tvg-logo="http://tvgolatino.com:8080/images/ef28a1a78bbad38af164aebc21d0c373.png" group-title="F23 M3  EUA",USA: NBC Orlando
+http://cloudsalex.space:80/Gledson/Gledson/9015145.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC Panama City" tvg-logo="http://tvgolatino.com:8080/images/de689d895d7957cdca289cff91117eb8.png" group-title="F23 M3  EUA",USA: NBC Panama City
+http://cloudsalex.space:80/Gledson/Gledson/9015146.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC Phoenix" tvg-logo="http://tvgolatino.com:8080/images/9b791290d805be480742cde3b87948e1.png" group-title="F23 M3  EUA",USA: NBC Phoenix
+http://cloudsalex.space:80/Gledson/Gledson/9015147.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC Portland" tvg-logo="http://tvgolatino.com:8080/images/7e40bca61b9842b6995401e6d04e755a.png" group-title="F23 M3  EUA",USA: NBC Portland
+http://cloudsalex.space:80/Gledson/Gledson/9015148.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC Sacramento" tvg-logo="http://tvgolatino.com:8080/images/b769b71b0cf13600b7c2c171b52aa159.png" group-title="F23 M3  EUA",USA: NBC Sacramento
+http://cloudsalex.space:80/Gledson/Gledson/9015149.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC San Diego" tvg-logo="http://tvgolatino.com:8080/images/9c6914b4983790d0ffd7a2357a36c7d3.png" group-title="F23 M3  EUA",USA: NBC San Diego
+http://cloudsalex.space:80/Gledson/Gledson/9015150.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC San Francisco" tvg-logo="http://tvgo.re:8080/images/3b538597bb7d50d1049c2b13ea278804.png" group-title="F23 M3  EUA",USA: NBC San Francisco
+http://cloudsalex.space:80/Gledson/Gledson/9015151.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC San Jose" tvg-logo="http://tvgolatino.com:8080/images/3b538597bb7d50d1049c2b13ea278804.png" group-title="F23 M3  EUA",USA: NBC San Jose
+http://cloudsalex.space:80/Gledson/Gledson/9015152.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC Savannah" tvg-logo="http://tvgolatino.com:8080/images/cd5fc1bcf29b5ddcfd8a5f5bc8aa8fb9.PNG" group-title="F23 M3  EUA",USA: NBC Savannah
+http://cloudsalex.space:80/Gledson/Gledson/9015153.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC Tampa" tvg-logo="http://tvgolatino.com:8080/images/d9e622bec0a2f8486a076cfc97430502.png" group-title="F23 M3  EUA",USA: NBC Tampa
+http://cloudsalex.space:80/Gledson/Gledson/9015154.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC Tucson" tvg-logo="http://tvgolatino.com:8080/images/e378163c844f8f571349479cc114bc47.png" group-title="F23 M3  EUA",USA: NBC Tucson
+http://cloudsalex.space:80/Gledson/Gledson/9015155.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: A&E HD" tvg-logo="http://tvgo.re:8080/images/260ce175af40dd9a8159f2a801b3a467.png" group-title="F23 M3  EUA",USA: A&E HD
+http://cloudsalex.space:80/Gledson/Gledson/9015156.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: AMC HD" tvg-logo="http://tvgo.re:8080/images/19e5d0c769a5459b8bf08d15186803bb.png" group-title="F23 M3  EUA",USA: AMC HD
+http://cloudsalex.space:80/Gledson/Gledson/9015157.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: American Heroes HD" tvg-logo="http://tvgo.re:8080/images/1ff23ff2a5ff608effd7a9fdcb97f15f.png" group-title="F23 M3  EUA",USA: American Heroes HD
+http://cloudsalex.space:80/Gledson/Gledson/9015158.ts
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="USA: Animal Planet HD" tvg-logo="http://tvgolatino.com:8080/images/9e0bed69858a3eec7dde677072dfb39f.png" group-title="F23 M3  EUA",USA: Animal Planet HD
+http://cloudsalex.space:80/Gledson/Gledson/9015159.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Antenna TV" tvg-logo="https://static.epg.best/us/AntennaTV.us.png" group-title="F23 M3  EUA",USA: Antenna TV
+http://cloudsalex.space:80/Gledson/Gledson/9015160.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: AWE FHD" tvg-logo="https://static.epg.best/us/AWealthofEntertainment.us.png" group-title="F23 M3  EUA",USA: AWE FHD
+http://cloudsalex.space:80/Gledson/Gledson/9015161.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: AXS FHD" tvg-logo="https://static.epg.best/us/AXSTV.us.png" group-title="F23 M3  EUA",USA: AXS FHD
+http://cloudsalex.space:80/Gledson/Gledson/9015162.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Baby TV" tvg-logo="http://tvgolatino.com:8080/images/a22eca7f4ae489a1014ff0973b65b568.png" group-title="F23 M3  EUA",USA: Baby TV
+http://cloudsalex.space:80/Gledson/Gledson/9015163.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: BBC America*" tvg-logo="http://tvgo.re:8080/images/dfc9e2b42a5f16888fdfe5a14d1ce2dc.png" group-title="F23 M3  EUA",USA: BBC America*
+http://cloudsalex.space:80/Gledson/Gledson/9015164.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: BBC World News HD" tvg-logo="" group-title="F23 M3  EUA",USA: BBC World News HD
+http://cloudsalex.space:80/Gledson/Gledson/9015165.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: BET  HD" tvg-logo="https://static.epg.best/us/BET.us.png" group-title="F23 M3  EUA",USA: BET  HD
+http://cloudsalex.space:80/Gledson/Gledson/9015166.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: BET Her" tvg-logo="https://static.epg.best/us/BetHer.us.png" group-title="F23 M3  EUA",USA: BET Her
+http://cloudsalex.space:80/Gledson/Gledson/9015167.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: BET Jams" tvg-logo="https://cm-inter.xyz/Logos/USA/BET-Jams.png" group-title="F23 M3  EUA",USA: BET Jams
+http://cloudsalex.space:80/Gledson/Gledson/9015168.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: BET Soul" tvg-logo="http://tvgolatino.com:8080/images/bb2d41d852b054999a0a72405ca31407.png" group-title="F23 M3  EUA",USA: BET Soul
+http://cloudsalex.space:80/Gledson/Gledson/9015169.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Boomerang" tvg-logo="http://tvgolatino.com:8080/images/25ecae105544167a814325251467d1c5.png" group-title="F23 M3  EUA",USA: Boomerang
+http://cloudsalex.space:80/Gledson/Gledson/9015170.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Bounce" tvg-logo="https://static.epg.best/us/BounceTV.us.png" group-title="F23 M3  EUA",USA: Bounce
+http://cloudsalex.space:80/Gledson/Gledson/9015171.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Buzzr TV" tvg-logo="http://tvgolatino.com:8080/images/caa2e2f9e37dd58f6cc6572c4841b107.png" group-title="F23 M3  EUA",USA: Buzzr TV
+http://cloudsalex.space:80/Gledson/Gledson/9015172.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Bravo HD" tvg-logo="http://tvgo.re:8080/images/7b44a30de71c6832621a79844e8838da.png" group-title="F23 M3  EUA",USA: Bravo HD
+http://cloudsalex.space:80/Gledson/Gledson/9015173.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: BLAZE Media" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Blaze_Media.png/220px-Blaze_Media.png" group-title="F23 M3  EUA",USA: BLAZE Media
+http://cloudsalex.space:80/Gledson/Gledson/9015174.ts
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="USA: Cartoon Network" tvg-logo="http://tvgolatino.com:8080/images/889cb00f3ccedcc5401fa4feea85304b.png" group-title="F23 M3  EUA",USA: Cartoon Network
+http://cloudsalex.space:80/Gledson/Gledson/9015175.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Cinemax Action Max" tvg-logo="https://cm-inter.xyz/Logos/USA/CINEMAXACTIONMAX.png" group-title="F23 M3  EUA",USA: Cinemax Action Max
+http://cloudsalex.space:80/Gledson/Gledson/9015176.ts
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="USA: Cinemax East" tvg-logo="http://tvgo.re:8080/images/59c6b2870302b1e2530f5aadc3ef856f.png" group-title="F23 M3  EUA",USA: Cinemax East
+http://cloudsalex.space:80/Gledson/Gledson/9015177.ts
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="USA: Cinemax" tvg-logo="https://static.epg.best/us/Cinemax.us.png" group-title="F23 M3  EUA",USA: Cinemax
+http://cloudsalex.space:80/Gledson/Gledson/9015178.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Cinemax Moremax HD" tvg-logo="https://static.epg.best/us/MoreMax.us.png" group-title="F23 M3  EUA",USA: Cinemax Moremax HD
+http://cloudsalex.space:80/Gledson/Gledson/9015179.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Cinemax 5 StarMax" tvg-logo="http://tvgo.re:8080/images/59c6b2870302b1e2530f5aadc3ef856f.png" group-title="F23 M3  EUA",USA: Cinemax 5 StarMax
+http://cloudsalex.space:80/Gledson/Gledson/9015180.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Court TV HD" tvg-logo="https://static.epg.best/us/CourtTV.us.png" group-title="F23 M3  EUA",USA: Court TV HD
+http://cloudsalex.space:80/Gledson/Gledson/9015181.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CMT HD" tvg-logo="https://static.epg.best/us/CMT.us.png" group-title="F23 M3  EUA",USA: CMT HD
+http://cloudsalex.space:80/Gledson/Gledson/9015182.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CNBC HD" tvg-logo="http://tvgo.re:8080/images/57e2eaef87a8510e0b7f91060b2b7817.png" group-title="F23 M3  EUA",USA: CNBC HD
+http://cloudsalex.space:80/Gledson/Gledson/9015183.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CNN HD" tvg-logo="https://static.epg.best/us/CNN.us.png" group-title="F23 M3  EUA",USA: CNN HD
+http://cloudsalex.space:80/Gledson/Gledson/9015184.ts
+#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="USA: Comedy Central HD" tvg-logo="https://static.epg.best/us/ComedyCentral.us.png" group-title="F23 M3  EUA",USA: Comedy Central HD
+http://cloudsalex.space:80/Gledson/Gledson/9015185.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Comet HD" tvg-logo="http://tvgolatino.com:8080/images/edfbacd6a358b585d160cf9a20819d96.png" group-title="F23 M3  EUA",USA: Comet HD
+http://cloudsalex.space:80/Gledson/Gledson/9015186.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Cooking Channel HD" tvg-logo="https://static.epg.best/us/CookingChannel.us.png" group-title="F23 M3  EUA",USA: Cooking Channel HD
+http://cloudsalex.space:80/Gledson/Gledson/9015187.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Cozi TV" tvg-logo="http://tvgo.re:8080/images/e5f0426d38093d68c1ee37ad4e8f2e86.png" group-title="F23 M3  EUA",USA: Cozi TV
+http://cloudsalex.space:80/Gledson/Gledson/9015188.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Cheddar" tvg-logo="" group-title="F23 M3  EUA",USA: Cheddar
+http://cloudsalex.space:80/Gledson/Gledson/9015189.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CW" tvg-logo="http://tvgo.re:8080/images/0c1edebd1c84f2996d70e8602979de63.png" group-title="F23 M3  EUA",USA: CW
+http://cloudsalex.space:80/Gledson/Gledson/9015190.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Destination America HD" tvg-logo="https://static.epg.best/us/DestinationAmerica.us.png" group-title="F23 M3  EUA",USA: Destination America HD
+http://cloudsalex.space:80/Gledson/Gledson/9015191.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Crime & Investigation HD" tvg-logo="https://static.epg.best/us/CrimeInvestigation.us.png" group-title="F23 M3  EUA",USA: Crime & Investigation HD
+http://cloudsalex.space:80/Gledson/Gledson/9015192.ts
+#EXTINF:-1 tvg-id="investigaçãodiscovery.br" tvg-name="USA: Investigation Discovery HD" tvg-logo="https://static.epg.best/us/InvestigationDiscovery.us.png" group-title="F23 M3  EUA",USA: Investigation Discovery HD
+http://cloudsalex.space:80/Gledson/Gledson/9015193.ts
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="USA: Discovery Channel HD" tvg-logo="http://tvgo.re:8080/images/813513ce030768aab17b38d54a047587.png" group-title="F23 M3  EUA",USA: Discovery Channel HD
+http://cloudsalex.space:80/Gledson/Gledson/9015194.ts
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="USA: Discovery Channel FHD" tvg-logo="https://static.epg.best/us/DiscoveryChannel.us.png" group-title="F23 M3  EUA",USA: Discovery Channel FHD
+http://cloudsalex.space:80/Gledson/Gledson/9015195.ts
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="USA: Discovery Life" tvg-logo="" group-title="F23 M3  EUA",USA: Discovery Life
+http://cloudsalex.space:80/Gledson/Gledson/9015196.ts
+#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="USA: Discovery Science HD" tvg-logo="https://static.epg.best/br/DiscoveryScience.br.png" group-title="F23 M3  EUA",USA: Discovery Science HD
+http://cloudsalex.space:80/Gledson/Gledson/9015197.ts
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="USA: Discovery Family" tvg-logo="http://tvgolatino.com:8080/images/16180d0228da8943a39523dd36441edb.png" group-title="F23 M3  EUA",USA: Discovery Family
+http://cloudsalex.space:80/Gledson/Gledson/9015198.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: DIY Network HD" tvg-logo="http://tvgolatino.com:8080/images/4e6762cd1f11c586a2f214e08d5bcdaf.png" group-title="F23 M3  EUA",USA: DIY Network HD
+http://cloudsalex.space:80/Gledson/Gledson/9015199.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Disney Channel" tvg-logo="http://tvgolatino.com:8080/images/94f22d1741bd648332baadff0357649d.png" group-title="F23 M3  EUA",USA: Disney Channel
+http://cloudsalex.space:80/Gledson/Gledson/9015200.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Disney Junior" tvg-logo="http://tvgolatino.com:8080/images/ce306cc886c7c72a3e0c50f35b108b42.png" group-title="F23 M3  EUA",USA: Disney Junior
+http://cloudsalex.space:80/Gledson/Gledson/9015201.ts
+#EXTINF:-1 tvg-id="dummy-303" tvg-name="USA: Disney XD HD" tvg-logo="http://tvgolatino.com:8080/images/fbbc6297045c7a2a67d30c7c929318f5.png" group-title="F23 M3  EUA",USA: Disney XD HD
+http://cloudsalex.space:80/Gledson/Gledson/9015202.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: E! Entertainment HD" tvg-logo="http://tvgolatino.com:8080/images/f32ee5e74e75a4d55c9ec9030873e6c4.png" group-title="F23 M3  EUA",USA: E! Entertainment HD
+http://cloudsalex.space:80/Gledson/Gledson/9015203.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: EPIX" tvg-logo="" group-title="F23 M3  EUA",USA: EPIX
+http://cloudsalex.space:80/Gledson/Gledson/9015204.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: EPIX 2" tvg-logo="https://cm-inter.xyz/Logos/USA/EPIX2.png" group-title="F23 M3  EUA",USA: EPIX 2
+http://cloudsalex.space:80/Gledson/Gledson/9015205.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: EPIX Drive" tvg-logo="" group-title="F23 M3  EUA",USA: EPIX Drive
+http://cloudsalex.space:80/Gledson/Gledson/9015206.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Epix Hits HD" tvg-logo="http://tvgo.re:8080/images/a4ab43e553cc22d0c3e268b55cc6066b.png" group-title="F23 M3  EUA",USA: Epix Hits HD
+http://cloudsalex.space:80/Gledson/Gledson/9015207.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Espn News***" tvg-logo="http://tvgolatino.com:8080/images/9d70c552dbb7c34bd67a80bf0cee20c1.png" group-title="F23 M3  EUA",USA: Espn News***
+http://cloudsalex.space:80/Gledson/Gledson/9015208.ts
+#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="USA: Food Network HD" tvg-logo="http://tvgolatino.com:8080/images/2588b95ee34e39f115e859619c350c33.png" group-title="F23 M3  EUA",USA: Food Network HD
+http://cloudsalex.space:80/Gledson/Gledson/9015209.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Fox Bussines" tvg-logo="http://tvgolatino.com:8080/images/5de064c82257411d6e9a3a953074220a.png" group-title="F23 M3  EUA",USA: Fox Bussines
+http://cloudsalex.space:80/Gledson/Gledson/9015210.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Freeform HD" tvg-logo="http://tvgo.re:8080/images/4ea3147216f3d8b63268ef1d55750f26.png" group-title="F23 M3  EUA",USA: Freeform HD
+http://cloudsalex.space:80/Gledson/Gledson/9015211.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Fuse HD" tvg-logo="http://tvgolatino.com:8080/images/3752357110c8147a62242eed5dcb8b8b.png" group-title="F23 M3  EUA",USA: Fuse HD
+http://cloudsalex.space:80/Gledson/Gledson/9015212.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Fusion TV HD" tvg-logo="http://tvgolatino.com:8080/images/482df09c1f222fc7639bb27a61c8b698.png" group-title="F23 M3  EUA",USA: Fusion TV HD
+http://cloudsalex.space:80/Gledson/Gledson/9015213.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FX HD" tvg-logo="http://tvgo.re:8080/images/fe943df7ac4737b7d0f62d0bc86fe26a.png" group-title="F23 M3  EUA",USA: FX HD
+http://cloudsalex.space:80/Gledson/Gledson/9015214.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FXX  HD" tvg-logo="http://tvgo.re:8080/images/89f43b4ae4b3506c74aaf9ddd6a1b74a.png" group-title="F23 M3  EUA",USA: FXX  HD
+http://cloudsalex.space:80/Gledson/Gledson/9015215.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FXM HD" tvg-logo="http://tvgo.re:8080/images/167534a2eb0447bc65ef87de0d4fd428.png" group-title="F23 M3  EUA",USA: FXM HD
+http://cloudsalex.space:80/Gledson/Gledson/9015216.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FYI HD" tvg-logo="https://static.epg.best/us/FYI.us.png" group-title="F23 M3  EUA",USA: FYI HD
+http://cloudsalex.space:80/Gledson/Gledson/9015217.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: GET TV" tvg-logo="http://tvgolatino.com:8080/images/4441614160c971675f42c6aac8884b79.png" group-title="F23 M3  EUA",USA: GET TV
+http://cloudsalex.space:80/Gledson/Gledson/9015218.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Great American Country HD" tvg-logo="http://tvgolatino.com:8080/images/bc263031b01aeaa875f450753b05322c.png" group-title="F23 M3  EUA",USA: Great American Country HD
+http://cloudsalex.space:80/Gledson/Gledson/9015219.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: GSN HD" tvg-logo="https://static.epg.best/us/GameShowNetwork.us.png" group-title="F23 M3  EUA",USA: GSN HD
+http://cloudsalex.space:80/Gledson/Gledson/9015220.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Hallmark Channel HD" tvg-logo="http://tvgo.re:8080/images/fc3547042b986b27d2c4e424651e5075.png" group-title="F23 M3  EUA",USA: Hallmark Channel HD
+http://cloudsalex.space:80/Gledson/Gledson/9015221.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Hallmark Drama HD" tvg-logo="http://tvgolatino.com:8080/images/1cb6dd9e50d056f3ce1286e99a42267d.png" group-title="F23 M3  EUA",USA: Hallmark Drama HD
+http://cloudsalex.space:80/Gledson/Gledson/9015222.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Hallmark Movies & Mysteries  HD" tvg-logo="http://tvgo.re:8080/images/1eac9f40fa52168aec8ea909292fec6f.png" group-title="F23 M3  EUA",USA: Hallmark Movies & Mysteries  HD
+http://cloudsalex.space:80/Gledson/Gledson/9015223.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: HBO East" tvg-logo="http://tvgolatino.com:8080/images/20590cac6bdbb1d87c1d1587da998b23.png" group-title="F23 M3  EUA",USA: HBO East
+http://cloudsalex.space:80/Gledson/Gledson/9015224.ts
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="USA: HBO Family" tvg-logo="http://tvgo.re:8080/images/3488f3440d5564e19351bb3bf1562cf6.png" group-title="F23 M3  EUA",USA: HBO Family
+http://cloudsalex.space:80/Gledson/Gledson/9015225.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: HBO Comedy" tvg-logo="http://tvgolatino.com:8080/images/0429a0656bb1f04e83aca57f6ee0b2f7.png" group-title="F23 M3  EUA",USA: HBO Comedy
+http://cloudsalex.space:80/Gledson/Gledson/9015226.ts
+#EXTINF:-1 tvg-id="hbo2.br" tvg-name="USA:  HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/HBO_2_HD_Logo_Poland.png" group-title="F23 M3  EUA",USA:  HBO 2
+http://cloudsalex.space:80/Gledson/Gledson/9015227.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png" group-title="F23 M3  EUA",USA: HBO HD
+http://cloudsalex.space:80/Gledson/Gledson/9015228.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: HBO LATINO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/HBO_Latino_logo_%282%29.png" group-title="F23 M3  EUA",USA: HBO LATINO
+http://cloudsalex.space:80/Gledson/Gledson/9015229.ts
+#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="USA: HBO Signature" tvg-logo="http://tvgo.re:8080/images/a1b78744a7165bf7144e36b9e3de7af7.png" group-title="F23 M3  EUA",USA: HBO Signature
+http://cloudsalex.space:80/Gledson/Gledson/9015230.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: HBO West" tvg-logo="http://tvgolatino.com:8080/images/20590cac6bdbb1d87c1d1587da998b23.png" group-title="F23 M3  EUA",USA: HBO West
+http://cloudsalex.space:80/Gledson/Gledson/9015231.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: HBO Zone" tvg-logo="http://tvgolatino.com:8080/images/20590cac6bdbb1d87c1d1587da998b23.png" group-title="F23 M3  EUA",USA: HBO Zone
+http://cloudsalex.space:80/Gledson/Gledson/9015232.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Heroes And Icons TV" tvg-logo="https://static.epg.best/us/HeroesAndIconsTV.us.png" group-title="F23 M3  EUA",USA: Heroes And Icons TV
+http://cloudsalex.space:80/Gledson/Gledson/9015233.ts
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="USA: HGTV" tvg-logo="https://static.epg.best/us/HGTV.us.png" group-title="F23 M3  EUA",USA: HGTV
+http://cloudsalex.space:80/Gledson/Gledson/9015234.ts
+#EXTINF:-1 tvg-id="historychannel.br" tvg-name="USA: History Channel HD" tvg-logo="https://static.epg.best/us/HistoryChannel.us.png" group-title="F23 M3  EUA",USA: History Channel HD
+http://cloudsalex.space:80/Gledson/Gledson/9015235.ts
+#EXTINF:-1 tvg-id="history2.br" tvg-name="USA: History 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" group-title="F23 M3  EUA",USA: History 2
+http://cloudsalex.space:80/Gledson/Gledson/9015236.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: HLN HD" tvg-logo="https://static.epg.best/us/HLN.us.png" group-title="F23 M3  EUA",USA: HLN HD
+http://cloudsalex.space:80/Gledson/Gledson/9015237.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: HSN HD" tvg-logo="http://tvgolatino.com:8080/images/7a0af6fabb28a1cede963f316097388c.png" group-title="F23 M3  EUA",USA: HSN HD
+http://cloudsalex.space:80/Gledson/Gledson/9015238.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: IFC HD" tvg-logo="http://tvgolatino.com:8080/images/5847d64359f4867027c95ca358a30ea4.png" group-title="F23 M3  EUA",USA: IFC HD
+http://cloudsalex.space:80/Gledson/Gledson/9015239.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: INSP" tvg-logo="http://tvgolatino.com:8080/images/f0a09355af523b2f97ff30325ae5a08a.png" group-title="F23 M3  EUA",USA: INSP
+http://cloudsalex.space:80/Gledson/Gledson/9015240.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: IndiePlex" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Indieplex_logo.svg/1200px-Indieplex_logo.svg.png" group-title="F23 M3  EUA",USA: IndiePlex
+http://cloudsalex.space:80/Gledson/Gledson/9015241.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ION TV HD" tvg-logo="http://tvgo.re:8080/images/20ab4dd527614a86269e681e1944b906.png" group-title="F23 M3  EUA",USA: ION TV HD
+http://cloudsalex.space:80/Gledson/Gledson/9015242.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: KTLA 5 HD" tvg-logo="http://tvgo.re:8080/images/72884925036c95fc0d8dd41f6a8582e6.png" group-title="F23 M3  EUA",USA: KTLA 5 HD
+http://cloudsalex.space:80/Gledson/Gledson/9015243.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Law & Crime Network" tvg-logo="https://image.roku.com/developer_channels/prod/743617622453023bb96314d0f0edbabda6ded13fade66d2dbf44fb912a02b0f9.png" group-title="F23 M3  EUA",USA: Law & Crime Network
+http://cloudsalex.space:80/Gledson/Gledson/9015244.ts
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="USA: Lifetime HD" tvg-logo="http://tvgo.re:8080/images/331ed07e7de0e7b5866cc1af25123d5b.png" group-title="F23 M3  EUA",USA: Lifetime HD
+http://cloudsalex.space:80/Gledson/Gledson/9015245.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: LMN HD" tvg-logo="http://tvgolatino.com:8080/images/fd5a03ee690ec01ce78ae74a796b4bc4.png" group-title="F23 M3  EUA",USA: LMN HD
+http://cloudsalex.space:80/Gledson/Gledson/9015246.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: MSNBC HD" tvg-logo="http://tvgolatino.com:8080/images/9f88f67539a8034ae19118865bd164d4.png" group-title="F23 M3  EUA",USA: MSNBC HD
+http://cloudsalex.space:80/Gledson/Gledson/9015247.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: MTV FHD" tvg-logo="https://static.epg.best/us/MTV.us.png" group-title="F23 M3  EUA",USA: MTV FHD
+http://cloudsalex.space:80/Gledson/Gledson/9015248.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: MTV 2" tvg-logo="http://tvgolatino.com:8080/images/28fdc096be2c7f926abf9b19d1200de6.png" group-title="F23 M3  EUA",USA: MTV 2
+http://cloudsalex.space:80/Gledson/Gledson/9015249.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: MTV Classic" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/MTV_Classic_US.svg/200px-MTV_Classic_US.svg.png" group-title="F23 M3  EUA",USA: MTV Classic
+http://cloudsalex.space:80/Gledson/Gledson/9015250.ts
+#EXTINF:-1 tvg-id="mtvlive.br" tvg-name="USA: MTV Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/125px-MTV_Live_HD_2017_logo.svg.png" group-title="F23 M3  EUA",USA: MTV Live
+http://cloudsalex.space:80/Gledson/Gledson/9015251.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Me TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/1200px-MeTV_Logo.svg.png" group-title="F23 M3  EUA",USA: Me TV
+http://cloudsalex.space:80/Gledson/Gledson/9015252.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Nasa TV" tvg-logo="https://static.epg.best/rs/Nasa.rs.png" group-title="F23 M3  EUA",USA: Nasa TV
+http://cloudsalex.space:80/Gledson/Gledson/9015253.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Nat Geo HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/220px-Natgeologo.svg.png" group-title="F23 M3  EUA",USA: Nat Geo HD
+http://cloudsalex.space:80/Gledson/Gledson/9015254.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NatGeo Wild HD" tvg-logo="http://tvgolatino.com:8080/images/9e621a9e6309f0de8e0fd7e5e3e34416.png" group-title="F23 M3  EUA",USA: NatGeo Wild HD
+http://cloudsalex.space:80/Gledson/Gledson/9015255.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Nicktoons HD" tvg-logo="http://tvgolatino.com:8080/images/f23832a88b39191189872d3a5e273969.png" group-title="F23 M3  EUA",USA: Nicktoons HD
+http://cloudsalex.space:80/Gledson/Gledson/9015256.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Nickelodeon  HD" tvg-logo="http://tvgolatino.com:8080/images/bcd716d621991584006e4f9bad7a1f6c.png" group-title="F23 M3  EUA",USA: Nickelodeon  HD
+http://cloudsalex.space:80/Gledson/Gledson/9015257.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Nick Music" tvg-logo="http://tvgolatino.com:8080/images/733cb00a7d4db6734d3072c11a08b672.png" group-title="F23 M3  EUA",USA: Nick Music
+http://cloudsalex.space:80/Gledson/Gledson/9015258.ts
+#EXTINF:-1 tvg-id="nickjr..br" tvg-name="USA: NICK JR" tvg-logo="https://cm-inter.xyz/Logos/USA/NICKJR.png" group-title="F23 M3  EUA",USA: NICK JR
+http://cloudsalex.space:80/Gledson/Gledson/9015259.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Outdoor Channel HD" tvg-logo="http://tvgo.re:8080/images/236b3827992ee085e54b26e7a9531b27.png" group-title="F23 M3  EUA",USA: Outdoor Channel HD
+http://cloudsalex.space:80/Gledson/Gledson/9015260.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Outermax HD" tvg-logo="https://static.epg.best/us/OuterMax.us.png" group-title="F23 M3  EUA",USA: Outermax HD
+http://cloudsalex.space:80/Gledson/Gledson/9015261.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Outside TV HD" tvg-logo="http://tvgolatino.com:8080/images/6cae45ba034463534a7eda292274f956.png" group-title="F23 M3  EUA",USA: Outside TV HD
+http://cloudsalex.space:80/Gledson/Gledson/9015262.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: OWN HD" tvg-logo="http://tvgolatino.com:8080/images/5600c28a0786aaeecb3041153d40fd01.png" group-title="F23 M3  EUA",USA: OWN HD
+http://cloudsalex.space:80/Gledson/Gledson/9015263.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Oxygen HD" tvg-logo="https://static.epg.best/us/Oxygen.us.png" group-title="F23 M3  EUA",USA: Oxygen HD
+http://cloudsalex.space:80/Gledson/Gledson/9015264.ts
+#EXTINF:-1 tvg-id="paramountchannel.br" tvg-name="USA: Paramount Channel HD" tvg-logo="https://static.epg.best/us/ParamountNetwork.us.png" group-title="F23 M3  EUA",USA: Paramount Channel HD
+http://cloudsalex.space:80/Gledson/Gledson/9015265.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA PBS Kids" tvg-logo="http://tvgolatino.com:8080/images/4417bb8a6bc631c3d64007f5d84dc7dd.png" group-title="F23 M3  EUA",USA PBS Kids
+http://cloudsalex.space:80/Gledson/Gledson/9015266.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: PBS HD" tvg-logo="http://tvgolatino.com:8080/images/e5cbcbe680a49f76a4f49f93d1ad9fd4.png" group-title="F23 M3  EUA",USA: PBS HD
+http://cloudsalex.space:80/Gledson/Gledson/9015267.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Pop HD" tvg-logo="https://static.epg.best/us/PopTV.us.png" group-title="F23 M3  EUA",USA: Pop HD
+http://cloudsalex.space:80/Gledson/Gledson/9015268.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Reelz HD" tvg-logo="http://tvgolatino.com:8080/images/0873377fc02b98be8b02e6905a07abd1.png" group-title="F23 M3  EUA",USA: Reelz HD
+http://cloudsalex.space:80/Gledson/Gledson/9015269.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Revolt HD" tvg-logo="https://static.epg.best/us/Revolt.us.png" group-title="F23 M3  EUA",USA: Revolt HD
+http://cloudsalex.space:80/Gledson/Gledson/9015270.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Showtime 2 FHD" tvg-logo="https://static.epg.best/us/Showtime2.us.png" group-title="F23 M3  EUA",USA: Showtime 2 FHD
+http://cloudsalex.space:80/Gledson/Gledson/9015271.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Showtime Beyond FHD" tvg-logo="http://tvgolatino.com:8080/images/76d6d869a1630aecfd4d462c0730fc77.png" group-title="F23 M3  EUA",USA: Showtime Beyond FHD
+http://cloudsalex.space:80/Gledson/Gledson/9015272.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Showtime Extreme FHD" tvg-logo="http://tvgo.re:8080/images/22a09eae943b6174e51accf5da586360.png" group-title="F23 M3  EUA",USA: Showtime Extreme FHD
+http://cloudsalex.space:80/Gledson/Gledson/9015273.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Showtime Next" tvg-logo="https://static.epg.best/us/ShowtimeNext.us.png" group-title="F23 M3  EUA",USA: Showtime Next
+http://cloudsalex.space:80/Gledson/Gledson/9015274.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Showtime Showcase" tvg-logo="http://tvgolatino.com:8080/images/ab58a4111940213538e0dde771b73ce3.png" group-title="F23 M3  EUA",USA: Showtime Showcase
+http://cloudsalex.space:80/Gledson/Gledson/9015275.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: SHOWTIME Family Zone" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Showtime_Family_Zone.svg/125px-Showtime_Family_Zone.svg.png" group-title="F23 M3  EUA",USA: SHOWTIME Family Zone
+http://cloudsalex.space:80/Gledson/Gledson/9015276.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: SHOWTIME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/125px-Showtime.svg.png" group-title="F23 M3  EUA",USA: SHOWTIME
+http://cloudsalex.space:80/Gledson/Gledson/9015277.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Smithsonian FHD" tvg-logo="http://tvgo.re:8080/images/de9d9004412aa61754891d866b372fd4.png" group-title="F23 M3  EUA",USA: Smithsonian FHD
+http://cloudsalex.space:80/Gledson/Gledson/9015278.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Sony Movie Channel" tvg-logo="http://tvgo.re:8080/images/9121a02165fce2a37cb4e38beb790152.png" group-title="F23 M3  EUA",USA: Sony Movie Channel
+http://cloudsalex.space:80/Gledson/Gledson/9015279.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Starz Cinema" tvg-logo="https://static.epg.best/us/StarzCinema.us.png" group-title="F23 M3  EUA",USA: Starz Cinema
+http://cloudsalex.space:80/Gledson/Gledson/9015280.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Starz Comedy" tvg-logo="https://static.epg.best/us/StarzComedy.us.png" group-title="F23 M3  EUA",USA: Starz Comedy
+http://cloudsalex.space:80/Gledson/Gledson/9015281.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Starz Encore Western" tvg-logo="" group-title="F23 M3  EUA",USA: Starz Encore Western
+http://cloudsalex.space:80/Gledson/Gledson/9015282.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Starz Edge FHD" tvg-logo="https://static.epg.best/us/StarzEdge.us.png" group-title="F23 M3  EUA",USA: Starz Edge FHD
+http://cloudsalex.space:80/Gledson/Gledson/9015283.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Starz Encore" tvg-logo="" group-title="F23 M3  EUA",USA: Starz Encore
+http://cloudsalex.space:80/Gledson/Gledson/9015284.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Starz Encore Classic FHD" tvg-logo="https://static.epg.best/us/StarzEncoreClassics.us.png" group-title="F23 M3  EUA",USA: Starz Encore Classic FHD
+http://cloudsalex.space:80/Gledson/Gledson/9015285.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Starz Encore Family FHD" tvg-logo="http://tvgo.re:8080/images/e55395f45cb858315cbd2e7983a5e79a.png" group-title="F23 M3  EUA",USA: Starz Encore Family FHD
+http://cloudsalex.space:80/Gledson/Gledson/9015286.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Starz Encore Suspense" tvg-logo="https://static.epg.best/us/StarzEncoreSuspense.us.png" group-title="F23 M3  EUA",USA: Starz Encore Suspense
+http://cloudsalex.space:80/Gledson/Gledson/9015287.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Starz Kids & Family" tvg-logo="https://static.epg.best/us/StarzKidsFamily.us.png" group-title="F23 M3  EUA",USA: Starz Kids & Family
+http://cloudsalex.space:80/Gledson/Gledson/9015288.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Starz" tvg-logo="" group-title="F23 M3  EUA",USA: Starz
+http://cloudsalex.space:80/Gledson/Gledson/9015289.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: STARZ Encore Action" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Starz_Encore_Action.svg/125px-Starz_Encore_Action.svg.png" group-title="F23 M3  EUA",USA: STARZ Encore Action
+http://cloudsalex.space:80/Gledson/Gledson/9015290.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: STARZ Encore Black" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Starz_Encore_Black.svg/800px-Starz_Encore_Black.svg.png" group-title="F23 M3  EUA",USA: STARZ Encore Black
+http://cloudsalex.space:80/Gledson/Gledson/9015291.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Sundance HD" tvg-logo="http://tvgo.re:8080/images/58c3468a42a003ea61269b1a996c0ea9.png" group-title="F23 M3  EUA",USA: Sundance HD
+http://cloudsalex.space:80/Gledson/Gledson/9015292.ts
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="USA: Syfy HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/200px-SYFY.svg.png" group-title="F23 M3  EUA",USA: Syfy HD
+http://cloudsalex.space:80/Gledson/Gledson/9015293.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: TBS East" tvg-logo="https://static.epg.best/us/TBS.us.png" group-title="F23 M3  EUA",USA: TBS East
+http://cloudsalex.space:80/Gledson/Gledson/9015294.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: TBS West HD" tvg-logo="https://static.epg.best/us/TBS.us.png" group-title="F23 M3  EUA",USA: TBS West HD
+http://cloudsalex.space:80/Gledson/Gledson/9015295.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: TCM HD" tvg-logo="http://tvgo.re:8080/images/035d80ad84e65c8021e9692e5a7710ed.png" group-title="F23 M3  EUA",USA: TCM HD
+http://cloudsalex.space:80/Gledson/Gledson/9015296.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Teen Nick HD" tvg-logo="http://tvgolatino.com:8080/images/21b06ba231e569645cbc9c2191f46845.png" group-title="F23 M3  EUA",USA: Teen Nick HD
+http://cloudsalex.space:80/Gledson/Gledson/9015297.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: TLC  HD" tvg-logo="http://tvgo.re:8080/images/12c5cec6c7bfc8f2ea96f31e7cc76c55.png" group-title="F23 M3  EUA",USA: TLC  HD
+http://cloudsalex.space:80/Gledson/Gledson/9015298.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: TNT HD" tvg-logo="http://tvgo.re:8080/images/133dca75c260cab04f909eba8567a43f.png" group-title="F23 M3  EUA",USA: TNT HD
+http://cloudsalex.space:80/Gledson/Gledson/9015299.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Travel HD" tvg-logo="http://tvgo.re:8080/images/91e9466842c4ddd266095fa313f1ac39.png" group-title="F23 M3  EUA",USA: Travel HD
+http://cloudsalex.space:80/Gledson/Gledson/9015300.ts
+#EXTINF:-1 tvg-id="trutv.br" tvg-name="USA: Trutv HD" tvg-logo="http://tvgo.re:8080/images/7c0de871e877a74a2f390dcb6dd98d73.png" group-title="F23 M3  EUA",USA: Trutv HD
+http://cloudsalex.space:80/Gledson/Gledson/9015301.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: TV Land" tvg-logo="https://static.epg.best/us/TVLandEast.us.png" group-title="F23 M3  EUA",USA: TV Land
+http://cloudsalex.space:80/Gledson/Gledson/9015302.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: TELEMUNDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png" group-title="F23 M3  EUA",USA: TELEMUNDO
+http://cloudsalex.space:80/Gledson/Gledson/9015303.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: THE Cowboy Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/The_Cowboy_Channel.png/200px-The_Cowboy_Channel.png" group-title="F23 M3  EUA",USA: THE Cowboy Channel
+http://cloudsalex.space:80/Gledson/Gledson/9015304.ts
+#EXTINF:-1 tvg-id="universal.br" tvg-name="USA: Universal Kids" tvg-logo="http://tvgolatino.com:8080/images/32447de2faa51e771fda8648935cd655.png" group-title="F23 M3  EUA",USA: Universal Kids
+http://cloudsalex.space:80/Gledson/Gledson/9015305.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Usa Network HD" tvg-logo="http://tvgo.re:8080/images/4e1e487929068d58af9fde212d80d0bd.png" group-title="F23 M3  EUA",USA: Usa Network HD
+http://cloudsalex.space:80/Gledson/Gledson/9015306.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Unimas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/220px-Logo_UniM%C3%A1s.svg.png" group-title="F23 M3  EUA",USA: Unimas
+http://cloudsalex.space:80/Gledson/Gledson/9015307.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Univision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/200px-Logo_Univision_2019.svg.png" group-title="F23 M3  EUA",USA: Univision
+http://cloudsalex.space:80/Gledson/Gledson/9015308.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: VH1 HD" tvg-logo="https://static.epg.best/us/VH1.us.png" group-title="F23 M3  EUA",USA: VH1 HD
+http://cloudsalex.space:80/Gledson/Gledson/9015309.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Viceland FHD" tvg-logo="http://tvgolatino.com:8080/images/109d54acaf0d09c982c9a72a1b1aef04.png" group-title="F23 M3  EUA",USA: Viceland FHD
+http://cloudsalex.space:80/Gledson/Gledson/9015310.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: We TV HD" tvg-logo="http://tvgolatino.com:8080/images/a8e5fac63ef984263e382e2de270b9e2.png" group-title="F23 M3  EUA",USA: We TV HD
+http://cloudsalex.space:80/Gledson/Gledson/9015311.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Weather Channel HD" tvg-logo="http://tvgolatino.com:8080/images/cc56a1e72bad7cee58b236b78d01eee8.png" group-title="F23 M3  EUA",USA: Weather Channel HD
+http://cloudsalex.space:80/Gledson/Gledson/9015312.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: WGN AMERICA  FHD" tvg-logo="http://tvgolatino.com:8080/images/86fec32cfa4c0dd4cfa6d3da05370d85.png" group-title="F23 M3  EUA",USA: WGN AMERICA  FHD
+http://cloudsalex.space:80/Gledson/Gledson/9015313.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: QVC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/31/QVC_logo_2019.svg/220px-QVC_logo_2019.svg.png" group-title="F23 M3  EUA",USA: QVC
+http://cloudsalex.space:80/Gledson/Gledson/9015314.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: PAC 12 NETWORK" tvg-logo="http://tvgolatino.com:8080/images/b5eb52627a4b71be2ff81fbf8fa6767b.png" group-title="F23 M3  EUA",USA: PAC 12 NETWORK
+http://cloudsalex.space:80/Gledson/Gledson/9015316.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: PAC 12 Oregon HD" tvg-logo="http://tvgolatino.com:8080/images/b5eb52627a4b71be2ff81fbf8fa6767b.png" group-title="F23 M3  EUA",USA: PAC 12 Oregon HD
+http://cloudsalex.space:80/Gledson/Gledson/9015317.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: PAC 12 Mountain" tvg-logo="http://tvgolatino.com:8080/images/b5eb52627a4b71be2ff81fbf8fa6767b.png" group-title="F23 M3  EUA",USA: PAC 12 Mountain
+http://cloudsalex.space:80/Gledson/Gledson/9015318.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: PAC 12 Arizona" tvg-logo="http://tvgolatino.com:8080/images/b5eb52627a4b71be2ff81fbf8fa6767b.png" group-title="F23 M3  EUA",USA: PAC 12 Arizona
+http://cloudsalex.space:80/Gledson/Gledson/9015319.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: PAC 12 Bay Area" tvg-logo="http://tvgolatino.com:8080/images/b5eb52627a4b71be2ff81fbf8fa6767b.png" group-title="F23 M3  EUA",USA: PAC 12 Bay Area
+http://cloudsalex.space:80/Gledson/Gledson/9015320.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: PAC 12 Los Angeles" tvg-logo="http://tvgolatino.com:8080/images/b5eb52627a4b71be2ff81fbf8fa6767b.png" group-title="F23 M3  EUA",USA: PAC 12 Los Angeles
+http://cloudsalex.space:80/Gledson/Gledson/9015321.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: PAC 12 Washington" tvg-logo="http://tvgolatino.com:8080/images/b5eb52627a4b71be2ff81fbf8fa6767b.png" group-title="F23 M3  EUA",USA: PAC 12 Washington
+http://cloudsalex.space:80/Gledson/Gledson/9015322.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS Sports NETWORK HD**" tvg-logo="http://tvgolatino.com:8080/images/b855454971c90b9dae78a007272277ce.png" group-title="F23 M3  EUA",USA: CBS Sports NETWORK HD**
+http://cloudsalex.space:80/Gledson/Gledson/9015323.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: SportsNet West" tvg-logo="" group-title="F23 M3  EUA",USA: SportsNet West
+http://cloudsalex.space:80/Gledson/Gledson/9015324.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: SportsNet East" tvg-logo="" group-title="F23 M3  EUA",USA: SportsNet East
+http://cloudsalex.space:80/Gledson/Gledson/9015325.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Sec Network HD" tvg-logo="http://tvgolatino.com:8080/images/b1fa06d3d8a779bc647d42d8b2e2b4fd.png" group-title="F23 M3  EUA",USA: Sec Network HD
+http://cloudsalex.space:80/Gledson/Gledson/9015326.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Olympic Channel HD" tvg-logo="http://tvgolatino.com:8080/images/f834f1301d5f07d93d0472c508a4275a.png" group-title="F23 M3  EUA",USA: Olympic Channel HD
+http://cloudsalex.space:80/Gledson/Gledson/9015327.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: MSG Plus" tvg-logo="http://tvgo.re:8080/images/19b3d256f0335ab3a92ba8a57c1ea430.png" group-title="F23 M3  EUA",USA: MSG Plus
+http://cloudsalex.space:80/Gledson/Gledson/9015328.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: MSG" tvg-logo="http://tvgo.re:8080/images/2723c9af431930f2c49a858865c50f06.png" group-title="F23 M3  EUA",USA: MSG
+http://cloudsalex.space:80/Gledson/Gledson/9015329.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: MSG 2" tvg-logo="http://tvgo.re:8080/images/2723c9af431930f2c49a858865c50f06.png" group-title="F23 M3  EUA",USA: MSG 2
+http://cloudsalex.space:80/Gledson/Gledson/9015330.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NESN Plus" tvg-logo="https://cm-inter.xyz/Logos/USA/NESN1HD.png" group-title="F23 M3  EUA",USA: NESN Plus
+http://cloudsalex.space:80/Gledson/Gledson/9015331.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NESN" tvg-logo="https://cm-inter.xyz/Logos/USA/NESN1HD.png" group-title="F23 M3  EUA",USA: NESN
+http://cloudsalex.space:80/Gledson/Gledson/9015332.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Longhorn Network HD" tvg-logo="https://cm-inter.xyz/Logos/USA/LONGHORNNETWORKHD.png" group-title="F23 M3  EUA",USA: Longhorn Network HD
+http://cloudsalex.space:80/Gledson/Gledson/9015333.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Marquee Sports Network***" tvg-logo="http://tvgolatino.com:8080/images/7b4f245418b14de16f887e665b643e49.png" group-title="F23 M3  EUA",USA: Marquee Sports Network***
+http://cloudsalex.space:80/Gledson/Gledson/9015334.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: MASN" tvg-logo="http://tvgolatino.com:8080/images/bf109f164c04d484d0efce8444bf3404.png" group-title="F23 M3  EUA",USA: MASN
+http://cloudsalex.space:80/Gledson/Gledson/9015335.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FS1" tvg-logo="http://tvgolatino.com:8080/images/ae45b7a60f820f365773e814e6d10a3f.png" group-title="F23 M3  EUA",USA: FS1
+http://cloudsalex.space:80/Gledson/Gledson/9015336.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FS2" tvg-logo="http://tvgolatino.com:8080/images/45ff78ae33e7eade74ccbb29253db641.png" group-title="F23 M3  EUA",USA: FS2
+http://cloudsalex.space:80/Gledson/Gledson/9015337.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: World Fishing Network HD" tvg-logo="https://cm-inter.xyz/Logos/USA/WORLDFISGHINGNETWORKHD.png" group-title="F23 M3  EUA",USA: World Fishing Network HD
+http://cloudsalex.space:80/Gledson/Gledson/9015338.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: MotorTrend" tvg-logo="https://cm-inter.xyz/Logos/USA/MOTORTRENDHD.png" group-title="F23 M3  EUA",USA: MotorTrend
+http://cloudsalex.space:80/Gledson/Gledson/9015339.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: VSiN" tvg-logo="https://cm-inter.xyz/Logos/USA/VSINHD.png" group-title="F23 M3  EUA",USA: VSiN
+http://cloudsalex.space:80/Gledson/Gledson/9015340.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: YES Network HD" tvg-logo="https://cm-inter.xyz/Logos/USA/YESNETWORK.png" group-title="F23 M3  EUA",USA: YES Network HD
+http://cloudsalex.space:80/Gledson/Gledson/9015341.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ESPN Deportes" tvg-logo="https://cm-inter.xyz/Logos/USA/ESPNDEPORTES.png" group-title="F23 M3  EUA",USA: ESPN Deportes
+http://cloudsalex.space:80/Gledson/Gledson/9015342.ts
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="USA: ESPN 2" tvg-logo="https://cm-inter.xyz/Logos/USA/ESPN2HD.png" group-title="F23 M3  EUA",USA: ESPN 2
+http://cloudsalex.space:80/Gledson/Gledson/9015343.ts
+#EXTINF:-1 tvg-id="espn.br" tvg-name="USA: ESPN" tvg-logo="http://tvgo.re:8080/images/9ddaca591f422821b065b2e50054fb74.png" group-title="F23 M3  EUA",USA: ESPN
+http://cloudsalex.space:80/Gledson/Gledson/9015344.ts
+#EXTINF:-1 tvg-id="espn.br" tvg-name="USA: ESPN U***" tvg-logo="https://cm-inter.xyz/Logos/USA/ESPNUHD.png" group-title="F23 M3  EUA",USA: ESPN U***
+http://cloudsalex.space:80/Gledson/Gledson/9015345.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ROOT SPports" tvg-logo="http://tvgolatino.com:8080/images/13e34d6ed52e7dd2030f33dc15ac2b81.png" group-title="F23 M3  EUA",USA: ROOT SPports
+http://cloudsalex.space:80/Gledson/Gledson/9015346.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: TVG NETWORK HD" tvg-logo="http://tvgolatino.com:8080/images/246f008b372bce0dcab6c10d4779a786.png" group-title="F23 M3  EUA",USA: TVG NETWORK HD
+http://cloudsalex.space:80/Gledson/Gledson/9015347.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: TVG" tvg-logo="http://tvgolatino.com:8080/images/246f008b372bce0dcab6c10d4779a786.png" group-title="F23 M3  EUA",USA: TVG
+http://cloudsalex.space:80/Gledson/Gledson/9015348.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: TVG2 HD" tvg-logo="http://tvgolatino.com:8080/images/8e155d04ee8a0e9d09c73f1faecebb7b.png" group-title="F23 M3  EUA",USA: TVG2 HD
+http://cloudsalex.space:80/Gledson/Gledson/9015349.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Big Ten Network" tvg-logo="https://cm-inter.xyz/Logos/USA/BIGTENNETWORK.png" group-title="F23 M3  EUA",USA: Big Ten Network
+http://cloudsalex.space:80/Gledson/Gledson/9015350.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX Deportes" tvg-logo="http://tvgo.re:8080/images/d268fd9219114767768c11e393acce64.png" group-title="F23 M3  EUA",USA: FOX Deportes
+http://cloudsalex.space:80/Gledson/Gledson/9015351.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Fox College Sports Atlantic" tvg-logo="https://cm-inter.xyz/Logos/USA/FOXCOLLEGEATLANTIC.png" group-title="F23 M3  EUA",USA: Fox College Sports Atlantic
+http://cloudsalex.space:80/Gledson/Gledson/9015352.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Fox College Sport Central" tvg-logo="https://cm-inter.xyz/Logos/USA/FOXCOLLEGECENTRAL.png" group-title="F23 M3  EUA",USA: Fox College Sport Central
+http://cloudsalex.space:80/Gledson/Gledson/9015353.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Fox College Sport Pacific" tvg-logo="https://cm-inter.xyz/Logos/USA/FOXCOLLEGEPACIFIC.png" group-title="F23 M3  EUA",USA: Fox College Sport Pacific
+http://cloudsalex.space:80/Gledson/Gledson/9015354.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Fox Soccer Plus" tvg-logo="https://cm-inter.xyz/Logos/USA/FOXSOCCERPLUS.png" group-title="F23 M3  EUA",USA: Fox Soccer Plus
+http://cloudsalex.space:80/Gledson/Gledson/9015355.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Fox Sports Prime Ticket" tvg-logo="http://tvgolatino.com:8080/images/40e6de9dfcf6df92c2651e89c9708438.png" group-title="F23 M3  EUA",USA: Fox Sports Prime Ticket
+http://cloudsalex.space:80/Gledson/Gledson/9015356.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Bein Sports La Liga HD" tvg-logo="https://cm-inter.xyz/Logos/BEIN/BEINSPORTS.png" group-title="F23 M3  EUA",USA: Bein Sports La Liga HD
+http://cloudsalex.space:80/Gledson/Gledson/9015357.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: BeIN Sports USA" tvg-logo="https://cm-inter.xyz/Logos/USA/BEINSPORTSHD.png" group-title="F23 M3  EUA",USA: BeIN Sports USA
+http://cloudsalex.space:80/Gledson/Gledson/9015358.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Tennis Channel" tvg-logo="https://cm-inter.xyz/Logos/USA/TENNISCHANNELHD.png" group-title="F23 M3  EUA",USA: Tennis Channel
+http://cloudsalex.space:80/Gledson/Gledson/9015359.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBC Sports Network HD" tvg-logo="https://cm-inter.xyz/Logos/USA/NBCSPORTSNETWORK.png" group-title="F23 M3  EUA",NBC Sports Network HD
+http://cloudsalex.space:80/Gledson/Gledson/9015360.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBCSN" tvg-logo="https://cm-inter.xyz/Logos/USA/NBCSN.png" group-title="F23 M3  EUA",USA: NBCSN
+http://cloudsalex.space:80/Gledson/Gledson/9015361.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBCSN California" tvg-logo="https://cm-inter.xyz/Logos/USA/NBCSNCALIFORNIA.png" group-title="F23 M3  EUA",USA: NBCSN California
+http://cloudsalex.space:80/Gledson/Gledson/9015362.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBCSN Northwest" tvg-logo="http://tvgolatino.com:8080/images/9cbe0dcbea283e71f04a57e33ef268d1.png" group-title="F23 M3  EUA",USA: NBCSN Northwest
+http://cloudsalex.space:80/Gledson/Gledson/9015363.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBCSN Boston" tvg-logo="https://cm-inter.xyz/Logos/USA/NBCSNBOSTON.png" group-title="F23 M3  EUA",USA: NBCSN Boston
+http://cloudsalex.space:80/Gledson/Gledson/9015364.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBCSN Chicago" tvg-logo="https://cm-inter.xyz/Logos/USA/NBCCHICAGO.png" group-title="F23 M3  EUA",USA: NBCSN Chicago
+http://cloudsalex.space:80/Gledson/Gledson/9015365.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBCSN Chicago Plus" tvg-logo="https://cm-inter.xyz/Logos/USA/NBCCHICAGO.png" group-title="F23 M3  EUA",USA: NBCSN Chicago Plus
+http://cloudsalex.space:80/Gledson/Gledson/9015366.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBCSN Philadelphia" tvg-logo="http://tvgolatino.com:8080/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="F23 M3  EUA",USA: NBCSN Philadelphia
+http://cloudsalex.space:80/Gledson/Gledson/9015367.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBCSN Philadelphia Plus" tvg-logo="http://tvgolatino.com:8080/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="F23 M3  EUA",USA: NBCSN Philadelphia Plus
+http://cloudsalex.space:80/Gledson/Gledson/9015368.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBCSN Washington" tvg-logo="https://cm-inter.xyz/Logos/USA/NBCWASHINGTON.png" group-title="F23 M3  EUA",USA: NBCSN Washington
+http://cloudsalex.space:80/Gledson/Gledson/9015369.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBCSN Washington Plus" tvg-logo="https://cm-inter.xyz/Logos/USA/NBCWASHINGTON.png" group-title="F23 M3  EUA",USA: NBCSN Washington Plus
+http://cloudsalex.space:80/Gledson/Gledson/9015370.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBCSN Bay Area PLUS" tvg-logo="https://cm-inter.xyz/Logos/USA/NBCSNBAYAREA.png" group-title="F23 M3  EUA",USA: NBCSN Bay Area PLUS
+http://cloudsalex.space:80/Gledson/Gledson/9015371.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBCSN Bay Area" tvg-logo="https://cm-inter.xyz/Logos/USA/NBCSNBAYAREA.png" group-title="F23 M3  EUA",USA: NBCSN Bay Area
+http://cloudsalex.space:80/Gledson/Gledson/9015372.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Bally Sports Arizona" tvg-logo="http://tvgolatino.com:8080/images/e3ab7d599a9085e7ff14d378f7e4c1f8.png" group-title="F23 M3  EUA",USA: Bally Sports Arizona
+http://cloudsalex.space:80/Gledson/Gledson/9015373.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Bally Sports Detroit*" tvg-logo="http://tvgolatino.com:8080/images/e3ab7d599a9085e7ff14d378f7e4c1f8.png" group-title="F23 M3  EUA",USA: Bally Sports Detroit*
+http://cloudsalex.space:80/Gledson/Gledson/9015374.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Bally Sports Florida" tvg-logo="http://tvgolatino.com:8080/images/e3ab7d599a9085e7ff14d378f7e4c1f8.png" group-title="F23 M3  EUA",USA: Bally Sports Florida
+http://cloudsalex.space:80/Gledson/Gledson/9015375.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Bally Sports Great Lakes" tvg-logo="http://tvgolatino.com:8080/images/e3ab7d599a9085e7ff14d378f7e4c1f8.png" group-title="F23 M3  EUA",USA: Bally Sports Great Lakes
+http://cloudsalex.space:80/Gledson/Gledson/9015376.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Bally Sports Indiana" tvg-logo="http://tvgolatino.com:8080/images/e3ab7d599a9085e7ff14d378f7e4c1f8.png" group-title="F23 M3  EUA",USA: Bally Sports Indiana
+http://cloudsalex.space:80/Gledson/Gledson/9015377.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Bally Sports Kansas City" tvg-logo="http://tvgolatino.com:8080/images/e3ab7d599a9085e7ff14d378f7e4c1f8.png" group-title="F23 M3  EUA",USA: Bally Sports Kansas City
+http://cloudsalex.space:80/Gledson/Gledson/9015378.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Bally Sports MidWest" tvg-logo="http://tvgolatino.com:8080/images/e3ab7d599a9085e7ff14d378f7e4c1f8.png" group-title="F23 M3  EUA",USA: Bally Sports MidWest
+http://cloudsalex.space:80/Gledson/Gledson/9015379.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Bally Sports New Orleans" tvg-logo="http://tvgolatino.com:8080/images/e3ab7d599a9085e7ff14d378f7e4c1f8.png" group-title="F23 M3  EUA",USA: Bally Sports New Orleans
+http://cloudsalex.space:80/Gledson/Gledson/9015380.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Bally Sports North" tvg-logo="http://tvgolatino.com:8080/images/e3ab7d599a9085e7ff14d378f7e4c1f8.png" group-title="F23 M3  EUA",USA: Bally Sports North
+http://cloudsalex.space:80/Gledson/Gledson/9015381.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Bally Sports North Plus" tvg-logo="http://tvgolatino.com:8080/images/e3ab7d599a9085e7ff14d378f7e4c1f8.png" group-title="F23 M3  EUA",USA: Bally Sports North Plus
+http://cloudsalex.space:80/Gledson/Gledson/9015382.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Bally Sports Ohio" tvg-logo="http://tvgolatino.com:8080/images/e3ab7d599a9085e7ff14d378f7e4c1f8.png" group-title="F23 M3  EUA",USA: Bally Sports Ohio
+http://cloudsalex.space:80/Gledson/Gledson/9015383.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Bally Sports Oklahoma" tvg-logo="http://tvgolatino.com:8080/images/e3ab7d599a9085e7ff14d378f7e4c1f8.png" group-title="F23 M3  EUA",USA: Bally Sports Oklahoma
+http://cloudsalex.space:80/Gledson/Gledson/9015384.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Bally Sports San Diego" tvg-logo="http://tvgolatino.com:8080/images/e3ab7d599a9085e7ff14d378f7e4c1f8.png" group-title="F23 M3  EUA",USA: Bally Sports San Diego
+http://cloudsalex.space:80/Gledson/Gledson/9015385.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Bally Sports Socal" tvg-logo="http://tvgolatino.com:8080/images/e3ab7d599a9085e7ff14d378f7e4c1f8.png" group-title="F23 M3  EUA",USA: Bally Sports Socal
+http://cloudsalex.space:80/Gledson/Gledson/9015386.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Bally Sports South" tvg-logo="http://tvgolatino.com:8080/images/e3ab7d599a9085e7ff14d378f7e4c1f8.png" group-title="F23 M3  EUA",USA: Bally Sports South
+http://cloudsalex.space:80/Gledson/Gledson/9015387.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Bally Sports SouthEast" tvg-logo="http://tvgolatino.com:8080/images/e3ab7d599a9085e7ff14d378f7e4c1f8.png" group-title="F23 M3  EUA",USA: Bally Sports SouthEast
+http://cloudsalex.space:80/Gledson/Gledson/9015388.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Bally Sports SouthWest" tvg-logo="http://tvgolatino.com:8080/images/e3ab7d599a9085e7ff14d378f7e4c1f8.png" group-title="F23 M3  EUA",USA: Bally Sports SouthWest
+http://cloudsalex.space:80/Gledson/Gledson/9015389.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Bally Sports Sun" tvg-logo="http://tvgolatino.com:8080/images/e3ab7d599a9085e7ff14d378f7e4c1f8.png" group-title="F23 M3  EUA",USA: Bally Sports Sun
+http://cloudsalex.space:80/Gledson/Gledson/9015390.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Bally Sports West" tvg-logo="http://tvgolatino.com:8080/images/e3ab7d599a9085e7ff14d378f7e4c1f8.png" group-title="F23 M3  EUA",USA: Bally Sports West
+http://cloudsalex.space:80/Gledson/Gledson/9015391.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Bally Sports Wisconsin" tvg-logo="http://tvgolatino.com:8080/images/e3ab7d599a9085e7ff14d378f7e4c1f8.png" group-title="F23 M3  EUA",USA: Bally Sports Wisconsin
+http://cloudsalex.space:80/Gledson/Gledson/9015392.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NHL Network HD" tvg-logo="https://cm-inter.xyz/Logos/USA/NFLNETWORKFHD.png" group-title="F23 M3  EUA",USA: NHL Network HD
+http://cloudsalex.space:80/Gledson/Gledson/9015393.ts
+#EXTINF:-1 tvg-id="dummy-1110" tvg-name="USA: NBA TV" tvg-logo="https://cm-inter.xyz/Logos/USA/NBAPREMIUMHD.png" group-title="F23 M3  EUA",USA: NBA TV
+http://cloudsalex.space:80/Gledson/Gledson/9015394.ts
+#EXTINF:-1 tvg-id="dummy-1110" tvg-name="USA: NBA TV  HD" tvg-logo="https://cm-inter.xyz/Logos/USA/NBAPREMIUMHD.png" group-title="F23 M3  EUA",USA: NBA TV  HD
+http://cloudsalex.space:80/Gledson/Gledson/9015395.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: MLB Network" tvg-logo="https://cm-inter.xyz/Logos/USA/MLBNETWORKHD.png" group-title="F23 M3  EUA",USA: MLB Network
+http://cloudsalex.space:80/Gledson/Gledson/9015396.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NFL Network HD" tvg-logo="https://cm-inter.xyz/Logos/USA/NFLNETWORKFHD.png" group-title="F23 M3  EUA",USA: NFL Network HD
+http://cloudsalex.space:80/Gledson/Gledson/9015397.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NFL Red Zone HD" tvg-logo="http://tvgolatino.com:8080/images/aa10490d8ce0de89affc5d3abdf4e53c.png" group-title="F23 M3  EUA",USA: NFL Red Zone HD
+http://cloudsalex.space:80/Gledson/Gledson/9015398.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: C-Span 1" tvg-logo="" group-title="F23 M3  EUA",USA: C-Span 1
+http://cloudsalex.space:80/Gledson/Gledson/9015399.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: C-Span 2" tvg-logo="" group-title="F23 M3  EUA",USA: C-Span 2
+http://cloudsalex.space:80/Gledson/Gledson/9015400.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: C-Span 3" tvg-logo="" group-title="F23 M3  EUA",USA: C-Span 3
+http://cloudsalex.space:80/Gledson/Gledson/9015401.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Golf Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Golf_Channel_Logo.png" group-title="F23 M3  EUA",USA: Golf Channel
+http://cloudsalex.space:80/Gledson/Gledson/9015402.ts
+#EXTINF:-1 tvg-id="dummy-758" tvg-name="USA: RED Bull TV" tvg-logo="https://clipart.info/images/ccovers/1559856917USA-Flag-Map-PNG-Clip-Art-Image.png" group-title="F23 M3  EUA",USA: RED Bull TV
+http://cloudsalex.space:80/Gledson/Gledson/9015403.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: SPORTSNET 360" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/SN_360_logo.svg/210px-SN_360_logo.svg.png" group-title="F23 M3  EUA",USA: SPORTSNET 360
+http://cloudsalex.space:80/Gledson/Gledson/9015404.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: SPORTSNET" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/SportsnetWorld.svg/250px-SportsnetWorld.svg.png" group-title="F23 M3  EUA",USA: SPORTSNET
+http://cloudsalex.space:80/Gledson/Gledson/9015405.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: STADIUM 1" tvg-logo="https://cm-inter.xyz/Logos/USA/STADIUMHD1.png" group-title="F23 M3  EUA",USA: STADIUM 1
+http://cloudsalex.space:80/Gledson/Gledson/9015406.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: TSN 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/220px-TSN_Logo.svg.png" group-title="F23 M3  EUA",USA: TSN 1
+http://cloudsalex.space:80/Gledson/Gledson/9015407.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: TSN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/220px-TSN_Logo.svg.png" group-title="F23 M3  EUA",USA: TSN 2
+http://cloudsalex.space:80/Gledson/Gledson/9015408.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: TSN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/220px-TSN_Logo.svg.png" group-title="F23 M3  EUA",USA: TSN 3
+http://cloudsalex.space:80/Gledson/Gledson/9015409.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: TSN 4**" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/220px-TSN_Logo.svg.png" group-title="F23 M3  EUA",USA: TSN 4**
+http://cloudsalex.space:80/Gledson/Gledson/9015410.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: TSN 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/220px-TSN_Logo.svg.png" group-title="F23 M3  EUA",USA: TSN 5
+http://cloudsalex.space:80/Gledson/Gledson/9015411.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: AT&T Sportsnet South West" tvg-logo="" group-title="F23 M3  EUA",USA: AT&T Sportsnet South West
+http://cloudsalex.space:80/Gledson/Gledson/9015412.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: WILLOW Cricket" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Willow_Cricket.PNG/200px-Willow_Cricket.PNG" group-title="F23 M3  EUA",USA: WILLOW Cricket
+http://cloudsalex.space:80/Gledson/Gledson/9015413.ts
+#EXTINF:-1 tvg-id="" tvg-name="WWE HD" tvg-logo="https://cm-inter.xyz/Logos/USA/WWENETWORKHD.png" group-title="F23 M3  EUA",WWE HD
+http://cloudsalex.space:80/Gledson/Gledson/9015414.ts
+#EXTINF:-1 tvg-id="dummy-964" tvg-name="USA: UFC Fight Pass FHD" tvg-logo="https://cm-inter.xyz/Logos/USA/UFCFIGHTPASS.png" group-title="F23 M3  EUA",USA: UFC Fight Pass FHD
+http://cloudsalex.space:80/Gledson/Gledson/9015416.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Fight Network HD" tvg-logo="https://cm-inter.xyz/Logos/USA/FIGHTNETWORK.png" group-title="F23 M3  EUA",USA: Fight Network HD
+http://cloudsalex.space:80/Gledson/Gledson/9015417.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NFL Network HD" tvg-logo="https://cm-inter.xyz/Logos/USA/NFLNETWORKFHD.png" group-title="F23 M3  EUA",USA: NFL Network HD
+http://cloudsalex.space:80/Gledson/Gledson/9015418.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ACC Network HD" tvg-logo="" group-title="F23 M3  EUA",USA: ACC Network HD
+http://cloudsalex.space:80/Gledson/Gledson/9015419.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Inspiration TV" tvg-logo="" group-title="F23 M3  EUA",US: Inspiration TV
+http://cloudsalex.space:80/Gledson/Gledson/9015420.ts
+#EXTINF:-1 tvg-id="" tvg-name="Us- CBSN Boston*" tvg-logo="" group-title="F23 M3  EUA",Us- CBSN Boston*
+http://cloudsalex.space:80/Gledson/Gledson/9015421.ts
+#EXTINF:-1 tvg-id="" tvg-name="Us- CBSN Chicago*" tvg-logo="" group-title="F23 M3  EUA",Us- CBSN Chicago*
+http://cloudsalex.space:80/Gledson/Gledson/9015422.ts
+#EXTINF:-1 tvg-id="" tvg-name="Us- CBSN Miami" tvg-logo="" group-title="F23 M3  EUA",Us- CBSN Miami
+http://cloudsalex.space:80/Gledson/Gledson/9015423.ts
+#EXTINF:-1 tvg-id="" tvg-name="Us- CBSN Detroit" tvg-logo="" group-title="F23 M3  EUA",Us- CBSN Detroit
+http://cloudsalex.space:80/Gledson/Gledson/9015424.ts
+#EXTINF:-1 tvg-id="" tvg-name="Us- CBSN Los Angeles*" tvg-logo="" group-title="F23 M3  EUA",Us- CBSN Los Angeles*
+http://cloudsalex.space:80/Gledson/Gledson/9015425.ts
+#EXTINF:-1 tvg-id="" tvg-name="Us- CBSN Minnesota*" tvg-logo="" group-title="F23 M3  EUA",Us- CBSN Minnesota*
+http://cloudsalex.space:80/Gledson/Gledson/9015426.ts
+#EXTINF:-1 tvg-id="" tvg-name="Us- CBSN New York*" tvg-logo="" group-title="F23 M3  EUA",Us- CBSN New York*
+http://cloudsalex.space:80/Gledson/Gledson/9015427.ts
+#EXTINF:-1 tvg-id="" tvg-name="Us- CBSN Philly*" tvg-logo="" group-title="F23 M3  EUA",Us- CBSN Philly*
+http://cloudsalex.space:80/Gledson/Gledson/9015428.ts
+#EXTINF:-1 tvg-id="" tvg-name="Us- CBSN Pittsburgh" tvg-logo="" group-title="F23 M3  EUA",Us- CBSN Pittsburgh
+http://cloudsalex.space:80/Gledson/Gledson/9015429.ts
+#EXTINF:-1 tvg-id="" tvg-name="RECORD RIO DE JANEIRO FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F23 M3  RECORD",RECORD RIO DE JANEIRO FHD
+http://cloudsalex.space:80/Gledson/Gledson/9621092.ts
+#EXTINF:-1 tvg-id="" tvg-name="RECORD RIO DE JANEIRO HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F23 M3  RECORD",RECORD RIO DE JANEIRO HD
+http://cloudsalex.space:80/Gledson/Gledson/9621093.ts
+#EXTINF:-1 tvg-id="recordtvsãopaulo.br" tvg-name="RECORD SÃO PAULO FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F23 M3  RECORD",RECORD SÃO PAULO FHD
+http://cloudsalex.space:80/Gledson/Gledson/9621094.ts
+#EXTINF:-1 tvg-id="recordtvsãopaulo.br" tvg-name="RECORD SÃO PAULO HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F23 M3  RECORD",RECORD SÃO PAULO HD
+http://cloudsalex.space:80/Gledson/Gledson/9621095.ts
+#EXTINF:-1 tvg-id="rbstvportoalegre.br" tvg-name="RECORD PORTO ALEGRE FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F23 M3  RECORD",RECORD PORTO ALEGRE FHD
+http://cloudsalex.space:80/Gledson/Gledson/9621096.ts
+#EXTINF:-1 tvg-id="rbstvportoalegre.br" tvg-name="RECORD PORTO ALEGRE HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F23 M3  RECORD",RECORD PORTO ALEGRE HD
+http://cloudsalex.space:80/Gledson/Gledson/9621097.ts
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD BAHIA FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F23 M3  RECORD",RECORD BAHIA FHD
+http://cloudsalex.space:80/Gledson/Gledson/9621098.ts
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD BAHIA HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F23 M3  RECORD",RECORD BAHIA HD
+http://cloudsalex.space:80/Gledson/Gledson/9621099.ts
+#EXTINF:-1 tvg-id="recordtvbelém.br" tvg-name="RECORD BELÉM FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F23 M3  RECORD",RECORD BELÉM FHD
+http://cloudsalex.space:80/Gledson/Gledson/9621100.ts
+#EXTINF:-1 tvg-id="recordtvbelém.br" tvg-name="RECORD BELÉM HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F23 M3  RECORD",RECORD BELÉM HD
+http://cloudsalex.space:80/Gledson/Gledson/9621101.ts
+#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="RECORD BRASÍLIA FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F23 M3  RECORD",RECORD BRASÍLIA FHD
+http://cloudsalex.space:80/Gledson/Gledson/9621102.ts
+#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="RECORD BRASÍLIA HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F23 M3  RECORD",RECORD BRASÍLIA HD
+http://cloudsalex.space:80/Gledson/Gledson/9621103.ts
+#EXTINF:-1 tvg-id="recordtvgoiás.br" tvg-name="RECORD GOIÁS FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F23 M3  RECORD",RECORD GOIÁS FHD
+http://cloudsalex.space:80/Gledson/Gledson/9621104.ts
+#EXTINF:-1 tvg-id="recordtvgoiás.br" tvg-name="RECORD GOIÁS HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F23 M3  RECORD",RECORD GOIÁS HD
+http://cloudsalex.space:80/Gledson/Gledson/9621105.ts
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD MANAUS FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F23 M3  RECORD",RECORD MANAUS FHD
+http://cloudsalex.space:80/Gledson/Gledson/9621106.ts
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD MANAUS HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F23 M3  RECORD",RECORD MANAUS HD
+http://cloudsalex.space:80/Gledson/Gledson/9621107.ts
+#EXTINF:-1 tvg-id="recordtvminas.br" tvg-name="RECORD MINAS FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F23 M3  RECORD",RECORD MINAS FHD
+http://cloudsalex.space:80/Gledson/Gledson/9621108.ts
+#EXTINF:-1 tvg-id="recordtvminas.br" tvg-name="RECORD MINAS HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F23 M3  RECORD",RECORD MINAS HD
+http://cloudsalex.space:80/Gledson/Gledson/9621109.ts
+#EXTINF:-1 tvg-id="" tvg-name="RECORD BAHIA ITABUNA FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F23 M3  RECORD",RECORD BAHIA ITABUNA FHD
+http://cloudsalex.space:80/Gledson/Gledson/9621110.ts
+#EXTINF:-1 tvg-id="" tvg-name="RECORD BAHIA ITABUNA HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F23 M3  RECORD",RECORD BAHIA ITABUNA HD
+http://cloudsalex.space:80/Gledson/Gledson/9621111.ts
+#EXTINF:-1 tvg-id="" tvg-name="RECORD SANTOS E VALE FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F23 M3  RECORD",RECORD SANTOS E VALE FHD
+http://cloudsalex.space:80/Gledson/Gledson/9621112.ts
+#EXTINF:-1 tvg-id="" tvg-name="RECORD SANTOS E VALE HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F23 M3  RECORD",RECORD SANTOS E VALE HD
+http://cloudsalex.space:80/Gledson/Gledson/9621113.ts
+#EXTINF:-1 tvg-id="" tvg-name="RECORD RIBEIRÃO PRETO FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F23 M3  RECORD",RECORD RIBEIRÃO PRETO FHD
+http://cloudsalex.space:80/Gledson/Gledson/9621114.ts
+#EXTINF:-1 tvg-id="" tvg-name="RECORD RIBEIRÃO PRETO HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F23 M3  RECORD",RECORD RIBEIRÃO PRETO HD
+http://cloudsalex.space:80/Gledson/Gledson/9621115.ts
+#EXTINF:-1 tvg-id="" tvg-name="RECORD RIO PRETO FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F23 M3  RECORD",RECORD RIO PRETO FHD
+http://cloudsalex.space:80/Gledson/Gledson/9621116.ts
+#EXTINF:-1 tvg-id="" tvg-name="RECORD RIO PRETO HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F23 M3  RECORD",RECORD RIO PRETO HD
+http://cloudsalex.space:80/Gledson/Gledson/9621117.ts
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD BAURU FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F23 M3  RECORD",RECORD BAURU FHD
+http://cloudsalex.space:80/Gledson/Gledson/9621118.ts
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD BAURU HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F23 M3  RECORD",RECORD BAURU HD
+http://cloudsalex.space:80/Gledson/Gledson/9621119.ts
+#EXTINF:-1 tvg-id="" tvg-name="RECORD CAMPOS DOS GOYTACAZES FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F23 M3  RECORD",RECORD CAMPOS DOS GOYTACAZES FHD
+http://cloudsalex.space:80/Gledson/Gledson/9621120.ts
+#EXTINF:-1 tvg-id="" tvg-name="RECORD CAMPOS DOS GOYTACAZES HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F23 M3  RECORD",RECORD CAMPOS DOS GOYTACAZES HD
+http://cloudsalex.space:80/Gledson/Gledson/9621121.ts
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD RECIFE FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F23 M3  RECORD",RECORD RECIFE FHD
+http://cloudsalex.space:80/Gledson/Gledson/9621122.ts
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD RECIFE HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F23 M3  RECORD",RECORD RECIFE HD
+http://cloudsalex.space:80/Gledson/Gledson/9621123.ts
+#EXTINF:-1 tvg-id="nsctvflorianópolis.br" tvg-name="RECORD FLORIANÓPOLIS FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F23 M3  RECORD",RECORD FLORIANÓPOLIS FHD
+http://cloudsalex.space:80/Gledson/Gledson/9621124.ts
+#EXTINF:-1 tvg-id="nsctvflorianópolis.br" tvg-name="RECORD FLORIANÓPOLIS HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F23 M3  RECORD",RECORD FLORIANÓPOLIS HD
+http://cloudsalex.space:80/Gledson/Gledson/9621125.ts
+#EXTINF:-1 tvg-id="" tvg-name="RECORD VITÓRIA FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F23 M3  RECORD",RECORD VITÓRIA FHD
+http://cloudsalex.space:80/Gledson/Gledson/9621126.ts
+#EXTINF:-1 tvg-id="" tvg-name="RECORD VITÓRIA HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F23 M3  RECORD",RECORD VITÓRIA HD
+http://cloudsalex.space:80/Gledson/Gledson/9621127.ts
+#EXTINF:-1 tvg-id="recordtvminas.br" tvg-name="RECORD CAMPINAS FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F23 M3  RECORD",RECORD CAMPINAS FHD
+http://cloudsalex.space:80/Gledson/Gledson/9621128.ts
+#EXTINF:-1 tvg-id="recordtvminas.br" tvg-name="RECORD CAMPINAS HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F23 M3  RECORD",RECORD CAMPINAS HD
+http://cloudsalex.space:80/Gledson/Gledson/9621129.ts
+#EXTINF:-1 tvg-id="" tvg-name="RECORD FORTALEZA FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F23 M3  RECORD",RECORD FORTALEZA FHD
+http://cloudsalex.space:80/Gledson/Gledson/9621130.ts
+#EXTINF:-1 tvg-id="" tvg-name="RECORD FORTALEZA HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F23 M3  RECORD",RECORD FORTALEZA HD
+http://cloudsalex.space:80/Gledson/Gledson/9621131.ts
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD PARANÁ FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F23 M3  RECORD",RECORD PARANÁ FHD
+http://cloudsalex.space:80/Gledson/Gledson/9621132.ts
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD PARANÁ HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F23 M3  RECORD",RECORD PARANÁ HD
+http://cloudsalex.space:80/Gledson/Gledson/9621133.ts
+#EXTINF:-1 tvg-id="globorio.br" tvg-name="GLOBO RIO PRETO FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO RIO PRETO FHD
+http://cloudsalex.space:80/Gledson/Gledson/9621134.ts
+#EXTINF:-1 tvg-id="globorio.br" tvg-name="GLOBO RIO PRETO HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F23 M3  GLOBO",GLOBO RIO PRETO HD
+http://cloudsalex.space:80/Gledson/Gledson/9621135.ts
+#EXTINF:-1 tvg-id="" tvg-name="JOGOS DO DIA" tvg-logo="https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png" group-title="ÁREA DO CLIENTE",JOGOS DO DIA
+http://cloudsalex.space:80/Gledson/Gledson/11409192.ts
+
+#EXTINF:-1 tvg-id="dummy-123" tvg-name="CAM 01: A Fazenda" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/a-fazenda-17.png" group-title="F24 M3  REALITY",CAM 01: A Fazenda
+http://cloudsalex.space:80/592693566/291894002/9014197.ts
+#EXTINF:-1 tvg-id="dummy-994" tvg-name="CAM 02: A Fazenda" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/a-fazenda-17.png" group-title="F24 M3  REALITY",CAM 02: A Fazenda
+http://cloudsalex.space:80/592693566/291894002/9014198.ts
+#EXTINF:-1 tvg-id="dummy-995" tvg-name="CAM 03: A Fazenda" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/a-fazenda-17.png" group-title="F24 M3  REALITY",CAM 03: A Fazenda
+http://cloudsalex.space:80/592693566/291894002/9014199.ts
+#EXTINF:-1 tvg-id="dummy-996" tvg-name="CAM 04: A Fazenda" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/a-fazenda-17.png" group-title="F24 M3  REALITY",CAM 04: A Fazenda
+http://cloudsalex.space:80/592693566/291894002/9014200.ts
+#EXTINF:-1 tvg-id="dummy-997" tvg-name="CAM 05: A Fazenda" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/a-fazenda-17.png" group-title="F24 M3  REALITY",CAM 05: A Fazenda
+http://cloudsalex.space:80/592693566/291894002/9014201.ts
+#EXTINF:-1 tvg-id="dummy-998" tvg-name="CAM 06: A Fazenda" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/a-fazenda-17.png" group-title="F24 M3  REALITY",CAM 06: A Fazenda
+http://cloudsalex.space:80/592693566/291894002/9014202.ts
+#EXTINF:-1 tvg-id="dummy-709" tvg-name="RECEITAS FAST HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/receitas-fast-fhd.png" group-title="F24 M3  24H STREAMING",RECEITAS FAST HD
+http://cloudsalex.space:80/592693566/291894002/9014203.ts
+#EXTINF:-1 tvg-id="dummy-605" tvg-name="MALHAÇÃO FAST HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/malhacao-fast-fhd.png" group-title="F24 M3  24H STREAMING",MALHAÇÃO FAST HD
+http://cloudsalex.space:80/592693566/291894002/9014204.ts
+#EXTINF:-1 tvg-id="dummy-313" tvg-name="D.P.A. FAST HD" tvg-logo="https://7svoficial.com/canais/globoplay.png" group-title="F24 M3  24H STREAMING",D.P.A. FAST HD
+http://cloudsalex.space:80/592693566/291894002/9014205.ts
+#EXTINF:-1 tvg-id="globorio.br" tvg-name="GLOBO RIO DE JANEIRO HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO RIO DE JANEIRO HD
+http://cloudsalex.space:80/592693566/291894002/9014206.ts
+#EXTINF:-1 tvg-id="globorio.br" tvg-name="GLOBO RIO DE JANEIRO FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO RIO DE JANEIRO FHD
+http://cloudsalex.space:80/592693566/291894002/9014207.ts
+#EXTINF:-1 tvg-id="bandsãopaulo.br" tvg-name="GLOBO SÃO PAULO HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO SÃO PAULO HD
+http://cloudsalex.space:80/592693566/291894002/9014208.ts
+#EXTINF:-1 tvg-id="bandsãopaulo.br" tvg-name="GLOBO SÃO PAULO FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO SÃO PAULO FHD
+http://cloudsalex.space:80/592693566/291894002/9014209.ts
+#EXTINF:-1 tvg-id="rbstvportoalegre.br" tvg-name="GLOBO RBS PORTO ALEGRE FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO RBS PORTO ALEGRE FHD
+http://cloudsalex.space:80/592693566/291894002/9014210.ts
+#EXTINF:-1 tvg-id="rbstvportoalegre.br" tvg-name="GLOBO RBS PORTO ALEGRE HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO RBS PORTO ALEGRE HD
+http://cloudsalex.space:80/592693566/291894002/9014211.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS CAXIAS DO SUL FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO RBS CAXIAS DO SUL FHD
+http://cloudsalex.space:80/592693566/291894002/9014212.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS CAXIAS DO SUL HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO RBS CAXIAS DO SUL HD
+http://cloudsalex.space:80/592693566/291894002/9014213.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS PASSO FUNDO FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO RBS PASSO FUNDO FHD
+http://cloudsalex.space:80/592693566/291894002/9014214.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS PASSO FUNDO HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO RBS PASSO FUNDO HD
+http://cloudsalex.space:80/592693566/291894002/9014215.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS PELOTAS FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO RBS PELOTAS FHD
+http://cloudsalex.space:80/592693566/291894002/9014216.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS PELOTAS HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO RBS PELOTAS HD
+http://cloudsalex.space:80/592693566/291894002/9014217.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS SANTA CRUZ DO SUL FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO RBS SANTA CRUZ DO SUL FHD
+http://cloudsalex.space:80/592693566/291894002/9014218.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS SANTA CRUZ DO SUL HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO RBS SANTA CRUZ DO SUL HD
+http://cloudsalex.space:80/592693566/291894002/9014219.ts
+#EXTINF:-1 tvg-id="nsctvflorianópolis.br" tvg-name="GLOBO NSC FLORIANÓPOLIS FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO NSC FLORIANÓPOLIS FHD
+http://cloudsalex.space:80/592693566/291894002/9014220.ts
+#EXTINF:-1 tvg-id="nsctvflorianópolis.br" tvg-name="GLOBO NSC FLORIANÓPOLIS HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO NSC FLORIANÓPOLIS HD
+http://cloudsalex.space:80/592693566/291894002/9014221.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC BLUMENAU FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO NSC BLUMENAU FHD
+http://cloudsalex.space:80/592693566/291894002/9014222.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC BLUMENAU HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO NSC BLUMENAU HD
+http://cloudsalex.space:80/592693566/291894002/9014223.ts
+#EXTINF:-1 tvg-id="nsctvchapecó.br" tvg-name="GLOBO NSC CHAPECÓ FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO NSC CHAPECÓ FHD
+http://cloudsalex.space:80/592693566/291894002/9014224.ts
+#EXTINF:-1 tvg-id="nsctvchapecó.br" tvg-name="GLOBO NSC CHAPECÓ HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO NSC CHAPECÓ HD
+http://cloudsalex.space:80/592693566/291894002/9014225.ts
+#EXTINF:-1 tvg-id="nsctvcriciúma.br" tvg-name="GLOBO NSC CRICIÚMA FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO NSC CRICIÚMA FHD
+http://cloudsalex.space:80/592693566/291894002/9014226.ts
+#EXTINF:-1 tvg-id="nsctvcriciúma.br" tvg-name="GLOBO NSC CRICIÚMA HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO NSC CRICIÚMA HD
+http://cloudsalex.space:80/592693566/291894002/9014227.ts
+#EXTINF:-1 tvg-id="nsctvjoinville.br" tvg-name="GLOBO NSC JOINVILLE FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO NSC JOINVILLE FHD
+http://cloudsalex.space:80/592693566/291894002/9014228.ts
+#EXTINF:-1 tvg-id="nsctvjoinville.br" tvg-name="GLOBO NSC JOINVILLE HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO NSC JOINVILLE HD
+http://cloudsalex.space:80/592693566/291894002/9014229.ts
+#EXTINF:-1 tvg-id="rpccuritiba.br" tvg-name="GLOBO RPC CURITIBA FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO RPC CURITIBA FHD
+http://cloudsalex.space:80/592693566/291894002/9014230.ts
+#EXTINF:-1 tvg-id="rpccuritiba.br" tvg-name="GLOBO RPC CURITIBA HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO RPC CURITIBA HD
+http://cloudsalex.space:80/592693566/291894002/9014231.ts
+#EXTINF:-1 tvg-id="rpcfozdoiguaçu.br" tvg-name="GLOBO RPC FOZ DO IGUAÇU FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO RPC FOZ DO IGUAÇU FHD
+http://cloudsalex.space:80/592693566/291894002/9014232.ts
+#EXTINF:-1 tvg-id="rpcfozdoiguaçu.br" tvg-name="GLOBO RPC FOZ DO IGUAÇU HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO RPC FOZ DO IGUAÇU HD
+http://cloudsalex.space:80/592693566/291894002/9014233.ts
+#EXTINF:-1 tvg-id="rpc.maringa.br" tvg-name="GLOBO RPC MARINGÁ FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO RPC MARINGÁ FHD
+http://cloudsalex.space:80/592693566/291894002/9014234.ts
+#EXTINF:-1 tvg-id="rpc.maringa.br" tvg-name="GLOBO RPC MARINGÁ HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO RPC MARINGÁ HD
+http://cloudsalex.space:80/592693566/291894002/9014235.ts
+#EXTINF:-1 tvg-id="rpcparanavaí.br" tvg-name="GLOBO RPC PARANAVAÍ FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO RPC PARANAVAÍ FHD
+http://cloudsalex.space:80/592693566/291894002/9014236.ts
+#EXTINF:-1 tvg-id="rpcparanavaí.br" tvg-name="GLOBO RPC PARANAVAÍ HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO RPC PARANAVAÍ HD
+http://cloudsalex.space:80/592693566/291894002/9014237.ts
+#EXTINF:-1 tvg-id="rpcpontagrossa.br" tvg-name="GLOBO RPC PONTA GROSSA FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO RPC PONTA GROSSA FHD
+http://cloudsalex.space:80/592693566/291894002/9014238.ts
+#EXTINF:-1 tvg-id="rpcpontagrossa.br" tvg-name="GLOBO RPC PONTA GROSSA HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO RPC PONTA GROSSA HD
+http://cloudsalex.space:80/592693566/291894002/9014239.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC LONDRINA FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO RPC LONDRINA FHD
+http://cloudsalex.space:80/592693566/291894002/9014240.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC LONDRINA HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO RPC LONDRINA HD
+http://cloudsalex.space:80/592693566/291894002/9014241.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV CAMPINAS FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO EPTV CAMPINAS FHD
+http://cloudsalex.space:80/592693566/291894002/9014242.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV CAMPINAS HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO EPTV CAMPINAS HD
+http://cloudsalex.space:80/592693566/291894002/9014243.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV RIBEIRÃO PRETO FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO EPTV RIBEIRÃO PRETO FHD
+http://cloudsalex.space:80/592693566/291894002/9014244.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV RIBEIRÃO PRETO HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO EPTV RIBEIRÃO PRETO HD
+http://cloudsalex.space:80/592693566/291894002/9014245.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV SUL DE MINAS FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO EPTV SUL DE MINAS FHD
+http://cloudsalex.space:80/592693566/291894002/9014246.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV SUL DE MINAS HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO EPTV SUL DE MINAS HD
+http://cloudsalex.space:80/592693566/291894002/9014247.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO ACRE RIO BRANCO FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO ACRE RIO BRANCO FHD
+http://cloudsalex.space:80/592693566/291894002/9014248.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO ACRE RIO BRANCO HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO ACRE RIO BRANCO HD
+http://cloudsalex.space:80/592693566/291894002/9014249.ts
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO BELÉM FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO BELÉM FHD
+http://cloudsalex.space:80/592693566/291894002/9014250.ts
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO BELÉM HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO BELÉM HD
+http://cloudsalex.space:80/592693566/291894002/9014251.ts
+#EXTINF:-1 tvg-id="globobrasília.br" tvg-name="GLOBO BRASÍLIA FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO BRASÍLIA FHD
+http://cloudsalex.space:80/592693566/291894002/9014252.ts
+#EXTINF:-1 tvg-id="globobrasília.br" tvg-name="GLOBO BRASÍLIA HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO BRASÍLIA HD
+http://cloudsalex.space:80/592693566/291894002/9014253.ts
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO MINAS FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO MINAS FHD
+http://cloudsalex.space:80/592693566/291894002/9014254.ts
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO MINAS HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO MINAS HD
+http://cloudsalex.space:80/592693566/291894002/9014255.ts
+#EXTINF:-1 tvg-id="globonordeste.br" tvg-name="GLOBO NORDESTE FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO NORDESTE FHD
+http://cloudsalex.space:80/592693566/291894002/9014256.ts
+#EXTINF:-1 tvg-id="globonordeste.br" tvg-name="GLOBO NORDESTE HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO NORDESTE HD
+http://cloudsalex.space:80/592693566/291894002/9014257.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO MANAUS FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO MANAUS FHD
+http://cloudsalex.space:80/592693566/291894002/9014258.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO MANAUS HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO MANAUS HD
+http://cloudsalex.space:80/592693566/291894002/9014259.ts
+#EXTINF:-1 tvg-id="globoanhanguera.br" tvg-name="GLOBO ANHANGUERA FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO ANHANGUERA FHD
+http://cloudsalex.space:80/592693566/291894002/9014260.ts
+#EXTINF:-1 tvg-id="globoanhanguera.br" tvg-name="GLOBO ANHANGUERA HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO ANHANGUERA HD
+http://cloudsalex.space:80/592693566/291894002/9014261.ts
+#EXTINF:-1 tvg-id="globotvbahia.br" tvg-name="GLOBO BAHIA FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO BAHIA FHD
+http://cloudsalex.space:80/592693566/291894002/9014262.ts
+#EXTINF:-1 tvg-id="globotvbahia.br" tvg-name="GLOBO BAHIA HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO BAHIA HD
+http://cloudsalex.space:80/592693566/291894002/9014263.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TEM BAURU FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO TEM BAURU FHD
+http://cloudsalex.space:80/592693566/291894002/9014264.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TEM BAURU HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO TEM BAURU HD
+http://cloudsalex.space:80/592693566/291894002/9014265.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TEM SOROCABA FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO TEM SOROCABA FHD
+http://cloudsalex.space:80/592693566/291894002/9014266.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TEM SOROCABA HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO TEM SOROCABA HD
+http://cloudsalex.space:80/592693566/291894002/9014267.ts
+#EXTINF:-1 tvg-id="globotvtribuna.br" tvg-name="GLOBO TRIBUNA SANTOS FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO TRIBUNA SANTOS FHD
+http://cloudsalex.space:80/592693566/291894002/9014268.ts
+#EXTINF:-1 tvg-id="globotvtribuna.br" tvg-name="GLOBO TRIBUNA SANTOS HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO TRIBUNA SANTOS HD
+http://cloudsalex.space:80/592693566/291894002/9014269.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO VANG. S.J. CAMPOS FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO VANG. S.J. CAMPOS FHD
+http://cloudsalex.space:80/592693566/291894002/9014270.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO VANG. S.J. CAMPOS HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO VANG. S.J. CAMPOS HD
+http://cloudsalex.space:80/592693566/291894002/9014271.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO VANG. TAUBATÉ FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO VANG. TAUBATÉ FHD
+http://cloudsalex.space:80/592693566/291894002/9014272.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO VANG. TAUBATÉ HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO VANG. TAUBATÉ HD
+http://cloudsalex.space:80/592693566/291894002/9014273.ts
+#EXTINF:-1 tvg-id="tvverdesmares.br" tvg-name="GLOBO VERDES MARES FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO VERDES MARES FHD
+http://cloudsalex.space:80/592693566/291894002/9014274.ts
+#EXTINF:-1 tvg-id="tvverdesmares.br" tvg-name="GLOBO VERDES MARES HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO VERDES MARES HD
+http://cloudsalex.space:80/592693566/291894002/9014275.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO CENTRO AMÉRICA FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO CENTRO AMÉRICA FHD
+http://cloudsalex.space:80/592693566/291894002/9014276.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO CENTRO AMÉRICA HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO CENTRO AMÉRICA HD
+http://cloudsalex.space:80/592693566/291894002/9014277.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV ALTO LITORAL FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO INTER TV ALTO LITORAL FHD
+http://cloudsalex.space:80/592693566/291894002/9014278.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV ALTO LITORAL HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO INTER TV ALTO LITORAL HD
+http://cloudsalex.space:80/592693566/291894002/9014279.ts
+#EXTINF:-1 tvg-id="dummy-413" tvg-name="GLOBO INTER TV DOS VALES FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO INTER TV DOS VALES FHD
+http://cloudsalex.space:80/592693566/291894002/9014280.ts
+#EXTINF:-1 tvg-id="dummy-413" tvg-name="GLOBO INTER TV DOS VALES HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO INTER TV DOS VALES HD
+http://cloudsalex.space:80/592693566/291894002/9014281.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV GRANDE MINAS FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO INTER TV GRANDE MINAS FHD
+http://cloudsalex.space:80/592693566/291894002/9014282.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV GRANDE MINAS HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO INTER TV GRANDE MINAS HD
+http://cloudsalex.space:80/592693566/291894002/9014283.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO ALAGOAS FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO ALAGOAS FHD
+http://cloudsalex.space:80/592693566/291894002/9014284.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO ALAGOAS HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO ALAGOAS HD
+http://cloudsalex.space:80/592693566/291894002/9014285.ts
+#EXTINF:-1 tvg-id="tvcabobranco.br" tvg-name="GLOBO ASA BRANCA FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO ASA BRANCA FHD
+http://cloudsalex.space:80/592693566/291894002/9014286.ts
+#EXTINF:-1 tvg-id="tvcabobranco.br" tvg-name="GLOBO ASA BRANCA HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO ASA BRANCA HD
+http://cloudsalex.space:80/592693566/291894002/9014287.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO FRONTEIRA FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO FRONTEIRA FHD
+http://cloudsalex.space:80/592693566/291894002/9014288.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO FRONTEIRA HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO FRONTEIRA HD
+http://cloudsalex.space:80/592693566/291894002/9014289.ts
+#EXTINF:-1 tvg-id="tvgazetasul.br" tvg-name="GLOBO GAZETA SUL FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO GAZETA SUL FHD
+http://cloudsalex.space:80/592693566/291894002/9014290.ts
+#EXTINF:-1 tvg-id="tvgazetasul.br" tvg-name="GLOBO GAZETA SUL HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO GAZETA SUL HD
+http://cloudsalex.space:80/592693566/291894002/9014291.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTEG. JUIZ DE FORA FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO INTEG. JUIZ DE FORA FHD
+http://cloudsalex.space:80/592693566/291894002/9014292.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTEG. JUIZ DE FORA HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO INTEG. JUIZ DE FORA HD
+http://cloudsalex.space:80/592693566/291894002/9014293.ts
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO MORENA FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO MORENA FHD
+http://cloudsalex.space:80/592693566/291894002/9014294.ts
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO MORENA HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO MORENA HD
+http://cloudsalex.space:80/592693566/291894002/9014295.ts
+#EXTINF:-1 tvg-id="globorio.br" tvg-name="GLOBO RIO SUL FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO RIO SUL FHD
+http://cloudsalex.space:80/592693566/291894002/9014296.ts
+#EXTINF:-1 tvg-id="globorio.br" tvg-name="GLOBO RIO SUL HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO RIO SUL HD
+http://cloudsalex.space:80/592693566/291894002/9014297.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO SERRA MAR FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO SERRA MAR FHD
+http://cloudsalex.space:80/592693566/291894002/9014298.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO SERRA MAR HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO SERRA MAR HD
+http://cloudsalex.space:80/592693566/291894002/9014299.ts
+#EXTINF:-1 tvg-id="tvsergipe.br" tvg-name="GLOBO SERGIPE FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO SERGIPE FHD
+http://cloudsalex.space:80/592693566/291894002/9014300.ts
+#EXTINF:-1 tvg-id="tvsergipe.br" tvg-name="GLOBO SERGIPE HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO SERGIPE HD
+http://cloudsalex.space:80/592693566/291894002/9014301.ts
+#EXTINF:-1 tvg-id="tvmirantesãoluis.br" tvg-name="GLOBO MIRANTE SÃO LUÍS FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO MIRANTE SÃO LUÍS FHD
+http://cloudsalex.space:80/592693566/291894002/9014302.ts
+#EXTINF:-1 tvg-id="tvmirantesãoluis.br" tvg-name="GLOBO MIRANTE SÃO LUÍS HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO MIRANTE SÃO LUÍS HD
+http://cloudsalex.space:80/592693566/291894002/9014303.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO MIRANTE IMPERATRIZ FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO MIRANTE IMPERATRIZ FHD
+http://cloudsalex.space:80/592693566/291894002/9014304.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO MIRANTE IMPERATRIZ HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO MIRANTE IMPERATRIZ HD
+http://cloudsalex.space:80/592693566/291894002/9014305.ts
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO SUBAÉ FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO SUBAÉ FHD
+http://cloudsalex.space:80/592693566/291894002/9014306.ts
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO SUBAÉ HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO SUBAÉ HD
+http://cloudsalex.space:80/592693566/291894002/9014307.ts
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD RJ FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F24 M3  RECORD",RECORD RJ FHD
+http://cloudsalex.space:80/592693566/291894002/9014308.ts
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD RJ HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F24 M3  RECORD",RECORD RJ HD
+http://cloudsalex.space:80/592693566/291894002/9014309.ts
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD SP FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F24 M3  RECORD",RECORD SP FHD
+http://cloudsalex.space:80/592693566/291894002/9014310.ts
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD SP HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F24 M3  RECORD",RECORD SP HD
+http://cloudsalex.space:80/592693566/291894002/9014311.ts
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD RS FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F24 M3  RECORD",RECORD RS FHD
+http://cloudsalex.space:80/592693566/291894002/9014312.ts
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD RS HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F24 M3  RECORD",RECORD RS HD
+http://cloudsalex.space:80/592693566/291894002/9014313.ts
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD BAHIA FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F24 M3  RECORD",RECORD BAHIA FHD
+http://cloudsalex.space:80/592693566/291894002/9014314.ts
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD BAHIA HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F24 M3  RECORD",RECORD BAHIA HD
+http://cloudsalex.space:80/592693566/291894002/9014315.ts
+#EXTINF:-1 tvg-id="recordtvbelém.br" tvg-name="RECORD BELÉM FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F24 M3  RECORD",RECORD BELÉM FHD
+http://cloudsalex.space:80/592693566/291894002/9014316.ts
+#EXTINF:-1 tvg-id="recordtvbelém.br" tvg-name="RECORD BELÉM HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F24 M3  RECORD",RECORD BELÉM HD
+http://cloudsalex.space:80/592693566/291894002/9014317.ts
+#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="RECORD BRASÍLIA FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F24 M3  RECORD",RECORD BRASÍLIA FHD
+http://cloudsalex.space:80/592693566/291894002/9014318.ts
+#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="RECORD BRASÍLIA HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F24 M3  RECORD",RECORD BRASÍLIA HD
+http://cloudsalex.space:80/592693566/291894002/9014319.ts
+#EXTINF:-1 tvg-id="recordtvgoiás.br" tvg-name="RECORD GOIÁS FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F24 M3  RECORD",RECORD GOIÁS FHD
+http://cloudsalex.space:80/592693566/291894002/9014320.ts
+#EXTINF:-1 tvg-id="recordtvgoiás.br" tvg-name="RECORD GOIÁS HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F24 M3  RECORD",RECORD GOIÁS HD
+http://cloudsalex.space:80/592693566/291894002/9014321.ts
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD MANAUS FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F24 M3  RECORD",RECORD MANAUS FHD
+http://cloudsalex.space:80/592693566/291894002/9014322.ts
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD MANAUS HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F24 M3  RECORD",RECORD MANAUS HD
+http://cloudsalex.space:80/592693566/291894002/9014323.ts
+#EXTINF:-1 tvg-id="recordtvminas.br" tvg-name="RECORD MINAS FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F24 M3  RECORD",RECORD MINAS FHD
+http://cloudsalex.space:80/592693566/291894002/9014324.ts
+#EXTINF:-1 tvg-id="recordtvminas.br" tvg-name="RECORD MINAS HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F24 M3  RECORD",RECORD MINAS HD
+http://cloudsalex.space:80/592693566/291894002/9014325.ts
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="AGRO MAIS FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/https-yt3googleusercontentcom-2gryoij-gwwiae0mlkb-wzpyrg-wvznsclgfqijuk-20250923-213714-0000.png" group-title="F24 M3  ABERTOS",AGRO MAIS FHD
+http://cloudsalex.space:80/592693566/291894002/9014326.ts
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="AGRO MAIS HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/https-yt3googleusercontentcom-2gryoij-gwwiae0mlkb-wzpyrg-wvznsclgfqijuk-20250923-213714-0000.png" group-title="F24 M3  ABERTOS",AGRO MAIS HD
+http://cloudsalex.space:80/592693566/291894002/9014327.ts
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="AGRO MAIS SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/https-yt3googleusercontentcom-2gryoij-gwwiae0mlkb-wzpyrg-wvznsclgfqijuk-20250923-213714-0000.png" group-title="F24 M3  ABERTOS",AGRO MAIS SD
+http://cloudsalex.space:80/592693566/291894002/9014328.ts
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/band-sp-fhd.png" group-title="F24 M3  BAND",BAND FHD
+http://cloudsalex.space:80/592693566/291894002/9014329.ts
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/band-sp-fhd.png" group-title="F24 M3  BAND",BAND HD
+http://cloudsalex.space:80/592693566/291894002/9014330.ts
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/band-sp-fhd.png" group-title="F24 M3  BAND",BAND SD
+http://cloudsalex.space:80/592693566/291894002/9014331.ts
+#EXTINF:-1 tvg-id="canaldoboi.br" tvg-name="CANAL DO BOI HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/canal-do-boi-hd.png" group-title="F24 M3  ABERTOS",CANAL DO BOI HD
+http://cloudsalex.space:80/592693566/291894002/9014332.ts
+#EXTINF:-1 tvg-id="canalrural.br" tvg-name="CANAL RURAL HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/canal-rural-fhd.png" group-title="F24 M3  ABERTOS",CANAL RURAL HD
+http://cloudsalex.space:80/592693566/291894002/9014333.ts
+#EXTINF:-1 tvg-id="futura.br" tvg-name="CANAL FUTURA FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/futura-fhd.png" group-title="F24 M3  ABERTOS",CANAL FUTURA FHD
+http://cloudsalex.space:80/592693566/291894002/9014334.ts
+#EXTINF:-1 tvg-id="futura.br" tvg-name="CANAL FUTURA HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/futura-fhd.png" group-title="F24 M3  ABERTOS",CANAL FUTURA HD
+http://cloudsalex.space:80/592693566/291894002/9014335.ts
+#EXTINF:-1 tvg-id="futura.br" tvg-name="CANAL FUTURA SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/futura-fhd.png" group-title="F24 M3  ABERTOS",CANAL FUTURA SD
+http://cloudsalex.space:80/592693566/291894002/9014336.ts
+#EXTINF:-1 tvg-id="cultura.br" tvg-name="CULTURA FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/tv-cultura-fhd.png" group-title="F24 M3  ABERTOS",CULTURA FHD
+http://cloudsalex.space:80/592693566/291894002/9014337.ts
+#EXTINF:-1 tvg-id="cultura.br" tvg-name="CULTURA HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/tv-cultura-fhd.png" group-title="F24 M3  ABERTOS",CULTURA HD
+http://cloudsalex.space:80/592693566/291894002/9014338.ts
+#EXTINF:-1 tvg-id="cultura.br" tvg-name="CULTURA SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/tv-cultura-fhd.png" group-title="F24 M3  ABERTOS",CULTURA SD
+http://cloudsalex.space:80/592693566/291894002/9014339.ts
+#EXTINF:-1 tvg-id="tvgazeta.br" tvg-name="GAZETA HD" tvg-logo="https://7svoficial.com/canais/gazeta.png" group-title="F24 M3  ABERTOS",GAZETA HD
+http://cloudsalex.space:80/592693566/291894002/9014340.ts
+#EXTINF:-1 tvg-id="" tvg-name="PLAY TV HD" tvg-logo="https://7svoficial.com/canais/playtv.png" group-title="F24 M3  ABERTOS",PLAY TV HD
+http://cloudsalex.space:80/592693566/291894002/9014341.ts
+#EXTINF:-1 tvg-id="tvpampa.br" tvg-name="TV PAMPA HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/tv-pampa.png" group-title="F24 M3  ABERTOS",TV PAMPA HD
+http://cloudsalex.space:80/592693566/291894002/9014342.ts
+#EXTINF:-1 tvg-id="redetv!.br" tvg-name="REDETV FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/rede-tv-sd.png" group-title="F24 M3  ABERTOS",REDETV FHD
+http://cloudsalex.space:80/592693566/291894002/9014343.ts
+#EXTINF:-1 tvg-id="redetv!.br" tvg-name="REDETV HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/rede-tv-sd.png" group-title="F24 M3  ABERTOS",REDETV HD
+http://cloudsalex.space:80/592693566/291894002/9014344.ts
+#EXTINF:-1 tvg-id="redetv!.br" tvg-name="REDETV SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/rede-tv-sd.png" group-title="F24 M3  ABERTOS",REDETV SD
+http://cloudsalex.space:80/592693566/291894002/9014345.ts
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/stb-novo.png" group-title="F24 M3  SBT",SBT FHD
+http://cloudsalex.space:80/592693566/291894002/9014346.ts
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/stb-novo.png" group-title="F24 M3  SBT",SBT HD
+http://cloudsalex.space:80/592693566/291894002/9014347.ts
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/stb-novo.png" group-title="F24 M3  SBT",SBT SD
+http://cloudsalex.space:80/592693566/291894002/9014348.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV ARATU HD" tvg-logo="https://7svoficial.com/canais/sbt.png" group-title="F24 M3  ABERTOS",TV ARATU HD
+http://cloudsalex.space:80/592693566/291894002/9014349.ts
+#EXTINF:-1 tvg-id="redebrasil.br" tvg-name="REDE BRASIL HD" tvg-logo="https://7svoficial.com/canais/redebrasil.png" group-title="F24 M3  ABERTOS",REDE BRASIL HD
+http://cloudsalex.space:80/592693566/291894002/9014350.ts
+#EXTINF:-1 tvg-id="terraviva.br" tvg-name="TERRA VIVA HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/terra-viva.png" group-title="F24 M3  ABERTOS",TERRA VIVA HD
+http://cloudsalex.space:80/592693566/291894002/9014351.ts
+#EXTINF:-1 tvg-id="tvbrasil.br" tvg-name="TV BRASIL HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/tv-brasil-hd.png" group-title="F24 M3  ABERTOS",TV BRASIL HD
+http://cloudsalex.space:80/592693566/291894002/9014352.ts
+#EXTINF:-1 tvg-id="tv.camara.br" tvg-name="TV CÂMARA HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/tv-camara-fhd.png" group-title="F24 M3  ABERTOS",TV CÂMARA HD
+http://cloudsalex.space:80/592693566/291894002/9014353.ts
+#EXTINF:-1 tvg-id="tvsenado.br" tvg-name="TV SENADO HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/tv-senado-fhd.png" group-title="F24 M3  ABERTOS",TV SENADO HD
+http://cloudsalex.space:80/592693566/291894002/9014354.ts
+#EXTINF:-1 tvg-id="dummy-208" tvg-name="CANAL GOV HD" tvg-logo="https://7svoficial.com/canais/gov.png" group-title="F24 M3  ABERTOS",CANAL GOV HD
+http://cloudsalex.space:80/592693566/291894002/9014355.ts
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="TELECINE ACTION FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/telecine-action-hd-alt.png" group-title="F24 M3  TELECINE",TELECINE ACTION FHD
+http://cloudsalex.space:80/592693566/291894002/9014356.ts
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="TELECINE ACTION HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/telecine-action-hd-alt.png" group-title="F24 M3  TELECINE",TELECINE ACTION HD
+http://cloudsalex.space:80/592693566/291894002/9014357.ts
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="TELECINE ACTION SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/telecine-action-hd-alt.png" group-title="F24 M3  TELECINE",TELECINE ACTION SD
+http://cloudsalex.space:80/592693566/291894002/9014358.ts
+#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="TELECINE CULT FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/telecine-cult-sd.png" group-title="F24 M3  TELECINE",TELECINE CULT FHD
+http://cloudsalex.space:80/592693566/291894002/9014359.ts
+#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="TELECINE CULT HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/telecine-cult-sd.png" group-title="F24 M3  TELECINE",TELECINE CULT HD
+http://cloudsalex.space:80/592693566/291894002/9014360.ts
+#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="TELECINE CULT SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/telecine-cult-sd.png" group-title="F24 M3  TELECINE",TELECINE CULT SD
+http://cloudsalex.space:80/592693566/291894002/9014361.ts
+#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="TELECINE FUN FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/telecine-fun-hd.png" group-title="F24 M3  TELECINE",TELECINE FUN FHD
+http://cloudsalex.space:80/592693566/291894002/9014362.ts
+#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="TELECINE FUN HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/telecine-fun-hd.png" group-title="F24 M3  TELECINE",TELECINE FUN HD
+http://cloudsalex.space:80/592693566/291894002/9014363.ts
+#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="TELECINE FUN SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/telecine-fun-hd.png" group-title="F24 M3  TELECINE",TELECINE FUN SD
+http://cloudsalex.space:80/592693566/291894002/9014364.ts
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="TELECINE PIPOCA FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/telecine-pipoca-sd.png" group-title="F24 M3  TELECINE",TELECINE PIPOCA FHD
+http://cloudsalex.space:80/592693566/291894002/9014365.ts
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="TELECINE PIPOCA HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/telecine-pipoca-sd.png" group-title="F24 M3  TELECINE",TELECINE PIPOCA HD
+http://cloudsalex.space:80/592693566/291894002/9014366.ts
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="TELECINE PIPOCA SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/telecine-pipoca-sd.png" group-title="F24 M3  TELECINE",TELECINE PIPOCA SD
+http://cloudsalex.space:80/592693566/291894002/9014367.ts
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TELECINE PREMIUM FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/telecine-premium-hd.png" group-title="F24 M3  TELECINE",TELECINE PREMIUM FHD
+http://cloudsalex.space:80/592693566/291894002/9014368.ts
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/telecine-premium-hd.png" group-title="F24 M3  TELECINE",TELECINE PREMIUM HD
+http://cloudsalex.space:80/592693566/291894002/9014369.ts
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TELECINE PREMIUM SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/telecine-premium-hd.png" group-title="F24 M3  TELECINE",TELECINE PREMIUM SD
+http://cloudsalex.space:80/592693566/291894002/9014370.ts
+#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="TELECINE TOUCH FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/telecine-premium-hd.png" group-title="F24 M3  TELECINE",TELECINE TOUCH FHD
+http://cloudsalex.space:80/592693566/291894002/9014371.ts
+#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="TELECINE TOUCH HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/telecine-premium-hd.png" group-title="F24 M3  TELECINE",TELECINE TOUCH HD
+http://cloudsalex.space:80/592693566/291894002/9014372.ts
+#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="TELECINE TOUCH SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/telecine-premium-hd.png" group-title="F24 M3  TELECINE",TELECINE TOUCH SD
+http://cloudsalex.space:80/592693566/291894002/9014373.ts
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/hbo-family-fhd.png" group-title="F24 M3  HBO",HBO FHD
+http://cloudsalex.space:80/592693566/291894002/9014374.ts
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/hbo-1-fhd.png" group-title="F24 M3  HBO",HBO HD
+http://cloudsalex.space:80/592693566/291894002/9014375.ts
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/hbo-1-fhd.png" group-title="F24 M3  HBO",HBO SD
+http://cloudsalex.space:80/592693566/291894002/9014376.ts
+#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/hbo-2-hd-alt.png" group-title="F24 M3  HBO",HBO 2 FHD
+http://cloudsalex.space:80/592693566/291894002/9014377.ts
+#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/hbo-2-hd-alt.png" group-title="F24 M3  HBO",HBO 2 HD
+http://cloudsalex.space:80/592693566/291894002/9014378.ts
+#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/hbo-2-hd-alt.png" group-title="F24 M3  HBO",HBO 2 SD
+http://cloudsalex.space:80/592693566/291894002/9014379.ts
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO FAMILY FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/hbo-family-fhd.png" group-title="F24 M3  HBO",HBO FAMILY FHD
+http://cloudsalex.space:80/592693566/291894002/9014380.ts
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO FAMILY HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/hbo-family-fhd.png" group-title="F24 M3  HBO",HBO FAMILY HD
+http://cloudsalex.space:80/592693566/291894002/9014381.ts
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO FAMILY SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/hbo-family-fhd.png" group-title="F24 M3  HBO",HBO FAMILY SD
+http://cloudsalex.space:80/592693566/291894002/9014382.ts
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO+ FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/hbo-plus-fhd.png" group-title="F24 M3  HBO",HBO+ FHD
+http://cloudsalex.space:80/592693566/291894002/9014383.ts
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO+ HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/hbo-plus-fhd.png" group-title="F24 M3  HBO",HBO+ HD
+http://cloudsalex.space:80/592693566/291894002/9014384.ts
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO+ SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/hbo-plus-fhd.png" group-title="F24 M3  HBO",HBO+ SD
+http://cloudsalex.space:80/592693566/291894002/9014385.ts
+#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO MUNDI FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/hbo-mundi-4k.png" group-title="F24 M3  HBO",HBO MUNDI FHD
+http://cloudsalex.space:80/592693566/291894002/9014386.ts
+#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO MUNDI HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/hbo-mundi-4k.png" group-title="F24 M3  HBO",HBO MUNDI HD
+http://cloudsalex.space:80/592693566/291894002/9014387.ts
+#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO MUNDI SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/hbo-mundi-4k.png" group-title="F24 M3  HBO",HBO MUNDI SD
+http://cloudsalex.space:80/592693566/291894002/9014388.ts
+#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO POP FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/hbo-pop-4k.png" group-title="F24 M3  HBO",HBO POP FHD
+http://cloudsalex.space:80/592693566/291894002/9014389.ts
+#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO POP HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/hbo-pop-4k.png" group-title="F24 M3  HBO",HBO POP HD
+http://cloudsalex.space:80/592693566/291894002/9014390.ts
+#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO POP SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/hbo-pop-4k.png" group-title="F24 M3  HBO",HBO POP SD
+http://cloudsalex.space:80/592693566/291894002/9014391.ts
+#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO SIGNATURE FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/hbo-signature-4k.png" group-title="F24 M3  HBO",HBO SIGNATURE FHD
+http://cloudsalex.space:80/592693566/291894002/9014392.ts
+#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO SIGNATURE HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/hbo-signature-4k.png" group-title="F24 M3  HBO",HBO SIGNATURE HD
+http://cloudsalex.space:80/592693566/291894002/9014393.ts
+#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO SIGNATURE SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/hbo-signature-4k.png" group-title="F24 M3  HBO",HBO SIGNATURE SD
+http://cloudsalex.space:80/592693566/291894002/9014394.ts
+#EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBO XTREME FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/hbo-xtreme-4k.png" group-title="F24 M3  HBO",HBO XTREME FHD
+http://cloudsalex.space:80/592693566/291894002/9014395.ts
+#EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBO XTREME HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/hbo-xtreme-4k.png" group-title="F24 M3  HBO",HBO XTREME HD
+http://cloudsalex.space:80/592693566/291894002/9014396.ts
+#EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBO XTREME SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/hbo-xtreme-4k.png" group-title="F24 M3  HBO",HBO XTREME SD
+http://cloudsalex.space:80/592693566/291894002/9014397.ts
+#EXTINF:-1 tvg-id="a&e.br" tvg-name="A&E FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/ae-fhd-alt.png" group-title="F24 M3  FILMES E SÉRIES",A&E FHD
+http://cloudsalex.space:80/592693566/291894002/9014398.ts
+#EXTINF:-1 tvg-id="a&e.br" tvg-name="A&E HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/ae-fhd-alt.png" group-title="F24 M3  FILMES E SÉRIES",A&E HD
+http://cloudsalex.space:80/592693566/291894002/9014399.ts
+#EXTINF:-1 tvg-id="a&e.br" tvg-name="A&E SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/ae-fhd-alt.png" group-title="F24 M3  FILMES E SÉRIES",A&E SD
+http://cloudsalex.space:80/592693566/291894002/9014400.ts
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/amc-4k.png" group-title="F24 M3  FILMES E SÉRIES",AMC FHD
+http://cloudsalex.space:80/592693566/291894002/9014401.ts
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/amc-4k.png" group-title="F24 M3  FILMES E SÉRIES",AMC HD
+http://cloudsalex.space:80/592693566/291894002/9014402.ts
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/amc-4k.png" group-title="F24 M3  FILMES E SÉRIES",AMC SD
+http://cloudsalex.space:80/592693566/291894002/9014403.ts
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/axn-fhd.png" group-title="F24 M3  FILMES E SÉRIES",AXN FHD
+http://cloudsalex.space:80/592693566/291894002/9014404.ts
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/axn-fhd.png" group-title="F24 M3  FILMES E SÉRIES",AXN HD
+http://cloudsalex.space:80/592693566/291894002/9014405.ts
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/axn-fhd.png" group-title="F24 M3  FILMES E SÉRIES",AXN SD
+http://cloudsalex.space:80/592693566/291894002/9014406.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL SONY FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/canal-sony-4k.png" group-title="F24 M3  FILMES E SÉRIES",CANAL SONY FHD
+http://cloudsalex.space:80/592693566/291894002/9014407.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL SONY HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/canal-sony-4k.png" group-title="F24 M3  FILMES E SÉRIES",CANAL SONY HD
+http://cloudsalex.space:80/592693566/291894002/9014408.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL SONY SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/canal-sony-4k.png" group-title="F24 M3  FILMES E SÉRIES",CANAL SONY SD
+http://cloudsalex.space:80/592693566/291894002/9014409.ts
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/cinemax-4k.png" group-title="F24 M3  FILMES E SÉRIES",CINEMAX FHD
+http://cloudsalex.space:80/592693566/291894002/9014410.ts
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/cinemax-4k.png" group-title="F24 M3  FILMES E SÉRIES",CINEMAX HD
+http://cloudsalex.space:80/592693566/291894002/9014411.ts
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/cinemax-4k.png" group-title="F24 M3  FILMES E SÉRIES",CINEMAX SD
+http://cloudsalex.space:80/592693566/291894002/9014412.ts
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/megapix-4k.png" group-title="F24 M3  FILMES E SÉRIES",MEGAPIX FHD
+http://cloudsalex.space:80/592693566/291894002/9014413.ts
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/megapix-4k.png" group-title="F24 M3  FILMES E SÉRIES",MEGAPIX HD
+http://cloudsalex.space:80/592693566/291894002/9014414.ts
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/megapix-4k.png" group-title="F24 M3  FILMES E SÉRIES",MEGAPIX SD
+http://cloudsalex.space:80/592693566/291894002/9014415.ts
+#EXTINF:-1 tvg-id="paramountchannel.br" tvg-name="PARAMOUNT CHANNEL FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/paramount-4k.png" group-title="F24 M3  FILMES E SÉRIES",PARAMOUNT CHANNEL FHD
+http://cloudsalex.space:80/592693566/291894002/9014416.ts
+#EXTINF:-1 tvg-id="paramountchannel.br" tvg-name="PARAMOUNT CHANNEL HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/paramount-4k.png" group-title="F24 M3  FILMES E SÉRIES",PARAMOUNT CHANNEL HD
+http://cloudsalex.space:80/592693566/291894002/9014417.ts
+#EXTINF:-1 tvg-id="paramountchannel.br" tvg-name="PARAMOUNT CHANNEL SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/paramount-4k.png" group-title="F24 M3  FILMES E SÉRIES",PARAMOUNT CHANNEL SD
+http://cloudsalex.space:80/592693566/291894002/9014418.ts
+#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/space-fhd.png" group-title="F24 M3  FILMES E SÉRIES",SPACE FHD
+http://cloudsalex.space:80/592693566/291894002/9014419.ts
+#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/space-fhd.png" group-title="F24 M3  FILMES E SÉRIES",SPACE HD
+http://cloudsalex.space:80/592693566/291894002/9014420.ts
+#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/space-fhd.png" group-title="F24 M3  FILMES E SÉRIES",SPACE SD
+http://cloudsalex.space:80/592693566/291894002/9014421.ts
+#EXTINF:-1 tvg-id="" tvg-name="SONY MOVIES FHD" tvg-logo="http://32q0d.xyz/images/sonymovies.png" group-title="F24 M3  FILMES E SÉRIES",SONY MOVIES FHD
+http://cloudsalex.space:80/592693566/291894002/9014422.ts
+#EXTINF:-1 tvg-id="" tvg-name="SONY MOVIES HD" tvg-logo="http://32q0d.xyz/images/sonymovies.png" group-title="F24 M3  FILMES E SÉRIES",SONY MOVIES HD
+http://cloudsalex.space:80/592693566/291894002/9014423.ts
+#EXTINF:-1 tvg-id="" tvg-name="SONY MOVIES SD" tvg-logo="http://32q0d.xyz/images/sonymovies.png" group-title="F24 M3  FILMES E SÉRIES",SONY MOVIES SD
+http://cloudsalex.space:80/592693566/291894002/9014424.ts
+#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="STUDIO UNIVERSAL FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/studio-universal-4k.png" group-title="F24 M3  FILMES E SÉRIES",STUDIO UNIVERSAL FHD
+http://cloudsalex.space:80/592693566/291894002/9014425.ts
+#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/studio-universal-4k.png" group-title="F24 M3  FILMES E SÉRIES",STUDIO UNIVERSAL HD
+http://cloudsalex.space:80/592693566/291894002/9014426.ts
+#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="STUDIO UNIVERSAL SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/studio-universal-4k.png" group-title="F24 M3  FILMES E SÉRIES",STUDIO UNIVERSAL SD
+http://cloudsalex.space:80/592693566/291894002/9014427.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA FHD" tvg-logo="https://7svoficial.com/canais/usa.png" group-title="F24 M3  FILMES E SÉRIES",USA FHD
+http://cloudsalex.space:80/592693566/291894002/9014428.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA HD" tvg-logo="https://7svoficial.com/canais/usa.png" group-title="F24 M3  FILMES E SÉRIES",USA HD
+http://cloudsalex.space:80/592693566/291894002/9014429.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA SD" tvg-logo="https://7svoficial.com/canais/usa.png" group-title="F24 M3  FILMES E SÉRIES",USA SD
+http://cloudsalex.space:80/592693566/291894002/9014430.ts
+#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/tcm-fhd.png" group-title="F24 M3  FILMES E SÉRIES",TCM HD
+http://cloudsalex.space:80/592693566/291894002/9014431.ts
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/tnt-4k.png" group-title="F24 M3  FILMES E SÉRIES",TNT FHD
+http://cloudsalex.space:80/592693566/291894002/9014432.ts
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/tnt-4k.png" group-title="F24 M3  FILMES E SÉRIES",TNT HD
+http://cloudsalex.space:80/592693566/291894002/9014433.ts
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/tnt-4k.png" group-title="F24 M3  FILMES E SÉRIES",TNT SD
+http://cloudsalex.space:80/592693566/291894002/9014434.ts
+#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT SÉRIES FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/tnt-series-fhd.png" group-title="F24 M3  FILMES E SÉRIES",TNT SÉRIES FHD
+http://cloudsalex.space:80/592693566/291894002/9014435.ts
+#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT SÉRIES HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/tnt-series-fhd.png" group-title="F24 M3  FILMES E SÉRIES",TNT SÉRIES HD
+http://cloudsalex.space:80/592693566/291894002/9014436.ts
+#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT SÉRIES SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/tnt-series-fhd.png" group-title="F24 M3  FILMES E SÉRIES",TNT SÉRIES SD
+http://cloudsalex.space:80/592693566/291894002/9014437.ts
+#EXTINF:-1 tvg-id="tntnovelas.br" tvg-name="TNT NOVELAS FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/tnt-novelas-hd.png" group-title="F24 M3  FILMES E SÉRIES",TNT NOVELAS FHD
+http://cloudsalex.space:80/592693566/291894002/9014438.ts
+#EXTINF:-1 tvg-id="tntnovelas.br" tvg-name="TNT NOVELAS HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/tnt-novelas-hd.png" group-title="F24 M3  FILMES E SÉRIES",TNT NOVELAS HD
+http://cloudsalex.space:80/592693566/291894002/9014439.ts
+#EXTINF:-1 tvg-id="tntnovelas.br" tvg-name="TNT NOVELAS SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/tnt-novelas-hd.png" group-title="F24 M3  FILMES E SÉRIES",TNT NOVELAS SD
+http://cloudsalex.space:80/592693566/291894002/9014440.ts
+#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL CHANNEL FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/universal-tv-uhd.png" group-title="F24 M3  FILMES E SÉRIES",UNIVERSAL CHANNEL FHD
+http://cloudsalex.space:80/592693566/291894002/9014441.ts
+#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/universal-tv-uhd.png" group-title="F24 M3  FILMES E SÉRIES",UNIVERSAL CHANNEL HD
+http://cloudsalex.space:80/592693566/291894002/9014442.ts
+#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL CHANNEL SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/universal-tv-uhd.png" group-title="F24 M3  FILMES E SÉRIES",UNIVERSAL CHANNEL SD
+http://cloudsalex.space:80/592693566/291894002/9014443.ts
+#EXTINF:-1 tvg-id="dummy-971" tvg-name="UNIVERSAL PREMIERE FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/https-yt3googleusercontentcom-2gryoij-gwwiae0mlkb-wzpyrg-wvznsclgfqijuk-20250923-195750-0000.png" group-title="F24 M3  FILMES E SÉRIES",UNIVERSAL PREMIERE FHD
+http://cloudsalex.space:80/592693566/291894002/9014444.ts
+#EXTINF:-1 tvg-id="dummy-971" tvg-name="UNIVERSAL PREMIERE HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/https-yt3googleusercontentcom-2gryoij-gwwiae0mlkb-wzpyrg-wvznsclgfqijuk-20250923-195750-0000.png" group-title="F24 M3  FILMES E SÉRIES",UNIVERSAL PREMIERE HD
+http://cloudsalex.space:80/592693566/291894002/9014445.ts
+#EXTINF:-1 tvg-id="dummy-971" tvg-name="UNIVERSAL PREMIERE SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/https-yt3googleusercontentcom-2gryoij-gwwiae0mlkb-wzpyrg-wvznsclgfqijuk-20250923-195750-0000.png" group-title="F24 M3  FILMES E SÉRIES",UNIVERSAL PREMIERE SD
+http://cloudsalex.space:80/592693566/291894002/9014446.ts
+#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL REALITY FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/universal-reality.png" group-title="F24 M3  FILMES E SÉRIES",UNIVERSAL REALITY FHD
+http://cloudsalex.space:80/592693566/291894002/9014447.ts
+#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL REALITY HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/universal-reality.png" group-title="F24 M3  FILMES E SÉRIES",UNIVERSAL REALITY HD
+http://cloudsalex.space:80/592693566/291894002/9014448.ts
+#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL REALITY SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/universal-reality.png" group-title="F24 M3  FILMES E SÉRIES",UNIVERSAL REALITY SD
+http://cloudsalex.space:80/592693566/291894002/9014449.ts
+#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="WARNER CHANNEL FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/warner-tvb.png" group-title="F24 M3  FILMES E SÉRIES",WARNER CHANNEL FHD
+http://cloudsalex.space:80/592693566/291894002/9014450.ts
+#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="WARNER CHANNEL HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/warner-tvb.png" group-title="F24 M3  FILMES E SÉRIES",WARNER CHANNEL HD
+http://cloudsalex.space:80/592693566/291894002/9014451.ts
+#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="WARNER CHANNEL SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/warner-tvb.png" group-title="F24 M3  FILMES E SÉRIES",WARNER CHANNEL SD
+http://cloudsalex.space:80/592693566/291894002/9014452.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 01" tvg-logo="https://7svoficial.com/canais/cinesky.png" group-title="F24 M3  24H FILMES",CINE SKY 01
+http://cloudsalex.space:80/592693566/291894002/9014453.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 02" tvg-logo="https://7svoficial.com/canais/cinesky.png" group-title="F24 M3  24H FILMES",CINE SKY 02
+http://cloudsalex.space:80/592693566/291894002/9014454.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 03" tvg-logo="https://7svoficial.com/canais/cinesky.png" group-title="F24 M3  24H FILMES",CINE SKY 03
+http://cloudsalex.space:80/592693566/291894002/9014455.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 04" tvg-logo="https://7svoficial.com/canais/cinesky.png" group-title="F24 M3  24H FILMES",CINE SKY 04
+http://cloudsalex.space:80/592693566/291894002/9014456.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 05" tvg-logo="https://7svoficial.com/canais/cinesky.png" group-title="F24 M3  24H FILMES",CINE SKY 05
+http://cloudsalex.space:80/592693566/291894002/9014457.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 06" tvg-logo="https://7svoficial.com/canais/cinesky.png" group-title="F24 M3  24H FILMES",CINE SKY 06
+http://cloudsalex.space:80/592693566/291894002/9014458.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 07" tvg-logo="https://7svoficial.com/canais/cinesky.png" group-title="F24 M3  24H FILMES",CINE SKY 07
+http://cloudsalex.space:80/592693566/291894002/9014459.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 08" tvg-logo="https://7svoficial.com/canais/cinesky.png" group-title="F24 M3  24H FILMES",CINE SKY 08
+http://cloudsalex.space:80/592693566/291894002/9014460.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 09" tvg-logo="https://7svoficial.com/canais/cinesky.png" group-title="F24 M3  24H FILMES",CINE SKY 09
+http://cloudsalex.space:80/592693566/291894002/9014461.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 10" tvg-logo="https://7svoficial.com/canais/cinesky.png" group-title="F24 M3  24H FILMES",CINE SKY 10
+http://cloudsalex.space:80/592693566/291894002/9014462.ts
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE 1 CLUBES FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/mosaico-premiere-fhd.png" group-title="F24 M3  PREMIERE",PREMIERE 1 CLUBES FHD
+http://cloudsalex.space:80/592693566/291894002/9014463.ts
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE 1 CLUBES HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/mosaico-premiere-fhd.png" group-title="F24 M3  PREMIERE",PREMIERE 1 CLUBES HD
+http://cloudsalex.space:80/592693566/291894002/9014464.ts
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE 1 CLUBES SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/mosaico-premiere-fhd.png" group-title="F24 M3  PREMIERE",PREMIERE 1 CLUBES SD
+http://cloudsalex.space:80/592693566/291894002/9014465.ts
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="PREMIERE 2 FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/premiere-2-fhd-alt.png" group-title="F24 M3  PREMIERE",PREMIERE 2 FHD
+http://cloudsalex.space:80/592693566/291894002/9014466.ts
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="PREMIERE 2 HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/premiere-2-fhd-alt.png" group-title="F24 M3  PREMIERE",PREMIERE 2 HD
+http://cloudsalex.space:80/592693566/291894002/9014467.ts
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="PREMIERE 2 SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/premiere-2-fhd-alt.png" group-title="F24 M3  PREMIERE",PREMIERE 2 SD
+http://cloudsalex.space:80/592693566/291894002/9014468.ts
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="PREMIERE 3 FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/premiere-3-fhd-alt.png" group-title="F24 M3  PREMIERE",PREMIERE 3 FHD
+http://cloudsalex.space:80/592693566/291894002/9014469.ts
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="PREMIERE 3 HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/premiere-3-fhd-alt.png" group-title="F24 M3  PREMIERE",PREMIERE 3 HD
+http://cloudsalex.space:80/592693566/291894002/9014470.ts
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="PREMIERE 3 SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/premiere-3-fhd-alt.png" group-title="F24 M3  PREMIERE",PREMIERE 3 SD
+http://cloudsalex.space:80/592693566/291894002/9014471.ts
+#EXTINF:-1 tvg-id="premiere4.br" tvg-name="PREMIERE 4 FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/premiere-4-4k.png" group-title="F24 M3  PREMIERE",PREMIERE 4 FHD
+http://cloudsalex.space:80/592693566/291894002/9014472.ts
+#EXTINF:-1 tvg-id="premiere4.br" tvg-name="PREMIERE 4 HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/premiere-4-4k.png" group-title="F24 M3  PREMIERE",PREMIERE 4 HD
+http://cloudsalex.space:80/592693566/291894002/9014473.ts
+#EXTINF:-1 tvg-id="premiere4.br" tvg-name="PREMIERE 4 SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/premiere-4-4k.png" group-title="F24 M3  PREMIERE",PREMIERE 4 SD
+http://cloudsalex.space:80/592693566/291894002/9014474.ts
+#EXTINF:-1 tvg-id="premiere5.br" tvg-name="PREMIERE 5 FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/premiere-5-fhd.png" group-title="F24 M3  PREMIERE",PREMIERE 5 FHD
+http://cloudsalex.space:80/592693566/291894002/9014475.ts
+#EXTINF:-1 tvg-id="premiere5.br" tvg-name="PREMIERE 5 HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/premiere-5-fhd.png" group-title="F24 M3  PREMIERE",PREMIERE 5 HD
+http://cloudsalex.space:80/592693566/291894002/9014476.ts
+#EXTINF:-1 tvg-id="premiere5.br" tvg-name="PREMIERE 5 SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/premiere-5-fhd.png" group-title="F24 M3  PREMIERE",PREMIERE 5 SD
+http://cloudsalex.space:80/592693566/291894002/9014477.ts
+#EXTINF:-1 tvg-id="premiere6.br" tvg-name="PREMIERE 6 FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/premiere-6-4k.png" group-title="F24 M3  PREMIERE",PREMIERE 6 FHD
+http://cloudsalex.space:80/592693566/291894002/9014478.ts
+#EXTINF:-1 tvg-id="premiere6.br" tvg-name="PREMIERE 6 HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/premiere-6-4k.png" group-title="F24 M3  PREMIERE",PREMIERE 6 HD
+http://cloudsalex.space:80/592693566/291894002/9014479.ts
+#EXTINF:-1 tvg-id="premiere6.br" tvg-name="PREMIERE 6 SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/premiere-6-4k.png" group-title="F24 M3  PREMIERE",PREMIERE 6 SD
+http://cloudsalex.space:80/592693566/291894002/9014480.ts
+#EXTINF:-1 tvg-id="premiere7.br" tvg-name="PREMIERE 7 FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/premiere-7-fhd.png" group-title="F24 M3  PREMIERE",PREMIERE 7 FHD
+http://cloudsalex.space:80/592693566/291894002/9014481.ts
+#EXTINF:-1 tvg-id="premiere7.br" tvg-name="PREMIERE 7 HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/premiere-7-fhd.png" group-title="F24 M3  PREMIERE",PREMIERE 7 HD
+http://cloudsalex.space:80/592693566/291894002/9014482.ts
+#EXTINF:-1 tvg-id="premiere7.br" tvg-name="PREMIERE 7 SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/premiere-7-fhd.png" group-title="F24 M3  PREMIERE",PREMIERE 7 SD
+http://cloudsalex.space:80/592693566/291894002/9014483.ts
+#EXTINF:-1 tvg-id="premiere8.br" tvg-name="PREMIERE 8 FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/premiere-8-hd.png" group-title="F24 M3  PREMIERE",PREMIERE 8 FHD
+http://cloudsalex.space:80/592693566/291894002/9014484.ts
+#EXTINF:-1 tvg-id="premiere8.br" tvg-name="PREMIERE 8 HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/premiere-8-hd.png" group-title="F24 M3  PREMIERE",PREMIERE 8 HD
+http://cloudsalex.space:80/592693566/291894002/9014485.ts
+#EXTINF:-1 tvg-id="premiere8.br" tvg-name="PREMIERE 8 SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/premiere-8-hd.png" group-title="F24 M3  PREMIERE",PREMIERE 8 SD
+http://cloudsalex.space:80/592693566/291894002/9014486.ts
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/band-sports-fhd.png" group-title="F24 M3  ESPORTES",BAND SPORTS FHD
+http://cloudsalex.space:80/592693566/291894002/9014487.ts
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/band-sports-fhd.png" group-title="F24 M3  ESPORTES",BAND SPORTS HD
+http://cloudsalex.space:80/592693566/291894002/9014488.ts
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/band-sports-fhd.png" group-title="F24 M3  ESPORTES",BAND SPORTS SD
+http://cloudsalex.space:80/592693566/291894002/9014489.ts
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV 1 FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/sportv-uhd.png" group-title="F24 M3  SPORTV",SPORTV 1 FHD
+http://cloudsalex.space:80/592693566/291894002/9014490.ts
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV 1 HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/sportv-uhd.png" group-title="F24 M3  SPORTV",SPORTV 1 HD
+http://cloudsalex.space:80/592693566/291894002/9014491.ts
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV 1 SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/sportv-uhd.png" group-title="F24 M3  SPORTV",SPORTV 1 SD
+http://cloudsalex.space:80/592693566/291894002/9014492.ts
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/sportv-fhd.png" group-title="F24 M3  SPORTV",SPORTV 2 FHD
+http://cloudsalex.space:80/592693566/291894002/9014493.ts
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/sportv-fhd.png" group-title="F24 M3  SPORTV",SPORTV 2 HD
+http://cloudsalex.space:80/592693566/291894002/9014494.ts
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/sportv-fhd.png" group-title="F24 M3  SPORTV",SPORTV 2 SD
+http://cloudsalex.space:80/592693566/291894002/9014495.ts
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/sportv-uhd.png" group-title="F24 M3  SPORTV",SPORTV 3 FHD
+http://cloudsalex.space:80/592693566/291894002/9014496.ts
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/sportv-uhd.png" group-title="F24 M3  SPORTV",SPORTV 3 HD
+http://cloudsalex.space:80/592693566/291894002/9014497.ts
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/sportv-uhd.png" group-title="F24 M3  SPORTV",SPORTV 3 SD
+http://cloudsalex.space:80/592693566/291894002/9014498.ts
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 1 FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/espn-1-4k.png" group-title="F24 M3  ESPN",ESPN 1 FHD
+http://cloudsalex.space:80/592693566/291894002/9014499.ts
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 1 HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/espn-1-4k.png" group-title="F24 M3  ESPN",ESPN 1 HD
+http://cloudsalex.space:80/592693566/291894002/9014500.ts
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 1 SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/espn-1-4k.png" group-title="F24 M3  ESPN",ESPN 1 SD
+http://cloudsalex.space:80/592693566/291894002/9014501.ts
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/espn-2-4k.png" group-title="F24 M3  ESPN",ESPN 2 FHD
+http://cloudsalex.space:80/592693566/291894002/9014502.ts
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/espn-2-4k.png" group-title="F24 M3  ESPN",ESPN 2 HD
+http://cloudsalex.space:80/592693566/291894002/9014503.ts
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/espn-2-4k.png" group-title="F24 M3  ESPN",ESPN 2 SD
+http://cloudsalex.space:80/592693566/291894002/9014504.ts
+#EXTINF:-1 tvg-id="espn3.br" tvg-name="ESPN 3 FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/espn-3-4k.png" group-title="F24 M3  ESPN",ESPN 3 FHD
+http://cloudsalex.space:80/592693566/291894002/9014505.ts
+#EXTINF:-1 tvg-id="espn3.br" tvg-name="ESPN 3 HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/espn-3-4k.png" group-title="F24 M3  ESPN",ESPN 3 HD
+http://cloudsalex.space:80/592693566/291894002/9014506.ts
+#EXTINF:-1 tvg-id="espn3.br" tvg-name="ESPN 3 SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/espn-3-4k.png" group-title="F24 M3  ESPN",ESPN 3 SD
+http://cloudsalex.space:80/592693566/291894002/9014507.ts
+#EXTINF:-1 tvg-id="espn4.br" tvg-name="ESPN 4 FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/espn-4-4k.png" group-title="F24 M3  ESPN",ESPN 4 FHD
+http://cloudsalex.space:80/592693566/291894002/9014508.ts
+#EXTINF:-1 tvg-id="espn4.br" tvg-name="ESPN 4 HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/espn-4-4k.png" group-title="F24 M3  ESPN",ESPN 4 HD
+http://cloudsalex.space:80/592693566/291894002/9014509.ts
+#EXTINF:-1 tvg-id="espn4.br" tvg-name="ESPN 4 SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/espn-4-4k.png" group-title="F24 M3  ESPN",ESPN 4 SD
+http://cloudsalex.space:80/592693566/291894002/9014510.ts
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 5 FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/espn-5-fhd.png" group-title="F24 M3  ESPN",ESPN 5 FHD
+http://cloudsalex.space:80/592693566/291894002/9014511.ts
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 5 HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/espn-5-fhd.png" group-title="F24 M3  ESPN",ESPN 5 HD
+http://cloudsalex.space:80/592693566/291894002/9014512.ts
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 5 SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/espn-5-fhd.png" group-title="F24 M3  ESPN",ESPN 5 SD
+http://cloudsalex.space:80/592693566/291894002/9014513.ts
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 6 FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/espn-6-fhd.png" group-title="F24 M3  ESPN",ESPN 6 FHD
+http://cloudsalex.space:80/592693566/291894002/9014514.ts
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 6 HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/espn-6-fhd.png" group-title="F24 M3  ESPN",ESPN 6 HD
+http://cloudsalex.space:80/592693566/291894002/9014515.ts
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 6 SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/espn-6-fhd.png" group-title="F24 M3  ESPN",ESPN 6 SD
+http://cloudsalex.space:80/592693566/291894002/9014516.ts
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/combate-h265.png" group-title="F24 M3  ESPORTES",COMBATE FHD
+http://cloudsalex.space:80/592693566/291894002/9014517.ts
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/combate-h265.png" group-title="F24 M3  ESPORTES",COMBATE HD
+http://cloudsalex.space:80/592693566/291894002/9014518.ts
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/combate-h265.png" group-title="F24 M3  ESPORTES",COMBATE SD
+http://cloudsalex.space:80/592693566/291894002/9014519.ts
+#EXTINF:-1 tvg-id="dummy-665" tvg-name="PARAMOUNT+ 01" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/paramount-1.png" group-title="F24 M3  PARAMOUNT+",PARAMOUNT+ 01
+http://cloudsalex.space:80/592693566/291894002/9014520.ts
+#EXTINF:-1 tvg-id="dummy-666" tvg-name="PARAMOUNT+ 02" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/paramount-2.png" group-title="F24 M3  PARAMOUNT+",PARAMOUNT+ 02
+http://cloudsalex.space:80/592693566/291894002/9014521.ts
+#EXTINF:-1 tvg-id="dummy-667" tvg-name="PARAMOUNT+ 03" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/paramount-3.png" group-title="F24 M3  PARAMOUNT+",PARAMOUNT+ 03
+http://cloudsalex.space:80/592693566/291894002/9014522.ts
+#EXTINF:-1 tvg-id="dummy-665" tvg-name="PARAMOUNT+ 04" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/paramount-4.png" group-title="F24 M3  PARAMOUNT+",PARAMOUNT+ 04
+http://cloudsalex.space:80/592693566/291894002/9014523.ts
+#EXTINF:-1 tvg-id="dummy-866" tvg-name="SPORTYNET HD" tvg-logo="https://7svoficial.com/canais/sportynet.png" group-title="F24 M3  ESPORTES STREAMING",SPORTYNET HD
+http://cloudsalex.space:80/592693566/291894002/9014524.ts
+#EXTINF:-1 tvg-id="dummy-866" tvg-name="SPORTYNET+ 01" tvg-logo="https://7svoficial.com/canais/sportynet.png" group-title="F24 M3  ESPORTES STREAMING",SPORTYNET+ 01
+http://cloudsalex.space:80/592693566/291894002/9014525.ts
+#EXTINF:-1 tvg-id="dummy-867" tvg-name="SPORTYNET+ 02" tvg-logo="https://7svoficial.com/canais/sportynet.png" group-title="F24 M3  ESPORTES STREAMING",SPORTYNET+ 02
+http://cloudsalex.space:80/592693566/291894002/9014526.ts
+#EXTINF:-1 tvg-id="dummy-868" tvg-name="SPORTYNET+ 03" tvg-logo="https://7svoficial.com/canais/sportynet.png" group-title="F24 M3  ESPORTES STREAMING",SPORTYNET+ 03
+http://cloudsalex.space:80/592693566/291894002/9014527.ts
+#EXTINF:-1 tvg-id="" tvg-name="GETV FHD" tvg-logo="https://7svoficial.com/canais/ge-tv.png" group-title="F24 M3  ESPORTES STREAMING",GETV FHD
+http://cloudsalex.space:80/592693566/291894002/9014528.ts
+#EXTINF:-1 tvg-id="" tvg-name="GETV HD" tvg-logo="https://7svoficial.com/canais/ge-tv.png" group-title="F24 M3  ESPORTES STREAMING",GETV HD
+http://cloudsalex.space:80/592693566/291894002/9014529.ts
+#EXTINF:-1 tvg-id="" tvg-name="GETV SD" tvg-logo="https://7svoficial.com/canais/ge-tv.png" group-title="F24 M3  ESPORTES STREAMING",GETV SD
+http://cloudsalex.space:80/592693566/291894002/9014530.ts
+#EXTINF:-1 tvg-id="" tvg-name="FIFA+ HD" tvg-logo="https://7svoficial.com/canais/fifaplus.png" group-title="F24 M3  ESPORTES STREAMING",FIFA+ HD
+http://cloudsalex.space:80/592693566/291894002/9014531.ts
+#EXTINF:-1 tvg-id="dummy-758" tvg-name="RED BULL TV HD" tvg-logo="https://7svoficial.com/canais/redbull.png" group-title="F24 M3  ESPORTES STREAMING",RED BULL TV HD
+http://cloudsalex.space:80/592693566/291894002/9014532.ts
+#EXTINF:-1 tvg-id="dummy-987" tvg-name="XSPORTS HD" tvg-logo="https://7svoficial.com/canais/xsports.png" group-title="F24 M3  ESPORTES STREAMING",XSPORTS HD
+http://cloudsalex.space:80/592693566/291894002/9014533.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 01" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/hbo-max-1-fhd.png" group-title="F24 M3  ESPORTES STREAMING",HBO MAX 01
+http://cloudsalex.space:80/592693566/291894002/9014534.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 02" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/hbo-max-1-fhd.png" group-title="F24 M3  ESPORTES STREAMING",HBO MAX 02
+http://cloudsalex.space:80/592693566/291894002/9014535.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 03" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/hbo-max-1-fhd.png" group-title="F24 M3  ESPORTES STREAMING",HBO MAX 03
+http://cloudsalex.space:80/592693566/291894002/9014536.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 04" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/hbo-max-1-fhd.png" group-title="F24 M3  ESPORTES STREAMING",HBO MAX 04
+http://cloudsalex.space:80/592693566/291894002/9014537.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 05" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/hbo-max-1-fhd.png" group-title="F24 M3  ESPORTES STREAMING",HBO MAX 05
+http://cloudsalex.space:80/592693566/291894002/9014538.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 06" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/hbo-max-1-fhd.png" group-title="F24 M3  ESPORTES STREAMING",HBO MAX 06
+http://cloudsalex.space:80/592693566/291894002/9014539.ts
+#EXTINF:-1 tvg-id="dummy-607" tvg-name="HBO MAX 07" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/hbo-max-1-fhd.png" group-title="F24 M3  ESPORTES STREAMING",HBO MAX 07
+http://cloudsalex.space:80/592693566/291894002/9014540.ts
+#EXTINF:-1 tvg-id="dummy-608" tvg-name="HBO MAX 08" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/hbo-max-1-fhd.png" group-title="F24 M3  ESPORTES STREAMING",HBO MAX 08
+http://cloudsalex.space:80/592693566/291894002/9014541.ts
+#EXTINF:-1 tvg-id="dummy-298" tvg-name="DISNEY+ 01" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/disney.png" group-title="F24 M3  ESPORTES STREAMING",DISNEY+ 01
+http://cloudsalex.space:80/592693566/291894002/9014542.ts
+#EXTINF:-1 tvg-id="dummy-299" tvg-name="DISNEY+ 02" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/disney.png" group-title="F24 M3  ESPORTES STREAMING",DISNEY+ 02
+http://cloudsalex.space:80/592693566/291894002/9014543.ts
+#EXTINF:-1 tvg-id="dummy-300" tvg-name="DISNEY+ 03" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/disney.png" group-title="F24 M3  ESPORTES STREAMING",DISNEY+ 03
+http://cloudsalex.space:80/592693566/291894002/9014544.ts
+#EXTINF:-1 tvg-id="dummy-301" tvg-name="DISNEY+ 04" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/disney.png" group-title="F24 M3  ESPORTES STREAMING",DISNEY+ 04
+http://cloudsalex.space:80/592693566/291894002/9014545.ts
+#EXTINF:-1 tvg-id="dummy-302" tvg-name="DISNEY+ 05" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/disney.png" group-title="F24 M3  ESPORTES STREAMING",DISNEY+ 05
+http://cloudsalex.space:80/592693566/291894002/9014546.ts
+#EXTINF:-1 tvg-id="dummy-298" tvg-name="DISNEY+ 06" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/disney.png" group-title="F24 M3  ESPORTES STREAMING",DISNEY+ 06
+http://cloudsalex.space:80/592693566/291894002/9014547.ts
+#EXTINF:-1 tvg-id="dummy-298" tvg-name="DISNEY+ 07" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/disney.png" group-title="F24 M3  ESPORTES STREAMING",DISNEY+ 07
+http://cloudsalex.space:80/592693566/291894002/9014548.ts
+#EXTINF:-1 tvg-id="dummy-298" tvg-name="DISNEY+ 08" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/disney.png" group-title="F24 M3  ESPORTES STREAMING",DISNEY+ 08
+http://cloudsalex.space:80/592693566/291894002/9014549.ts
+#EXTINF:-1 tvg-id="dummy-648" tvg-name="NSPORTS 01" tvg-logo="https://7svoficial.com/canais/nsports.png" group-title="F24 M3  ESPORTES STREAMING",NSPORTS 01
+http://cloudsalex.space:80/592693566/291894002/9014550.ts
+#EXTINF:-1 tvg-id="dummy-648" tvg-name="NSPORTS 02" tvg-logo="https://7svoficial.com/canais/nsports.png" group-title="F24 M3  ESPORTES STREAMING",NSPORTS 02
+http://cloudsalex.space:80/592693566/291894002/9014551.ts
+#EXTINF:-1 tvg-id="dummy-648" tvg-name="NSPORTS 03" tvg-logo="https://7svoficial.com/canais/nsports.png" group-title="F24 M3  ESPORTES STREAMING",NSPORTS 03
+http://cloudsalex.space:80/592693566/291894002/9014552.ts
+#EXTINF:-1 tvg-id="dummy-225" tvg-name="CAZÉTV 01" tvg-logo="https://7svoficial.com/canais/cazetv.png" group-title="F24 M3  ESPORTES STREAMING",CAZÉTV 01
+http://cloudsalex.space:80/592693566/291894002/9014553.ts
+#EXTINF:-1 tvg-id="dummy-225" tvg-name="CAZÉTV 02" tvg-logo="https://7svoficial.com/canais/cazetv.png" group-title="F24 M3  ESPORTES STREAMING",CAZÉTV 02
+http://cloudsalex.space:80/592693566/291894002/9014554.ts
+#EXTINF:-1 tvg-id="dummy-225" tvg-name="CAZÉTV 03" tvg-logo="https://7svoficial.com/canais/cazetv.png" group-title="F24 M3  ESPORTES STREAMING",CAZÉTV 03
+http://cloudsalex.space:80/592693566/291894002/9014555.ts
+#EXTINF:-1 tvg-id="dummy-225" tvg-name="CAZÉTV 04" tvg-logo="https://7svoficial.com/canais/cazetv.png" group-title="F24 M3  ESPORTES STREAMING",CAZÉTV 04
+http://cloudsalex.space:80/592693566/291894002/9014556.ts
+#EXTINF:-1 tvg-id="dummy-225" tvg-name="CAZÉTV 05" tvg-logo="https://7svoficial.com/canais/cazetv.png" group-title="F24 M3  ESPORTES STREAMING",CAZÉTV 05
+http://cloudsalex.space:80/592693566/291894002/9014557.ts
+#EXTINF:-1 tvg-id="dummy-225" tvg-name="CAZÉTV 06" tvg-logo="https://7svoficial.com/canais/cazetv.png" group-title="F24 M3  ESPORTES STREAMING",CAZÉTV 06
+http://cloudsalex.space:80/592693566/291894002/9014558.ts
+#EXTINF:-1 tvg-id="dummy-225" tvg-name="CAZÉTV 07" tvg-logo="https://7svoficial.com/canais/cazetv.png" group-title="F24 M3  ESPORTES STREAMING",CAZÉTV 07
+http://cloudsalex.space:80/592693566/291894002/9014559.ts
+#EXTINF:-1 tvg-id="dummy-225" tvg-name="CAZÉTV 08" tvg-logo="https://7svoficial.com/canais/cazetv.png" group-title="F24 M3  ESPORTES STREAMING",CAZÉTV 08
+http://cloudsalex.space:80/592693566/291894002/9014560.ts
+#EXTINF:-1 tvg-id="dummy-701" tvg-name="PRIME VIDEO 01" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/prime-video-02.png" group-title="F24 M3  PRIME VIDEO",PRIME VIDEO 01
+http://cloudsalex.space:80/592693566/291894002/9014561.ts
+#EXTINF:-1 tvg-id="dummy-701" tvg-name="PRIME VIDEO 02" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/prime-video-02.png" group-title="F24 M3  PRIME VIDEO",PRIME VIDEO 02
+http://cloudsalex.space:80/592693566/291894002/9014562.ts
+#EXTINF:-1 tvg-id="dummy-701" tvg-name="PRIME VIDEO 03" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/prime-video-02.png" group-title="F24 M3  PRIME VIDEO",PRIME VIDEO 03
+http://cloudsalex.space:80/592693566/291894002/9014563.ts
+#EXTINF:-1 tvg-id="dummy-701" tvg-name="PRIME VIDEO 04" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/prime-video-02.png" group-title="F24 M3  PRIME VIDEO",PRIME VIDEO 04
+http://cloudsalex.space:80/592693566/291894002/9014564.ts
+#EXTINF:-1 tvg-id="dummy-701" tvg-name="PRIME VIDEO 05" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/prime-video-02.png" group-title="F24 M3  PRIME VIDEO",PRIME VIDEO 05
+http://cloudsalex.space:80/592693566/291894002/9014565.ts
+#EXTINF:-1 tvg-id="dummy-701" tvg-name="PRIME VIDEO 06" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/prime-video-02.png" group-title="F24 M3  PRIME VIDEO",PRIME VIDEO 06
+http://cloudsalex.space:80/592693566/291894002/9014566.ts
+#EXTINF:-1 tvg-id="dummy-701" tvg-name="PRIME VIDEO 07" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/prime-video-02.png" group-title="F24 M3  PRIME VIDEO",PRIME VIDEO 07
+http://cloudsalex.space:80/592693566/291894002/9014567.ts
+#EXTINF:-1 tvg-id="dummy-701" tvg-name="PRIME VIDEO 08" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/prime-video-02.png" group-title="F24 M3  PRIME VIDEO",PRIME VIDEO 08
+http://cloudsalex.space:80/592693566/291894002/9014568.ts
+#EXTINF:-1 tvg-id="dummy-639" tvg-name="NETFLIX LIVE HD" tvg-logo="https://7svoficial.com/canais/netflixlive.png" group-title="F24 M3  ESPORTES STREAMING",NETFLIX LIVE HD
+http://cloudsalex.space:80/592693566/291894002/9014569.ts
+#EXTINF:-1 tvg-id="dummy-964" tvg-name="UFC FIGHT PASS 01" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/ufc-fight-pass-fhd.png" group-title="F24 M3  ESPORTES STREAMING",UFC FIGHT PASS 01
+http://cloudsalex.space:80/592693566/291894002/9014570.ts
+#EXTINF:-1 tvg-id="dummy-965" tvg-name="UFC FIGHT PASS 02" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/ufc-fight-pass-fhd.png" group-title="F24 M3  ESPORTES STREAMING",UFC FIGHT PASS 02
+http://cloudsalex.space:80/592693566/291894002/9014571.ts
+#EXTINF:-1 tvg-id="dummy-966" tvg-name="UFC FIGHT PASS 03" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/ufc-fight-pass-fhd.png" group-title="F24 M3  ESPORTES STREAMING",UFC FIGHT PASS 03
+http://cloudsalex.space:80/592693566/291894002/9014572.ts
+#EXTINF:-1 tvg-id="" tvg-name="FÓRMULA 1 TV" tvg-logo="https://7svoficial.com/canais/formula1.png" group-title="F24 M3  ESPORTES STREAMING",FÓRMULA 1 TV
+http://cloudsalex.space:80/592693566/291894002/9014573.ts
+#EXTINF:-1 tvg-id="dummy-264" tvg-name="DAZN 01" tvg-logo="https://7svoficial.com/canais/dazn.png" group-title="F24 M3  ESPORTES STREAMING",DAZN 01
+http://cloudsalex.space:80/592693566/291894002/9014574.ts
+#EXTINF:-1 tvg-id="dummy-264" tvg-name="DAZN 02" tvg-logo="https://7svoficial.com/canais/dazn.png" group-title="F24 M3  ESPORTES STREAMING",DAZN 02
+http://cloudsalex.space:80/592693566/291894002/9014575.ts
+#EXTINF:-1 tvg-id="dummy-264" tvg-name="DAZN 03" tvg-logo="https://7svoficial.com/canais/dazn.png" group-title="F24 M3  ESPORTES STREAMING",DAZN 03
+http://cloudsalex.space:80/592693566/291894002/9014576.ts
+#EXTINF:-1 tvg-id="dummy-264" tvg-name="DAZN 04" tvg-logo="https://7svoficial.com/canais/dazn.png" group-title="F24 M3  ESPORTES STREAMING",DAZN 04
+http://cloudsalex.space:80/592693566/291894002/9014577.ts
+#EXTINF:-1 tvg-id="dummy-264" tvg-name="DAZN 05" tvg-logo="https://7svoficial.com/canais/dazn.png" group-title="F24 M3  ESPORTES STREAMING",DAZN 05
+http://cloudsalex.space:80/592693566/291894002/9014578.ts
+#EXTINF:-1 tvg-id="dummy-264" tvg-name="DAZN 06" tvg-logo="https://7svoficial.com/canais/dazn.png" group-title="F24 M3  ESPORTES STREAMING",DAZN 06
+http://cloudsalex.space:80/592693566/291894002/9014579.ts
+#EXTINF:-1 tvg-id="dummy-208" tvg-name="CANAL GOAT 01" tvg-logo="https://7svoficial.com/canais/canalgoat.png" group-title="F24 M3  ESPORTES STREAMING",CANAL GOAT 01
+http://cloudsalex.space:80/592693566/291894002/9014580.ts
+#EXTINF:-1 tvg-id="dummy-208" tvg-name="CANAL GOAT 02" tvg-logo="https://7svoficial.com/canais/canalgoat.png" group-title="F24 M3  ESPORTES STREAMING",CANAL GOAT 02
+http://cloudsalex.space:80/592693566/291894002/9014581.ts
+#EXTINF:-1 tvg-id="dummy-208" tvg-name="CANAL GOAT 03" tvg-logo="https://7svoficial.com/canais/canalgoat.png" group-title="F24 M3  ESPORTES STREAMING",CANAL GOAT 03
+http://cloudsalex.space:80/592693566/291894002/9014582.ts
+#EXTINF:-1 tvg-id="dummy-1126" tvg-name="NBA LEAGUE PASS 01" tvg-logo="https://7svoficial.com/canais/nba.png" group-title="F24 M3  ESPORTES STREAMING",NBA LEAGUE PASS 01
+http://cloudsalex.space:80/592693566/291894002/9014583.ts
+#EXTINF:-1 tvg-id="dummy-1125" tvg-name="NBA LEAGUE PASS 02" tvg-logo="https://7svoficial.com/canais/nba.png" group-title="F24 M3  ESPORTES STREAMING",NBA LEAGUE PASS 02
+http://cloudsalex.space:80/592693566/291894002/9014584.ts
+#EXTINF:-1 tvg-id="dummy-1124" tvg-name="NBA LEAGUE PASS 03" tvg-logo="https://7svoficial.com/canais/nba.png" group-title="F24 M3  ESPORTES STREAMING",NBA LEAGUE PASS 03
+http://cloudsalex.space:80/592693566/291894002/9014585.ts
+#EXTINF:-1 tvg-id="dummy-1123" tvg-name="NBA LEAGUE PASS 04" tvg-logo="https://7svoficial.com/canais/nba.png" group-title="F24 M3  ESPORTES STREAMING",NBA LEAGUE PASS 04
+http://cloudsalex.space:80/592693566/291894002/9014586.ts
+#EXTINF:-1 tvg-id="dummy-1122" tvg-name="NBA LEAGUE PASS 05" tvg-logo="https://7svoficial.com/canais/nba.png" group-title="F24 M3  ESPORTES STREAMING",NBA LEAGUE PASS 05
+http://cloudsalex.space:80/592693566/291894002/9014587.ts
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/discovery-channel-4k.png" group-title="F24 M3  DISCOVERY",DISCOVERY CHANNEL FHD
+http://cloudsalex.space:80/592693566/291894002/9014588.ts
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/discovery-channel-4k.png" group-title="F24 M3  DISCOVERY",DISCOVERY CHANNEL HD
+http://cloudsalex.space:80/592693566/291894002/9014589.ts
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/discovery-channel-4k.png" group-title="F24 M3  DISCOVERY",DISCOVERY CHANNEL SD
+http://cloudsalex.space:80/592693566/291894002/9014590.ts
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY H&H FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/discoveryhomehealth.png" group-title="F24 M3  DISCOVERY",DISCOVERY H&H FHD
+http://cloudsalex.space:80/592693566/291894002/9014591.ts
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY H&H HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/discoveryhomehealth.png" group-title="F24 M3  DISCOVERY",DISCOVERY H&H HD
+http://cloudsalex.space:80/592693566/291894002/9014592.ts
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY H&H SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/discoveryhomehealth.png" group-title="F24 M3  DISCOVERY",DISCOVERY H&H SD
+http://cloudsalex.space:80/592693566/291894002/9014593.ts
+#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="DISCOVERY SCIENCE FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/discovery-science-4k.png" group-title="F24 M3  DISCOVERY",DISCOVERY SCIENCE FHD
+http://cloudsalex.space:80/592693566/291894002/9014594.ts
+#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/discovery-science-4k.png" group-title="F24 M3  DISCOVERY",DISCOVERY SCIENCE HD
+http://cloudsalex.space:80/592693566/291894002/9014595.ts
+#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="DISCOVERY SCIENCE SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/discovery-science-4k.png" group-title="F24 M3  DISCOVERY",DISCOVERY SCIENCE SD
+http://cloudsalex.space:80/592693566/291894002/9014596.ts
+#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="DISCOVERY THEATER FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/discoverytheater.png" group-title="F24 M3  DISCOVERY",DISCOVERY THEATER FHD
+http://cloudsalex.space:80/592693566/291894002/9014597.ts
+#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="DISCOVERY THEATER HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/discoverytheater.png" group-title="F24 M3  DISCOVERY",DISCOVERY THEATER HD
+http://cloudsalex.space:80/592693566/291894002/9014598.ts
+#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="DISCOVERY THEATER SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/discoverytheater.png" group-title="F24 M3  DISCOVERY",DISCOVERY THEATER SD
+http://cloudsalex.space:80/592693566/291894002/9014599.ts
+#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="DISCOVERY TURBO FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/discoveryturbo.png" group-title="F24 M3  DISCOVERY",DISCOVERY TURBO FHD
+http://cloudsalex.space:80/592693566/291894002/9014600.ts
+#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/discoveryturbo.png" group-title="F24 M3  DISCOVERY",DISCOVERY TURBO HD
+http://cloudsalex.space:80/592693566/291894002/9014601.ts
+#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="DISCOVERY TURBO SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/discoveryturbo.png" group-title="F24 M3  DISCOVERY",DISCOVERY TURBO SD
+http://cloudsalex.space:80/592693566/291894002/9014602.ts
+#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="DISCOVERY WORLD FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/discoveryworld.png" group-title="F24 M3  DISCOVERY",DISCOVERY WORLD FHD
+http://cloudsalex.space:80/592693566/291894002/9014603.ts
+#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="DISCOVERY WORLD HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/discoveryworld.png" group-title="F24 M3  DISCOVERY",DISCOVERY WORLD HD
+http://cloudsalex.space:80/592693566/291894002/9014604.ts
+#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="DISCOVERY WORLD SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/discoveryworld.png" group-title="F24 M3  DISCOVERY",DISCOVERY WORLD SD
+http://cloudsalex.space:80/592693566/291894002/9014605.ts
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="ANIMAL PLANET FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/animal-planet-uhd.png" group-title="F24 M3  DOCUMENTÁRIOS",ANIMAL PLANET FHD
+http://cloudsalex.space:80/592693566/291894002/9014606.ts
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/animal-planet-uhd.png" group-title="F24 M3  DOCUMENTÁRIOS",ANIMAL PLANET HD
+http://cloudsalex.space:80/592693566/291894002/9014607.ts
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="ANIMAL PLANET SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/animal-planet-uhd.png" group-title="F24 M3  DOCUMENTÁRIOS",ANIMAL PLANET SD
+http://cloudsalex.space:80/592693566/291894002/9014608.ts
+#EXTINF:-1 tvg-id="historychannel.br" tvg-name="HISTORY CHANNEL FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/history-hd-alt.png" group-title="F24 M3  DOCUMENTÁRIOS",HISTORY CHANNEL FHD
+http://cloudsalex.space:80/592693566/291894002/9014609.ts
+#EXTINF:-1 tvg-id="historychannel.br" tvg-name="HISTORY CHANNEL HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/history-hd-alt.png" group-title="F24 M3  DOCUMENTÁRIOS",HISTORY CHANNEL HD
+http://cloudsalex.space:80/592693566/291894002/9014610.ts
+#EXTINF:-1 tvg-id="historychannel.br" tvg-name="HISTORY CHANNEL SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/history-hd-alt.png" group-title="F24 M3  DOCUMENTÁRIOS",HISTORY CHANNEL SD
+http://cloudsalex.space:80/592693566/291894002/9014611.ts
+#EXTINF:-1 tvg-id="" tvg-name="H2 FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/history2.png" group-title="F24 M3  DOCUMENTÁRIOS",H2 FHD
+http://cloudsalex.space:80/592693566/291894002/9014612.ts
+#EXTINF:-1 tvg-id="" tvg-name="H2 HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/history2.png" group-title="F24 M3  DOCUMENTÁRIOS",H2 HD
+http://cloudsalex.space:80/592693566/291894002/9014613.ts
+#EXTINF:-1 tvg-id="" tvg-name="H2 SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/history2.png" group-title="F24 M3  DOCUMENTÁRIOS",H2 SD
+http://cloudsalex.space:80/592693566/291894002/9014614.ts
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/hgtv-fhd.png" group-title="F24 M3  DOCUMENTÁRIOS",HGTV FHD
+http://cloudsalex.space:80/592693566/291894002/9014615.ts
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/hgtv-fhd.png" group-title="F24 M3  DOCUMENTÁRIOS",HGTV HD
+http://cloudsalex.space:80/592693566/291894002/9014616.ts
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/hgtv-fhd.png" group-title="F24 M3  DOCUMENTÁRIOS",HGTV SD
+http://cloudsalex.space:80/592693566/291894002/9014617.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/investigacao-discovery-hd-alt.png" group-title="F24 M3  DOCUMENTÁRIOS",ID FHD
+http://cloudsalex.space:80/592693566/291894002/9014618.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/investigacao-discovery-hd-alt.png" group-title="F24 M3  DOCUMENTÁRIOS",ID HD
+http://cloudsalex.space:80/592693566/291894002/9014619.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/investigacao-discovery-hd-alt.png" group-title="F24 M3  DOCUMENTÁRIOS",ID SD
+http://cloudsalex.space:80/592693566/291894002/9014620.ts
+#EXTINF:-1 tvg-id="" tvg-name="BABYTV FHD" tvg-logo="https://7svoficial.com/canais/babytv.png" group-title="F24 M3  INFANTIL",BABYTV FHD
+http://cloudsalex.space:80/592693566/291894002/9014621.ts
+#EXTINF:-1 tvg-id="" tvg-name="BABYTV HD" tvg-logo="https://7svoficial.com/canais/babytv.png" group-title="F24 M3  INFANTIL",BABYTV HD
+http://cloudsalex.space:80/592693566/291894002/9014622.ts
+#EXTINF:-1 tvg-id="cartoonito.br" tvg-name="CARTOONITO FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/cartoonito-fhd.png" group-title="F24 M3  INFANTIL",CARTOONITO FHD
+http://cloudsalex.space:80/592693566/291894002/9014623.ts
+#EXTINF:-1 tvg-id="cartoonito.br" tvg-name="CARTOONITO HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/cartoonito-fhd.png" group-title="F24 M3  INFANTIL",CARTOONITO HD
+http://cloudsalex.space:80/592693566/291894002/9014624.ts
+#EXTINF:-1 tvg-id="cartoonito.br" tvg-name="CARTOONITO SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/cartoonito-fhd.png" group-title="F24 M3  INFANTIL",CARTOONITO SD
+http://cloudsalex.space:80/592693566/291894002/9014625.ts
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="CARTOON NETWORK FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/cartoon-network-fhd.png" group-title="F24 M3  INFANTIL",CARTOON NETWORK FHD
+http://cloudsalex.space:80/592693566/291894002/9014626.ts
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="CARTOON NETWORK HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/cartoon-network-fhd.png" group-title="F24 M3  INFANTIL",CARTOON NETWORK HD
+http://cloudsalex.space:80/592693566/291894002/9014627.ts
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="CARTOON NETWORK SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/cartoon-network-fhd.png" group-title="F24 M3  INFANTIL",CARTOON NETWORK SD
+http://cloudsalex.space:80/592693566/291894002/9014628.ts
+#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="DISCOVERY KIDS FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/discovery-kids-4k.png" group-title="F24 M3  INFANTIL",DISCOVERY KIDS FHD
+http://cloudsalex.space:80/592693566/291894002/9014629.ts
+#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="DISCOVERY KIDS HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/discovery-kids-4k.png" group-title="F24 M3  INFANTIL",DISCOVERY KIDS HD
+http://cloudsalex.space:80/592693566/291894002/9014630.ts
+#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="DISCOVERY KIDS SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/discovery-kids-4k.png" group-title="F24 M3  INFANTIL",DISCOVERY KIDS SD
+http://cloudsalex.space:80/592693566/291894002/9014631.ts
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/gloob-fhd-alt.png" group-title="F24 M3  INFANTIL",GLOOB FHD
+http://cloudsalex.space:80/592693566/291894002/9014632.ts
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/gloob-fhd-alt.png" group-title="F24 M3  INFANTIL",GLOOB HD
+http://cloudsalex.space:80/592693566/291894002/9014633.ts
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/gloob-fhd-alt.png" group-title="F24 M3  INFANTIL",GLOOB SD
+http://cloudsalex.space:80/592693566/291894002/9014634.ts
+#EXTINF:-1 tvg-id="gloobinho.br" tvg-name="GLOOBINHO FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/gloobinho-fhd.png" group-title="F24 M3  INFANTIL",GLOOBINHO FHD
+http://cloudsalex.space:80/592693566/291894002/9014635.ts
+#EXTINF:-1 tvg-id="gloobinho.br" tvg-name="GLOOBINHO HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/gloobinho-fhd.png" group-title="F24 M3  INFANTIL",GLOOBINHO HD
+http://cloudsalex.space:80/592693566/291894002/9014636.ts
+#EXTINF:-1 tvg-id="gloobinho.br" tvg-name="GLOOBINHO SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/gloobinho-fhd.png" group-title="F24 M3  INFANTIL",GLOOBINHO SD
+http://cloudsalex.space:80/592693566/291894002/9014637.ts
+#EXTINF:-1 tvg-id="nickjr..br" tvg-name="NICK JR FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/nickelodeon-fhd.png" group-title="F24 M3  INFANTIL",NICK JR FHD
+http://cloudsalex.space:80/592693566/291894002/9014638.ts
+#EXTINF:-1 tvg-id="nickjr..br" tvg-name="NICK JR HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/nickelodeon-fhd.png" group-title="F24 M3  INFANTIL",NICK JR HD
+http://cloudsalex.space:80/592693566/291894002/9014639.ts
+#EXTINF:-1 tvg-id="nickjr..br" tvg-name="NICK JR SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/nickelodeon-fhd.png" group-title="F24 M3  INFANTIL",NICK JR SD
+http://cloudsalex.space:80/592693566/291894002/9014640.ts
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/nickelodeon-fhd.png" group-title="F24 M3  INFANTIL",NICKELODEON FHD
+http://cloudsalex.space:80/592693566/291894002/9014641.ts
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/nickelodeon-fhd.png" group-title="F24 M3  INFANTIL",NICKELODEON HD
+http://cloudsalex.space:80/592693566/291894002/9014642.ts
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/nickelodeon-fhd.png" group-title="F24 M3  INFANTIL",NICKELODEON SD
+http://cloudsalex.space:80/592693566/291894002/9014643.ts
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="TOONCAST HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/tooncast-hd.png" group-title="F24 M3  INFANTIL",TOONCAST HD
+http://cloudsalex.space:80/592693566/291894002/9014644.ts
+#EXTINF:-1 tvg-id="ratimbum.br" tvg-name="TV RÁTIMBUM FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/tv-ratimbum-hd.png" group-title="F24 M3  INFANTIL",TV RÁTIMBUM FHD
+http://cloudsalex.space:80/592693566/291894002/9014645.ts
+#EXTINF:-1 tvg-id="ratimbum.br" tvg-name="TV RÁTIMBUM HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/tv-ratimbum-hd.png" group-title="F24 M3  INFANTIL",TV RÁTIMBUM HD
+http://cloudsalex.space:80/592693566/291894002/9014646.ts
+#EXTINF:-1 tvg-id="ratimbum.br" tvg-name="TV RÁTIMBUM SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/tv-ratimbum-hd.png" group-title="F24 M3  INFANTIL",TV RÁTIMBUM SD
+http://cloudsalex.space:80/592693566/291894002/9014647.ts
+#EXTINF:-1 tvg-id="" tvg-name="DUMDUM FHD" tvg-logo="https://7svoficial.com/canais/dumdum.png" group-title="F24 M3  INFANTIL",DUMDUM FHD
+http://cloudsalex.space:80/592693566/291894002/9014648.ts
+#EXTINF:-1 tvg-id="" tvg-name="DUMDUM HD" tvg-logo="https://7svoficial.com/canais/dumdum.png" group-title="F24 M3  INFANTIL",DUMDUM HD
+http://cloudsalex.space:80/592693566/291894002/9014649.ts
+#EXTINF:-1 tvg-id="" tvg-name="DUMDUM SD" tvg-logo="https://7svoficial.com/canais/dumdum.png" group-title="F24 M3  INFANTIL",DUMDUM SD
+http://cloudsalex.space:80/592693566/291894002/9014650.ts
+#EXTINF:-1 tvg-id="arte1.br" tvg-name="ARTE1 FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/arte-1-fhd.png" group-title="F24 M3  VARIEDADES",ARTE1 FHD
+http://cloudsalex.space:80/592693566/291894002/9014651.ts
+#EXTINF:-1 tvg-id="arte1.br" tvg-name="ARTE1 HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/arte-1-fhd.png" group-title="F24 M3  VARIEDADES",ARTE1 HD
+http://cloudsalex.space:80/592693566/291894002/9014652.ts
+#EXTINF:-1 tvg-id="arte1.br" tvg-name="ARTE1 SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/arte-1-fhd.png" group-title="F24 M3  VARIEDADES",ARTE1 SD
+http://cloudsalex.space:80/592693566/291894002/9014653.ts
+#EXTINF:-1 tvg-id="adultswim.br" tvg-name="ADULT SWIM FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/adultswim.png" group-title="F24 M3  VARIEDADES",ADULT SWIM FHD
+http://cloudsalex.space:80/592693566/291894002/9014654.ts
+#EXTINF:-1 tvg-id="adultswim.br" tvg-name="ADULT SWIM HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/adultswim.png" group-title="F24 M3  VARIEDADES",ADULT SWIM HD
+http://cloudsalex.space:80/592693566/291894002/9014655.ts
+#EXTINF:-1 tvg-id="adultswim.br" tvg-name="ADULT SWIM SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/adultswim.png" group-title="F24 M3  VARIEDADES",ADULT SWIM SD
+http://cloudsalex.space:80/592693566/291894002/9014656.ts
+#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="CANAL BRASIL FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/canal-brasil-4k.png" group-title="F24 M3  VARIEDADES",CANAL BRASIL FHD
+http://cloudsalex.space:80/592693566/291894002/9014657.ts
+#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="CANAL BRASIL HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/canal-brasil-4k.png" group-title="F24 M3  VARIEDADES",CANAL BRASIL HD
+http://cloudsalex.space:80/592693566/291894002/9014658.ts
+#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="CANAL BRASIL SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/canal-brasil-4k.png" group-title="F24 M3  VARIEDADES",CANAL BRASIL SD
+http://cloudsalex.space:80/592693566/291894002/9014659.ts
+#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="COMEDY CENTRAL FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/comedy-central-fhd.png" group-title="F24 M3  VARIEDADES",COMEDY CENTRAL FHD
+http://cloudsalex.space:80/592693566/291894002/9014660.ts
+#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/comedy-central-fhd.png" group-title="F24 M3  VARIEDADES",COMEDY CENTRAL HD
+http://cloudsalex.space:80/592693566/291894002/9014661.ts
+#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="COMEDY CENTRAL SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/comedy-central-fhd.png" group-title="F24 M3  VARIEDADES",COMEDY CENTRAL SD
+http://cloudsalex.space:80/592693566/291894002/9014662.ts
+#EXTINF:-1 tvg-id="curta!.br" tvg-name="CURTA! FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/curta-hd.jpg" group-title="F24 M3  VARIEDADES",CURTA! FHD
+http://cloudsalex.space:80/592693566/291894002/9014663.ts
+#EXTINF:-1 tvg-id="curta!.br" tvg-name="CURTA! HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/curta-hd.jpg" group-title="F24 M3  VARIEDADES",CURTA! HD
+http://cloudsalex.space:80/592693566/291894002/9014664.ts
+#EXTINF:-1 tvg-id="curta!.br" tvg-name="CURTA! SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/curta-hd.jpg" group-title="F24 M3  VARIEDADES",CURTA! SD
+http://cloudsalex.space:80/592693566/291894002/9014665.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL OFF FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/off-4k.png" group-title="F24 M3  VARIEDADES",CANAL OFF FHD
+http://cloudsalex.space:80/592693566/291894002/9014666.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL OFF HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/off-4k.png" group-title="F24 M3  VARIEDADES",CANAL OFF HD
+http://cloudsalex.space:80/592693566/291894002/9014667.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL OFF SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/off-4k.png" group-title="F24 M3  VARIEDADES",CANAL OFF SD
+http://cloudsalex.space:80/592693566/291894002/9014668.ts
+#EXTINF:-1 tvg-id="dogtv.br" tvg-name="DOGTV FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/dogtv-fhd.png" group-title="F24 M3  VARIEDADES",DOGTV FHD
+http://cloudsalex.space:80/592693566/291894002/9014669.ts
+#EXTINF:-1 tvg-id="dogtv.br" tvg-name="DOGTV HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/dogtv-fhd.png" group-title="F24 M3  VARIEDADES",DOGTV HD
+http://cloudsalex.space:80/592693566/291894002/9014670.ts
+#EXTINF:-1 tvg-id="dogtv.br" tvg-name="DOGTV SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/dogtv-fhd.png" group-title="F24 M3  VARIEDADES",DOGTV SD
+http://cloudsalex.space:80/592693566/291894002/9014671.ts
+#EXTINF:-1 tvg-id="e.br" tvg-name="E! FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/e-fhd.png" group-title="F24 M3  VARIEDADES",E! FHD
+http://cloudsalex.space:80/592693566/291894002/9014672.ts
+#EXTINF:-1 tvg-id="e.br" tvg-name="E! HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/e-fhd.png" group-title="F24 M3  VARIEDADES",E! HD
+http://cloudsalex.space:80/592693566/291894002/9014673.ts
+#EXTINF:-1 tvg-id="e.br" tvg-name="E! SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/e-fhd.png" group-title="F24 M3  VARIEDADES",E! SD
+http://cloudsalex.space:80/592693566/291894002/9014674.ts
+#EXTINF:-1 tvg-id="fashiontv.br" tvg-name="FASHION TV HD" tvg-logo="http://32q0d.xyz/images/logos/fashiontv_logo_blue_vertical-1.png" group-title="F24 M3  VARIEDADES",FASHION TV HD
+http://cloudsalex.space:80/592693566/291894002/9014675.ts
+#EXTINF:-1 tvg-id="film&arts.br" tvg-name="FILM&ARTS FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/film-e-arts.png" group-title="F24 M3  VARIEDADES",FILM&ARTS FHD
+http://cloudsalex.space:80/592693566/291894002/9014676.ts
+#EXTINF:-1 tvg-id="film&arts.br" tvg-name="FILM&ARTS HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/film-e-arts.png" group-title="F24 M3  VARIEDADES",FILM&ARTS HD
+http://cloudsalex.space:80/592693566/291894002/9014677.ts
+#EXTINF:-1 tvg-id="film&arts.br" tvg-name="FILM&ARTS SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/film-e-arts.png" group-title="F24 M3  VARIEDADES",FILM&ARTS SD
+http://cloudsalex.space:80/592693566/291894002/9014678.ts
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="FISH TV FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/fish-tv-fhd.png" group-title="F24 M3  VARIEDADES",FISH TV FHD
+http://cloudsalex.space:80/592693566/291894002/9014679.ts
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="FISH TV HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/fish-tv-fhd.png" group-title="F24 M3  VARIEDADES",FISH TV HD
+http://cloudsalex.space:80/592693566/291894002/9014680.ts
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="FISH TV SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/fish-tv-fhd.png" group-title="F24 M3  VARIEDADES",FISH TV SD
+http://cloudsalex.space:80/592693566/291894002/9014681.ts
+#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="FOOD NETWORK FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/food-network-fhd.png" group-title="F24 M3  VARIEDADES",FOOD NETWORK FHD
+http://cloudsalex.space:80/592693566/291894002/9014682.ts
+#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="FOOD NETWORK HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/food-network-fhd.png" group-title="F24 M3  VARIEDADES",FOOD NETWORK HD
+http://cloudsalex.space:80/592693566/291894002/9014683.ts
+#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="FOOD NETWORK SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/food-network-fhd.png" group-title="F24 M3  VARIEDADES",FOOD NETWORK SD
+http://cloudsalex.space:80/592693566/291894002/9014684.ts
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/gnt-4k.png" group-title="F24 M3  VARIEDADES",GNT FHD
+http://cloudsalex.space:80/592693566/291894002/9014685.ts
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/gnt-4k.png" group-title="F24 M3  VARIEDADES",GNT HD
+http://cloudsalex.space:80/592693566/291894002/9014686.ts
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/gnt-4k.png" group-title="F24 M3  VARIEDADES",GNT SD
+http://cloudsalex.space:80/592693566/291894002/9014687.ts
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="LIFETIME FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/lifetime-fhd.png" group-title="F24 M3  VARIEDADES",LIFETIME FHD
+http://cloudsalex.space:80/592693566/291894002/9014688.ts
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="LIFETIME HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/lifetime-fhd.png" group-title="F24 M3  VARIEDADES",LIFETIME HD
+http://cloudsalex.space:80/592693566/291894002/9014689.ts
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="LIFETIME SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/lifetime-fhd.png" group-title="F24 M3  VARIEDADES",LIFETIME SD
+http://cloudsalex.space:80/592693566/291894002/9014690.ts
+#EXTINF:-1 tvg-id="modoviagem.br" tvg-name="MODO VIAGEM FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/modo-viagem-fhd.png" group-title="F24 M3  VARIEDADES",MODO VIAGEM FHD
+http://cloudsalex.space:80/592693566/291894002/9014691.ts
+#EXTINF:-1 tvg-id="modoviagem.br" tvg-name="MODO VIAGEM HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/modo-viagem-fhd.png" group-title="F24 M3  VARIEDADES",MODO VIAGEM HD
+http://cloudsalex.space:80/592693566/291894002/9014692.ts
+#EXTINF:-1 tvg-id="modoviagem.br" tvg-name="MODO VIAGEM SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/modo-viagem-fhd.png" group-title="F24 M3  VARIEDADES",MODO VIAGEM SD
+http://cloudsalex.space:80/592693566/291894002/9014693.ts
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/tlc-uhd.png" group-title="F24 M3  VARIEDADES",TLC FHD
+http://cloudsalex.space:80/592693566/291894002/9014694.ts
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/tlc-uhd.png" group-title="F24 M3  VARIEDADES",TLC HD
+http://cloudsalex.space:80/592693566/291894002/9014695.ts
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/tlc-uhd.png" group-title="F24 M3  VARIEDADES",TLC SD
+http://cloudsalex.space:80/592693566/291894002/9014696.ts
+#EXTINF:-1 tvg-id="" tvg-name="TRIP BRASIL CHANNEL FHD" tvg-logo="https://7svoficial.com/canais/tbc.png" group-title="F24 M3  VARIEDADES",TRIP BRASIL CHANNEL FHD
+http://cloudsalex.space:80/592693566/291894002/9014697.ts
+#EXTINF:-1 tvg-id="" tvg-name="TRIP BRASIL CHANNEL HD" tvg-logo="https://7svoficial.com/canais/tbc.png" group-title="F24 M3  VARIEDADES",TRIP BRASIL CHANNEL HD
+http://cloudsalex.space:80/592693566/291894002/9014698.ts
+#EXTINF:-1 tvg-id="" tvg-name="TRIP BRASIL CHANNEL SD" tvg-logo="https://7svoficial.com/canais/tbc.png" group-title="F24 M3  VARIEDADES",TRIP BRASIL CHANNEL SD
+http://cloudsalex.space:80/592693566/291894002/9014699.ts
+#EXTINF:-1 tvg-id="tracebrazuca.br" tvg-name="TRACE BRAZUCA FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/trace-brazuca-fhd.png" group-title="F24 M3  VARIEDADES",TRACE BRAZUCA FHD
+http://cloudsalex.space:80/592693566/291894002/9014700.ts
+#EXTINF:-1 tvg-id="tracebrazuca.br" tvg-name="TRACE BRAZUCA HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/trace-brazuca-fhd.png" group-title="F24 M3  VARIEDADES",TRACE BRAZUCA HD
+http://cloudsalex.space:80/592693566/291894002/9014701.ts
+#EXTINF:-1 tvg-id="tracebrazuca.br" tvg-name="TRACE BRAZUCA SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/trace-brazuca-fhd.png" group-title="F24 M3  VARIEDADES",TRACE BRAZUCA SD
+http://cloudsalex.space:80/592693566/291894002/9014702.ts
+#EXTINF:-1 tvg-id="travelboxbrazil.br" tvg-name="TRAVEL BOX BRAZIL FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/travel-box-brazil-hd.png" group-title="F24 M3  VARIEDADES",TRAVEL BOX BRAZIL FHD
+http://cloudsalex.space:80/592693566/291894002/9014703.ts
+#EXTINF:-1 tvg-id="travelboxbrazil.br" tvg-name="TRAVEL BOX BRAZIL HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/travel-box-brazil-hd.png" group-title="F24 M3  VARIEDADES",TRAVEL BOX BRAZIL HD
+http://cloudsalex.space:80/592693566/291894002/9014704.ts
+#EXTINF:-1 tvg-id="travelboxbrazil.br" tvg-name="TRAVEL BOX BRAZIL SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/travel-box-brazil-hd.png" group-title="F24 M3  VARIEDADES",TRAVEL BOX BRAZIL SD
+http://cloudsalex.space:80/592693566/291894002/9014705.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV5 MONDE FHD" tvg-logo="https://7svoficial.com/canais/tv5monde.png" group-title="F24 M3  VARIEDADES",TV5 MONDE FHD
+http://cloudsalex.space:80/592693566/291894002/9014706.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV5 MONDE HD" tvg-logo="https://7svoficial.com/canais/tv5monde.png" group-title="F24 M3  VARIEDADES",TV5 MONDE HD
+http://cloudsalex.space:80/592693566/291894002/9014707.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV5 MONDE SD" tvg-logo="https://7svoficial.com/canais/tv5monde.png" group-title="F24 M3  VARIEDADES",TV5 MONDE SD
+http://cloudsalex.space:80/592693566/291894002/9014708.ts
+#EXTINF:-1 tvg-id="dummy-790" tvg-name="SABOR & ARTE FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/sabor-arte-hd.png" group-title="F24 M3  VARIEDADES",SABOR & ARTE FHD
+http://cloudsalex.space:80/592693566/291894002/9014709.ts
+#EXTINF:-1 tvg-id="dummy-790" tvg-name="SABOR & ARTE HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/sabor-arte-hd.png" group-title="F24 M3  VARIEDADES",SABOR & ARTE HD
+http://cloudsalex.space:80/592693566/291894002/9014710.ts
+#EXTINF:-1 tvg-id="dummy-790" tvg-name="SABOR & ARTE SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/sabor-arte-hd.png" group-title="F24 M3  VARIEDADES",SABOR & ARTE SD
+http://cloudsalex.space:80/592693566/291894002/9014711.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBOPLAY NOVELAS FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/globoplay-fhd.png" group-title="F24 M3  VARIEDADES",GLOBOPLAY NOVELAS FHD
+http://cloudsalex.space:80/592693566/291894002/9014712.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBOPLAY NOVELAS HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/globoplay-fhd.png" group-title="F24 M3  VARIEDADES",GLOBOPLAY NOVELAS HD
+http://cloudsalex.space:80/592693566/291894002/9014713.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBOPLAY NOVELAS SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/globoplay-fhd.png" group-title="F24 M3  VARIEDADES",GLOBOPLAY NOVELAS SD
+http://cloudsalex.space:80/592693566/291894002/9014714.ts
+#EXTINF:-1 tvg-id="woohoo.br" tvg-name="CANAL WOOHOO FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/woohoo-hd.png" group-title="F24 M3  VARIEDADES",CANAL WOOHOO FHD
+http://cloudsalex.space:80/592693566/291894002/9014715.ts
+#EXTINF:-1 tvg-id="woohoo.br" tvg-name="CANAL WOOHOO HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/woohoo-hd.png" group-title="F24 M3  VARIEDADES",CANAL WOOHOO HD
+http://cloudsalex.space:80/592693566/291894002/9014716.ts
+#EXTINF:-1 tvg-id="woohoo.br" tvg-name="CANAL WOOHOO SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/woohoo-hd.png" group-title="F24 M3  VARIEDADES",CANAL WOOHOO SD
+http://cloudsalex.space:80/592693566/291894002/9014717.ts
+#EXTINF:-1 tvg-id="bandnews.br" tvg-name="BAND NEWS FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/band-news-4k.png" group-title="F24 M3  NOTÍCIAS",BAND NEWS FHD
+http://cloudsalex.space:80/592693566/291894002/9014718.ts
+#EXTINF:-1 tvg-id="bandnews.br" tvg-name="BAND NEWS HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/band-news-4k.png" group-title="F24 M3  NOTÍCIAS",BAND NEWS HD
+http://cloudsalex.space:80/592693566/291894002/9014719.ts
+#EXTINF:-1 tvg-id="bandnews.br" tvg-name="BAND NEWS SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/band-news-4k.png" group-title="F24 M3  NOTÍCIAS",BAND NEWS SD
+http://cloudsalex.space:80/592693566/291894002/9014720.ts
+#EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="CNN BRASIL FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/cnn-brasil-h265.png" group-title="F24 M3  NOTÍCIAS",CNN BRASIL FHD
+http://cloudsalex.space:80/592693566/291894002/9014721.ts
+#EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="CNN BRASIL HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/cnn-brasil-h265.png" group-title="F24 M3  NOTÍCIAS",CNN BRASIL HD
+http://cloudsalex.space:80/592693566/291894002/9014722.ts
+#EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="CNN BRASIL SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/cnn-brasil-h265.png" group-title="F24 M3  NOTÍCIAS",CNN BRASIL SD
+http://cloudsalex.space:80/592693566/291894002/9014723.ts
+#EXTINF:-1 tvg-id="rtpinternacional.br" tvg-name="CNN INTERNATIONAL FHD" tvg-logo="https://7svoficial.com/canais/cnninternational.png" group-title="F24 M3  NOTÍCIAS",CNN INTERNATIONAL FHD
+http://cloudsalex.space:80/592693566/291894002/9014724.ts
+#EXTINF:-1 tvg-id="rtpinternacional.br" tvg-name="CNN INTERNATIONAL HD" tvg-logo="https://7svoficial.com/canais/cnninternational.png" group-title="F24 M3  NOTÍCIAS",CNN INTERNATIONAL HD
+http://cloudsalex.space:80/592693566/291894002/9014725.ts
+#EXTINF:-1 tvg-id="rtpinternacional.br" tvg-name="CNN INTERNATIONAL SD" tvg-logo="https://7svoficial.com/canais/cnninternational.png" group-title="F24 M3  NOTÍCIAS",CNN INTERNATIONAL SD
+http://cloudsalex.space:80/592693566/291894002/9014726.ts
+#EXTINF:-1 tvg-id="dummy-246" tvg-name="CNN MONEY FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/cnn-money.png" group-title="F24 M3  NOTÍCIAS",CNN MONEY FHD
+http://cloudsalex.space:80/592693566/291894002/9014727.ts
+#EXTINF:-1 tvg-id="dummy-246" tvg-name="CNN MONEY HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/cnn-money.png" group-title="F24 M3  NOTÍCIAS",CNN MONEY HD
+http://cloudsalex.space:80/592693566/291894002/9014728.ts
+#EXTINF:-1 tvg-id="dummy-246" tvg-name="CNN MONEY SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/cnn-money.png" group-title="F24 M3  NOTÍCIAS",CNN MONEY SD
+http://cloudsalex.space:80/592693566/291894002/9014729.ts
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="GLOBO NEWS FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/globo-news-fhd.png" group-title="F24 M3  NOTÍCIAS",GLOBO NEWS FHD
+http://cloudsalex.space:80/592693566/291894002/9014730.ts
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="GLOBO NEWS HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/globo-news-fhd.png" group-title="F24 M3  NOTÍCIAS",GLOBO NEWS HD
+http://cloudsalex.space:80/592693566/291894002/9014731.ts
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="GLOBO NEWS SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/globo-news-fhd.png" group-title="F24 M3  NOTÍCIAS",GLOBO NEWS SD
+http://cloudsalex.space:80/592693566/291894002/9014732.ts
+#EXTINF:-1 tvg-id="jovempannews.br" tvg-name="JOVEM PAN NEWS FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/jovem-pan-news-hd-alt.png" group-title="F24 M3  NOTÍCIAS",JOVEM PAN NEWS FHD
+http://cloudsalex.space:80/592693566/291894002/9014733.ts
+#EXTINF:-1 tvg-id="jovempannews.br" tvg-name="JOVEM PAN NEWS HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/jovem-pan-news-hd-alt.png" group-title="F24 M3  NOTÍCIAS",JOVEM PAN NEWS HD
+http://cloudsalex.space:80/592693566/291894002/9014734.ts
+#EXTINF:-1 tvg-id="jovempannews.br" tvg-name="JOVEM PAN NEWS SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/jovem-pan-news-hd-alt.png" group-title="F24 M3  NOTÍCIAS",JOVEM PAN NEWS SD
+http://cloudsalex.space:80/592693566/291894002/9014735.ts
+#EXTINF:-1 tvg-id="recordnews.br" tvg-name="RECORD NEWS FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/record-news-fhd.png" group-title="F24 M3  NOTÍCIAS",RECORD NEWS FHD
+http://cloudsalex.space:80/592693566/291894002/9014736.ts
+#EXTINF:-1 tvg-id="recordnews.br" tvg-name="RECORD NEWS HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/record-news-fhd.png" group-title="F24 M3  NOTÍCIAS",RECORD NEWS HD
+http://cloudsalex.space:80/592693566/291894002/9014737.ts
+#EXTINF:-1 tvg-id="recordnews.br" tvg-name="RECORD NEWS SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/record-news-fhd.png" group-title="F24 M3  NOTÍCIAS",RECORD NEWS SD
+http://cloudsalex.space:80/592693566/291894002/9014738.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNBC FHD" tvg-logo="https://7svoficial.com/canais/cnbc.png" group-title="F24 M3  NOTÍCIAS",CNBC FHD
+http://cloudsalex.space:80/592693566/291894002/9014739.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNBC HD" tvg-logo="https://7svoficial.com/canais/cnbc.png" group-title="F24 M3  NOTÍCIAS",CNBC HD
+http://cloudsalex.space:80/592693566/291894002/9014740.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNBC SD" tvg-logo="https://7svoficial.com/canais/cnbc.png" group-title="F24 M3  NOTÍCIAS",CNBC SD
+http://cloudsalex.space:80/592693566/291894002/9014741.ts
+#EXTINF:-1 tvg-id="" tvg-name="DW FHD" tvg-logo="https://7svoficial.com/canais/dw.png" group-title="F24 M3  NOTÍCIAS",DW FHD
+http://cloudsalex.space:80/592693566/291894002/9014742.ts
+#EXTINF:-1 tvg-id="" tvg-name="DW HD" tvg-logo="https://7svoficial.com/canais/dw.png" group-title="F24 M3  NOTÍCIAS",DW HD
+http://cloudsalex.space:80/592693566/291894002/9014743.ts
+#EXTINF:-1 tvg-id="" tvg-name="DW SD" tvg-logo="https://7svoficial.com/canais/dw.png" group-title="F24 M3  NOTÍCIAS",DW SD
+http://cloudsalex.space:80/592693566/291894002/9014744.ts
+#EXTINF:-1 tvg-id="" tvg-name="BM&C NEWS FHD" tvg-logo="https://7svoficial.com/canais/bm&c.png" group-title="F24 M3  NOTÍCIAS",BM&C NEWS FHD
+http://cloudsalex.space:80/592693566/291894002/9014745.ts
+#EXTINF:-1 tvg-id="" tvg-name="BM&C NEWS HD" tvg-logo="https://7svoficial.com/canais/bm&c.png" group-title="F24 M3  NOTÍCIAS",BM&C NEWS HD
+http://cloudsalex.space:80/592693566/291894002/9014746.ts
+#EXTINF:-1 tvg-id="" tvg-name="BM&C NEWS SD" tvg-logo="https://7svoficial.com/canais/bm&c.png" group-title="F24 M3  NOTÍCIAS",BM&C NEWS SD
+http://cloudsalex.space:80/592693566/291894002/9014747.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBC NEWS FHD" tvg-logo="https://7svoficial.com/canais/bbcnews.png" group-title="F24 M3  NOTÍCIAS",BBC NEWS FHD
+http://cloudsalex.space:80/592693566/291894002/9014748.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBC NEWS HD" tvg-logo="https://7svoficial.com/canais/bbcnews.png" group-title="F24 M3  NOTÍCIAS",BBC NEWS HD
+http://cloudsalex.space:80/592693566/291894002/9014749.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBC NEWS SD" tvg-logo="https://7svoficial.com/canais/bbcnews.png" group-title="F24 M3  NOTÍCIAS",BBC NEWS SD
+http://cloudsalex.space:80/592693566/291894002/9014750.ts
+#EXTINF:-1 tvg-id="bloomberg.br" tvg-name="BLOOMBERG FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/bloomberg-hd.png" group-title="F24 M3  NOTÍCIAS",BLOOMBERG FHD
+http://cloudsalex.space:80/592693566/291894002/9014751.ts
+#EXTINF:-1 tvg-id="bloomberg.br" tvg-name="BLOOMBERG HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/bloomberg-hd.png" group-title="F24 M3  NOTÍCIAS",BLOOMBERG HD
+http://cloudsalex.space:80/592693566/291894002/9014752.ts
+#EXTINF:-1 tvg-id="bloomberg.br" tvg-name="BLOOMBERG SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/bloomberg-hd.png" group-title="F24 M3  NOTÍCIAS",BLOOMBERG SD
+http://cloudsalex.space:80/592693566/291894002/9014753.ts
+#EXTINF:-1 tvg-id="cançãonova.br" tvg-name="CANÇÃO NOVA FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/cancao-nova-hd.png" group-title="F24 M3  RELIGIOSOS",CANÇÃO NOVA FHD
+http://cloudsalex.space:80/592693566/291894002/9014754.ts
+#EXTINF:-1 tvg-id="cançãonova.br" tvg-name="CANÇÃO NOVA HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/cancao-nova-hd.png" group-title="F24 M3  RELIGIOSOS",CANÇÃO NOVA HD
+http://cloudsalex.space:80/592693566/291894002/9014755.ts
+#EXTINF:-1 tvg-id="cançãonova.br" tvg-name="CANÇÃO NOVA SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/cancao-nova-hd.png" group-title="F24 M3  RELIGIOSOS",CANÇÃO NOVA SD
+http://cloudsalex.space:80/592693566/291894002/9014756.ts
+#EXTINF:-1 tvg-id="redegospel.br" tvg-name="REDE GOSPEL FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/rede-gospel-sd.png" group-title="F24 M3  RELIGIOSOS",REDE GOSPEL FHD
+http://cloudsalex.space:80/592693566/291894002/9014757.ts
+#EXTINF:-1 tvg-id="redegospel.br" tvg-name="REDE GOSPEL HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/rede-gospel-sd.png" group-title="F24 M3  RELIGIOSOS",REDE GOSPEL HD
+http://cloudsalex.space:80/592693566/291894002/9014758.ts
+#EXTINF:-1 tvg-id="redegospel.br" tvg-name="REDE GOSPEL SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/rede-gospel-sd.png" group-title="F24 M3  RELIGIOSOS",REDE GOSPEL SD
+http://cloudsalex.space:80/592693566/291894002/9014759.ts
+#EXTINF:-1 tvg-id="redevida.br" tvg-name="REDE VIDA FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/rede-vida-uhd.png" group-title="F24 M3  RELIGIOSOS",REDE VIDA FHD
+http://cloudsalex.space:80/592693566/291894002/9014760.ts
+#EXTINF:-1 tvg-id="redevida.br" tvg-name="REDE VIDA HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/rede-vida-uhd.png" group-title="F24 M3  RELIGIOSOS",REDE VIDA HD
+http://cloudsalex.space:80/592693566/291894002/9014761.ts
+#EXTINF:-1 tvg-id="redevida.br" tvg-name="REDE VIDA SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/rede-vida-uhd.png" group-title="F24 M3  RELIGIOSOS",REDE VIDA SD
+http://cloudsalex.space:80/592693566/291894002/9014762.ts
+#EXTINF:-1 tvg-id="tvaparecida.br" tvg-name="TV APARECIDA FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/tv-aparecida-fhd.png" group-title="F24 M3  RELIGIOSOS",TV APARECIDA FHD
+http://cloudsalex.space:80/592693566/291894002/9014763.ts
+#EXTINF:-1 tvg-id="tvaparecida.br" tvg-name="TV APARECIDA HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/tv-aparecida-fhd.png" group-title="F24 M3  RELIGIOSOS",TV APARECIDA HD
+http://cloudsalex.space:80/592693566/291894002/9014764.ts
+#EXTINF:-1 tvg-id="tvaparecida.br" tvg-name="TV APARECIDA SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/tv-aparecida-fhd.png" group-title="F24 M3  RELIGIOSOS",TV APARECIDA SD
+http://cloudsalex.space:80/592693566/291894002/9014765.ts
+#EXTINF:-1 tvg-id="tvnovotempo.br" tvg-name="TV NOVO TEMPO HD" tvg-logo="https://7svoficial.com/canais/novotempo.png" group-title="F24 M3  RELIGIOSOS",TV NOVO TEMPO HD
+http://cloudsalex.space:80/592693566/291894002/9014766.ts
+#EXTINF:-1 tvg-id="dummy-953" tvg-name="TV PAI ETERNO HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/pai-eterno-fhd.png" group-title="F24 M3  RELIGIOSOS",TV PAI ETERNO HD
+http://cloudsalex.space:80/592693566/291894002/9014767.ts
+#EXTINF:-1 tvg-id="redesuper.br" tvg-name="REDE SUPER HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/rede-super-tv2.png" group-title="F24 M3  RELIGIOSOS",REDE SUPER HD
+http://cloudsalex.space:80/592693566/291894002/9014768.ts
+#EXTINF:-1 tvg-id="dummy-938" tvg-name="TV EVANGELIZAR FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/evangelizar.png" group-title="F24 M3  RELIGIOSOS",TV EVANGELIZAR FHD
+http://cloudsalex.space:80/592693566/291894002/9014769.ts
+#EXTINF:-1 tvg-id="dummy-938" tvg-name="TV EVANGELIZAR HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/evangelizar.png" group-title="F24 M3  RELIGIOSOS",TV EVANGELIZAR HD
+http://cloudsalex.space:80/592693566/291894002/9014770.ts
+#EXTINF:-1 tvg-id="dummy-938" tvg-name="TV EVANGELIZAR SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/evangelizar.png" group-title="F24 M3  RELIGIOSOS",TV EVANGELIZAR SD
+http://cloudsalex.space:80/592693566/291894002/9014771.ts
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/bis-4k.png" group-title="F24 M3  MUSICAIS",BIS FHD
+http://cloudsalex.space:80/592693566/291894002/9014772.ts
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/bis-4k.png" group-title="F24 M3  MUSICAIS",BIS HD
+http://cloudsalex.space:80/592693566/291894002/9014773.ts
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/bis-4k.png" group-title="F24 M3  MUSICAIS",BIS SD
+http://cloudsalex.space:80/592693566/291894002/9014774.ts
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/mtv-4k.png" group-title="F24 M3  MUSICAIS",MTV FHD
+http://cloudsalex.space:80/592693566/291894002/9014775.ts
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/mtv-4k.png" group-title="F24 M3  MUSICAIS",MTV HD
+http://cloudsalex.space:80/592693566/291894002/9014776.ts
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/mtv-4k.png" group-title="F24 M3  MUSICAIS",MTV SD
+http://cloudsalex.space:80/592693566/291894002/9014777.ts
+#EXTINF:-1 tvg-id="mtvlive.br" tvg-name="MTV LIVE FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/mtv-4k.png" group-title="F24 M3  MUSICAIS",MTV LIVE FHD
+http://cloudsalex.space:80/592693566/291894002/9014778.ts
+#EXTINF:-1 tvg-id="mtvlive.br" tvg-name="MTV LIVE HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/mtv-4k.png" group-title="F24 M3  MUSICAIS",MTV LIVE HD
+http://cloudsalex.space:80/592693566/291894002/9014779.ts
+#EXTINF:-1 tvg-id="mtvlive.br" tvg-name="MTV LIVE SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/mtv-4k.png" group-title="F24 M3  MUSICAIS",MTV LIVE SD
+http://cloudsalex.space:80/592693566/291894002/9014780.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV '00s FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/mtv-4k.png" group-title="F24 M3  MUSICAIS",MTV '00s FHD
+http://cloudsalex.space:80/592693566/291894002/9014781.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV '00s HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/mtv-4k.png" group-title="F24 M3  MUSICAIS",MTV '00s HD
+http://cloudsalex.space:80/592693566/291894002/9014782.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV '00s SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/mtv-4k.png" group-title="F24 M3  MUSICAIS",MTV '00s SD
+http://cloudsalex.space:80/592693566/291894002/9014783.ts
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/multishow-fhd.png" group-title="F24 M3  MUSICAIS",MULTISHOW FHD
+http://cloudsalex.space:80/592693566/291894002/9014784.ts
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/multishow-fhd.png" group-title="F24 M3  MUSICAIS",MULTISHOW HD
+http://cloudsalex.space:80/592693566/291894002/9014785.ts
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/multishow-fhd.png" group-title="F24 M3  MUSICAIS",MULTISHOW SD
+http://cloudsalex.space:80/592693566/291894002/9014786.ts
+#EXTINF:-1 tvg-id="musicboxbrasil.br" tvg-name="MUSIC BOX BRAZIL FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/music-box-brazil-fhd.png" group-title="F24 M3  MUSICAIS",MUSIC BOX BRAZIL FHD
+http://cloudsalex.space:80/592693566/291894002/9014787.ts
+#EXTINF:-1 tvg-id="musicboxbrasil.br" tvg-name="MUSIC BOX BRAZIL HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/music-box-brazil-fhd.png" group-title="F24 M3  MUSICAIS",MUSIC BOX BRAZIL HD
+http://cloudsalex.space:80/592693566/291894002/9014788.ts
+#EXTINF:-1 tvg-id="musicboxbrasil.br" tvg-name="MUSIC BOX BRAZIL SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/music-box-brazil-fhd.png" group-title="F24 M3  MUSICAIS",MUSIC BOX BRAZIL SD
+http://cloudsalex.space:80/592693566/291894002/9014789.ts
+#EXTINF:-1 tvg-id="primeboxbrazil.br" tvg-name="PRIME BOX BRAZIL FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/prime-box-brazil-fhd.png" group-title="F24 M3  MUSICAIS",PRIME BOX BRAZIL FHD
+http://cloudsalex.space:80/592693566/291894002/9014790.ts
+#EXTINF:-1 tvg-id="primeboxbrazil.br" tvg-name="PRIME BOX BRAZIL HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/prime-box-brazil-fhd.png" group-title="F24 M3  MUSICAIS",PRIME BOX BRAZIL HD
+http://cloudsalex.space:80/592693566/291894002/9014791.ts
+#EXTINF:-1 tvg-id="primeboxbrazil.br" tvg-name="PRIME BOX BRAZIL SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/prime-box-brazil-fhd.png" group-title="F24 M3  MUSICAIS",PRIME BOX BRAZIL SD
+http://cloudsalex.space:80/592693566/291894002/9014792.ts
+#EXTINF:-1 tvg-id="dummy-77" tvg-name="[24H] MR BEAST" tvg-logo="https://7svoficial.com/canais/youtube24h.png" group-title="F24 M3  24H STREAMING",[24H] MR BEAST
+http://cloudsalex.space:80/592693566/291894002/9014793.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] VOCÊ SABIA?" tvg-logo="https://7svoficial.com/canais/youtube24h.png" group-title="F24 M3  24H STREAMING",[24H] VOCÊ SABIA?
+http://cloudsalex.space:80/592693566/291894002/9014794.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] FATOS DESCONHECIDOS" tvg-logo="https://7svoficial.com/canais/youtube24h.png" group-title="F24 M3  24H STREAMING",[24H] FATOS DESCONHECIDOS
+http://cloudsalex.space:80/592693566/291894002/9014795.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] EI NERD" tvg-logo="https://7svoficial.com/canais/youtube24h.png" group-title="F24 M3  24H STREAMING",[24H] EI NERD
+http://cloudsalex.space:80/592693566/291894002/9014796.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] CIÊNCIA TODO DIA" tvg-logo="https://7svoficial.com/canais/youtube24h.png" group-title="F24 M3  24H STREAMING",[24H] CIÊNCIA TODO DIA
+http://cloudsalex.space:80/592693566/291894002/9014797.ts
+#EXTINF:-1 tvg-id="dummy-2127" tvg-name="[24H] MANUAL DO MUNDO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFwj6ju_RvtoVnwHN-Xt1Tr-IPyLS2R4hEIg&s" group-title="F24 M3  24H STREAMING",[24H] MANUAL DO MUNDO
+http://cloudsalex.space:80/592693566/291894002/9014798.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] TEMPESTADE NO MAR" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24H STREAMING",[24H] TEMPESTADE NO MAR
+http://cloudsalex.space:80/592693566/291894002/9014799.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] ÁGUA CORRENTE" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24H STREAMING",[24H] ÁGUA CORRENTE
+http://cloudsalex.space:80/592693566/291894002/9014800.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] RIO COM NEVASCA" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24H STREAMING",[24H] RIO COM NEVASCA
+http://cloudsalex.space:80/592693566/291894002/9014801.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] PRAIA PARADISÍACA" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24H STREAMING",[24H] PRAIA PARADISÍACA
+http://cloudsalex.space:80/592693566/291894002/9014802.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] NOITE DE LUA CHEIA" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24H STREAMING",[24H] NOITE DE LUA CHEIA
+http://cloudsalex.space:80/592693566/291894002/9014803.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] FUNDO DO MAR" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24H STREAMING",[24H] FUNDO DO MAR
+http://cloudsalex.space:80/592693566/291894002/9014804.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] CHUVA NA JANELA" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24H STREAMING",[24H] CHUVA NA JANELA
+http://cloudsalex.space:80/592693566/291894002/9014805.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] CACHOEIRA NA FLORESTA" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24H STREAMING",[24H] CACHOEIRA NA FLORESTA
+http://cloudsalex.space:80/592693566/291894002/9014806.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] LAREIRA" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24H STREAMING",[24H] LAREIRA
+http://cloudsalex.space:80/592693566/291894002/9014807.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] CHUVA TELA PRETA" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24H STREAMING",[24H] CHUVA TELA PRETA
+http://cloudsalex.space:80/592693566/291894002/9014808.ts
+#EXTINF:-1 tvg-id="dummy-5" tvg-name="[24H] 3 PALAVRINHAS" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24H DESENHOS",[24H] 3 PALAVRINHAS
+http://cloudsalex.space:80/592693566/291894002/9014809.ts
+#EXTINF:-1 tvg-id="dummy-38" tvg-name="[24H] CAVERNA DO DRAGÃO" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24H DESENHOS",[24H] CAVERNA DO DRAGÃO
+http://cloudsalex.space:80/592693566/291894002/9014810.ts
+#EXTINF:-1 tvg-id="dummy-17" tvg-name="[24H] AS MENINAS SUPERPODEROSAS" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24H DESENHOS",[24H] AS MENINAS SUPERPODEROSAS
+http://cloudsalex.space:80/592693566/291894002/9014811.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] SNOOPY" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24H DESENHOS",[24H] SNOOPY
+http://cloudsalex.space:80/592693566/291894002/9014812.ts
+#EXTINF:-1 tvg-id="dummy-45" tvg-name="[24H] DIGIMON" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24H DESENHOS",[24H] DIGIMON
+http://cloudsalex.space:80/592693566/291894002/9014813.ts
+#EXTINF:-1 tvg-id="dummy-11" tvg-name="[24H] PATRULHA CANINA" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24H DESENHOS",[24H] PATRULHA CANINA
+http://cloudsalex.space:80/592693566/291894002/9014814.ts
+#EXTINF:-1 tvg-id="dummy-28" tvg-name="[24H] BOKU NO HERO ACADEMIA" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24H DESENHOS",[24H] BOKU NO HERO ACADEMIA
+http://cloudsalex.space:80/592693566/291894002/9014815.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] BATMAN: A SÉRIE ANIMADA" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24H DESENHOS",[24H] BATMAN: A SÉRIE ANIMADA
+http://cloudsalex.space:80/592693566/291894002/9014816.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] LIGA DA JUSTIÇA: SEM LIMITES" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24H DESENHOS",[24H] LIGA DA JUSTIÇA: SEM LIMITES
+http://cloudsalex.space:80/592693566/291894002/9014817.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] LIGA DA JUSTIÇA" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24H DESENHOS",[24H] LIGA DA JUSTIÇA
+http://cloudsalex.space:80/592693566/291894002/9014818.ts
+#EXTINF:-1 tvg-id="dummy-105" tvg-name="[24H] SUPER CHOQUE" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24H DESENHOS",[24H] SUPER CHOQUE
+http://cloudsalex.space:80/592693566/291894002/9014819.ts
+#EXTINF:-1 tvg-id="dummy-116" tvg-name="[24H] UMA FAMÍLIA DA PESADA" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24H DESENHOS",[24H] UMA FAMÍLIA DA PESADA
+http://cloudsalex.space:80/592693566/291894002/9014820.ts
+#EXTINF:-1 tvg-id="dummy-88" tvg-name="[24H] OS SIMPSONS" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24H DESENHOS",[24H] OS SIMPSONS
+http://cloudsalex.space:80/592693566/291894002/9014821.ts
+#EXTINF:-1 tvg-id="dummy-99" tvg-name="[24H] RICK E MORTY" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24H DESENHOS",[24H] RICK E MORTY
+http://cloudsalex.space:80/592693566/291894002/9014822.ts
+#EXTINF:-1 tvg-id="dummy-22" tvg-name="[24H] BABY LOONEY TUNES" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24H DESENHOS",[24H] BABY LOONEY TUNES
+http://cloudsalex.space:80/592693566/291894002/9014823.ts
+#EXTINF:-1 tvg-id="dummy-80" tvg-name="[24H] O INCRÍVEL MUNDO DE GUMBALL" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24H DESENHOS",[24H] O INCRÍVEL MUNDO DE GUMBALL
+http://cloudsalex.space:80/592693566/291894002/9014824.ts
+#EXTINF:-1 tvg-id="dummy-65" tvg-name="[24H] HORA DE AVENTURA" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24H DESENHOS",[24H] HORA DE AVENTURA
+http://cloudsalex.space:80/592693566/291894002/9014825.ts
+#EXTINF:-1 tvg-id="dummy-64" tvg-name="[24H] HOMEM-ARANHA" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24H DESENHOS",[24H] HOMEM-ARANHA
+http://cloudsalex.space:80/592693566/291894002/9014826.ts
+#EXTINF:-1 tvg-id="dummy-64" tvg-name="[24H] HOMEM-ARANHA: ULTIMATE" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24H DESENHOS",[24H] HOMEM-ARANHA: ULTIMATE
+http://cloudsalex.space:80/592693566/291894002/9014827.ts
+#EXTINF:-1 tvg-id="dummy-64" tvg-name="[24H] HOMEM-ARANHA: AÇÃO SEM LIMITES" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24H DESENHOS",[24H] HOMEM-ARANHA: AÇÃO SEM LIMITES
+http://cloudsalex.space:80/592693566/291894002/9014828.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] MANDA-CHUVA" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24H DESENHOS",[24H] MANDA-CHUVA
+http://cloudsalex.space:80/592693566/291894002/9014829.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] ONE PUNCH-MAN" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24H DESENHOS",[24H] ONE PUNCH-MAN
+http://cloudsalex.space:80/592693566/291894002/9014830.ts
+#EXTINF:-1 tvg-id="dummy-16" tvg-name="[24H] AS AVENTURAS DE JACKIE CHAN" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24H DESENHOS",[24H] AS AVENTURAS DE JACKIE CHAN
+http://cloudsalex.space:80/592693566/291894002/9014831.ts
+#EXTINF:-1 tvg-id="dummy-114" tvg-name="[24H] A TURMA DO PATETA" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24H DESENHOS",[24H] A TURMA DO PATETA
+http://cloudsalex.space:80/592693566/291894002/9014832.ts
+#EXTINF:-1 tvg-id="dummy-110" tvg-name="[24H] TOM E JERRY" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24H DESENHOS",[24H] TOM E JERRY
+http://cloudsalex.space:80/592693566/291894002/9014833.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] OS VINGADORES" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24H DESENHOS",[24H] OS VINGADORES
+http://cloudsalex.space:80/592693566/291894002/9014834.ts
+#EXTINF:-1 tvg-id="dummy-84" tvg-name="[24H] OS CAVALEIROS DO ZODÍACO" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24H DESENHOS",[24H] OS CAVALEIROS DO ZODÍACO
+http://cloudsalex.space:80/592693566/291894002/9014835.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] WOLVERINE E OS X-MEN" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24H DESENHOS",[24H] WOLVERINE E OS X-MEN
+http://cloudsalex.space:80/592693566/291894002/9014836.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] X-MEN: EVOLUTION" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24H DESENHOS",[24H] X-MEN: EVOLUTION
+http://cloudsalex.space:80/592693566/291894002/9014837.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] HOMEM DE FERRO" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24H DESENHOS",[24H] HOMEM DE FERRO
+http://cloudsalex.space:80/592693566/291894002/9014838.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] IRON MAN" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24H DESENHOS",[24H] IRON MAN
+http://cloudsalex.space:80/592693566/291894002/9014839.ts
+#EXTINF:-1 tvg-id="dummy-112" tvg-name="[24H] TRÊS ESPIÃS DEMAIS" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24H DESENHOS",[24H] TRÊS ESPIÃS DEMAIS
+http://cloudsalex.space:80/592693566/291894002/9014840.ts
+#EXTINF:-1 tvg-id="dummy-27" tvg-name="[24H] BOB ESPONJA" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24H DESENHOS",[24H] BOB ESPONJA
+http://cloudsalex.space:80/592693566/291894002/9014841.ts
+#EXTINF:-1 tvg-id="dummy-83" tvg-name="[24H] O MÁSKARA" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24H DESENHOS",[24H] O MÁSKARA
+http://cloudsalex.space:80/592693566/291894002/9014842.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] DEATH NOTE" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24H DESENHOS",[24H] DEATH NOTE
+http://cloudsalex.space:80/592693566/291894002/9014843.ts
+#EXTINF:-1 tvg-id="dummy-63" tvg-name="[24H] HE-MAN" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24H DESENHOS",[24H] HE-MAN
+http://cloudsalex.space:80/592693566/291894002/9014844.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] KND: A TURMA DO BAIRRO" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24H DESENHOS",[24H] KND: A TURMA DO BAIRRO
+http://cloudsalex.space:80/592693566/291894002/9014845.ts
+#EXTINF:-1 tvg-id="dummy-22" tvg-name="[24H] LOONEY TUNES" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24H DESENHOS",[24H] LOONEY TUNES
+http://cloudsalex.space:80/592693566/291894002/9014846.ts
+#EXTINF:-1 tvg-id="dummy-90" tvg-name="[24H] PAPA-LÉGUAS" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24H DESENHOS",[24H] PAPA-LÉGUAS
+http://cloudsalex.space:80/592693566/291894002/9014847.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] GAGUINHO E PATOLINO" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24H DESENHOS",[24H] GAGUINHO E PATOLINO
+http://cloudsalex.space:80/592693566/291894002/9014848.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] PIU-PIU E FRAJOLA" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24H DESENHOS",[24H] PIU-PIU E FRAJOLA
+http://cloudsalex.space:80/592693566/291894002/9014849.ts
+#EXTINF:-1 tvg-id="dummy-94" tvg-name="[24H] PICA-PAU" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24H DESENHOS",[24H] PICA-PAU
+http://cloudsalex.space:80/592693566/291894002/9014850.ts
+#EXTINF:-1 tvg-id="dummy-102" tvg-name="[24H] SCOOBY-DOO" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24H DESENHOS",[24H] SCOOBY-DOO
+http://cloudsalex.space:80/592693566/291894002/9014851.ts
+#EXTINF:-1 tvg-id="dummy-107" tvg-name="[24H] THUNDERCATS" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24H DESENHOS",[24H] THUNDERCATS
+http://cloudsalex.space:80/592693566/291894002/9014852.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] AMERICAN DAD!" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24H DESENHOS",[24H] AMERICAN DAD!
+http://cloudsalex.space:80/592693566/291894002/9014853.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] APENAS UM SHOW" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24H DESENHOS",[24H] APENAS UM SHOW
+http://cloudsalex.space:80/592693566/291894002/9014854.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] BABY SHARK" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24H DESENHOS",[24H] BABY SHARK
+http://cloudsalex.space:80/592693566/291894002/9014855.ts
+#EXTINF:-1 tvg-id="dummy-25" tvg-name="[24H] BEYBLADE" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24H DESENHOS",[24H] BEYBLADE
+http://cloudsalex.space:80/592693566/291894002/9014856.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] BLAZE E OS MONSTER MACHINES" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24H DESENHOS",[24H] BLAZE E OS MONSTER MACHINES
+http://cloudsalex.space:80/592693566/291894002/9014857.ts
+#EXTINF:-1 tvg-id="dummy-29" tvg-name="[24H] BOB ZOOM" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24H DESENHOS",[24H] BOB ZOOM
+http://cloudsalex.space:80/592693566/291894002/9014858.ts
+#EXTINF:-1 tvg-id="dummy-43" tvg-name="[24H] CORRIDA MALUCA" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24H DESENHOS",[24H] CORRIDA MALUCA
+http://cloudsalex.space:80/592693566/291894002/9014859.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] DESENHOS BÍBLICOS" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24H DESENHOS",[24H] DESENHOS BÍBLICOS
+http://cloudsalex.space:80/592693566/291894002/9014860.ts
+#EXTINF:-1 tvg-id="dummy-93" tvg-name="[24H] DORA E SEUS AMIGOS" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24H DESENHOS",[24H] DORA E SEUS AMIGOS
+http://cloudsalex.space:80/592693566/291894002/9014861.ts
+#EXTINF:-1 tvg-id="dummy-47" tvg-name="[24H] DRAGON BALL" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24H DESENHOS",[24H] DRAGON BALL
+http://cloudsalex.space:80/592693566/291894002/9014862.ts
+#EXTINF:-1 tvg-id="dummy-47" tvg-name="[24H] DRAGON BALL Z" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24H DESENHOS",[24H] DRAGON BALL Z
+http://cloudsalex.space:80/592693566/291894002/9014863.ts
+#EXTINF:-1 tvg-id="dummy-47" tvg-name="[24H] DRAGON BALL KAI" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24H DESENHOS",[24H] DRAGON BALL KAI
+http://cloudsalex.space:80/592693566/291894002/9014864.ts
+#EXTINF:-1 tvg-id="dummy-47" tvg-name="[24H] DRAGON BALL SUPER" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24H DESENHOS",[24H] DRAGON BALL SUPER
+http://cloudsalex.space:80/592693566/291894002/9014865.ts
+#EXTINF:-1 tvg-id="dummy-59" tvg-name="[24H] FUTURAMA" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/futura-fhd.png" group-title="F24 M3  24H DESENHOS",[24H] FUTURAMA
+http://cloudsalex.space:80/592693566/291894002/9014866.ts
+#EXTINF:-1 tvg-id="dummy-60" tvg-name="[24H] GALINHA PINTADINHA" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24H DESENHOS",[24H] GALINHA PINTADINHA
+http://cloudsalex.space:80/592693566/291894002/9014867.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] MASHA E O URSO" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24H DESENHOS",[24H] MASHA E O URSO
+http://cloudsalex.space:80/592693566/291894002/9014868.ts
+#EXTINF:-1 tvg-id="dummy-77" tvg-name="[24H] MR. BEAN" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24H DESENHOS",[24H] MR. BEAN
+http://cloudsalex.space:80/592693566/291894002/9014869.ts
+#EXTINF:-1 tvg-id="dummy-78" tvg-name="[24H] MUNDO BITA" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24H DESENHOS",[24H] MUNDO BITA
+http://cloudsalex.space:80/592693566/291894002/9014870.ts
+#EXTINF:-1 tvg-id="dummy-79" tvg-name="[24H] NARUTO" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24H DESENHOS",[24H] NARUTO
+http://cloudsalex.space:80/592693566/291894002/9014871.ts
+#EXTINF:-1 tvg-id="dummy-94" tvg-name="[24H] O NOVO PICA-PAU" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24H DESENHOS",[24H] O NOVO PICA-PAU
+http://cloudsalex.space:80/592693566/291894002/9014872.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] ONE PIECE" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24H DESENHOS",[24H] ONE PIECE
+http://cloudsalex.space:80/592693566/291894002/9014873.ts
+#EXTINF:-1 tvg-id="dummy-86" tvg-name="[24H] OS FLINTSTONES" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24H DESENHOS",[24H] OS FLINTSTONES
+http://cloudsalex.space:80/592693566/291894002/9014874.ts
+#EXTINF:-1 tvg-id="dummy-88" tvg-name="[24H] OS JETSONS" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24H DESENHOS",[24H] OS JETSONS
+http://cloudsalex.space:80/592693566/291894002/9014875.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] OS JOVENS TITÃS" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24H DESENHOS",[24H] OS JOVENS TITÃS
+http://cloudsalex.space:80/592693566/291894002/9014876.ts
+#EXTINF:-1 tvg-id="dummy-91" tvg-name="[24H] PATATI PATATÁ" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24H DESENHOS",[24H] PATATI PATATÁ
+http://cloudsalex.space:80/592693566/291894002/9014877.ts
+#EXTINF:-1 tvg-id="dummy-92" tvg-name="[24H] PEPPA PIG" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24H DESENHOS",[24H] PEPPA PIG
+http://cloudsalex.space:80/592693566/291894002/9014878.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] POKÉMON" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24H DESENHOS",[24H] POKÉMON
+http://cloudsalex.space:80/592693566/291894002/9014879.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] SANTIAGO DOS MARES" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24H DESENHOS",[24H] SANTIAGO DOS MARES
+http://cloudsalex.space:80/592693566/291894002/9014880.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] SONIC THE HEDGEHOG" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24H DESENHOS",[24H] SONIC THE HEDGEHOG
+http://cloudsalex.space:80/592693566/291894002/9014881.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] YIN YANG YO!" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24H DESENHOS",[24H] YIN YANG YO!
+http://cloudsalex.space:80/592693566/291894002/9014882.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] AEROPORTO MIAMI" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24 SÉRIES",[24H] AEROPORTO MIAMI
+http://cloudsalex.space:80/592693566/291894002/9014883.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] AEROPORTO: ÁREA RESTRITA" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24 SÉRIES",[24H] AEROPORTO: ÁREA RESTRITA
+http://cloudsalex.space:80/592693566/291894002/9014884.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] OPERAÇÃO FRONTEIRA: BRASIL" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24 SÉRIES",[24H] OPERAÇÃO FRONTEIRA: BRASIL
+http://cloudsalex.space:80/592693566/291894002/9014885.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] QUILOS MORTAIS" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24 SÉRIES",[24H] QUILOS MORTAIS
+http://cloudsalex.space:80/592693566/291894002/9014886.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] BODYCAM" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24 SÉRIES",[24H] BODYCAM
+http://cloudsalex.space:80/592693566/291894002/9014887.ts
+#EXTINF:-1 tvg-id="dummy-8" tvg-name="[24H] A GRANDE FAMÍLIA DO ALASCA" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24 SÉRIES",[24H] A GRANDE FAMÍLIA DO ALASCA
+http://cloudsalex.space:80/592693566/291894002/9014888.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] AS PIORES PRISÕES DO MUNDO" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24 SÉRIES",[24H] AS PIORES PRISÕES DO MUNDO
+http://cloudsalex.space:80/592693566/291894002/9014889.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] O MISTÉRIO DO TRIÂNGULO DAS BERMUDAS" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24 SÉRIES",[24H] O MISTÉRIO DO TRIÂNGULO DAS BERMUDAS
+http://cloudsalex.space:80/592693566/291894002/9014890.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] CONSTRUÇÕES NO ALASCA" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24 SÉRIES",[24H] CONSTRUÇÕES NO ALASCA
+http://cloudsalex.space:80/592693566/291894002/9014891.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] VIDA REMOTA" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24 SÉRIES",[24H] VIDA REMOTA
+http://cloudsalex.space:80/592693566/291894002/9014892.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] LARGADOS E PELADOS" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24 SÉRIES",[24H] LARGADOS E PELADOS
+http://cloudsalex.space:80/592693566/291894002/9014893.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] LARGADOS E PELADOS: LATINOS" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24 SÉRIES",[24H] LARGADOS E PELADOS: LATINOS
+http://cloudsalex.space:80/592693566/291894002/9014894.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] EU, A PATROA E AS CRIANÇAS" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24 SÉRIES",[24H] EU, A PATROA E AS CRIANÇAS
+http://cloudsalex.space:80/592693566/291894002/9014895.ts
+#EXTINF:-1 tvg-id="dummy-109" tvg-name="[24H] TODO MUNDO ODEIA O CHRIS" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24 SÉRIES",[24H] TODO MUNDO ODEIA O CHRIS
+http://cloudsalex.space:80/592693566/291894002/9014896.ts
+#EXTINF:-1 tvg-id="dummy-26" tvg-name="[24H] THE BIG BANG THEORY" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24 SÉRIES",[24H] THE BIG BANG THEORY
+http://cloudsalex.space:80/592693566/291894002/9014897.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] DOIS HOMENS E MEIO" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24 SÉRIES",[24H] DOIS HOMENS E MEIO
+http://cloudsalex.space:80/592693566/291894002/9014898.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] SMALLVILLE" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24 SÉRIES",[24H] SMALLVILLE
+http://cloudsalex.space:80/592693566/291894002/9014899.ts
+#EXTINF:-1 tvg-id="dummy-115" tvg-name="[24H] UM MALUCO NO PEDAÇO" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24 SÉRIES",[24H] UM MALUCO NO PEDAÇO
+http://cloudsalex.space:80/592693566/291894002/9014900.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] ALF, O ETEIMOSO" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24 SÉRIES",[24H] ALF, O ETEIMOSO
+http://cloudsalex.space:80/592693566/291894002/9014901.ts
+#EXTINF:-1 tvg-id="dummy-40" tvg-name="[24H] CHAVES" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24 SÉRIES",[24H] CHAVES
+http://cloudsalex.space:80/592693566/291894002/9014902.ts
+#EXTINF:-1 tvg-id="dummy-77" tvg-name="[24H] MR. BEAN" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24 SÉRIES",[24H] MR. BEAN
+http://cloudsalex.space:80/592693566/291894002/9014903.ts
+#EXTINF:-1 tvg-id="dummy-32" tvg-name="[24H] FAMÍLIA DINOSSAUROS" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24 SÉRIES",[24H] FAMÍLIA DINOSSAUROS
+http://cloudsalex.space:80/592693566/291894002/9014904.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] ALIENÍGENAS DO PASSADO" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24 SÉRIES",[24H] ALIENÍGENAS DO PASSADO
+http://cloudsalex.space:80/592693566/291894002/9014905.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] LARGADOS E PELADOS: A TRIBO" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24 SÉRIES",[24H] LARGADOS E PELADOS: A TRIBO
+http://cloudsalex.space:80/592693566/291894002/9014906.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] FEBRE DO OURO" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24 SÉRIES",[24H] FEBRE DO OURO
+http://cloudsalex.space:80/592693566/291894002/9014907.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] FRIENDS" tvg-logo="https://7svoficial.com/canais/24h.png" group-title="F24 M3  24 SÉRIES",[24H] FRIENDS
+http://cloudsalex.space:80/592693566/291894002/9014908.ts
+#EXTINF:-1 tvg-id="playboy.br" tvg-name="PLAYBOY HD" tvg-logo="https://7svoficial.com/canais/playboytv.png" group-title="F24 M3  ADULTOS +18",PLAYBOY HD
+http://cloudsalex.space:80/592693566/291894002/9014909.ts
+#EXTINF:-1 tvg-id="playboy.br" tvg-name="PLAYBOY SD" tvg-logo="https://7svoficial.com/canais/playboytv.png" group-title="F24 M3  ADULTOS +18",PLAYBOY SD
+http://cloudsalex.space:80/592693566/291894002/9014910.ts
+#EXTINF:-1 tvg-id="sextremebrazil.br" tvg-name="SEXTREME HD" tvg-logo="https://7svoficial.com/canais/sextreme.png" group-title="F24 M3  ADULTOS +18",SEXTREME HD
+http://cloudsalex.space:80/592693566/291894002/9014911.ts
+#EXTINF:-1 tvg-id="sextremebrazil.br" tvg-name="SEXTREME SD" tvg-logo="https://7svoficial.com/canais/sextreme.png" group-title="F24 M3  ADULTOS +18",SEXTREME SD
+http://cloudsalex.space:80/592693566/291894002/9014912.ts
+#EXTINF:-1 tvg-id="sexyhot.br" tvg-name="SEXY HOT HD" tvg-logo="https://7svoficial.com/canais/sexyhot.png" group-title="F24 M3  ADULTOS +18",SEXY HOT HD
+http://cloudsalex.space:80/592693566/291894002/9014913.ts
+#EXTINF:-1 tvg-id="sexyhot.br" tvg-name="SEXY HOT SD" tvg-logo="https://7svoficial.com/canais/sexyhot.png" group-title="F24 M3  ADULTOS +18",SEXY HOT SD
+http://cloudsalex.space:80/592693566/291894002/9014914.ts
+#EXTINF:-1 tvg-id="venustv.br" tvg-name="VENUS HD" tvg-logo="https://7svoficial.com/canais/venus.png" group-title="F24 M3  ADULTOS +18",VENUS HD
+http://cloudsalex.space:80/592693566/291894002/9014915.ts
+#EXTINF:-1 tvg-id="venustv.br" tvg-name="VENUS SD" tvg-logo="https://7svoficial.com/canais/venus.png" group-title="F24 M3  ADULTOS +18",VENUS SD
+http://cloudsalex.space:80/592693566/291894002/9014916.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 01" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F24 M3  ADULTOS +18",[+18] ADULTO 01
+http://cloudsalex.space:80/592693566/291894002/9014917.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 02" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F24 M3  ADULTOS +18",[+18] ADULTO 02
+http://cloudsalex.space:80/592693566/291894002/9014918.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 03" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F24 M3  ADULTOS +18",[+18] ADULTO 03
+http://cloudsalex.space:80/592693566/291894002/9014919.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 04" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F24 M3  ADULTOS +18",[+18] ADULTO 04
+http://cloudsalex.space:80/592693566/291894002/9014920.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 05" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F24 M3  ADULTOS +18",[+18] ADULTO 05
+http://cloudsalex.space:80/592693566/291894002/9014921.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 06" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F24 M3  ADULTOS +18",[+18] ADULTO 06
+http://cloudsalex.space:80/592693566/291894002/9014922.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 07" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F24 M3  ADULTOS +18",[+18] ADULTO 07
+http://cloudsalex.space:80/592693566/291894002/9014923.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 08" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F24 M3  ADULTOS +18",[+18] ADULTO 08
+http://cloudsalex.space:80/592693566/291894002/9014924.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 09" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F24 M3  ADULTOS +18",[+18] ADULTO 09
+http://cloudsalex.space:80/592693566/291894002/9014925.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 10" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F24 M3  ADULTOS +18",[+18] ADULTO 10
+http://cloudsalex.space:80/592693566/291894002/9014926.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 11" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F24 M3  ADULTOS +18",[+18] ADULTO 11
+http://cloudsalex.space:80/592693566/291894002/9014927.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 12" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F24 M3  ADULTOS +18",[+18] ADULTO 12
+http://cloudsalex.space:80/592693566/291894002/9014928.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 13" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F24 M3  ADULTOS +18",[+18] ADULTO 13
+http://cloudsalex.space:80/592693566/291894002/9014929.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 14" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F24 M3  ADULTOS +18",[+18] ADULTO 14
+http://cloudsalex.space:80/592693566/291894002/9014930.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 15" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F24 M3  ADULTOS +18",[+18] ADULTO 15
+http://cloudsalex.space:80/592693566/291894002/9014931.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 16" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F24 M3  ADULTOS +18",[+18] ADULTO 16
+http://cloudsalex.space:80/592693566/291894002/9014932.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 17" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F24 M3  ADULTOS +18",[+18] ADULTO 17
+http://cloudsalex.space:80/592693566/291894002/9014933.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 18" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F24 M3  ADULTOS +18",[+18] ADULTO 18
+http://cloudsalex.space:80/592693566/291894002/9014934.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 19" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F24 M3  ADULTOS +18",[+18] ADULTO 19
+http://cloudsalex.space:80/592693566/291894002/9014935.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 20" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F24 M3  ADULTOS +18",[+18] ADULTO 20
+http://cloudsalex.space:80/592693566/291894002/9014936.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 21" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F24 M3  ADULTOS +18",[+18] ADULTO 21
+http://cloudsalex.space:80/592693566/291894002/9014937.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 22" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F24 M3  ADULTOS +18",[+18] ADULTO 22
+http://cloudsalex.space:80/592693566/291894002/9014938.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 23" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F24 M3  ADULTOS +18",[+18] ADULTO 23
+http://cloudsalex.space:80/592693566/291894002/9014939.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 24" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F24 M3  ADULTOS +18",[+18] ADULTO 24
+http://cloudsalex.space:80/592693566/291894002/9014940.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 25" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F24 M3  ADULTOS +18",[+18] ADULTO 25
+http://cloudsalex.space:80/592693566/291894002/9014941.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 26" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F24 M3  ADULTOS +18",[+18] ADULTO 26
+http://cloudsalex.space:80/592693566/291894002/9014942.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 27" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F24 M3  ADULTOS +18",[+18] ADULTO 27
+http://cloudsalex.space:80/592693566/291894002/9014943.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 28" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F24 M3  ADULTOS +18",[+18] ADULTO 28
+http://cloudsalex.space:80/592693566/291894002/9014944.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 29" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F24 M3  ADULTOS +18",[+18] ADULTO 29
+http://cloudsalex.space:80/592693566/291894002/9014945.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 30" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F24 M3  ADULTOS +18",[+18] ADULTO 30
+http://cloudsalex.space:80/592693566/291894002/9014946.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 31" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F24 M3  ADULTOS +18",[+18] ADULTO 31
+http://cloudsalex.space:80/592693566/291894002/9014947.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 32" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F24 M3  ADULTOS +18",[+18] ADULTO 32
+http://cloudsalex.space:80/592693566/291894002/9014948.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 33" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F24 M3  ADULTOS +18",[+18] ADULTO 33
+http://cloudsalex.space:80/592693566/291894002/9014949.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 34" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F24 M3  ADULTOS +18",[+18] ADULTO 34
+http://cloudsalex.space:80/592693566/291894002/9014950.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 35" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F24 M3  ADULTOS +18",[+18] ADULTO 35
+http://cloudsalex.space:80/592693566/291894002/9014951.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 36" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F24 M3  ADULTOS +18",[+18] ADULTO 36
+http://cloudsalex.space:80/592693566/291894002/9014952.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 37" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F24 M3  ADULTOS +18",[+18] ADULTO 37
+http://cloudsalex.space:80/592693566/291894002/9014953.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 38" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F24 M3  ADULTOS +18",[+18] ADULTO 38
+http://cloudsalex.space:80/592693566/291894002/9014954.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 39" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F24 M3  ADULTOS +18",[+18] ADULTO 39
+http://cloudsalex.space:80/592693566/291894002/9014955.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 40" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F24 M3  ADULTOS +18",[+18] ADULTO 40
+http://cloudsalex.space:80/592693566/291894002/9014956.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 41" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F24 M3  ADULTOS +18",[+18] ADULTO 41
+http://cloudsalex.space:80/592693566/291894002/9014957.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 42" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F24 M3  ADULTOS +18",[+18] ADULTO 42
+http://cloudsalex.space:80/592693566/291894002/9014958.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 43" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F24 M3  ADULTOS +18",[+18] ADULTO 43
+http://cloudsalex.space:80/592693566/291894002/9014959.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 44" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F24 M3  ADULTOS +18",[+18] ADULTO 44
+http://cloudsalex.space:80/592693566/291894002/9014960.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 45" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F24 M3  ADULTOS +18",[+18] ADULTO 45
+http://cloudsalex.space:80/592693566/291894002/9014961.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 46" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F24 M3  ADULTOS +18",[+18] ADULTO 46
+http://cloudsalex.space:80/592693566/291894002/9014962.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 47" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F24 M3  ADULTOS +18",[+18] ADULTO 47
+http://cloudsalex.space:80/592693566/291894002/9014963.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 48" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F24 M3  ADULTOS +18",[+18] ADULTO 48
+http://cloudsalex.space:80/592693566/291894002/9014964.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 49" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F24 M3  ADULTOS +18",[+18] ADULTO 49
+http://cloudsalex.space:80/592693566/291894002/9014965.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 50" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F24 M3  ADULTOS +18",[+18] ADULTO 50
+http://cloudsalex.space:80/592693566/291894002/9014966.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 51" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F24 M3  ADULTOS +18",[+18] ADULTO 51
+http://cloudsalex.space:80/592693566/291894002/9014967.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 52" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F24 M3  ADULTOS +18",[+18] ADULTO 52
+http://cloudsalex.space:80/592693566/291894002/9014968.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 53" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F24 M3  ADULTOS +18",[+18] ADULTO 53
+http://cloudsalex.space:80/592693566/291894002/9014969.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 54" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F24 M3  ADULTOS +18",[+18] ADULTO 54
+http://cloudsalex.space:80/592693566/291894002/9014970.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 55" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F24 M3  ADULTOS +18",[+18] ADULTO 55
+http://cloudsalex.space:80/592693566/291894002/9014971.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 56" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F24 M3  ADULTOS +18",[+18] ADULTO 56
+http://cloudsalex.space:80/592693566/291894002/9014972.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 57" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F24 M3  ADULTOS +18",[+18] ADULTO 57
+http://cloudsalex.space:80/592693566/291894002/9014973.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 58" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F24 M3  ADULTOS +18",[+18] ADULTO 58
+http://cloudsalex.space:80/592693566/291894002/9014974.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 59" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F24 M3  ADULTOS +18",[+18] ADULTO 59
+http://cloudsalex.space:80/592693566/291894002/9014975.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 60" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F24 M3  ADULTOS +18",[+18] ADULTO 60
+http://cloudsalex.space:80/592693566/291894002/9014976.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 61" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F24 M3  ADULTOS +18",[+18] ADULTO 61
+http://cloudsalex.space:80/592693566/291894002/9014977.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 62" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F24 M3  ADULTOS +18",[+18] ADULTO 62
+http://cloudsalex.space:80/592693566/291894002/9014978.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 63" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F24 M3  ADULTOS +18",[+18] ADULTO 63
+http://cloudsalex.space:80/592693566/291894002/9014979.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 64" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F24 M3  ADULTOS +18",[+18] ADULTO 64
+http://cloudsalex.space:80/592693566/291894002/9014980.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 65" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F24 M3  ADULTOS +18",[+18] ADULTO 65
+http://cloudsalex.space:80/592693566/291894002/9014981.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 66" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F24 M3  ADULTOS +18",[+18] ADULTO 66
+http://cloudsalex.space:80/592693566/291894002/9014982.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 67" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F24 M3  ADULTOS +18",[+18] ADULTO 67
+http://cloudsalex.space:80/592693566/291894002/9014983.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 68" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F24 M3  ADULTOS +18",[+18] ADULTO 68
+http://cloudsalex.space:80/592693566/291894002/9014984.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 69" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F24 M3  ADULTOS +18",[+18] ADULTO 69
+http://cloudsalex.space:80/592693566/291894002/9014985.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 70" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F24 M3  ADULTOS +18",[+18] ADULTO 70
+http://cloudsalex.space:80/592693566/291894002/9014986.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 71" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F24 M3  ADULTOS +18",[+18] ADULTO 71
+http://cloudsalex.space:80/592693566/291894002/9014987.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 72" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F24 M3  ADULTOS +18",[+18] ADULTO 72
+http://cloudsalex.space:80/592693566/291894002/9014988.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 73" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F24 M3  ADULTOS +18",[+18] ADULTO 73
+http://cloudsalex.space:80/592693566/291894002/9014989.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 74" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F24 M3  ADULTOS +18",[+18] ADULTO 74
+http://cloudsalex.space:80/592693566/291894002/9014990.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+18] ADULTO 75" tvg-logo="https://7svoficial.com/canais/adulto.png" group-title="F24 M3  ADULTOS +18",[+18] ADULTO 75
+http://cloudsalex.space:80/592693566/291894002/9014991.ts
+#EXTINF:-1 tvg-id="bandrj.br" tvg-name="BAND RN HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/band-sp-fhd.png" group-title="F24 M3  BAND",BAND RN HD
+http://cloudsalex.space:80/592693566/291894002/9014992.ts
+#EXTINF:-1 tvg-id="" tvg-name="BAND CAMPINAS HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/band-sp-fhd.png" group-title="F24 M3  BAND",BAND CAMPINAS HD
+http://cloudsalex.space:80/592693566/291894002/9014993.ts
+#EXTINF:-1 tvg-id="bandbrasília.br" tvg-name="BAND BRASÍLIA HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/band-sp-fhd.png" group-title="F24 M3  BAND",BAND BRASÍLIA HD
+http://cloudsalex.space:80/592693566/291894002/9014994.ts
+#EXTINF:-1 tvg-id="bandrj.br" tvg-name="Band RJ HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/band-sp-fhd.png" group-title="F24 M3  BAND",Band RJ HD
+http://cloudsalex.space:80/592693566/291894002/9014995.ts
+#EXTINF:-1 tvg-id="bandrj.br" tvg-name="Band RS HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/band-sp-fhd.png" group-title="F24 M3  BAND",Band RS HD
+http://cloudsalex.space:80/592693566/291894002/9014996.ts
+#EXTINF:-1 tvg-id="tvsergipe.br" tvg-name="Band Sergipe HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/band-sp-fhd.png" group-title="F24 M3  BAND",Band Sergipe HD
+http://cloudsalex.space:80/592693566/291894002/9014997.ts
+#EXTINF:-1 tvg-id="band.minas.br" tvg-name="BAND MINAS HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/band-sp-fhd.png" group-title="F24 M3  BAND",BAND MINAS HD
+http://cloudsalex.space:80/592693566/291894002/9014998.ts
+#EXTINF:-1 tvg-id="band.minas.br" tvg-name="BAND MINAS FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/band-sp-fhd.png" group-title="F24 M3  BAND",BAND MINAS FHD
+http://cloudsalex.space:80/592693566/291894002/9014999.ts
+#EXTINF:-1 tvg-id="sbtrs.br" tvg-name="SBT RS HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/stb-novo.png" group-title="F24 M3  SBT",SBT RS HD
+http://cloudsalex.space:80/592693566/291894002/9015000.ts
+#EXTINF:-1 tvg-id="" tvg-name="SBT BSB HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/stb-novo.png" group-title="F24 M3  SBT",SBT BSB HD
+http://cloudsalex.space:80/592693566/291894002/9015001.ts
+#EXTINF:-1 tvg-id="" tvg-name="SBT Sergipe -Tv Aperiper HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/stb-novo.png" group-title="F24 M3  SBT",SBT Sergipe -Tv Aperiper HD
+http://cloudsalex.space:80/592693566/291894002/9015002.ts
+#EXTINF:-1 tvg-id="sbtrs.br" tvg-name="SBT RJ FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/stb-novo.png" group-title="F24 M3  SBT",SBT RJ FHD
+http://cloudsalex.space:80/592693566/291894002/9015003.ts
+#EXTINF:-1 tvg-id="sbtrs.br" tvg-name="SBT RJ HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/stb-novo.png" group-title="F24 M3  SBT",SBT RJ HD
+http://cloudsalex.space:80/592693566/291894002/9015004.ts
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/stb-novo.png" group-title="F24 M3  SBT",SBT SP HD
+http://cloudsalex.space:80/592693566/291894002/9015005.ts
+#EXTINF:-1 tvg-id="sbtbrasilia.br" tvg-name="SBT BRASILIA FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/stb-novo.png" group-title="F24 M3  SBT",SBT BRASILIA FHD
+http://cloudsalex.space:80/592693566/291894002/9015006.ts
+#EXTINF:-1 tvg-id="" tvg-name="SBT-MG-Tv Alterosa FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/stb-novo.png" group-title="F24 M3  SBT",SBT-MG-Tv Alterosa FHD
+http://cloudsalex.space:80/592693566/291894002/9015007.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tv Alterosa HD [SBT MG]" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/stb-novo.png" group-title="F24 M3  SBT",Tv Alterosa HD [SBT MG]
+http://cloudsalex.space:80/592693566/291894002/9015008.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC News" tvg-logo="http://tvgolatino.com:8080/images/94591eb4868b546b12484a4449f082b7.png" group-title="F24 M3  EUA",USA: ABC News
+http://cloudsalex.space:80/592693566/291894002/9015009.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC Albany NY" tvg-logo="http://tvgolatino.com:8080/images/94591eb4868b546b12484a4449f082b7.png" group-title="F24 M3  EUA",USA: ABC Albany NY
+http://cloudsalex.space:80/592693566/291894002/9015010.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC Atlanta" tvg-logo="" group-title="F24 M3  EUA",USA: ABC Atlanta
+http://cloudsalex.space:80/592693566/291894002/9015011.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC Augusta WJBF" tvg-logo="http://tvgolatino.com:8080/images/2299daf49fd6c0357a255e33e96753e6.png" group-title="F24 M3  EUA",USA: ABC Augusta WJBF
+http://cloudsalex.space:80/592693566/291894002/9015012.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC Baltimore" tvg-logo="http://tvgolatino.com:8080/images/39a0c542d4d7dae617c52fd58cce1136.png" group-title="F24 M3  EUA",USA: ABC Baltimore
+http://cloudsalex.space:80/592693566/291894002/9015013.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC Boston" tvg-logo="http://tvgolatino.com:8080/images/34a2883aacc8b3a78156d887dfe96770.png" group-title="F24 M3  EUA",USA: ABC Boston
+http://cloudsalex.space:80/592693566/291894002/9015014.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC Buffalo" tvg-logo="http://tvgolatino.com:8080/images/b8678af89044208daba86760cb979ab8.png" group-title="F24 M3  EUA",USA: ABC Buffalo
+http://cloudsalex.space:80/592693566/291894002/9015015.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC Charlotte" tvg-logo="http://tvgolatino.com:8080/images/aeb8146ece7c169c31d21ae2556f44e4.png" group-title="F24 M3  EUA",USA: ABC Charlotte
+http://cloudsalex.space:80/592693566/291894002/9015016.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC Chicago HD" tvg-logo="http://tvgolatino.com:8080/images/7f88ffbc5e91bc2622b30c2fd45ceb91.png" group-title="F24 M3  EUA",USA: ABC Chicago HD
+http://cloudsalex.space:80/592693566/291894002/9015017.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC Cleveland" tvg-logo="http://tvgolatino.com:8080/images/893ab6462d0e03f3aba363f6497d36df.png" group-title="F24 M3  EUA",USA: ABC Cleveland
+http://cloudsalex.space:80/592693566/291894002/9015018.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC Cincinnati" tvg-logo="" group-title="F24 M3  EUA",USA: ABC Cincinnati
+http://cloudsalex.space:80/592693566/291894002/9015019.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC Columbus" tvg-logo="http://tvgolatino.com:8080/images/a26d52bb27aab62a9d6c9fc580c5d1fc.PNG" group-title="F24 M3  EUA",USA: ABC Columbus
+http://cloudsalex.space:80/592693566/291894002/9015020.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC New Orleans" tvg-logo="http://tvgolatino.com:8080/images/920beb6307e64ac4588b22af72f9e301.png" group-title="F24 M3  EUA",USA: ABC New Orleans
+http://cloudsalex.space:80/592693566/291894002/9015021.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC Detroit HD" tvg-logo="http://tvgolatino.com:8080/images/ac7a679b00089f7ea03d5aa499374896.png" group-title="F24 M3  EUA",USA: ABC Detroit HD
+http://cloudsalex.space:80/592693566/291894002/9015022.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC Fresno" tvg-logo="http://tvgolatino.com:8080/images/3aead99609a7c1bd3dc49ff4755a3f66.png" group-title="F24 M3  EUA",USA: ABC Fresno
+http://cloudsalex.space:80/592693566/291894002/9015023.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC houston" tvg-logo="http://tvgolatino.com:8080/images/68c3b4a91a2085f12d75fda811f65ea4.png" group-title="F24 M3  EUA",USA: ABC houston
+http://cloudsalex.space:80/592693566/291894002/9015024.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC Indianapolis" tvg-logo="http://tvgolatino.com:8080/images/860d38b6740c5c43f61766ec701f5032.png" group-title="F24 M3  EUA",USA: ABC Indianapolis
+http://cloudsalex.space:80/592693566/291894002/9015025.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC Jacksonville" tvg-logo="http://tvgolatino.com:8080/images/3f6565acfa6355d873444157d83b1712.png" group-title="F24 M3  EUA",USA: ABC Jacksonville
+http://cloudsalex.space:80/592693566/291894002/9015026.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC Kansas City" tvg-logo="http://tvgolatino.com:8080/images/85b57aa33190733052e5a96a996fbceb.png" group-title="F24 M3  EUA",USA: ABC Kansas City
+http://cloudsalex.space:80/592693566/291894002/9015027.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC Las Vegas" tvg-logo="" group-title="F24 M3  EUA",USA: ABC Las Vegas
+http://cloudsalex.space:80/592693566/291894002/9015028.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC Los Angeles HD" tvg-logo="http://tvgolatino.com:8080/images/8b997180397ccb6723090140b09b548c.png" group-title="F24 M3  EUA",USA: ABC Los Angeles HD
+http://cloudsalex.space:80/592693566/291894002/9015029.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC Miami" tvg-logo="http://tvgolatino.com:8080/images/a70c5f1f5180aad825e06e0e7a39dd40.png" group-title="F24 M3  EUA",USA: ABC Miami
+http://cloudsalex.space:80/592693566/291894002/9015030.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC Milwaukee" tvg-logo="http://tvgolatino.com:8080/images/f909c703cd235f94d2eda615ff2b2a64.png" group-title="F24 M3  EUA",USA: ABC Milwaukee
+http://cloudsalex.space:80/592693566/291894002/9015031.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC Nashville" tvg-logo="http://tvgolatino.com:8080/images/f28fe0ecde1626c2bf36802e69db0b19.png" group-title="F24 M3  EUA",USA: ABC Nashville
+http://cloudsalex.space:80/592693566/291894002/9015032.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC New York" tvg-logo="http://tvgolatino.com:8080/images/d7640141ce6dd62b6334a04a8db14e5c.png" group-title="F24 M3  EUA",USA: ABC New York
+http://cloudsalex.space:80/592693566/291894002/9015033.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC Tampa" tvg-logo="" group-title="F24 M3  EUA",USA: ABC Tampa
+http://cloudsalex.space:80/592693566/291894002/9015034.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC Phoenix" tvg-logo="http://tvgolatino.com:8080/images/55acc3d9dbebf2878f4d518c53081c3a.png" group-title="F24 M3  EUA",USA: ABC Phoenix
+http://cloudsalex.space:80/592693566/291894002/9015035.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC Orlando" tvg-logo="http://tvgolatino.com:8080/images/247b5c67c91d597c45704f21c7d1a59e.png" group-title="F24 M3  EUA",USA: ABC Orlando
+http://cloudsalex.space:80/592693566/291894002/9015036.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC Sacramento" tvg-logo="http://tvgolatino.com:8080/images/87456257900e1b54cd1b25fa9ee2b7c8.png" group-title="F24 M3  EUA",USA: ABC Sacramento
+http://cloudsalex.space:80/592693566/291894002/9015037.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC Portland" tvg-logo="http://tvgolatino.com:8080/images/252c4575563451edaa4911b0d20ff2c6.png" group-title="F24 M3  EUA",USA: ABC Portland
+http://cloudsalex.space:80/592693566/291894002/9015038.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC San Francisco" tvg-logo="http://tvgolatino.com:8080/images/54c7afdcdc538db0fda10104b8537403.png" group-title="F24 M3  EUA",USA: ABC San Francisco
+http://cloudsalex.space:80/592693566/291894002/9015039.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC Salt Lake City" tvg-logo="http://tvgolatino.com:8080/images/c75347413b932d3dae730c483f415f82.png" group-title="F24 M3  EUA",USA: ABC Salt Lake City
+http://cloudsalex.space:80/592693566/291894002/9015040.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC San Diego" tvg-logo="http://tvgolatino.com:8080/images/a2dd9b9628b89ec6002e87d245fe5bc1.jpg" group-title="F24 M3  EUA",USA: ABC San Diego
+http://cloudsalex.space:80/592693566/291894002/9015041.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC San Antonio" tvg-logo="http://tvgolatino.com:8080/images/069f95308f7f117480cd4646a1759a20.png" group-title="F24 M3  EUA",USA: ABC San Antonio
+http://cloudsalex.space:80/592693566/291894002/9015042.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC Seatle" tvg-logo="" group-title="F24 M3  EUA",USA: ABC Seatle
+http://cloudsalex.space:80/592693566/291894002/9015043.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: PBS Tampa" tvg-logo="" group-title="F24 M3  EUA",USA: PBS Tampa
+http://cloudsalex.space:80/592693566/291894002/9015044.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC Tulsa" tvg-logo="" group-title="F24 M3  EUA",USA: ABC Tulsa
+http://cloudsalex.space:80/592693566/291894002/9015045.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC Washington" tvg-logo="http://tvgolatino.com:8080/images/fefa4b78e2df8c49dac29f2dfd058884.png" group-title="F24 M3  EUA",USA: ABC Washington
+http://cloudsalex.space:80/592693566/291894002/9015046.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS Augusta" tvg-logo="http://tvgolatino.com:8080/images/cf457302cb43278b9592d7d5b7383208.PNG" group-title="F24 M3  EUA",USA: CBS Augusta
+http://cloudsalex.space:80/592693566/291894002/9015047.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS Albany" tvg-logo="http://tvgolatino.com:8080/images/c20d69401bea705f218463fafd2f1b0e.png" group-title="F24 M3  EUA",USA: CBS Albany
+http://cloudsalex.space:80/592693566/291894002/9015048.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS Baltimore" tvg-logo="http://tvgolatino.com:8080/images/ee7546e307659b8760af684b9ec018b9.png" group-title="F24 M3  EUA",USA: CBS Baltimore
+http://cloudsalex.space:80/592693566/291894002/9015049.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS Boston" tvg-logo="http://tvgolatino.com:8080/images/0c9cddba33d81e8348e7a4c93d84038e.png" group-title="F24 M3  EUA",USA: CBS Boston
+http://cloudsalex.space:80/592693566/291894002/9015050.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS Charleston" tvg-logo="http://tvgolatino.com:8080/images/1519a15824c802b2deed940c3dd4ce57.png" group-title="F24 M3  EUA",USA: CBS Charleston
+http://cloudsalex.space:80/592693566/291894002/9015051.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS Charlotte" tvg-logo="http://tvgolatino.com:8080/images/83394f04032d3af83301653b858979c3.png" group-title="F24 M3  EUA",USA: CBS Charlotte
+http://cloudsalex.space:80/592693566/291894002/9015052.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS Chicago" tvg-logo="http://tvgolatino.com:8080/images/199e8cc1de9e8eca09e0f9d100305e42.png" group-title="F24 M3  EUA",USA: CBS Chicago
+http://cloudsalex.space:80/592693566/291894002/9015053.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS Cincinnati" tvg-logo="http://tvgolatino.com:8080/images/712d5970c7202677c18524c48f150fc5.png" group-title="F24 M3  EUA",USA: CBS Cincinnati
+http://cloudsalex.space:80/592693566/291894002/9015054.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS Cleveland" tvg-logo="http://tvgolatino.com:8080/images/574a97a89f9a38c49ec90f833a6a26fe.png" group-title="F24 M3  EUA",USA: CBS Cleveland
+http://cloudsalex.space:80/592693566/291894002/9015055.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS Columbia" tvg-logo="http://tvgolatino.com:8080/images/965d570ed3a5aa923597ce0b31669e63.png" group-title="F24 M3  EUA",USA: CBS Columbia
+http://cloudsalex.space:80/592693566/291894002/9015056.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS Columbus" tvg-logo="http://tvgolatino.com:8080/images/c0d6ee533a8280cbe6e3d5cecc370e5f.png" group-title="F24 M3  EUA",USA: CBS Columbus
+http://cloudsalex.space:80/592693566/291894002/9015057.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS Detroit" tvg-logo="http://tvgolatino.com:8080/images/9b80efa2f2661861813e1b6ce12e31d6.png" group-title="F24 M3  EUA",USA: CBS Detroit
+http://cloudsalex.space:80/592693566/291894002/9015058.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS Fresno" tvg-logo="http://tvgolatino.com:8080/images/fdcfd4dbf622856f6ddbbcdd134d2c70.png" group-title="F24 M3  EUA",USA: CBS Fresno
+http://cloudsalex.space:80/592693566/291894002/9015059.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS Houston" tvg-logo="http://tvgolatino.com:8080/images/578dc272fb26276513de1028d3160b9d.png" group-title="F24 M3  EUA",USA: CBS Houston
+http://cloudsalex.space:80/592693566/291894002/9015060.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS Kansas City" tvg-logo="http://tvgolatino.com:8080/images/87cf04d1b04871397bf2d03bc526eb8d.png" group-title="F24 M3  EUA",USA: CBS Kansas City
+http://cloudsalex.space:80/592693566/291894002/9015061.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS Las Vegas" tvg-logo="http://tvgolatino.com:8080/images/1101d6e2d0edf6f5051de46fb49b7452.png" group-title="F24 M3  EUA",USA: CBS Las Vegas
+http://cloudsalex.space:80/592693566/291894002/9015062.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS Los Angeles Kcal-9 HD" tvg-logo="http://tvgolatino.com:8080/images/676b56bc7a7171b4da71dbe9b24d72f0.png" group-title="F24 M3  EUA",USA: CBS Los Angeles Kcal-9 HD
+http://cloudsalex.space:80/592693566/291894002/9015063.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS Los Angeles KCBS HD" tvg-logo="http://tvgolatino.com:8080/images/676b56bc7a7171b4da71dbe9b24d72f0.png" group-title="F24 M3  EUA",USA: CBS Los Angeles KCBS HD
+http://cloudsalex.space:80/592693566/291894002/9015064.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS Miami" tvg-logo="http://tvgolatino.com:8080/images/47f0ac4152d87edea2a3d624c42254e0.png" group-title="F24 M3  EUA",USA: CBS Miami
+http://cloudsalex.space:80/592693566/291894002/9015065.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS Monterey" tvg-logo="http://tvgolatino.com:8080/images/753fb4225eafcc5766c795db8ff8ef7d.png" group-title="F24 M3  EUA",USA: CBS Monterey
+http://cloudsalex.space:80/592693566/291894002/9015066.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS New York" tvg-logo="http://tvgolatino.com:8080/images/4e5a2d6cb211d2b38b61c2819a88a52f.png" group-title="F24 M3  EUA",USA: CBS New York
+http://cloudsalex.space:80/592693566/291894002/9015067.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS Nashville" tvg-logo="http://tvgolatino.com:8080/images/b193d065fe52172e697cf4f92f7ef1d0.png" group-title="F24 M3  EUA",USA: CBS Nashville
+http://cloudsalex.space:80/592693566/291894002/9015068.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS Orlando" tvg-logo="http://tvgolatino.com:8080/images/87eeb6f4fddf287c8a690fd6c7bebe23.png" group-title="F24 M3  EUA",USA: CBS Orlando
+http://cloudsalex.space:80/592693566/291894002/9015069.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS Philadelphia" tvg-logo="http://tvgolatino.com:8080/images/34d230d5efe957db8450ea72d7f92a69.png" group-title="F24 M3  EUA",USA: CBS Philadelphia
+http://cloudsalex.space:80/592693566/291894002/9015070.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS Phoenix" tvg-logo="http://tvgolatino.com:8080/images/bb875db061e6093e346fcd59087e5abf.png" group-title="F24 M3  EUA",USA: CBS Phoenix
+http://cloudsalex.space:80/592693566/291894002/9015071.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS Pittsburgh" tvg-logo="http://tvgolatino.com:8080/images/09e7a09b50835c06838f4374070741c7.png" group-title="F24 M3  EUA",USA: CBS Pittsburgh
+http://cloudsalex.space:80/592693566/291894002/9015072.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS San Antonio" tvg-logo="http://tvgolatino.com:8080/images/64c1f564b05f4de39e6326dbbedbd73c.png" group-title="F24 M3  EUA",USA: CBS San Antonio
+http://cloudsalex.space:80/592693566/291894002/9015073.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS San Diego KFMB" tvg-logo="http://tvgolatino.com:8080/images/f64f7989b62d8a45aecf44b004258a30.png" group-title="F24 M3  EUA",USA: CBS San Diego KFMB
+http://cloudsalex.space:80/592693566/291894002/9015074.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS San Francisco" tvg-logo="http://tvgolatino.com:8080/images/1f8d3067c538e153a9d1640d41054e94.png" group-title="F24 M3  EUA",USA: CBS San Francisco
+http://cloudsalex.space:80/592693566/291894002/9015075.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS Salt Lake City" tvg-logo="http://tvgolatino.com:8080/images/89f6c387ae7d0e4ceda09261bf80d5e5.PNG" group-title="F24 M3  EUA",USA: CBS Salt Lake City
+http://cloudsalex.space:80/592693566/291894002/9015076.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS Seattle" tvg-logo="http://tvgolatino.com:8080/images/be944b6e3088dd078265270ccc482c3a.png" group-title="F24 M3  EUA",USA: CBS Seattle
+http://cloudsalex.space:80/592693566/291894002/9015077.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS ST. Louis" tvg-logo="http://tvgolatino.com:8080/images/61eaf046f760f3fd8ccfa4a9a67f0b04.png" group-title="F24 M3  EUA",USA: CBS ST. Louis
+http://cloudsalex.space:80/592693566/291894002/9015078.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS Tampa" tvg-logo="http://tvgolatino.com:8080/images/835c50464e97610e27926d870ae76222.png" group-title="F24 M3  EUA",USA: CBS Tampa
+http://cloudsalex.space:80/592693566/291894002/9015079.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS Tucson" tvg-logo="http://tvgolatino.com:8080/images/e378163c844f8f571349479cc114bc47.png" group-title="F24 M3  EUA",USA: CBS Tucson
+http://cloudsalex.space:80/592693566/291894002/9015080.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS Washington" tvg-logo="http://tvgolatino.com:8080/images/43e2c40ed090336025c96b58401617a5.png" group-title="F24 M3  EUA",USA: CBS Washington
+http://cloudsalex.space:80/592693566/291894002/9015081.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX Albuquerque" tvg-logo="http://tvgolatino.com:8080/images/ee816d5510457cef0ba19a6fe11fe9e7.png" group-title="F24 M3  EUA",USA: FOX Albuquerque
+http://cloudsalex.space:80/592693566/291894002/9015082.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX Augusta" tvg-logo="http://tvgolatino.com:8080/images/90a9e961b406610b4489f5d792f4feaa.png" group-title="F24 M3  EUA",USA: FOX Augusta
+http://cloudsalex.space:80/592693566/291894002/9015083.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX Albany" tvg-logo="http://tvgolatino.com:8080/images/6e127c0ba182077a66fac742c16fce24.PNG" group-title="F24 M3  EUA",USA: FOX Albany
+http://cloudsalex.space:80/592693566/291894002/9015084.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX Ocala" tvg-logo="http://tvgolatino.com:8080/images/4c7008b5afd7f9418719afd9dc624cbc.png" group-title="F24 M3  EUA",USA: FOX Ocala
+http://cloudsalex.space:80/592693566/291894002/9015085.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX Boston" tvg-logo="http://tvgolatino.com:8080/images/25cabec6b5fc7f0d0877da5fc16cdb48.png" group-title="F24 M3  EUA",USA: FOX Boston
+http://cloudsalex.space:80/592693566/291894002/9015086.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX Buffalo" tvg-logo="http://tvgolatino.com:8080/images/ea3f4e1d2b298dee8b022b57d76f2c85.png" group-title="F24 M3  EUA",USA: FOX Buffalo
+http://cloudsalex.space:80/592693566/291894002/9015087.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX Charlotte" tvg-logo="http://tvgolatino.com:8080/images/5199971987a110ccd93a43c07cfa2f0e.png" group-title="F24 M3  EUA",USA: FOX Charlotte
+http://cloudsalex.space:80/592693566/291894002/9015088.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX Chicago" tvg-logo="http://tvgolatino.com:8080/images/19ca8f602195aed0b20c230f47ee0890.png" group-title="F24 M3  EUA",USA: FOX Chicago
+http://cloudsalex.space:80/592693566/291894002/9015089.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX Cincinnati" tvg-logo="http://tvgolatino.com:8080/images/ff78fed60cfb859531052e45611576af.png" group-title="F24 M3  EUA",USA: FOX Cincinnati
+http://cloudsalex.space:80/592693566/291894002/9015090.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX Orlando" tvg-logo="" group-title="F24 M3  EUA",USA: FOX Orlando
+http://cloudsalex.space:80/592693566/291894002/9015091.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX Denver" tvg-logo="http://tvgolatino.com:8080/images/48fcfeaa33902fe9ec8c424dbe208c3b.png" group-title="F24 M3  EUA",USA: FOX Denver
+http://cloudsalex.space:80/592693566/291894002/9015092.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX Dallas" tvg-logo="http://tvgolatino.com:8080/images/1df3f6f640afb3204b94fd346c37c491.png" group-title="F24 M3  EUA",USA: FOX Dallas
+http://cloudsalex.space:80/592693566/291894002/9015093.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX Detroit HD" tvg-logo="http://tvgolatino.com:8080/images/457370d36b32ba21f996ff7f42b96380.png" group-title="F24 M3  EUA",USA: FOX Detroit HD
+http://cloudsalex.space:80/592693566/291894002/9015094.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX Greenville" tvg-logo="http://tvgo.re:8080/images/f46ef0ed686654f1a6290236dbd26998.png" group-title="F24 M3  EUA",USA: FOX Greenville
+http://cloudsalex.space:80/592693566/291894002/9015095.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX Hartford" tvg-logo="http://tvgolatino.com:8080/images/f3275cf7deae33b97928dce05520b1b3.png" group-title="F24 M3  EUA",USA: FOX Hartford
+http://cloudsalex.space:80/592693566/291894002/9015096.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX Houston" tvg-logo="http://tvgolatino.com:8080/images/75d984df679b6cd92eda21bb5187e613.png" group-title="F24 M3  EUA",USA: FOX Houston
+http://cloudsalex.space:80/592693566/291894002/9015097.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX Indianapolis" tvg-logo="http://tvgolatino.com:8080/images/912998702123c045e3ccc92d5c0f07f5.png" group-title="F24 M3  EUA",USA: FOX Indianapolis
+http://cloudsalex.space:80/592693566/291894002/9015098.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX Kansas City" tvg-logo="http://tvgolatino.com:8080/images/0d28dcf9d97e258ae555dec0f4383937.png" group-title="F24 M3  EUA",USA: FOX Kansas City
+http://cloudsalex.space:80/592693566/291894002/9015099.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX Los Angeles" tvg-logo="http://tvgolatino.com:8080/images/04ad21f9ad2c0d8c860985cdc9a9063b.png" group-title="F24 M3  EUA",USA: FOX Los Angeles
+http://cloudsalex.space:80/592693566/291894002/9015100.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX Memphis" tvg-logo="http://tvgolatino.com:8080/images/c21a6d4a5a8ff756e89e3e8739486f2f.png" group-title="F24 M3  EUA",USA: FOX Memphis
+http://cloudsalex.space:80/592693566/291894002/9015101.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX Miami" tvg-logo="http://tvgolatino.com:8080/images/24dc39e092adc005f6e300a86dee2c26.png" group-title="F24 M3  EUA",USA: FOX Miami
+http://cloudsalex.space:80/592693566/291894002/9015102.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX Minneaspolis" tvg-logo="" group-title="F24 M3  EUA",USA: FOX Minneaspolis
+http://cloudsalex.space:80/592693566/291894002/9015103.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX Nashville" tvg-logo="http://tvgolatino.com:8080/images/eda02401929be21886d1ce9b55630e27.png" group-title="F24 M3  EUA",USA: FOX Nashville
+http://cloudsalex.space:80/592693566/291894002/9015104.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Fox News" tvg-logo="http://tvgo.re:8080/images/33a8be5410a951bbd2cec14d5e4167ef.png" group-title="F24 M3  EUA",USA: Fox News
+http://cloudsalex.space:80/592693566/291894002/9015105.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX New Orleans" tvg-logo="http://tvgolatino.com:8080/images/0061869537f63122987f18daa4da7979.png" group-title="F24 M3  EUA",USA: FOX New Orleans
+http://cloudsalex.space:80/592693566/291894002/9015106.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Fox New York" tvg-logo="http://tvgolatino.com:8080/images/b086a3e545850111e9b68c563c8b1539.png" group-title="F24 M3  EUA",USA: Fox New York
+http://cloudsalex.space:80/592693566/291894002/9015107.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX Panama City" tvg-logo="http://tvgo.re:8080/images/f332748d148ed984f62fe2bb3b18ad15.png" group-title="F24 M3  EUA",USA: FOX Panama City
+http://cloudsalex.space:80/592693566/291894002/9015108.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX Philadelphia" tvg-logo="http://tvgolatino.com:8080/images/3071ca6db9f5e4a727842899b7630dd0.png" group-title="F24 M3  EUA",USA: FOX Philadelphia
+http://cloudsalex.space:80/592693566/291894002/9015109.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX Phoenix" tvg-logo="http://tvgolatino.com:8080/images/b8731adcdf9f2d897f48f8002c65cc0c.png" group-title="F24 M3  EUA",USA: FOX Phoenix
+http://cloudsalex.space:80/592693566/291894002/9015110.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX Pittsburgh" tvg-logo="http://tvgolatino.com:8080/images/1957ea54287afef3e9b035b5aa5f1b96.png" group-title="F24 M3  EUA",USA: FOX Pittsburgh
+http://cloudsalex.space:80/592693566/291894002/9015111.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX Jacksonville" tvg-logo="http://tvgolatino.com:8080/images/60ce43ebef82f3878f85e35fb3164397.png" group-title="F24 M3  EUA",USA: FOX Jacksonville
+http://cloudsalex.space:80/592693566/291894002/9015112.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX Salt Lake City" tvg-logo="http://tvgolatino.com:8080/images/5b7d81eacd91f2e5e8222a826f8d76ad.jpg" group-title="F24 M3  EUA",USA: FOX Salt Lake City
+http://cloudsalex.space:80/592693566/291894002/9015113.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX San Antonio" tvg-logo="http://tvgolatino.com:8080/images/33008a34b0e1ba42956823ba1588c2d0.jpg" group-title="F24 M3  EUA",USA: FOX San Antonio
+http://cloudsalex.space:80/592693566/291894002/9015114.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX San Diego" tvg-logo="http://tvgolatino.com:8080/images/648d3f0e626bd1bcd5aafe587bceb854.png" group-title="F24 M3  EUA",USA: FOX San Diego
+http://cloudsalex.space:80/592693566/291894002/9015115.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX San Francisco" tvg-logo="http://tvgolatino.com:8080/images/263ed2081d65b09d8ae360bb197294d2.png" group-title="F24 M3  EUA",USA: FOX San Francisco
+http://cloudsalex.space:80/592693566/291894002/9015116.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX San Luis" tvg-logo="http://tvgolatino.com:8080/images/2b92e4ca6908abf8b903bec93c85a349.png" group-title="F24 M3  EUA",USA: FOX San Luis
+http://cloudsalex.space:80/592693566/291894002/9015117.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX San Jose" tvg-logo="http://tvgolatino.com:8080/images/263ed2081d65b09d8ae360bb197294d2.png" group-title="F24 M3  EUA",USA: FOX San Jose
+http://cloudsalex.space:80/592693566/291894002/9015118.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX Sacramento" tvg-logo="http://tvgolatino.com:8080/images/e9d77eb6d27c4d353dce38aceaf959ba.png" group-title="F24 M3  EUA",USA: FOX Sacramento
+http://cloudsalex.space:80/592693566/291894002/9015119.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX St Louis" tvg-logo="http://tvgolatino.com:8080/images/13f508e35a598e4ddbd94d649db96a1f.png" group-title="F24 M3  EUA",USA: FOX St Louis
+http://cloudsalex.space:80/592693566/291894002/9015120.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX Tucson" tvg-logo="http://tvgolatino.com:8080/images/cf27407a761568ce06f1c154d8d55070.png" group-title="F24 M3  EUA",USA: FOX Tucson
+http://cloudsalex.space:80/592693566/291894002/9015121.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX Washington" tvg-logo="http://tvgolatino.com:8080/images/988951f90cb645a812780140c7088e18.png" group-title="F24 M3  EUA",USA: FOX Washington
+http://cloudsalex.space:80/592693566/291894002/9015122.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX Cleveland" tvg-logo="http://tvgolatino.com:8080/images/68c96d2e9daf8236ec67a4e3807cd58d.png" group-title="F24 M3  EUA",USA: FOX Cleveland
+http://cloudsalex.space:80/592693566/291894002/9015123.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC Albany" tvg-logo="http://tvgolatino.com:8080/images/52dfc8d17c297079e7e683a353bfb692.png" group-title="F24 M3  EUA",USA: NBC Albany
+http://cloudsalex.space:80/592693566/291894002/9015124.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC Alburquerque" tvg-logo="http://tvgolatino.com:8080/images/3ae00d501dc68839a76d879532d62101.png" group-title="F24 M3  EUA",USA: NBC Alburquerque
+http://cloudsalex.space:80/592693566/291894002/9015125.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC Augusta" tvg-logo="http://tvgolatino.com:8080/images/d7208bb63b02f3660a4fe27a193e024f.png" group-title="F24 M3  EUA",USA: NBC Augusta
+http://cloudsalex.space:80/592693566/291894002/9015126.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC: Baltimore" tvg-logo="http://tvgolatino.com:8080/images/8838d8cbbbbfc793ee196d3b3fac1aea.png" group-title="F24 M3  EUA",USA: NBC: Baltimore
+http://cloudsalex.space:80/592693566/291894002/9015127.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC Boston" tvg-logo="http://tvgolatino.com:8080/images/1a6f231022b8167d18ee76c0e467f6f5.png" group-title="F24 M3  EUA",USA: NBC Boston
+http://cloudsalex.space:80/592693566/291894002/9015128.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC Buffalo" tvg-logo="http://tvgolatino.com:8080/images/034e614cc739aff937b885ad8efe06d2.png" group-title="F24 M3  EUA",USA: NBC Buffalo
+http://cloudsalex.space:80/592693566/291894002/9015129.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC Charlestone" tvg-logo="http://tvgolatino.com:8080/images/f865d8cac93e25dcd92ba691a4341416.png" group-title="F24 M3  EUA",USA: NBC Charlestone
+http://cloudsalex.space:80/592693566/291894002/9015130.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC Chicago" tvg-logo="http://tvgolatino.com:8080/images/1ed5babe7659619bcd84aa123f4a7fd1.png" group-title="F24 M3  EUA",USA: NBC Chicago
+http://cloudsalex.space:80/592693566/291894002/9015131.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC Cincinnati" tvg-logo="http://tvgolatino.com:8080/images/98494c360bacf0cc65d12e3a36d48d52.png" group-title="F24 M3  EUA",USA: NBC Cincinnati
+http://cloudsalex.space:80/592693566/291894002/9015132.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC Cleveland" tvg-logo="http://tvgolatino.com:8080/images/bf804bdb66af16619326bf672220a989.png" group-title="F24 M3  EUA",USA: NBC Cleveland
+http://cloudsalex.space:80/592693566/291894002/9015133.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC Columbia" tvg-logo="http://tvgolatino.com:8080/images/002e4c15f73f293425629ebcf94e925d.png" group-title="F24 M3  EUA",USA: NBC Columbia
+http://cloudsalex.space:80/592693566/291894002/9015134.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC Columbus" tvg-logo="http://tvgolatino.com:8080/images/82f7657e84e69ef7c7ae91edbd689bc3.png" group-title="F24 M3  EUA",USA: NBC Columbus
+http://cloudsalex.space:80/592693566/291894002/9015135.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC Denver" tvg-logo="http://tvgolatino.com:8080/images/b15c7f4daa8ba39274421e4a4d612784.png" group-title="F24 M3  EUA",USA: NBC Denver
+http://cloudsalex.space:80/592693566/291894002/9015136.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC Fresno" tvg-logo="http://tvgolatino.com:8080/images/ac71e5689641c286edc253b0a94d31d6.png" group-title="F24 M3  EUA",USA: NBC Fresno
+http://cloudsalex.space:80/592693566/291894002/9015137.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC GREEN BAY" tvg-logo="http://tvgolatino.com:8080/images/392454ecc47dd37716e90d4e1174b4cf.png" group-title="F24 M3  EUA",USA: NBC GREEN BAY
+http://cloudsalex.space:80/592693566/291894002/9015138.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC Jacksonville" tvg-logo="http://tvgolatino.com:8080/images/6f8efce1c032a2c847dc37b8ba30a86f.png" group-title="F24 M3  EUA",USA: NBC Jacksonville
+http://cloudsalex.space:80/592693566/291894002/9015139.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC Kansas City" tvg-logo="http://tvgolatino.com:8080/images/e37b1a24db127c640b6477eaea9fa272.png" group-title="F24 M3  EUA",USA: NBC Kansas City
+http://cloudsalex.space:80/592693566/291894002/9015140.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC Los Angeles" tvg-logo="http://tvgolatino.com:8080/images/c08f3229cf915faf465f7904946b361f.png" group-title="F24 M3  EUA",USA: NBC Los Angeles
+http://cloudsalex.space:80/592693566/291894002/9015141.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC Milwaukee" tvg-logo="http://tvgolatino.com:8080/images/025907310d8104226267aba310adaf2d.png" group-title="F24 M3  EUA",USA: NBC Milwaukee
+http://cloudsalex.space:80/592693566/291894002/9015142.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC Miami" tvg-logo="http://tvgolatino.com:8080/images/853071515ecf7e1c7c7bff1c24d7a330.png" group-title="F24 M3  EUA",USA: NBC Miami
+http://cloudsalex.space:80/592693566/291894002/9015143.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC New York" tvg-logo="http://tvgolatino.com:8080/images/5e498e0c418b32ef0fbadac3d72d2896.png" group-title="F24 M3  EUA",USA: NBC New York
+http://cloudsalex.space:80/592693566/291894002/9015144.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC Orlando" tvg-logo="http://tvgolatino.com:8080/images/ef28a1a78bbad38af164aebc21d0c373.png" group-title="F24 M3  EUA",USA: NBC Orlando
+http://cloudsalex.space:80/592693566/291894002/9015145.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC Panama City" tvg-logo="http://tvgolatino.com:8080/images/de689d895d7957cdca289cff91117eb8.png" group-title="F24 M3  EUA",USA: NBC Panama City
+http://cloudsalex.space:80/592693566/291894002/9015146.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC Phoenix" tvg-logo="http://tvgolatino.com:8080/images/9b791290d805be480742cde3b87948e1.png" group-title="F24 M3  EUA",USA: NBC Phoenix
+http://cloudsalex.space:80/592693566/291894002/9015147.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC Portland" tvg-logo="http://tvgolatino.com:8080/images/7e40bca61b9842b6995401e6d04e755a.png" group-title="F24 M3  EUA",USA: NBC Portland
+http://cloudsalex.space:80/592693566/291894002/9015148.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC Sacramento" tvg-logo="http://tvgolatino.com:8080/images/b769b71b0cf13600b7c2c171b52aa159.png" group-title="F24 M3  EUA",USA: NBC Sacramento
+http://cloudsalex.space:80/592693566/291894002/9015149.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC San Diego" tvg-logo="http://tvgolatino.com:8080/images/9c6914b4983790d0ffd7a2357a36c7d3.png" group-title="F24 M3  EUA",USA: NBC San Diego
+http://cloudsalex.space:80/592693566/291894002/9015150.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC San Francisco" tvg-logo="http://tvgo.re:8080/images/3b538597bb7d50d1049c2b13ea278804.png" group-title="F24 M3  EUA",USA: NBC San Francisco
+http://cloudsalex.space:80/592693566/291894002/9015151.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC San Jose" tvg-logo="http://tvgolatino.com:8080/images/3b538597bb7d50d1049c2b13ea278804.png" group-title="F24 M3  EUA",USA: NBC San Jose
+http://cloudsalex.space:80/592693566/291894002/9015152.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC Savannah" tvg-logo="http://tvgolatino.com:8080/images/cd5fc1bcf29b5ddcfd8a5f5bc8aa8fb9.PNG" group-title="F24 M3  EUA",USA: NBC Savannah
+http://cloudsalex.space:80/592693566/291894002/9015153.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC Tampa" tvg-logo="http://tvgolatino.com:8080/images/d9e622bec0a2f8486a076cfc97430502.png" group-title="F24 M3  EUA",USA: NBC Tampa
+http://cloudsalex.space:80/592693566/291894002/9015154.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC Tucson" tvg-logo="http://tvgolatino.com:8080/images/e378163c844f8f571349479cc114bc47.png" group-title="F24 M3  EUA",USA: NBC Tucson
+http://cloudsalex.space:80/592693566/291894002/9015155.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: A&E HD" tvg-logo="http://tvgo.re:8080/images/260ce175af40dd9a8159f2a801b3a467.png" group-title="F24 M3  EUA",USA: A&E HD
+http://cloudsalex.space:80/592693566/291894002/9015156.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: AMC HD" tvg-logo="http://tvgo.re:8080/images/19e5d0c769a5459b8bf08d15186803bb.png" group-title="F24 M3  EUA",USA: AMC HD
+http://cloudsalex.space:80/592693566/291894002/9015157.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: American Heroes HD" tvg-logo="http://tvgo.re:8080/images/1ff23ff2a5ff608effd7a9fdcb97f15f.png" group-title="F24 M3  EUA",USA: American Heroes HD
+http://cloudsalex.space:80/592693566/291894002/9015158.ts
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="USA: Animal Planet HD" tvg-logo="http://tvgolatino.com:8080/images/9e0bed69858a3eec7dde677072dfb39f.png" group-title="F24 M3  EUA",USA: Animal Planet HD
+http://cloudsalex.space:80/592693566/291894002/9015159.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Antenna TV" tvg-logo="https://static.epg.best/us/AntennaTV.us.png" group-title="F24 M3  EUA",USA: Antenna TV
+http://cloudsalex.space:80/592693566/291894002/9015160.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: AWE FHD" tvg-logo="https://static.epg.best/us/AWealthofEntertainment.us.png" group-title="F24 M3  EUA",USA: AWE FHD
+http://cloudsalex.space:80/592693566/291894002/9015161.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: AXS FHD" tvg-logo="https://static.epg.best/us/AXSTV.us.png" group-title="F24 M3  EUA",USA: AXS FHD
+http://cloudsalex.space:80/592693566/291894002/9015162.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Baby TV" tvg-logo="http://tvgolatino.com:8080/images/a22eca7f4ae489a1014ff0973b65b568.png" group-title="F24 M3  EUA",USA: Baby TV
+http://cloudsalex.space:80/592693566/291894002/9015163.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: BBC America*" tvg-logo="http://tvgo.re:8080/images/dfc9e2b42a5f16888fdfe5a14d1ce2dc.png" group-title="F24 M3  EUA",USA: BBC America*
+http://cloudsalex.space:80/592693566/291894002/9015164.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: BBC World News HD" tvg-logo="" group-title="F24 M3  EUA",USA: BBC World News HD
+http://cloudsalex.space:80/592693566/291894002/9015165.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: BET  HD" tvg-logo="https://static.epg.best/us/BET.us.png" group-title="F24 M3  EUA",USA: BET  HD
+http://cloudsalex.space:80/592693566/291894002/9015166.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: BET Her" tvg-logo="https://static.epg.best/us/BetHer.us.png" group-title="F24 M3  EUA",USA: BET Her
+http://cloudsalex.space:80/592693566/291894002/9015167.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: BET Jams" tvg-logo="https://cm-inter.xyz/Logos/USA/BET-Jams.png" group-title="F24 M3  EUA",USA: BET Jams
+http://cloudsalex.space:80/592693566/291894002/9015168.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: BET Soul" tvg-logo="http://tvgolatino.com:8080/images/bb2d41d852b054999a0a72405ca31407.png" group-title="F24 M3  EUA",USA: BET Soul
+http://cloudsalex.space:80/592693566/291894002/9015169.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Boomerang" tvg-logo="http://tvgolatino.com:8080/images/25ecae105544167a814325251467d1c5.png" group-title="F24 M3  EUA",USA: Boomerang
+http://cloudsalex.space:80/592693566/291894002/9015170.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Bounce" tvg-logo="https://static.epg.best/us/BounceTV.us.png" group-title="F24 M3  EUA",USA: Bounce
+http://cloudsalex.space:80/592693566/291894002/9015171.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Buzzr TV" tvg-logo="http://tvgolatino.com:8080/images/caa2e2f9e37dd58f6cc6572c4841b107.png" group-title="F24 M3  EUA",USA: Buzzr TV
+http://cloudsalex.space:80/592693566/291894002/9015172.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Bravo HD" tvg-logo="http://tvgo.re:8080/images/7b44a30de71c6832621a79844e8838da.png" group-title="F24 M3  EUA",USA: Bravo HD
+http://cloudsalex.space:80/592693566/291894002/9015173.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: BLAZE Media" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Blaze_Media.png/220px-Blaze_Media.png" group-title="F24 M3  EUA",USA: BLAZE Media
+http://cloudsalex.space:80/592693566/291894002/9015174.ts
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="USA: Cartoon Network" tvg-logo="http://tvgolatino.com:8080/images/889cb00f3ccedcc5401fa4feea85304b.png" group-title="F24 M3  EUA",USA: Cartoon Network
+http://cloudsalex.space:80/592693566/291894002/9015175.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Cinemax Action Max" tvg-logo="https://cm-inter.xyz/Logos/USA/CINEMAXACTIONMAX.png" group-title="F24 M3  EUA",USA: Cinemax Action Max
+http://cloudsalex.space:80/592693566/291894002/9015176.ts
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="USA: Cinemax East" tvg-logo="http://tvgo.re:8080/images/59c6b2870302b1e2530f5aadc3ef856f.png" group-title="F24 M3  EUA",USA: Cinemax East
+http://cloudsalex.space:80/592693566/291894002/9015177.ts
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="USA: Cinemax" tvg-logo="https://static.epg.best/us/Cinemax.us.png" group-title="F24 M3  EUA",USA: Cinemax
+http://cloudsalex.space:80/592693566/291894002/9015178.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Cinemax Moremax HD" tvg-logo="https://static.epg.best/us/MoreMax.us.png" group-title="F24 M3  EUA",USA: Cinemax Moremax HD
+http://cloudsalex.space:80/592693566/291894002/9015179.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Cinemax 5 StarMax" tvg-logo="http://tvgo.re:8080/images/59c6b2870302b1e2530f5aadc3ef856f.png" group-title="F24 M3  EUA",USA: Cinemax 5 StarMax
+http://cloudsalex.space:80/592693566/291894002/9015180.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Court TV HD" tvg-logo="https://static.epg.best/us/CourtTV.us.png" group-title="F24 M3  EUA",USA: Court TV HD
+http://cloudsalex.space:80/592693566/291894002/9015181.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CMT HD" tvg-logo="https://static.epg.best/us/CMT.us.png" group-title="F24 M3  EUA",USA: CMT HD
+http://cloudsalex.space:80/592693566/291894002/9015182.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CNBC HD" tvg-logo="http://tvgo.re:8080/images/57e2eaef87a8510e0b7f91060b2b7817.png" group-title="F24 M3  EUA",USA: CNBC HD
+http://cloudsalex.space:80/592693566/291894002/9015183.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CNN HD" tvg-logo="https://static.epg.best/us/CNN.us.png" group-title="F24 M3  EUA",USA: CNN HD
+http://cloudsalex.space:80/592693566/291894002/9015184.ts
+#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="USA: Comedy Central HD" tvg-logo="https://static.epg.best/us/ComedyCentral.us.png" group-title="F24 M3  EUA",USA: Comedy Central HD
+http://cloudsalex.space:80/592693566/291894002/9015185.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Comet HD" tvg-logo="http://tvgolatino.com:8080/images/edfbacd6a358b585d160cf9a20819d96.png" group-title="F24 M3  EUA",USA: Comet HD
+http://cloudsalex.space:80/592693566/291894002/9015186.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Cooking Channel HD" tvg-logo="https://static.epg.best/us/CookingChannel.us.png" group-title="F24 M3  EUA",USA: Cooking Channel HD
+http://cloudsalex.space:80/592693566/291894002/9015187.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Cozi TV" tvg-logo="http://tvgo.re:8080/images/e5f0426d38093d68c1ee37ad4e8f2e86.png" group-title="F24 M3  EUA",USA: Cozi TV
+http://cloudsalex.space:80/592693566/291894002/9015188.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Cheddar" tvg-logo="" group-title="F24 M3  EUA",USA: Cheddar
+http://cloudsalex.space:80/592693566/291894002/9015189.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CW" tvg-logo="http://tvgo.re:8080/images/0c1edebd1c84f2996d70e8602979de63.png" group-title="F24 M3  EUA",USA: CW
+http://cloudsalex.space:80/592693566/291894002/9015190.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Destination America HD" tvg-logo="https://static.epg.best/us/DestinationAmerica.us.png" group-title="F24 M3  EUA",USA: Destination America HD
+http://cloudsalex.space:80/592693566/291894002/9015191.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Crime & Investigation HD" tvg-logo="https://static.epg.best/us/CrimeInvestigation.us.png" group-title="F24 M3  EUA",USA: Crime & Investigation HD
+http://cloudsalex.space:80/592693566/291894002/9015192.ts
+#EXTINF:-1 tvg-id="investigaçãodiscovery.br" tvg-name="USA: Investigation Discovery HD" tvg-logo="https://static.epg.best/us/InvestigationDiscovery.us.png" group-title="F24 M3  EUA",USA: Investigation Discovery HD
+http://cloudsalex.space:80/592693566/291894002/9015193.ts
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="USA: Discovery Channel HD" tvg-logo="http://tvgo.re:8080/images/813513ce030768aab17b38d54a047587.png" group-title="F24 M3  EUA",USA: Discovery Channel HD
+http://cloudsalex.space:80/592693566/291894002/9015194.ts
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="USA: Discovery Channel FHD" tvg-logo="https://static.epg.best/us/DiscoveryChannel.us.png" group-title="F24 M3  EUA",USA: Discovery Channel FHD
+http://cloudsalex.space:80/592693566/291894002/9015195.ts
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="USA: Discovery Life" tvg-logo="" group-title="F24 M3  EUA",USA: Discovery Life
+http://cloudsalex.space:80/592693566/291894002/9015196.ts
+#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="USA: Discovery Science HD" tvg-logo="https://static.epg.best/br/DiscoveryScience.br.png" group-title="F24 M3  EUA",USA: Discovery Science HD
+http://cloudsalex.space:80/592693566/291894002/9015197.ts
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="USA: Discovery Family" tvg-logo="http://tvgolatino.com:8080/images/16180d0228da8943a39523dd36441edb.png" group-title="F24 M3  EUA",USA: Discovery Family
+http://cloudsalex.space:80/592693566/291894002/9015198.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: DIY Network HD" tvg-logo="http://tvgolatino.com:8080/images/4e6762cd1f11c586a2f214e08d5bcdaf.png" group-title="F24 M3  EUA",USA: DIY Network HD
+http://cloudsalex.space:80/592693566/291894002/9015199.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Disney Channel" tvg-logo="http://tvgolatino.com:8080/images/94f22d1741bd648332baadff0357649d.png" group-title="F24 M3  EUA",USA: Disney Channel
+http://cloudsalex.space:80/592693566/291894002/9015200.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Disney Junior" tvg-logo="http://tvgolatino.com:8080/images/ce306cc886c7c72a3e0c50f35b108b42.png" group-title="F24 M3  EUA",USA: Disney Junior
+http://cloudsalex.space:80/592693566/291894002/9015201.ts
+#EXTINF:-1 tvg-id="dummy-303" tvg-name="USA: Disney XD HD" tvg-logo="http://tvgolatino.com:8080/images/fbbc6297045c7a2a67d30c7c929318f5.png" group-title="F24 M3  EUA",USA: Disney XD HD
+http://cloudsalex.space:80/592693566/291894002/9015202.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: E! Entertainment HD" tvg-logo="http://tvgolatino.com:8080/images/f32ee5e74e75a4d55c9ec9030873e6c4.png" group-title="F24 M3  EUA",USA: E! Entertainment HD
+http://cloudsalex.space:80/592693566/291894002/9015203.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: EPIX" tvg-logo="" group-title="F24 M3  EUA",USA: EPIX
+http://cloudsalex.space:80/592693566/291894002/9015204.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: EPIX 2" tvg-logo="https://cm-inter.xyz/Logos/USA/EPIX2.png" group-title="F24 M3  EUA",USA: EPIX 2
+http://cloudsalex.space:80/592693566/291894002/9015205.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: EPIX Drive" tvg-logo="" group-title="F24 M3  EUA",USA: EPIX Drive
+http://cloudsalex.space:80/592693566/291894002/9015206.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Epix Hits HD" tvg-logo="http://tvgo.re:8080/images/a4ab43e553cc22d0c3e268b55cc6066b.png" group-title="F24 M3  EUA",USA: Epix Hits HD
+http://cloudsalex.space:80/592693566/291894002/9015207.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Espn News***" tvg-logo="http://tvgolatino.com:8080/images/9d70c552dbb7c34bd67a80bf0cee20c1.png" group-title="F24 M3  EUA",USA: Espn News***
+http://cloudsalex.space:80/592693566/291894002/9015208.ts
+#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="USA: Food Network HD" tvg-logo="http://tvgolatino.com:8080/images/2588b95ee34e39f115e859619c350c33.png" group-title="F24 M3  EUA",USA: Food Network HD
+http://cloudsalex.space:80/592693566/291894002/9015209.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Fox Bussines" tvg-logo="http://tvgolatino.com:8080/images/5de064c82257411d6e9a3a953074220a.png" group-title="F24 M3  EUA",USA: Fox Bussines
+http://cloudsalex.space:80/592693566/291894002/9015210.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Freeform HD" tvg-logo="http://tvgo.re:8080/images/4ea3147216f3d8b63268ef1d55750f26.png" group-title="F24 M3  EUA",USA: Freeform HD
+http://cloudsalex.space:80/592693566/291894002/9015211.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Fuse HD" tvg-logo="http://tvgolatino.com:8080/images/3752357110c8147a62242eed5dcb8b8b.png" group-title="F24 M3  EUA",USA: Fuse HD
+http://cloudsalex.space:80/592693566/291894002/9015212.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Fusion TV HD" tvg-logo="http://tvgolatino.com:8080/images/482df09c1f222fc7639bb27a61c8b698.png" group-title="F24 M3  EUA",USA: Fusion TV HD
+http://cloudsalex.space:80/592693566/291894002/9015213.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FX HD" tvg-logo="http://tvgo.re:8080/images/fe943df7ac4737b7d0f62d0bc86fe26a.png" group-title="F24 M3  EUA",USA: FX HD
+http://cloudsalex.space:80/592693566/291894002/9015214.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FXX  HD" tvg-logo="http://tvgo.re:8080/images/89f43b4ae4b3506c74aaf9ddd6a1b74a.png" group-title="F24 M3  EUA",USA: FXX  HD
+http://cloudsalex.space:80/592693566/291894002/9015215.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FXM HD" tvg-logo="http://tvgo.re:8080/images/167534a2eb0447bc65ef87de0d4fd428.png" group-title="F24 M3  EUA",USA: FXM HD
+http://cloudsalex.space:80/592693566/291894002/9015216.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FYI HD" tvg-logo="https://static.epg.best/us/FYI.us.png" group-title="F24 M3  EUA",USA: FYI HD
+http://cloudsalex.space:80/592693566/291894002/9015217.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: GET TV" tvg-logo="http://tvgolatino.com:8080/images/4441614160c971675f42c6aac8884b79.png" group-title="F24 M3  EUA",USA: GET TV
+http://cloudsalex.space:80/592693566/291894002/9015218.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Great American Country HD" tvg-logo="http://tvgolatino.com:8080/images/bc263031b01aeaa875f450753b05322c.png" group-title="F24 M3  EUA",USA: Great American Country HD
+http://cloudsalex.space:80/592693566/291894002/9015219.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: GSN HD" tvg-logo="https://static.epg.best/us/GameShowNetwork.us.png" group-title="F24 M3  EUA",USA: GSN HD
+http://cloudsalex.space:80/592693566/291894002/9015220.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Hallmark Channel HD" tvg-logo="http://tvgo.re:8080/images/fc3547042b986b27d2c4e424651e5075.png" group-title="F24 M3  EUA",USA: Hallmark Channel HD
+http://cloudsalex.space:80/592693566/291894002/9015221.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Hallmark Drama HD" tvg-logo="http://tvgolatino.com:8080/images/1cb6dd9e50d056f3ce1286e99a42267d.png" group-title="F24 M3  EUA",USA: Hallmark Drama HD
+http://cloudsalex.space:80/592693566/291894002/9015222.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Hallmark Movies & Mysteries  HD" tvg-logo="http://tvgo.re:8080/images/1eac9f40fa52168aec8ea909292fec6f.png" group-title="F24 M3  EUA",USA: Hallmark Movies & Mysteries  HD
+http://cloudsalex.space:80/592693566/291894002/9015223.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: HBO East" tvg-logo="http://tvgolatino.com:8080/images/20590cac6bdbb1d87c1d1587da998b23.png" group-title="F24 M3  EUA",USA: HBO East
+http://cloudsalex.space:80/592693566/291894002/9015224.ts
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="USA: HBO Family" tvg-logo="http://tvgo.re:8080/images/3488f3440d5564e19351bb3bf1562cf6.png" group-title="F24 M3  EUA",USA: HBO Family
+http://cloudsalex.space:80/592693566/291894002/9015225.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: HBO Comedy" tvg-logo="http://tvgolatino.com:8080/images/0429a0656bb1f04e83aca57f6ee0b2f7.png" group-title="F24 M3  EUA",USA: HBO Comedy
+http://cloudsalex.space:80/592693566/291894002/9015226.ts
+#EXTINF:-1 tvg-id="hbo2.br" tvg-name="USA:  HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/HBO_2_HD_Logo_Poland.png" group-title="F24 M3  EUA",USA:  HBO 2
+http://cloudsalex.space:80/592693566/291894002/9015227.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png" group-title="F24 M3  EUA",USA: HBO HD
+http://cloudsalex.space:80/592693566/291894002/9015228.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: HBO LATINO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/HBO_Latino_logo_%282%29.png" group-title="F24 M3  EUA",USA: HBO LATINO
+http://cloudsalex.space:80/592693566/291894002/9015229.ts
+#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="USA: HBO Signature" tvg-logo="http://tvgo.re:8080/images/a1b78744a7165bf7144e36b9e3de7af7.png" group-title="F24 M3  EUA",USA: HBO Signature
+http://cloudsalex.space:80/592693566/291894002/9015230.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: HBO West" tvg-logo="http://tvgolatino.com:8080/images/20590cac6bdbb1d87c1d1587da998b23.png" group-title="F24 M3  EUA",USA: HBO West
+http://cloudsalex.space:80/592693566/291894002/9015231.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: HBO Zone" tvg-logo="http://tvgolatino.com:8080/images/20590cac6bdbb1d87c1d1587da998b23.png" group-title="F24 M3  EUA",USA: HBO Zone
+http://cloudsalex.space:80/592693566/291894002/9015232.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Heroes And Icons TV" tvg-logo="https://static.epg.best/us/HeroesAndIconsTV.us.png" group-title="F24 M3  EUA",USA: Heroes And Icons TV
+http://cloudsalex.space:80/592693566/291894002/9015233.ts
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="USA: HGTV" tvg-logo="https://static.epg.best/us/HGTV.us.png" group-title="F24 M3  EUA",USA: HGTV
+http://cloudsalex.space:80/592693566/291894002/9015234.ts
+#EXTINF:-1 tvg-id="historychannel.br" tvg-name="USA: History Channel HD" tvg-logo="https://static.epg.best/us/HistoryChannel.us.png" group-title="F24 M3  EUA",USA: History Channel HD
+http://cloudsalex.space:80/592693566/291894002/9015235.ts
+#EXTINF:-1 tvg-id="history2.br" tvg-name="USA: History 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" group-title="F24 M3  EUA",USA: History 2
+http://cloudsalex.space:80/592693566/291894002/9015236.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: HLN HD" tvg-logo="https://static.epg.best/us/HLN.us.png" group-title="F24 M3  EUA",USA: HLN HD
+http://cloudsalex.space:80/592693566/291894002/9015237.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: HSN HD" tvg-logo="http://tvgolatino.com:8080/images/7a0af6fabb28a1cede963f316097388c.png" group-title="F24 M3  EUA",USA: HSN HD
+http://cloudsalex.space:80/592693566/291894002/9015238.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: IFC HD" tvg-logo="http://tvgolatino.com:8080/images/5847d64359f4867027c95ca358a30ea4.png" group-title="F24 M3  EUA",USA: IFC HD
+http://cloudsalex.space:80/592693566/291894002/9015239.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: INSP" tvg-logo="http://tvgolatino.com:8080/images/f0a09355af523b2f97ff30325ae5a08a.png" group-title="F24 M3  EUA",USA: INSP
+http://cloudsalex.space:80/592693566/291894002/9015240.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: IndiePlex" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Indieplex_logo.svg/1200px-Indieplex_logo.svg.png" group-title="F24 M3  EUA",USA: IndiePlex
+http://cloudsalex.space:80/592693566/291894002/9015241.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ION TV HD" tvg-logo="http://tvgo.re:8080/images/20ab4dd527614a86269e681e1944b906.png" group-title="F24 M3  EUA",USA: ION TV HD
+http://cloudsalex.space:80/592693566/291894002/9015242.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: KTLA 5 HD" tvg-logo="http://tvgo.re:8080/images/72884925036c95fc0d8dd41f6a8582e6.png" group-title="F24 M3  EUA",USA: KTLA 5 HD
+http://cloudsalex.space:80/592693566/291894002/9015243.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Law & Crime Network" tvg-logo="https://image.roku.com/developer_channels/prod/743617622453023bb96314d0f0edbabda6ded13fade66d2dbf44fb912a02b0f9.png" group-title="F24 M3  EUA",USA: Law & Crime Network
+http://cloudsalex.space:80/592693566/291894002/9015244.ts
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="USA: Lifetime HD" tvg-logo="http://tvgo.re:8080/images/331ed07e7de0e7b5866cc1af25123d5b.png" group-title="F24 M3  EUA",USA: Lifetime HD
+http://cloudsalex.space:80/592693566/291894002/9015245.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: LMN HD" tvg-logo="http://tvgolatino.com:8080/images/fd5a03ee690ec01ce78ae74a796b4bc4.png" group-title="F24 M3  EUA",USA: LMN HD
+http://cloudsalex.space:80/592693566/291894002/9015246.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: MSNBC HD" tvg-logo="http://tvgolatino.com:8080/images/9f88f67539a8034ae19118865bd164d4.png" group-title="F24 M3  EUA",USA: MSNBC HD
+http://cloudsalex.space:80/592693566/291894002/9015247.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: MTV FHD" tvg-logo="https://static.epg.best/us/MTV.us.png" group-title="F24 M3  EUA",USA: MTV FHD
+http://cloudsalex.space:80/592693566/291894002/9015248.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: MTV 2" tvg-logo="http://tvgolatino.com:8080/images/28fdc096be2c7f926abf9b19d1200de6.png" group-title="F24 M3  EUA",USA: MTV 2
+http://cloudsalex.space:80/592693566/291894002/9015249.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: MTV Classic" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/MTV_Classic_US.svg/200px-MTV_Classic_US.svg.png" group-title="F24 M3  EUA",USA: MTV Classic
+http://cloudsalex.space:80/592693566/291894002/9015250.ts
+#EXTINF:-1 tvg-id="mtvlive.br" tvg-name="USA: MTV Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/125px-MTV_Live_HD_2017_logo.svg.png" group-title="F24 M3  EUA",USA: MTV Live
+http://cloudsalex.space:80/592693566/291894002/9015251.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Me TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/1200px-MeTV_Logo.svg.png" group-title="F24 M3  EUA",USA: Me TV
+http://cloudsalex.space:80/592693566/291894002/9015252.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Nasa TV" tvg-logo="https://static.epg.best/rs/Nasa.rs.png" group-title="F24 M3  EUA",USA: Nasa TV
+http://cloudsalex.space:80/592693566/291894002/9015253.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Nat Geo HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/220px-Natgeologo.svg.png" group-title="F24 M3  EUA",USA: Nat Geo HD
+http://cloudsalex.space:80/592693566/291894002/9015254.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NatGeo Wild HD" tvg-logo="http://tvgolatino.com:8080/images/9e621a9e6309f0de8e0fd7e5e3e34416.png" group-title="F24 M3  EUA",USA: NatGeo Wild HD
+http://cloudsalex.space:80/592693566/291894002/9015255.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Nicktoons HD" tvg-logo="http://tvgolatino.com:8080/images/f23832a88b39191189872d3a5e273969.png" group-title="F24 M3  EUA",USA: Nicktoons HD
+http://cloudsalex.space:80/592693566/291894002/9015256.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Nickelodeon  HD" tvg-logo="http://tvgolatino.com:8080/images/bcd716d621991584006e4f9bad7a1f6c.png" group-title="F24 M3  EUA",USA: Nickelodeon  HD
+http://cloudsalex.space:80/592693566/291894002/9015257.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Nick Music" tvg-logo="http://tvgolatino.com:8080/images/733cb00a7d4db6734d3072c11a08b672.png" group-title="F24 M3  EUA",USA: Nick Music
+http://cloudsalex.space:80/592693566/291894002/9015258.ts
+#EXTINF:-1 tvg-id="nickjr..br" tvg-name="USA: NICK JR" tvg-logo="https://cm-inter.xyz/Logos/USA/NICKJR.png" group-title="F24 M3  EUA",USA: NICK JR
+http://cloudsalex.space:80/592693566/291894002/9015259.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Outdoor Channel HD" tvg-logo="http://tvgo.re:8080/images/236b3827992ee085e54b26e7a9531b27.png" group-title="F24 M3  EUA",USA: Outdoor Channel HD
+http://cloudsalex.space:80/592693566/291894002/9015260.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Outermax HD" tvg-logo="https://static.epg.best/us/OuterMax.us.png" group-title="F24 M3  EUA",USA: Outermax HD
+http://cloudsalex.space:80/592693566/291894002/9015261.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Outside TV HD" tvg-logo="http://tvgolatino.com:8080/images/6cae45ba034463534a7eda292274f956.png" group-title="F24 M3  EUA",USA: Outside TV HD
+http://cloudsalex.space:80/592693566/291894002/9015262.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: OWN HD" tvg-logo="http://tvgolatino.com:8080/images/5600c28a0786aaeecb3041153d40fd01.png" group-title="F24 M3  EUA",USA: OWN HD
+http://cloudsalex.space:80/592693566/291894002/9015263.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Oxygen HD" tvg-logo="https://static.epg.best/us/Oxygen.us.png" group-title="F24 M3  EUA",USA: Oxygen HD
+http://cloudsalex.space:80/592693566/291894002/9015264.ts
+#EXTINF:-1 tvg-id="paramountchannel.br" tvg-name="USA: Paramount Channel HD" tvg-logo="https://static.epg.best/us/ParamountNetwork.us.png" group-title="F24 M3  EUA",USA: Paramount Channel HD
+http://cloudsalex.space:80/592693566/291894002/9015265.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA PBS Kids" tvg-logo="http://tvgolatino.com:8080/images/4417bb8a6bc631c3d64007f5d84dc7dd.png" group-title="F24 M3  EUA",USA PBS Kids
+http://cloudsalex.space:80/592693566/291894002/9015266.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: PBS HD" tvg-logo="http://tvgolatino.com:8080/images/e5cbcbe680a49f76a4f49f93d1ad9fd4.png" group-title="F24 M3  EUA",USA: PBS HD
+http://cloudsalex.space:80/592693566/291894002/9015267.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Pop HD" tvg-logo="https://static.epg.best/us/PopTV.us.png" group-title="F24 M3  EUA",USA: Pop HD
+http://cloudsalex.space:80/592693566/291894002/9015268.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Reelz HD" tvg-logo="http://tvgolatino.com:8080/images/0873377fc02b98be8b02e6905a07abd1.png" group-title="F24 M3  EUA",USA: Reelz HD
+http://cloudsalex.space:80/592693566/291894002/9015269.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Revolt HD" tvg-logo="https://static.epg.best/us/Revolt.us.png" group-title="F24 M3  EUA",USA: Revolt HD
+http://cloudsalex.space:80/592693566/291894002/9015270.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Showtime 2 FHD" tvg-logo="https://static.epg.best/us/Showtime2.us.png" group-title="F24 M3  EUA",USA: Showtime 2 FHD
+http://cloudsalex.space:80/592693566/291894002/9015271.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Showtime Beyond FHD" tvg-logo="http://tvgolatino.com:8080/images/76d6d869a1630aecfd4d462c0730fc77.png" group-title="F24 M3  EUA",USA: Showtime Beyond FHD
+http://cloudsalex.space:80/592693566/291894002/9015272.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Showtime Extreme FHD" tvg-logo="http://tvgo.re:8080/images/22a09eae943b6174e51accf5da586360.png" group-title="F24 M3  EUA",USA: Showtime Extreme FHD
+http://cloudsalex.space:80/592693566/291894002/9015273.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Showtime Next" tvg-logo="https://static.epg.best/us/ShowtimeNext.us.png" group-title="F24 M3  EUA",USA: Showtime Next
+http://cloudsalex.space:80/592693566/291894002/9015274.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Showtime Showcase" tvg-logo="http://tvgolatino.com:8080/images/ab58a4111940213538e0dde771b73ce3.png" group-title="F24 M3  EUA",USA: Showtime Showcase
+http://cloudsalex.space:80/592693566/291894002/9015275.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: SHOWTIME Family Zone" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Showtime_Family_Zone.svg/125px-Showtime_Family_Zone.svg.png" group-title="F24 M3  EUA",USA: SHOWTIME Family Zone
+http://cloudsalex.space:80/592693566/291894002/9015276.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: SHOWTIME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/125px-Showtime.svg.png" group-title="F24 M3  EUA",USA: SHOWTIME
+http://cloudsalex.space:80/592693566/291894002/9015277.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Smithsonian FHD" tvg-logo="http://tvgo.re:8080/images/de9d9004412aa61754891d866b372fd4.png" group-title="F24 M3  EUA",USA: Smithsonian FHD
+http://cloudsalex.space:80/592693566/291894002/9015278.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Sony Movie Channel" tvg-logo="http://tvgo.re:8080/images/9121a02165fce2a37cb4e38beb790152.png" group-title="F24 M3  EUA",USA: Sony Movie Channel
+http://cloudsalex.space:80/592693566/291894002/9015279.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Starz Cinema" tvg-logo="https://static.epg.best/us/StarzCinema.us.png" group-title="F24 M3  EUA",USA: Starz Cinema
+http://cloudsalex.space:80/592693566/291894002/9015280.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Starz Comedy" tvg-logo="https://static.epg.best/us/StarzComedy.us.png" group-title="F24 M3  EUA",USA: Starz Comedy
+http://cloudsalex.space:80/592693566/291894002/9015281.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Starz Encore Western" tvg-logo="" group-title="F24 M3  EUA",USA: Starz Encore Western
+http://cloudsalex.space:80/592693566/291894002/9015282.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Starz Edge FHD" tvg-logo="https://static.epg.best/us/StarzEdge.us.png" group-title="F24 M3  EUA",USA: Starz Edge FHD
+http://cloudsalex.space:80/592693566/291894002/9015283.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Starz Encore" tvg-logo="" group-title="F24 M3  EUA",USA: Starz Encore
+http://cloudsalex.space:80/592693566/291894002/9015284.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Starz Encore Classic FHD" tvg-logo="https://static.epg.best/us/StarzEncoreClassics.us.png" group-title="F24 M3  EUA",USA: Starz Encore Classic FHD
+http://cloudsalex.space:80/592693566/291894002/9015285.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Starz Encore Family FHD" tvg-logo="http://tvgo.re:8080/images/e55395f45cb858315cbd2e7983a5e79a.png" group-title="F24 M3  EUA",USA: Starz Encore Family FHD
+http://cloudsalex.space:80/592693566/291894002/9015286.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Starz Encore Suspense" tvg-logo="https://static.epg.best/us/StarzEncoreSuspense.us.png" group-title="F24 M3  EUA",USA: Starz Encore Suspense
+http://cloudsalex.space:80/592693566/291894002/9015287.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Starz Kids & Family" tvg-logo="https://static.epg.best/us/StarzKidsFamily.us.png" group-title="F24 M3  EUA",USA: Starz Kids & Family
+http://cloudsalex.space:80/592693566/291894002/9015288.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Starz" tvg-logo="" group-title="F24 M3  EUA",USA: Starz
+http://cloudsalex.space:80/592693566/291894002/9015289.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: STARZ Encore Action" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Starz_Encore_Action.svg/125px-Starz_Encore_Action.svg.png" group-title="F24 M3  EUA",USA: STARZ Encore Action
+http://cloudsalex.space:80/592693566/291894002/9015290.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: STARZ Encore Black" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Starz_Encore_Black.svg/800px-Starz_Encore_Black.svg.png" group-title="F24 M3  EUA",USA: STARZ Encore Black
+http://cloudsalex.space:80/592693566/291894002/9015291.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Sundance HD" tvg-logo="http://tvgo.re:8080/images/58c3468a42a003ea61269b1a996c0ea9.png" group-title="F24 M3  EUA",USA: Sundance HD
+http://cloudsalex.space:80/592693566/291894002/9015292.ts
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="USA: Syfy HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/200px-SYFY.svg.png" group-title="F24 M3  EUA",USA: Syfy HD
+http://cloudsalex.space:80/592693566/291894002/9015293.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: TBS East" tvg-logo="https://static.epg.best/us/TBS.us.png" group-title="F24 M3  EUA",USA: TBS East
+http://cloudsalex.space:80/592693566/291894002/9015294.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: TBS West HD" tvg-logo="https://static.epg.best/us/TBS.us.png" group-title="F24 M3  EUA",USA: TBS West HD
+http://cloudsalex.space:80/592693566/291894002/9015295.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: TCM HD" tvg-logo="http://tvgo.re:8080/images/035d80ad84e65c8021e9692e5a7710ed.png" group-title="F24 M3  EUA",USA: TCM HD
+http://cloudsalex.space:80/592693566/291894002/9015296.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Teen Nick HD" tvg-logo="http://tvgolatino.com:8080/images/21b06ba231e569645cbc9c2191f46845.png" group-title="F24 M3  EUA",USA: Teen Nick HD
+http://cloudsalex.space:80/592693566/291894002/9015297.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: TLC  HD" tvg-logo="http://tvgo.re:8080/images/12c5cec6c7bfc8f2ea96f31e7cc76c55.png" group-title="F24 M3  EUA",USA: TLC  HD
+http://cloudsalex.space:80/592693566/291894002/9015298.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: TNT HD" tvg-logo="http://tvgo.re:8080/images/133dca75c260cab04f909eba8567a43f.png" group-title="F24 M3  EUA",USA: TNT HD
+http://cloudsalex.space:80/592693566/291894002/9015299.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Travel HD" tvg-logo="http://tvgo.re:8080/images/91e9466842c4ddd266095fa313f1ac39.png" group-title="F24 M3  EUA",USA: Travel HD
+http://cloudsalex.space:80/592693566/291894002/9015300.ts
+#EXTINF:-1 tvg-id="trutv.br" tvg-name="USA: Trutv HD" tvg-logo="http://tvgo.re:8080/images/7c0de871e877a74a2f390dcb6dd98d73.png" group-title="F24 M3  EUA",USA: Trutv HD
+http://cloudsalex.space:80/592693566/291894002/9015301.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: TV Land" tvg-logo="https://static.epg.best/us/TVLandEast.us.png" group-title="F24 M3  EUA",USA: TV Land
+http://cloudsalex.space:80/592693566/291894002/9015302.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: TELEMUNDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png" group-title="F24 M3  EUA",USA: TELEMUNDO
+http://cloudsalex.space:80/592693566/291894002/9015303.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: THE Cowboy Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/The_Cowboy_Channel.png/200px-The_Cowboy_Channel.png" group-title="F24 M3  EUA",USA: THE Cowboy Channel
+http://cloudsalex.space:80/592693566/291894002/9015304.ts
+#EXTINF:-1 tvg-id="universal.br" tvg-name="USA: Universal Kids" tvg-logo="http://tvgolatino.com:8080/images/32447de2faa51e771fda8648935cd655.png" group-title="F24 M3  EUA",USA: Universal Kids
+http://cloudsalex.space:80/592693566/291894002/9015305.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Usa Network HD" tvg-logo="http://tvgo.re:8080/images/4e1e487929068d58af9fde212d80d0bd.png" group-title="F24 M3  EUA",USA: Usa Network HD
+http://cloudsalex.space:80/592693566/291894002/9015306.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Unimas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/220px-Logo_UniM%C3%A1s.svg.png" group-title="F24 M3  EUA",USA: Unimas
+http://cloudsalex.space:80/592693566/291894002/9015307.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Univision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/200px-Logo_Univision_2019.svg.png" group-title="F24 M3  EUA",USA: Univision
+http://cloudsalex.space:80/592693566/291894002/9015308.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: VH1 HD" tvg-logo="https://static.epg.best/us/VH1.us.png" group-title="F24 M3  EUA",USA: VH1 HD
+http://cloudsalex.space:80/592693566/291894002/9015309.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Viceland FHD" tvg-logo="http://tvgolatino.com:8080/images/109d54acaf0d09c982c9a72a1b1aef04.png" group-title="F24 M3  EUA",USA: Viceland FHD
+http://cloudsalex.space:80/592693566/291894002/9015310.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: We TV HD" tvg-logo="http://tvgolatino.com:8080/images/a8e5fac63ef984263e382e2de270b9e2.png" group-title="F24 M3  EUA",USA: We TV HD
+http://cloudsalex.space:80/592693566/291894002/9015311.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Weather Channel HD" tvg-logo="http://tvgolatino.com:8080/images/cc56a1e72bad7cee58b236b78d01eee8.png" group-title="F24 M3  EUA",USA: Weather Channel HD
+http://cloudsalex.space:80/592693566/291894002/9015312.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: WGN AMERICA  FHD" tvg-logo="http://tvgolatino.com:8080/images/86fec32cfa4c0dd4cfa6d3da05370d85.png" group-title="F24 M3  EUA",USA: WGN AMERICA  FHD
+http://cloudsalex.space:80/592693566/291894002/9015313.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: QVC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/31/QVC_logo_2019.svg/220px-QVC_logo_2019.svg.png" group-title="F24 M3  EUA",USA: QVC
+http://cloudsalex.space:80/592693566/291894002/9015314.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: PAC 12 NETWORK" tvg-logo="http://tvgolatino.com:8080/images/b5eb52627a4b71be2ff81fbf8fa6767b.png" group-title="F24 M3  EUA",USA: PAC 12 NETWORK
+http://cloudsalex.space:80/592693566/291894002/9015316.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: PAC 12 Oregon HD" tvg-logo="http://tvgolatino.com:8080/images/b5eb52627a4b71be2ff81fbf8fa6767b.png" group-title="F24 M3  EUA",USA: PAC 12 Oregon HD
+http://cloudsalex.space:80/592693566/291894002/9015317.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: PAC 12 Mountain" tvg-logo="http://tvgolatino.com:8080/images/b5eb52627a4b71be2ff81fbf8fa6767b.png" group-title="F24 M3  EUA",USA: PAC 12 Mountain
+http://cloudsalex.space:80/592693566/291894002/9015318.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: PAC 12 Arizona" tvg-logo="http://tvgolatino.com:8080/images/b5eb52627a4b71be2ff81fbf8fa6767b.png" group-title="F24 M3  EUA",USA: PAC 12 Arizona
+http://cloudsalex.space:80/592693566/291894002/9015319.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: PAC 12 Bay Area" tvg-logo="http://tvgolatino.com:8080/images/b5eb52627a4b71be2ff81fbf8fa6767b.png" group-title="F24 M3  EUA",USA: PAC 12 Bay Area
+http://cloudsalex.space:80/592693566/291894002/9015320.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: PAC 12 Los Angeles" tvg-logo="http://tvgolatino.com:8080/images/b5eb52627a4b71be2ff81fbf8fa6767b.png" group-title="F24 M3  EUA",USA: PAC 12 Los Angeles
+http://cloudsalex.space:80/592693566/291894002/9015321.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: PAC 12 Washington" tvg-logo="http://tvgolatino.com:8080/images/b5eb52627a4b71be2ff81fbf8fa6767b.png" group-title="F24 M3  EUA",USA: PAC 12 Washington
+http://cloudsalex.space:80/592693566/291894002/9015322.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS Sports NETWORK HD**" tvg-logo="http://tvgolatino.com:8080/images/b855454971c90b9dae78a007272277ce.png" group-title="F24 M3  EUA",USA: CBS Sports NETWORK HD**
+http://cloudsalex.space:80/592693566/291894002/9015323.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: SportsNet West" tvg-logo="" group-title="F24 M3  EUA",USA: SportsNet West
+http://cloudsalex.space:80/592693566/291894002/9015324.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: SportsNet East" tvg-logo="" group-title="F24 M3  EUA",USA: SportsNet East
+http://cloudsalex.space:80/592693566/291894002/9015325.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Sec Network HD" tvg-logo="http://tvgolatino.com:8080/images/b1fa06d3d8a779bc647d42d8b2e2b4fd.png" group-title="F24 M3  EUA",USA: Sec Network HD
+http://cloudsalex.space:80/592693566/291894002/9015326.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Olympic Channel HD" tvg-logo="http://tvgolatino.com:8080/images/f834f1301d5f07d93d0472c508a4275a.png" group-title="F24 M3  EUA",USA: Olympic Channel HD
+http://cloudsalex.space:80/592693566/291894002/9015327.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: MSG Plus" tvg-logo="http://tvgo.re:8080/images/19b3d256f0335ab3a92ba8a57c1ea430.png" group-title="F24 M3  EUA",USA: MSG Plus
+http://cloudsalex.space:80/592693566/291894002/9015328.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: MSG" tvg-logo="http://tvgo.re:8080/images/2723c9af431930f2c49a858865c50f06.png" group-title="F24 M3  EUA",USA: MSG
+http://cloudsalex.space:80/592693566/291894002/9015329.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: MSG 2" tvg-logo="http://tvgo.re:8080/images/2723c9af431930f2c49a858865c50f06.png" group-title="F24 M3  EUA",USA: MSG 2
+http://cloudsalex.space:80/592693566/291894002/9015330.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NESN Plus" tvg-logo="https://cm-inter.xyz/Logos/USA/NESN1HD.png" group-title="F24 M3  EUA",USA: NESN Plus
+http://cloudsalex.space:80/592693566/291894002/9015331.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NESN" tvg-logo="https://cm-inter.xyz/Logos/USA/NESN1HD.png" group-title="F24 M3  EUA",USA: NESN
+http://cloudsalex.space:80/592693566/291894002/9015332.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Longhorn Network HD" tvg-logo="https://cm-inter.xyz/Logos/USA/LONGHORNNETWORKHD.png" group-title="F24 M3  EUA",USA: Longhorn Network HD
+http://cloudsalex.space:80/592693566/291894002/9015333.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Marquee Sports Network***" tvg-logo="http://tvgolatino.com:8080/images/7b4f245418b14de16f887e665b643e49.png" group-title="F24 M3  EUA",USA: Marquee Sports Network***
+http://cloudsalex.space:80/592693566/291894002/9015334.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: MASN" tvg-logo="http://tvgolatino.com:8080/images/bf109f164c04d484d0efce8444bf3404.png" group-title="F24 M3  EUA",USA: MASN
+http://cloudsalex.space:80/592693566/291894002/9015335.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FS1" tvg-logo="http://tvgolatino.com:8080/images/ae45b7a60f820f365773e814e6d10a3f.png" group-title="F24 M3  EUA",USA: FS1
+http://cloudsalex.space:80/592693566/291894002/9015336.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FS2" tvg-logo="http://tvgolatino.com:8080/images/45ff78ae33e7eade74ccbb29253db641.png" group-title="F24 M3  EUA",USA: FS2
+http://cloudsalex.space:80/592693566/291894002/9015337.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: World Fishing Network HD" tvg-logo="https://cm-inter.xyz/Logos/USA/WORLDFISGHINGNETWORKHD.png" group-title="F24 M3  EUA",USA: World Fishing Network HD
+http://cloudsalex.space:80/592693566/291894002/9015338.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: MotorTrend" tvg-logo="https://cm-inter.xyz/Logos/USA/MOTORTRENDHD.png" group-title="F24 M3  EUA",USA: MotorTrend
+http://cloudsalex.space:80/592693566/291894002/9015339.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: VSiN" tvg-logo="https://cm-inter.xyz/Logos/USA/VSINHD.png" group-title="F24 M3  EUA",USA: VSiN
+http://cloudsalex.space:80/592693566/291894002/9015340.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: YES Network HD" tvg-logo="https://cm-inter.xyz/Logos/USA/YESNETWORK.png" group-title="F24 M3  EUA",USA: YES Network HD
+http://cloudsalex.space:80/592693566/291894002/9015341.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ESPN Deportes" tvg-logo="https://cm-inter.xyz/Logos/USA/ESPNDEPORTES.png" group-title="F24 M3  EUA",USA: ESPN Deportes
+http://cloudsalex.space:80/592693566/291894002/9015342.ts
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="USA: ESPN 2" tvg-logo="https://cm-inter.xyz/Logos/USA/ESPN2HD.png" group-title="F24 M3  EUA",USA: ESPN 2
+http://cloudsalex.space:80/592693566/291894002/9015343.ts
+#EXTINF:-1 tvg-id="espn.br" tvg-name="USA: ESPN" tvg-logo="http://tvgo.re:8080/images/9ddaca591f422821b065b2e50054fb74.png" group-title="F24 M3  EUA",USA: ESPN
+http://cloudsalex.space:80/592693566/291894002/9015344.ts
+#EXTINF:-1 tvg-id="espn.br" tvg-name="USA: ESPN U***" tvg-logo="https://cm-inter.xyz/Logos/USA/ESPNUHD.png" group-title="F24 M3  EUA",USA: ESPN U***
+http://cloudsalex.space:80/592693566/291894002/9015345.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ROOT SPports" tvg-logo="http://tvgolatino.com:8080/images/13e34d6ed52e7dd2030f33dc15ac2b81.png" group-title="F24 M3  EUA",USA: ROOT SPports
+http://cloudsalex.space:80/592693566/291894002/9015346.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: TVG NETWORK HD" tvg-logo="http://tvgolatino.com:8080/images/246f008b372bce0dcab6c10d4779a786.png" group-title="F24 M3  EUA",USA: TVG NETWORK HD
+http://cloudsalex.space:80/592693566/291894002/9015347.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: TVG" tvg-logo="http://tvgolatino.com:8080/images/246f008b372bce0dcab6c10d4779a786.png" group-title="F24 M3  EUA",USA: TVG
+http://cloudsalex.space:80/592693566/291894002/9015348.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: TVG2 HD" tvg-logo="http://tvgolatino.com:8080/images/8e155d04ee8a0e9d09c73f1faecebb7b.png" group-title="F24 M3  EUA",USA: TVG2 HD
+http://cloudsalex.space:80/592693566/291894002/9015349.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Big Ten Network" tvg-logo="https://cm-inter.xyz/Logos/USA/BIGTENNETWORK.png" group-title="F24 M3  EUA",USA: Big Ten Network
+http://cloudsalex.space:80/592693566/291894002/9015350.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX Deportes" tvg-logo="http://tvgo.re:8080/images/d268fd9219114767768c11e393acce64.png" group-title="F24 M3  EUA",USA: FOX Deportes
+http://cloudsalex.space:80/592693566/291894002/9015351.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Fox College Sports Atlantic" tvg-logo="https://cm-inter.xyz/Logos/USA/FOXCOLLEGEATLANTIC.png" group-title="F24 M3  EUA",USA: Fox College Sports Atlantic
+http://cloudsalex.space:80/592693566/291894002/9015352.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Fox College Sport Central" tvg-logo="https://cm-inter.xyz/Logos/USA/FOXCOLLEGECENTRAL.png" group-title="F24 M3  EUA",USA: Fox College Sport Central
+http://cloudsalex.space:80/592693566/291894002/9015353.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Fox College Sport Pacific" tvg-logo="https://cm-inter.xyz/Logos/USA/FOXCOLLEGEPACIFIC.png" group-title="F24 M3  EUA",USA: Fox College Sport Pacific
+http://cloudsalex.space:80/592693566/291894002/9015354.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Fox Soccer Plus" tvg-logo="https://cm-inter.xyz/Logos/USA/FOXSOCCERPLUS.png" group-title="F24 M3  EUA",USA: Fox Soccer Plus
+http://cloudsalex.space:80/592693566/291894002/9015355.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Fox Sports Prime Ticket" tvg-logo="http://tvgolatino.com:8080/images/40e6de9dfcf6df92c2651e89c9708438.png" group-title="F24 M3  EUA",USA: Fox Sports Prime Ticket
+http://cloudsalex.space:80/592693566/291894002/9015356.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Bein Sports La Liga HD" tvg-logo="https://cm-inter.xyz/Logos/BEIN/BEINSPORTS.png" group-title="F24 M3  EUA",USA: Bein Sports La Liga HD
+http://cloudsalex.space:80/592693566/291894002/9015357.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: BeIN Sports USA" tvg-logo="https://cm-inter.xyz/Logos/USA/BEINSPORTSHD.png" group-title="F24 M3  EUA",USA: BeIN Sports USA
+http://cloudsalex.space:80/592693566/291894002/9015358.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Tennis Channel" tvg-logo="https://cm-inter.xyz/Logos/USA/TENNISCHANNELHD.png" group-title="F24 M3  EUA",USA: Tennis Channel
+http://cloudsalex.space:80/592693566/291894002/9015359.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBC Sports Network HD" tvg-logo="https://cm-inter.xyz/Logos/USA/NBCSPORTSNETWORK.png" group-title="F24 M3  EUA",NBC Sports Network HD
+http://cloudsalex.space:80/592693566/291894002/9015360.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBCSN" tvg-logo="https://cm-inter.xyz/Logos/USA/NBCSN.png" group-title="F24 M3  EUA",USA: NBCSN
+http://cloudsalex.space:80/592693566/291894002/9015361.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBCSN California" tvg-logo="https://cm-inter.xyz/Logos/USA/NBCSNCALIFORNIA.png" group-title="F24 M3  EUA",USA: NBCSN California
+http://cloudsalex.space:80/592693566/291894002/9015362.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBCSN Northwest" tvg-logo="http://tvgolatino.com:8080/images/9cbe0dcbea283e71f04a57e33ef268d1.png" group-title="F24 M3  EUA",USA: NBCSN Northwest
+http://cloudsalex.space:80/592693566/291894002/9015363.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBCSN Boston" tvg-logo="https://cm-inter.xyz/Logos/USA/NBCSNBOSTON.png" group-title="F24 M3  EUA",USA: NBCSN Boston
+http://cloudsalex.space:80/592693566/291894002/9015364.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBCSN Chicago" tvg-logo="https://cm-inter.xyz/Logos/USA/NBCCHICAGO.png" group-title="F24 M3  EUA",USA: NBCSN Chicago
+http://cloudsalex.space:80/592693566/291894002/9015365.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBCSN Chicago Plus" tvg-logo="https://cm-inter.xyz/Logos/USA/NBCCHICAGO.png" group-title="F24 M3  EUA",USA: NBCSN Chicago Plus
+http://cloudsalex.space:80/592693566/291894002/9015366.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBCSN Philadelphia" tvg-logo="http://tvgolatino.com:8080/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="F24 M3  EUA",USA: NBCSN Philadelphia
+http://cloudsalex.space:80/592693566/291894002/9015367.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBCSN Philadelphia Plus" tvg-logo="http://tvgolatino.com:8080/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="F24 M3  EUA",USA: NBCSN Philadelphia Plus
+http://cloudsalex.space:80/592693566/291894002/9015368.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBCSN Washington" tvg-logo="https://cm-inter.xyz/Logos/USA/NBCWASHINGTON.png" group-title="F24 M3  EUA",USA: NBCSN Washington
+http://cloudsalex.space:80/592693566/291894002/9015369.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBCSN Washington Plus" tvg-logo="https://cm-inter.xyz/Logos/USA/NBCWASHINGTON.png" group-title="F24 M3  EUA",USA: NBCSN Washington Plus
+http://cloudsalex.space:80/592693566/291894002/9015370.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBCSN Bay Area PLUS" tvg-logo="https://cm-inter.xyz/Logos/USA/NBCSNBAYAREA.png" group-title="F24 M3  EUA",USA: NBCSN Bay Area PLUS
+http://cloudsalex.space:80/592693566/291894002/9015371.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBCSN Bay Area" tvg-logo="https://cm-inter.xyz/Logos/USA/NBCSNBAYAREA.png" group-title="F24 M3  EUA",USA: NBCSN Bay Area
+http://cloudsalex.space:80/592693566/291894002/9015372.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Bally Sports Arizona" tvg-logo="http://tvgolatino.com:8080/images/e3ab7d599a9085e7ff14d378f7e4c1f8.png" group-title="F24 M3  EUA",USA: Bally Sports Arizona
+http://cloudsalex.space:80/592693566/291894002/9015373.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Bally Sports Detroit*" tvg-logo="http://tvgolatino.com:8080/images/e3ab7d599a9085e7ff14d378f7e4c1f8.png" group-title="F24 M3  EUA",USA: Bally Sports Detroit*
+http://cloudsalex.space:80/592693566/291894002/9015374.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Bally Sports Florida" tvg-logo="http://tvgolatino.com:8080/images/e3ab7d599a9085e7ff14d378f7e4c1f8.png" group-title="F24 M3  EUA",USA: Bally Sports Florida
+http://cloudsalex.space:80/592693566/291894002/9015375.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Bally Sports Great Lakes" tvg-logo="http://tvgolatino.com:8080/images/e3ab7d599a9085e7ff14d378f7e4c1f8.png" group-title="F24 M3  EUA",USA: Bally Sports Great Lakes
+http://cloudsalex.space:80/592693566/291894002/9015376.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Bally Sports Indiana" tvg-logo="http://tvgolatino.com:8080/images/e3ab7d599a9085e7ff14d378f7e4c1f8.png" group-title="F24 M3  EUA",USA: Bally Sports Indiana
+http://cloudsalex.space:80/592693566/291894002/9015377.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Bally Sports Kansas City" tvg-logo="http://tvgolatino.com:8080/images/e3ab7d599a9085e7ff14d378f7e4c1f8.png" group-title="F24 M3  EUA",USA: Bally Sports Kansas City
+http://cloudsalex.space:80/592693566/291894002/9015378.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Bally Sports MidWest" tvg-logo="http://tvgolatino.com:8080/images/e3ab7d599a9085e7ff14d378f7e4c1f8.png" group-title="F24 M3  EUA",USA: Bally Sports MidWest
+http://cloudsalex.space:80/592693566/291894002/9015379.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Bally Sports New Orleans" tvg-logo="http://tvgolatino.com:8080/images/e3ab7d599a9085e7ff14d378f7e4c1f8.png" group-title="F24 M3  EUA",USA: Bally Sports New Orleans
+http://cloudsalex.space:80/592693566/291894002/9015380.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Bally Sports North" tvg-logo="http://tvgolatino.com:8080/images/e3ab7d599a9085e7ff14d378f7e4c1f8.png" group-title="F24 M3  EUA",USA: Bally Sports North
+http://cloudsalex.space:80/592693566/291894002/9015381.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Bally Sports North Plus" tvg-logo="http://tvgolatino.com:8080/images/e3ab7d599a9085e7ff14d378f7e4c1f8.png" group-title="F24 M3  EUA",USA: Bally Sports North Plus
+http://cloudsalex.space:80/592693566/291894002/9015382.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Bally Sports Ohio" tvg-logo="http://tvgolatino.com:8080/images/e3ab7d599a9085e7ff14d378f7e4c1f8.png" group-title="F24 M3  EUA",USA: Bally Sports Ohio
+http://cloudsalex.space:80/592693566/291894002/9015383.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Bally Sports Oklahoma" tvg-logo="http://tvgolatino.com:8080/images/e3ab7d599a9085e7ff14d378f7e4c1f8.png" group-title="F24 M3  EUA",USA: Bally Sports Oklahoma
+http://cloudsalex.space:80/592693566/291894002/9015384.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Bally Sports San Diego" tvg-logo="http://tvgolatino.com:8080/images/e3ab7d599a9085e7ff14d378f7e4c1f8.png" group-title="F24 M3  EUA",USA: Bally Sports San Diego
+http://cloudsalex.space:80/592693566/291894002/9015385.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Bally Sports Socal" tvg-logo="http://tvgolatino.com:8080/images/e3ab7d599a9085e7ff14d378f7e4c1f8.png" group-title="F24 M3  EUA",USA: Bally Sports Socal
+http://cloudsalex.space:80/592693566/291894002/9015386.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Bally Sports South" tvg-logo="http://tvgolatino.com:8080/images/e3ab7d599a9085e7ff14d378f7e4c1f8.png" group-title="F24 M3  EUA",USA: Bally Sports South
+http://cloudsalex.space:80/592693566/291894002/9015387.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Bally Sports SouthEast" tvg-logo="http://tvgolatino.com:8080/images/e3ab7d599a9085e7ff14d378f7e4c1f8.png" group-title="F24 M3  EUA",USA: Bally Sports SouthEast
+http://cloudsalex.space:80/592693566/291894002/9015388.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Bally Sports SouthWest" tvg-logo="http://tvgolatino.com:8080/images/e3ab7d599a9085e7ff14d378f7e4c1f8.png" group-title="F24 M3  EUA",USA: Bally Sports SouthWest
+http://cloudsalex.space:80/592693566/291894002/9015389.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Bally Sports Sun" tvg-logo="http://tvgolatino.com:8080/images/e3ab7d599a9085e7ff14d378f7e4c1f8.png" group-title="F24 M3  EUA",USA: Bally Sports Sun
+http://cloudsalex.space:80/592693566/291894002/9015390.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Bally Sports West" tvg-logo="http://tvgolatino.com:8080/images/e3ab7d599a9085e7ff14d378f7e4c1f8.png" group-title="F24 M3  EUA",USA: Bally Sports West
+http://cloudsalex.space:80/592693566/291894002/9015391.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Bally Sports Wisconsin" tvg-logo="http://tvgolatino.com:8080/images/e3ab7d599a9085e7ff14d378f7e4c1f8.png" group-title="F24 M3  EUA",USA: Bally Sports Wisconsin
+http://cloudsalex.space:80/592693566/291894002/9015392.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NHL Network HD" tvg-logo="https://cm-inter.xyz/Logos/USA/NFLNETWORKFHD.png" group-title="F24 M3  EUA",USA: NHL Network HD
+http://cloudsalex.space:80/592693566/291894002/9015393.ts
+#EXTINF:-1 tvg-id="dummy-1110" tvg-name="USA: NBA TV" tvg-logo="https://cm-inter.xyz/Logos/USA/NBAPREMIUMHD.png" group-title="F24 M3  EUA",USA: NBA TV
+http://cloudsalex.space:80/592693566/291894002/9015394.ts
+#EXTINF:-1 tvg-id="dummy-1110" tvg-name="USA: NBA TV  HD" tvg-logo="https://cm-inter.xyz/Logos/USA/NBAPREMIUMHD.png" group-title="F24 M3  EUA",USA: NBA TV  HD
+http://cloudsalex.space:80/592693566/291894002/9015395.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: MLB Network" tvg-logo="https://cm-inter.xyz/Logos/USA/MLBNETWORKHD.png" group-title="F24 M3  EUA",USA: MLB Network
+http://cloudsalex.space:80/592693566/291894002/9015396.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NFL Network HD" tvg-logo="https://cm-inter.xyz/Logos/USA/NFLNETWORKFHD.png" group-title="F24 M3  EUA",USA: NFL Network HD
+http://cloudsalex.space:80/592693566/291894002/9015397.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NFL Red Zone HD" tvg-logo="http://tvgolatino.com:8080/images/aa10490d8ce0de89affc5d3abdf4e53c.png" group-title="F24 M3  EUA",USA: NFL Red Zone HD
+http://cloudsalex.space:80/592693566/291894002/9015398.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: C-Span 1" tvg-logo="" group-title="F24 M3  EUA",USA: C-Span 1
+http://cloudsalex.space:80/592693566/291894002/9015399.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: C-Span 2" tvg-logo="" group-title="F24 M3  EUA",USA: C-Span 2
+http://cloudsalex.space:80/592693566/291894002/9015400.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: C-Span 3" tvg-logo="" group-title="F24 M3  EUA",USA: C-Span 3
+http://cloudsalex.space:80/592693566/291894002/9015401.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Golf Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Golf_Channel_Logo.png" group-title="F24 M3  EUA",USA: Golf Channel
+http://cloudsalex.space:80/592693566/291894002/9015402.ts
+#EXTINF:-1 tvg-id="dummy-758" tvg-name="USA: RED Bull TV" tvg-logo="https://clipart.info/images/ccovers/1559856917USA-Flag-Map-PNG-Clip-Art-Image.png" group-title="F24 M3  EUA",USA: RED Bull TV
+http://cloudsalex.space:80/592693566/291894002/9015403.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: SPORTSNET 360" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/SN_360_logo.svg/210px-SN_360_logo.svg.png" group-title="F24 M3  EUA",USA: SPORTSNET 360
+http://cloudsalex.space:80/592693566/291894002/9015404.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: SPORTSNET" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/SportsnetWorld.svg/250px-SportsnetWorld.svg.png" group-title="F24 M3  EUA",USA: SPORTSNET
+http://cloudsalex.space:80/592693566/291894002/9015405.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: STADIUM 1" tvg-logo="https://cm-inter.xyz/Logos/USA/STADIUMHD1.png" group-title="F24 M3  EUA",USA: STADIUM 1
+http://cloudsalex.space:80/592693566/291894002/9015406.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: TSN 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/220px-TSN_Logo.svg.png" group-title="F24 M3  EUA",USA: TSN 1
+http://cloudsalex.space:80/592693566/291894002/9015407.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: TSN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/220px-TSN_Logo.svg.png" group-title="F24 M3  EUA",USA: TSN 2
+http://cloudsalex.space:80/592693566/291894002/9015408.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: TSN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/220px-TSN_Logo.svg.png" group-title="F24 M3  EUA",USA: TSN 3
+http://cloudsalex.space:80/592693566/291894002/9015409.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: TSN 4**" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/220px-TSN_Logo.svg.png" group-title="F24 M3  EUA",USA: TSN 4**
+http://cloudsalex.space:80/592693566/291894002/9015410.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: TSN 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/220px-TSN_Logo.svg.png" group-title="F24 M3  EUA",USA: TSN 5
+http://cloudsalex.space:80/592693566/291894002/9015411.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: AT&T Sportsnet South West" tvg-logo="" group-title="F24 M3  EUA",USA: AT&T Sportsnet South West
+http://cloudsalex.space:80/592693566/291894002/9015412.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: WILLOW Cricket" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Willow_Cricket.PNG/200px-Willow_Cricket.PNG" group-title="F24 M3  EUA",USA: WILLOW Cricket
+http://cloudsalex.space:80/592693566/291894002/9015413.ts
+#EXTINF:-1 tvg-id="" tvg-name="WWE HD" tvg-logo="https://cm-inter.xyz/Logos/USA/WWENETWORKHD.png" group-title="F24 M3  EUA",WWE HD
+http://cloudsalex.space:80/592693566/291894002/9015414.ts
+#EXTINF:-1 tvg-id="dummy-964" tvg-name="USA: UFC Fight Pass FHD" tvg-logo="https://cm-inter.xyz/Logos/USA/UFCFIGHTPASS.png" group-title="F24 M3  EUA",USA: UFC Fight Pass FHD
+http://cloudsalex.space:80/592693566/291894002/9015416.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Fight Network HD" tvg-logo="https://cm-inter.xyz/Logos/USA/FIGHTNETWORK.png" group-title="F24 M3  EUA",USA: Fight Network HD
+http://cloudsalex.space:80/592693566/291894002/9015417.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NFL Network HD" tvg-logo="https://cm-inter.xyz/Logos/USA/NFLNETWORKFHD.png" group-title="F24 M3  EUA",USA: NFL Network HD
+http://cloudsalex.space:80/592693566/291894002/9015418.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ACC Network HD" tvg-logo="" group-title="F24 M3  EUA",USA: ACC Network HD
+http://cloudsalex.space:80/592693566/291894002/9015419.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Inspiration TV" tvg-logo="" group-title="F24 M3  EUA",US: Inspiration TV
+http://cloudsalex.space:80/592693566/291894002/9015420.ts
+#EXTINF:-1 tvg-id="" tvg-name="Us- CBSN Boston*" tvg-logo="" group-title="F24 M3  EUA",Us- CBSN Boston*
+http://cloudsalex.space:80/592693566/291894002/9015421.ts
+#EXTINF:-1 tvg-id="" tvg-name="Us- CBSN Chicago*" tvg-logo="" group-title="F24 M3  EUA",Us- CBSN Chicago*
+http://cloudsalex.space:80/592693566/291894002/9015422.ts
+#EXTINF:-1 tvg-id="" tvg-name="Us- CBSN Miami" tvg-logo="" group-title="F24 M3  EUA",Us- CBSN Miami
+http://cloudsalex.space:80/592693566/291894002/9015423.ts
+#EXTINF:-1 tvg-id="" tvg-name="Us- CBSN Detroit" tvg-logo="" group-title="F24 M3  EUA",Us- CBSN Detroit
+http://cloudsalex.space:80/592693566/291894002/9015424.ts
+#EXTINF:-1 tvg-id="" tvg-name="Us- CBSN Los Angeles*" tvg-logo="" group-title="F24 M3  EUA",Us- CBSN Los Angeles*
+http://cloudsalex.space:80/592693566/291894002/9015425.ts
+#EXTINF:-1 tvg-id="" tvg-name="Us- CBSN Minnesota*" tvg-logo="" group-title="F24 M3  EUA",Us- CBSN Minnesota*
+http://cloudsalex.space:80/592693566/291894002/9015426.ts
+#EXTINF:-1 tvg-id="" tvg-name="Us- CBSN New York*" tvg-logo="" group-title="F24 M3  EUA",Us- CBSN New York*
+http://cloudsalex.space:80/592693566/291894002/9015427.ts
+#EXTINF:-1 tvg-id="" tvg-name="Us- CBSN Philly*" tvg-logo="" group-title="F24 M3  EUA",Us- CBSN Philly*
+http://cloudsalex.space:80/592693566/291894002/9015428.ts
+#EXTINF:-1 tvg-id="" tvg-name="Us- CBSN Pittsburgh" tvg-logo="" group-title="F24 M3  EUA",Us- CBSN Pittsburgh
+http://cloudsalex.space:80/592693566/291894002/9015429.ts
+#EXTINF:-1 tvg-id="" tvg-name="RECORD RIO DE JANEIRO FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F24 M3  RECORD",RECORD RIO DE JANEIRO FHD
+http://cloudsalex.space:80/592693566/291894002/9621092.ts
+#EXTINF:-1 tvg-id="" tvg-name="RECORD RIO DE JANEIRO HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F24 M3  RECORD",RECORD RIO DE JANEIRO HD
+http://cloudsalex.space:80/592693566/291894002/9621093.ts
+#EXTINF:-1 tvg-id="recordtvsãopaulo.br" tvg-name="RECORD SÃO PAULO FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F24 M3  RECORD",RECORD SÃO PAULO FHD
+http://cloudsalex.space:80/592693566/291894002/9621094.ts
+#EXTINF:-1 tvg-id="recordtvsãopaulo.br" tvg-name="RECORD SÃO PAULO HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F24 M3  RECORD",RECORD SÃO PAULO HD
+http://cloudsalex.space:80/592693566/291894002/9621095.ts
+#EXTINF:-1 tvg-id="rbstvportoalegre.br" tvg-name="RECORD PORTO ALEGRE FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F24 M3  RECORD",RECORD PORTO ALEGRE FHD
+http://cloudsalex.space:80/592693566/291894002/9621096.ts
+#EXTINF:-1 tvg-id="rbstvportoalegre.br" tvg-name="RECORD PORTO ALEGRE HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F24 M3  RECORD",RECORD PORTO ALEGRE HD
+http://cloudsalex.space:80/592693566/291894002/9621097.ts
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD BAHIA FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F24 M3  RECORD",RECORD BAHIA FHD
+http://cloudsalex.space:80/592693566/291894002/9621098.ts
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD BAHIA HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F24 M3  RECORD",RECORD BAHIA HD
+http://cloudsalex.space:80/592693566/291894002/9621099.ts
+#EXTINF:-1 tvg-id="recordtvbelém.br" tvg-name="RECORD BELÉM FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F24 M3  RECORD",RECORD BELÉM FHD
+http://cloudsalex.space:80/592693566/291894002/9621100.ts
+#EXTINF:-1 tvg-id="recordtvbelém.br" tvg-name="RECORD BELÉM HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F24 M3  RECORD",RECORD BELÉM HD
+http://cloudsalex.space:80/592693566/291894002/9621101.ts
+#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="RECORD BRASÍLIA FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F24 M3  RECORD",RECORD BRASÍLIA FHD
+http://cloudsalex.space:80/592693566/291894002/9621102.ts
+#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="RECORD BRASÍLIA HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F24 M3  RECORD",RECORD BRASÍLIA HD
+http://cloudsalex.space:80/592693566/291894002/9621103.ts
+#EXTINF:-1 tvg-id="recordtvgoiás.br" tvg-name="RECORD GOIÁS FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F24 M3  RECORD",RECORD GOIÁS FHD
+http://cloudsalex.space:80/592693566/291894002/9621104.ts
+#EXTINF:-1 tvg-id="recordtvgoiás.br" tvg-name="RECORD GOIÁS HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F24 M3  RECORD",RECORD GOIÁS HD
+http://cloudsalex.space:80/592693566/291894002/9621105.ts
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD MANAUS FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F24 M3  RECORD",RECORD MANAUS FHD
+http://cloudsalex.space:80/592693566/291894002/9621106.ts
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD MANAUS HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F24 M3  RECORD",RECORD MANAUS HD
+http://cloudsalex.space:80/592693566/291894002/9621107.ts
+#EXTINF:-1 tvg-id="recordtvminas.br" tvg-name="RECORD MINAS FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F24 M3  RECORD",RECORD MINAS FHD
+http://cloudsalex.space:80/592693566/291894002/9621108.ts
+#EXTINF:-1 tvg-id="recordtvminas.br" tvg-name="RECORD MINAS HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F24 M3  RECORD",RECORD MINAS HD
+http://cloudsalex.space:80/592693566/291894002/9621109.ts
+#EXTINF:-1 tvg-id="" tvg-name="RECORD BAHIA ITABUNA FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F24 M3  RECORD",RECORD BAHIA ITABUNA FHD
+http://cloudsalex.space:80/592693566/291894002/9621110.ts
+#EXTINF:-1 tvg-id="" tvg-name="RECORD BAHIA ITABUNA HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F24 M3  RECORD",RECORD BAHIA ITABUNA HD
+http://cloudsalex.space:80/592693566/291894002/9621111.ts
+#EXTINF:-1 tvg-id="" tvg-name="RECORD SANTOS E VALE FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F24 M3  RECORD",RECORD SANTOS E VALE FHD
+http://cloudsalex.space:80/592693566/291894002/9621112.ts
+#EXTINF:-1 tvg-id="" tvg-name="RECORD SANTOS E VALE HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F24 M3  RECORD",RECORD SANTOS E VALE HD
+http://cloudsalex.space:80/592693566/291894002/9621113.ts
+#EXTINF:-1 tvg-id="" tvg-name="RECORD RIBEIRÃO PRETO FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F24 M3  RECORD",RECORD RIBEIRÃO PRETO FHD
+http://cloudsalex.space:80/592693566/291894002/9621114.ts
+#EXTINF:-1 tvg-id="" tvg-name="RECORD RIBEIRÃO PRETO HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F24 M3  RECORD",RECORD RIBEIRÃO PRETO HD
+http://cloudsalex.space:80/592693566/291894002/9621115.ts
+#EXTINF:-1 tvg-id="" tvg-name="RECORD RIO PRETO FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F24 M3  RECORD",RECORD RIO PRETO FHD
+http://cloudsalex.space:80/592693566/291894002/9621116.ts
+#EXTINF:-1 tvg-id="" tvg-name="RECORD RIO PRETO HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F24 M3  RECORD",RECORD RIO PRETO HD
+http://cloudsalex.space:80/592693566/291894002/9621117.ts
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD BAURU FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F24 M3  RECORD",RECORD BAURU FHD
+http://cloudsalex.space:80/592693566/291894002/9621118.ts
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD BAURU HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F24 M3  RECORD",RECORD BAURU HD
+http://cloudsalex.space:80/592693566/291894002/9621119.ts
+#EXTINF:-1 tvg-id="" tvg-name="RECORD CAMPOS DOS GOYTACAZES FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F24 M3  RECORD",RECORD CAMPOS DOS GOYTACAZES FHD
+http://cloudsalex.space:80/592693566/291894002/9621120.ts
+#EXTINF:-1 tvg-id="" tvg-name="RECORD CAMPOS DOS GOYTACAZES HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F24 M3  RECORD",RECORD CAMPOS DOS GOYTACAZES HD
+http://cloudsalex.space:80/592693566/291894002/9621121.ts
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD RECIFE FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F24 M3  RECORD",RECORD RECIFE FHD
+http://cloudsalex.space:80/592693566/291894002/9621122.ts
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD RECIFE HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F24 M3  RECORD",RECORD RECIFE HD
+http://cloudsalex.space:80/592693566/291894002/9621123.ts
+#EXTINF:-1 tvg-id="nsctvflorianópolis.br" tvg-name="RECORD FLORIANÓPOLIS FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F24 M3  RECORD",RECORD FLORIANÓPOLIS FHD
+http://cloudsalex.space:80/592693566/291894002/9621124.ts
+#EXTINF:-1 tvg-id="nsctvflorianópolis.br" tvg-name="RECORD FLORIANÓPOLIS HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F24 M3  RECORD",RECORD FLORIANÓPOLIS HD
+http://cloudsalex.space:80/592693566/291894002/9621125.ts
+#EXTINF:-1 tvg-id="" tvg-name="RECORD VITÓRIA FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F24 M3  RECORD",RECORD VITÓRIA FHD
+http://cloudsalex.space:80/592693566/291894002/9621126.ts
+#EXTINF:-1 tvg-id="" tvg-name="RECORD VITÓRIA HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F24 M3  RECORD",RECORD VITÓRIA HD
+http://cloudsalex.space:80/592693566/291894002/9621127.ts
+#EXTINF:-1 tvg-id="recordtvminas.br" tvg-name="RECORD CAMPINAS FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F24 M3  RECORD",RECORD CAMPINAS FHD
+http://cloudsalex.space:80/592693566/291894002/9621128.ts
+#EXTINF:-1 tvg-id="recordtvminas.br" tvg-name="RECORD CAMPINAS HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F24 M3  RECORD",RECORD CAMPINAS HD
+http://cloudsalex.space:80/592693566/291894002/9621129.ts
+#EXTINF:-1 tvg-id="" tvg-name="RECORD FORTALEZA FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F24 M3  RECORD",RECORD FORTALEZA FHD
+http://cloudsalex.space:80/592693566/291894002/9621130.ts
+#EXTINF:-1 tvg-id="" tvg-name="RECORD FORTALEZA HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F24 M3  RECORD",RECORD FORTALEZA HD
+http://cloudsalex.space:80/592693566/291894002/9621131.ts
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD PARANÁ FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F24 M3  RECORD",RECORD PARANÁ FHD
+http://cloudsalex.space:80/592693566/291894002/9621132.ts
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD PARANÁ HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/recordtv-sp-fhd.png" group-title="F24 M3  RECORD",RECORD PARANÁ HD
+http://cloudsalex.space:80/592693566/291894002/9621133.ts
+#EXTINF:-1 tvg-id="globorio.br" tvg-name="GLOBO RIO PRETO FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO RIO PRETO FHD
+http://cloudsalex.space:80/592693566/291894002/9621134.ts
+#EXTINF:-1 tvg-id="globorio.br" tvg-name="GLOBO RIO PRETO HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO RIO PRETO HD
+http://cloudsalex.space:80/592693566/291894002/9621135.ts
 
 
 # --- Adult Iptv ---
