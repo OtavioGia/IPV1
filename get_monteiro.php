@@ -10,6 +10,12 @@ https://video02.logicahost.com.br/chafariz/chafariz/chunklist_w1386428370.m3u8
 https://video02.logicahost.com.br/cantinhoest/cantinhoest/chunklist_w1499874188.m3u8
 #EXTINF:-1 tvg-id="CantinhoOrlaGastronomica.trs" tvg-name="Cantinho do Pescador - Orla Gastronômica" tvg-logo="https://torres.rs.gov.br/wp-content/uploads/2025/03/brasao-cor.png" group-title="Cameras Ao Vivo Torres RS",Cantinho do Pescador - Orla Gastronômica
 https://video02.logicahost.com.br/cantinho/cantinho/chunklist_w103535488.m3u8
+#EXTINF:-1 tvg-id="PracaJuventudeMolhes.trs" tvg-name="Praça da Juventude - Molhes" tvg-logo="https://torres.rs.gov.br/wp-content/uploads/2025/03/brasao-cor.png" group-title="Cameras Ao Vivo Torres RS",Praça da Juventude - Molhes
+https://video02.logicahost.com.br/valapraca/valapraca/chunklist_w1261692365.m3u8
+#EXTINF:-1 tvg-id="Vala.trs" tvg-name="Vala" tvg-logo="https://torres.rs.gov.br/wp-content/uploads/2025/03/brasao-cor.png" group-title="Cameras Ao Vivo Torres RS",Vala
+https://video02.logicahost.com.br/valafrente/valafrente/chunklist_w1834950232.m3u8
+#EXTINF:-1 tvg-id="QuadraVolei.trs" tvg-name="Quadra de Vôlei" tvg-logo="https://torres.rs.gov.br/wp-content/uploads/2025/03/brasao-cor.png" group-title="Cameras Ao Vivo Torres RS",Quadra de Vôlei
+https://video02.logicahost.com.br/valaquadra/valaquadra/chunklist_w1104053749.m3u8
 #EXTINF:-1 tvg-id="OrlaGastronomica.trs" tvg-name="Orla Gastronômica" tvg-logo="https://torres.rs.gov.br/wp-content/uploads/2025/03/brasao-cor.png" group-title="Cameras Ao Vivo Torres RS",Orla Gastronômica
 https://video02.logicahost.com.br/orlagastronomica1/orlagastronomica1/chunklist_w899639274.m3u8
 #EXTINF:-1 tvg-id="OrlaGastronomica.trs" tvg-name="Orla Gastronômica" tvg-logo="https://torres.rs.gov.br/wp-content/uploads/2025/03/brasao-cor.png" group-title="Cameras Ao Vivo Torres RS",Orla Gastronômica
@@ -94,14 +100,16 @@ https://video02.logicahost.com.br/aerorealizar/aerorealizar/chunklist_w955637404
 # --- Ctrl + Shift + End ---
 # --- Atulizado 30 09 2025   ---
 # --- Fonte 16 Max 5 Exp       Nulo http://7vnx.xyz:80/player_api.php?username=7csplay&password=seven2022 http://7vnx.xyz:80/get.php?username=7csplay&password=seven2022&type=m3u_plus   ---
-# --- Fonte 14 Max 2 Exp 19/10/2025 http://play.1list.vip/player_api.php?username=5550388689&password=simpleiptv http://play.1list.vip/get.php?username=5550388689&password=simpleiptv&type=m3u_plus&output=m3u8  ---
-# --- Fonte 15 Max 2 Exp 25/10/2025 http://play.1list.vip/player_api.php?&username=Marcosfp05&password=nlybdft6fml http://play.1list.vip/get.php?&username=Marcosfp05&password=nlybdft6fml&type=m3u_plus&output=m3u8  ---
+# --- Fonte 14 Max 2 Exp 19/12/2025 http://play.1list.vip/player_api.php?username=5550388689&password=simpleiptv http://play.1list.vip/get.php?username=5550388689&password=simpleiptv&type=m3u_plus&output=m3u8  ---
+# --- Fonte 15 Max 2 Exp 25/12/2025 http://play.1list.vip/player_api.php?&username=Marcosfp05&password=nlybdft6fml http://play.1list.vip/get.php?&username=Marcosfp05&password=nlybdft6fml&type=m3u_plus&output=m3u8  ---
 # --- Fonte 17 Max 2 Exp       Nulo http://7vnx.xyz:8080/player_api.php?username=7ruanpedro&password=ruan089c52bo http://7vnx.xyz:8080/get.php?username=7ruanpedro&password=ruan089c52bo&type=m3u_plus   ---
 # --- Fonte 18 Max 3 Exp 25/12/2025 http://7vnx.xyz:8080/player_api.php?username=delcio&password=99118656 http://7vnx.xyz:8080/get.php?username=delcio&password=99118656&type=m3u_plus   ---
 # --- Fonte 19 Max 3 Exp 24/10/2025 http://7vnx.xyz:80/player_api.php?username=7csplay&password=seven2022 http://7vnx.xyz:8080/get.php?username=SamiraColodo&password=9hYJKLw7&type=m3u_plus   ---
 # --- Fonte 22 Max 5 Exp xx/xx/2035 http://saga10.pro/player_api.php?&username=148043&password=844063 http://saga10.pro/get.php?&username=148043&password=844063&type=m3u_plus   ---
-# --- Fonte 23 Max 3 Exp xx/xx/2025 http://yesme.shop/player_api.php?username=Gledson&password=Gledson http://yesme.shop/get.php?username=Gledson&password=Gledson&type=m3u_plus   ---
+# --- Fonte 23 Max 3 Exp xx/02/2026 http://yesme.shop/player_api.php?username=Gledson&password=Gledson http://yesme.shop/get.php?username=Gledson&password=Gledson&type=m3u_plus   ---
 # --- Fonte 24 Max 3 Exp xx/xx/2025 http://yesme.shop/player_api.php?username=592693566&password=291894002 http://yesme.shop/get.php?username=592693566&password=291894002&type=m3u_plus    ---
+# --- Fonte 25 Max 3 Exp xx/01/2026 http://megaxc.ca/player_api.php?username=ialwg1&password=iao8wo http://megaxc.ca/get.php?&username=ialwg1&password=iao8wo&type=m3u_plus ---
+
 
 #EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO BRASILIENSE HD¹" tvg-logo="http://contentsdeliver.link/logos/campeonatobrasiliensehd.png" group-title="F16 M5 CAMPEONATOS ESTADUAIS",CAMPEONATO BRASILIENSE HD¹
 http://trabalho724.top:8080/7csplay/seven2022/327183
@@ -29129,6 +29137,3316 @@ http://cloudsalex.space:80/592693566/291894002/9621133.ts
 http://cloudsalex.space:80/592693566/291894002/9621134.ts
 #EXTINF:-1 tvg-id="globorio.br" tvg-name="GLOBO RIO PRETO HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/globo-sp-fhd.png" group-title="F24 M3  GLOBO",GLOBO RIO PRETO HD
 http://cloudsalex.space:80/592693566/291894002/9621135.ts
+
+#EXTINF:-1 tvg-id="a&e.br" tvg-name="A&E HD" tvg-logo="http://im.robx9.top:80/images/a2a50e6364e5e8b1af46d43d60750367.png" group-title="F25 M3 Filmes e Séries",A&E HD
+http://megaxc.ca:80/ialwg1/iao8wo/20.ts
+#EXTINF:-1 tvg-id="a&e.br" tvg-name="A&E HD+" tvg-logo="http://im.robx9.top:80/images/a2a50e6364e5e8b1af46d43d60750367.png" group-title="F25 M3 Filmes e Séries",A&E HD+
+http://megaxc.ca:80/ialwg1/iao8wo/1017.ts
+#EXTINF:-1 tvg-id="a&e.br" tvg-name="A&E SD" tvg-logo="http://im.robx9.top:80/images/a2a50e6364e5e8b1af46d43d60750367.png" group-title="F25 M3 Filmes e Séries",A&E SD
+http://megaxc.ca:80/ialwg1/iao8wo/21.ts
+#EXTINF:-1 tvg-id="a&e.br" tvg-name="A&E 4K" tvg-logo="http://im.robx9.top:80/images/a2a50e6364e5e8b1af46d43d60750367.png" group-title="Canais | ⭐ 4K",A&E 4K
+http://megaxc.ca:80/ialwg1/iao8wo/2109877.ts
+#EXTINF:-1 tvg-id="a&e.br" tvg-name="A&E FHD" tvg-logo="http://im.robx9.top:80/images/a2a50e6364e5e8b1af46d43d60750367.png" group-title="F25 M3 Filmes e Séries",A&E FHD
+http://megaxc.ca:80/ialwg1/iao8wo/19.ts
+#EXTINF:-1 tvg-id="a&e.br" tvg-name="A&E FHD [H265]" tvg-logo="http://im.robx9.top:80/images/a2a50e6364e5e8b1af46d43d60750367.png" group-title="F25 M3 Filmes e Séries",A&E FHD [H265]
+http://megaxc.ca:80/ialwg1/iao8wo/18.ts
+#EXTINF:-1 tvg-id="" tvg-name="3 Palavrinhas" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",3 Palavrinhas
+http://megaxc.ca:80/ialwg1/iao8wo/24290.ts
+#EXTINF:-1 tvg-id="areadocliente" tvg-name="Jogos do Dia" tvg-logo="https://iili.io/FZZgkcx.png" group-title="Canais | ⭐ Area do Cliente",Jogos do Dia
+http://megaxc.ca:80/ialwg1/iao8wo/86702.ts
+#EXTINF:-1 tvg-id="" tvg-name="A Fazenda 01" tvg-logo="https://iili.io/KAcOjfV.jpg" group-title="Reality | ⭐ A Fazenda",A Fazenda 01
+http://megaxc.ca:80/ialwg1/iao8wo/2110497.ts
+#EXTINF:-1 tvg-id="" tvg-name="A Fazenda 02" tvg-logo="https://iili.io/KAcOjfV.jpg" group-title="Reality | ⭐ A Fazenda",A Fazenda 02
+http://megaxc.ca:80/ialwg1/iao8wo/2110498.ts
+#EXTINF:-1 tvg-id="" tvg-name="A Fazenda 03" tvg-logo="https://iili.io/KAcOjfV.jpg" group-title="Reality | ⭐ A Fazenda",A Fazenda 03
+http://megaxc.ca:80/ialwg1/iao8wo/2110499.ts
+#EXTINF:-1 tvg-id="" tvg-name="A Fazenda 04" tvg-logo="https://iili.io/KAcOjfV.jpg" group-title="Reality | ⭐ A Fazenda",A Fazenda 04
+http://megaxc.ca:80/ialwg1/iao8wo/2110500.ts
+#EXTINF:-1 tvg-id="" tvg-name="A Fazenda 05" tvg-logo="https://iili.io/KAcOjfV.jpg" group-title="Reality | ⭐ A Fazenda",A Fazenda 05
+http://megaxc.ca:80/ialwg1/iao8wo/2110501.ts
+#EXTINF:-1 tvg-id="" tvg-name="A Fazenda 06" tvg-logo="https://iili.io/KAcOjfV.jpg" group-title="Reality | ⭐ A Fazenda",A Fazenda 06
+http://megaxc.ca:80/ialwg1/iao8wo/2110502.ts
+#EXTINF:-1 tvg-id="" tvg-name="A Fazenda 01²" tvg-logo="https://iili.io/KAcOjfV.jpg" group-title="Reality | ⭐ A Fazenda",A Fazenda 01²
+http://megaxc.ca:80/ialwg1/iao8wo/2110769.ts
+#EXTINF:-1 tvg-id="" tvg-name="A Fazenda 02²" tvg-logo="https://iili.io/KAcOjfV.jpg" group-title="Reality | ⭐ A Fazenda",A Fazenda 02²
+http://megaxc.ca:80/ialwg1/iao8wo/2110770.ts
+#EXTINF:-1 tvg-id="" tvg-name="A Fazenda 03²" tvg-logo="https://iili.io/KAcOjfV.jpg" group-title="Reality | ⭐ A Fazenda",A Fazenda 03²
+http://megaxc.ca:80/ialwg1/iao8wo/2110771.ts
+#EXTINF:-1 tvg-id="" tvg-name="A Fazenda 04²" tvg-logo="https://iili.io/KAcOjfV.jpg" group-title="Reality | ⭐ A Fazenda",A Fazenda 04²
+http://megaxc.ca:80/ialwg1/iao8wo/2110772.ts
+#EXTINF:-1 tvg-id="" tvg-name="A Fazenda 05²" tvg-logo="https://iili.io/KAcOjfV.jpg" group-title="Reality | ⭐ A Fazenda",A Fazenda 05²
+http://megaxc.ca:80/ialwg1/iao8wo/2110773.ts
+#EXTINF:-1 tvg-id="" tvg-name="A Fazenda 06²" tvg-logo="https://iili.io/KAcOjfV.jpg" group-title="Reality | ⭐ A Fazenda",A Fazenda 06²
+http://megaxc.ca:80/ialwg1/iao8wo/2110774.ts
+#EXTINF:-1 tvg-id="" tvg-name="A Festa do Garfiel" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",A Festa do Garfiel
+http://megaxc.ca:80/ialwg1/iao8wo/3190.ts
+#EXTINF:-1 tvg-id="" tvg-name="A Grande Família 01" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",A Grande Família 01
+http://megaxc.ca:80/ialwg1/iao8wo/188358.ts
+#EXTINF:-1 tvg-id="" tvg-name="A Grande Família 02" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",A Grande Família 02
+http://megaxc.ca:80/ialwg1/iao8wo/2109331.ts
+#EXTINF:-1 tvg-id="" tvg-name="A Grande Família 03" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",A Grande Família 03
+http://megaxc.ca:80/ialwg1/iao8wo/2109967.ts
+#EXTINF:-1 tvg-id="" tvg-name="A Grande Família 04" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",A Grande Família 04
+http://megaxc.ca:80/ialwg1/iao8wo/2109968.ts
+#EXTINF:-1 tvg-id="" tvg-name="A Grande Família 05" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",A Grande Família 05
+http://megaxc.ca:80/ialwg1/iao8wo/2110670.ts
+#EXTINF:-1 tvg-id="" tvg-name="A Grande Família 06" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",A Grande Família 06
+http://megaxc.ca:80/ialwg1/iao8wo/2110671.ts
+#EXTINF:-1 tvg-id="" tvg-name="A Grande Família 07" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",A Grande Família 07
+http://megaxc.ca:80/ialwg1/iao8wo/2110672.ts
+#EXTINF:-1 tvg-id="" tvg-name="A Grande Família 08" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",A Grande Família 08
+http://megaxc.ca:80/ialwg1/iao8wo/2110673.ts
+#EXTINF:-1 tvg-id="" tvg-name="A Grande Família 09" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",A Grande Família 09
+http://megaxc.ca:80/ialwg1/iao8wo/2110674.ts
+#EXTINF:-1 tvg-id="" tvg-name="A Grande Família 10" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",A Grande Família 10
+http://megaxc.ca:80/ialwg1/iao8wo/2110675.ts
+#EXTINF:-1 tvg-id="" tvg-name="A Grande Família 11" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",A Grande Família 11
+http://megaxc.ca:80/ialwg1/iao8wo/2110676.ts
+#EXTINF:-1 tvg-id="" tvg-name="A Grande Família 12" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",A Grande Família 12
+http://megaxc.ca:80/ialwg1/iao8wo/2110677.ts
+#EXTINF:-1 tvg-id="" tvg-name="A Grande Família 13" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",A Grande Família 13
+http://megaxc.ca:80/ialwg1/iao8wo/2110678.ts
+#EXTINF:-1 tvg-id="" tvg-name="A Grande Família 14" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",A Grande Família 14
+http://megaxc.ca:80/ialwg1/iao8wo/2110679.ts
+#EXTINF:-1 tvg-id="" tvg-name="Adrenalina Pura TV" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Cine 24H",Adrenalina Pura TV
+http://megaxc.ca:80/ialwg1/iao8wo/2113375.ts
+#EXTINF:-1 tvg-id="" tvg-name="Adrenalina Pura TV Halloween" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Cine 24H",Adrenalina Pura TV Halloween
+http://megaxc.ca:80/ialwg1/iao8wo/2113376.ts
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="Adult Swim FHD" tvg-logo="https://www.liblogo.com/img-logo/ad8698ca9a-adult-swim-logo-content-adult-swim-support.png" group-title="F25 M3 Variedades",Adult Swim FHD
+http://megaxc.ca:80/ialwg1/iao8wo/183042.ts
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="Adult Swim HD" tvg-logo="https://www.liblogo.com/img-logo/ad8698ca9a-adult-swim-logo-content-adult-swim-support.png" group-title="F25 M3 Variedades",Adult Swim HD
+http://megaxc.ca:80/ialwg1/iao8wo/183040.ts
+#EXTINF:-1 tvg-id="" tvg-name="Aeroporto: Area Restrita" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",Aeroporto: Area Restrita
+http://megaxc.ca:80/ialwg1/iao8wo/154406.ts
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="Agro Mais FHD" tvg-logo="http://im.robx9.top:80/images/e57e827553e5873009c5a851fe9104bb.png" group-title="F25 M3 Variedades",Agro Mais FHD
+http://megaxc.ca:80/ialwg1/iao8wo/22.ts
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="Agro Mais HD" tvg-logo="http://im.robx9.top:80/images/e57e827553e5873009c5a851fe9104bb.png" group-title="F25 M3 Variedades",Agro Mais HD
+http://megaxc.ca:80/ialwg1/iao8wo/23.ts
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime 1 HD" tvg-logo="http://im.robx9.top:80/images/e3c496d9e754e3d6c84ee1e241990ad1.png" group-title="Canais |⚽ Amazon Prime",Amazon Prime 1 HD
+http://megaxc.ca:80/ialwg1/iao8wo/2080170.ts
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime 1 HD²" tvg-logo="http://im.robx9.top:80/images/e3c496d9e754e3d6c84ee1e241990ad1.png" group-title="Canais |⚽ Amazon Prime",Amazon Prime 1 HD²
+http://megaxc.ca:80/ialwg1/iao8wo/994.ts
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime 1 SD" tvg-logo="http://im.robx9.top:80/images/e3c496d9e754e3d6c84ee1e241990ad1.png" group-title="Canais |⚽ Amazon Prime",Amazon Prime 1 SD
+http://megaxc.ca:80/ialwg1/iao8wo/2091688.ts
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime 2 HD" tvg-logo="http://im.robx9.top:80/images/e3c496d9e754e3d6c84ee1e241990ad1.png" group-title="Canais |⚽ Amazon Prime",Amazon Prime 2 HD
+http://megaxc.ca:80/ialwg1/iao8wo/995.ts
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime 2 HD²" tvg-logo="http://im.robx9.top:80/images/e3c496d9e754e3d6c84ee1e241990ad1.png" group-title="Canais |⚽ Amazon Prime",Amazon Prime 2 HD²
+http://megaxc.ca:80/ialwg1/iao8wo/2080168.ts
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime 2 SD" tvg-logo="http://im.robx9.top:80/images/e3c496d9e754e3d6c84ee1e241990ad1.png" group-title="Canais |⚽ Amazon Prime",Amazon Prime 2 SD
+http://megaxc.ca:80/ialwg1/iao8wo/2080171.ts
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime 3 HD²" tvg-logo="http://im.robx9.top:80/images/e3c496d9e754e3d6c84ee1e241990ad1.png" group-title="Canais |⚽ Amazon Prime",Amazon Prime 3 HD²
+http://megaxc.ca:80/ialwg1/iao8wo/996.ts
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime 4 HD²" tvg-logo="http://im.robx9.top:80/images/e3c496d9e754e3d6c84ee1e241990ad1.png" group-title="Canais |⚽ Amazon Prime",Amazon Prime 4 HD²
+http://megaxc.ca:80/ialwg1/iao8wo/997.ts
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime 5 HD" tvg-logo="http://im.robx9.top:80/images/e3c496d9e754e3d6c84ee1e241990ad1.png" group-title="Canais |⚽ Amazon Prime",Amazon Prime 5 HD
+http://megaxc.ca:80/ialwg1/iao8wo/200657.ts
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime 6 HD" tvg-logo="http://im.robx9.top:80/images/e3c496d9e754e3d6c84ee1e241990ad1.png" group-title="Canais |⚽ Amazon Prime",Amazon Prime 6 HD
+http://megaxc.ca:80/ialwg1/iao8wo/2081499.ts
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime 7 HD" tvg-logo="http://im.robx9.top:80/images/e3c496d9e754e3d6c84ee1e241990ad1.png" group-title="Canais |⚽ Amazon Prime",Amazon Prime 7 HD
+http://megaxc.ca:80/ialwg1/iao8wo/2080169.ts
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime 8 HD" tvg-logo="http://im.robx9.top:80/images/e3c496d9e754e3d6c84ee1e241990ad1.png" group-title="Canais |⚽ Amazon Prime",Amazon Prime 8 HD
+http://megaxc.ca:80/ialwg1/iao8wo/2080167.ts
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC +HD" tvg-logo="http://im.robx9.top:80/images/3654b34017508a963ccce2426e91e4cd.png" group-title="F25 M3 Filmes e Séries",AMC +HD
+http://megaxc.ca:80/ialwg1/iao8wo/1018.ts
+#EXTINF:-1 tvg-id="amc.br" tvg-name="Amc FHD" tvg-logo="http://im.robx9.top:80/images/3654b34017508a963ccce2426e91e4cd.png" group-title="F25 M3 Filmes e Séries",Amc FHD
+http://megaxc.ca:80/ialwg1/iao8wo/26.ts
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC FHD [H265]" tvg-logo="http://im.robx9.top:80/images/3654b34017508a963ccce2426e91e4cd.png" group-title="F25 M3 Filmes e Séries",AMC FHD [H265]
+http://megaxc.ca:80/ialwg1/iao8wo/21000.ts
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD" tvg-logo="http://im.robx9.top:80/images/3654b34017508a963ccce2426e91e4cd.png" group-title="F25 M3 Filmes e Séries",AMC HD
+http://megaxc.ca:80/ialwg1/iao8wo/27.ts
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet +HD" tvg-logo="http://im.robx9.top:80/images/1ddda0538fa13e7cef6ae227d9fce0c7.png" group-title="F25 M3 Documentários",Animal Planet +HD
+http://megaxc.ca:80/ialwg1/iao8wo/1029.ts
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet 4K" tvg-logo="http://im.robx9.top:80/images/1ddda0538fa13e7cef6ae227d9fce0c7.png" group-title="Canais | ⭐ 4K",Animal Planet 4K
+http://megaxc.ca:80/ialwg1/iao8wo/2117.ts
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet FHD" tvg-logo="http://im.robx9.top:80/images/1ddda0538fa13e7cef6ae227d9fce0c7.png" group-title="F25 M3 Documentários",Animal Planet FHD
+http://megaxc.ca:80/ialwg1/iao8wo/30.ts
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet FHD [H265]" tvg-logo="http://im.robx9.top:80/images/1ddda0538fa13e7cef6ae227d9fce0c7.png" group-title="F25 M3 Documentários",Animal Planet FHD [H265]
+http://megaxc.ca:80/ialwg1/iao8wo/29.ts
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet HD" tvg-logo="http://im.robx9.top:80/images/1ddda0538fa13e7cef6ae227d9fce0c7.png" group-title="F25 M3 Documentários",Animal Planet HD
+http://megaxc.ca:80/ialwg1/iao8wo/31.ts
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet SD" tvg-logo="http://im.robx9.top:80/images/1ddda0538fa13e7cef6ae227d9fce0c7.png" group-title="F25 M3 Documentários",Animal Planet SD
+http://megaxc.ca:80/ialwg1/iao8wo/32.ts
+#EXTINF:-1 tvg-id="" tvg-name="Apenas Um Show" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Apenas Um Show
+http://megaxc.ca:80/ialwg1/iao8wo/158680.ts
+#EXTINF:-1 tvg-id="" tvg-name="Apple TV 1 HD" tvg-logo="https://www.rochagalaxia.live/logos/apple-tv250.png" group-title="Canais | ⚽ PPV",Apple TV 1 HD
+http://megaxc.ca:80/ialwg1/iao8wo/998.ts
+#EXTINF:-1 tvg-id="" tvg-name="Apple TV 2 HD" tvg-logo="https://www.rochagalaxia.live/logos/apple-tv250.png" group-title="Canais | ⚽ PPV",Apple TV 2 HD
+http://megaxc.ca:80/ialwg1/iao8wo/999.ts
+#EXTINF:-1 tvg-id="" tvg-name="Apple TV 3 HD" tvg-logo="https://www.rochagalaxia.live/logos/apple-tv250.png" group-title="Canais | ⚽ PPV",Apple TV 3 HD
+http://megaxc.ca:80/ialwg1/iao8wo/2092041.ts
+#EXTINF:-1 tvg-id="arte1.br" tvg-name="Arte 1 FHD" tvg-logo="http://im.robx9.top:80/images/3783555a4f794a09ead6a35e2583fff8.png" group-title="F25 M3 Documentários",Arte 1 FHD
+http://megaxc.ca:80/ialwg1/iao8wo/34.ts
+#EXTINF:-1 tvg-id="arte1.br" tvg-name="Arte 1 FHD [H265]" tvg-logo="http://im.robx9.top:80/images/3783555a4f794a09ead6a35e2583fff8.png" group-title="F25 M3 Documentários",Arte 1 FHD [H265]
+http://megaxc.ca:80/ialwg1/iao8wo/33.ts
+#EXTINF:-1 tvg-id="arte1.br" tvg-name="Arte 1 HD" tvg-logo="http://im.robx9.top:80/images/3783555a4f794a09ead6a35e2583fff8.png" group-title="F25 M3 Documentários",Arte 1 HD
+http://megaxc.ca:80/ialwg1/iao8wo/35.ts
+#EXTINF:-1 tvg-id="arte1.br" tvg-name="Arte 1 SD" tvg-logo="http://im.robx9.top:80/images/3783555a4f794a09ead6a35e2583fff8.png" group-title="F25 M3 Documentários",Arte 1 SD
+http://megaxc.ca:80/ialwg1/iao8wo/36.ts
+#EXTINF:-1 tvg-id="" tvg-name="As Aventuras de Jackie Chan" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",As Aventuras de Jackie Chan
+http://megaxc.ca:80/ialwg1/iao8wo/154408.ts
+#EXTINF:-1 tvg-id="" tvg-name="As Aventuras de Tintin" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",As Aventuras de Tintin
+http://megaxc.ca:80/ialwg1/iao8wo/3228.ts
+#EXTINF:-1 tvg-id="" tvg-name="As Meninas Super Poderosas" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",As Meninas Super Poderosas
+http://megaxc.ca:80/ialwg1/iao8wo/3209.ts
+#EXTINF:-1 tvg-id="" tvg-name="As Tartarugas Ninjas" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",As Tartarugas Ninjas
+http://megaxc.ca:80/ialwg1/iao8wo/3340.ts
+#EXTINF:-1 tvg-id="" tvg-name="As Tartarugas Ninjas S01" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",As Tartarugas Ninjas S01
+http://megaxc.ca:80/ialwg1/iao8wo/181883.ts
+#EXTINF:-1 tvg-id="" tvg-name="As Tartarugas Ninjas S02" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",As Tartarugas Ninjas S02
+http://megaxc.ca:80/ialwg1/iao8wo/181884.ts
+#EXTINF:-1 tvg-id="" tvg-name="As Tartarugas Ninjas S03" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",As Tartarugas Ninjas S03
+http://megaxc.ca:80/ialwg1/iao8wo/181885.ts
+#EXTINF:-1 tvg-id="" tvg-name="Avatar" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Avatar
+http://megaxc.ca:80/ialwg1/iao8wo/3203.ts
+#EXTINF:-1 tvg-id="" tvg-name="Aventura Selvagem" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",Aventura Selvagem
+http://megaxc.ca:80/ialwg1/iao8wo/45858.ts
+#EXTINF:-1 tvg-id="" tvg-name="Aventuras de Ladybug" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Aventuras de Ladybug
+http://megaxc.ca:80/ialwg1/iao8wo/3199.ts
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN +HD" tvg-logo="http://im.robx9.top:80/images/625fa0bfdb706073072b1d52884d47c6.png" group-title="F25 M3 Filmes e Séries",AXN +HD
+http://megaxc.ca:80/ialwg1/iao8wo/1031.ts
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD" tvg-logo="http://im.robx9.top:80/images/625fa0bfdb706073072b1d52884d47c6.png" group-title="F25 M3 Filmes e Séries",AXN HD
+http://megaxc.ca:80/ialwg1/iao8wo/42.ts
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN 4K" tvg-logo="http://im.robx9.top:80/images/625fa0bfdb706073072b1d52884d47c6.png" group-title="Canais | ⭐ 4K",AXN 4K
+http://megaxc.ca:80/ialwg1/iao8wo/2104.ts
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN FHD" tvg-logo="http://im.robx9.top:80/images/625fa0bfdb706073072b1d52884d47c6.png" group-title="F25 M3 Filmes e Séries",AXN FHD
+http://megaxc.ca:80/ialwg1/iao8wo/41.ts
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN FHD [H265]" tvg-logo="http://im.robx9.top:80/images/625fa0bfdb706073072b1d52884d47c6.png" group-title="F25 M3 Filmes e Séries",AXN FHD [H265]
+http://megaxc.ca:80/ialwg1/iao8wo/40.ts
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN SD" tvg-logo="http://im.robx9.top:80/images/625fa0bfdb706073072b1d52884d47c6.png" group-title="F25 M3 Filmes e Séries",AXN SD
+http://megaxc.ca:80/ialwg1/iao8wo/43.ts
+#EXTINF:-1 tvg-id="" tvg-name="Baby Looney Tunes" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Baby Looney Tunes
+http://megaxc.ca:80/ialwg1/iao8wo/2068729.ts
+#EXTINF:-1 tvg-id="bandsp.br" tvg-name="Band SP HD" tvg-logo="http://im.robx9.top:80/images/9f314c911220e666ff0784868caaebd0.png" group-title="F25 M3 Abertos",Band SP HD
+http://megaxc.ca:80/ialwg1/iao8wo/62.ts
+#EXTINF:-1 tvg-id="bandsp.br" tvg-name="Band SP +HD" tvg-logo="http://im.robx9.top:80/images/9f314c911220e666ff0784868caaebd0.png" group-title="F25 M3 Abertos",Band SP +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2196.ts
+#EXTINF:-1 tvg-id="bandsp.br" tvg-name="Band SP 4K" tvg-logo="http://im.robx9.top:80/images/9f314c911220e666ff0784868caaebd0.png" group-title="Canais | ⭐ 4K",Band SP 4K
+http://megaxc.ca:80/ialwg1/iao8wo/2107.ts
+#EXTINF:-1 tvg-id="bandsp.br" tvg-name="Band SP FHD" tvg-logo="http://im.robx9.top:80/images/9f314c911220e666ff0784868caaebd0.png" group-title="F25 M3 Abertos",Band SP FHD
+http://megaxc.ca:80/ialwg1/iao8wo/61.ts
+#EXTINF:-1 tvg-id="bandsp.br" tvg-name="Band SP FHD [H265]" tvg-logo="http://im.robx9.top:80/images/9f314c911220e666ff0784868caaebd0.png" group-title="F25 M3 Abertos",Band SP FHD [H265]
+http://megaxc.ca:80/ialwg1/iao8wo/60.ts
+#EXTINF:-1 tvg-id="bandsp.br" tvg-name="Band SP SD" tvg-logo="http://im.robx9.top:80/images/9f314c911220e666ff0784868caaebd0.png" group-title="F25 M3 Abertos",Band SP SD
+http://megaxc.ca:80/ialwg1/iao8wo/63.ts
+#EXTINF:-1 tvg-id="bandrj.br" tvg-name="Band RJ HD" tvg-logo="http://im.robx9.top:80/images/9f314c911220e666ff0784868caaebd0.png" group-title="F25 M3 Abertos",Band RJ HD
+http://megaxc.ca:80/ialwg1/iao8wo/52.ts
+#EXTINF:-1 tvg-id="bandrj.br" tvg-name="Band RJ HD²" tvg-logo="http://im.robx9.top:80/images/9f314c911220e666ff0784868caaebd0.png" group-title="F25 M3 Abertos",Band RJ HD²
+http://megaxc.ca:80/ialwg1/iao8wo/30836.ts
+#EXTINF:-1 tvg-id="bandsp.br" tvg-name="Band Arapuan [PB]" tvg-logo="http://im.robx9.top:80/images/9f314c911220e666ff0784868caaebd0.png" group-title="F25 M3 Abertos",Band Arapuan [PB]
+http://megaxc.ca:80/ialwg1/iao8wo/2033083.ts
+#EXTINF:-1 tvg-id="bandbahia.br" tvg-name="Band Bahia HD²" tvg-logo="http://im.robx9.top:80/images/9f314c911220e666ff0784868caaebd0.png" group-title="F25 M3 Abertos",Band Bahia HD²
+http://megaxc.ca:80/ialwg1/iao8wo/1019.ts
+#EXTINF:-1 tvg-id="bandbelém.br" tvg-name="Band Belem HD" tvg-logo="http://im.robx9.top:80/images/9f314c911220e666ff0784868caaebd0.png" group-title="F25 M3 Abertos",Band Belem HD
+http://megaxc.ca:80/ialwg1/iao8wo/189314.ts
+#EXTINF:-1 tvg-id="band.sao.paulo.br" tvg-name="Band Ceara HD" tvg-logo="http://im.robx9.top:80/images/9f314c911220e666ff0784868caaebd0.png" group-title="F25 M3 Abertos",Band Ceara HD
+http://megaxc.ca:80/ialwg1/iao8wo/171851.ts
+#EXTINF:-1 tvg-id="bandsp.br" tvg-name="Band Goiania HD" tvg-logo="http://im.robx9.top:80/images/9f314c911220e666ff0784868caaebd0.png" group-title="F25 M3 Abertos",Band Goiania HD
+http://megaxc.ca:80/ialwg1/iao8wo/2117384.ts
+#EXTINF:-1 tvg-id="band.campinas.br" tvg-name="Band Campinas HD" tvg-logo="http://im.robx9.top:80/images/9f314c911220e666ff0784868caaebd0.png" group-title="F25 M3 Abertos",Band Campinas HD
+http://megaxc.ca:80/ialwg1/iao8wo/54.ts
+#EXTINF:-1 tvg-id="bandminas.br" tvg-name="Band MG HD" tvg-logo="http://im.robx9.top:80/images/9f314c911220e666ff0784868caaebd0.png" group-title="F25 M3 Abertos",Band MG HD
+http://megaxc.ca:80/ialwg1/iao8wo/1028.ts
+#EXTINF:-1 tvg-id="band.natal.br" tvg-name="Band Natal" tvg-logo="http://im.robx9.top:80/images/9f314c911220e666ff0784868caaebd0.png" group-title="F25 M3 Abertos",Band Natal
+http://megaxc.ca:80/ialwg1/iao8wo/47.ts
+#EXTINF:-1 tvg-id="bandnews.br" tvg-name="Band News +HD" tvg-logo="http://im.robx9.top:80/images/bdbade6e2d6995292b7cc5d38df931eb.png" group-title="F25 M3 Noticias",Band News +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2194.ts
+#EXTINF:-1 tvg-id="bandnews.br" tvg-name="Band News FHD" tvg-logo="http://im.robx9.top:80/images/bdbade6e2d6995292b7cc5d38df931eb.png" group-title="F25 M3 Noticias",Band News FHD
+http://megaxc.ca:80/ialwg1/iao8wo/57.ts
+#EXTINF:-1 tvg-id="bandnews.br" tvg-name="Band News FHD H265" tvg-logo="http://im.robx9.top:80/images/bdbade6e2d6995292b7cc5d38df931eb.png" group-title="F25 M3 Noticias",Band News FHD H265
+http://megaxc.ca:80/ialwg1/iao8wo/56.ts
+#EXTINF:-1 tvg-id="bandnews.br" tvg-name="Band News HD" tvg-logo="http://im.robx9.top:80/images/bdbade6e2d6995292b7cc5d38df931eb.png" group-title="F25 M3 Noticias",Band News HD
+http://megaxc.ca:80/ialwg1/iao8wo/58.ts
+#EXTINF:-1 tvg-id="bandnews.br" tvg-name="Band News SD" tvg-logo="http://im.robx9.top:80/images/bdbade6e2d6995292b7cc5d38df931eb.png" group-title="F25 M3 Noticias",Band News SD
+http://megaxc.ca:80/ialwg1/iao8wo/59.ts
+#EXTINF:-1 tvg-id="bandsp.br" tvg-name="Band Parana HD" tvg-logo="http://im.robx9.top:80/images/9f314c911220e666ff0784868caaebd0.png" group-title="F25 M3 Abertos",Band Parana HD
+http://megaxc.ca:80/ialwg1/iao8wo/1024.ts
+#EXTINF:-1 tvg-id="bandsp.br" tvg-name="Band Paulista HD" tvg-logo="http://im.robx9.top:80/images/9f314c911220e666ff0784868caaebd0.png" group-title="F25 M3 Abertos",Band Paulista HD
+http://megaxc.ca:80/ialwg1/iao8wo/2051846.ts
+#EXTINF:-1 tvg-id="band.curitiba.br" tvg-name="Band PR HD" tvg-logo="http://im.robx9.top:80/images/9f314c911220e666ff0784868caaebd0.png" group-title="F25 M3 Abertos",Band PR HD
+http://megaxc.ca:80/ialwg1/iao8wo/2195.ts
+#EXTINF:-1 tvg-id="bandriograndedosul.br" tvg-name="Band RS HD" tvg-logo="http://im.robx9.top:80/images/9f314c911220e666ff0784868caaebd0.png" group-title="F25 M3 Abertos",Band RS HD
+http://megaxc.ca:80/ialwg1/iao8wo/53.ts
+#EXTINF:-1 tvg-id="a&e.br" tvg-name="Band RS HD²" tvg-logo="http://im.robx9.top:80/images/9f314c911220e666ff0784868caaebd0.png" group-title="F25 M3 Abertos",Band RS HD²
+http://megaxc.ca:80/ialwg1/iao8wo/30837.ts
+#EXTINF:-1 tvg-id="" tvg-name="Band Acre HD" tvg-logo="http://im.robx9.top:80/images/9f314c911220e666ff0784868caaebd0.png" group-title="F25 M3 Abertos",Band Acre HD
+http://megaxc.ca:80/ialwg1/iao8wo/2126213.ts
+#EXTINF:-1 tvg-id="bandsp.br" tvg-name="Band Amazonas HD" tvg-logo="http://im.robx9.top:80/images/9f314c911220e666ff0784868caaebd0.png" group-title="F25 M3 Abertos",Band Amazonas HD
+http://megaxc.ca:80/ialwg1/iao8wo/2126214.ts
+#EXTINF:-1 tvg-id="bandsp.br" tvg-name="Band ES HD" tvg-logo="http://im.robx9.top:80/images/9f314c911220e666ff0784868caaebd0.png" group-title="F25 M3 Abertos",Band ES HD
+http://megaxc.ca:80/ialwg1/iao8wo/2126215.ts
+#EXTINF:-1 tvg-id="bandsp.br" tvg-name="Band Maranhao HD" tvg-logo="http://im.robx9.top:80/images/9f314c911220e666ff0784868caaebd0.png" group-title="F25 M3 Abertos",Band Maranhao HD
+http://megaxc.ca:80/ialwg1/iao8wo/2126216.ts
+#EXTINF:-1 tvg-id="bandsp.br" tvg-name="Band MTS HD" tvg-logo="http://im.robx9.top:80/images/9f314c911220e666ff0784868caaebd0.png" group-title="F25 M3 Abertos",Band MTS HD
+http://megaxc.ca:80/ialwg1/iao8wo/2126217.ts
+#EXTINF:-1 tvg-id="bandsp.br" tvg-name="Band Tocantins HD" tvg-logo="http://im.robx9.top:80/images/9f314c911220e666ff0784868caaebd0.png" group-title="F25 M3 Abertos",Band Tocantins HD
+http://megaxc.ca:80/ialwg1/iao8wo/2126218.ts
+#EXTINF:-1 tvg-id="bandsp.br" tvg-name="Band Piaui HD" tvg-logo="http://im.robx9.top:80/images/9f314c911220e666ff0784868caaebd0.png" group-title="F25 M3 Abertos",Band Piaui HD
+http://megaxc.ca:80/ialwg1/iao8wo/2126219.ts
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports +HD" tvg-logo="http://im.robx9.top:80/images/298c6767b222a70fe4d8c45e03f8754e.png" group-title="Canais | ⚽ Esportes",Band Sports +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2197.ts
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports 4K" tvg-logo="http://im.robx9.top:80/images/298c6767b222a70fe4d8c45e03f8754e.png" group-title="Canais | ⭐ 4K",Band Sports 4K
+http://megaxc.ca:80/ialwg1/iao8wo/2121.ts
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports FHD" tvg-logo="http://im.robx9.top:80/images/6c0e720b28ab0e579c373c9a4ec20495.png" group-title="Canais | ⚽ Esportes",Band Sports FHD
+http://megaxc.ca:80/ialwg1/iao8wo/65.ts
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports FHD [H265]" tvg-logo="http://im.robx9.top:80/images/6c0e720b28ab0e579c373c9a4ec20495.png" group-title="Canais | ⚽ Esportes",Band Sports FHD [H265]
+http://megaxc.ca:80/ialwg1/iao8wo/64.ts
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports HD" tvg-logo="http://im.robx9.top:80/images/6c0e720b28ab0e579c373c9a4ec20495.png" group-title="Canais | ⚽ Esportes",Band Sports HD
+http://megaxc.ca:80/ialwg1/iao8wo/66.ts
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports SD" tvg-logo="http://im.robx9.top:80/images/6c0e720b28ab0e579c373c9a4ec20495.png" group-title="Canais | ⚽ Esportes",Band Sports SD
+http://megaxc.ca:80/ialwg1/iao8wo/67.ts
+#EXTINF:-1 tvg-id="tv.tribuna.br" tvg-name="Band Tribuna Recife" tvg-logo="http://im.robx9.top:80/images/9f314c911220e666ff0784868caaebd0.png" group-title="F25 M3 Abertos",Band Tribuna Recife
+http://megaxc.ca:80/ialwg1/iao8wo/48.ts
+#EXTINF:-1 tvg-id="" tvg-name="Batman" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Batman
+http://megaxc.ca:80/ialwg1/iao8wo/3215.ts
+#EXTINF:-1 tvg-id="" tvg-name="Batman A Série Animada" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Batman A Série Animada
+http://megaxc.ca:80/ialwg1/iao8wo/154409.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ben 10 ( 1T )" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Ben 10 ( 1T )
+http://megaxc.ca:80/ialwg1/iao8wo/2109101.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ben 10 ( 2T )" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Ben 10 ( 2T )
+http://megaxc.ca:80/ialwg1/iao8wo/2109102.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ben 10 ( 3T )" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Ben 10 ( 3T )
+http://megaxc.ca:80/ialwg1/iao8wo/2109103.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ben 10 ( 4T )" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Ben 10 ( 4T )
+http://megaxc.ca:80/ialwg1/iao8wo/2109104.ts
+#EXTINF:-1 tvg-id="" tvg-name="Beyblade" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Beyblade
+http://megaxc.ca:80/ialwg1/iao8wo/154410.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bibo Pai e Bobi Filho" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Bibo Pai e Bobi Filho
+http://megaxc.ca:80/ialwg1/iao8wo/173543.ts
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS +HD" tvg-logo="http://im.robx9.top:80/images/263a70ce047e775fdc4cfe77205e0b09.png" group-title="F25 M3 Músicas",BIS +HD
+http://megaxc.ca:80/ialwg1/iao8wo/30842.ts
+#EXTINF:-1 tvg-id="bis.br" tvg-name="Bis FHD" tvg-logo="http://im.robx9.top:80/images/263a70ce047e775fdc4cfe77205e0b09.png" group-title="F25 M3 Músicas",Bis FHD
+http://megaxc.ca:80/ialwg1/iao8wo/86.ts
+#EXTINF:-1 tvg-id="bis.br" tvg-name="Bis HD" tvg-logo="http://im.robx9.top:80/images/263a70ce047e775fdc4cfe77205e0b09.png" group-title="F25 M3 Músicas",Bis HD
+http://megaxc.ca:80/ialwg1/iao8wo/87.ts
+#EXTINF:-1 tvg-id="bis.br" tvg-name="Bis SD" tvg-logo="http://im.robx9.top:80/images/263a70ce047e775fdc4cfe77205e0b09.png" group-title="F25 M3 Músicas",Bis SD
+http://megaxc.ca:80/ialwg1/iao8wo/88.ts
+#EXTINF:-1 tvg-id="" tvg-name="BM&C News HD" tvg-logo="" group-title="F25 M3 Noticias",BM&C News HD
+http://megaxc.ca:80/ialwg1/iao8wo/2063767.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja 01" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Bob Esponja 01
+http://megaxc.ca:80/ialwg1/iao8wo/173539.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja 02" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Bob Esponja 02
+http://megaxc.ca:80/ialwg1/iao8wo/173540.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja 03" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Bob Esponja 03
+http://megaxc.ca:80/ialwg1/iao8wo/173541.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Bob Zoom
+http://megaxc.ca:80/ialwg1/iao8wo/171852.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bojack" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Bojack
+http://megaxc.ca:80/ialwg1/iao8wo/181874.ts
+#EXTINF:-1 tvg-id="" tvg-name="Boku No Hero Academia" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Boku No Hero Academia
+http://megaxc.ca:80/ialwg1/iao8wo/181299.ts
+#EXTINF:-1 tvg-id="" tvg-name="Boruto S01 e S02" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Boruto S01 e S02
+http://megaxc.ca:80/ialwg1/iao8wo/173536.ts
+#EXTINF:-1 tvg-id="" tvg-name="Boruto S03 e S04" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Boruto S03 e S04
+http://megaxc.ca:80/ialwg1/iao8wo/173537.ts
+#EXTINF:-1 tvg-id="" tvg-name="Boruto S05 a S07" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Boruto S05 a S07
+http://megaxc.ca:80/ialwg1/iao8wo/173538.ts
+#EXTINF:-1 tvg-id="" tvg-name="Box Kids HD" tvg-logo="http://www.fontedoscanais.com/logos/canais/boxkids.png" group-title="F25 M3 Infantil",Box Kids HD
+http://megaxc.ca:80/ialwg1/iao8wo/2017097.ts
+#EXTINF:-1 tvg-id="" tvg-name="BRTVMAX 01 ( Barretos )" tvg-logo="https://iili.io/KHWH4uj.png" group-title="F25 M3 Variedades",BRTVMAX 01 ( Barretos )
+http://megaxc.ca:80/ialwg1/iao8wo/2107443.ts
+#EXTINF:-1 tvg-id="" tvg-name="BRTVMAX 02 ( Barretos )" tvg-logo="https://iili.io/KHWH4uj.png" group-title="F25 M3 Variedades",BRTVMAX 02 ( Barretos )
+http://megaxc.ca:80/ialwg1/iao8wo/2107444.ts
+#EXTINF:-1 tvg-id="" tvg-name="Caillou" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Caillou
+http://megaxc.ca:80/ialwg1/iao8wo/173542.ts
+#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="Canal Brasil FHD" tvg-logo="http://im.robx9.top:80/images/168564fdfc124edaf68f230b7d9a4296.png" group-title="F25 M3 Abertos",Canal Brasil FHD
+http://megaxc.ca:80/ialwg1/iao8wo/100.ts
+#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="Canal Brasil HD" tvg-logo="http://im.robx9.top:80/images/168564fdfc124edaf68f230b7d9a4296.png" group-title="F25 M3 Abertos",Canal Brasil HD
+http://megaxc.ca:80/ialwg1/iao8wo/101.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal Brtvmax 1 (Eventos)" tvg-logo="https://iili.io/dljHdl4.png" group-title="Canais | ⚽ PPV",Canal Brtvmax 1 (Eventos)
+http://megaxc.ca:80/ialwg1/iao8wo/2032993.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal Brtvmax 1 (Eventos)" tvg-logo="https://iili.io/dljHdl4.png" group-title="F25 M3 Variedades",Canal Brtvmax 1 (Eventos)
+http://megaxc.ca:80/ialwg1/iao8wo/2032993.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal Carros (Evento)" tvg-logo="https://iili.io/dlhtfCQ.png" group-title="Canais | ⚽ PPV",Canal Carros (Evento)
+http://megaxc.ca:80/ialwg1/iao8wo/2032999.ts
+#EXTINF:-1 tvg-id="canal.do.boi.br" tvg-name="Canal do Boi FHD" tvg-logo="http://im.robx9.top:80/images/a77fac0797f3a41f9219353e6a815d81.png" group-title="F25 M3 Abertos",Canal do Boi FHD
+http://megaxc.ca:80/ialwg1/iao8wo/103.ts
+#EXTINF:-1 tvg-id="canal.do.boi.br" tvg-name="Canal do Boi HD" tvg-logo="http://im.robx9.top:80/images/a77fac0797f3a41f9219353e6a815d81.png" group-title="F25 M3 Abertos",Canal do Boi HD
+http://megaxc.ca:80/ialwg1/iao8wo/104.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal do Surf (Evento)" tvg-logo="https://iili.io/dlhtfCQ.png" group-title="Canais | ⚽ PPV",Canal do Surf (Evento)
+http://megaxc.ca:80/ialwg1/iao8wo/2032997.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal do Volei (Evento)" tvg-logo="https://iili.io/dlhtfCQ.png" group-title="Canais | ⚽ PPV",Canal do Volei (Evento)
+http://megaxc.ca:80/ialwg1/iao8wo/2032998.ts
+#EXTINF:-1 tvg-id="a&e.br" tvg-name="Canal Gov" tvg-logo="https://canalgov.ebc.com.br/@@site-logo/Artboard%201@2x.png" group-title="F25 M3 Variedades",Canal Gov
+http://megaxc.ca:80/ialwg1/iao8wo/2076689.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal Lutas (Evento)" tvg-logo="https://iili.io/dlhtfCQ.png" group-title="Canais | ⚽ PPV",Canal Lutas (Evento)
+http://megaxc.ca:80/ialwg1/iao8wo/2032995.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal Metropoles 01" tvg-logo="https://iili.io/KxWbVu1.png" group-title="Canais | ⚽ Esportes",Canal Metropoles 01
+http://megaxc.ca:80/ialwg1/iao8wo/2109517.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal Metropoles 02" tvg-logo="https://iili.io/KxWbVu1.png" group-title="Canais | ⚽ Esportes",Canal Metropoles 02
+http://megaxc.ca:80/ialwg1/iao8wo/2109518.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal Metropoles 03" tvg-logo="https://iili.io/KxWbVu1.png" group-title="Canais | ⚽ Esportes",Canal Metropoles 03
+http://megaxc.ca:80/ialwg1/iao8wo/2109519.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal Metropoles 04" tvg-logo="https://iili.io/KxWbVu1.png" group-title="Canais | ⚽ Esportes",Canal Metropoles 04
+http://megaxc.ca:80/ialwg1/iao8wo/2109520.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal Metropoles 05" tvg-logo="https://iili.io/KxWbVu1.png" group-title="Canais | ⚽ Esportes",Canal Metropoles 05
+http://megaxc.ca:80/ialwg1/iao8wo/2109521.ts
+#EXTINF:-1 tvg-id="off.br" tvg-name="Canal Off +HD" tvg-logo="https://acstatic.co/logos/canais/off.png" group-title="Canais | ⚽ Esportes",Canal Off +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2260.ts
+#EXTINF:-1 tvg-id="off.br" tvg-name="Canal Off FHD" tvg-logo="https://acstatic.co/logos/canais/off.png" group-title="Canais | ⚽ Esportes",Canal Off FHD
+http://megaxc.ca:80/ialwg1/iao8wo/113.ts
+#EXTINF:-1 tvg-id="off.br" tvg-name="Canal Off HD" tvg-logo="https://acstatic.co/logos/canais/off.png" group-title="Canais | ⚽ Esportes",Canal Off HD
+http://megaxc.ca:80/ialwg1/iao8wo/114.ts
+#EXTINF:-1 tvg-id="canal.rural.br" tvg-name="Canal Rural HD" tvg-logo="http://im.robx9.top:80/images/f66ae217f4f060bda6209f704a6cd42d.png" group-title="F25 M3 Abertos",Canal Rural HD
+http://megaxc.ca:80/ialwg1/iao8wo/117.ts
+#EXTINF:-1 tvg-id="canal.rural.br" tvg-name="Canal Rural SD" tvg-logo="http://im.robx9.top:80/images/f66ae217f4f060bda6209f704a6cd42d.png" group-title="F25 M3 Abertos",Canal Rural SD
+http://megaxc.ca:80/ialwg1/iao8wo/118.ts
+#EXTINF:-1 tvg-id="sony.br" tvg-name="Canal Sony +HD" tvg-logo="http://im.robx9.top:80/images/33561003f44d374c719506bef4faeba4.png" group-title="F25 M3 Filmes e Séries",Canal Sony +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2282.ts
+#EXTINF:-1 tvg-id="sony.br" tvg-name="Canal Sony FHD" tvg-logo="http://im.robx9.top:80/images/33561003f44d374c719506bef4faeba4.png" group-title="F25 M3 Filmes e Séries",Canal Sony FHD
+http://megaxc.ca:80/ialwg1/iao8wo/120.ts
+#EXTINF:-1 tvg-id="sony.br" tvg-name="Canal Sony FHD [H265]" tvg-logo="http://im.robx9.top:80/images/33561003f44d374c719506bef4faeba4.png" group-title="F25 M3 Filmes e Séries",Canal Sony FHD [H265]
+http://megaxc.ca:80/ialwg1/iao8wo/119.ts
+#EXTINF:-1 tvg-id="sony.br" tvg-name="Canal Sony HD" tvg-logo="http://im.robx9.top:80/images/33561003f44d374c719506bef4faeba4.png" group-title="F25 M3 Filmes e Séries",Canal Sony HD
+http://megaxc.ca:80/ialwg1/iao8wo/121.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal UOL FHD" tvg-logo="https://conteudo.imguol.com.br/c/interacao/facebook/canaluol.png" group-title="F25 M3 Noticias",Canal UOL FHD
+http://megaxc.ca:80/ialwg1/iao8wo/2076123.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal UOL HD" tvg-logo="https://conteudo.imguol.com.br/c/interacao/facebook/canaluol.png" group-title="F25 M3 Noticias",Canal UOL HD
+http://megaxc.ca:80/ialwg1/iao8wo/2081497.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal Vaquejada (Evento)" tvg-logo="https://iili.io/dlhtfCQ.png" group-title="Canais | ⚽ PPV",Canal Vaquejada (Evento)
+http://megaxc.ca:80/ialwg1/iao8wo/2032996.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal Woohoo +HD" tvg-logo="http://im.robx9.top:80/images/11ebae91a48b8cc287f9f5f5836c03ed.png" group-title="F25 M3 Variedades",Canal Woohoo +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2039336.ts
+#EXTINF:-1 tvg-id="woohoo.br" tvg-name="Canal Woohoo FHD" tvg-logo="http://im.robx9.top:80/images/11ebae91a48b8cc287f9f5f5836c03ed.png" group-title="F25 M3 Variedades",Canal Woohoo FHD
+http://megaxc.ca:80/ialwg1/iao8wo/124.ts
+#EXTINF:-1 tvg-id="woohoo.br" tvg-name="Canal Woohoo HD" tvg-logo="http://im.robx9.top:80/images/11ebae91a48b8cc287f9f5f5836c03ed.png" group-title="F25 M3 Variedades",Canal Woohoo HD
+http://megaxc.ca:80/ialwg1/iao8wo/125.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canção Nova +HD" tvg-logo="http://im.robx9.top:80/images/cca257d517f949fbd6fc55de748a86e8.png" group-title="Canais | ⭐ Religiosos",Canção Nova +HD
+http://megaxc.ca:80/ialwg1/iao8wo/23342.ts
+#EXTINF:-1 tvg-id="cancao.nova.br" tvg-name="Canção Nova FHD" tvg-logo="http://im.robx9.top:80/images/cca257d517f949fbd6fc55de748a86e8.png" group-title="Canais | ⭐ Religiosos",Canção Nova FHD
+http://megaxc.ca:80/ialwg1/iao8wo/127.ts
+#EXTINF:-1 tvg-id="cancao.nova.br" tvg-name="Canção Nova HD" tvg-logo="http://im.robx9.top:80/images/cca257d517f949fbd6fc55de748a86e8.png" group-title="Canais | ⭐ Religiosos",Canção Nova HD
+http://megaxc.ca:80/ialwg1/iao8wo/128.ts
+#EXTINF:-1 tvg-id="cancao.nova.br" tvg-name="Canção Nova SD" tvg-logo="http://im.robx9.top:80/images/cca257d517f949fbd6fc55de748a86e8.png" group-title="Canais | ⭐ Religiosos",Canção Nova SD
+http://megaxc.ca:80/ialwg1/iao8wo/129.ts
+#EXTINF:-1 tvg-id="" tvg-name="Capitao Planeta" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Capitao Planeta
+http://megaxc.ca:80/ialwg1/iao8wo/134156.ts
+#EXTINF:-1 tvg-id="" tvg-name="Capitão Caverna" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Capitão Caverna
+http://megaxc.ca:80/ialwg1/iao8wo/24296.ts
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon 4K" tvg-logo="http://im.robx9.top:80/images/16e3f03450d87a72144869486bc81d0e.png" group-title="Canais | ⭐ 4K",Cartoon 4K
+http://megaxc.ca:80/ialwg1/iao8wo/2120.ts
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network +HD" tvg-logo="http://im.robx9.top:80/images/351d18d0c4b5e58d5446c183620b4259.png" group-title="F25 M3 Infantil",Cartoon Network +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2202.ts
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network FHD" tvg-logo="http://im.robx9.top:80/images/16e3f03450d87a72144869486bc81d0e.png" group-title="F25 M3 Infantil",Cartoon Network FHD
+http://megaxc.ca:80/ialwg1/iao8wo/131.ts
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network FHD H265" tvg-logo="http://im.robx9.top:80/images/16e3f03450d87a72144869486bc81d0e.png" group-title="F25 M3 Infantil",Cartoon Network FHD H265
+http://megaxc.ca:80/ialwg1/iao8wo/130.ts
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network HD" tvg-logo="http://im.robx9.top:80/images/16e3f03450d87a72144869486bc81d0e.png" group-title="F25 M3 Infantil",Cartoon Network HD
+http://megaxc.ca:80/ialwg1/iao8wo/132.ts
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network SD" tvg-logo="http://im.robx9.top:80/images/16e3f03450d87a72144869486bc81d0e.png" group-title="F25 M3 Infantil",Cartoon Network SD
+http://megaxc.ca:80/ialwg1/iao8wo/133.ts
+#EXTINF:-1 tvg-id="cartoonito.br" tvg-name="Cartoonito +HD" tvg-logo="http://im.robx9.top:80/images/b2266d1c5dbf6427dfb370004c563fa8.png" group-title="F25 M3 Infantil",Cartoonito +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2199.ts
+#EXTINF:-1 tvg-id="cartoonito.br" tvg-name="Cartoonito FHD" tvg-logo="http://im.robx9.top:80/images/b2266d1c5dbf6427dfb370004c563fa8.png" group-title="F25 M3 Infantil",Cartoonito FHD
+http://megaxc.ca:80/ialwg1/iao8wo/96.ts
+#EXTINF:-1 tvg-id="cartoonito.br" tvg-name="Cartoonito FHD H265" tvg-logo="http://im.robx9.top:80/images/b2266d1c5dbf6427dfb370004c563fa8.png" group-title="F25 M3 Infantil",Cartoonito FHD H265
+http://megaxc.ca:80/ialwg1/iao8wo/95.ts
+#EXTINF:-1 tvg-id="cartoonito.br" tvg-name="Cartoonito HD" tvg-logo="http://im.robx9.top:80/images/b2266d1c5dbf6427dfb370004c563fa8.png" group-title="F25 M3 Infantil",Cartoonito HD
+http://megaxc.ca:80/ialwg1/iao8wo/97.ts
+#EXTINF:-1 tvg-id="cartoonito.br" tvg-name="Cartoonito SD" tvg-logo="http://im.robx9.top:80/images/b2266d1c5dbf6427dfb370004c563fa8.png" group-title="F25 M3 Infantil",Cartoonito SD
+http://megaxc.ca:80/ialwg1/iao8wo/98.ts
+#EXTINF:-1 tvg-id="" tvg-name="Castelo Ra Tim Bum" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Castelo Ra Tim Bum
+http://megaxc.ca:80/ialwg1/iao8wo/194277.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cavaleiros do Zodiaco Saint Seiya" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Cavaleiros do Zodiaco Saint Seiya
+http://megaxc.ca:80/ialwg1/iao8wo/3230.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cavaleiros dos Zodiaco Saga de Asgard" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Cavaleiros dos Zodiaco Saga de Asgard
+http://megaxc.ca:80/ialwg1/iao8wo/194950.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cavaleiros dos Zodiaco Saga de Poseidon" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Cavaleiros dos Zodiaco Saga de Poseidon
+http://megaxc.ca:80/ialwg1/iao8wo/194951.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cavaleiros dos Zodiaco Saga Hades Elisios" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Cavaleiros dos Zodiaco Saga Hades Elisios
+http://megaxc.ca:80/ialwg1/iao8wo/2096702.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cavaleiros dos Zodiaco Saga Hades Inferno" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Cavaleiros dos Zodiaco Saga Hades Inferno
+http://megaxc.ca:80/ialwg1/iao8wo/2096703.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cavaleiros dos Zodiaco Saga Hades Santuario" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Cavaleiros dos Zodiaco Saga Hades Santuario
+http://megaxc.ca:80/ialwg1/iao8wo/2096704.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cavaleiros dos Zodiaco Saga Torneio Galactico" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Cavaleiros dos Zodiaco Saga Torneio Galactico
+http://megaxc.ca:80/ialwg1/iao8wo/194952.ts
+#EXTINF:-1 tvg-id="" tvg-name="Caze TV 1 HD" tvg-logo="http://im.robx9.top:80/images/4c5bcfec8584af0d967f1ab10179ca4b.png" group-title="Canais | ⚽ PPV",Caze TV 1 HD
+http://megaxc.ca:80/ialwg1/iao8wo/183037.ts
+#EXTINF:-1 tvg-id="" tvg-name="Caze TV 2 HD" tvg-logo="http://im.robx9.top:80/images/4c5bcfec8584af0d967f1ab10179ca4b.png" group-title="Canais | ⚽ PPV",Caze TV 2 HD
+http://megaxc.ca:80/ialwg1/iao8wo/183038.ts
+#EXTINF:-1 tvg-id="" tvg-name="Caze TV 3 HD" tvg-logo="http://im.robx9.top:80/images/4c5bcfec8584af0d967f1ab10179ca4b.png" group-title="Canais | ⚽ PPV",Caze TV 3 HD
+http://megaxc.ca:80/ialwg1/iao8wo/183039.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cazé TV 1 HD²" tvg-logo="http://im.robx9.top:80/images/4c5bcfec8584af0d967f1ab10179ca4b.png" group-title="Canais | ⚽ PPV",Cazé TV 1 HD²
+http://megaxc.ca:80/ialwg1/iao8wo/30849.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cazé TV 2 HD²" tvg-logo="http://im.robx9.top:80/images/4c5bcfec8584af0d967f1ab10179ca4b.png" group-title="Canais | ⚽ PPV",Cazé TV 2 HD²
+http://megaxc.ca:80/ialwg1/iao8wo/59737.ts
+#EXTINF:-1 tvg-id="" tvg-name="Chapolin colorado" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",Chapolin colorado
+http://megaxc.ca:80/ialwg1/iao8wo/24300.ts
+#EXTINF:-1 tvg-id="" tvg-name="Chaves 1" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",Chaves 1
+http://megaxc.ca:80/ialwg1/iao8wo/31130.ts
+#EXTINF:-1 tvg-id="" tvg-name="Chaves 2" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",Chaves 2
+http://megaxc.ca:80/ialwg1/iao8wo/186301.ts
+#EXTINF:-1 tvg-id="" tvg-name="Chaves 3" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",Chaves 3
+http://megaxc.ca:80/ialwg1/iao8wo/186302.ts
+#EXTINF:-1 tvg-id="" tvg-name="Chaves Desenho S01" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",Chaves Desenho S01
+http://megaxc.ca:80/ialwg1/iao8wo/3148.ts
+#EXTINF:-1 tvg-id="" tvg-name="Chaves Desenho S02" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",Chaves Desenho S02
+http://megaxc.ca:80/ialwg1/iao8wo/3140.ts
+#EXTINF:-1 tvg-id="" tvg-name="Chaves Desenho S03" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",Chaves Desenho S03
+http://megaxc.ca:80/ialwg1/iao8wo/3150.ts
+#EXTINF:-1 tvg-id="" tvg-name="Chowder" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",Chowder
+http://megaxc.ca:80/ialwg1/iao8wo/3151.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cidade dos Homens" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",Cidade dos Homens
+http://megaxc.ca:80/ialwg1/iao8wo/45860.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine Brasil TV HD" tvg-logo="" group-title="F25 M3 Variedades",Cine Brasil TV HD
+http://megaxc.ca:80/ialwg1/iao8wo/2095377.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine Kids" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Cine 24H",Cine Kids
+http://megaxc.ca:80/ialwg1/iao8wo/3253.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine Marvel" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Cine 24H",Cine Marvel
+http://megaxc.ca:80/ialwg1/iao8wo/24394.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine Play HD² 01" tvg-logo="https://iili.io/Ji0FA3x.png" group-title="F25 M3 Cine Sky",Cine Play HD² 01
+http://megaxc.ca:80/ialwg1/iao8wo/2041013.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine Play HD² 02" tvg-logo="https://iili.io/Ji0FA3x.png" group-title="F25 M3 Cine Sky",Cine Play HD² 02
+http://megaxc.ca:80/ialwg1/iao8wo/2041014.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine Play HD² 03" tvg-logo="https://iili.io/Ji0FA3x.png" group-title="F25 M3 Cine Sky",Cine Play HD² 03
+http://megaxc.ca:80/ialwg1/iao8wo/2041015.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine Play HD² 04" tvg-logo="https://iili.io/Ji0FA3x.png" group-title="F25 M3 Cine Sky",Cine Play HD² 04
+http://megaxc.ca:80/ialwg1/iao8wo/2041016.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine Play HD² 05" tvg-logo="https://iili.io/Ji0FA3x.png" group-title="F25 M3 Cine Sky",Cine Play HD² 05
+http://megaxc.ca:80/ialwg1/iao8wo/2041017.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine Play HD² 06" tvg-logo="https://iili.io/Ji0FA3x.png" group-title="F25 M3 Cine Sky",Cine Play HD² 06
+http://megaxc.ca:80/ialwg1/iao8wo/2041018.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine Play HD² 07" tvg-logo="https://iili.io/Ji0FA3x.png" group-title="F25 M3 Cine Sky",Cine Play HD² 07
+http://megaxc.ca:80/ialwg1/iao8wo/2041019.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine Play HD² 08" tvg-logo="https://iili.io/Ji0FA3x.png" group-title="F25 M3 Cine Sky",Cine Play HD² 08
+http://megaxc.ca:80/ialwg1/iao8wo/2041020.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine Play HD² 09" tvg-logo="https://iili.io/Ji0FA3x.png" group-title="F25 M3 Cine Sky",Cine Play HD² 09
+http://megaxc.ca:80/ialwg1/iao8wo/2041021.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine Play HD² 10" tvg-logo="https://iili.io/Ji0FA3x.png" group-title="F25 M3 Cine Sky",Cine Play HD² 10
+http://megaxc.ca:80/ialwg1/iao8wo/2041022.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine Runtime Familia" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Cine 24H",Cine Runtime Familia
+http://megaxc.ca:80/ialwg1/iao8wo/175701.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine Runtime Romance" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Cine 24H",Cine Runtime Romance
+http://megaxc.ca:80/ialwg1/iao8wo/175700.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine Terror" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Cine 24H",Cine Terror
+http://megaxc.ca:80/ialwg1/iao8wo/2033082.ts
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax +HD" tvg-logo="http://im.robx9.top:80/images/9b483584a8f77ed3094a2b82b11d35e2.png" group-title="F25 M3 Filmes e Séries",Cinemax +HD
+http://megaxc.ca:80/ialwg1/iao8wo/30854.ts
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax FHD" tvg-logo="http://im.robx9.top:80/images/9b483584a8f77ed3094a2b82b11d35e2.png" group-title="F25 M3 Filmes e Séries",Cinemax FHD
+http://megaxc.ca:80/ialwg1/iao8wo/148.ts
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax FHD [H265]" tvg-logo="http://im.robx9.top:80/images/9b483584a8f77ed3094a2b82b11d35e2.png" group-title="F25 M3 Filmes e Séries",Cinemax FHD [H265]
+http://megaxc.ca:80/ialwg1/iao8wo/147.ts
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax HD" tvg-logo="http://im.robx9.top:80/images/9b483584a8f77ed3094a2b82b11d35e2.png" group-title="F25 M3 Filmes e Séries",Cinemax HD
+http://megaxc.ca:80/ialwg1/iao8wo/149.ts
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax SD" tvg-logo="http://im.robx9.top:80/images/9b483584a8f77ed3094a2b82b11d35e2.png" group-title="F25 M3 Filmes e Séries",Cinemax SD
+http://megaxc.ca:80/ialwg1/iao8wo/150.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNBC Brasil HD" tvg-logo="https://download.logo.wine/logo/CNBC/CNBC-Logo.wine.png" group-title="F25 M3 Noticias",CNBC Brasil HD
+http://megaxc.ca:80/ialwg1/iao8wo/2063766.ts
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="CNN Brasil +HD" tvg-logo="http://im.robx9.top:80/images/07df60db1ed1b4656de8fd2e7b639c25.png" group-title="F25 M3 Noticias",CNN Brasil +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2206.ts
+#EXTINF:-1 tvg-id="cnn.brasil.br" tvg-name="CNN Brasil 4K" tvg-logo="http://im.robx9.top:80/images/39e31684d6d30493394eca4f0935c06e.png" group-title="Canais | ⭐ 4K",CNN Brasil 4K
+http://megaxc.ca:80/ialwg1/iao8wo/2109.ts
+#EXTINF:-1 tvg-id="cnn.brasil.br" tvg-name="CNN Brasil FHD" tvg-logo="http://im.robx9.top:80/images/39e31684d6d30493394eca4f0935c06e.png" group-title="F25 M3 Noticias",CNN Brasil FHD
+http://megaxc.ca:80/ialwg1/iao8wo/152.ts
+#EXTINF:-1 tvg-id="cnn.brasil.br" tvg-name="CNN Brasil FHD H265" tvg-logo="http://im.robx9.top:80/images/39e31684d6d30493394eca4f0935c06e.png" group-title="F25 M3 Noticias",CNN Brasil FHD H265
+http://megaxc.ca:80/ialwg1/iao8wo/151.ts
+#EXTINF:-1 tvg-id="cnn.br" tvg-name="CNN Brasil HD" tvg-logo="http://im.robx9.top:80/images/39e31684d6d30493394eca4f0935c06e.png" group-title="F25 M3 Noticias",CNN Brasil HD
+http://megaxc.ca:80/ialwg1/iao8wo/153.ts
+#EXTINF:-1 tvg-id="cnn.br" tvg-name="CNN Brasil SD" tvg-logo="http://im.robx9.top:80/images/39e31684d6d30493394eca4f0935c06e.png" group-title="F25 M3 Noticias",CNN Brasil SD
+http://megaxc.ca:80/ialwg1/iao8wo/154.ts
+#EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="CNN Internacional HD" tvg-logo="http://im.robx9.top:80/images/ea08aad287e0aa9e220607b3868bfa57.png" group-title="F25 M3 Noticias",CNN Internacional HD
+http://megaxc.ca:80/ialwg1/iao8wo/155.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNN Money HD" tvg-logo="" group-title="F25 M3 Noticias",CNN Money HD
+http://megaxc.ca:80/ialwg1/iao8wo/2063765.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cocorico" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Cocorico
+http://megaxc.ca:80/ialwg1/iao8wo/3255.ts
+#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate +HD" tvg-logo="http://im.robx9.top:80/images/51f7e3774bd45032995ef72cc39a4655.png" group-title="F25 M3 Combate",Combate +HD
+http://megaxc.ca:80/ialwg1/iao8wo/160.ts
+#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate FHD" tvg-logo="http://im.robx9.top:80/images/51f7e3774bd45032995ef72cc39a4655.png" group-title="F25 M3 Combate",Combate FHD
+http://megaxc.ca:80/ialwg1/iao8wo/158.ts
+#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate FHD H265" tvg-logo="http://im.robx9.top:80/images/51f7e3774bd45032995ef72cc39a4655.png" group-title="F25 M3 Combate",Combate FHD H265
+http://megaxc.ca:80/ialwg1/iao8wo/157.ts
+#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate HD" tvg-logo="http://im.robx9.top:80/images/51f7e3774bd45032995ef72cc39a4655.png" group-title="F25 M3 Combate",Combate HD
+http://megaxc.ca:80/ialwg1/iao8wo/159.ts
+#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="Comedy Central +HD" tvg-logo="http://im.robx9.top:80/images/5c93115a6c127d125649632301b5c383.png" group-title="F25 M3 Variedades",Comedy Central +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2208.ts
+#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="Comedy Central 4K" tvg-logo="http://im.robx9.top:80/images/5c93115a6c127d125649632301b5c383.png" group-title="Canais | ⭐ 4K",Comedy Central 4K
+http://megaxc.ca:80/ialwg1/iao8wo/2118.ts
+#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="Comedy Central FHD" tvg-logo="http://im.robx9.top:80/images/5c93115a6c127d125649632301b5c383.png" group-title="F25 M3 Variedades",Comedy Central FHD
+http://megaxc.ca:80/ialwg1/iao8wo/162.ts
+#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="Comedy Central FHD H265" tvg-logo="http://im.robx9.top:80/images/5c93115a6c127d125649632301b5c383.png" group-title="F25 M3 Variedades",Comedy Central FHD H265
+http://megaxc.ca:80/ialwg1/iao8wo/161.ts
+#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="Comedy Central HD" tvg-logo="http://im.robx9.top:80/images/5c93115a6c127d125649632301b5c383.png" group-title="F25 M3 Variedades",Comedy Central HD
+http://megaxc.ca:80/ialwg1/iao8wo/163.ts
+#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="Comedy Central SD" tvg-logo="http://im.robx9.top:80/images/5c93115a6c127d125649632301b5c383.png" group-title="F25 M3 Variedades",Comedy Central SD
+http://megaxc.ca:80/ialwg1/iao8wo/164.ts
+#EXTINF:-1 tvg-id="" tvg-name="Coragem O Cao Covarde" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Coragem O Cao Covarde
+http://megaxc.ca:80/ialwg1/iao8wo/2004064.ts
+#EXTINF:-1 tvg-id="a&e.br" tvg-name="Curta! +HD" tvg-logo="http://im.robx9.top:80/images/f7a5cd75b736b44a089c2f1f826ad7bd.png" group-title="F25 M3 Variedades",Curta! +HD
+http://megaxc.ca:80/ialwg1/iao8wo/30859.ts
+#EXTINF:-1 tvg-id="curta!.br" tvg-name="Curta! FHD" tvg-logo="http://im.robx9.top:80/images/f7a5cd75b736b44a089c2f1f826ad7bd.png" group-title="F25 M3 Músicas",Curta! FHD
+http://megaxc.ca:80/ialwg1/iao8wo/174.ts
+#EXTINF:-1 tvg-id="curta!.br" tvg-name="Curta! FHD H265" tvg-logo="http://im.robx9.top:80/images/f7a5cd75b736b44a089c2f1f826ad7bd.png" group-title="F25 M3 Músicas",Curta! FHD H265
+http://megaxc.ca:80/ialwg1/iao8wo/173.ts
+#EXTINF:-1 tvg-id="curta!.br" tvg-name="Curta! HD" tvg-logo="http://im.robx9.top:80/images/f7a5cd75b736b44a089c2f1f826ad7bd.png" group-title="F25 M3 Músicas",Curta! HD
+http://megaxc.ca:80/ialwg1/iao8wo/175.ts
+#EXTINF:-1 tvg-id="" tvg-name="Daniel Tigre" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Daniel Tigre
+http://megaxc.ca:80/ialwg1/iao8wo/3342.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE VOLTA PARA O FUTURO TRILOGIA" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Cine 24H",DE VOLTA PARA O FUTURO TRILOGIA
+http://megaxc.ca:80/ialwg1/iao8wo/24398.ts
+#EXTINF:-1 tvg-id="" tvg-name="De Volta Para o Futuro" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",De Volta Para o Futuro
+http://megaxc.ca:80/ialwg1/iao8wo/24400.ts
+#EXTINF:-1 tvg-id="" tvg-name="Desenhos Biblicos" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Desenhos Biblicos
+http://megaxc.ca:80/ialwg1/iao8wo/2005653.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dick Vigarista em Pegue o Pombo" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Dick Vigarista em Pegue o Pombo
+http://megaxc.ca:80/ialwg1/iao8wo/3259.ts
+#EXTINF:-1 tvg-id="" tvg-name="Digimon" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Digimon
+http://megaxc.ca:80/ialwg1/iao8wo/24305.ts
+#EXTINF:-1 tvg-id="discoverychannel.br" tvg-name="Discovery Channel HD" tvg-logo="https://acstatic.co/logos/canais/discoverychannel.png" group-title="F25 M3 Documentários",Discovery Channel HD
+http://megaxc.ca:80/ialwg1/iao8wo/179.ts
+#EXTINF:-1 tvg-id="discoverychannel.br" tvg-name="Discovery Channel +HD" tvg-logo="https://acstatic.co/logos/canais/discoverychannel.png" group-title="F25 M3 Documentários",Discovery Channel +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2212.ts
+#EXTINF:-1 tvg-id="discoverychannel.br" tvg-name="Discovery Channel 4K" tvg-logo="https://acstatic.co/logos/canais/discoverychannel.png" group-title="Canais | ⭐ 4K",Discovery Channel 4K
+http://megaxc.ca:80/ialwg1/iao8wo/2115.ts
+#EXTINF:-1 tvg-id="discoverychannel.br" tvg-name="Discovery Channel FHD" tvg-logo="https://acstatic.co/logos/canais/discoverychannel.png" group-title="F25 M3 Documentários",Discovery Channel FHD
+http://megaxc.ca:80/ialwg1/iao8wo/178.ts
+#EXTINF:-1 tvg-id="discoverychannel.br" tvg-name="Discovery Channel FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/discoverychannel.png" group-title="F25 M3 Documentários",Discovery Channel FHD [H265]
+http://megaxc.ca:80/ialwg1/iao8wo/177.ts
+#EXTINF:-1 tvg-id="discoverychannel.br" tvg-name="Discovery Channel SD" tvg-logo="https://acstatic.co/logos/canais/discoverychannel.png" group-title="F25 M3 Documentários",Discovery Channel SD
+http://megaxc.ca:80/ialwg1/iao8wo/180.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery H&H 4K" tvg-logo="http://im.robx9.top:80/images/5340bee601031aed0071ce9e673f5424.png" group-title="Canais | ⭐ 4K",Discovery H&H 4K
+http://megaxc.ca:80/ialwg1/iao8wo/2114.ts
+#EXTINF:-1 tvg-id="discoveryhome&health.br" tvg-name="Discovery H&H FHD" tvg-logo="http://im.robx9.top:80/images/5340bee601031aed0071ce9e673f5424.png" group-title="F25 M3 Documentários",Discovery H&H FHD
+http://megaxc.ca:80/ialwg1/iao8wo/182.ts
+#EXTINF:-1 tvg-id="discoveryhome&health.br" tvg-name="Discovery H&H FHD [H265]" tvg-logo="http://im.robx9.top:80/images/5340bee601031aed0071ce9e673f5424.png" group-title="F25 M3 Documentários",Discovery H&H FHD [H265]
+http://megaxc.ca:80/ialwg1/iao8wo/181.ts
+#EXTINF:-1 tvg-id="discoveryhome&health.br" tvg-name="Discovery H&H HD" tvg-logo="http://im.robx9.top:80/images/5340bee601031aed0071ce9e673f5424.png" group-title="F25 M3 Documentários",Discovery H&H HD
+http://megaxc.ca:80/ialwg1/iao8wo/183.ts
+#EXTINF:-1 tvg-id="discoveryhome&health.br" tvg-name="Discovery H&H SD" tvg-logo="http://im.robx9.top:80/images/5340bee601031aed0071ce9e673f5424.png" group-title="F25 M3 Documentários",Discovery H&H SD
+http://megaxc.ca:80/ialwg1/iao8wo/184.ts
+#EXTINF:-1 tvg-id="discoveryhome&health.br" tvg-name="Discovery Home & Health +HD" tvg-logo="http://im.robx9.top:80/images/4467fd3c2d879dc4035a7f3bf7acbc31.png" group-title="F25 M3 Documentários",Discovery Home & Health +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2213.ts
+#EXTINF:-1 tvg-id="discoveryhome&health.br" tvg-name="Discovery Home & Health FHD²" tvg-logo="http://im.robx9.top:80/images/5340bee601031aed0071ce9e673f5424.png" group-title="F25 M3 Documentários",Discovery Home & Health FHD²
+http://megaxc.ca:80/ialwg1/iao8wo/30867.ts
+#EXTINF:-1 tvg-id="discoveryhome&health.br" tvg-name="Discovery Home & Health HD²" tvg-logo="http://im.robx9.top:80/images/5340bee601031aed0071ce9e673f5424.png" group-title="F25 M3 Documentários",Discovery Home & Health HD²
+http://megaxc.ca:80/ialwg1/iao8wo/30868.ts
+#EXTINF:-1 tvg-id="investigaçãodiscovery.br" tvg-name="Discovery ID +HD" tvg-logo="http://acsa.ws:80/images/ae050ba13a405e34c4192a0da5376574.png" group-title="F25 M3 Documentários",Discovery ID +HD
+http://megaxc.ca:80/ialwg1/iao8wo/396.ts
+#EXTINF:-1 tvg-id="investigaçãodiscovery.br" tvg-name="Discovery ID FHD" tvg-logo="http://acsa.ws:80/images/ae050ba13a405e34c4192a0da5376574.png" group-title="F25 M3 Documentários",Discovery ID FHD
+http://megaxc.ca:80/ialwg1/iao8wo/394.ts
+#EXTINF:-1 tvg-id="investigaçãodiscovery.br" tvg-name="Discovery ID FHD H265" tvg-logo="http://acsa.ws:80/images/ae050ba13a405e34c4192a0da5376574.png" group-title="F25 M3 Documentários",Discovery ID FHD H265
+http://megaxc.ca:80/ialwg1/iao8wo/393.ts
+#EXTINF:-1 tvg-id="investigaçãodiscovery.br" tvg-name="Discovery ID HD" tvg-logo="http://acsa.ws:80/images/ae050ba13a405e34c4192a0da5376574.png" group-title="F25 M3 Documentários",Discovery ID HD
+http://megaxc.ca:80/ialwg1/iao8wo/395.ts
+#EXTINF:-1 tvg-id="investigaçãodiscovery.br" tvg-name="Discovery ID HD²" tvg-logo="http://acsa.ws:80/images/ae050ba13a405e34c4192a0da5376574.png" group-title="F25 M3 Documentários",Discovery ID HD²
+http://megaxc.ca:80/ialwg1/iao8wo/30995.ts
+#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="Discovery Kids +HD" tvg-logo="http://im.robx9.top:80/images/66789472f8a8806aff5c05e9a26366e6.png" group-title="F25 M3 Infantil",Discovery Kids +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2214.ts
+#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="Discovery Kids FHD" tvg-logo="http://im.robx9.top:80/images/1fba0cc9cf2d7d578fb482914b0861b8.png" group-title="F25 M3 Infantil",Discovery Kids FHD
+http://megaxc.ca:80/ialwg1/iao8wo/186.ts
+#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="Discovery Kids FHD H265" tvg-logo="http://im.robx9.top:80/images/1fba0cc9cf2d7d578fb482914b0861b8.png" group-title="F25 M3 Infantil",Discovery Kids FHD H265
+http://megaxc.ca:80/ialwg1/iao8wo/185.ts
+#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="Discovery Kids HD" tvg-logo="http://im.robx9.top:80/images/1fba0cc9cf2d7d578fb482914b0861b8.png" group-title="F25 M3 Infantil",Discovery Kids HD
+http://megaxc.ca:80/ialwg1/iao8wo/187.ts
+#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="Discovery Science +HD" tvg-logo="http://im.robx9.top:80/images/51397f7061c18c23d00ad4f0a7a57bd7.png" group-title="F25 M3 Documentários",Discovery Science +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2215.ts
+#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="Discovery Science FHD" tvg-logo="http://im.robx9.top:80/images/eef5ac4c5cb4c1449338718eeb8bf266.png" group-title="F25 M3 Documentários",Discovery Science FHD
+http://megaxc.ca:80/ialwg1/iao8wo/190.ts
+#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="Discovery Science FHD H265" tvg-logo="http://im.robx9.top:80/images/eef5ac4c5cb4c1449338718eeb8bf266.png" group-title="F25 M3 Documentários",Discovery Science FHD H265
+http://megaxc.ca:80/ialwg1/iao8wo/189.ts
+#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="Discovery Science HD" tvg-logo="http://im.robx9.top:80/images/eef5ac4c5cb4c1449338718eeb8bf266.png" group-title="F25 M3 Documentários",Discovery Science HD
+http://megaxc.ca:80/ialwg1/iao8wo/191.ts
+#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="Discovery Science SD" tvg-logo="http://im.robx9.top:80/images/eef5ac4c5cb4c1449338718eeb8bf266.png" group-title="F25 M3 Documentários",Discovery Science SD
+http://megaxc.ca:80/ialwg1/iao8wo/192.ts
+#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="Discovery Theater +HD" tvg-logo="http://im.robx9.top:80/images/89f8987e601e3ea4a2d854a474f98b66.png" group-title="F25 M3 Documentários",Discovery Theater +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2216.ts
+#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="Discovery Theater FHD" tvg-logo="http://im.robx9.top:80/images/c364c5e9e865fc85228190c118cc6a18.png" group-title="F25 M3 Documentários",Discovery Theater FHD
+http://megaxc.ca:80/ialwg1/iao8wo/194.ts
+#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="Discovery Theater FHD H265" tvg-logo="http://im.robx9.top:80/images/c364c5e9e865fc85228190c118cc6a18.png" group-title="F25 M3 Documentários",Discovery Theater FHD H265
+http://megaxc.ca:80/ialwg1/iao8wo/193.ts
+#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="Discovery Theater HD" tvg-logo="http://im.robx9.top:80/images/c364c5e9e865fc85228190c118cc6a18.png" group-title="F25 M3 Documentários",Discovery Theater HD
+http://megaxc.ca:80/ialwg1/iao8wo/195.ts
+#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="Discovery Theater SD" tvg-logo="http://im.robx9.top:80/images/c364c5e9e865fc85228190c118cc6a18.png" group-title="F25 M3 Documentários",Discovery Theater SD
+http://megaxc.ca:80/ialwg1/iao8wo/196.ts
+#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="Discovery Turbo +HD" tvg-logo="http://im.robx9.top:80/images/cb0b9bd2ed1ed28c43ceecb178d2facf.png" group-title="F25 M3 Documentários",Discovery Turbo +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2217.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo 4K" tvg-logo="http://im.robx9.top:80/images/cb0b9bd2ed1ed28c43ceecb178d2facf.png" group-title="Canais | ⭐ 4K",Discovery Turbo 4K
+http://megaxc.ca:80/ialwg1/iao8wo/2119.ts
+#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="Discovery Turbo FHD" tvg-logo="http://im.robx9.top:80/images/cb0b9bd2ed1ed28c43ceecb178d2facf.png" group-title="F25 M3 Documentários",Discovery Turbo FHD
+http://megaxc.ca:80/ialwg1/iao8wo/198.ts
+#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="Discovery Turbo FHD H265" tvg-logo="http://im.robx9.top:80/images/cb0b9bd2ed1ed28c43ceecb178d2facf.png" group-title="F25 M3 Documentários",Discovery Turbo FHD H265
+http://megaxc.ca:80/ialwg1/iao8wo/197.ts
+#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="Discovery Turbo HD" tvg-logo="http://im.robx9.top:80/images/cb0b9bd2ed1ed28c43ceecb178d2facf.png" group-title="F25 M3 Documentários",Discovery Turbo HD
+http://megaxc.ca:80/ialwg1/iao8wo/199.ts
+#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="Discovery Turbo SD" tvg-logo="http://im.robx9.top:80/images/cb0b9bd2ed1ed28c43ceecb178d2facf.png" group-title="F25 M3 Documentários",Discovery Turbo SD
+http://megaxc.ca:80/ialwg1/iao8wo/200.ts
+#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="Discovery World +HD" tvg-logo="http://im.robx9.top:80/images/6fba8be0cbd6af7e9f6e11ee4dde06d6.png" group-title="F25 M3 Documentários",Discovery World +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2218.ts
+#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="Discovery World FHD" tvg-logo="http://im.robx9.top:80/images/6fba8be0cbd6af7e9f6e11ee4dde06d6.png" group-title="F25 M3 Documentários",Discovery World FHD
+http://megaxc.ca:80/ialwg1/iao8wo/202.ts
+#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="Discovery World HD" tvg-logo="http://im.robx9.top:80/images/6fba8be0cbd6af7e9f6e11ee4dde06d6.png" group-title="F25 M3 Documentários",Discovery World HD
+http://megaxc.ca:80/ialwg1/iao8wo/203.ts
+#EXTINF:-1 tvg-id="disneyplus" tvg-name="Disney+ 1²" tvg-logo="https://iili.io/d7mVYhv.png" group-title="Canais | ⚽ Disney+",Disney+ 1²
+http://megaxc.ca:80/ialwg1/iao8wo/1010.ts
+#EXTINF:-1 tvg-id="disneyplus" tvg-name="Disney+ 2²" tvg-logo="https://iili.io/d7mVYhv.png" group-title="Canais | ⚽ Disney+",Disney+ 2²
+http://megaxc.ca:80/ialwg1/iao8wo/1011.ts
+#EXTINF:-1 tvg-id="disneyplus" tvg-name="Disney+ 3²" tvg-logo="https://iili.io/d7mVYhv.png" group-title="Canais | ⚽ Disney+",Disney+ 3²
+http://megaxc.ca:80/ialwg1/iao8wo/1012.ts
+#EXTINF:-1 tvg-id="disneyplus" tvg-name="Disney+ 4²" tvg-logo="https://iili.io/d7mVYhv.png" group-title="Canais | ⚽ Disney+",Disney+ 4²
+http://megaxc.ca:80/ialwg1/iao8wo/1013.ts
+#EXTINF:-1 tvg-id="disneyplus" tvg-name="Disney+ 5²" tvg-logo="https://iili.io/d7mVYhv.png" group-title="Canais | ⚽ Disney+",Disney+ 5²
+http://megaxc.ca:80/ialwg1/iao8wo/1014.ts
+#EXTINF:-1 tvg-id="disneyplus" tvg-name="Disney+ 6²" tvg-logo="https://iili.io/d7mVYhv.png" group-title="Canais | ⚽ Disney+",Disney+ 6²
+http://megaxc.ca:80/ialwg1/iao8wo/1015.ts
+#EXTINF:-1 tvg-id="disneyplus" tvg-name="Disney+ 7²" tvg-logo="https://iili.io/d7mVYhv.png" group-title="Canais | ⚽ Disney+",Disney+ 7²
+http://megaxc.ca:80/ialwg1/iao8wo/1016.ts
+#EXTINF:-1 tvg-id="disneyplus" tvg-name="Disney+ 8²" tvg-logo="https://iili.io/d7mVYhv.png" group-title="Canais | ⚽ Disney+",Disney+ 8²
+http://megaxc.ca:80/ialwg1/iao8wo/2061198.ts
+#EXTINF:-1 tvg-id="disneyplus" tvg-name="Disney+ 9²" tvg-logo="https://iili.io/d7mVYhv.png" group-title="Canais | ⚽ Disney+",Disney+ 9²
+http://megaxc.ca:80/ialwg1/iao8wo/2061199.ts
+#EXTINF:-1 tvg-id="disneyplus" tvg-name="Disney+ 1 HD" tvg-logo="https://iili.io/d7mVYhv.png" group-title="Canais | ⚽ Disney+",Disney+ 1 HD
+http://megaxc.ca:80/ialwg1/iao8wo/196060.ts
+#EXTINF:-1 tvg-id="disneyplus" tvg-name="Disney+ 2 HD" tvg-logo="https://iili.io/d7mVYhv.png" group-title="Canais | ⚽ Disney+",Disney+ 2 HD
+http://megaxc.ca:80/ialwg1/iao8wo/196061.ts
+#EXTINF:-1 tvg-id="disneyplus" tvg-name="Disney+ 3 HD" tvg-logo="https://iili.io/d7mVYhv.png" group-title="Canais | ⚽ Disney+",Disney+ 3 HD
+http://megaxc.ca:80/ialwg1/iao8wo/196062.ts
+#EXTINF:-1 tvg-id="disneyplus" tvg-name="Disney+ 4 HD" tvg-logo="https://iili.io/d7mVYhv.png" group-title="Canais | ⚽ Disney+",Disney+ 4 HD
+http://megaxc.ca:80/ialwg1/iao8wo/196057.ts
+#EXTINF:-1 tvg-id="disneyplus" tvg-name="Disney+ 5 HD" tvg-logo="https://iili.io/d7mVYhv.png" group-title="Canais | ⚽ Disney+",Disney+ 5 HD
+http://megaxc.ca:80/ialwg1/iao8wo/196058.ts
+#EXTINF:-1 tvg-id="dogtv.br" tvg-name="DogTV FHD" tvg-logo="http://im.robx9.top:80/images/54dae763f1abcb43c3f46474b4536672.png" group-title="F25 M3 Variedades",DogTV FHD
+http://megaxc.ca:80/ialwg1/iao8wo/210.ts
+#EXTINF:-1 tvg-id="dogtv.br" tvg-name="DogTV FHD H265" tvg-logo="http://im.robx9.top:80/images/54dae763f1abcb43c3f46474b4536672.png" group-title="F25 M3 Variedades",DogTV FHD H265
+http://megaxc.ca:80/ialwg1/iao8wo/209.ts
+#EXTINF:-1 tvg-id="dogtv.br" tvg-name="DogTV HD" tvg-logo="http://im.robx9.top:80/images/54dae763f1abcb43c3f46474b4536672.png" group-title="F25 M3 Variedades",DogTV HD
+http://megaxc.ca:80/ialwg1/iao8wo/211.ts
+#EXTINF:-1 tvg-id="dogtv.br" tvg-name="DogTV SD" tvg-logo="http://im.robx9.top:80/images/54dae763f1abcb43c3f46474b4536672.png" group-title="F25 M3 Variedades",DogTV SD
+http://megaxc.ca:80/ialwg1/iao8wo/212.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dois Homens e Meio S01" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",Dois Homens e Meio S01
+http://megaxc.ca:80/ialwg1/iao8wo/3153.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dois Homens e Meio S02" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",Dois Homens e Meio S02
+http://megaxc.ca:80/ialwg1/iao8wo/3154.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dois Homens e Meio S03" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",Dois Homens e Meio S03
+http://megaxc.ca:80/ialwg1/iao8wo/3155.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dois Homens e Meio S04" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",Dois Homens e Meio S04
+http://megaxc.ca:80/ialwg1/iao8wo/3156.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dois Homens e Meio S05" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",Dois Homens e Meio S05
+http://megaxc.ca:80/ialwg1/iao8wo/3157.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dois Homens e Meio S06" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",Dois Homens e Meio S06
+http://megaxc.ca:80/ialwg1/iao8wo/3158.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dois Homens e Meio S07" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",Dois Homens e Meio S07
+http://megaxc.ca:80/ialwg1/iao8wo/3159.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dois Homens e Meio S08" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",Dois Homens e Meio S08
+http://megaxc.ca:80/ialwg1/iao8wo/3160.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dois Homens e Meio S09" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",Dois Homens e Meio S09
+http://megaxc.ca:80/ialwg1/iao8wo/3161.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dois Homens e Meio S10" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",Dois Homens e Meio S10
+http://megaxc.ca:80/ialwg1/iao8wo/3162.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dois Homens e Meio S11" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",Dois Homens e Meio S11
+http://megaxc.ca:80/ialwg1/iao8wo/3163.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dois Homens e Meio S12" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",Dois Homens e Meio S12
+http://megaxc.ca:80/ialwg1/iao8wo/3164.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dom Pixote" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Dom Pixote
+http://megaxc.ca:80/ialwg1/iao8wo/3231.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dora Aventureira" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Dora Aventureira
+http://megaxc.ca:80/ialwg1/iao8wo/181876.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Dragon Ball
+http://megaxc.ca:80/ialwg1/iao8wo/3249.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Dragon Ball Super
+http://megaxc.ca:80/ialwg1/iao8wo/3189.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z Saga Androides" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Dragon Ball Z Saga Androides
+http://megaxc.ca:80/ialwg1/iao8wo/3191.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z Saga Cell" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Dragon Ball Z Saga Cell
+http://megaxc.ca:80/ialwg1/iao8wo/2114401.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z Saga Freeza" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Dragon Ball Z Saga Freeza
+http://megaxc.ca:80/ialwg1/iao8wo/3192.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z Saga Garlic JR" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Dragon Ball Z Saga Garlic JR
+http://megaxc.ca:80/ialwg1/iao8wo/3195.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z Saga Majin boo" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Dragon Ball Z Saga Majin boo
+http://megaxc.ca:80/ialwg1/iao8wo/3193.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z Saga Sayajin" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Dragon Ball Z Saga Sayajin
+http://megaxc.ca:80/ialwg1/iao8wo/3194.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z Torneio de Outro Mundo" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Dragon Ball Z Torneio de Outro Mundo
+http://megaxc.ca:80/ialwg1/iao8wo/194078.ts
+#EXTINF:-1 tvg-id="" tvg-name="Drake e Josh" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Drake e Josh
+http://megaxc.ca:80/ialwg1/iao8wo/3196.ts
+#EXTINF:-1 tvg-id="" tvg-name="Droppy" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Droppy
+http://megaxc.ca:80/ialwg1/iao8wo/2005650.ts
+#EXTINF:-1 tvg-id="" tvg-name="DSports HD" tvg-logo="https://iili.io/2ZWyDCu.jpg" group-title="Canais | ⚽ Esportes",DSports HD
+http://megaxc.ca:80/ialwg1/iao8wo/2076124.ts
+#EXTINF:-1 tvg-id="" tvg-name="Du, Dudu e Edu" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Du, Dudu e Edu
+http://megaxc.ca:80/ialwg1/iao8wo/158681.ts
+#EXTINF:-1 tvg-id="" tvg-name="Duck Tales" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Duck Tales
+http://megaxc.ca:80/ialwg1/iao8wo/3197.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ducktales" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Ducktales
+http://megaxc.ca:80/ialwg1/iao8wo/3336.ts
+#EXTINF:-1 tvg-id="e.br" tvg-name="E! FHD" tvg-logo="http://im.robx9.top:80/images/0a64c8656a34327bfd706aac4c263a93.png" group-title="F25 M3 Variedades",E! FHD
+http://megaxc.ca:80/ialwg1/iao8wo/217.ts
+#EXTINF:-1 tvg-id="e.br" tvg-name="E! HD" tvg-logo="http://im.robx9.top:80/images/0a64c8656a34327bfd706aac4c263a93.png" group-title="F25 M3 Variedades",E! HD
+http://megaxc.ca:80/ialwg1/iao8wo/218.ts
+#EXTINF:-1 tvg-id="e.br" tvg-name="E! HD²" tvg-logo="http://im.robx9.top:80/images/0a64c8656a34327bfd706aac4c263a93.png" group-title="F25 M3 Variedades",E! HD²
+http://megaxc.ca:80/ialwg1/iao8wo/30880.ts
+#EXTINF:-1 tvg-id="eptvcampinas.br" tvg-name="EPTV Campinas FHD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sudeste",EPTV Campinas FHD
+http://megaxc.ca:80/ialwg1/iao8wo/865.ts
+#EXTINF:-1 tvg-id="eptvcampinas.br" tvg-name="EPTV Campinas HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sudeste",EPTV Campinas HD
+http://megaxc.ca:80/ialwg1/iao8wo/284.ts
+#EXTINF:-1 tvg-id="eptvcampinas.br" tvg-name="EPTV Campinas SD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sudeste",EPTV Campinas SD
+http://megaxc.ca:80/ialwg1/iao8wo/285.ts
+#EXTINF:-1 tvg-id="eptvcampinas.br" tvg-name="Eptv Central FHD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sudeste",Eptv Central FHD
+http://megaxc.ca:80/ialwg1/iao8wo/2044035.ts
+#EXTINF:-1 tvg-id="eptvcampinas.br" tvg-name="Eptv Central HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sudeste",Eptv Central HD
+http://megaxc.ca:80/ialwg1/iao8wo/2044034.ts
+#EXTINF:-1 tvg-id="globo.sao.paulo.br" tvg-name="EPTV Ribeirão Preto FHD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sudeste",EPTV Ribeirão Preto FHD
+http://megaxc.ca:80/ialwg1/iao8wo/867.ts
+#EXTINF:-1 tvg-id="globo.sao.paulo.br" tvg-name="EPTV Ribeirão Preto HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sudeste",EPTV Ribeirão Preto HD
+http://megaxc.ca:80/ialwg1/iao8wo/286.ts
+#EXTINF:-1 tvg-id="globo.sao.paulo.br" tvg-name="EPTV Ribeirão Preto HD²" tvg-logo="http://im.robx9.top:80/images/95000177da05d4b66da8ec1f302d7567.png" group-title="F25 M3 Globos Sudeste",EPTV Ribeirão Preto HD²
+http://megaxc.ca:80/ialwg1/iao8wo/30907.ts
+#EXTINF:-1 tvg-id="globo.sao.paulo.br" tvg-name="EPTV Ribeirão Preto SD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sudeste",EPTV Ribeirão Preto SD
+http://megaxc.ca:80/ialwg1/iao8wo/287.ts
+#EXTINF:-1 tvg-id="eptv.sul.minas.br" tvg-name="EPTV Sul de Minas FHD" tvg-logo="http://im.robx9.top:80/images/95000177da05d4b66da8ec1f302d7567.png" group-title="F25 M3 Globos Sudeste",EPTV Sul de Minas FHD
+http://megaxc.ca:80/ialwg1/iao8wo/869.ts
+#EXTINF:-1 tvg-id="eptv.sul.minas.br" tvg-name="EPTV Sul de Minas HD" tvg-logo="http://im.robx9.top:80/images/95000177da05d4b66da8ec1f302d7567.png" group-title="F25 M3 Globos Sudeste",EPTV Sul de Minas HD
+http://megaxc.ca:80/ialwg1/iao8wo/30909.ts
+#EXTINF:-1 tvg-id="eptv.sul.minas.br" tvg-name="EPTV Sul de Minas HD²" tvg-logo="http://im.robx9.top:80/images/95000177da05d4b66da8ec1f302d7567.png" group-title="F25 M3 Globos Sudeste",EPTV Sul de Minas HD²
+http://megaxc.ca:80/ialwg1/iao8wo/1067.ts
+#EXTINF:-1 tvg-id="globo.sao.paulo.br" tvg-name="EPTV São Carlos HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sudeste",EPTV São Carlos HD
+http://megaxc.ca:80/ialwg1/iao8wo/30908.ts
+#EXTINF:-1 tvg-id="globo.sao.paulo.br" tvg-name="EPTV São Carlos SD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sudeste",EPTV São Carlos SD
+http://megaxc.ca:80/ialwg1/iao8wo/288.ts
+#EXTINF:-1 tvg-id="" tvg-name="Escolinha do Professor Raimundo" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",Escolinha do Professor Raimundo
+http://megaxc.ca:80/ialwg1/iao8wo/194265.ts
+#EXTINF:-1 tvg-id="" tvg-name="Especiais Desenhos anos 90" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Especiais Desenhos anos 90
+http://megaxc.ca:80/ialwg1/iao8wo/2082667.ts
+#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN HD" tvg-logo="https://iili.io/JvcXCIp.png" group-title="Canais | ⚽ ESPN",ESPN HD
+http://megaxc.ca:80/ialwg1/iao8wo/222.ts
+#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN HD+" tvg-logo="https://iili.io/JvcXCIp.png" group-title="Canais | ⚽ ESPN",ESPN HD+
+http://megaxc.ca:80/ialwg1/iao8wo/2076125.ts
+#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN HD²" tvg-logo="https://iili.io/JvcXCIp.png" group-title="Canais | ⚽ ESPN",ESPN HD²
+http://megaxc.ca:80/ialwg1/iao8wo/30887.ts
+#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN FHD" tvg-logo="https://iili.io/JvcXCIp.png" group-title="Canais | ⚽ ESPN",ESPN FHD
+http://megaxc.ca:80/ialwg1/iao8wo/221.ts
+#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN FHD [H265]" tvg-logo="https://iili.io/JvcXCIp.png" group-title="Canais | ⚽ ESPN",ESPN FHD [H265]
+http://megaxc.ca:80/ialwg1/iao8wo/220.ts
+#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN SD" tvg-logo="https://iili.io/JvcXCIp.png" group-title="Canais | ⚽ ESPN",ESPN SD
+http://megaxc.ca:80/ialwg1/iao8wo/223.ts
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 +HD" tvg-logo="https://iili.io/JvcX1C7.png" group-title="Canais | ⚽ ESPN",ESPN 2 +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2223.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 4K" tvg-logo="https://iili.io/JvcX1C7.png" group-title="Canais | ⭐ 4K",ESPN 2 4K
+http://megaxc.ca:80/ialwg1/iao8wo/2033018.ts
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 FHD" tvg-logo="https://iili.io/JvcX1C7.png" group-title="Canais | ⚽ ESPN",ESPN 2 FHD
+http://megaxc.ca:80/ialwg1/iao8wo/229.ts
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 FHD [H265]" tvg-logo="https://iili.io/JvcX1C7.png" group-title="Canais | ⚽ ESPN",ESPN 2 FHD [H265]
+http://megaxc.ca:80/ialwg1/iao8wo/228.ts
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 HD" tvg-logo="https://iili.io/JvcX1C7.png" group-title="Canais | ⚽ ESPN",ESPN 2 HD
+http://megaxc.ca:80/ialwg1/iao8wo/230.ts
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 SD" tvg-logo="https://iili.io/JvcX1C7.png" group-title="Canais | ⚽ ESPN",ESPN 2 SD
+http://megaxc.ca:80/ialwg1/iao8wo/231.ts
+#EXTINF:-1 tvg-id="espn3.br" tvg-name="ESPN 3 +HD" tvg-logo="https://iili.io/JvcXhyx.png" group-title="Canais | ⚽ ESPN",ESPN 3 +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2224.ts
+#EXTINF:-1 tvg-id="espn3.br" tvg-name="ESPN 3 4K" tvg-logo="https://iili.io/JvcXhyx.png" group-title="Canais | ⭐ 4K",ESPN 3 4K
+http://megaxc.ca:80/ialwg1/iao8wo/2033019.ts
+#EXTINF:-1 tvg-id="espn3.br" tvg-name="ESPN 3 FHD" tvg-logo="https://iili.io/JvcXhyx.png" group-title="Canais | ⚽ ESPN",ESPN 3 FHD
+http://megaxc.ca:80/ialwg1/iao8wo/233.ts
+#EXTINF:-1 tvg-id="espn3.br" tvg-name="ESPN 3 FHD [H265]" tvg-logo="https://iili.io/JvcXhyx.png" group-title="Canais | ⚽ ESPN",ESPN 3 FHD [H265]
+http://megaxc.ca:80/ialwg1/iao8wo/232.ts
+#EXTINF:-1 tvg-id="espn3.br" tvg-name="ESPN 3 HD" tvg-logo="https://iili.io/JvcXhyx.png" group-title="Canais | ⚽ ESPN",ESPN 3 HD
+http://megaxc.ca:80/ialwg1/iao8wo/234.ts
+#EXTINF:-1 tvg-id="espn3.br" tvg-name="ESPN 3 SD" tvg-logo="https://iili.io/JvcXhyx.png" group-title="Canais | ⚽ ESPN",ESPN 3 SD
+http://megaxc.ca:80/ialwg1/iao8wo/235.ts
+#EXTINF:-1 tvg-id="espn4.br" tvg-name="ESPN 4  4K" tvg-logo="https://iili.io/JvcjT5G.png" group-title="Canais | ⭐ 4K",ESPN 4  4K
+http://megaxc.ca:80/ialwg1/iao8wo/2113.ts
+#EXTINF:-1 tvg-id="espn4.br" tvg-name="ESPN 4 +HD" tvg-logo="https://iili.io/JvcXmas.png" group-title="Canais | ⚽ ESPN",ESPN 4 +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2225.ts
+#EXTINF:-1 tvg-id="espn4.br" tvg-name="ESPN 4 FHD" tvg-logo="https://iili.io/JvcXmas.png" group-title="Canais | ⚽ ESPN",ESPN 4 FHD
+http://megaxc.ca:80/ialwg1/iao8wo/237.ts
+#EXTINF:-1 tvg-id="espn4.br" tvg-name="ESPN 4 FHD [H265]" tvg-logo="https://iili.io/JvcXmas.png" group-title="Canais | ⚽ ESPN",ESPN 4 FHD [H265]
+http://megaxc.ca:80/ialwg1/iao8wo/236.ts
+#EXTINF:-1 tvg-id="espn4.br" tvg-name="ESPN 4 HD" tvg-logo="https://iili.io/JvcXmas.png" group-title="Canais | ⚽ ESPN",ESPN 4 HD
+http://megaxc.ca:80/ialwg1/iao8wo/238.ts
+#EXTINF:-1 tvg-id="espn4.br" tvg-name="ESPN 4 SD" tvg-logo="https://iili.io/JvcXmas.png" group-title="Canais | ⚽ ESPN",ESPN 4 SD
+http://megaxc.ca:80/ialwg1/iao8wo/239.ts
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 4K" tvg-logo="https://iili.io/JvcXCIp.png" group-title="Canais | ⭐ 4K",ESPN 4K
+http://megaxc.ca:80/ialwg1/iao8wo/2127.ts
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="ESPN 5 +HD" tvg-logo="https://iili.io/JvcjT5G.png" group-title="Canais | ⚽ ESPN",ESPN 5 +HD
+http://megaxc.ca:80/ialwg1/iao8wo/197137.ts
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="ESPN 5 FHD" tvg-logo="https://iili.io/JvcjT5G.png" group-title="Canais | ⚽ ESPN",ESPN 5 FHD
+http://megaxc.ca:80/ialwg1/iao8wo/258.ts
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="ESPN 5 HD" tvg-logo="https://iili.io/JvcjT5G.png" group-title="Canais | ⚽ ESPN",ESPN 5 HD
+http://megaxc.ca:80/ialwg1/iao8wo/197136.ts
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="ESPN 5 SD" tvg-logo="https://iili.io/JvcjT5G.png" group-title="Canais | ⚽ ESPN",ESPN 5 SD
+http://megaxc.ca:80/ialwg1/iao8wo/260.ts
+#EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN Extra +HD" tvg-logo="http://im.robx9.top:80/images/820e628618358cf1d72c62802a9e5b25.png" group-title="Canais | ⚽ ESPN",ESPN Extra +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2226.ts
+#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN Extra FHD" tvg-logo="http://im.robx9.top:80/images/820e628618358cf1d72c62802a9e5b25.png" group-title="Canais | ⚽ ESPN",ESPN Extra FHD
+http://megaxc.ca:80/ialwg1/iao8wo/225.ts
+#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN Extra FHD H265" tvg-logo="http://im.robx9.top:80/images/820e628618358cf1d72c62802a9e5b25.png" group-title="Canais | ⚽ ESPN",ESPN Extra FHD H265
+http://megaxc.ca:80/ialwg1/iao8wo/224.ts
+#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN Extra HD" tvg-logo="http://im.robx9.top:80/images/820e628618358cf1d72c62802a9e5b25.png" group-title="Canais | ⚽ ESPN",ESPN Extra HD
+http://megaxc.ca:80/ialwg1/iao8wo/226.ts
+#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN Extra SD" tvg-logo="http://im.robx9.top:80/images/820e628618358cf1d72c62802a9e5b25.png" group-title="Canais | ⚽ ESPN",ESPN Extra SD
+http://megaxc.ca:80/ialwg1/iao8wo/227.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eu, A patroa e as Crianças" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",Eu, A patroa e as Crianças
+http://megaxc.ca:80/ialwg1/iao8wo/3170.ts
+#EXTINF:-1 tvg-id="" tvg-name="EuroChannel HD" tvg-logo="http://im.robx9.top:80/images/209c9d6e304e01214f5a1ef2a9260836.png" group-title="F25 M3 Noticias",EuroChannel HD
+http://megaxc.ca:80/ialwg1/iao8wo/241.ts
+#EXTINF:-1 tvg-id="" tvg-name="[15:00H] Ath.Bilbao x Real Madrid" tvg-logo="https://iili.io/KH44RwX.png" group-title="Canais | ⭐ Area do Cliente",[15:00H] Ath.Bilbao x Real Madrid
+http://megaxc.ca:80/ialwg1/iao8wo/2121379.ts
+#EXTINF:-1 tvg-id="" tvg-name="[19:00H] Fortaleza x Corinthians" tvg-logo="https://iili.io/KH44RwX.png" group-title="Canais | ⭐ Area do Cliente",[19:00H] Fortaleza x Corinthians
+http://megaxc.ca:80/ialwg1/iao8wo/2121378.ts
+#EXTINF:-1 tvg-id="" tvg-name="[19:00H] RB.Bragantino x Vitoria" tvg-logo="https://iili.io/KH44RwX.png" group-title="Canais | ⭐ Area do Cliente",[19:00H] RB.Bragantino x Vitoria
+http://megaxc.ca:80/ialwg1/iao8wo/2113359.ts
+#EXTINF:-1 tvg-id="" tvg-name="[19:30H] Juventude x Santos" tvg-logo="https://iili.io/KH44RwX.png" group-title="Canais | ⭐ Area do Cliente",[19:30H] Juventude x Santos
+http://megaxc.ca:80/ialwg1/iao8wo/2108551.ts
+#EXTINF:-1 tvg-id="" tvg-name="[20:00H] São Paulo x Internacional" tvg-logo="https://iili.io/KH44RwX.png" group-title="Canais | ⭐ Area do Cliente",[20:00H] São Paulo x Internacional
+http://megaxc.ca:80/ialwg1/iao8wo/2108550.ts
+#EXTINF:-1 tvg-id="" tvg-name="[20:00H] Bahia x Sport" tvg-logo="https://iili.io/KH44RwX.png" group-title="Canais | ⭐ Area do Cliente",[20:00H] Bahia x Sport
+http://megaxc.ca:80/ialwg1/iao8wo/2108549.ts
+#EXTINF:-1 tvg-id="" tvg-name="[21:30H] Flamengo x Ceará²" tvg-logo="https://iili.io/KH44RwX.png" group-title="Canais | ⭐ Area do Cliente",[21:30H] Flamengo x Ceará²
+http://megaxc.ca:80/ialwg1/iao8wo/2110843.ts
+#EXTINF:-1 tvg-id="" tvg-name="[21:30H] Flamengo x Ceará" tvg-logo="https://iili.io/KH44RwX.png" group-title="Canais | ⭐ Area do Cliente",[21:30H] Flamengo x Ceará
+http://megaxc.ca:80/ialwg1/iao8wo/2116805.ts
+#EXTINF:-1 tvg-id="" tvg-name="[21:30H] Atlético-MG x Palmeiras" tvg-logo="https://iili.io/KH44RwX.png" group-title="Canais | ⭐ Area do Cliente",[21:30H] Atlético-MG x Palmeiras
+http://megaxc.ca:80/ialwg1/iao8wo/2108548.ts
+#EXTINF:-1 tvg-id="" tvg-name="[21:30H] Atlético-MG x Palmeiras²" tvg-logo="https://iili.io/KH44RwX.png" group-title="Canais | ⭐ Area do Cliente",[21:30H] Atlético-MG x Palmeiras²
+http://megaxc.ca:80/ialwg1/iao8wo/2107449.ts
+#EXTINF:-1 tvg-id="fashion.br" tvg-name="Fashion TV FHD" tvg-logo="http://im.robx9.top:80/images/e4d6a696daaf8055ab7aec470c80eb4e.png" group-title="F25 M3 Variedades",Fashion TV FHD
+http://megaxc.ca:80/ialwg1/iao8wo/242.ts
+#EXTINF:-1 tvg-id="fashion.br" tvg-name="Fashion TV HD" tvg-logo="http://im.robx9.top:80/images/e4d6a696daaf8055ab7aec470c80eb4e.png" group-title="F25 M3 Variedades",Fashion TV HD
+http://megaxc.ca:80/ialwg1/iao8wo/243.ts
+#EXTINF:-1 tvg-id="" tvg-name="FIFA+ 01 HD" tvg-logo="https://iili.io/3xb50R1.png" group-title="Canais | ⚽ PPV",FIFA+ 01 HD
+http://megaxc.ca:80/ialwg1/iao8wo/2084903.ts
+#EXTINF:-1 tvg-id="" tvg-name="FIFA+ 02 HD" tvg-logo="https://iili.io/3xb50R1.png" group-title="Canais | ⚽ PPV",FIFA+ 02 HD
+http://megaxc.ca:80/ialwg1/iao8wo/2084904.ts
+#EXTINF:-1 tvg-id="" tvg-name="FIFA+ 03 HD" tvg-logo="https://iili.io/3xb50R1.png" group-title="Canais | ⚽ PPV",FIFA+ 03 HD
+http://megaxc.ca:80/ialwg1/iao8wo/2084905.ts
+#EXTINF:-1 tvg-id="film&arts.br" tvg-name="Film&Arts FHD" tvg-logo="http://im.robx9.top:80/images/1d74566a8c9173df749a6d7ad3c65b7e.png" group-title="F25 M3 Filmes e Séries",Film&Arts FHD
+http://megaxc.ca:80/ialwg1/iao8wo/246.ts
+#EXTINF:-1 tvg-id="film&arts.br" tvg-name="Film&Arts FHD H265" tvg-logo="http://im.robx9.top:80/images/1d74566a8c9173df749a6d7ad3c65b7e.png" group-title="F25 M3 Filmes e Séries",Film&Arts FHD H265
+http://megaxc.ca:80/ialwg1/iao8wo/245.ts
+#EXTINF:-1 tvg-id="film&arts.br" tvg-name="Film&Arts HD" tvg-logo="http://im.robx9.top:80/images/1d74566a8c9173df749a6d7ad3c65b7e.png" group-title="F25 M3 Filmes e Séries",Film&Arts HD
+http://megaxc.ca:80/ialwg1/iao8wo/247.ts
+#EXTINF:-1 tvg-id="film&arts.br" tvg-name="Film&Arts SD" tvg-logo="http://im.robx9.top:80/images/1d74566a8c9173df749a6d7ad3c65b7e.png" group-title="F25 M3 Filmes e Séries",Film&Arts SD
+http://megaxc.ca:80/ialwg1/iao8wo/248.ts
+#EXTINF:-1 tvg-id="" tvg-name="Filmelier TV (BR)" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Cine 24H",Filmelier TV (BR)
+http://megaxc.ca:80/ialwg1/iao8wo/2113372.ts
+#EXTINF:-1 tvg-id="" tvg-name="Filmelier TV Esperança" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Cine 24H",Filmelier TV Esperança
+http://megaxc.ca:80/ialwg1/iao8wo/2113374.ts
+#EXTINF:-1 tvg-id="" tvg-name="Filmelier TV Vida Real" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Cine 24H",Filmelier TV Vida Real
+http://megaxc.ca:80/ialwg1/iao8wo/2113373.ts
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="Fish TV HD²" tvg-logo="http://im.robx9.top:80/images/fea51c20cf6a3796cfc550da80d29f97.png" group-title="F25 M3 Variedades",Fish TV HD²
+http://megaxc.ca:80/ialwg1/iao8wo/30892.ts
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="FishTV  FHD" tvg-logo="http://im.robx9.top:80/images/fea51c20cf6a3796cfc550da80d29f97.png" group-title="F25 M3 Variedades",FishTV  FHD
+http://megaxc.ca:80/ialwg1/iao8wo/250.ts
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="FishTV  HD" tvg-logo="http://im.robx9.top:80/images/fea51c20cf6a3796cfc550da80d29f97.png" group-title="F25 M3 Variedades",FishTV  HD
+http://megaxc.ca:80/ialwg1/iao8wo/251.ts
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="FishTV  SD" tvg-logo="http://im.robx9.top:80/images/fea51c20cf6a3796cfc550da80d29f97.png" group-title="F25 M3 Variedades",FishTV  SD
+http://megaxc.ca:80/ialwg1/iao8wo/252.ts
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="FishTV FHD H265" tvg-logo="http://im.robx9.top:80/images/fea51c20cf6a3796cfc550da80d29f97.png" group-title="F25 M3 Variedades",FishTV FHD H265
+http://megaxc.ca:80/ialwg1/iao8wo/249.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fitdance" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Músicas 24H",Fitdance
+http://megaxc.ca:80/ialwg1/iao8wo/2113371.ts
+#EXTINF:-1 tvg-id="" tvg-name="Flamengo TV  (Evento)" tvg-logo="https://iili.io/dlhtfCQ.png" group-title="Canais | ⚽ PPV",Flamengo TV  (Evento)
+http://megaxc.ca:80/ialwg1/iao8wo/2032992.ts
+#EXTINF:-1 tvg-id="" tvg-name="Flash Gordon" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Flash Gordon
+http://megaxc.ca:80/ialwg1/iao8wo/3232.ts
+#EXTINF:-1 tvg-id="" tvg-name="FLOGRAPPLING 1 FHD" tvg-logo="https://iili.io/dlhrbtI.png" group-title="Canais | ⚽ PPV",FLOGRAPPLING 1 FHD
+http://megaxc.ca:80/ialwg1/iao8wo/2033000.ts
+#EXTINF:-1 tvg-id="" tvg-name="FLOGRAPPLING 2 FHD" tvg-logo="https://iili.io/dlhrbtI.png" group-title="Canais | ⚽ PPV",FLOGRAPPLING 2 FHD
+http://megaxc.ca:80/ialwg1/iao8wo/2033001.ts
+#EXTINF:-1 tvg-id="" tvg-name="FLOGRAPPLING 3 FHD (Reprises)" tvg-logo="https://iili.io/dlhrbtI.png" group-title="Canais | ⚽ PPV",FLOGRAPPLING 3 FHD (Reprises)
+http://megaxc.ca:80/ialwg1/iao8wo/2033002.ts
+#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="Food Network +HD" tvg-logo="http://im.robx9.top:80/images/027471b792895aed7fe0ff8c7849f2aa.png" group-title="F25 M3 Variedades",Food Network +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2230.ts
+#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="Food Network FHD" tvg-logo="http://im.robx9.top:80/images/027471b792895aed7fe0ff8c7849f2aa.png" group-title="F25 M3 Variedades",Food Network FHD
+http://megaxc.ca:80/ialwg1/iao8wo/254.ts
+#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="Food Network FHD H265" tvg-logo="http://im.robx9.top:80/images/027471b792895aed7fe0ff8c7849f2aa.png" group-title="F25 M3 Variedades",Food Network FHD H265
+http://megaxc.ca:80/ialwg1/iao8wo/253.ts
+#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="Food Network HD" tvg-logo="http://im.robx9.top:80/images/027471b792895aed7fe0ff8c7849f2aa.png" group-title="F25 M3 Variedades",Food Network HD
+http://megaxc.ca:80/ialwg1/iao8wo/255.ts
+#EXTINF:-1 tvg-id="" tvg-name="Formula 1 TV HD" tvg-logo="https://iili.io/3xa0GdF.png" group-title="Canais | ⚽ PPV",Formula 1 TV HD
+http://megaxc.ca:80/ialwg1/iao8wo/2084690.ts
+#EXTINF:-1 tvg-id="" tvg-name="France 24H HD" tvg-logo="http://im.robx9.top:80/images/34f3727d3a78cf1c020cbbfdee9a1957.png" group-title="F25 M3 Noticias",France 24H HD
+http://megaxc.ca:80/ialwg1/iao8wo/262.ts
+#EXTINF:-1 tvg-id="" tvg-name="Freakazoid" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Freakazoid
+http://megaxc.ca:80/ialwg1/iao8wo/3200.ts
+#EXTINF:-1 tvg-id="" tvg-name="Friends S01" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",Friends S01
+http://megaxc.ca:80/ialwg1/iao8wo/3175.ts
+#EXTINF:-1 tvg-id="" tvg-name="Friends S02" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",Friends S02
+http://megaxc.ca:80/ialwg1/iao8wo/3176.ts
+#EXTINF:-1 tvg-id="" tvg-name="Friends S03" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",Friends S03
+http://megaxc.ca:80/ialwg1/iao8wo/3177.ts
+#EXTINF:-1 tvg-id="" tvg-name="Friends S04" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",Friends S04
+http://megaxc.ca:80/ialwg1/iao8wo/3178.ts
+#EXTINF:-1 tvg-id="" tvg-name="Friends S05" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",Friends S05
+http://megaxc.ca:80/ialwg1/iao8wo/3179.ts
+#EXTINF:-1 tvg-id="" tvg-name="Friends S06" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",Friends S06
+http://megaxc.ca:80/ialwg1/iao8wo/3180.ts
+#EXTINF:-1 tvg-id="" tvg-name="Friends S07" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",Friends S07
+http://megaxc.ca:80/ialwg1/iao8wo/3181.ts
+#EXTINF:-1 tvg-id="" tvg-name="Friends S08" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",Friends S08
+http://megaxc.ca:80/ialwg1/iao8wo/3182.ts
+#EXTINF:-1 tvg-id="" tvg-name="Friends S09" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",Friends S09
+http://megaxc.ca:80/ialwg1/iao8wo/3183.ts
+#EXTINF:-1 tvg-id="" tvg-name="Friends S10" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",Friends S10
+http://megaxc.ca:80/ialwg1/iao8wo/3184.ts
+#EXTINF:-1 tvg-id="futura.br" tvg-name="Futura FHD" tvg-logo="http://im.robx9.top:80/images/0e7585dbf073d8714129edb264231ba9.png" group-title="F25 M3 Abertos",Futura FHD
+http://megaxc.ca:80/ialwg1/iao8wo/109.ts
+#EXTINF:-1 tvg-id="futura.br" tvg-name="Futura FHD²" tvg-logo="http://im.robx9.top:80/images/0e7585dbf073d8714129edb264231ba9.png" group-title="F25 M3 Abertos",Futura FHD²
+http://megaxc.ca:80/ialwg1/iao8wo/30898.ts
+#EXTINF:-1 tvg-id="futura.br" tvg-name="Futura HD" tvg-logo="http://im.robx9.top:80/images/0e7585dbf073d8714129edb264231ba9.png" group-title="F25 M3 Abertos",Futura HD
+http://megaxc.ca:80/ialwg1/iao8wo/110.ts
+#EXTINF:-1 tvg-id="futura.br" tvg-name="Futura SD" tvg-logo="http://im.robx9.top:80/images/0e7585dbf073d8714129edb264231ba9.png" group-title="F25 M3 Abertos",Futura SD
+http://megaxc.ca:80/ialwg1/iao8wo/111.ts
+#EXTINF:-1 tvg-id="" tvg-name="Futurama" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Futurama
+http://megaxc.ca:80/ialwg1/iao8wo/3201.ts
+#EXTINF:-1 tvg-id="" tvg-name="Galinha Pintadinha" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Galinha Pintadinha
+http://megaxc.ca:80/ialwg1/iao8wo/61514.ts
+#EXTINF:-1 tvg-id="" tvg-name="Garfield e Seus Amigos" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Garfield e Seus Amigos
+http://megaxc.ca:80/ialwg1/iao8wo/3224.ts
+#EXTINF:-1 tvg-id="" tvg-name="Gasparzinho e Seus Amigos" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Gasparzinho e Seus Amigos
+http://megaxc.ca:80/ialwg1/iao8wo/3218.ts
+#EXTINF:-1 tvg-id="" tvg-name="Gato Felix" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Gato Felix
+http://megaxc.ca:80/ialwg1/iao8wo/3205.ts
+#EXTINF:-1 tvg-id="tvgazeta.br" tvg-name="Gazeta FHD" tvg-logo="http://im.robx9.top:80/images/e57cb0aaef8da535c5c3a341d7550b93.png" group-title="F25 M3 Abertos",Gazeta FHD
+http://megaxc.ca:80/ialwg1/iao8wo/269.ts
+#EXTINF:-1 tvg-id="tvgazeta.br" tvg-name="Gazeta HD" tvg-logo="http://im.robx9.top:80/images/e57cb0aaef8da535c5c3a341d7550b93.png" group-title="F25 M3 Abertos",Gazeta HD
+http://megaxc.ca:80/ialwg1/iao8wo/270.ts
+#EXTINF:-1 tvg-id="" tvg-name="GE TV" tvg-logo="https://iili.io/KBSVdnj.png" group-title="Canais | ⚽ Esportes",GE TV
+http://megaxc.ca:80/ialwg1/iao8wo/2109278.ts
+#EXTINF:-1 tvg-id="" tvg-name="Geek" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Geek
+http://megaxc.ca:80/ialwg1/iao8wo/3324.ts
+#EXTINF:-1 tvg-id="tv.gazeta.rio.branco.br" tvg-name="Globo Acre Rio Branco FHD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Norte-Nordeste",Globo Acre Rio Branco FHD
+http://megaxc.ca:80/ialwg1/iao8wo/272.ts
+#EXTINF:-1 tvg-id="tv.gazeta.rio.branco.br" tvg-name="Globo Acre Rio Branco HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Norte-Nordeste",Globo Acre Rio Branco HD
+http://megaxc.ca:80/ialwg1/iao8wo/273.ts
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo Amapa SD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Norte-Nordeste",Globo Amapa SD
+http://megaxc.ca:80/ialwg1/iao8wo/833.ts
+#EXTINF:-1 tvg-id="tv.amapa.br" tvg-name="Globo Amapá FHD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Norte-Nordeste",Globo Amapá FHD
+http://megaxc.ca:80/ialwg1/iao8wo/274.ts
+#EXTINF:-1 tvg-id="tv.amapa.br" tvg-name="Globo Amapá HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Norte-Nordeste",Globo Amapá HD
+http://megaxc.ca:80/ialwg1/iao8wo/275.ts
+#EXTINF:-1 tvg-id="tv.liberal.br" tvg-name="Globo Belém FHD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Norte-Nordeste",Globo Belém FHD
+http://megaxc.ca:80/ialwg1/iao8wo/276.ts
+#EXTINF:-1 tvg-id="tv.liberal.br" tvg-name="Globo Belém HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Norte-Nordeste",Globo Belém HD
+http://megaxc.ca:80/ialwg1/iao8wo/277.ts
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="Globo Brasilia +HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Centro-Oeste",Globo Brasilia +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2135.ts
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Brasilia 4K" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="Canais | ⭐ 4K",Globo Brasilia 4K
+http://megaxc.ca:80/ialwg1/iao8wo/2043491.ts
+#EXTINF:-1 tvg-id="globo.brasilia.br" tvg-name="Globo Brasilia FHD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Centro-Oeste",Globo Brasilia FHD
+http://megaxc.ca:80/ialwg1/iao8wo/862.ts
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="Globo Brasilia HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Centro-Oeste",Globo Brasilia HD
+http://megaxc.ca:80/ialwg1/iao8wo/278.ts
+#EXTINF:-1 tvg-id="globo.brasilia.br" tvg-name="Globo Brasilia HD²" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Centro-Oeste",Globo Brasilia HD²
+http://megaxc.ca:80/ialwg1/iao8wo/30904.ts
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="Globo Brasilia SD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Centro-Oeste",Globo Brasilia SD
+http://megaxc.ca:80/ialwg1/iao8wo/279.ts
+#EXTINF:-1 tvg-id="tvcentroaméricacuiabá.br" tvg-name="Globo Cuiaba 4K" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="Canais | ⭐ 4K",Globo Cuiaba 4K
+http://megaxc.ca:80/ialwg1/iao8wo/2033016.ts
+#EXTINF:-1 tvg-id="globonordeste.br" tvg-name="Globo Feira de Santana Bahia HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Norte-Nordeste",Globo Feira de Santana Bahia HD
+http://megaxc.ca:80/ialwg1/iao8wo/975.ts
+#EXTINF:-1 tvg-id="tvgazeta.br" tvg-name="Globo Gazeta Noroeste ES HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sudeste",Globo Gazeta Noroeste ES HD
+http://megaxc.ca:80/ialwg1/iao8wo/2043489.ts
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="Globo Guaruja HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sudeste",Globo Guaruja HD
+http://megaxc.ca:80/ialwg1/iao8wo/2043490.ts
+#EXTINF:-1 tvg-id="globobelohorizonte.br" tvg-name="Globo Ituiutaba HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sudeste",Globo Ituiutaba HD
+http://megaxc.ca:80/ialwg1/iao8wo/30915.ts
+#EXTINF:-1 tvg-id="globo.bahia.br" tvg-name="Globo Juazeiro Bahia HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Norte-Nordeste",Globo Juazeiro Bahia HD
+http://megaxc.ca:80/ialwg1/iao8wo/972.ts
+#EXTINF:-1 tvg-id="globobelohorizonte.br" tvg-name="Globo Minas +HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sudeste",Globo Minas +HD
+http://megaxc.ca:80/ialwg1/iao8wo/1068.ts
+#EXTINF:-1 tvg-id="globobelohorizonte.br" tvg-name="Globo Minas FHD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sudeste",Globo Minas FHD
+http://megaxc.ca:80/ialwg1/iao8wo/2134.ts
+#EXTINF:-1 tvg-id="globobelohorizonte.br" tvg-name="Globo Minas HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sudeste",Globo Minas HD
+http://megaxc.ca:80/ialwg1/iao8wo/293.ts
+#EXTINF:-1 tvg-id="globobelohorizonte.br" tvg-name="Globo Minas SD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sudeste",Globo Minas SD
+http://megaxc.ca:80/ialwg1/iao8wo/294.ts
+#EXTINF:-1 tvg-id="globo.natal.br" tvg-name="Globo Natal FHD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Norte-Nordeste",Globo Natal FHD
+http://megaxc.ca:80/ialwg1/iao8wo/295.ts
+#EXTINF:-1 tvg-id="globonordeste.br" tvg-name="Globo Natal HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Norte-Nordeste",Globo Natal HD
+http://megaxc.ca:80/ialwg1/iao8wo/296.ts
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="Globo News +HD" tvg-logo="http://im.robx9.top:80/images/d8b34ed87692d844ea486ebc919055fb.png" group-title="F25 M3 Noticias",Globo News +HD
+http://megaxc.ca:80/ialwg1/iao8wo/30922.ts
+#EXTINF:-1 tvg-id="globo.news.br" tvg-name="Globo News 4K" tvg-logo="http://im.robx9.top:80/images/d8b34ed87692d844ea486ebc919055fb.png" group-title="Canais | ⭐ 4K",Globo News 4K
+http://megaxc.ca:80/ialwg1/iao8wo/2108.ts
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="Globo News FHD" tvg-logo="http://im.robx9.top:80/images/d8b34ed87692d844ea486ebc919055fb.png" group-title="F25 M3 Noticias",Globo News FHD
+http://megaxc.ca:80/ialwg1/iao8wo/298.ts
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="Globo News FHD H265" tvg-logo="http://im.robx9.top:80/images/d8b34ed87692d844ea486ebc919055fb.png" group-title="F25 M3 Noticias",Globo News FHD H265
+http://megaxc.ca:80/ialwg1/iao8wo/297.ts
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="Globo News HD" tvg-logo="http://im.robx9.top:80/images/d8b34ed87692d844ea486ebc919055fb.png" group-title="F25 M3 Noticias",Globo News HD
+http://megaxc.ca:80/ialwg1/iao8wo/299.ts
+#EXTINF:-1 tvg-id="globo.nordeste.br" tvg-name="Globo Nordeste FHD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Norte-Nordeste",Globo Nordeste FHD
+http://megaxc.ca:80/ialwg1/iao8wo/928.ts
+#EXTINF:-1 tvg-id="globo.nordeste.br" tvg-name="Globo Nordeste HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Norte-Nordeste",Globo Nordeste HD
+http://megaxc.ca:80/ialwg1/iao8wo/301.ts
+#EXTINF:-1 tvg-id="globonordeste.br" tvg-name="Globo Nordeste HD²" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Norte-Nordeste",Globo Nordeste HD²
+http://megaxc.ca:80/ialwg1/iao8wo/929.ts
+#EXTINF:-1 tvg-id="globo.nordeste.br" tvg-name="Globo Nordeste SD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Norte-Nordeste",Globo Nordeste SD
+http://megaxc.ca:80/ialwg1/iao8wo/302.ts
+#EXTINF:-1 tvg-id="nsctvflorianópolis.br" tvg-name="Globo NSCTV 4K" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="Canais | ⭐ 4K",Globo NSCTV 4K
+http://megaxc.ca:80/ialwg1/iao8wo/2033015.ts
+#EXTINF:-1 tvg-id="redeamazônicamanaus.br" tvg-name="Globo Porto Velho HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Norte-Nordeste",Globo Porto Velho HD
+http://megaxc.ca:80/ialwg1/iao8wo/30962.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo Rede Amazonica Boa Vista HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Norte-Nordeste",Globo Rede Amazonica Boa Vista HD
+http://megaxc.ca:80/ialwg1/iao8wo/2109119.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo Rede Macapa FHD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Norte-Nordeste",Globo Rede Macapa FHD
+http://megaxc.ca:80/ialwg1/iao8wo/2109118.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo Rede Macapa HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Norte-Nordeste",Globo Rede Macapa HD
+http://megaxc.ca:80/ialwg1/iao8wo/2109117.ts
+#EXTINF:-1 tvg-id="tv.rio.sul.br" tvg-name="Globo Rio Sul HD²" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sudeste",Globo Rio Sul HD²
+http://megaxc.ca:80/ialwg1/iao8wo/30938.ts
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo RJ +HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sudeste",Globo RJ +HD
+http://megaxc.ca:80/ialwg1/iao8wo/1069.ts
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo RJ 4K" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="Canais | ⭐ 4K",Globo RJ 4K
+http://megaxc.ca:80/ialwg1/iao8wo/2004003.ts
+#EXTINF:-1 tvg-id="a&e.br" tvg-name="Globo RJ Alto Litoral HD²" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sudeste",Globo RJ Alto Litoral HD²
+http://megaxc.ca:80/ialwg1/iao8wo/30939.ts
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo RJ FHD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sudeste",Globo RJ FHD
+http://megaxc.ca:80/ialwg1/iao8wo/898.ts
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo RJ HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sudeste",Globo RJ HD
+http://megaxc.ca:80/ialwg1/iao8wo/899.ts
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo RJ Planicie HD²" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sudeste",Globo RJ Planicie HD²
+http://megaxc.ca:80/ialwg1/iao8wo/30941.ts
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo RJ SD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sudeste",Globo RJ SD
+http://megaxc.ca:80/ialwg1/iao8wo/1070.ts
+#EXTINF:-1 tvg-id="tv.roraima.br" tvg-name="Globo Roraima FHD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Norte-Nordeste",Globo Roraima FHD
+http://megaxc.ca:80/ialwg1/iao8wo/313.ts
+#EXTINF:-1 tvg-id="tv.roraima.br" tvg-name="Globo Roraima SD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Norte-Nordeste",Globo Roraima SD
+http://megaxc.ca:80/ialwg1/iao8wo/314.ts
+#EXTINF:-1 tvg-id="tv.santa.cruz.br" tvg-name="Globo Santa Cruz Bahia HD²" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Norte-Nordeste",Globo Santa Cruz Bahia HD²
+http://megaxc.ca:80/ialwg1/iao8wo/30945.ts
+#EXTINF:-1 tvg-id="tv.mirante.sao.luis.br" tvg-name="Globo Sao Luis Maranhao HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Norte-Nordeste",Globo Sao Luis Maranhao HD
+http://megaxc.ca:80/ialwg1/iao8wo/292.ts
+#EXTINF:-1 tvg-id="globo.sao.paulo.br" tvg-name="Globo SJRP HD²" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sudeste",Globo SJRP HD²
+http://megaxc.ca:80/ialwg1/iao8wo/30947.ts
+#EXTINF:-1 tvg-id="globo.sao.paulo.br" tvg-name="Globo SJRP SD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sudeste",Globo SJRP SD
+http://megaxc.ca:80/ialwg1/iao8wo/836.ts
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="Globo SP +HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sudeste",Globo SP +HD
+http://megaxc.ca:80/ialwg1/iao8wo/1071.ts
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="Globo SP 4K" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="Canais | ⭐ 4K",Globo SP 4K
+http://megaxc.ca:80/ialwg1/iao8wo/2105.ts
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="Globo SP FHD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sudeste",Globo SP FHD
+http://megaxc.ca:80/ialwg1/iao8wo/318.ts
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="Globo SP FHD H265" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sudeste",Globo SP FHD H265
+http://megaxc.ca:80/ialwg1/iao8wo/317.ts
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="Globo SP HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sudeste",Globo SP HD
+http://megaxc.ca:80/ialwg1/iao8wo/319.ts
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="Globo SP HD²" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sudeste",Globo SP HD²
+http://megaxc.ca:80/ialwg1/iao8wo/30949.ts
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="Globo SP SD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sudeste",Globo SP SD
+http://megaxc.ca:80/ialwg1/iao8wo/320.ts
+#EXTINF:-1 tvg-id="tvbahia.br" tvg-name="Globo Sudoeste Bahia HD²" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Norte-Nordeste",Globo Sudoeste Bahia HD²
+http://megaxc.ca:80/ialwg1/iao8wo/30814.ts
+#EXTINF:-1 tvg-id="globonordeste.br" tvg-name="Globo Tv Grande Rio FHD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Norte-Nordeste",Globo Tv Grande Rio FHD
+http://megaxc.ca:80/ialwg1/iao8wo/2051202.ts
+#EXTINF:-1 tvg-id="globonordeste.br" tvg-name="Globo Tv Grande Rio HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Norte-Nordeste",Globo Tv Grande Rio HD
+http://megaxc.ca:80/ialwg1/iao8wo/2051201.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Liberal Castanhal FHD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Norte-Nordeste",Globo TV Liberal Castanhal FHD
+http://megaxc.ca:80/ialwg1/iao8wo/2109113.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Liberal Castanhal HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Norte-Nordeste",Globo TV Liberal Castanhal HD
+http://megaxc.ca:80/ialwg1/iao8wo/2109112.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Liberal Maraba HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Norte-Nordeste",Globo TV Liberal Maraba HD
+http://megaxc.ca:80/ialwg1/iao8wo/2109110.ts
+#EXTINF:-1 tvg-id="tv.sergipe.br" tvg-name="Globo TV Sergipe +HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Norte-Nordeste",Globo TV Sergipe +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2143.ts
+#EXTINF:-1 tvg-id="tvsergipe.br" tvg-name="Globo TV Sergipe FHD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Norte-Nordeste",Globo TV Sergipe FHD
+http://megaxc.ca:80/ialwg1/iao8wo/986.ts
+#EXTINF:-1 tvg-id="globo.sao.paulo.br" tvg-name="Globo TV Vanguarda SJDC HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sudeste",Globo TV Vanguarda SJDC HD
+http://megaxc.ca:80/ialwg1/iao8wo/30967.ts
+#EXTINF:-1 tvg-id="globobelohorizonte.br" tvg-name="Globo Uberlandia HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sudeste",Globo Uberlandia HD
+http://megaxc.ca:80/ialwg1/iao8wo/189458.ts
+#EXTINF:-1 tvg-id="tvverdesmares.br" tvg-name="Globo Verdes Mares  FHD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Norte-Nordeste",Globo Verdes Mares  FHD
+http://megaxc.ca:80/ialwg1/iao8wo/944.ts
+#EXTINF:-1 tvg-id="tvverdesmares.br" tvg-name="Globo Verdes Mares HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Norte-Nordeste",Globo Verdes Mares HD
+http://megaxc.ca:80/ialwg1/iao8wo/331.ts
+#EXTINF:-1 tvg-id="tvverdesmares.br" tvg-name="Globo Verdes Mares HD²" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Norte-Nordeste",Globo Verdes Mares HD²
+http://megaxc.ca:80/ialwg1/iao8wo/30968.ts
+#EXTINF:-1 tvg-id="tvgazeta.br" tvg-name="Globo Vitória FHD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sudeste",Globo Vitória FHD
+http://megaxc.ca:80/ialwg1/iao8wo/332.ts
+#EXTINF:-1 tvg-id="tvgazeta.br" tvg-name="Globo Vitória HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sudeste",Globo Vitória HD
+http://megaxc.ca:80/ialwg1/iao8wo/333.ts
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="GloboNews SD" tvg-logo="http://im.robx9.top:80/images/d8b34ed87692d844ea486ebc919055fb.png" group-title="F25 M3 Noticias",GloboNews SD
+http://megaxc.ca:80/ialwg1/iao8wo/300.ts
+#EXTINF:-1 tvg-id="viva.br" tvg-name="GloboPlay Novelas +HD" tvg-logo="https://iili.io/FKrvbuj.png" group-title="F25 M3 Variedades",GloboPlay Novelas +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2300.ts
+#EXTINF:-1 tvg-id="viva.br" tvg-name="GloboPlay Novelas 4K" tvg-logo="https://iili.io/FKrvbuj.png" group-title="Canais | ⭐ 4K",GloboPlay Novelas 4K
+http://megaxc.ca:80/ialwg1/iao8wo/2116.ts
+#EXTINF:-1 tvg-id="viva.br" tvg-name="GloboPlay Novelas FHD" tvg-logo="https://iili.io/FKrvbuj.png" group-title="F25 M3 Variedades",GloboPlay Novelas FHD
+http://megaxc.ca:80/ialwg1/iao8wo/710.ts
+#EXTINF:-1 tvg-id="viva.br" tvg-name="GloboPlay Novelas H265" tvg-logo="https://iili.io/FKrvbuj.png" group-title="F25 M3 Variedades",GloboPlay Novelas H265
+http://megaxc.ca:80/ialwg1/iao8wo/709.ts
+#EXTINF:-1 tvg-id="viva.br" tvg-name="GloboPlay Novelas HD" tvg-logo="https://iili.io/FKrvbuj.png" group-title="F25 M3 Variedades",GloboPlay Novelas HD
+http://megaxc.ca:80/ialwg1/iao8wo/711.ts
+#EXTINF:-1 tvg-id="viva.br" tvg-name="GloboPlay Novelas SD" tvg-logo="https://iili.io/FKrvbuj.png" group-title="F25 M3 Variedades",GloboPlay Novelas SD
+http://megaxc.ca:80/ialwg1/iao8wo/712.ts
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob +HD" tvg-logo="http://im.robx9.top:80/images/2335bb633a6d768c84585e237deb8ba1.png" group-title="F25 M3 Infantil",Gloob +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2237.ts
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob FHD" tvg-logo="http://im.robx9.top:80/images/2335bb633a6d768c84585e237deb8ba1.png" group-title="F25 M3 Infantil",Gloob FHD
+http://megaxc.ca:80/ialwg1/iao8wo/335.ts
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob FHD H265" tvg-logo="http://im.robx9.top:80/images/2335bb633a6d768c84585e237deb8ba1.png" group-title="F25 M3 Infantil",Gloob FHD H265
+http://megaxc.ca:80/ialwg1/iao8wo/334.ts
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob HD" tvg-logo="http://im.robx9.top:80/images/2335bb633a6d768c84585e237deb8ba1.png" group-title="F25 M3 Infantil",Gloob HD
+http://megaxc.ca:80/ialwg1/iao8wo/336.ts
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob SD" tvg-logo="http://im.robx9.top:80/images/2335bb633a6d768c84585e237deb8ba1.png" group-title="F25 M3 Infantil",Gloob SD
+http://megaxc.ca:80/ialwg1/iao8wo/337.ts
+#EXTINF:-1 tvg-id="gloobinho.br" tvg-name="Gloobinho FHD" tvg-logo="http://im.robx9.top:80/images/918911a351d5b29b741b68282ba16536.png" group-title="F25 M3 Infantil",Gloobinho FHD
+http://megaxc.ca:80/ialwg1/iao8wo/339.ts
+#EXTINF:-1 tvg-id="gloobinho.br" tvg-name="Gloobinho FHD H265" tvg-logo="http://im.robx9.top:80/images/918911a351d5b29b741b68282ba16536.png" group-title="F25 M3 Infantil",Gloobinho FHD H265
+http://megaxc.ca:80/ialwg1/iao8wo/338.ts
+#EXTINF:-1 tvg-id="gloobinho.br" tvg-name="Gloobinho HD" tvg-logo="http://im.robx9.top:80/images/918911a351d5b29b741b68282ba16536.png" group-title="F25 M3 Infantil",Gloobinho HD
+http://megaxc.ca:80/ialwg1/iao8wo/340.ts
+#EXTINF:-1 tvg-id="gloobinho.br" tvg-name="Gloobinho SD" tvg-logo="http://im.robx9.top:80/images/918911a351d5b29b741b68282ba16536.png" group-title="F25 M3 Infantil",Gloobinho SD
+http://megaxc.ca:80/ialwg1/iao8wo/341.ts
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT +HD" tvg-logo="http://im.robx9.top:80/images/3d594cbb1e65ea9ac77be42fe32db885.png" group-title="F25 M3 Variedades",GNT +HD
+http://megaxc.ca:80/ialwg1/iao8wo/345.ts
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT FHD" tvg-logo="http://im.robx9.top:80/images/3d594cbb1e65ea9ac77be42fe32db885.png" group-title="F25 M3 Variedades",GNT FHD
+http://megaxc.ca:80/ialwg1/iao8wo/343.ts
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT FHD H265" tvg-logo="http://im.robx9.top:80/images/3d594cbb1e65ea9ac77be42fe32db885.png" group-title="F25 M3 Variedades",GNT FHD H265
+http://megaxc.ca:80/ialwg1/iao8wo/342.ts
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT HD" tvg-logo="http://im.robx9.top:80/images/3d594cbb1e65ea9ac77be42fe32db885.png" group-title="F25 M3 Variedades",GNT HD
+http://megaxc.ca:80/ialwg1/iao8wo/344.ts
+#EXTINF:-1 tvg-id="" tvg-name="GOAT 1²" tvg-logo="http://im.robx9.top:80/images/a0cd9fc77b32e92b9015f047e9f07a05.png" group-title="Canais | ⚽ PPV",GOAT 1²
+http://megaxc.ca:80/ialwg1/iao8wo/185941.ts
+#EXTINF:-1 tvg-id="" tvg-name="GOAT 2²" tvg-logo="http://im.robx9.top:80/images/a0cd9fc77b32e92b9015f047e9f07a05.png" group-title="Canais | ⚽ PPV",GOAT 2²
+http://megaxc.ca:80/ialwg1/iao8wo/185942.ts
+#EXTINF:-1 tvg-id="" tvg-name="GOAT 3²" tvg-logo="http://im.robx9.top:80/images/a0cd9fc77b32e92b9015f047e9f07a05.png" group-title="Canais | ⚽ PPV",GOAT 3²
+http://megaxc.ca:80/ialwg1/iao8wo/189118.ts
+#EXTINF:-1 tvg-id="" tvg-name="Goat 4²" tvg-logo="http://im.robx9.top:80/images/a0cd9fc77b32e92b9015f047e9f07a05.png" group-title="Canais | ⚽ PPV",Goat 4²
+http://megaxc.ca:80/ialwg1/iao8wo/2003548.ts
+#EXTINF:-1 tvg-id="" tvg-name="GOAT [Alt]" tvg-logo="http://im.robx9.top:80/images/a0cd9fc77b32e92b9015f047e9f07a05.png" group-title="Canais | ⚽ PPV",GOAT [Alt]
+http://megaxc.ca:80/ialwg1/iao8wo/189117.ts
+#EXTINF:-1 tvg-id="" tvg-name="Grjngo Filmes Faroeste" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Cine 24H",Grjngo Filmes Faroeste
+http://megaxc.ca:80/ialwg1/iao8wo/175694.ts
+#EXTINF:-1 tvg-id="" tvg-name="Guerreiros Miticos" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Guerreiros Miticos
+http://megaxc.ca:80/ialwg1/iao8wo/3227.ts
+#EXTINF:-1 tvg-id="h2.br" tvg-name="H2 +HD" tvg-logo="http://im.robx9.top:80/images/d3f0c271243a6bef5a64c58b6ec65863.png" group-title="F25 M3 Documentários",H2 +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2239.ts
+#EXTINF:-1 tvg-id="h2.br" tvg-name="H2 FHD" tvg-logo="http://im.robx9.top:80/images/124a8028634b1c534aeba67f633f1ae9.png" group-title="F25 M3 Documentários",H2 FHD
+http://megaxc.ca:80/ialwg1/iao8wo/347.ts
+#EXTINF:-1 tvg-id="h2.br" tvg-name="H2 FHD H265" tvg-logo="http://im.robx9.top:80/images/124a8028634b1c534aeba67f633f1ae9.png" group-title="F25 M3 Documentários",H2 FHD H265
+http://megaxc.ca:80/ialwg1/iao8wo/346.ts
+#EXTINF:-1 tvg-id="h2.br" tvg-name="H2 HD" tvg-logo="http://im.robx9.top:80/images/124a8028634b1c534aeba67f633f1ae9.png" group-title="F25 M3 Documentários",H2 HD
+http://megaxc.ca:80/ialwg1/iao8wo/348.ts
+#EXTINF:-1 tvg-id="h2.br" tvg-name="H2 SD" tvg-logo="http://im.robx9.top:80/images/124a8028634b1c534aeba67f633f1ae9.png" group-title="F25 M3 Documentários",H2 SD
+http://megaxc.ca:80/ialwg1/iao8wo/349.ts
+#EXTINF:-1 tvg-id="" tvg-name="Hallo Doc +HD" tvg-logo="" group-title="F25 M3 Variedades",Hallo Doc +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2077221.ts
+#EXTINF:-1 tvg-id="" tvg-name="Hallo Music +HD" tvg-logo="" group-title="F25 M3 Músicas",Hallo Music +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2077222.ts
+#EXTINF:-1 tvg-id="" tvg-name="Hallo! Dorama FHD" tvg-logo="https://iili.io/KdzVpdQ.png" group-title="F25 M3 Variedades",Hallo! Dorama FHD
+http://megaxc.ca:80/ialwg1/iao8wo/2107701.ts
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO +HD" tvg-logo="https://lh3.googleusercontent.com/-gGfVe49jgcQ/YByAyqgSoyI/AAAAAAAAJ4w/fmvtmqezypwbJ-X435aMHpWuTm2o3laNwCLcBGAsYHQ/HBO.png" group-title="F25 M3 HBO",HBO +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2240.ts
+#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 +HD" tvg-logo="https://1.bp.blogspot.com/-_2YuO9JtAzU/YBxY20s7HyI/AAAAAAAAJyE/cNvhUl1gMDoad1383JJfGTYAnFMsidOdwCLcBGAsYHQ/s0/HBO%2B2.png" group-title="F25 M3 HBO",HBO 2 +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2241.ts
+#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 4K" tvg-logo="https://1.bp.blogspot.com/-_2YuO9JtAzU/YBxY20s7HyI/AAAAAAAAJyE/cNvhUl1gMDoad1383JJfGTYAnFMsidOdwCLcBGAsYHQ/s0/HBO%2B2.png" group-title="Canais | ⭐ 4K",HBO 2 4K
+http://megaxc.ca:80/ialwg1/iao8wo/2109886.ts
+#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 FHD" tvg-logo="https://1.bp.blogspot.com/-_2YuO9JtAzU/YBxY20s7HyI/AAAAAAAAJyE/cNvhUl1gMDoad1383JJfGTYAnFMsidOdwCLcBGAsYHQ/s0/HBO%2B2.png" group-title="F25 M3 HBO",HBO 2 FHD
+http://megaxc.ca:80/ialwg1/iao8wo/351.ts
+#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 FHD H265" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgY_TFsQfUoJOIKEExsnAjX0-0NYhbaqXe3yjtnBdGfnPR9Zf50feUHV1wQL_9bcuXR7JPYN45Unnj7Ht9VcAHNAzJDjIdV4CLErQYZ_GJul5Dq4_OwN_Vm1GkIgwEpSWaAFKQ01AbzpkhE4bJI7OY9vZm3GLVoVG4Lqp6pLN79ee9aUbRZe4xabgOm" group-title="F25 M3 HBO",HBO 2 FHD H265
+http://megaxc.ca:80/ialwg1/iao8wo/350.ts
+#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 HD" tvg-logo="https://1.bp.blogspot.com/-_2YuO9JtAzU/YBxY20s7HyI/AAAAAAAAJyE/cNvhUl1gMDoad1383JJfGTYAnFMsidOdwCLcBGAsYHQ/s0/HBO%2B2.png" group-title="F25 M3 HBO",HBO 2 HD
+http://megaxc.ca:80/ialwg1/iao8wo/352.ts
+#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 SD" tvg-logo="https://1.bp.blogspot.com/-_2YuO9JtAzU/YBxY20s7HyI/AAAAAAAAJyE/cNvhUl1gMDoad1383JJfGTYAnFMsidOdwCLcBGAsYHQ/s0/HBO%2B2.png" group-title="F25 M3 HBO",HBO 2 SD
+http://megaxc.ca:80/ialwg1/iao8wo/353.ts
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO 4K" tvg-logo="http://im.robx9.top:80/images/e0ad5fb3ac36d0cc0474bbd267da1dda.png" group-title="Canais | ⭐ 4K",HBO 4K
+http://megaxc.ca:80/ialwg1/iao8wo/2133.ts
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO Family +HD" tvg-logo="https://1.bp.blogspot.com/-ozSuTrMAx1E/YBxY29N7rVI/AAAAAAAAJyI/EIXwgEGjOWs77VaHDhzPggL6XVsA59DtACLcBGAsYHQ/s0/HBO%2BFAMILY.png" group-title="F25 M3 HBO",HBO Family +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2242.ts
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO Family 4K" tvg-logo="https://1.bp.blogspot.com/-ozSuTrMAx1E/YBxY29N7rVI/AAAAAAAAJyI/EIXwgEGjOWs77VaHDhzPggL6XVsA59DtACLcBGAsYHQ/s0/HBO%2BFAMILY.png" group-title="Canais | ⭐ 4K",HBO Family 4K
+http://megaxc.ca:80/ialwg1/iao8wo/2109887.ts
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO Family FHD" tvg-logo="https://1.bp.blogspot.com/-ozSuTrMAx1E/YBxY29N7rVI/AAAAAAAAJyI/EIXwgEGjOWs77VaHDhzPggL6XVsA59DtACLcBGAsYHQ/s0/HBO%2BFAMILY.png" group-title="F25 M3 HBO",HBO Family FHD
+http://megaxc.ca:80/ialwg1/iao8wo/355.ts
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO Family FHD H265" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiPAwxnKgHLtaCKG1UP7Ofu6V5mOhlF4o9mWlvJap_UBM5Q2ARwkWI_Uq5MXHltvr0E60ljay8ibXwjstQKx_N43-27eApNup0RjQBK6QXKxuPIFEnl8-CYETQWklTXTTjSA2V7YbQnVJS49MA2wKbr-9JUbKqMFiW0dMKm8zzkWBolKUoUgeFKIrvt" group-title="F25 M3 HBO",HBO Family FHD H265
+http://megaxc.ca:80/ialwg1/iao8wo/354.ts
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO Family HD" tvg-logo="https://1.bp.blogspot.com/-ozSuTrMAx1E/YBxY29N7rVI/AAAAAAAAJyI/EIXwgEGjOWs77VaHDhzPggL6XVsA59DtACLcBGAsYHQ/s0/HBO%2BFAMILY.png" group-title="F25 M3 HBO",HBO Family HD
+http://megaxc.ca:80/ialwg1/iao8wo/999652.ts
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO Family SD" tvg-logo="https://1.bp.blogspot.com/-ozSuTrMAx1E/YBxY29N7rVI/AAAAAAAAJyI/EIXwgEGjOWs77VaHDhzPggL6XVsA59DtACLcBGAsYHQ/s0/HBO%2BFAMILY.png" group-title="F25 M3 HBO",HBO Family SD
+http://megaxc.ca:80/ialwg1/iao8wo/357.ts
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO FHD" tvg-logo="https://lh3.googleusercontent.com/-gGfVe49jgcQ/YByAyqgSoyI/AAAAAAAAJ4w/fmvtmqezypwbJ-X435aMHpWuTm2o3laNwCLcBGAsYHQ/HBO.png" group-title="F25 M3 HBO",HBO FHD
+http://megaxc.ca:80/ialwg1/iao8wo/359.ts
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO FHD H265" tvg-logo="https://lh3.googleusercontent.com/-gGfVe49jgcQ/YByAyqgSoyI/AAAAAAAAJ4w/fmvtmqezypwbJ-X435aMHpWuTm2o3laNwCLcBGAsYHQ/HBO.png" group-title="F25 M3 HBO",HBO FHD H265
+http://megaxc.ca:80/ialwg1/iao8wo/358.ts
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD" tvg-logo="https://lh3.googleusercontent.com/-gGfVe49jgcQ/YByAyqgSoyI/AAAAAAAAJ4w/fmvtmqezypwbJ-X435aMHpWuTm2o3laNwCLcBGAsYHQ/HBO.png" group-title="F25 M3 HBO",HBO HD
+http://megaxc.ca:80/ialwg1/iao8wo/360.ts
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD [LEG]" tvg-logo="https://lh3.googleusercontent.com/-gGfVe49jgcQ/YByAyqgSoyI/AAAAAAAAJ4w/fmvtmqezypwbJ-X435aMHpWuTm2o3laNwCLcBGAsYHQ/HBO.png" group-title="Canais | ✨Legendados",HBO HD [LEG]
+http://megaxc.ca:80/ialwg1/iao8wo/2108950.ts
+#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO Mundi +HD" tvg-logo="https://1.bp.blogspot.com/-rFXTA8AArtw/YBxY3ZLz_5I/AAAAAAAAJyM/ik9z1JJnR-McLHVIsgmiao1Z_PXEQkr9QCLcBGAsYHQ/s0/HBO%2BMUND.png" group-title="F25 M3 HBO",HBO Mundi +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2243.ts
+#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO Mundi 4K" tvg-logo="https://1.bp.blogspot.com/-rFXTA8AArtw/YBxY3ZLz_5I/AAAAAAAAJyM/ik9z1JJnR-McLHVIsgmiao1Z_PXEQkr9QCLcBGAsYHQ/s0/HBO%2BMUND.png" group-title="Canais | ⭐ 4K",HBO Mundi 4K
+http://megaxc.ca:80/ialwg1/iao8wo/2109888.ts
+#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO Mundi FHD" tvg-logo="https://1.bp.blogspot.com/-rFXTA8AArtw/YBxY3ZLz_5I/AAAAAAAAJyM/ik9z1JJnR-McLHVIsgmiao1Z_PXEQkr9QCLcBGAsYHQ/s0/HBO%2BMUND.png" group-title="F25 M3 HBO",HBO Mundi FHD
+http://megaxc.ca:80/ialwg1/iao8wo/369.ts
+#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO Mundi FHD H265" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEild6lvRY9UpKWuoCs60q3Q1Mrlo4Q9ZQmFMjSjJPIHkW1EYrjjJJmn5PUxI-Om63NmJ102KWzS15ryELeO5NB_Ax_9wSQC6dgQLcWQNbcXavHJ-jipzfn4gKYETnlrxeMyTzuzANIgdw9fvooP3tqDbMlVY4LJOdwZJ0FyVjEQ0o7WhRW-ffndX_b9" group-title="F25 M3 HBO",HBO Mundi FHD H265
+http://megaxc.ca:80/ialwg1/iao8wo/368.ts
+#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO Mundi HD" tvg-logo="https://1.bp.blogspot.com/-rFXTA8AArtw/YBxY3ZLz_5I/AAAAAAAAJyM/ik9z1JJnR-McLHVIsgmiao1Z_PXEQkr9QCLcBGAsYHQ/s0/HBO%2BMUND.png" group-title="F25 M3 HBO",HBO Mundi HD
+http://megaxc.ca:80/ialwg1/iao8wo/370.ts
+#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO Mundi HD [LEG]" tvg-logo="https://1.bp.blogspot.com/-rFXTA8AArtw/YBxY3ZLz_5I/AAAAAAAAJyM/ik9z1JJnR-McLHVIsgmiao1Z_PXEQkr9QCLcBGAsYHQ/s0/HBO%2BMUND.png" group-title="Canais | ✨Legendados",HBO Mundi HD [LEG]
+http://megaxc.ca:80/ialwg1/iao8wo/2108951.ts
+#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO Mundi SD" tvg-logo="https://1.bp.blogspot.com/-rFXTA8AArtw/YBxY3ZLz_5I/AAAAAAAAJyM/ik9z1JJnR-McLHVIsgmiao1Z_PXEQkr9QCLcBGAsYHQ/s0/HBO%2BMUND.png" group-title="F25 M3 HBO",HBO Mundi SD
+http://megaxc.ca:80/ialwg1/iao8wo/371.ts
+#EXTINF:-1 tvg-id="hboplus.br" tvg-name="HBO Plus +HD" tvg-logo="https://1.bp.blogspot.com/-0ZxVMtbbb5w/YBxY3bEY-aI/AAAAAAAAJyQ/2b8TcEozy40T6z1oMid2TNrANUAfN9rggCLcBGAsYHQ/s0/HBO%2BPLUS.png" group-title="F25 M3 HBO",HBO Plus +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2244.ts
+#EXTINF:-1 tvg-id="hboplus.br" tvg-name="HBO Plus FHD" tvg-logo="https://1.bp.blogspot.com/-0ZxVMtbbb5w/YBxY3bEY-aI/AAAAAAAAJyQ/2b8TcEozy40T6z1oMid2TNrANUAfN9rggCLcBGAsYHQ/s0/HBO%2BPLUS.png" group-title="F25 M3 HBO",HBO Plus FHD
+http://megaxc.ca:80/ialwg1/iao8wo/362.ts
+#EXTINF:-1 tvg-id="hboplus.br" tvg-name="HBO Plus FHD H265" tvg-logo="https://lh3.googleusercontent.com/-ALj0iny7Po4/YG3ygORG4LI/AAAAAAAAKMs/Rtaw4jBYa_g-ofOKqs1W10jpYTq6rdrkACLcBGAsYHQ/HBO%2B%252B%2BFHD%2BH.265.png" group-title="F25 M3 HBO",HBO Plus FHD H265
+http://megaxc.ca:80/ialwg1/iao8wo/361.ts
+#EXTINF:-1 tvg-id="hboplus.br" tvg-name="HBO Plus HD" tvg-logo="https://1.bp.blogspot.com/-0ZxVMtbbb5w/YBxY3bEY-aI/AAAAAAAAJyQ/2b8TcEozy40T6z1oMid2TNrANUAfN9rggCLcBGAsYHQ/s0/HBO%2BPLUS.png" group-title="F25 M3 HBO",HBO Plus HD
+http://megaxc.ca:80/ialwg1/iao8wo/363.ts
+#EXTINF:-1 tvg-id="hboplus.br" tvg-name="HBO Plus SD" tvg-logo="https://1.bp.blogspot.com/-0ZxVMtbbb5w/YBxY3bEY-aI/AAAAAAAAJyQ/2b8TcEozy40T6z1oMid2TNrANUAfN9rggCLcBGAsYHQ/s0/HBO%2BPLUS.png" group-title="F25 M3 HBO",HBO Plus SD
+http://megaxc.ca:80/ialwg1/iao8wo/999353.ts
+#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO Pop +HD" tvg-logo="https://1.bp.blogspot.com/-SpQCy6RNe6o/YBxY3rTMb5I/AAAAAAAAJyU/lH06IN9kcpcVlYsAreQAyJvFnOyWhGxyQCLcBGAsYHQ/s0/HBO%2BPOP.png" group-title="F25 M3 HBO",HBO Pop +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2245.ts
+#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO POP 4K" tvg-logo="https://1.bp.blogspot.com/-SpQCy6RNe6o/YBxY3rTMb5I/AAAAAAAAJyU/lH06IN9kcpcVlYsAreQAyJvFnOyWhGxyQCLcBGAsYHQ/s0/HBO%2BPOP.png" group-title="Canais | ⭐ 4K",HBO POP 4K
+http://megaxc.ca:80/ialwg1/iao8wo/2109889.ts
+#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO Pop FHD" tvg-logo="https://1.bp.blogspot.com/-SpQCy6RNe6o/YBxY3rTMb5I/AAAAAAAAJyU/lH06IN9kcpcVlYsAreQAyJvFnOyWhGxyQCLcBGAsYHQ/s0/HBO%2BPOP.png" group-title="F25 M3 HBO",HBO Pop FHD
+http://megaxc.ca:80/ialwg1/iao8wo/373.ts
+#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO Pop FHD H265" tvg-logo="https://lh3.googleusercontent.com/-rW0dyzjV5l4/YG3yoTrL8VI/AAAAAAAAKN8/I-9VU0dIfxMdLLGSLavsy4IBhm5vm2VUACLcBGAsYHQ/HBO%2BPOP%2BFHD%2B%2BH.265.png" group-title="F25 M3 HBO",HBO Pop FHD H265
+http://megaxc.ca:80/ialwg1/iao8wo/372.ts
+#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO Pop HD" tvg-logo="https://1.bp.blogspot.com/-SpQCy6RNe6o/YBxY3rTMb5I/AAAAAAAAJyU/lH06IN9kcpcVlYsAreQAyJvFnOyWhGxyQCLcBGAsYHQ/s0/HBO%2BPOP.png" group-title="F25 M3 HBO",HBO Pop HD
+http://megaxc.ca:80/ialwg1/iao8wo/374.ts
+#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO Pop HD [LEG]" tvg-logo="https://1.bp.blogspot.com/-SpQCy6RNe6o/YBxY3rTMb5I/AAAAAAAAJyU/lH06IN9kcpcVlYsAreQAyJvFnOyWhGxyQCLcBGAsYHQ/s0/HBO%2BPOP.png" group-title="Canais | ✨Legendados",HBO Pop HD [LEG]
+http://megaxc.ca:80/ialwg1/iao8wo/2108952.ts
+#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO Pop SD" tvg-logo="https://1.bp.blogspot.com/-0ZxVMtbbb5w/YBxY3bEY-aI/AAAAAAAAJyQ/2b8TcEozy40T6z1oMid2TNrANUAfN9rggCLcBGAsYHQ/s0/HBO%2BPLUS.png" group-title="F25 M3 HBO",HBO Pop SD
+http://megaxc.ca:80/ialwg1/iao8wo/375.ts
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO SD" tvg-logo="https://lh3.googleusercontent.com/-gGfVe49jgcQ/YByAyqgSoyI/AAAAAAAAJ4w/fmvtmqezypwbJ-X435aMHpWuTm2o3laNwCLcBGAsYHQ/HBO.png" group-title="F25 M3 HBO",HBO SD
+http://megaxc.ca:80/ialwg1/iao8wo/376.ts
+#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO Signature +HD" tvg-logo="https://iili.io/KxXJ1cJ.png" group-title="F25 M3 HBO",HBO Signature +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2246.ts
+#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO Signature 4K" tvg-logo="https://iili.io/KxXJ1cJ.png" group-title="Canais | ⭐ 4K",HBO Signature 4K
+http://megaxc.ca:80/ialwg1/iao8wo/2109890.ts
+#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO Signature FHD" tvg-logo="https://iili.io/KxXJ1cJ.png" group-title="F25 M3 HBO",HBO Signature FHD
+http://megaxc.ca:80/ialwg1/iao8wo/378.ts
+#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO Signature FHD H265" tvg-logo="https://iili.io/KxXJ1cJ.png" group-title="F25 M3 HBO",HBO Signature FHD H265
+http://megaxc.ca:80/ialwg1/iao8wo/377.ts
+#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO Signature HD" tvg-logo="https://iili.io/KxXJ1cJ.png" group-title="F25 M3 HBO",HBO Signature HD
+http://megaxc.ca:80/ialwg1/iao8wo/379.ts
+#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO Signature HD [LEG]" tvg-logo="https://iili.io/KxXJ1cJ.png" group-title="Canais | ✨Legendados",HBO Signature HD [LEG]
+http://megaxc.ca:80/ialwg1/iao8wo/2108953.ts
+#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO Signature SD" tvg-logo="https://iili.io/KxXJ1cJ.png" group-title="F25 M3 HBO",HBO Signature SD
+http://megaxc.ca:80/ialwg1/iao8wo/380.ts
+#EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBO Xtreme +HD" tvg-logo="https://iili.io/KxX92KG.png" group-title="F25 M3 HBO",HBO Xtreme +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2247.ts
+#EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBO Xtreme 4K" tvg-logo="https://iili.io/KxX92KG.png" group-title="Canais | ⭐ 4K",HBO Xtreme 4K
+http://megaxc.ca:80/ialwg1/iao8wo/2109891.ts
+#EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBO Xtreme FHD" tvg-logo="https://iili.io/KxX92KG.png" group-title="F25 M3 HBO",HBO Xtreme FHD
+http://megaxc.ca:80/ialwg1/iao8wo/382.ts
+#EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBO Xtreme FHD H265" tvg-logo="https://iili.io/KxX92KG.png" group-title="F25 M3 HBO",HBO Xtreme FHD H265
+http://megaxc.ca:80/ialwg1/iao8wo/381.ts
+#EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBO Xtreme HD" tvg-logo="https://iili.io/KxX92KG.png" group-title="F25 M3 HBO",HBO Xtreme HD
+http://megaxc.ca:80/ialwg1/iao8wo/383.ts
+#EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBO Xtreme HD [LEG]" tvg-logo="https://iili.io/KxX92KG.png" group-title="Canais | ✨Legendados",HBO Xtreme HD [LEG]
+http://megaxc.ca:80/ialwg1/iao8wo/2108954.ts
+#EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBO Xtreme SD" tvg-logo="https://iili.io/KxX92KG.png" group-title="F25 M3 HBO",HBO Xtreme SD
+http://megaxc.ca:80/ialwg1/iao8wo/384.ts
+#EXTINF:-1 tvg-id="hboplus.br" tvg-name="HBO+ 4K" tvg-logo="https://iili.io/KxXJ1cJ.png" group-title="Canais | ⭐ 4K",HBO+ 4K
+http://megaxc.ca:80/ialwg1/iao8wo/2109885.ts
+#EXTINF:-1 tvg-id="hboplus.br" tvg-name="HBO+ HD [LEG]" tvg-logo="https://lh3.googleusercontent.com/-gGfVe49jgcQ/YByAyqgSoyI/AAAAAAAAJ4w/fmvtmqezypwbJ-X435aMHpWuTm2o3laNwCLcBGAsYHQ/HBO.png" group-title="Canais | ✨Legendados",HBO+ HD [LEG]
+http://megaxc.ca:80/ialwg1/iao8wo/2108949.ts
+#EXTINF:-1 tvg-id="" tvg-name="Hey Arnold" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Hey Arnold
+http://megaxc.ca:80/ialwg1/iao8wo/3210.ts
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV +HD" tvg-logo="http://im.robx9.top:80/images/a8972e6bd401700295a9ef52b00f11c7.png" group-title="F25 M3 Documentários",HGTV +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2248.ts
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV FHD" tvg-logo="http://im.robx9.top:80/images/a8972e6bd401700295a9ef52b00f11c7.png" group-title="F25 M3 Documentários",HGTV FHD
+http://megaxc.ca:80/ialwg1/iao8wo/386.ts
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV FHD H265" tvg-logo="http://im.robx9.top:80/images/a8972e6bd401700295a9ef52b00f11c7.png" group-title="F25 M3 Documentários",HGTV FHD H265
+http://megaxc.ca:80/ialwg1/iao8wo/385.ts
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV HD" tvg-logo="http://im.robx9.top:80/images/a8972e6bd401700295a9ef52b00f11c7.png" group-title="F25 M3 Documentários",HGTV HD
+http://megaxc.ca:80/ialwg1/iao8wo/387.ts
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV SD" tvg-logo="http://im.robx9.top:80/images/a8972e6bd401700295a9ef52b00f11c7.png" group-title="F25 M3 Documentários",HGTV SD
+http://megaxc.ca:80/ialwg1/iao8wo/388.ts
+#EXTINF:-1 tvg-id="historychannel.br" tvg-name="History Channel +HD" tvg-logo="http://im.robx9.top:80/images/43f1ac6263ded5b136c8c5db73c73c6c.png" group-title="F25 M3 Documentários",History Channel +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2249.ts
+#EXTINF:-1 tvg-id="historychannel.br" tvg-name="History Channel FHD" tvg-logo="http://im.robx9.top:80/images/43f1ac6263ded5b136c8c5db73c73c6c.png" group-title="F25 M3 Documentários",History Channel FHD
+http://megaxc.ca:80/ialwg1/iao8wo/390.ts
+#EXTINF:-1 tvg-id="historychannel.br" tvg-name="History Channel FHD H265" tvg-logo="http://im.robx9.top:80/images/43f1ac6263ded5b136c8c5db73c73c6c.png" group-title="F25 M3 Documentários",History Channel FHD H265
+http://megaxc.ca:80/ialwg1/iao8wo/389.ts
+#EXTINF:-1 tvg-id="historychannel.br" tvg-name="History Channel HD" tvg-logo="http://im.robx9.top:80/images/43f1ac6263ded5b136c8c5db73c73c6c.png" group-title="F25 M3 Documentários",History Channel HD
+http://megaxc.ca:80/ialwg1/iao8wo/391.ts
+#EXTINF:-1 tvg-id="historychannel.br" tvg-name="History Channel SD" tvg-logo="http://im.robx9.top:80/images/43f1ac6263ded5b136c8c5db73c73c6c.png" group-title="F25 M3 Documentários",History Channel SD
+http://megaxc.ca:80/ialwg1/iao8wo/392.ts
+#EXTINF:-1 tvg-id="" tvg-name="Homem Aranha 2003" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Homem Aranha 2003
+http://megaxc.ca:80/ialwg1/iao8wo/3207.ts
+#EXTINF:-1 tvg-id="" tvg-name="Homem Aranha e Seus Incriveis Amigos" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Homem Aranha e Seus Incriveis Amigos
+http://megaxc.ca:80/ialwg1/iao8wo/3213.ts
+#EXTINF:-1 tvg-id="" tvg-name="Hulk" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Hulk
+http://megaxc.ca:80/ialwg1/iao8wo/3247.ts
+#EXTINF:-1 tvg-id="" tvg-name="Igreja Universal" tvg-logo="https://iili.io/Jm1fMDx.png" group-title="Canais | ⭐ Religiosos",Igreja Universal
+http://megaxc.ca:80/ialwg1/iao8wo/2033011.ts
+#EXTINF:-1 tvg-id="intertv.alto.literal.br" tvg-name="Inter TV Alto Litoral FHD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sudeste",Inter TV Alto Litoral FHD
+http://megaxc.ca:80/ialwg1/iao8wo/871.ts
+#EXTINF:-1 tvg-id="intertv.alto.literal.br" tvg-name="Inter TV Alto Litoral HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sudeste",Inter TV Alto Litoral HD
+http://megaxc.ca:80/ialwg1/iao8wo/872.ts
+#EXTINF:-1 tvg-id="intertvcabugi.br" tvg-name="Inter TV Cabugi FHD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Norte-Nordeste",Inter TV Cabugi FHD
+http://megaxc.ca:80/ialwg1/iao8wo/873.ts
+#EXTINF:-1 tvg-id="intertvcabugi.br" tvg-name="Inter TV Cabugi HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Norte-Nordeste",Inter TV Cabugi HD
+http://megaxc.ca:80/ialwg1/iao8wo/874.ts
+#EXTINF:-1 tvg-id="globo.belo.horizonte.br" tvg-name="Inter TV Dos Vales FHD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sudeste",Inter TV Dos Vales FHD
+http://megaxc.ca:80/ialwg1/iao8wo/875.ts
+#EXTINF:-1 tvg-id="intertvcabugi.br" tvg-name="InterTV Cabugi HD²" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Norte-Nordeste",InterTV Cabugi HD²
+http://megaxc.ca:80/ialwg1/iao8wo/30954.ts
+#EXTINF:-1 tvg-id="globo.belo.horizonte.br" tvg-name="InterTV dos Vales HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sudeste",InterTV dos Vales HD
+http://megaxc.ca:80/ialwg1/iao8wo/968.ts
+#EXTINF:-1 tvg-id="globo.belo.horizonte.br" tvg-name="InterTV dos Vales HD²" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sudeste",InterTV dos Vales HD²
+http://megaxc.ca:80/ialwg1/iao8wo/30916.ts
+#EXTINF:-1 tvg-id="intertvgrandeminas.br" tvg-name="InterTV Grande Minas +HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sudeste",InterTV Grande Minas +HD
+http://megaxc.ca:80/ialwg1/iao8wo/30918.ts
+#EXTINF:-1 tvg-id="intertvgrandeminas.br" tvg-name="InterTV Grande Minas FHD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sudeste",InterTV Grande Minas FHD
+http://megaxc.ca:80/ialwg1/iao8wo/876.ts
+#EXTINF:-1 tvg-id="intertvgrandeminas.br" tvg-name="InterTV Grande Minas FHD 265" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sudeste",InterTV Grande Minas FHD 265
+http://megaxc.ca:80/ialwg1/iao8wo/2126396.ts
+#EXTINF:-1 tvg-id="" tvg-name="Irmão do Jorel" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Irmão do Jorel
+http://megaxc.ca:80/ialwg1/iao8wo/2109892.ts
+#EXTINF:-1 tvg-id="" tvg-name="Jaspion" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Jaspion
+http://megaxc.ca:80/ialwg1/iao8wo/134158.ts
+#EXTINF:-1 tvg-id="" tvg-name="Jhonny Test" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Jhonny Test
+http://megaxc.ca:80/ialwg1/iao8wo/3260.ts
+#EXTINF:-1 tvg-id="" tvg-name="Jonny Quest" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Jonny Quest
+http://megaxc.ca:80/ialwg1/iao8wo/3211.ts
+#EXTINF:-1 tvg-id="" tvg-name="Jose Comilao" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Jose Comilao
+http://megaxc.ca:80/ialwg1/iao8wo/2030110.ts
+#EXTINF:-1 tvg-id="" tvg-name="Josie e as Gatinhas" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Josie e as Gatinhas
+http://megaxc.ca:80/ialwg1/iao8wo/3328.ts
+#EXTINF:-1 tvg-id="" tvg-name="Josie e as Gatinhas" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Josie e as Gatinhas
+http://megaxc.ca:80/ialwg1/iao8wo/3248.ts
+#EXTINF:-1 tvg-id="jovempannews.br" tvg-name="Jovem Pan News +HD" tvg-logo="http://im.robx9.top:80/images/d40cd999bbe33646baae5321cf3af692.png" group-title="F25 M3 Noticias",Jovem Pan News +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2251.ts
+#EXTINF:-1 tvg-id="jovempannews.br" tvg-name="Jovem Pan News 4K" tvg-logo="http://im.robx9.top:80/images/d40cd999bbe33646baae5321cf3af692.png" group-title="Canais | ⭐ 4K",Jovem Pan News 4K
+http://megaxc.ca:80/ialwg1/iao8wo/2103.ts
+#EXTINF:-1 tvg-id="jovempannews.br" tvg-name="Jovem Pan News FHD" tvg-logo="http://im.robx9.top:80/images/d40cd999bbe33646baae5321cf3af692.png" group-title="F25 M3 Noticias",Jovem Pan News FHD
+http://megaxc.ca:80/ialwg1/iao8wo/398.ts
+#EXTINF:-1 tvg-id="jovempannews.br" tvg-name="Jovem Pan News FHD H265" tvg-logo="http://im.robx9.top:80/images/d40cd999bbe33646baae5321cf3af692.png" group-title="F25 M3 Noticias",Jovem Pan News FHD H265
+http://megaxc.ca:80/ialwg1/iao8wo/397.ts
+#EXTINF:-1 tvg-id="jovempannews.br" tvg-name="Jovem Pan News HD" tvg-logo="http://im.robx9.top:80/images/d40cd999bbe33646baae5321cf3af692.png" group-title="F25 M3 Noticias",Jovem Pan News HD
+http://megaxc.ca:80/ialwg1/iao8wo/399.ts
+#EXTINF:-1 tvg-id="jovempannews.br" tvg-name="Jovem Pan News SD" tvg-logo="http://im.robx9.top:80/images/d40cd999bbe33646baae5321cf3af692.png" group-title="F25 M3 Noticias",Jovem Pan News SD
+http://megaxc.ca:80/ialwg1/iao8wo/400.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kamen Rider" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Kamen Rider
+http://megaxc.ca:80/ialwg1/iao8wo/134159.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kenal e Kel S01" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",Kenal e Kel S01
+http://megaxc.ca:80/ialwg1/iao8wo/3185.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kenan e Kel" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",Kenan e Kel
+http://megaxc.ca:80/ialwg1/iao8wo/181877.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kids Mais" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Kids Mais
+http://megaxc.ca:80/ialwg1/iao8wo/2033012.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kids Mais" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Kids Mais
+http://megaxc.ca:80/ialwg1/iao8wo/3320.ts
+#EXTINF:-1 tvg-id="" tvg-name="Laboratorio Submarino" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Laboratorio Submarino
+http://megaxc.ca:80/ialwg1/iao8wo/3250.ts
+#EXTINF:-1 tvg-id="" tvg-name="Leao da Montanha" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Leao da Montanha
+http://megaxc.ca:80/ialwg1/iao8wo/3254.ts
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="Lifetime +HD" tvg-logo="http://im.robx9.top:80/images/d5e2694f4d0a9b8516d342357adb8a99.png" group-title="F25 M3 Variedades",Lifetime +HD
+http://megaxc.ca:80/ialwg1/iao8wo/404.ts
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="Lifetime FHD" tvg-logo="http://im.robx9.top:80/images/d5e2694f4d0a9b8516d342357adb8a99.png" group-title="F25 M3 Variedades",Lifetime FHD
+http://megaxc.ca:80/ialwg1/iao8wo/402.ts
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="Lifetime FHD H265" tvg-logo="http://im.robx9.top:80/images/d5e2694f4d0a9b8516d342357adb8a99.png" group-title="F25 M3 Variedades",Lifetime FHD H265
+http://megaxc.ca:80/ialwg1/iao8wo/401.ts
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="Lifetime HD" tvg-logo="http://im.robx9.top:80/images/d5e2694f4d0a9b8516d342357adb8a99.png" group-title="F25 M3 Variedades",Lifetime HD
+http://megaxc.ca:80/ialwg1/iao8wo/403.ts
+#EXTINF:-1 tvg-id="" tvg-name="Liga Futsal 1 HD" tvg-logo="https://tvnsports-assets.s3.sa-east-1.amazonaws.com/App/Channel/000/000/005/pwa_logo/120/logo-lnftv.png" group-title="Canais | ⚽ PPV",Liga Futsal 1 HD
+http://megaxc.ca:80/ialwg1/iao8wo/201689.ts
+#EXTINF:-1 tvg-id="" tvg-name="Like +HD" tvg-logo="https://canallike.com.br/wp-content/uploads/2020/12/canal-like-logo.png" group-title="F25 M3 Variedades",Like +HD
+http://megaxc.ca:80/ialwg1/iao8wo/198046.ts
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature FHD" tvg-logo="https://www.mygreenpod.com/wp-content/uploads/2019/04/Love-Nature-Logo.jpg" group-title="F25 M3 Documentários",Love Nature FHD
+http://megaxc.ca:80/ialwg1/iao8wo/2033029.ts
+#EXTINF:-1 tvg-id="" tvg-name="Luluzinha" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Luluzinha
+http://megaxc.ca:80/ialwg1/iao8wo/3212.ts
+#EXTINF:-1 tvg-id="" tvg-name="Malhação Fast HD" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",Malhação Fast HD
+http://megaxc.ca:80/ialwg1/iao8wo/198695.ts
+#EXTINF:-1 tvg-id="" tvg-name="Manda Chuva" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Manda Chuva
+http://megaxc.ca:80/ialwg1/iao8wo/173535.ts
+#EXTINF:-1 tvg-id="" tvg-name="Markket FHD" tvg-logo="http://im.robx9.top:80/images/093535df4939c0093528d24927ac086d.png" group-title="F25 M3 Variedades",Markket FHD
+http://megaxc.ca:80/ialwg1/iao8wo/413.ts
+#EXTINF:-1 tvg-id="" tvg-name="Markket HD" tvg-logo="http://im.robx9.top:80/images/093535df4939c0093528d24927ac086d.png" group-title="F25 M3 Variedades",Markket HD
+http://megaxc.ca:80/ialwg1/iao8wo/412.ts
+#EXTINF:-1 tvg-id="" tvg-name="Marvel - Falcao e Soldado Invernal S01" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Cine 24H",Marvel - Falcao e Soldado Invernal S01
+http://megaxc.ca:80/ialwg1/iao8wo/24406.ts
+#EXTINF:-1 tvg-id="" tvg-name="Masha e o Urso" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Masha e o Urso
+http://megaxc.ca:80/ialwg1/iao8wo/2048679.ts
+#EXTINF:-1 tvg-id="" tvg-name="MasterChef Brasil 1 e 2" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",MasterChef Brasil 1 e 2
+http://megaxc.ca:80/ialwg1/iao8wo/184462.ts
+#EXTINF:-1 tvg-id="" tvg-name="MasterChef Brasil 3 e 4" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",MasterChef Brasil 3 e 4
+http://megaxc.ca:80/ialwg1/iao8wo/184576.ts
+#EXTINF:-1 tvg-id="" tvg-name="Matracatrica e Fofoquinha" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Matracatrica e Fofoquinha
+http://megaxc.ca:80/ialwg1/iao8wo/3339.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 01 HD" tvg-logo="http://im.robx9.top:80/images/05c7428b84876c9327d875c2653dc95e.png" group-title="Canais | ⚽ Max",MAX 01 HD
+http://megaxc.ca:80/ialwg1/iao8wo/86695.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 02 HD" tvg-logo="http://im.robx9.top:80/images/05c7428b84876c9327d875c2653dc95e.png" group-title="Canais | ⚽ Max",MAX 02 HD
+http://megaxc.ca:80/ialwg1/iao8wo/86696.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 03 HD" tvg-logo="http://im.robx9.top:80/images/05c7428b84876c9327d875c2653dc95e.png" group-title="Canais | ⚽ Max",MAX 03 HD
+http://megaxc.ca:80/ialwg1/iao8wo/86697.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 04 HD" tvg-logo="http://im.robx9.top:80/images/05c7428b84876c9327d875c2653dc95e.png" group-title="Canais | ⚽ Max",MAX 04 HD
+http://megaxc.ca:80/ialwg1/iao8wo/86698.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 05 HD" tvg-logo="http://im.robx9.top:80/images/05c7428b84876c9327d875c2653dc95e.png" group-title="Canais | ⚽ Max",MAX 05 HD
+http://megaxc.ca:80/ialwg1/iao8wo/86699.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 06 HD" tvg-logo="http://im.robx9.top:80/images/05c7428b84876c9327d875c2653dc95e.png" group-title="Canais | ⚽ Max",MAX 06 HD
+http://megaxc.ca:80/ialwg1/iao8wo/2075596.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 07 HD" tvg-logo="http://im.robx9.top:80/images/05c7428b84876c9327d875c2653dc95e.png" group-title="Canais | ⚽ Max",MAX 07 HD
+http://megaxc.ca:80/ialwg1/iao8wo/2075597.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 08 HD" tvg-logo="http://im.robx9.top:80/images/05c7428b84876c9327d875c2653dc95e.png" group-title="Canais | ⚽ Max",MAX 08 HD
+http://megaxc.ca:80/ialwg1/iao8wo/2075598.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 09 HD" tvg-logo="http://im.robx9.top:80/images/05c7428b84876c9327d875c2653dc95e.png" group-title="Canais | ⚽ Max",MAX 09 HD
+http://megaxc.ca:80/ialwg1/iao8wo/2075599.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 1 HD²" tvg-logo="http://im.robx9.top:80/images/05c7428b84876c9327d875c2653dc95e.png" group-title="Canais | ⚽ Max",MAX 1 HD²
+http://megaxc.ca:80/ialwg1/iao8wo/86701.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 10 HD" tvg-logo="http://im.robx9.top:80/images/05c7428b84876c9327d875c2653dc95e.png" group-title="Canais | ⚽ Max",MAX 10 HD
+http://megaxc.ca:80/ialwg1/iao8wo/2075600.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 12 HD" tvg-logo="http://im.robx9.top:80/images/05c7428b84876c9327d875c2653dc95e.png" group-title="Canais | ⚽ Max",MAX 12 HD
+http://megaxc.ca:80/ialwg1/iao8wo/2075602.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 2 HD²" tvg-logo="http://im.robx9.top:80/images/05c7428b84876c9327d875c2653dc95e.png" group-title="Canais | ⚽ Max",MAX 2 HD²
+http://megaxc.ca:80/ialwg1/iao8wo/30984.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 3 HD²" tvg-logo="http://im.robx9.top:80/images/05c7428b84876c9327d875c2653dc95e.png" group-title="Canais | ⚽ Max",MAX 3 HD²
+http://megaxc.ca:80/ialwg1/iao8wo/30985.ts
+#EXTINF:-1 tvg-id="" tvg-name="Megaman" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Megaman
+http://megaxc.ca:80/ialwg1/iao8wo/3214.ts
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix +HD" tvg-logo="http://im.robx9.top:80/images/06853ea758cbc3864417bd2927656aef.png" group-title="F25 M3 Filmes e Séries",Megapix +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2253.ts
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix FHD" tvg-logo="http://im.robx9.top:80/images/06853ea758cbc3864417bd2927656aef.png" group-title="F25 M3 Filmes e Séries",Megapix FHD
+http://megaxc.ca:80/ialwg1/iao8wo/419.ts
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix FHD [H265]" tvg-logo="http://im.robx9.top:80/images/06853ea758cbc3864417bd2927656aef.png" group-title="F25 M3 Filmes e Séries",Megapix FHD [H265]
+http://megaxc.ca:80/ialwg1/iao8wo/418.ts
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix HD" tvg-logo="http://im.robx9.top:80/images/06853ea758cbc3864417bd2927656aef.png" group-title="F25 M3 Filmes e Séries",Megapix HD
+http://megaxc.ca:80/ialwg1/iao8wo/420.ts
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix HD [LEG]" tvg-logo="http://im.robx9.top:80/images/06853ea758cbc3864417bd2927656aef.png" group-title="Canais | ✨Legendados",Megapix HD [LEG]
+http://megaxc.ca:80/ialwg1/iao8wo/2108955.ts
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix SD" tvg-logo="http://im.robx9.top:80/images/06853ea758cbc3864417bd2927656aef.png" group-title="F25 M3 Filmes e Séries",Megapix SD
+http://megaxc.ca:80/ialwg1/iao8wo/421.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mia Khalifa 2" tvg-logo="http://im.robx9.top:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",Mia Khalifa 2
+http://megaxc.ca:80/ialwg1/iao8wo/88645.ts
+#EXTINF:-1 tvg-id="progadultos" tvg-name="Mia Khalifa 24hrs" tvg-logo="http://im.robx9.top:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",Mia Khalifa 24hrs
+http://megaxc.ca:80/ialwg1/iao8wo/88644.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mickey Mouse Preto e Branco" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Mickey Mouse Preto e Branco
+http://megaxc.ca:80/ialwg1/iao8wo/2083795.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mini Polegar e Yogui" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Mini Polegar e Yogui
+http://megaxc.ca:80/ialwg1/iao8wo/3244.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mister Magoo" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Mister Magoo
+http://megaxc.ca:80/ialwg1/iao8wo/3251.ts
+#EXTINF:-1 tvg-id="Modo.Viagem.br" tvg-name="Modo Viagem +HD" tvg-logo="http://im.robx9.top:80/images/6c2f1670b4cc38d0c5f3a59b1837e941.png" group-title="F25 M3 Variedades",Modo Viagem +HD
+http://megaxc.ca:80/ialwg1/iao8wo/31002.ts
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="Modo Viagem FHD" tvg-logo="http://im.robx9.top:80/images/6c2f1670b4cc38d0c5f3a59b1837e941.png" group-title="F25 M3 Variedades",Modo Viagem FHD
+http://megaxc.ca:80/ialwg1/iao8wo/415.ts
+#EXTINF:-1 tvg-id="" tvg-name="Modo Viagem FHD H265" tvg-logo="http://im.robx9.top:80/images/6c2f1670b4cc38d0c5f3a59b1837e941.png" group-title="F25 M3 Variedades",Modo Viagem FHD H265
+http://megaxc.ca:80/ialwg1/iao8wo/414.ts
+#EXTINF:-1 tvg-id="" tvg-name="Modo Viagem HD" tvg-logo="http://im.robx9.top:80/images/6c2f1670b4cc38d0c5f3a59b1837e941.png" group-title="F25 M3 Variedades",Modo Viagem HD
+http://megaxc.ca:80/ialwg1/iao8wo/416.ts
+#EXTINF:-1 tvg-id="" tvg-name="Modo Viagem SD" tvg-logo="http://im.robx9.top:80/images/6c2f1670b4cc38d0c5f3a59b1837e941.png" group-title="F25 M3 Variedades",Modo Viagem SD
+http://megaxc.ca:80/ialwg1/iao8wo/417.ts
+#EXTINF:-1 tvg-id="" tvg-name="Moranguinho" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Moranguinho
+http://megaxc.ca:80/ialwg1/iao8wo/3258.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mortal Kombat" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Mortal Kombat
+http://megaxc.ca:80/ialwg1/iao8wo/3217.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mr.Bean" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",Mr.Bean
+http://megaxc.ca:80/ialwg1/iao8wo/173534.ts
+#EXTINF:-1 tvg-id="MTV.00s.br" tvg-name="MTV '00 +HD" tvg-logo="http://im.robx9.top:80/images/8a53e0a2194f6a8f607a710700a5647e.png" group-title="F25 M3 Músicas",MTV '00 +HD
+http://megaxc.ca:80/ialwg1/iao8wo/424.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV '00 FHD" tvg-logo="http://im.robx9.top:80/images/8a53e0a2194f6a8f607a710700a5647e.png" group-title="F25 M3 Músicas",MTV '00 FHD
+http://megaxc.ca:80/ialwg1/iao8wo/423.ts
+#EXTINF:-1 tvg-id="mtv.brasil.br" tvg-name="MTV '00 FHD H265" tvg-logo="http://im.robx9.top:80/images/8a53e0a2194f6a8f607a710700a5647e.png" group-title="F25 M3 Músicas",MTV '00 FHD H265
+http://megaxc.ca:80/ialwg1/iao8wo/422.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV '00 SD" tvg-logo="http://im.robx9.top:80/images/8a53e0a2194f6a8f607a710700a5647e.png" group-title="F25 M3 Músicas",MTV '00 SD
+http://megaxc.ca:80/ialwg1/iao8wo/425.ts
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV FHD" tvg-logo="https://acstatic.co/logos/canais/mtv.png" group-title="F25 M3 Músicas",MTV FHD
+http://megaxc.ca:80/ialwg1/iao8wo/427.ts
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV FHD H265" tvg-logo="https://acstatic.co/logos/canais/mtv.png" group-title="F25 M3 Músicas",MTV FHD H265
+http://megaxc.ca:80/ialwg1/iao8wo/426.ts
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV HD" tvg-logo="https://acstatic.co/logos/canais/mtv.png" group-title="F25 M3 Músicas",MTV HD
+http://megaxc.ca:80/ialwg1/iao8wo/428.ts
+#EXTINF:-1 tvg-id="mtv.live.br" tvg-name="MTV Live FHD" tvg-logo="http://im.robx9.top:80/images/ce744bf9c64fea31861df85c73379d72.png" group-title="F25 M3 Músicas",MTV Live FHD
+http://megaxc.ca:80/ialwg1/iao8wo/430.ts
+#EXTINF:-1 tvg-id="mtv.live.br" tvg-name="MTV Live FHD H265" tvg-logo="http://im.robx9.top:80/images/ce744bf9c64fea31861df85c73379d72.png" group-title="F25 M3 Músicas",MTV Live FHD H265
+http://megaxc.ca:80/ialwg1/iao8wo/429.ts
+#EXTINF:-1 tvg-id="mtv.live.br" tvg-name="MTV Live HD" tvg-logo="http://im.robx9.top:80/images/ce744bf9c64fea31861df85c73379d72.png" group-title="F25 M3 Músicas",MTV Live HD
+http://megaxc.ca:80/ialwg1/iao8wo/431.ts
+#EXTINF:-1 tvg-id="mtv.live.br" tvg-name="MTV Live SD" tvg-logo="http://im.robx9.top:80/images/ce744bf9c64fea31861df85c73379d72.png" group-title="F25 M3 Músicas",MTV Live SD
+http://megaxc.ca:80/ialwg1/iao8wo/432.ts
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV SD" tvg-logo="https://acstatic.co/logos/canais/mtv.png" group-title="F25 M3 Músicas",MTV SD
+http://megaxc.ca:80/ialwg1/iao8wo/433.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mulheres do Sertanejo 2023" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Músicas 24H",Mulheres do Sertanejo 2023
+http://megaxc.ca:80/ialwg1/iao8wo/185314.ts
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="Multishow +HD" tvg-logo="https://acstatic.co/logos/canais/multishow.png" group-title="F25 M3 Músicas",Multishow +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2255.ts
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="Multishow 4K" tvg-logo="http://im.robx9.top:80/images/a2a19071ba2ca312ce66b902ebb23928.png" group-title="Canais | ⭐ 4K",Multishow 4K
+http://megaxc.ca:80/ialwg1/iao8wo/2131.ts
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="Multishow FHD" tvg-logo="https://acstatic.co/logos/canais/multishow.png" group-title="F25 M3 Músicas",Multishow FHD
+http://megaxc.ca:80/ialwg1/iao8wo/435.ts
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="Multishow FHD H265" tvg-logo="https://acstatic.co/logos/canais/multishow.png" group-title="F25 M3 Músicas",Multishow FHD H265
+http://megaxc.ca:80/ialwg1/iao8wo/434.ts
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="Multishow HD" tvg-logo="https://acstatic.co/logos/canais/multishow.png" group-title="F25 M3 Músicas",Multishow HD
+http://megaxc.ca:80/ialwg1/iao8wo/436.ts
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="Multishow SD" tvg-logo="https://acstatic.co/logos/canais/multishow.png" group-title="F25 M3 Músicas",Multishow SD
+http://megaxc.ca:80/ialwg1/iao8wo/437.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mundo Bita" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Mundo Bita
+http://megaxc.ca:80/ialwg1/iao8wo/197263.ts
+#EXTINF:-1 tvg-id="musicboxbrasil.br" tvg-name="Music Box Brasil HD²" tvg-logo="http://im.robx9.top:80/images/904a45c1c3dd8d90570cffe5bd4ecade.png" group-title="F25 M3 Músicas",Music Box Brasil HD²
+http://megaxc.ca:80/ialwg1/iao8wo/31008.ts
+#EXTINF:-1 tvg-id="" tvg-name="Music Box Brazil +HD" tvg-logo="http://im.robx9.top:80/images/904a45c1c3dd8d90570cffe5bd4ecade.png" group-title="F25 M3 Músicas",Music Box Brazil +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2039335.ts
+#EXTINF:-1 tvg-id="music.box.brasil.br" tvg-name="Music Box Brazil FHD" tvg-logo="http://im.robx9.top:80/images/904a45c1c3dd8d90570cffe5bd4ecade.png" group-title="F25 M3 Músicas",Music Box Brazil FHD
+http://megaxc.ca:80/ialwg1/iao8wo/438.ts
+#EXTINF:-1 tvg-id="music.box.brasil.br" tvg-name="Music Box Brazil HD" tvg-logo="http://im.robx9.top:80/images/904a45c1c3dd8d90570cffe5bd4ecade.png" group-title="F25 M3 Músicas",Music Box Brazil HD
+http://megaxc.ca:80/ialwg1/iao8wo/439.ts
+#EXTINF:-1 tvg-id="" tvg-name="My Little Pony" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",My Little Pony
+http://megaxc.ca:80/ialwg1/iao8wo/3225.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mighty Express" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Mighty Express
+http://megaxc.ca:80/ialwg1/iao8wo/2116694.ts
+#EXTINF:-1 tvg-id="" tvg-name="Musicas - Pagode 2" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Músicas 24H",Musicas - Pagode 2
+http://megaxc.ca:80/ialwg1/iao8wo/193116.ts
+#EXTINF:-1 tvg-id="" tvg-name="MyTime Movie Network" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",MyTime Movie Network
+http://megaxc.ca:80/ialwg1/iao8wo/2113370.ts
+#EXTINF:-1 tvg-id="" tvg-name="MyTime Movies" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Cine 24H",MyTime Movies
+http://megaxc.ca:80/ialwg1/iao8wo/175696.ts
+#EXTINF:-1 tvg-id="" tvg-name="Músicas - Eletrônica" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Músicas 24H",Músicas - Eletrônica
+http://megaxc.ca:80/ialwg1/iao8wo/3280.ts
+#EXTINF:-1 tvg-id="" tvg-name="Músicas - Forró" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Músicas 24H",Músicas - Forró
+http://megaxc.ca:80/ialwg1/iao8wo/3281.ts
+#EXTINF:-1 tvg-id="" tvg-name="Músicas - Funk" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Músicas 24H",Músicas - Funk
+http://megaxc.ca:80/ialwg1/iao8wo/3282.ts
+#EXTINF:-1 tvg-id="" tvg-name="Músicas - Funk Antigo" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Músicas 24H",Músicas - Funk Antigo
+http://megaxc.ca:80/ialwg1/iao8wo/47170.ts
+#EXTINF:-1 tvg-id="" tvg-name="Músicas - Gospel" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Músicas 24H",Músicas - Gospel
+http://megaxc.ca:80/ialwg1/iao8wo/3283.ts
+#EXTINF:-1 tvg-id="" tvg-name="Músicas - Linkin Park" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Músicas 24H",Músicas - Linkin Park
+http://megaxc.ca:80/ialwg1/iao8wo/47168.ts
+#EXTINF:-1 tvg-id="" tvg-name="Músicas - Pagode 1" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Músicas 24H",Músicas - Pagode 1
+http://megaxc.ca:80/ialwg1/iao8wo/3284.ts
+#EXTINF:-1 tvg-id="" tvg-name="Músicas - Pop" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Músicas 24H",Músicas - Pop
+http://megaxc.ca:80/ialwg1/iao8wo/3285.ts
+#EXTINF:-1 tvg-id="" tvg-name="Músicas - Pop Nacional" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Músicas 24H",Músicas - Pop Nacional
+http://megaxc.ca:80/ialwg1/iao8wo/3286.ts
+#EXTINF:-1 tvg-id="" tvg-name="Músicas - Rap" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Músicas 24H",Músicas - Rap
+http://megaxc.ca:80/ialwg1/iao8wo/3287.ts
+#EXTINF:-1 tvg-id="" tvg-name="Músicas - Sertanejo" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Músicas 24H",Músicas - Sertanejo
+http://megaxc.ca:80/ialwg1/iao8wo/3288.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nadson O Ferinha" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Músicas 24H",Nadson O Ferinha
+http://megaxc.ca:80/ialwg1/iao8wo/185313.ts
+#EXTINF:-1 tvg-id="" tvg-name="Narcos Completo" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",Narcos Completo
+http://megaxc.ca:80/ialwg1/iao8wo/3267.ts
+#EXTINF:-1 tvg-id="" tvg-name="Naruto" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Naruto
+http://megaxc.ca:80/ialwg1/iao8wo/3219.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA - 01²" tvg-logo="http://im.robx9.top:80/images/93c41f49d8be08de093018a5059536ca.png" group-title="Canais | ⛹️ NBA",NBA - 01²
+http://megaxc.ca:80/ialwg1/iao8wo/196173.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA - 02²" tvg-logo="http://im.robx9.top:80/images/93c41f49d8be08de093018a5059536ca.png" group-title="Canais | ⛹️ NBA",NBA - 02²
+http://megaxc.ca:80/ialwg1/iao8wo/31015.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA - 03²" tvg-logo="http://im.robx9.top:80/images/93c41f49d8be08de093018a5059536ca.png" group-title="Canais | ⛹️ NBA",NBA - 03²
+http://megaxc.ca:80/ialwg1/iao8wo/31014.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA - 04²" tvg-logo="http://im.robx9.top:80/images/93c41f49d8be08de093018a5059536ca.png" group-title="Canais | ⛹️ NBA",NBA - 04²
+http://megaxc.ca:80/ialwg1/iao8wo/2012268.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA LEAGUE PASS 01 HD¹" tvg-logo="http://im.robx9.top:80/images/93c41f49d8be08de093018a5059536ca.png" group-title="Canais | ⛹️ NBA",NBA LEAGUE PASS 01 HD¹
+http://megaxc.ca:80/ialwg1/iao8wo/189991.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA LEAGUE PASS 02 HD" tvg-logo="http://im.robx9.top:80/images/93c41f49d8be08de093018a5059536ca.png" group-title="Canais | ⛹️ NBA",NBA LEAGUE PASS 02 HD
+http://megaxc.ca:80/ialwg1/iao8wo/189992.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA LEAGUE PASS 03 HD¹" tvg-logo="http://im.robx9.top:80/images/93c41f49d8be08de093018a5059536ca.png" group-title="Canais | ⛹️ NBA",NBA LEAGUE PASS 03 HD¹
+http://megaxc.ca:80/ialwg1/iao8wo/189993.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA LEAGUE PASS 04 HD¹" tvg-logo="http://im.robx9.top:80/images/93c41f49d8be08de093018a5059536ca.png" group-title="Canais | ⛹️ NBA",NBA LEAGUE PASS 04 HD¹
+http://megaxc.ca:80/ialwg1/iao8wo/189990.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA LEAGUE PASS 05 HD¹" tvg-logo="http://im.robx9.top:80/images/93c41f49d8be08de093018a5059536ca.png" group-title="Canais | ⛹️ NBA",NBA LEAGUE PASS 05 HD¹
+http://megaxc.ca:80/ialwg1/iao8wo/189989.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA LEAGUE PASS 06 HD¹" tvg-logo="http://im.robx9.top:80/images/93c41f49d8be08de093018a5059536ca.png" group-title="Canais | ⛹️ NBA",NBA LEAGUE PASS 06 HD¹
+http://megaxc.ca:80/ialwg1/iao8wo/189988.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA LEAGUE PASS 08 HD¹" tvg-logo="http://im.robx9.top:80/images/93c41f49d8be08de093018a5059536ca.png" group-title="Canais | ⛹️ NBA",NBA LEAGUE PASS 08 HD¹
+http://megaxc.ca:80/ialwg1/iao8wo/189986.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA LEAGUE PASS 09 HD¹" tvg-logo="http://im.robx9.top:80/images/93c41f49d8be08de093018a5059536ca.png" group-title="Canais | ⛹️ NBA",NBA LEAGUE PASS 09 HD¹
+http://megaxc.ca:80/ialwg1/iao8wo/189985.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA LEAGUE PASS 10 HD¹" tvg-logo="http://im.robx9.top:80/images/93c41f49d8be08de093018a5059536ca.png" group-title="Canais | ⛹️ NBA",NBA LEAGUE PASS 10 HD¹
+http://megaxc.ca:80/ialwg1/iao8wo/189984.ts
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Live 1 HD" tvg-logo="" group-title="Canais | ⚽ PPV",Netflix Live 1 HD
+http://megaxc.ca:80/ialwg1/iao8wo/2053802.ts
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Live 2" tvg-logo="" group-title="Canais | ⚽ PPV",Netflix Live 2
+http://megaxc.ca:80/ialwg1/iao8wo/2053967.ts
+#EXTINF:-1 tvg-id="nhk.br" tvg-name="NHK HD" tvg-logo="http://im.robx9.top:80/images/5a06dd2968eb2c950344ea6eee534083.png" group-title="F25 M3 Noticias",NHK HD
+http://megaxc.ca:80/ialwg1/iao8wo/445.ts
+#EXTINF:-1 tvg-id="nhk.br" tvg-name="NHK SD" tvg-logo="http://im.robx9.top:80/images/5a06dd2968eb2c950344ea6eee534083.png" group-title="F25 M3 Noticias",NHK SD
+http://megaxc.ca:80/ialwg1/iao8wo/446.ts
+#EXTINF:-1 tvg-id="nhk.br" tvg-name="NHK World" tvg-logo="http://im.robx9.top:80/images/8d3c942bcca3b2afe7f39ce9cd6a21a1.png" group-title="F25 M3 Variedades",NHK World
+http://megaxc.ca:80/ialwg1/iao8wo/2257.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nick Classico" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Nick Classico
+http://megaxc.ca:80/ialwg1/iao8wo/3335.ts
+#EXTINF:-1 tvg-id="nickjr.br" tvg-name="Nick JR +HD" tvg-logo="http://im.robx9.top:80/images/8c32b08aa17946b57f6ccbb8f1c40c08.png" group-title="F25 M3 Infantil",Nick JR +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2258.ts
+#EXTINF:-1 tvg-id="nickjr.br" tvg-name="Nick JR FHD" tvg-logo="http://im.robx9.top:80/images/8c32b08aa17946b57f6ccbb8f1c40c08.png" group-title="F25 M3 Infantil",Nick JR FHD
+http://megaxc.ca:80/ialwg1/iao8wo/448.ts
+#EXTINF:-1 tvg-id="nickjr.br" tvg-name="Nick JR FHD H265" tvg-logo="http://im.robx9.top:80/images/8c32b08aa17946b57f6ccbb8f1c40c08.png" group-title="F25 M3 Infantil",Nick JR FHD H265
+http://megaxc.ca:80/ialwg1/iao8wo/447.ts
+#EXTINF:-1 tvg-id="nickjr.br" tvg-name="Nick JR HD" tvg-logo="http://im.robx9.top:80/images/8c32b08aa17946b57f6ccbb8f1c40c08.png" group-title="F25 M3 Infantil",Nick JR HD
+http://megaxc.ca:80/ialwg1/iao8wo/449.ts
+#EXTINF:-1 tvg-id="nickjr.br" tvg-name="Nick JR SD" tvg-logo="http://im.robx9.top:80/images/8c32b08aa17946b57f6ccbb8f1c40c08.png" group-title="F25 M3 Infantil",Nick JR SD
+http://megaxc.ca:80/ialwg1/iao8wo/450.ts
+#EXTINF:-1 tvg-id="nick.br" tvg-name="Nickelodeon +HD" tvg-logo="http://im.robx9.top:80/images/9002e4af0740d0d3890db447277f0a4c.png" group-title="F25 M3 Infantil",Nickelodeon +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2259.ts
+#EXTINF:-1 tvg-id="nick.br" tvg-name="Nickelodeon FHD" tvg-logo="http://im.robx9.top:80/images/9002e4af0740d0d3890db447277f0a4c.png" group-title="F25 M3 Infantil",Nickelodeon FHD
+http://megaxc.ca:80/ialwg1/iao8wo/452.ts
+#EXTINF:-1 tvg-id="nick.br" tvg-name="Nickelodeon FHD H265" tvg-logo="http://im.robx9.top:80/images/9002e4af0740d0d3890db447277f0a4c.png" group-title="F25 M3 Infantil",Nickelodeon FHD H265
+http://megaxc.ca:80/ialwg1/iao8wo/451.ts
+#EXTINF:-1 tvg-id="nick.br" tvg-name="Nickelodeon HD" tvg-logo="http://im.robx9.top:80/images/9002e4af0740d0d3890db447277f0a4c.png" group-title="F25 M3 Infantil",Nickelodeon HD
+http://megaxc.ca:80/ialwg1/iao8wo/453.ts
+#EXTINF:-1 tvg-id="nick.br" tvg-name="Nickelodeon SD" tvg-logo="http://im.robx9.top:80/images/9002e4af0740d0d3890db447277f0a4c.png" group-title="F25 M3 Infantil",Nickelodeon SD
+http://megaxc.ca:80/ialwg1/iao8wo/454.ts
+#EXTINF:-1 tvg-id="" tvg-name="Novelas Turcas" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Cine 24H",Novelas Turcas
+http://megaxc.ca:80/ialwg1/iao8wo/2110607.ts
+#EXTINF:-1 tvg-id="" tvg-name="Novelisima" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",Novelisima
+http://megaxc.ca:80/ialwg1/iao8wo/2113369.ts
+#EXTINF:-1 tvg-id="tvnovotempo.br" tvg-name="Novo Tempo" tvg-logo="http://im.robx9.top:80/images/a6e5b49cb3552255ffc84c9442990280.png" group-title="Canais | ⭐ Religiosos",Novo Tempo
+http://megaxc.ca:80/ialwg1/iao8wo/23343.ts
+#EXTINF:-1 tvg-id="" tvg-name="Novos Titans" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Novos Titans
+http://megaxc.ca:80/ialwg1/iao8wo/3239.ts
+#EXTINF:-1 tvg-id="nsc.blumenau.br" tvg-name="NSC Blumenau FHD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sul",NSC Blumenau FHD
+http://megaxc.ca:80/ialwg1/iao8wo/878.ts
+#EXTINF:-1 tvg-id="nsc.blumenau.br" tvg-name="NSC Blumenau FHD²" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sul",NSC Blumenau FHD²
+http://megaxc.ca:80/ialwg1/iao8wo/30926.ts
+#EXTINF:-1 tvg-id="nsc.blumenau.br" tvg-name="NSC Blumenau HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sul",NSC Blumenau HD
+http://megaxc.ca:80/ialwg1/iao8wo/879.ts
+#EXTINF:-1 tvg-id="nsctvchapecó.br" tvg-name="NSC Chapeco FHD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sul",NSC Chapeco FHD
+http://megaxc.ca:80/ialwg1/iao8wo/880.ts
+#EXTINF:-1 tvg-id="nsctvchapecó.br" tvg-name="NSC Chapeco HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sul",NSC Chapeco HD
+http://megaxc.ca:80/ialwg1/iao8wo/881.ts
+#EXTINF:-1 tvg-id="nsc.criciuma.br" tvg-name="NSC Criciuma FHD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sul",NSC Criciuma FHD
+http://megaxc.ca:80/ialwg1/iao8wo/882.ts
+#EXTINF:-1 tvg-id="nsc.criciuma.br" tvg-name="NSC Criciuma HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sul",NSC Criciuma HD
+http://megaxc.ca:80/ialwg1/iao8wo/30930.ts
+#EXTINF:-1 tvg-id="nsc.florianopolis.br" tvg-name="NSC Florianopolis FHD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sul",NSC Florianopolis FHD
+http://megaxc.ca:80/ialwg1/iao8wo/886.ts
+#EXTINF:-1 tvg-id="nsc.florianopolis.br" tvg-name="NSC Florianópolis HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sul",NSC Florianópolis HD
+http://megaxc.ca:80/ialwg1/iao8wo/289.ts
+#EXTINF:-1 tvg-id="nsc.florianopolis.br" tvg-name="NSC Florianópolis SD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sul",NSC Florianópolis SD
+http://megaxc.ca:80/ialwg1/iao8wo/290.ts
+#EXTINF:-1 tvg-id="nsctvjoinville.br" tvg-name="NSC Joinville FHD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sul",NSC Joinville FHD
+http://megaxc.ca:80/ialwg1/iao8wo/884.ts
+#EXTINF:-1 tvg-id="nsctvjoinville.br" tvg-name="NSC Joinville HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sul",NSC Joinville HD
+http://megaxc.ca:80/ialwg1/iao8wo/885.ts
+#EXTINF:-1 tvg-id="" tvg-name="NSports FHD" tvg-logo="" group-title="Canais | ⚽ Esportes",NSports FHD
+http://megaxc.ca:80/ialwg1/iao8wo/203296.ts
+#EXTINF:-1 tvg-id="" tvg-name="NSports HD" tvg-logo="" group-title="Canais | ⚽ Esportes",NSports HD
+http://megaxc.ca:80/ialwg1/iao8wo/203295.ts
+#EXTINF:-1 tvg-id="" tvg-name="O Espetacular Homem Aranha" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",O Espetacular Homem Aranha
+http://megaxc.ca:80/ialwg1/iao8wo/173533.ts
+#EXTINF:-1 tvg-id="" tvg-name="O Fantastico Mundo de Bobby" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",O Fantastico Mundo de Bobby
+http://megaxc.ca:80/ialwg1/iao8wo/173532.ts
+#EXTINF:-1 tvg-id="" tvg-name="O Maskara" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",O Maskara
+http://megaxc.ca:80/ialwg1/iao8wo/61510.ts
+#EXTINF:-1 tvg-id="" tvg-name="O Pequeno Scooby-Doo" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",O Pequeno Scooby-Doo
+http://megaxc.ca:80/ialwg1/iao8wo/3221.ts
+#EXTINF:-1 tvg-id="" tvg-name="O Rei do Pedaco" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",O Rei do Pedaco
+http://megaxc.ca:80/ialwg1/iao8wo/194274.ts
+#EXTINF:-1 tvg-id="" tvg-name="O Reino Infantil" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",O Reino Infantil
+http://megaxc.ca:80/ialwg1/iao8wo/3322.ts
+#EXTINF:-1 tvg-id="" tvg-name="O Show da Luna" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",O Show da Luna
+http://megaxc.ca:80/ialwg1/iao8wo/173530.ts
+#EXTINF:-1 tvg-id="" tvg-name="O Show do Scooby-Doo" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",O Show do Scooby-Doo
+http://megaxc.ca:80/ialwg1/iao8wo/2109330.ts
+#EXTINF:-1 tvg-id="" tvg-name="O Xodo da Vovo" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",O Xodo da Vovo
+http://megaxc.ca:80/ialwg1/iao8wo/194260.ts
+#EXTINF:-1 tvg-id="" tvg-name="OnlyFans - Aline Novak" tvg-logo="https://t.ctcdn.com.br/E2iN6vluslSiigL8l5VMBBTJDIQ=/640x360/smart/i596439.jpeg" group-title="Canais | ⛔ XXX Adultos",OnlyFans - Aline Novak
+http://megaxc.ca:80/ialwg1/iao8wo/2103360.ts
+#EXTINF:-1 tvg-id="" tvg-name="OnlyFans - Andressa Urach" tvg-logo="https://t.ctcdn.com.br/E2iN6vluslSiigL8l5VMBBTJDIQ=/640x360/smart/i596439.jpeg" group-title="Canais | ⛔ XXX Adultos",OnlyFans - Andressa Urach
+http://megaxc.ca:80/ialwg1/iao8wo/2011135.ts
+#EXTINF:-1 tvg-id="" tvg-name="OnlyFans - Bia Trois" tvg-logo="https://t.ctcdn.com.br/E2iN6vluslSiigL8l5VMBBTJDIQ=/640x360/smart/i596439.jpeg" group-title="Canais | ⛔ XXX Adultos",OnlyFans - Bia Trois
+http://megaxc.ca:80/ialwg1/iao8wo/2011136.ts
+#EXTINF:-1 tvg-id="" tvg-name="OnlyFans - Brasiloirissima" tvg-logo="https://t.ctcdn.com.br/E2iN6vluslSiigL8l5VMBBTJDIQ=/640x360/smart/i596439.jpeg" group-title="Canais | ⛔ XXX Adultos",OnlyFans - Brasiloirissima
+http://megaxc.ca:80/ialwg1/iao8wo/2011137.ts
+#EXTINF:-1 tvg-id="" tvg-name="OnlyFans - Brenda Trindade" tvg-logo="https://t.ctcdn.com.br/E2iN6vluslSiigL8l5VMBBTJDIQ=/640x360/smart/i596439.jpeg" group-title="Canais | ⛔ XXX Adultos",OnlyFans - Brenda Trindade
+http://megaxc.ca:80/ialwg1/iao8wo/2016106.ts
+#EXTINF:-1 tvg-id="" tvg-name="OnlyFans - Brida Nunes" tvg-logo="https://t.ctcdn.com.br/E2iN6vluslSiigL8l5VMBBTJDIQ=/640x360/smart/i596439.jpeg" group-title="Canais | ⛔ XXX Adultos",OnlyFans - Brida Nunes
+http://megaxc.ca:80/ialwg1/iao8wo/2059624.ts
+#EXTINF:-1 tvg-id="" tvg-name="OnlyFans - Bruna Carlos" tvg-logo="https://t.ctcdn.com.br/E2iN6vluslSiigL8l5VMBBTJDIQ=/640x360/smart/i596439.jpeg" group-title="Canais | ⛔ XXX Adultos",OnlyFans - Bruna Carlos
+http://megaxc.ca:80/ialwg1/iao8wo/2019753.ts
+#EXTINF:-1 tvg-id="" tvg-name="OnlyFans - Danny Mancinni" tvg-logo="https://t.ctcdn.com.br/E2iN6vluslSiigL8l5VMBBTJDIQ=/640x360/smart/i596439.jpeg" group-title="Canais | ⛔ XXX Adultos",OnlyFans - Danny Mancinni
+http://megaxc.ca:80/ialwg1/iao8wo/2046755.ts
+#EXTINF:-1 tvg-id="" tvg-name="OnlyFans - Gabi Aguiar" tvg-logo="https://t.ctcdn.com.br/E2iN6vluslSiigL8l5VMBBTJDIQ=/640x360/smart/i596439.jpeg" group-title="Canais | ⛔ XXX Adultos",OnlyFans - Gabi Aguiar
+http://megaxc.ca:80/ialwg1/iao8wo/2011138.ts
+#EXTINF:-1 tvg-id="" tvg-name="OnlyFans - Jameliz" tvg-logo="https://t.ctcdn.com.br/E2iN6vluslSiigL8l5VMBBTJDIQ=/640x360/smart/i596439.jpeg" group-title="Canais | ⛔ XXX Adultos",OnlyFans - Jameliz
+http://megaxc.ca:80/ialwg1/iao8wo/2012401.ts
+#EXTINF:-1 tvg-id="" tvg-name="OnlyFans - Kinechan" tvg-logo="https://t.ctcdn.com.br/E2iN6vluslSiigL8l5VMBBTJDIQ=/640x360/smart/i596439.jpeg" group-title="Canais | ⛔ XXX Adultos",OnlyFans - Kinechan
+http://megaxc.ca:80/ialwg1/iao8wo/2014053.ts
+#EXTINF:-1 tvg-id="" tvg-name="OnlyFans - Lari e Rafa Sumpani" tvg-logo="https://t.ctcdn.com.br/E2iN6vluslSiigL8l5VMBBTJDIQ=/640x360/smart/i596439.jpeg" group-title="Canais | ⛔ XXX Adultos",OnlyFans - Lari e Rafa Sumpani
+http://megaxc.ca:80/ialwg1/iao8wo/2012402.ts
+#EXTINF:-1 tvg-id="" tvg-name="OnlyFans - Lari Sumpani" tvg-logo="https://t.ctcdn.com.br/E2iN6vluslSiigL8l5VMBBTJDIQ=/640x360/smart/i596439.jpeg" group-title="Canais | ⛔ XXX Adultos",OnlyFans - Lari Sumpani
+http://megaxc.ca:80/ialwg1/iao8wo/2011139.ts
+#EXTINF:-1 tvg-id="" tvg-name="OnlyFans - Leona Mia" tvg-logo="https://t.ctcdn.com.br/E2iN6vluslSiigL8l5VMBBTJDIQ=/640x360/smart/i596439.jpeg" group-title="Canais | ⛔ XXX Adultos",OnlyFans - Leona Mia
+http://megaxc.ca:80/ialwg1/iao8wo/2011140.ts
+#EXTINF:-1 tvg-id="" tvg-name="OnlyFans - Maikelly Muhl" tvg-logo="https://t.ctcdn.com.br/E2iN6vluslSiigL8l5VMBBTJDIQ=/640x360/smart/i596439.jpeg" group-title="Canais | ⛔ XXX Adultos",OnlyFans - Maikelly Muhl
+http://megaxc.ca:80/ialwg1/iao8wo/2014054.ts
+#EXTINF:-1 tvg-id="" tvg-name="OnlyFans - Mc Mirella" tvg-logo="https://t.ctcdn.com.br/E2iN6vluslSiigL8l5VMBBTJDIQ=/640x360/smart/i596439.jpeg" group-title="Canais | ⛔ XXX Adultos",OnlyFans - Mc Mirella
+http://megaxc.ca:80/ialwg1/iao8wo/2103357.ts
+#EXTINF:-1 tvg-id="" tvg-name="OnlyFans - NaturistaFit" tvg-logo="https://t.ctcdn.com.br/E2iN6vluslSiigL8l5VMBBTJDIQ=/640x360/smart/i596439.jpeg" group-title="Canais | ⛔ XXX Adultos",OnlyFans - NaturistaFit
+http://megaxc.ca:80/ialwg1/iao8wo/2059627.ts
+#EXTINF:-1 tvg-id="" tvg-name="OnlyFans - Reed" tvg-logo="https://t.ctcdn.com.br/E2iN6vluslSiigL8l5VMBBTJDIQ=/640x360/smart/i596439.jpeg" group-title="Canais | ⛔ XXX Adultos",OnlyFans - Reed
+http://megaxc.ca:80/ialwg1/iao8wo/2011143.ts
+#EXTINF:-1 tvg-id="" tvg-name="OnlyFans - Sophie Buttini" tvg-logo="https://t.ctcdn.com.br/E2iN6vluslSiigL8l5VMBBTJDIQ=/640x360/smart/i596439.jpeg" group-title="Canais | ⛔ XXX Adultos",OnlyFans - Sophie Buttini
+http://megaxc.ca:80/ialwg1/iao8wo/2016900.ts
+#EXTINF:-1 tvg-id="" tvg-name="OnlyFans - Thaissa Fit" tvg-logo="https://t.ctcdn.com.br/E2iN6vluslSiigL8l5VMBBTJDIQ=/640x360/smart/i596439.jpeg" group-title="Canais | ⛔ XXX Adultos",OnlyFans - Thaissa Fit
+http://megaxc.ca:80/ialwg1/iao8wo/2019569.ts
+#EXTINF:-1 tvg-id="" tvg-name="OnlyFans - ThayKsada" tvg-logo="https://t.ctcdn.com.br/E2iN6vluslSiigL8l5VMBBTJDIQ=/640x360/smart/i596439.jpeg" group-title="Canais | ⛔ XXX Adultos",OnlyFans - ThayKsada
+http://megaxc.ca:80/ialwg1/iao8wo/2011141.ts
+#EXTINF:-1 tvg-id="" tvg-name="OnlyFans - Sweetie Fox" tvg-logo="https://t.ctcdn.com.br/E2iN6vluslSiigL8l5VMBBTJDIQ=/640x360/smart/i596439.jpeg" group-title="Canais | ⛔ XXX Adultos",OnlyFans - Sweetie Fox
+http://megaxc.ca:80/ialwg1/iao8wo/2125504.ts
+#EXTINF:-1 tvg-id="" tvg-name="OnlyFans - Valeria Castaneda" tvg-logo="https://t.ctcdn.com.br/E2iN6vluslSiigL8l5VMBBTJDIQ=/640x360/smart/i596439.jpeg" group-title="Canais | ⛔ XXX Adultos",OnlyFans - Valeria Castaneda
+http://megaxc.ca:80/ialwg1/iao8wo/2012623.ts
+#EXTINF:-1 tvg-id="" tvg-name="OnlyFans - Yasmin Mineira" tvg-logo="https://t.ctcdn.com.br/E2iN6vluslSiigL8l5VMBBTJDIQ=/640x360/smart/i596439.jpeg" group-title="Canais | ⛔ XXX Adultos",OnlyFans - Yasmin Mineira
+http://megaxc.ca:80/ialwg1/iao8wo/2053330.ts
+#EXTINF:-1 tvg-id="" tvg-name="OnlyFans - xsassygirl" tvg-logo="https://t.ctcdn.com.br/E2iN6vluslSiigL8l5VMBBTJDIQ=/640x360/smart/i596439.jpeg" group-title="Canais | ⛔ XXX Adultos",OnlyFans - xsassygirl
+http://megaxc.ca:80/ialwg1/iao8wo/2011142.ts
+#EXTINF:-1 tvg-id="" tvg-name="Operação Fronteira Brasil" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",Operação Fronteira Brasil
+http://megaxc.ca:80/ialwg1/iao8wo/154407.ts
+#EXTINF:-1 tvg-id="" tvg-name="Os Apuros da Penelope" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Os Apuros da Penelope
+http://megaxc.ca:80/ialwg1/iao8wo/3220.ts
+#EXTINF:-1 tvg-id="" tvg-name="Os Flintstones" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Os Flintstones
+http://megaxc.ca:80/ialwg1/iao8wo/2048677.ts
+#EXTINF:-1 tvg-id="" tvg-name="Os Impossiveis" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Os Impossiveis
+http://megaxc.ca:80/ialwg1/iao8wo/194258.ts
+#EXTINF:-1 tvg-id="" tvg-name="Os Jetsons" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Os Jetsons
+http://megaxc.ca:80/ialwg1/iao8wo/3233.ts
+#EXTINF:-1 tvg-id="" tvg-name="Os Jovens Titans" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Os Jovens Titans
+http://megaxc.ca:80/ialwg1/iao8wo/3235.ts
+#EXTINF:-1 tvg-id="" tvg-name="Os Padrinhos Mágicos" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Os Padrinhos Mágicos
+http://megaxc.ca:80/ialwg1/iao8wo/3236.ts
+#EXTINF:-1 tvg-id="" tvg-name="Os Pinguins de Madagascar" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Os Pinguins de Madagascar
+http://megaxc.ca:80/ialwg1/iao8wo/3198.ts
+#EXTINF:-1 tvg-id="" tvg-name="Os Pinguins de Madagascar" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Os Pinguins de Madagascar
+http://megaxc.ca:80/ialwg1/iao8wo/181879.ts
+#EXTINF:-1 tvg-id="" tvg-name="Os Simpsons 1 ao 5" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",Os Simpsons 1 ao 5
+http://megaxc.ca:80/ialwg1/iao8wo/43938.ts
+#EXTINF:-1 tvg-id="" tvg-name="Os Simpsons 11 ao 15" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",Os Simpsons 11 ao 15
+http://megaxc.ca:80/ialwg1/iao8wo/43940.ts
+#EXTINF:-1 tvg-id="" tvg-name="Os Simpsons 16 ao 20" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",Os Simpsons 16 ao 20
+http://megaxc.ca:80/ialwg1/iao8wo/43941.ts
+#EXTINF:-1 tvg-id="" tvg-name="Os Simpsons 21 ao 25" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",Os Simpsons 21 ao 25
+http://megaxc.ca:80/ialwg1/iao8wo/43942.ts
+#EXTINF:-1 tvg-id="" tvg-name="Os Simpsons 23 ao 33" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",Os Simpsons 23 ao 33
+http://megaxc.ca:80/ialwg1/iao8wo/43943.ts
+#EXTINF:-1 tvg-id="" tvg-name="Os Simpsons 6 ao 10" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",Os Simpsons 6 ao 10
+http://megaxc.ca:80/ialwg1/iao8wo/43939.ts
+#EXTINF:-1 tvg-id="" tvg-name="Os Super Globetrotters" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Os Super Globetrotters
+http://megaxc.ca:80/ialwg1/iao8wo/194276.ts
+#EXTINF:-1 tvg-id="" tvg-name="Os Trapalhões" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Cine 24H",Os Trapalhões
+http://megaxc.ca:80/ialwg1/iao8wo/24396.ts
+#EXTINF:-1 tvg-id="" tvg-name="Os Ursinhos Carinhosos" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Os Ursinhos Carinhosos
+http://megaxc.ca:80/ialwg1/iao8wo/3238.ts
+#EXTINF:-1 tvg-id="" tvg-name="Os Vingadores" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Os Vingadores
+http://megaxc.ca:80/ialwg1/iao8wo/2005651.ts
+#EXTINF:-1 tvg-id="" tvg-name="Otaku TV +HD" tvg-logo="https://iili.io/2s5Hgh7.jpg" group-title="F25 M3 Infantil",Otaku TV +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2074460.ts
+#EXTINF:-1 tvg-id="" tvg-name="Papa Leguas" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Papa Leguas
+http://megaxc.ca:80/ialwg1/iao8wo/3325.ts
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Channel +HD" tvg-logo="http://im.robx9.top:80/images/4d0ec9644ed328af0eb2fa9cac57090e.png" group-title="F25 M3 Filmes e Séries",Paramount Channel +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2261.ts
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Channel FHD" tvg-logo="http://im.robx9.top:80/images/4d0ec9644ed328af0eb2fa9cac57090e.png" group-title="F25 M3 Filmes e Séries",Paramount Channel FHD
+http://megaxc.ca:80/ialwg1/iao8wo/457.ts
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Channel FHD [H265]" tvg-logo="http://im.robx9.top:80/images/4d0ec9644ed328af0eb2fa9cac57090e.png" group-title="F25 M3 Filmes e Séries",Paramount Channel FHD [H265]
+http://megaxc.ca:80/ialwg1/iao8wo/456.ts
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Channel HD" tvg-logo="http://im.robx9.top:80/images/4d0ec9644ed328af0eb2fa9cac57090e.png" group-title="F25 M3 Filmes e Séries",Paramount Channel HD
+http://megaxc.ca:80/ialwg1/iao8wo/458.ts
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Channel SD" tvg-logo="http://im.robx9.top:80/images/4d0ec9644ed328af0eb2fa9cac57090e.png" group-title="F25 M3 Filmes e Séries",Paramount Channel SD
+http://megaxc.ca:80/ialwg1/iao8wo/459.ts
+#EXTINF:-1 tvg-id="Paramount+" tvg-name="Paramount+ 1 FHD" tvg-logo="http://im.robx9.top:80/images/6597d860812ec0467a73594d63e85b5b.png" group-title="Canais | ⚽ Paramount+",Paramount+ 1 FHD
+http://megaxc.ca:80/ialwg1/iao8wo/165.ts
+#EXTINF:-1 tvg-id="Paramount+" tvg-name="Paramount+ 1 HD" tvg-logo="http://im.robx9.top:80/images/6597d860812ec0467a73594d63e85b5b.png" group-title="Canais | ⚽ Paramount+",Paramount+ 1 HD
+http://megaxc.ca:80/ialwg1/iao8wo/764.ts
+#EXTINF:-1 tvg-id="Paramount+" tvg-name="Paramount+ 1 HD²" tvg-logo="http://im.robx9.top:80/images/6597d860812ec0467a73594d63e85b5b.png" group-title="Canais | ⚽ Paramount+",Paramount+ 1 HD²
+http://megaxc.ca:80/ialwg1/iao8wo/31021.ts
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 1 SD" tvg-logo="http://im.robx9.top:80/images/6597d860812ec0467a73594d63e85b5b.png" group-title="Canais | ⚽ Paramount+",Paramount+ 1 SD
+http://megaxc.ca:80/ialwg1/iao8wo/2092466.ts
+#EXTINF:-1 tvg-id="Paramount+" tvg-name="Paramount+ 2 FHD" tvg-logo="http://im.robx9.top:80/images/6597d860812ec0467a73594d63e85b5b.png" group-title="Canais | ⚽ Paramount+",Paramount+ 2 FHD
+http://megaxc.ca:80/ialwg1/iao8wo/166.ts
+#EXTINF:-1 tvg-id="Paramount+" tvg-name="Paramount+ 2 HD" tvg-logo="http://im.robx9.top:80/images/6597d860812ec0467a73594d63e85b5b.png" group-title="Canais | ⚽ Paramount+",Paramount+ 2 HD
+http://megaxc.ca:80/ialwg1/iao8wo/765.ts
+#EXTINF:-1 tvg-id="Paramount+" tvg-name="Paramount+ 2 HD²" tvg-logo="http://im.robx9.top:80/images/6597d860812ec0467a73594d63e85b5b.png" group-title="Canais | ⚽ Paramount+",Paramount+ 2 HD²
+http://megaxc.ca:80/ialwg1/iao8wo/31022.ts
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 2 SD" tvg-logo="http://im.robx9.top:80/images/6597d860812ec0467a73594d63e85b5b.png" group-title="Canais | ⚽ Paramount+",Paramount+ 2 SD
+http://megaxc.ca:80/ialwg1/iao8wo/2092467.ts
+#EXTINF:-1 tvg-id="Paramount+" tvg-name="Paramount+ 3 FHD" tvg-logo="http://im.robx9.top:80/images/6597d860812ec0467a73594d63e85b5b.png" group-title="Canais | ⚽ Paramount+",Paramount+ 3 FHD
+http://megaxc.ca:80/ialwg1/iao8wo/167.ts
+#EXTINF:-1 tvg-id="Paramount+" tvg-name="Paramount+ 3 HD" tvg-logo="http://im.robx9.top:80/images/6597d860812ec0467a73594d63e85b5b.png" group-title="Canais | ⚽ Paramount+",Paramount+ 3 HD
+http://megaxc.ca:80/ialwg1/iao8wo/766.ts
+#EXTINF:-1 tvg-id="Paramount+" tvg-name="Paramount+ 3 HD²" tvg-logo="http://im.robx9.top:80/images/6597d860812ec0467a73594d63e85b5b.png" group-title="Canais | ⚽ Paramount+",Paramount+ 3 HD²
+http://megaxc.ca:80/ialwg1/iao8wo/2005122.ts
+#EXTINF:-1 tvg-id="Paramount+" tvg-name="Paramount+ 4 FHD" tvg-logo="http://im.robx9.top:80/images/6597d860812ec0467a73594d63e85b5b.png" group-title="Canais | ⚽ Paramount+",Paramount+ 4 FHD
+http://megaxc.ca:80/ialwg1/iao8wo/168.ts
+#EXTINF:-1 tvg-id="Paramount+" tvg-name="Paramount+ 4 HD" tvg-logo="http://im.robx9.top:80/images/6597d860812ec0467a73594d63e85b5b.png" group-title="Canais | ⚽ Paramount+",Paramount+ 4 HD
+http://megaxc.ca:80/ialwg1/iao8wo/767.ts
+#EXTINF:-1 tvg-id="" tvg-name="Patati Patata" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Patati Patata
+http://megaxc.ca:80/ialwg1/iao8wo/173529.ts
+#EXTINF:-1 tvg-id="" tvg-name="Patrulha Canina" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Patrulha Canina
+http://megaxc.ca:80/ialwg1/iao8wo/3319.ts
+#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Peppa Pig
+http://megaxc.ca:80/ialwg1/iao8wo/117657.ts
+#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig 2" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Peppa Pig 2
+http://megaxc.ca:80/ialwg1/iao8wo/2117378.ts
+#EXTINF:-1 tvg-id="" tvg-name="Patrulha Canina" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Patrulha Canina
+http://megaxc.ca:80/ialwg1/iao8wo/3241.ts
+#EXTINF:-1 tvg-id="" tvg-name="Pernalonga" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Pernalonga
+http://megaxc.ca:80/ialwg1/iao8wo/181878.ts
+#EXTINF:-1 tvg-id="" tvg-name="Pesca Mortal" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",Pesca Mortal
+http://megaxc.ca:80/ialwg1/iao8wo/47169.ts
+#EXTINF:-1 tvg-id="" tvg-name="Phineas e Ferb" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Phineas e Ferb
+http://megaxc.ca:80/ialwg1/iao8wo/3202.ts
+#EXTINF:-1 tvg-id="" tvg-name="Pica Pau" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Pica Pau
+http://megaxc.ca:80/ialwg1/iao8wo/3243.ts
+#EXTINF:-1 tvg-id="" tvg-name="Pinky e Cerebro" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Pinky e Cerebro
+http://megaxc.ca:80/ialwg1/iao8wo/3222.ts
+#EXTINF:-1 tvg-id="" tvg-name="Play TV HD" tvg-logo="https://iili.io/dE4L4Tv.png" group-title="F25 M3 Músicas",Play TV HD
+http://megaxc.ca:80/ialwg1/iao8wo/2034411.ts
+#EXTINF:-1 tvg-id="playboy.br" tvg-name="Playboy +HD" tvg-logo="http://im.robx9.top:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",Playboy +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2262.ts
+#EXTINF:-1 tvg-id="playboy.br" tvg-name="Playboy FHD" tvg-logo="http://im.robx9.top:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",Playboy FHD
+http://megaxc.ca:80/ialwg1/iao8wo/461.ts
+#EXTINF:-1 tvg-id="playboy.br" tvg-name="Playboy FHD [H265]" tvg-logo="http://im.robx9.top:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",Playboy FHD [H265]
+http://megaxc.ca:80/ialwg1/iao8wo/460.ts
+#EXTINF:-1 tvg-id="playboy.br" tvg-name="Playboy HD" tvg-logo="http://im.robx9.top:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",Playboy HD
+http://megaxc.ca:80/ialwg1/iao8wo/462.ts
+#EXTINF:-1 tvg-id="playboy.br" tvg-name="Playboy SD" tvg-logo="http://im.robx9.top:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",Playboy SD
+http://megaxc.ca:80/ialwg1/iao8wo/463.ts
+#EXTINF:-1 tvg-id="" tvg-name="Plic e Ploc" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Plic e Ploc
+http://megaxc.ca:80/ialwg1/iao8wo/3246.ts
+#EXTINF:-1 tvg-id="" tvg-name="Policia 24Hrs" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",Policia 24Hrs
+http://megaxc.ca:80/ialwg1/iao8wo/45859.ts
+#EXTINF:-1 tvg-id="polishop.br" tvg-name="Polishop HD" tvg-logo="http://im.robx9.top:80/images/bbeb9347a7da30c158c1d75188439624.png" group-title="F25 M3 Variedades",Polishop HD
+http://megaxc.ca:80/ialwg1/iao8wo/464.ts
+#EXTINF:-1 tvg-id="" tvg-name="Popeye 2" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Popeye 2
+http://megaxc.ca:80/ialwg1/iao8wo/61511.ts
+#EXTINF:-1 tvg-id="" tvg-name="Power Rangers Dino Thunder" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Power Rangers Dino Thunder
+http://megaxc.ca:80/ialwg1/iao8wo/194262.ts
+#EXTINF:-1 tvg-id="" tvg-name="Power Rangers Ninja Storm" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Power Rangers Ninja Storm
+http://megaxc.ca:80/ialwg1/iao8wo/194264.ts
+#EXTINF:-1 tvg-id="" tvg-name="Power Rangers ZEO" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Power Rangers ZEO
+http://megaxc.ca:80/ialwg1/iao8wo/194266.ts
+#EXTINF:-1 tvg-id="" tvg-name="Power Stone" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Power Stone
+http://megaxc.ca:80/ialwg1/iao8wo/194268.ts
+#EXTINF:-1 tvg-id="" tvg-name="Power Slap HD" tvg-logo="https://iili.io/dlhtfCQ.png" group-title="Canais | ⚽ PPV",Power Slap HD
+http://megaxc.ca:80/ialwg1/iao8wo/2034412.ts
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere Clubes HD" tvg-logo="http://im.robx9.top:80/images/bd3ac0e6f20f98e164eba821e2f03ab6.png" group-title="Canais | ⚽ Premiere",Premiere Clubes HD
+http://megaxc.ca:80/ialwg1/iao8wo/492.ts
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere Clubes +HD" tvg-logo="http://im.robx9.top:80/images/bd3ac0e6f20f98e164eba821e2f03ab6.png" group-title="Canais | ⚽ Premiere",Premiere Clubes +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2158.ts
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere Clubes HD²" tvg-logo="http://im.robx9.top:80/images/bd3ac0e6f20f98e164eba821e2f03ab6.png" group-title="Canais | ⚽ Premiere",Premiere Clubes HD²
+http://megaxc.ca:80/ialwg1/iao8wo/2126445.ts
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere Clubes SD" tvg-logo="http://im.robx9.top:80/images/bd3ac0e6f20f98e164eba821e2f03ab6.png" group-title="Canais | ⚽ Premiere",Premiere Clubes SD
+http://megaxc.ca:80/ialwg1/iao8wo/493.ts
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere Clubes 4K" tvg-logo="http://im.robx9.top:80/images/bd3ac0e6f20f98e164eba821e2f03ab6.png" group-title="Canais | ⭐ 4K",Premiere Clubes 4K
+http://megaxc.ca:80/ialwg1/iao8wo/2112.ts
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere Clubes FHD" tvg-logo="http://im.robx9.top:80/images/bd3ac0e6f20f98e164eba821e2f03ab6.png" group-title="Canais | ⚽ Premiere",Premiere Clubes FHD
+http://megaxc.ca:80/ialwg1/iao8wo/491.ts
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere Clubes FHD [H265]" tvg-logo="http://im.robx9.top:80/images/bd3ac0e6f20f98e164eba821e2f03ab6.png" group-title="Canais | ⚽ Premiere",Premiere Clubes FHD [H265]
+http://megaxc.ca:80/ialwg1/iao8wo/490.ts
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere 2 +HD" tvg-logo="http://im.robx9.top:80/images/bd3ac0e6f20f98e164eba821e2f03ab6.png" group-title="Canais | ⚽ Premiere",Premiere 2 +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2153.ts
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere 2 4K" tvg-logo="http://im.robx9.top:80/images/bd3ac0e6f20f98e164eba821e2f03ab6.png" group-title="Canais | ⭐ 4K",Premiere 2 4K
+http://megaxc.ca:80/ialwg1/iao8wo/2033017.ts
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere 2 FHD" tvg-logo="http://im.robx9.top:80/images/bd3ac0e6f20f98e164eba821e2f03ab6.png" group-title="Canais | ⚽ Premiere",Premiere 2 FHD
+http://megaxc.ca:80/ialwg1/iao8wo/467.ts
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere 2 FHD [H265]" tvg-logo="http://im.robx9.top:80/images/bd3ac0e6f20f98e164eba821e2f03ab6.png" group-title="Canais | ⚽ Premiere",Premiere 2 FHD [H265]
+http://megaxc.ca:80/ialwg1/iao8wo/466.ts
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere 2 HD" tvg-logo="http://im.robx9.top:80/images/bd3ac0e6f20f98e164eba821e2f03ab6.png" group-title="Canais | ⚽ Premiere",Premiere 2 HD
+http://megaxc.ca:80/ialwg1/iao8wo/468.ts
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere 2 SD" tvg-logo="http://im.robx9.top:80/images/bd3ac0e6f20f98e164eba821e2f03ab6.png" group-title="Canais | ⚽ Premiere",Premiere 2 SD
+http://megaxc.ca:80/ialwg1/iao8wo/469.ts
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere 3 +HD" tvg-logo="http://im.robx9.top:80/images/bd3ac0e6f20f98e164eba821e2f03ab6.png" group-title="Canais | ⚽ Premiere",Premiere 3 +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2154.ts
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere 3 4K" tvg-logo="http://im.robx9.top:80/images/bd3ac0e6f20f98e164eba821e2f03ab6.png" group-title="Canais | ⭐ 4K",Premiere 3 4K
+http://megaxc.ca:80/ialwg1/iao8wo/2109882.ts
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere 3 FHD" tvg-logo="http://im.robx9.top:80/images/bd3ac0e6f20f98e164eba821e2f03ab6.png" group-title="Canais | ⚽ Premiere",Premiere 3 FHD
+http://megaxc.ca:80/ialwg1/iao8wo/471.ts
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere 3 FHD H265" tvg-logo="http://im.robx9.top:80/images/bd3ac0e6f20f98e164eba821e2f03ab6.png" group-title="Canais | ⚽ Premiere",Premiere 3 FHD H265
+http://megaxc.ca:80/ialwg1/iao8wo/470.ts
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere 3 HD" tvg-logo="http://im.robx9.top:80/images/bd3ac0e6f20f98e164eba821e2f03ab6.png" group-title="Canais | ⚽ Premiere",Premiere 3 HD
+http://megaxc.ca:80/ialwg1/iao8wo/472.ts
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere 3 SD" tvg-logo="http://im.robx9.top:80/images/bd3ac0e6f20f98e164eba821e2f03ab6.png" group-title="Canais | ⚽ Premiere",Premiere 3 SD
+http://megaxc.ca:80/ialwg1/iao8wo/473.ts
+#EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere 4 +HD" tvg-logo="http://im.robx9.top:80/images/bd3ac0e6f20f98e164eba821e2f03ab6.png" group-title="Canais | ⚽ Premiere",Premiere 4 +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2155.ts
+#EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere 4 4K" tvg-logo="http://im.robx9.top:80/images/bd3ac0e6f20f98e164eba821e2f03ab6.png" group-title="Canais | ⭐ 4K",Premiere 4 4K
+http://megaxc.ca:80/ialwg1/iao8wo/2109883.ts
+#EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere 4 FHD" tvg-logo="http://im.robx9.top:80/images/bd3ac0e6f20f98e164eba821e2f03ab6.png" group-title="Canais | ⚽ Premiere",Premiere 4 FHD
+http://megaxc.ca:80/ialwg1/iao8wo/475.ts
+#EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere 4 FHD [H265]" tvg-logo="http://im.robx9.top:80/images/bd3ac0e6f20f98e164eba821e2f03ab6.png" group-title="Canais | ⚽ Premiere",Premiere 4 FHD [H265]
+http://megaxc.ca:80/ialwg1/iao8wo/474.ts
+#EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere 4 HD" tvg-logo="http://im.robx9.top:80/images/bd3ac0e6f20f98e164eba821e2f03ab6.png" group-title="Canais | ⚽ Premiere",Premiere 4 HD
+http://megaxc.ca:80/ialwg1/iao8wo/476.ts
+#EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere 4 SD" tvg-logo="http://im.robx9.top:80/images/bd3ac0e6f20f98e164eba821e2f03ab6.png" group-title="Canais | ⚽ Premiere",Premiere 4 SD
+http://megaxc.ca:80/ialwg1/iao8wo/477.ts
+#EXTINF:-1 tvg-id="premiere5.br" tvg-name="Premiere 5 +HD" tvg-logo="http://im.robx9.top:80/images/bd3ac0e6f20f98e164eba821e2f03ab6.png" group-title="Canais | ⚽ Premiere",Premiere 5 +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2156.ts
+#EXTINF:-1 tvg-id="premiere5.br" tvg-name="Premiere 5 4K" tvg-logo="http://im.robx9.top:80/images/bd3ac0e6f20f98e164eba821e2f03ab6.png" group-title="Canais | ⭐ 4K",Premiere 5 4K
+http://megaxc.ca:80/ialwg1/iao8wo/2109884.ts
+#EXTINF:-1 tvg-id="premiere5.br" tvg-name="Premiere 5 FHD" tvg-logo="http://im.robx9.top:80/images/bd3ac0e6f20f98e164eba821e2f03ab6.png" group-title="Canais | ⚽ Premiere",Premiere 5 FHD
+http://megaxc.ca:80/ialwg1/iao8wo/479.ts
+#EXTINF:-1 tvg-id="premiere5.br" tvg-name="Premiere 5 FHD [H265]" tvg-logo="http://im.robx9.top:80/images/bd3ac0e6f20f98e164eba821e2f03ab6.png" group-title="Canais | ⚽ Premiere",Premiere 5 FHD [H265]
+http://megaxc.ca:80/ialwg1/iao8wo/478.ts
+#EXTINF:-1 tvg-id="premiere5.br" tvg-name="Premiere 5 HD" tvg-logo="http://im.robx9.top:80/images/bd3ac0e6f20f98e164eba821e2f03ab6.png" group-title="Canais | ⚽ Premiere",Premiere 5 HD
+http://megaxc.ca:80/ialwg1/iao8wo/480.ts
+#EXTINF:-1 tvg-id="premiere5.br" tvg-name="Premiere 5 SD" tvg-logo="http://im.robx9.top:80/images/bd3ac0e6f20f98e164eba821e2f03ab6.png" group-title="Canais | ⚽ Premiere",Premiere 5 SD
+http://megaxc.ca:80/ialwg1/iao8wo/481.ts
+#EXTINF:-1 tvg-id="premiere6.br" tvg-name="Premiere 6 +HD" tvg-logo="http://im.robx9.top:80/images/bd3ac0e6f20f98e164eba821e2f03ab6.png" group-title="Canais | ⚽ Premiere",Premiere 6 +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2157.ts
+#EXTINF:-1 tvg-id="premiere6.br" tvg-name="Premiere 6 FHD" tvg-logo="http://im.robx9.top:80/images/bd3ac0e6f20f98e164eba821e2f03ab6.png" group-title="Canais | ⚽ Premiere",Premiere 6 FHD
+http://megaxc.ca:80/ialwg1/iao8wo/483.ts
+#EXTINF:-1 tvg-id="premiere6.br" tvg-name="Premiere 6 HD" tvg-logo="http://im.robx9.top:80/images/bd3ac0e6f20f98e164eba821e2f03ab6.png" group-title="Canais | ⚽ Premiere",Premiere 6 HD
+http://megaxc.ca:80/ialwg1/iao8wo/484.ts
+#EXTINF:-1 tvg-id="premiere6.br" tvg-name="Premiere 6 SD" tvg-logo="http://im.robx9.top:80/images/bd3ac0e6f20f98e164eba821e2f03ab6.png" group-title="Canais | ⚽ Premiere",Premiere 6 SD
+http://megaxc.ca:80/ialwg1/iao8wo/485.ts
+#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="Premiere 7 FHD" tvg-logo="http://im.robx9.top:80/images/bd3ac0e6f20f98e164eba821e2f03ab6.png" group-title="Canais | ⚽ Premiere",Premiere 7 FHD
+http://megaxc.ca:80/ialwg1/iao8wo/487.ts
+#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="Premiere 7 HD" tvg-logo="http://im.robx9.top:80/images/bd3ac0e6f20f98e164eba821e2f03ab6.png" group-title="Canais | ⚽ Premiere",Premiere 7 HD
+http://megaxc.ca:80/ialwg1/iao8wo/31031.ts
+#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="Premiere 7 SD" tvg-logo="http://im.robx9.top:80/images/bd3ac0e6f20f98e164eba821e2f03ab6.png" group-title="Canais | ⚽ Premiere",Premiere 7 SD
+http://megaxc.ca:80/ialwg1/iao8wo/489.ts
+#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="Premiere 7+HD" tvg-logo="http://im.robx9.top:80/images/bd3ac0e6f20f98e164eba821e2f03ab6.png" group-title="Canais | ⚽ Premiere",Premiere 7+HD
+http://megaxc.ca:80/ialwg1/iao8wo/488.ts
+#EXTINF:-1 tvg-id="premiere8.br" tvg-name="Premiere 8 FHD" tvg-logo="http://im.robx9.top:80/images/bd3ac0e6f20f98e164eba821e2f03ab6.png" group-title="Canais | ⚽ Premiere",Premiere 8 FHD
+http://megaxc.ca:80/ialwg1/iao8wo/54333.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 8 HD" tvg-logo="http://im.robx9.top:80/images/bd3ac0e6f20f98e164eba821e2f03ab6.png" group-title="Canais | ⚽ Premiere",Premiere 8 HD
+http://megaxc.ca:80/ialwg1/iao8wo/54095.ts
+#EXTINF:-1 tvg-id="premiere8.br" tvg-name="Premiere 8 SD" tvg-logo="http://im.robx9.top:80/images/bd3ac0e6f20f98e164eba821e2f03ab6.png" group-title="Canais | ⚽ Premiere",Premiere 8 SD
+http://megaxc.ca:80/ialwg1/iao8wo/54332.ts
+#EXTINF:-1 tvg-id="prime.box.brazil.br" tvg-name="Prime Box Brazil FHD" tvg-logo="http://im.robx9.top:80/images/e7098b2c2a16790d49a104cbfff8732c.png" group-title="F25 M3 Variedades",Prime Box Brazil FHD
+http://megaxc.ca:80/ialwg1/iao8wo/494.ts
+#EXTINF:-1 tvg-id="primebox.br" tvg-name="Prime Box Brazil HD" tvg-logo="http://im.robx9.top:80/images/e7098b2c2a16790d49a104cbfff8732c.png" group-title="F25 M3 Variedades",Prime Box Brazil HD
+http://megaxc.ca:80/ialwg1/iao8wo/495.ts
+#EXTINF:-1 tvg-id="" tvg-name="Privacy - Debora Peixoto" tvg-logo="https://iili.io/FWJDRyB.png" group-title="Canais | ⛔ XXX Adultos",Privacy - Debora Peixoto
+http://megaxc.ca:80/ialwg1/iao8wo/2103365.ts
+#EXTINF:-1 tvg-id="" tvg-name="Privacy - JeanGrey Bianca" tvg-logo="https://iili.io/FWJDRyB.png" group-title="Canais | ⛔ XXX Adultos",Privacy - JeanGrey Bianca
+http://megaxc.ca:80/ialwg1/iao8wo/2103377.ts
+#EXTINF:-1 tvg-id="" tvg-name="Privacy - Karol Rosalin" tvg-logo="https://iili.io/FWJDRyB.png" group-title="Canais | ⛔ XXX Adultos",Privacy - Karol Rosalin
+http://megaxc.ca:80/ialwg1/iao8wo/2103359.ts
+#EXTINF:-1 tvg-id="" tvg-name="Privacy - Mari Avila" tvg-logo="https://t.ctcdn.com.br/E2iN6vluslSiigL8l5VMBBTJDIQ=/640x360/smart/i596439.jpeg" group-title="Canais | ⛔ XXX Adultos",Privacy - Mari Avila
+http://megaxc.ca:80/ialwg1/iao8wo/2026778.ts
+#EXTINF:-1 tvg-id="" tvg-name="Privacy - Mari Avila 2" tvg-logo="https://t.ctcdn.com.br/E2iN6vluslSiigL8l5VMBBTJDIQ=/640x360/smart/i596439.jpeg" group-title="Canais | ⛔ XXX Adultos",Privacy - Mari Avila 2
+http://megaxc.ca:80/ialwg1/iao8wo/2026779.ts
+#EXTINF:-1 tvg-id="" tvg-name="Privacy - Paula Steil" tvg-logo="https://iili.io/FWJDRyB.png" group-title="Canais | ⛔ XXX Adultos",Privacy - Paula Steil
+http://megaxc.ca:80/ialwg1/iao8wo/2109276.ts
+#EXTINF:-1 tvg-id="" tvg-name="Privacy - Tuani Basotti" tvg-logo="https://iili.io/FWJDRyB.png" group-title="Canais | ⛔ XXX Adultos",Privacy - Tuani Basotti
+http://megaxc.ca:80/ialwg1/iao8wo/2103358.ts
+#EXTINF:-1 tvg-id="" tvg-name="Projeto Zeta" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Projeto Zeta
+http://megaxc.ca:80/ialwg1/iao8wo/194269.ts
+#EXTINF:-1 tvg-id="" tvg-name="Puppy Dog Pals" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Puppy Dog Pals
+http://megaxc.ca:80/ialwg1/iao8wo/3257.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rabisco" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Rabisco
+http://megaxc.ca:80/ialwg1/iao8wo/194270.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio 104.1 FM Porto Alegre" tvg-logo="https://cdn.instant.audio/images/logos/radiosaovivo-net/104-porto-alegre.png" group-title="Canais | Radios",Radio 104.1 FM Porto Alegre
+http://megaxc.ca:80/ialwg1/iao8wo/2052654.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Alegria 92.9 FM" tvg-logo="https://cdn.instant.audio/images/logos/radiosaovivo-net/alegria-poa.png" group-title="Canais | Radios",Radio Alegria 92.9 FM
+http://megaxc.ca:80/ialwg1/iao8wo/2052655.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Alpha FM" tvg-logo="https://cdn.instant.audio/images/logos/radiosaovivo-net/alphafm-brasilia.png" group-title="Canais | Radios",Radio Alpha FM
+http://megaxc.ca:80/ialwg1/iao8wo/2052988.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Anos 80" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/520/radio-anos-80s.53f945e9.png" group-title="Canais | Radios",Radio Anos 80
+http://megaxc.ca:80/ialwg1/iao8wo/2052674.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Antena 1 FM" tvg-logo="https://cdn.instant.audio/images/logos/radiosaovivo-net/antena.png" group-title="Canais | Radios",Radio Antena 1 FM
+http://megaxc.ca:80/ialwg1/iao8wo/2052983.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Atlantida FM 94.3 FM" tvg-logo="https://tudoradio.com/img/uploads/radios/atlantida_portoalegre.png" group-title="Canais | Radios",Radio Atlantida FM 94.3 FM
+http://megaxc.ca:80/ialwg1/iao8wo/2052657.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Bandeirantes RS 94.9 FM" tvg-logo="https://cdn.instant.audio/images/logos/radiosaovivo-net/bandeirantes-porto-alegre.png" group-title="Canais | Radios",Radio Bandeirantes RS 94.9 FM
+http://megaxc.ca:80/ialwg1/iao8wo/2052653.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio BH FM" tvg-logo="https://cdn.instant.audio/images/logos/radiosaovivo-net/bh-fm.png" group-title="Canais | Radios",Radio BH FM
+http://megaxc.ca:80/ialwg1/iao8wo/2052666.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Caxias" tvg-logo="https://cdn.instant.audio/images/logos/radiosaovivo-net/caxias-do-sul.png" group-title="Canais | Radios",Radio Caxias
+http://megaxc.ca:80/ialwg1/iao8wo/2052663.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Clube 101.5 FM" tvg-logo="https://img.radios.com.br/radio/lg/radio11734_1700654890.png" group-title="Canais | Radios",Radio Clube 101.5 FM
+http://megaxc.ca:80/ialwg1/iao8wo/2052981.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Clube FM" tvg-logo="https://cdn.instant.audio/images/logos/radiosaovivo-net/clube-brasilia.png" group-title="Canais | Radios",Radio Clube FM
+http://megaxc.ca:80/ialwg1/iao8wo/2052672.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Continental FM" tvg-logo="https://cdn.instant.audio/images/logos/radiosaovivo-net/continental-poa.png" group-title="Canais | Radios",Radio Continental FM
+http://megaxc.ca:80/ialwg1/iao8wo/2052659.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Eldorado FM" tvg-logo="https://cdn.instant.audio/images/logos/radiosaovivo-net/eldorado-poa.png" group-title="Canais | Radios",Radio Eldorado FM
+http://megaxc.ca:80/ialwg1/iao8wo/2052660.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Evangelizar 1060 AM" tvg-logo="https://cdn.instant.audio/images/logos/radiosaovivo-net/evangelizar-curitiba.png" group-title="Canais | Radios",Radio Evangelizar 1060 AM
+http://megaxc.ca:80/ialwg1/iao8wo/2089510.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Evangelizar 99,5 FM" tvg-logo="https://img.radios.com.br/radio/lg/radio72767_1732542125.png" group-title="Canais | Radios",Radio Evangelizar 99,5 FM
+http://megaxc.ca:80/ialwg1/iao8wo/2089509.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio FM O Dia" tvg-logo="https://cdn.instant.audio/images/logos/radiosaovivo-net/fm-o-dia.png" group-title="Canais | Radios",Radio FM O Dia
+http://megaxc.ca:80/ialwg1/iao8wo/2052667.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Gaucha" tvg-logo="https://cdn.instant.audio/images/logos/radiosaovivo-net/gaucha.png" group-title="Canais | Radios",Radio Gaucha
+http://megaxc.ca:80/ialwg1/iao8wo/2052652.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Gospel FM" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/864/gospel-fm.aa4ca07b.jpg" group-title="Canais | Radios",Radio Gospel FM
+http://megaxc.ca:80/ialwg1/iao8wo/2052675.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Gospel Life" tvg-logo="https://img.radios.com.br/radio/lg/radio49251_1552934266.jpg" group-title="Canais | Radios",Radio Gospel Life
+http://megaxc.ca:80/ialwg1/iao8wo/2052670.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Grenal 95.9 FM" tvg-logo="https://cdn.instant.audio/images/logos/radiosaovivo-net/grenal-am.png" group-title="Canais | Radios",Radio Grenal 95.9 FM
+http://megaxc.ca:80/ialwg1/iao8wo/2052656.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Hits Brasil" tvg-logo="https://cdn.instant.audio/images/logos/radiosaovivo-net/hunter-hits-brasil.png" group-title="Canais | Radios",Radio Hits Brasil
+http://megaxc.ca:80/ialwg1/iao8wo/2052987.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Iguatemi FM" tvg-logo="https://cdn.instant.audio/images/logos/radiosaovivo-net/iguatemi-ijui.png" group-title="Canais | Radios",Radio Iguatemi FM
+http://megaxc.ca:80/ialwg1/iao8wo/2052664.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Itapoan FM" tvg-logo="https://cdn.instant.audio/images/logos/radiosaovivo-net/itapoan-salvador.png" group-title="Canais | Radios",Radio Itapoan FM
+http://megaxc.ca:80/ialwg1/iao8wo/2052989.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Itatiaia FM 95,7" tvg-logo="https://cdn.instant.audio/images/logos/radiosaovivo-net/itatiaia.png" group-title="Canais | Radios",Radio Itatiaia FM 95,7
+http://megaxc.ca:80/ialwg1/iao8wo/2052985.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Jovem Pan FM Porto Alegre" tvg-logo="https://cdn.instant.audio/images/logos/radiosaovivo-net/jovem-poa.png" group-title="Canais | Radios",Radio Jovem Pan FM Porto Alegre
+http://megaxc.ca:80/ialwg1/iao8wo/2052661.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio João Pessoa 97.7 FM" tvg-logo="https://img.radios.com.br/radio/lg/radio178614_1671123864.png" group-title="Canais | Radios",Radio João Pessoa 97.7 FM
+http://megaxc.ca:80/ialwg1/iao8wo/2052982.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Lider FM" tvg-logo="https://tudoradio.com/img/uploads/radios/radio_liderfm999rs.png" group-title="Canais | Radios",Radio Lider FM
+http://megaxc.ca:80/ialwg1/iao8wo/2052658.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Lider FM Uba 103,5" tvg-logo="https://public-rf-upload.minhawebradio.net/227372/logo/741e31ddff9be414be9d548536a7f432.png" group-title="Canais | Radios",Radio Lider FM Uba 103,5
+http://megaxc.ca:80/ialwg1/iao8wo/2052979.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Mania" tvg-logo="https://cdn.instant.audio/images/logos/radiosaovivo-net/mania-brasilia.png" group-title="Canais | Radios",Radio Mania
+http://megaxc.ca:80/ialwg1/iao8wo/2052986.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Metropolitana FM" tvg-logo="https://cdn.instant.audio/images/logos/radiosaovivo-net/metropolitana-online.png" group-title="Canais | Radios",Radio Metropolitana FM
+http://megaxc.ca:80/ialwg1/iao8wo/2052665.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Mix FM" tvg-logo="https://cdn.instant.audio/images/logos/radiosaovivo-net/mix-puerto-alegre.png" group-title="Canais | Radios",Radio Mix FM
+http://megaxc.ca:80/ialwg1/iao8wo/2052662.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Montanhesa 106.5 FM" tvg-logo="https://img.radios.com.br/radio/lg/radio13685_1509528126.jpg" group-title="Canais | Radios",Radio Montanhesa 106.5 FM
+http://megaxc.ca:80/ialwg1/iao8wo/2107418.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Montanhesa Ervalia 90.9 FM" tvg-logo="https://img.radios.com.br/radio/lg/radio25442_1509529842.jpg" group-title="Canais | Radios",Radio Montanhesa Ervalia 90.9 FM
+http://megaxc.ca:80/ialwg1/iao8wo/2107419.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Nativa 103,1 FM" tvg-logo="https://img.radios.com.br/radio/lg/radio13765_1446485047.jpg" group-title="Canais | Radios",Radio Nativa 103,1 FM
+http://megaxc.ca:80/ialwg1/iao8wo/2052980.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Nativa FM" tvg-logo="https://cdn.instant.audio/images/logos/radiosaovivo-net/nativa-sao-paulo.png" group-title="Canais | Radios",Radio Nativa FM
+http://megaxc.ca:80/ialwg1/iao8wo/2052669.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Pagode 90" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/361/pagode-fm.cce564dd.png" group-title="Canais | Radios",Radio Pagode 90
+http://megaxc.ca:80/ialwg1/iao8wo/2052676.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Rock 89 FM" tvg-logo="https://cdn.instant.audio/images/logos/radiosaovivo-net/89-a-rock.png" group-title="Canais | Radios",Radio Rock 89 FM
+http://megaxc.ca:80/ialwg1/iao8wo/2052673.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Saudade FM" tvg-logo="https://cdn.instant.audio/images/logos/radiosaovivo-net/saudade.png" group-title="Canais | Radios",Radio Saudade FM
+http://megaxc.ca:80/ialwg1/iao8wo/2052668.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Transamerica Pop" tvg-logo="https://cdn.instant.audio/images/logos/radiosaovivo-net/transamerica.png" group-title="Canais | Radios",Radio Transamerica Pop
+http://megaxc.ca:80/ialwg1/iao8wo/2052671.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ragnarok" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Ragnarok
+http://megaxc.ca:80/ialwg1/iao8wo/194271.ts
+#EXTINF:-1 tvg-id="rai.italia.br" tvg-name="RAI HD" tvg-logo="http://im.robx9.top:80/images/af2abb094fe3d794ee0308ad2d1a6a69.png" group-title="F25 M3 Noticias",RAI HD
+http://megaxc.ca:80/ialwg1/iao8wo/497.ts
+#EXTINF:-1 tvg-id="rai.italia.br" tvg-name="RAI SD" tvg-logo="http://im.robx9.top:80/images/af2abb094fe3d794ee0308ad2d1a6a69.png" group-title="F25 M3 Noticias",RAI SD
+http://megaxc.ca:80/ialwg1/iao8wo/498.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rambo" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Rambo
+http://megaxc.ca:80/ialwg1/iao8wo/2017099.ts
+#EXTINF:-1 tvg-id="globo.rbs.poa.br" tvg-name="RBS TV Bagé FHD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sul",RBS TV Bagé FHD
+http://megaxc.ca:80/ialwg1/iao8wo/991.ts
+#EXTINF:-1 tvg-id="rbstvportoalegre.br" tvg-name="Rbs TV Bagé HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sul",Rbs TV Bagé HD
+http://megaxc.ca:80/ialwg1/iao8wo/2109100.ts
+#EXTINF:-1 tvg-id="globo.rbs.poa.br" tvg-name="RBS TV Caxias do Sul FHD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sul",RBS TV Caxias do Sul FHD
+http://megaxc.ca:80/ialwg1/iao8wo/890.ts
+#EXTINF:-1 tvg-id="globo.rbs.poa.br" tvg-name="RBS TV Caxias do Sul HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sul",RBS TV Caxias do Sul HD
+http://megaxc.ca:80/ialwg1/iao8wo/891.ts
+#EXTINF:-1 tvg-id="globo.rbs.poa.br" tvg-name="Rbs TV Caxias do Sul HD²" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sul",Rbs TV Caxias do Sul HD²
+http://megaxc.ca:80/ialwg1/iao8wo/30935.ts
+#EXTINF:-1 tvg-id="rbstvportoalegre.br" tvg-name="RBS TV Cruz Alta HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sul",RBS TV Cruz Alta HD
+http://megaxc.ca:80/ialwg1/iao8wo/2053855.ts
+#EXTINF:-1 tvg-id="rbstvportoalegre.br" tvg-name="RBS TV Dos Vales FHD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sul",RBS TV Dos Vales FHD
+http://megaxc.ca:80/ialwg1/iao8wo/2048711.ts
+#EXTINF:-1 tvg-id="rbstvportoalegre.br" tvg-name="RBS TV Dos Vales HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sul",RBS TV Dos Vales HD
+http://megaxc.ca:80/ialwg1/iao8wo/2048712.ts
+#EXTINF:-1 tvg-id="rbstvportoalegre.br" tvg-name="RBS TV Erechim FHD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sul",RBS TV Erechim FHD
+http://megaxc.ca:80/ialwg1/iao8wo/2109099.ts
+#EXTINF:-1 tvg-id="rbstvportoalegre.br" tvg-name="RBS TV Erechim HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sul",RBS TV Erechim HD
+http://megaxc.ca:80/ialwg1/iao8wo/2109098.ts
+#EXTINF:-1 tvg-id="rbstvportoalegre.br" tvg-name="RBS TV Erechim SD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sul",RBS TV Erechim SD
+http://megaxc.ca:80/ialwg1/iao8wo/2109097.ts
+#EXTINF:-1 tvg-id="rbstvportoalegre.br" tvg-name="RBS TV Passo Fundo FHD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sul",RBS TV Passo Fundo FHD
+http://megaxc.ca:80/ialwg1/iao8wo/892.ts
+#EXTINF:-1 tvg-id="rbstvportoalegre.br" tvg-name="RBS TV Passo Fundo HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sul",RBS TV Passo Fundo HD
+http://megaxc.ca:80/ialwg1/iao8wo/893.ts
+#EXTINF:-1 tvg-id="rbstvportoalegre.br" tvg-name="RBS TV Passo Fundo HD²" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sul",RBS TV Passo Fundo HD²
+http://megaxc.ca:80/ialwg1/iao8wo/30931.ts
+#EXTINF:-1 tvg-id="globo.rbs.poa.br" tvg-name="RBS TV Pelotas FHD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sul",RBS TV Pelotas FHD
+http://megaxc.ca:80/ialwg1/iao8wo/894.ts
+#EXTINF:-1 tvg-id="globo.rbs.poa.br" tvg-name="RBS TV Pelotas HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sul",RBS TV Pelotas HD
+http://megaxc.ca:80/ialwg1/iao8wo/895.ts
+#EXTINF:-1 tvg-id="rbstvportoalegre.br" tvg-name="RBS TV POA +HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sul",RBS TV POA +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2136.ts
+#EXTINF:-1 tvg-id="rbstvportoalegre.br" tvg-name="RBS TV POA FHD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sul",RBS TV POA FHD
+http://megaxc.ca:80/ialwg1/iao8wo/888.ts
+#EXTINF:-1 tvg-id="rbstvportoalegre.br" tvg-name="RBS TV POA FHD²" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sul",RBS TV POA FHD²
+http://megaxc.ca:80/ialwg1/iao8wo/30933.ts
+#EXTINF:-1 tvg-id="rbstvportoalegre.br" tvg-name="RBS TV POA HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sul",RBS TV POA HD
+http://megaxc.ca:80/ialwg1/iao8wo/889.ts
+#EXTINF:-1 tvg-id="rbstvportoalegre.br" tvg-name="RBS TV POA HD²" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sul",RBS TV POA HD²
+http://megaxc.ca:80/ialwg1/iao8wo/30934.ts
+#EXTINF:-1 tvg-id="rbstvportoalegre.br" tvg-name="Rbs TV Porto Alegre SD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sul",Rbs TV Porto Alegre SD
+http://megaxc.ca:80/ialwg1/iao8wo/306.ts
+#EXTINF:-1 tvg-id="rbs.santa.maria.br" tvg-name="RBS TV Santa Maria FHD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sul",RBS TV Santa Maria FHD
+http://megaxc.ca:80/ialwg1/iao8wo/193113.ts
+#EXTINF:-1 tvg-id="rbs.santa.maria.br" tvg-name="RBS TV Santa Maria HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sul",RBS TV Santa Maria HD
+http://megaxc.ca:80/ialwg1/iao8wo/193114.ts
+#EXTINF:-1 tvg-id="rbs.santa.maria.br" tvg-name="RBS TV Santa Maria HD²" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sul",RBS TV Santa Maria HD²
+http://megaxc.ca:80/ialwg1/iao8wo/30936.ts
+#EXTINF:-1 tvg-id="rbstvportoalegre.br" tvg-name="RBS TV Santa Rosa FHD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sul",RBS TV Santa Rosa FHD
+http://megaxc.ca:80/ialwg1/iao8wo/2109096.ts
+#EXTINF:-1 tvg-id="rbstvportoalegre.br" tvg-name="RBS TV Santa Rosa HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sul",RBS TV Santa Rosa HD
+http://megaxc.ca:80/ialwg1/iao8wo/2048707.ts
+#EXTINF:-1 tvg-id="rbstvportoalegre.br" tvg-name="RBS TV Uruguaiana HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sul",RBS TV Uruguaiana HD
+http://megaxc.ca:80/ialwg1/iao8wo/2048713.ts
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="Record TV SP +HD" tvg-logo="http://im.robx9.top:80/images/35f9767abaf37fadccb32c5fdaa52562.png" group-title="F25 M3 Record TV",Record TV SP +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2272.ts
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="Record TV SP HD" tvg-logo="http://im.robx9.top:80/images/35f9767abaf37fadccb32c5fdaa52562.png" group-title="F25 M3 Record TV",Record TV SP HD
+http://megaxc.ca:80/ialwg1/iao8wo/528.ts
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="Record TV SP FHD" tvg-logo="http://im.robx9.top:80/images/35f9767abaf37fadccb32c5fdaa52562.png" group-title="F25 M3 Record TV",Record TV SP FHD
+http://megaxc.ca:80/ialwg1/iao8wo/527.ts
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="Record TV SP FHD H265" tvg-logo="http://im.robx9.top:80/images/35f9767abaf37fadccb32c5fdaa52562.png" group-title="F25 M3 Record TV",Record TV SP FHD H265
+http://megaxc.ca:80/ialwg1/iao8wo/526.ts
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="Record TV SP SD" tvg-logo="http://im.robx9.top:80/images/35f9767abaf37fadccb32c5fdaa52562.png" group-title="F25 M3 Record TV",Record TV SP SD
+http://megaxc.ca:80/ialwg1/iao8wo/529.ts
+#EXTINF:-1 tvg-id="recordtvrio.br" tvg-name="Record TV Rio HD" tvg-logo="http://im.robx9.top:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="F25 M3 Record TV",Record TV Rio HD
+http://megaxc.ca:80/ialwg1/iao8wo/1036.ts
+#EXTINF:-1 tvg-id="recordtvrio.br" tvg-name="Record TV Rio HD²" tvg-logo="http://im.robx9.top:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="F25 M3 Record TV",Record TV Rio HD²
+http://megaxc.ca:80/ialwg1/iao8wo/2052747.ts
+#EXTINF:-1 tvg-id="recordtvrio.br" tvg-name="Record TV Rio FHD" tvg-logo="http://im.robx9.top:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="F25 M3 Record TV",Record TV Rio FHD
+http://megaxc.ca:80/ialwg1/iao8wo/1035.ts
+#EXTINF:-1 tvg-id="recordtvrio.br" tvg-name="Record TV Rio SD" tvg-logo="http://im.robx9.top:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="F25 M3 Record TV",Record TV Rio SD
+http://megaxc.ca:80/ialwg1/iao8wo/1037.ts
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="Record NDTV SC HD" tvg-logo="https://static.ndmais.com.br/2019/12/ndtv-logo-800x800.png" group-title="F25 M3 Record TV",Record NDTV SC HD
+http://megaxc.ca:80/ialwg1/iao8wo/194956.ts
+#EXTINF:-1 tvg-id="recordnews.br" tvg-name="Record News +HD" tvg-logo="http://im.robx9.top:80/images/3cc76d2f2b02d9356180bde549bce2a0.png" group-title="F25 M3 Noticias",Record News +HD
+http://megaxc.ca:80/ialwg1/iao8wo/43159.ts
+#EXTINF:-1 tvg-id="recordnews.br" tvg-name="Record News FHD" tvg-logo="http://im.robx9.top:80/images/3cc76d2f2b02d9356180bde549bce2a0.png" group-title="F25 M3 Noticias",Record News FHD
+http://megaxc.ca:80/ialwg1/iao8wo/530.ts
+#EXTINF:-1 tvg-id="recordnews.br" tvg-name="Record News HD" tvg-logo="http://im.robx9.top:80/images/3cc76d2f2b02d9356180bde549bce2a0.png" group-title="F25 M3 Noticias",Record News HD
+http://megaxc.ca:80/ialwg1/iao8wo/736.ts
+#EXTINF:-1 tvg-id="recordnews.br" tvg-name="Record News SD" tvg-logo="http://im.robx9.top:80/images/3cc76d2f2b02d9356180bde549bce2a0.png" group-title="F25 M3 Noticias",Record News SD
+http://megaxc.ca:80/ialwg1/iao8wo/531.ts
+#EXTINF:-1 tvg-id="" tvg-name="Record Piaui HD (Jornal Local)" tvg-logo="http://im.robx9.top:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="F25 M3 Record TV",Record Piaui HD (Jornal Local)
+http://megaxc.ca:80/ialwg1/iao8wo/2097310.ts
+#EXTINF:-1 tvg-id="record.br" tvg-name="Record SIC TV Rondonia HD" tvg-logo="http://im.robx9.top:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="F25 M3 Abertos",Record SIC TV Rondonia HD
+http://megaxc.ca:80/ialwg1/iao8wo/957.ts
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="Record Tv Atalaia (Sergipe)" tvg-logo="http://im.robx9.top:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="F25 M3 Record TV",Record Tv Atalaia (Sergipe)
+http://megaxc.ca:80/ialwg1/iao8wo/2032986.ts
+#EXTINF:-1 tvg-id="record.bahia.br" tvg-name="Record TV Bahia FHD" tvg-logo="http://im.robx9.top:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="F25 M3 Record TV",Record TV Bahia FHD
+http://megaxc.ca:80/ialwg1/iao8wo/1044.ts
+#EXTINF:-1 tvg-id="record.bahia.br" tvg-name="Record TV Bahia HD" tvg-logo="http://im.robx9.top:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="F25 M3 Record TV",Record TV Bahia HD
+http://megaxc.ca:80/ialwg1/iao8wo/499.ts
+#EXTINF:-1 tvg-id="recordtvbahia.br" tvg-name="Record TV Bahia HD²" tvg-logo="http://im.robx9.top:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="F25 M3 Record TV",Record TV Bahia HD²
+http://megaxc.ca:80/ialwg1/iao8wo/31036.ts
+#EXTINF:-1 tvg-id="record.bahia.br" tvg-name="Record TV Bahia SD" tvg-logo="http://im.robx9.top:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="F25 M3 Record TV",Record TV Bahia SD
+http://megaxc.ca:80/ialwg1/iao8wo/500.ts
+#EXTINF:-1 tvg-id="recordtvbelém.br" tvg-name="Record TV Belem HD" tvg-logo="http://im.robx9.top:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="F25 M3 Record TV",Record TV Belem HD
+http://megaxc.ca:80/ialwg1/iao8wo/31037.ts
+#EXTINF:-1 tvg-id="recordtvbelém.br" tvg-name="Record TV Belem HD²" tvg-logo="http://im.robx9.top:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="F25 M3 Record TV",Record TV Belem HD²
+http://megaxc.ca:80/ialwg1/iao8wo/1054.ts
+#EXTINF:-1 tvg-id="record.brasilia.br" tvg-name="Record TV Brasilia HD" tvg-logo="http://im.robx9.top:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="F25 M3 Record TV",Record TV Brasilia HD
+http://megaxc.ca:80/ialwg1/iao8wo/503.ts
+#EXTINF:-1 tvg-id="record.brasilia.br" tvg-name="Record TV Brasília FHD" tvg-logo="http://im.robx9.top:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="F25 M3 Record TV",Record TV Brasília FHD
+http://megaxc.ca:80/ialwg1/iao8wo/1047.ts
+#EXTINF:-1 tvg-id="record.brasilia.br" tvg-name="Record TV Brasília HD²" tvg-logo="http://im.robx9.top:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="F25 M3 Record TV",Record TV Brasília HD²
+http://megaxc.ca:80/ialwg1/iao8wo/1048.ts
+#EXTINF:-1 tvg-id="record.brasilia.br" tvg-name="Record TV Brasília SD" tvg-logo="http://im.robx9.top:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="F25 M3 Record TV",Record TV Brasília SD
+http://megaxc.ca:80/ialwg1/iao8wo/1049.ts
+#EXTINF:-1 tvg-id="recordtvbahia.br" tvg-name="Record Tv Cabralia HD" tvg-logo="http://im.robx9.top:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="F25 M3 Record TV",Record Tv Cabralia HD
+http://megaxc.ca:80/ialwg1/iao8wo/2033006.ts
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Campinas FHD" tvg-logo="http://im.robx9.top:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="F25 M3 Record TV",Record TV Campinas FHD
+http://megaxc.ca:80/ialwg1/iao8wo/505.ts
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="Record TV Campinas HD" tvg-logo="http://im.robx9.top:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="F25 M3 Record TV",Record TV Campinas HD
+http://megaxc.ca:80/ialwg1/iao8wo/506.ts
+#EXTINF:-1 tvg-id="record.br" tvg-name="Record TV Campinas SD" tvg-logo="http://im.robx9.top:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="F25 M3 Record TV",Record TV Campinas SD
+http://megaxc.ca:80/ialwg1/iao8wo/855.ts
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Campos dos Goytacazes HD" tvg-logo="http://im.robx9.top:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="F25 M3 Record TV",Record TV Campos dos Goytacazes HD
+http://megaxc.ca:80/ialwg1/iao8wo/2033028.ts
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Ceará FHD" tvg-logo="http://im.robx9.top:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="F25 M3 Record TV",Record TV Ceará FHD
+http://megaxc.ca:80/ialwg1/iao8wo/513.ts
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="Record Tv Cidade Ceara HD" tvg-logo="http://im.robx9.top:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="F25 M3 Record TV",Record Tv Cidade Ceara HD
+http://megaxc.ca:80/ialwg1/iao8wo/31052.ts
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Correio João Pessoa FHD" tvg-logo="http://im.robx9.top:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="F25 M3 Record TV",Record TV Correio João Pessoa FHD
+http://megaxc.ca:80/ialwg1/iao8wo/850.ts
+#EXTINF:-1 tvg-id="recordtvcuritiba.br" tvg-name="Record Tv ES HD" tvg-logo="http://im.robx9.top:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="F25 M3 Record TV",Record Tv ES HD
+http://megaxc.ca:80/ialwg1/iao8wo/2033008.ts
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="Record TV Floripa HD" tvg-logo="http://im.robx9.top:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="F25 M3 Record TV",Record TV Floripa HD
+http://megaxc.ca:80/ialwg1/iao8wo/2032984.ts
+#EXTINF:-1 tvg-id="record.goias.br" tvg-name="Record TV GO HD" tvg-logo="http://im.robx9.top:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="F25 M3 Record TV",Record TV GO HD
+http://megaxc.ca:80/ialwg1/iao8wo/1050.ts
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="Record TV GO HD²" tvg-logo="http://im.robx9.top:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="F25 M3 Record TV",Record TV GO HD²
+http://megaxc.ca:80/ialwg1/iao8wo/31040.ts
+#EXTINF:-1 tvg-id="record.br" tvg-name="Record TV Guararapes FHD" tvg-logo="http://im.robx9.top:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="F25 M3 Record TV",Record TV Guararapes FHD
+http://megaxc.ca:80/ialwg1/iao8wo/852.ts
+#EXTINF:-1 tvg-id="" tvg-name="Record Tv Interior SP FHD" tvg-logo="http://im.robx9.top:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="F25 M3 Record TV",Record Tv Interior SP FHD
+http://megaxc.ca:80/ialwg1/iao8wo/946.ts
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Interior SP HD" tvg-logo="http://im.robx9.top:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="F25 M3 Record TV",Record TV Interior SP HD
+http://megaxc.ca:80/ialwg1/iao8wo/947.ts
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Itapoan FHD" tvg-logo="http://im.robx9.top:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="F25 M3 Record TV",Record TV Itapoan FHD
+http://megaxc.ca:80/ialwg1/iao8wo/948.ts
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Itapoan HD" tvg-logo="http://im.robx9.top:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="F25 M3 Record TV",Record TV Itapoan HD
+http://megaxc.ca:80/ialwg1/iao8wo/949.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="Record TV Litoral Santos e Vale HD" tvg-logo="http://im.robx9.top:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="F25 M3 Record TV",Record TV Litoral Santos e Vale HD
+http://megaxc.ca:80/ialwg1/iao8wo/951.ts
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Litoral Vale do Parnaiba FHD" tvg-logo="http://im.robx9.top:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="F25 M3 Record TV",Record TV Litoral Vale do Parnaiba FHD
+http://megaxc.ca:80/ialwg1/iao8wo/950.ts
+#EXTINF:-1 tvg-id="record.br" tvg-name="Record TV Manaus HD²" tvg-logo="http://im.robx9.top:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="F25 M3 Record TV",Record TV Manaus HD²
+http://megaxc.ca:80/ialwg1/iao8wo/1057.ts
+#EXTINF:-1 tvg-id="record.minas.br" tvg-name="Record TV Minas FHD" tvg-logo="http://im.robx9.top:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="F25 M3 Record TV",Record TV Minas FHD
+http://megaxc.ca:80/ialwg1/iao8wo/1038.ts
+#EXTINF:-1 tvg-id="record.minas.br" tvg-name="Record TV Minas HD" tvg-logo="http://im.robx9.top:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="F25 M3 Record TV",Record TV Minas HD
+http://megaxc.ca:80/ialwg1/iao8wo/1039.ts
+#EXTINF:-1 tvg-id="record.minas.br" tvg-name="Record TV Minas SD" tvg-logo="http://im.robx9.top:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="F25 M3 Record TV",Record TV Minas SD
+http://megaxc.ca:80/ialwg1/iao8wo/1040.ts
+#EXTINF:-1 tvg-id="record.br" tvg-name="Record TV Paranaiba FHD" tvg-logo="http://im.robx9.top:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="F25 M3 Record TV",Record TV Paranaiba FHD
+http://megaxc.ca:80/ialwg1/iao8wo/952.ts
+#EXTINF:-1 tvg-id="record.br" tvg-name="Record TV Paranaiba HD" tvg-logo="http://im.robx9.top:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="F25 M3 Record TV",Record TV Paranaiba HD
+http://megaxc.ca:80/ialwg1/iao8wo/953.ts
+#EXTINF:-1 tvg-id="recordtv.paulista.br" tvg-name="Record TV Paulista HD" tvg-logo="http://im.robx9.top:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="F25 M3 Record TV",Record TV Paulista HD
+http://megaxc.ca:80/ialwg1/iao8wo/955.ts
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="Record Tv Rio Preto HD" tvg-logo="http://im.robx9.top:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="F25 M3 Record TV",Record Tv Rio Preto HD
+http://megaxc.ca:80/ialwg1/iao8wo/2033009.ts
+#EXTINF:-1 tvg-id="recordportoalegre.br" tvg-name="Record TV RS FHD²" tvg-logo="http://im.robx9.top:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="F25 M3 Record TV",Record TV RS FHD²
+http://megaxc.ca:80/ialwg1/iao8wo/1041.ts
+#EXTINF:-1 tvg-id="recordportoalegre.br" tvg-name="Record TV RS HD" tvg-logo="http://im.robx9.top:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="F25 M3 Record TV",Record TV RS HD
+http://megaxc.ca:80/ialwg1/iao8wo/524.ts
+#EXTINF:-1 tvg-id="recordportoalegre.br" tvg-name="Record TV RS HD²" tvg-logo="http://im.robx9.top:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="F25 M3 Record TV",Record TV RS HD²
+http://megaxc.ca:80/ialwg1/iao8wo/1042.ts
+#EXTINF:-1 tvg-id="recordportoalegre.br" tvg-name="Record TV RS SD" tvg-logo="http://im.robx9.top:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="F25 M3 Record TV",Record TV RS SD
+http://megaxc.ca:80/ialwg1/iao8wo/1043.ts
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="Record TV Santos e Vale HD" tvg-logo="http://im.robx9.top:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="F25 M3 Record TV",Record TV Santos e Vale HD
+http://megaxc.ca:80/ialwg1/iao8wo/2070419.ts
+#EXTINF:-1 tvg-id="" tvg-name="Record TV SIC Rondonia FHD" tvg-logo="http://im.robx9.top:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="F25 M3 Record TV",Record TV SIC Rondonia FHD
+http://megaxc.ca:80/ialwg1/iao8wo/956.ts
+#EXTINF:-1 tvg-id="recordtv.paulista.br" tvg-name="Record TV SJRP FHD" tvg-logo="http://im.robx9.top:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="F25 M3 Record TV",Record TV SJRP FHD
+http://megaxc.ca:80/ialwg1/iao8wo/958.ts
+#EXTINF:-1 tvg-id="" tvg-name="Record TV SJRP FHD" tvg-logo="http://im.robx9.top:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="F25 M3 Record TV",Record TV SJRP FHD
+http://megaxc.ca:80/ialwg1/iao8wo/856.ts
+#EXTINF:-1 tvg-id="recordtv.paulista.br" tvg-name="Record TV SJRP HD" tvg-logo="http://im.robx9.top:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="F25 M3 Record TV",Record TV SJRP HD
+http://megaxc.ca:80/ialwg1/iao8wo/959.ts
+#EXTINF:-1 tvg-id="" tvg-name="Record TV SJRP HD" tvg-logo="http://im.robx9.top:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="F25 M3 Record TV",Record TV SJRP HD
+http://megaxc.ca:80/ialwg1/iao8wo/857.ts
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="Record TV SP 4K" tvg-logo="http://im.robx9.top:80/images/35f9767abaf37fadccb32c5fdaa52562.png" group-title="F25 M3 Record TV",Record TV SP 4K
+http://megaxc.ca:80/ialwg1/iao8wo/2110.ts
+#EXTINF:-1 tvg-id="record.br" tvg-name="Record TV Tropical FHD" tvg-logo="http://im.robx9.top:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="F25 M3 Record TV",Record TV Tropical FHD
+http://megaxc.ca:80/ialwg1/iao8wo/853.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="Record TV Vila Real HD" tvg-logo="http://im.robx9.top:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="F25 M3 Record TV",Record TV Vila Real HD
+http://megaxc.ca:80/ialwg1/iao8wo/961.ts
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Vila Real FHD" tvg-logo="http://im.robx9.top:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="F25 M3 Record TV",Record TV Vila Real FHD
+http://megaxc.ca:80/ialwg1/iao8wo/960.ts
+#EXTINF:-1 tvg-id="" tvg-name="Record Acre HD" tvg-logo="http://im.robx9.top:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="F25 M3 Record TV",Record Acre HD
+http://megaxc.ca:80/ialwg1/iao8wo/2126220.ts
+#EXTINF:-1 tvg-id="" tvg-name="Record MTS HD" tvg-logo="http://im.robx9.top:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="F25 M3 Abertos",Record MTS HD
+http://megaxc.ca:80/ialwg1/iao8wo/2126221.ts
+#EXTINF:-1 tvg-id="" tvg-name="Record MTS HD" tvg-logo="http://im.robx9.top:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="F25 M3 Record TV",Record MTS HD
+http://megaxc.ca:80/ialwg1/iao8wo/2126221.ts
+#EXTINF:-1 tvg-id="ric.curitiba.br" tvg-name="RecordTV Maringa HD" tvg-logo="http://im.robx9.top:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="F25 M3 Record TV",RecordTV Maringa HD
+http://megaxc.ca:80/ialwg1/iao8wo/851.ts
+#EXTINF:-1 tvg-id="" tvg-name="Red Bull TV HD" tvg-logo="https://iili.io/3kGPWvV.png" group-title="Canais | ⚽ Esportes",Red Bull TV HD
+http://megaxc.ca:80/ialwg1/iao8wo/2092800.ts
+#EXTINF:-1 tvg-id="" tvg-name="Redakai" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Redakai
+http://megaxc.ca:80/ialwg1/iao8wo/194273.ts
+#EXTINF:-1 tvg-id="redeamazônicamanaus.br" tvg-name="Rede Amazônica Manaus FHD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Norte-Nordeste",Rede Amazônica Manaus FHD
+http://megaxc.ca:80/ialwg1/iao8wo/307.ts
+#EXTINF:-1 tvg-id="redeamazônicamanaus.br" tvg-name="Rede Amazônica Manaus HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Norte-Nordeste",Rede Amazônica Manaus HD
+http://megaxc.ca:80/ialwg1/iao8wo/308.ts
+#EXTINF:-1 tvg-id="redeamazônicamanaus.br" tvg-name="Rede Amazônica Manaus HD²" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Norte-Nordeste",Rede Amazônica Manaus HD²
+http://megaxc.ca:80/ialwg1/iao8wo/30964.ts
+#EXTINF:-1 tvg-id="rede.amazonica.rio.branco.br" tvg-name="Rede Amazônica Rondonia FHD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Norte-Nordeste",Rede Amazônica Rondonia FHD
+http://megaxc.ca:80/ialwg1/iao8wo/896.ts
+#EXTINF:-1 tvg-id="rede.amazonica.rio.branco.br" tvg-name="Rede Amazônica Rondonia HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Norte-Nordeste",Rede Amazônica Rondonia HD
+http://megaxc.ca:80/ialwg1/iao8wo/897.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rede Brasil HD" tvg-logo="http://im.robx9.top:80/images/7cffcdee33d7a781c7a648194cce3d67.png" group-title="F25 M3 Abertos",Rede Brasil HD
+http://megaxc.ca:80/ialwg1/iao8wo/532.ts
+#EXTINF:-1 tvg-id="cnt.br" tvg-name="Rede CNT" tvg-logo="http://im.robx9.top:80/images/43f021ccdcf51493e716ef83fbeda3f9.png" group-title="Canais | ⭐ Religiosos",Rede CNT
+http://megaxc.ca:80/ialwg1/iao8wo/23347.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rede CNT Curitiba HD" tvg-logo="http://im.robx9.top:80/images/43f021ccdcf51493e716ef83fbeda3f9.png" group-title="F25 M3 Abertos",Rede CNT Curitiba HD
+http://megaxc.ca:80/ialwg1/iao8wo/534.ts
+#EXTINF:-1 tvg-id="cnt.br" tvg-name="Rede CNT SP" tvg-logo="http://im.robx9.top:80/images/43f021ccdcf51493e716ef83fbeda3f9.png" group-title="F25 M3 Abertos",Rede CNT SP
+http://megaxc.ca:80/ialwg1/iao8wo/533.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rede Familia" tvg-logo="http://im.robx9.top:80/images/46b547198c511a9ac9007727dea62877.png" group-title="Canais | ⭐ Religiosos",Rede Familia
+http://megaxc.ca:80/ialwg1/iao8wo/23344.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rede Furacao HD" tvg-logo="https://i.imgur.com/e3M5vvr.png" group-title="Canais | ⚽ PPV",Rede Furacao HD
+http://megaxc.ca:80/ialwg1/iao8wo/187799.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rede Furacão HD²" tvg-logo="https://i.imgur.com/e3M5vvr.png" group-title="Canais | ⚽ PPV",Rede Furacão HD²
+http://megaxc.ca:80/ialwg1/iao8wo/186152.ts
+#EXTINF:-1 tvg-id="redegospel.br" tvg-name="Rede Gospel FHD" tvg-logo="http://im.robx9.top:80/images/2114387ac3c41cce99b2ec0dae63fdd3.png" group-title="Canais | ⭐ Religiosos",Rede Gospel FHD
+http://megaxc.ca:80/ialwg1/iao8wo/536.ts
+#EXTINF:-1 tvg-id="redegospel.br" tvg-name="Rede Gospel HD" tvg-logo="http://im.robx9.top:80/images/2114387ac3c41cce99b2ec0dae63fdd3.png" group-title="Canais | ⭐ Religiosos",Rede Gospel HD
+http://megaxc.ca:80/ialwg1/iao8wo/537.ts
+#EXTINF:-1 tvg-id="redegospel.br" tvg-name="Rede Gospel SD" tvg-logo="http://im.robx9.top:80/images/2114387ac3c41cce99b2ec0dae63fdd3.png" group-title="Canais | ⭐ Religiosos",Rede Gospel SD
+http://megaxc.ca:80/ialwg1/iao8wo/538.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rede Mais Familia FHD" tvg-logo="https://redemaisfamilia.com.br/wp-content/uploads/2022/08/Logo-rede-mais-familia.png" group-title="Canais | ⭐ Religiosos",Rede Mais Familia FHD
+http://megaxc.ca:80/ialwg1/iao8wo/2051847.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rede Minas HD" tvg-logo="" group-title="F25 M3 Abertos",Rede Minas HD
+http://megaxc.ca:80/ialwg1/iao8wo/2114429.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rede Super HD" tvg-logo="http://im.robx9.top:80/images/9fc7c32c68ff4e068ed86dc455ec34c1.png" group-title="Canais | ⭐ Religiosos",Rede Super HD
+http://megaxc.ca:80/ialwg1/iao8wo/768.ts
+#EXTINF:-1 tvg-id="rede.vida.br" tvg-name="Rede Vida +HD" tvg-logo="http://im.robx9.top:80/images/41f9b15f0b67431720c71f804f85c678.png" group-title="Canais | ⭐ Religiosos",Rede Vida +HD
+http://megaxc.ca:80/ialwg1/iao8wo/23346.ts
+#EXTINF:-1 tvg-id="rede.vida.br" tvg-name="Rede Vida FHD" tvg-logo="http://im.robx9.top:80/images/41f9b15f0b67431720c71f804f85c678.png" group-title="Canais | ⭐ Religiosos",Rede Vida FHD
+http://megaxc.ca:80/ialwg1/iao8wo/542.ts
+#EXTINF:-1 tvg-id="rede.vida.br" tvg-name="Rede Vida FHD H265" tvg-logo="http://im.robx9.top:80/images/41f9b15f0b67431720c71f804f85c678.png" group-title="Canais | ⭐ Religiosos",Rede Vida FHD H265
+http://megaxc.ca:80/ialwg1/iao8wo/541.ts
+#EXTINF:-1 tvg-id="rede.vida.br" tvg-name="Rede Vida HD" tvg-logo="http://im.robx9.top:80/images/41f9b15f0b67431720c71f804f85c678.png" group-title="Canais | ⭐ Religiosos",Rede Vida HD
+http://megaxc.ca:80/ialwg1/iao8wo/543.ts
+#EXTINF:-1 tvg-id="rede.vida.br" tvg-name="Rede Vida SD" tvg-logo="http://im.robx9.top:80/images/41f9b15f0b67431720c71f804f85c678.png" group-title="Canais | ⭐ Religiosos",Rede Vida SD
+http://megaxc.ca:80/ialwg1/iao8wo/544.ts
+#EXTINF:-1 tvg-id="rede.belem.br" tvg-name="RedeTV! +HD" tvg-logo="http://im.robx9.top:80/images/5c8971d4afb1bf0471de30b8e2f44916.png" group-title="F25 M3 Abertos",RedeTV! +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2274.ts
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="RedeTV! HD" tvg-logo="http://im.robx9.top:80/images/5c8971d4afb1bf0471de30b8e2f44916.png" group-title="F25 M3 Abertos",RedeTV! HD
+http://megaxc.ca:80/ialwg1/iao8wo/547.ts
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="RedeTV! SD" tvg-logo="http://im.robx9.top:80/images/5c8971d4afb1bf0471de30b8e2f44916.png" group-title="F25 M3 Abertos",RedeTV! SD
+http://megaxc.ca:80/ialwg1/iao8wo/548.ts
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="RedeTV! FHD" tvg-logo="http://im.robx9.top:80/images/5c8971d4afb1bf0471de30b8e2f44916.png" group-title="F25 M3 Abertos",RedeTV! FHD
+http://megaxc.ca:80/ialwg1/iao8wo/546.ts
+#EXTINF:-1 tvg-id="redetv.pampa.br" tvg-name="RedeTV! PAMPA HD" tvg-logo="http://im.robx9.top:80/images/5c8971d4afb1bf0471de30b8e2f44916.png" group-title="F25 M3 Abertos",RedeTV! PAMPA HD
+http://megaxc.ca:80/ialwg1/iao8wo/859.ts
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="Redetv TV Pampa HD²" tvg-logo="http://im.robx9.top:80/images/5c8971d4afb1bf0471de30b8e2f44916.png" group-title="F25 M3 Abertos",Redetv TV Pampa HD²
+http://megaxc.ca:80/ialwg1/iao8wo/2122580.ts
+#EXTINF:-1 tvg-id="recordtvcuritiba.br" tvg-name="Ric TV - Record TV Parana +HD" tvg-logo="http://im.robx9.top:80/images/c33e90ad518205afdea38f006aebdec9.png" group-title="F25 M3 Record TV",Ric TV - Record TV Parana +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2275.ts
+#EXTINF:-1 tvg-id="rit.br" tvg-name="RIT TV HD" tvg-logo="http://im.robx9.top:80/images/4a221e41b1f3b39a87d5c041657a9fc9.png" group-title="F25 M3 Variedades",RIT TV HD
+http://megaxc.ca:80/ialwg1/iao8wo/550.ts
+#EXTINF:-1 tvg-id="rpccuritiba.br" tvg-name="RPC Curitiba +HD" tvg-logo="http://im.robx9.top:80/images/34948e555746d6bd07b0b352660592e4.png" group-title="F25 M3 Globos Sul",RPC Curitiba +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2137.ts
+#EXTINF:-1 tvg-id="rpccuritiba.br" tvg-name="RPC Guarapuava +HD" tvg-logo="http://im.robx9.top:80/images/34948e555746d6bd07b0b352660592e4.png" group-title="F25 M3 Globos Sul",RPC Guarapuava +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2140.ts
+#EXTINF:-1 tvg-id="rpc.curitiba.br" tvg-name="RPC Londrina HD" tvg-logo="http://im.robx9.top:80/images/34948e555746d6bd07b0b352660592e4.png" group-title="F25 M3 Globos Sul",RPC Londrina HD
+http://megaxc.ca:80/ialwg1/iao8wo/1072.ts
+#EXTINF:-1 tvg-id="rpccuritiba.br" tvg-name="RPC TV Cascavel HD²" tvg-logo="http://im.robx9.top:80/images/34948e555746d6bd07b0b352660592e4.png" group-title="F25 M3 Globos Sul",RPC TV Cascavel HD²
+http://megaxc.ca:80/ialwg1/iao8wo/30942.ts
+#EXTINF:-1 tvg-id="rpccuritiba.br" tvg-name="RPC TV Curitiba FHD" tvg-logo="http://im.robx9.top:80/images/34948e555746d6bd07b0b352660592e4.png" group-title="F25 M3 Globos Sul",RPC TV Curitiba FHD
+http://megaxc.ca:80/ialwg1/iao8wo/900.ts
+#EXTINF:-1 tvg-id="rpccuritiba.br" tvg-name="RPC TV Curitiba HD" tvg-logo="http://im.robx9.top:80/images/34948e555746d6bd07b0b352660592e4.png" group-title="F25 M3 Globos Sul",RPC TV Curitiba HD
+http://megaxc.ca:80/ialwg1/iao8wo/901.ts
+#EXTINF:-1 tvg-id="rpccuritiba.br" tvg-name="RPC TV Curitiba HD²" tvg-logo="http://im.robx9.top:80/images/34948e555746d6bd07b0b352660592e4.png" group-title="F25 M3 Globos Sul",RPC TV Curitiba HD²
+http://megaxc.ca:80/ialwg1/iao8wo/30943.ts
+#EXTINF:-1 tvg-id="rpccuritiba.br" tvg-name="RPC TV Curitiba SD" tvg-logo="http://im.robx9.top:80/images/34948e555746d6bd07b0b352660592e4.png" group-title="F25 M3 Globos Sul",RPC TV Curitiba SD
+http://megaxc.ca:80/ialwg1/iao8wo/2138.ts
+#EXTINF:-1 tvg-id="rpcfozdoiguaçu.br" tvg-name="RPC TV Foz do Iguaçu FHD" tvg-logo="http://im.robx9.top:80/images/34948e555746d6bd07b0b352660592e4.png" group-title="F25 M3 Globos Sul",RPC TV Foz do Iguaçu FHD
+http://megaxc.ca:80/ialwg1/iao8wo/902.ts
+#EXTINF:-1 tvg-id="rpccuritiba.br" tvg-name="RPC TV Foz do Iguaçu HD" tvg-logo="http://im.robx9.top:80/images/34948e555746d6bd07b0b352660592e4.png" group-title="F25 M3 Globos Sul",RPC TV Foz do Iguaçu HD
+http://megaxc.ca:80/ialwg1/iao8wo/30944.ts
+#EXTINF:-1 tvg-id="rpcmaringá.br" tvg-name="RPC TV Maringa FHD" tvg-logo="http://im.robx9.top:80/images/34948e555746d6bd07b0b352660592e4.png" group-title="F25 M3 Globos Sul",RPC TV Maringa FHD
+http://megaxc.ca:80/ialwg1/iao8wo/904.ts
+#EXTINF:-1 tvg-id="rpcmaringá.br" tvg-name="RPC TV Maringa HD" tvg-logo="http://im.robx9.top:80/images/34948e555746d6bd07b0b352660592e4.png" group-title="F25 M3 Globos Sul",RPC TV Maringa HD
+http://megaxc.ca:80/ialwg1/iao8wo/905.ts
+#EXTINF:-1 tvg-id="rpcparanavaí.br" tvg-name="RPC TV Paranavai FHD" tvg-logo="http://im.robx9.top:80/images/34948e555746d6bd07b0b352660592e4.png" group-title="F25 M3 Globos Sul",RPC TV Paranavai FHD
+http://megaxc.ca:80/ialwg1/iao8wo/906.ts
+#EXTINF:-1 tvg-id="rpcparanavaí.br" tvg-name="RPC TV Paranavai HD" tvg-logo="http://im.robx9.top:80/images/34948e555746d6bd07b0b352660592e4.png" group-title="F25 M3 Globos Sul",RPC TV Paranavai HD
+http://megaxc.ca:80/ialwg1/iao8wo/907.ts
+#EXTINF:-1 tvg-id="rpcpontagrossa.br" tvg-name="RPC TV Ponta Grossa FHD" tvg-logo="http://im.robx9.top:80/images/34948e555746d6bd07b0b352660592e4.png" group-title="F25 M3 Globos Sul",RPC TV Ponta Grossa FHD
+http://megaxc.ca:80/ialwg1/iao8wo/908.ts
+#EXTINF:-1 tvg-id="rpcpontagrossa.br" tvg-name="RPC TV Ponta Grossa HD" tvg-logo="http://im.robx9.top:80/images/34948e555746d6bd07b0b352660592e4.png" group-title="F25 M3 Globos Sul",RPC TV Ponta Grossa HD
+http://megaxc.ca:80/ialwg1/iao8wo/909.ts
+#EXTINF:-1 tvg-id="" tvg-name="Runtime Cine Espanto" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Cine 24H",Runtime Cine Espanto
+http://megaxc.ca:80/ialwg1/iao8wo/2053032.ts
+#EXTINF:-1 tvg-id="" tvg-name="Runtime Comedia" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Cine 24H",Runtime Comedia
+http://megaxc.ca:80/ialwg1/iao8wo/2053035.ts
+#EXTINF:-1 tvg-id="" tvg-name="Runtime Crime" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Cine 24H",Runtime Crime
+http://megaxc.ca:80/ialwg1/iao8wo/2053034.ts
+#EXTINF:-1 tvg-id="" tvg-name="Runtime Filmes" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Cine 24H",Runtime Filmes
+http://megaxc.ca:80/ialwg1/iao8wo/2053033.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sabados Secretos" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Sabados Secretos
+http://megaxc.ca:80/ialwg1/iao8wo/3327.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sabor & Arte FHD" tvg-logo="http://im.robx9.top:80/images/8f1ebe8b4c9a3ba3cc486e458eb05b72.png" group-title="F25 M3 Variedades",Sabor & Arte FHD
+http://megaxc.ca:80/ialwg1/iao8wo/552.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sabor & Arte HD" tvg-logo="http://im.robx9.top:80/images/8f1ebe8b4c9a3ba3cc486e458eb05b72.png" group-title="F25 M3 Variedades",Sabor & Arte HD
+http://megaxc.ca:80/ialwg1/iao8wo/553.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sabor e Arte SD+" tvg-logo="" group-title="F25 M3 Variedades",Sabor e Arte SD+
+http://megaxc.ca:80/ialwg1/iao8wo/2077229.ts
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="Sbt SP HD" tvg-logo="http://im.robx9.top:80/images/8fb86e6eb9526bc48cb6a6e120bcd6dc.png" group-title="Canais | ✨SBT",Sbt SP HD
+http://megaxc.ca:80/ialwg1/iao8wo/570.ts
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="Sbt SP +HD" tvg-logo="http://im.robx9.top:80/images/8fb86e6eb9526bc48cb6a6e120bcd6dc.png" group-title="Canais | ✨SBT",Sbt SP +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2279.ts
+#EXTINF:-1 tvg-id="sbt.sao.paulo.br" tvg-name="Sbt SP FHD" tvg-logo="http://im.robx9.top:80/images/8fb86e6eb9526bc48cb6a6e120bcd6dc.png" group-title="Canais | ✨SBT",Sbt SP FHD
+http://megaxc.ca:80/ialwg1/iao8wo/569.ts
+#EXTINF:-1 tvg-id="sbt.sao.paulo.br" tvg-name="Sbt SP FHD H265" tvg-logo="http://im.robx9.top:80/images/8fb86e6eb9526bc48cb6a6e120bcd6dc.png" group-title="Canais | ✨SBT",Sbt SP FHD H265
+http://megaxc.ca:80/ialwg1/iao8wo/568.ts
+#EXTINF:-1 tvg-id="sbt.sao.paulo.br" tvg-name="Sbt SP SD" tvg-logo="http://im.robx9.top:80/images/8fb86e6eb9526bc48cb6a6e120bcd6dc.png" group-title="Canais | ✨SBT",Sbt SP SD
+http://megaxc.ca:80/ialwg1/iao8wo/571.ts
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="Sbt RJ HD" tvg-logo="http://im.robx9.top:80/images/8fb86e6eb9526bc48cb6a6e120bcd6dc.png" group-title="Canais | ✨SBT",Sbt RJ HD
+http://megaxc.ca:80/ialwg1/iao8wo/563.ts
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="Sbt RJ FHD" tvg-logo="http://im.robx9.top:80/images/8fb86e6eb9526bc48cb6a6e120bcd6dc.png" group-title="Canais | ✨SBT",Sbt RJ FHD
+http://megaxc.ca:80/ialwg1/iao8wo/564.ts
+#EXTINF:-1 tvg-id="sbt.maceio.br" tvg-name="Sbt Alagoas TV Ponta Verde" tvg-logo="http://im.robx9.top:80/images/8fb86e6eb9526bc48cb6a6e120bcd6dc.png" group-title="Canais | ✨SBT",Sbt Alagoas TV Ponta Verde
+http://megaxc.ca:80/ialwg1/iao8wo/848.ts
+#EXTINF:-1 tvg-id="sbt.brasilia.br" tvg-name="Sbt Brasilia" tvg-logo="http://im.robx9.top:80/images/8fb86e6eb9526bc48cb6a6e120bcd6dc.png" group-title="Canais | ✨SBT",Sbt Brasilia
+http://megaxc.ca:80/ialwg1/iao8wo/559.ts
+#EXTINF:-1 tvg-id="sbt.brasilia.br" tvg-name="Sbt BSB²" tvg-logo="http://im.robx9.top:80/images/8fb86e6eb9526bc48cb6a6e120bcd6dc.png" group-title="Canais | ✨SBT",Sbt BSB²
+http://megaxc.ca:80/ialwg1/iao8wo/31062.ts
+#EXTINF:-1 tvg-id="sbt.cascavel.br" tvg-name="Sbt Castanhal (TV Paraense)" tvg-logo="http://im.robx9.top:80/images/8fb86e6eb9526bc48cb6a6e120bcd6dc.png" group-title="Canais | ✨SBT",Sbt Castanhal (TV Paraense)
+http://megaxc.ca:80/ialwg1/iao8wo/847.ts
+#EXTINF:-1 tvg-id="redemassa.br" tvg-name="SBT Curitiba +HD" tvg-logo="http://im.robx9.top:80/images/8fb86e6eb9526bc48cb6a6e120bcd6dc.png" group-title="Canais | ✨SBT",SBT Curitiba +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2273.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sbt Interior" tvg-logo="http://im.robx9.top:80/images/8fb86e6eb9526bc48cb6a6e120bcd6dc.png" group-title="Canais | ✨SBT",Sbt Interior
+http://megaxc.ca:80/ialwg1/iao8wo/560.ts
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="Sbt Itapoan HD" tvg-logo="http://im.robx9.top:80/images/8fb86e6eb9526bc48cb6a6e120bcd6dc.png" group-title="Canais | ✨SBT",Sbt Itapoan HD
+http://megaxc.ca:80/ialwg1/iao8wo/963.ts
+#EXTINF:-1 tvg-id="sbt.para.br" tvg-name="Sbt Pará" tvg-logo="http://im.robx9.top:80/images/8fb86e6eb9526bc48cb6a6e120bcd6dc.png" group-title="Canais | ✨SBT",Sbt Pará
+http://megaxc.ca:80/ialwg1/iao8wo/561.ts
+#EXTINF:-1 tvg-id="sbt.piaui.br" tvg-name="Sbt Piaui" tvg-logo="http://im.robx9.top:80/images/8fb86e6eb9526bc48cb6a6e120bcd6dc.png" group-title="Canais | ✨SBT",Sbt Piaui
+http://megaxc.ca:80/ialwg1/iao8wo/741.ts
+#EXTINF:-1 tvg-id="sbt.brasilia.br" tvg-name="Sbt RBS HD" tvg-logo="http://im.robx9.top:80/images/8fb86e6eb9526bc48cb6a6e120bcd6dc.png" group-title="Canais | ✨SBT",Sbt RBS HD
+http://megaxc.ca:80/ialwg1/iao8wo/964.ts
+#EXTINF:-1 tvg-id="redemassa.br" tvg-name="SBT Rede Massa Curitiba HD" tvg-logo="http://im.robx9.top:80/images/8fb86e6eb9526bc48cb6a6e120bcd6dc.png" group-title="Canais | ✨SBT",SBT Rede Massa Curitiba HD
+http://megaxc.ca:80/ialwg1/iao8wo/562.ts
+#EXTINF:-1 tvg-id="sbt.sao.paulo.br" tvg-name="Sbt Ribeirão Preto HD" tvg-logo="http://im.robx9.top:80/images/8fb86e6eb9526bc48cb6a6e120bcd6dc.png" group-title="Canais | ✨SBT",Sbt Ribeirão Preto HD
+http://megaxc.ca:80/ialwg1/iao8wo/556.ts
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="Sbt RN" tvg-logo="http://im.robx9.top:80/images/8fb86e6eb9526bc48cb6a6e120bcd6dc.png" group-title="Canais | ✨SBT",Sbt RN
+http://megaxc.ca:80/ialwg1/iao8wo/743.ts
+#EXTINF:-1 tvg-id="sbt.rs.br" tvg-name="Sbt RS HD" tvg-logo="http://im.robx9.top:80/images/8fb86e6eb9526bc48cb6a6e120bcd6dc.png" group-title="Canais | ✨SBT",Sbt RS HD
+http://megaxc.ca:80/ialwg1/iao8wo/739.ts
+#EXTINF:-1 tvg-id="sbtrs.br" tvg-name="Sbt RS HD" tvg-logo="http://im.robx9.top:80/images/8fb86e6eb9526bc48cb6a6e120bcd6dc.png" group-title="Canais | ✨SBT",Sbt RS HD
+http://megaxc.ca:80/ialwg1/iao8wo/31070.ts
+#EXTINF:-1 tvg-id="sbt.santa.catarina.br" tvg-name="Sbt SCC HD" tvg-logo="http://im.robx9.top:80/images/8fb86e6eb9526bc48cb6a6e120bcd6dc.png" group-title="Canais | ✨SBT",Sbt SCC HD
+http://megaxc.ca:80/ialwg1/iao8wo/566.ts
+#EXTINF:-1 tvg-id="sbt.goiania.serra.dourada.br" tvg-name="Sbt Serra Dourada" tvg-logo="http://im.robx9.top:80/images/8fb86e6eb9526bc48cb6a6e120bcd6dc.png" group-title="Canais | ✨SBT",Sbt Serra Dourada
+http://megaxc.ca:80/ialwg1/iao8wo/567.ts
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP 4K" tvg-logo="http://im.robx9.top:80/images/8fb86e6eb9526bc48cb6a6e120bcd6dc.png" group-title="Canais | ⭐ 4K",SBT SP 4K
+http://megaxc.ca:80/ialwg1/iao8wo/2106.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sbt São Luiz MA" tvg-logo="http://im.robx9.top:80/images/8fb86e6eb9526bc48cb6a6e120bcd6dc.png" group-title="Canais | ✨SBT",Sbt São Luiz MA
+http://megaxc.ca:80/ialwg1/iao8wo/565.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sbt TV Alterosa FHD" tvg-logo="http://im.robx9.top:80/images/8fb86e6eb9526bc48cb6a6e120bcd6dc.png" group-title="Canais | ✨SBT",Sbt TV Alterosa FHD
+http://megaxc.ca:80/ialwg1/iao8wo/965.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="Sbt TV Alterosa HD" tvg-logo="http://im.robx9.top:80/images/8fb86e6eb9526bc48cb6a6e120bcd6dc.png" group-title="Canais | ✨SBT",Sbt TV Alterosa HD
+http://megaxc.ca:80/ialwg1/iao8wo/966.ts
+#EXTINF:-1 tvg-id="tvaratu.br" tvg-name="Sbt TV Aratu Bahia HD²" tvg-logo="http://im.robx9.top:80/images/8fb86e6eb9526bc48cb6a6e120bcd6dc.png" group-title="Canais | ✨SBT",Sbt TV Aratu Bahia HD²
+http://megaxc.ca:80/ialwg1/iao8wo/572.ts
+#EXTINF:-1 tvg-id="tv.jornal.br" tvg-name="Sbt TV Jornal Recife" tvg-logo="http://im.robx9.top:80/images/8fb86e6eb9526bc48cb6a6e120bcd6dc.png" group-title="Canais | ✨SBT",Sbt TV Jornal Recife
+http://megaxc.ca:80/ialwg1/iao8wo/574.ts
+#EXTINF:-1 tvg-id="tv.tambau.br" tvg-name="Sbt TV Tambau Paraiba" tvg-logo="http://im.robx9.top:80/images/8fb86e6eb9526bc48cb6a6e120bcd6dc.png" group-title="Canais | ✨SBT",Sbt TV Tambau Paraiba
+http://megaxc.ca:80/ialwg1/iao8wo/742.ts
+#EXTINF:-1 tvg-id="" tvg-name="Scooby Doo e Bionicao" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Scooby Doo e Bionicao
+http://megaxc.ca:80/ialwg1/iao8wo/3204.ts
+#EXTINF:-1 tvg-id="" tvg-name="Scooby-Doo 01" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Scooby-Doo 01
+http://megaxc.ca:80/ialwg1/iao8wo/2109514.ts
+#EXTINF:-1 tvg-id="" tvg-name="Scooby-Doo 02" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Scooby-Doo 02
+http://megaxc.ca:80/ialwg1/iao8wo/2109515.ts
+#EXTINF:-1 tvg-id="" tvg-name="Scooby-Doo 03" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Scooby-Doo 03
+http://megaxc.ca:80/ialwg1/iao8wo/2109516.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sex Prive FHD" tvg-logo="http://im.robx9.top:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",Sex Prive FHD
+http://megaxc.ca:80/ialwg1/iao8wo/2039249.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sex Prive HD" tvg-logo="http://im.robx9.top:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",Sex Prive HD
+http://megaxc.ca:80/ialwg1/iao8wo/2039248.ts
+#EXTINF:-1 tvg-id="sextreme.brazil.br" tvg-name="Sextreme FHD" tvg-logo="http://im.robx9.top:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",Sextreme FHD
+http://megaxc.ca:80/ialwg1/iao8wo/577.ts
+#EXTINF:-1 tvg-id="sextreme.brazil.br" tvg-name="Sextreme HD" tvg-logo="http://im.robx9.top:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",Sextreme HD
+http://megaxc.ca:80/ialwg1/iao8wo/578.ts
+#EXTINF:-1 tvg-id="sexy.hot.br" tvg-name="Sexy hot +HD" tvg-logo="http://im.robx9.top:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",Sexy hot +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2281.ts
+#EXTINF:-1 tvg-id="sexy.hot.br" tvg-name="Sexy Hot FHD" tvg-logo="http://im.robx9.top:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",Sexy Hot FHD
+http://megaxc.ca:80/ialwg1/iao8wo/580.ts
+#EXTINF:-1 tvg-id="sexy.hot.br" tvg-name="Sexy Hot HD" tvg-logo="http://im.robx9.top:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",Sexy Hot HD
+http://megaxc.ca:80/ialwg1/iao8wo/581.ts
+#EXTINF:-1 tvg-id="sexy.hot.br" tvg-name="Sexy Hot SD" tvg-logo="http://im.robx9.top:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",Sexy Hot SD
+http://megaxc.ca:80/ialwg1/iao8wo/582.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural S01" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",Sobrenatural S01
+http://megaxc.ca:80/ialwg1/iao8wo/120452.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural S02" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",Sobrenatural S02
+http://megaxc.ca:80/ialwg1/iao8wo/120453.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural S03" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",Sobrenatural S03
+http://megaxc.ca:80/ialwg1/iao8wo/120454.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural S04" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",Sobrenatural S04
+http://megaxc.ca:80/ialwg1/iao8wo/120455.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural S05" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",Sobrenatural S05
+http://megaxc.ca:80/ialwg1/iao8wo/120456.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural S06" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",Sobrenatural S06
+http://megaxc.ca:80/ialwg1/iao8wo/120457.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural S07" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",Sobrenatural S07
+http://megaxc.ca:80/ialwg1/iao8wo/120458.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural S08" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",Sobrenatural S08
+http://megaxc.ca:80/ialwg1/iao8wo/120459.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural S09" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",Sobrenatural S09
+http://megaxc.ca:80/ialwg1/iao8wo/120460.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural S11" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",Sobrenatural S11
+http://megaxc.ca:80/ialwg1/iao8wo/120462.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural S12" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",Sobrenatural S12
+http://megaxc.ca:80/ialwg1/iao8wo/120463.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural S13" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",Sobrenatural S13
+http://megaxc.ca:80/ialwg1/iao8wo/120464.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural S14" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",Sobrenatural S14
+http://megaxc.ca:80/ialwg1/iao8wo/120465.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural S15" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",Sobrenatural S15
+http://megaxc.ca:80/ialwg1/iao8wo/2109374.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sony Movies +HD" tvg-logo="https://iili.io/2mTO5wQ.png" group-title="F25 M3 Filmes e Séries",Sony Movies +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2077663.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sony Movies FHD" tvg-logo="https://iili.io/2mTO5wQ.png" group-title="F25 M3 Filmes e Séries",Sony Movies FHD
+http://megaxc.ca:80/ialwg1/iao8wo/2083103.ts
+#EXTINF:-1 tvg-id="space.br" tvg-name="Space +HD" tvg-logo="http://im.robx9.top:80/images/ff2364a0be3d20e46cc69efb36afe9a5.png" group-title="F25 M3 Filmes e Séries",Space +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2283.ts
+#EXTINF:-1 tvg-id="space.br" tvg-name="Space FHD" tvg-logo="http://im.robx9.top:80/images/ff2364a0be3d20e46cc69efb36afe9a5.png" group-title="F25 M3 Filmes e Séries",Space FHD
+http://megaxc.ca:80/ialwg1/iao8wo/587.ts
+#EXTINF:-1 tvg-id="space.br" tvg-name="Space FHD [H265]" tvg-logo="http://im.robx9.top:80/images/ff2364a0be3d20e46cc69efb36afe9a5.png" group-title="F25 M3 Filmes e Séries",Space FHD [H265]
+http://megaxc.ca:80/ialwg1/iao8wo/586.ts
+#EXTINF:-1 tvg-id="space.br" tvg-name="Space HD" tvg-logo="http://im.robx9.top:80/images/ff2364a0be3d20e46cc69efb36afe9a5.png" group-title="F25 M3 Filmes e Séries",Space HD
+http://megaxc.ca:80/ialwg1/iao8wo/588.ts
+#EXTINF:-1 tvg-id="space.br" tvg-name="Space HD [LEG]" tvg-logo="http://im.robx9.top:80/images/ff2364a0be3d20e46cc69efb36afe9a5.png" group-title="Canais | ✨Legendados",Space HD [LEG]
+http://megaxc.ca:80/ialwg1/iao8wo/2108956.ts
+#EXTINF:-1 tvg-id="space.br" tvg-name="Space SD" tvg-logo="http://im.robx9.top:80/images/ff2364a0be3d20e46cc69efb36afe9a5.png" group-title="F25 M3 Filmes e Séries",Space SD
+http://megaxc.ca:80/ialwg1/iao8wo/589.ts
+#EXTINF:-1 tvg-id="" tvg-name="Spookiz" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Spookiz
+http://megaxc.ca:80/ialwg1/iao8wo/2048221.ts
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV HD+" tvg-logo="https://iili.io/JjILfQR.png" group-title="Canais | ⚽ SporTV",SporTV HD+
+http://megaxc.ca:80/ialwg1/iao8wo/2284.ts
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV HD" tvg-logo="https://iili.io/JjILfQR.png" group-title="Canais | ⚽ SporTV",SporTV HD
+http://megaxc.ca:80/ialwg1/iao8wo/184471.ts
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV HD²" tvg-logo="https://iili.io/JjILfQR.png" group-title="Canais | ⚽ SporTV",SporTV HD²
+http://megaxc.ca:80/ialwg1/iao8wo/600.ts
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV FHD" tvg-logo="https://iili.io/JjILfQR.png" group-title="Canais | ⚽ SporTV",SporTV FHD
+http://megaxc.ca:80/ialwg1/iao8wo/599.ts
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV FHD [H265]" tvg-logo="https://iili.io/JjILfQR.png" group-title="Canais | ⚽ SporTV",SporTV FHD [H265]
+http://megaxc.ca:80/ialwg1/iao8wo/598.ts
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV SD" tvg-logo="https://iili.io/JjILfQR.png" group-title="Canais | ⚽ SporTV",SporTV SD
+http://megaxc.ca:80/ialwg1/iao8wo/601.ts
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 +HD" tvg-logo="https://iili.io/JjILgwJ.png" group-title="Canais | ⚽ SporTV",SporTV 2 +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2285.ts
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 4K" tvg-logo="https://iili.io/JjILgwJ.png" group-title="Canais | ⭐ 4K",SporTV 2 4K
+http://megaxc.ca:80/ialwg1/iao8wo/2033020.ts
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 FHD" tvg-logo="https://iili.io/JjILgwJ.png" group-title="Canais | ⚽ SporTV",SporTV 2 FHD
+http://megaxc.ca:80/ialwg1/iao8wo/591.ts
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 FHD [H265]" tvg-logo="https://iili.io/JjILgwJ.png" group-title="Canais | ⚽ SporTV",SporTV 2 FHD [H265]
+http://megaxc.ca:80/ialwg1/iao8wo/590.ts
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 HD" tvg-logo="https://iili.io/JjILgwJ.png" group-title="Canais | ⚽ SporTV",SporTV 2 HD
+http://megaxc.ca:80/ialwg1/iao8wo/592.ts
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 SD" tvg-logo="https://iili.io/JjILgwJ.png" group-title="Canais | ⚽ SporTV",SporTV 2 SD
+http://megaxc.ca:80/ialwg1/iao8wo/593.ts
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 +HD" tvg-logo="https://iili.io/JjILZ8X.png" group-title="Canais | ⚽ SporTV",SporTV 3 +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2286.ts
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 4K" tvg-logo="https://iili.io/JjILZ8X.png" group-title="Canais | ⭐ 4K",SporTV 3 4K
+http://megaxc.ca:80/ialwg1/iao8wo/2033021.ts
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 FHD" tvg-logo="https://iili.io/JjILZ8X.png" group-title="Canais | ⚽ SporTV",SporTV 3 FHD
+http://megaxc.ca:80/ialwg1/iao8wo/595.ts
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 FHD [H265]" tvg-logo="https://iili.io/JjILZ8X.png" group-title="Canais | ⚽ SporTV",SporTV 3 FHD [H265]
+http://megaxc.ca:80/ialwg1/iao8wo/594.ts
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 HD" tvg-logo="https://iili.io/JjILZ8X.png" group-title="Canais | ⚽ SporTV",SporTV 3 HD
+http://megaxc.ca:80/ialwg1/iao8wo/596.ts
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 SD" tvg-logo="https://iili.io/JjILZ8X.png" group-title="Canais | ⚽ SporTV",SporTV 3 SD
+http://megaxc.ca:80/ialwg1/iao8wo/597.ts
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 4 HD" tvg-logo="https://iili.io/2yMqvWP.png" group-title="Canais | ⚽ SporTV",SporTV 4 HD
+http://megaxc.ca:80/ialwg1/iao8wo/2079817.ts
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV 4K" tvg-logo="https://iili.io/JjILfQR.png" group-title="Canais | ⭐ 4K",SporTV 4K
+http://megaxc.ca:80/ialwg1/iao8wo/2111.ts
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 5 HD" tvg-logo="https://iili.io/KzKpcLx.png" group-title="Canais | ⚽ SporTV",SporTV 5 HD
+http://megaxc.ca:80/ialwg1/iao8wo/2110011.ts
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 6 HD" tvg-logo="https://iili.io/Kzf9gxs.png" group-title="Canais | ⚽ SporTV",SporTV 6 HD
+http://megaxc.ca:80/ialwg1/iao8wo/2110012.ts
+#EXTINF:-1 tvg-id="" tvg-name="SportyNet 01 HD (Youtube)" tvg-logo="https://iili.io/KKx3kPe.png" group-title="Canais | ⚽ SportyNet",SportyNet 01 HD (Youtube)
+http://megaxc.ca:80/ialwg1/iao8wo/2108542.ts
+#EXTINF:-1 tvg-id="" tvg-name="SportyNet 02 HD (Youtube)" tvg-logo="https://iili.io/KKx3kPe.png" group-title="Canais | ⚽ SportyNet",SportyNet 02 HD (Youtube)
+http://megaxc.ca:80/ialwg1/iao8wo/2108543.ts
+#EXTINF:-1 tvg-id="" tvg-name="SportyNet 03 HD (Youtube)" tvg-logo="https://iili.io/KKx3kPe.png" group-title="Canais | ⚽ SportyNet",SportyNet 03 HD (Youtube)
+http://megaxc.ca:80/ialwg1/iao8wo/2108544.ts
+#EXTINF:-1 tvg-id="" tvg-name="SportyNet 04 HD (Youtube)" tvg-logo="https://iili.io/KKx3kPe.png" group-title="Canais | ⚽ SportyNet",SportyNet 04 HD (Youtube)
+http://megaxc.ca:80/ialwg1/iao8wo/2108545.ts
+#EXTINF:-1 tvg-id="" tvg-name="SportyNet 05 HD (Youtube)" tvg-logo="https://iili.io/KKx3kPe.png" group-title="Canais | ⚽ SportyNet",SportyNet 05 HD (Youtube)
+http://megaxc.ca:80/ialwg1/iao8wo/2108546.ts
+#EXTINF:-1 tvg-id="" tvg-name="SportyNet 06 HD (Youtube)" tvg-logo="https://iili.io/KKx3kPe.png" group-title="Canais | ⚽ SportyNet",SportyNet 06 HD (Youtube)
+http://megaxc.ca:80/ialwg1/iao8wo/2108547.ts
+#EXTINF:-1 tvg-id="" tvg-name="SportyNet 1" tvg-logo="http://im.robx9.top:80/images/13adbfccabe292e435799919bdc199ee.png" group-title="Canais | ⚽ SportyNet",SportyNet 1
+http://megaxc.ca:80/ialwg1/iao8wo/744.ts
+#EXTINF:-1 tvg-id="" tvg-name="SportyNet 1²" tvg-logo="http://www.rochagalaxia.live/logos/nosso-futebol250.png" group-title="Canais | ⚽ SportyNet",SportyNet 1²
+http://megaxc.ca:80/ialwg1/iao8wo/190737.ts
+#EXTINF:-1 tvg-id="" tvg-name="SportyNet 2²" tvg-logo="http://www.rochagalaxia.live/logos/nosso-futebol250.png" group-title="Canais | ⚽ SportyNet",SportyNet 2²
+http://megaxc.ca:80/ialwg1/iao8wo/2070494.ts
+#EXTINF:-1 tvg-id="" tvg-name="SportyNet 3²" tvg-logo="http://www.rochagalaxia.live/logos/nosso-futebol250.png" group-title="Canais | ⚽ SportyNet",SportyNet 3²
+http://megaxc.ca:80/ialwg1/iao8wo/2070495.ts
+#EXTINF:-1 tvg-id="" tvg-name="SportyNet 4²" tvg-logo="http://www.rochagalaxia.live/logos/nosso-futebol250.png" group-title="Canais | ⚽ SportyNet",SportyNet 4²
+http://megaxc.ca:80/ialwg1/iao8wo/2070496.ts
+#EXTINF:-1 tvg-id="" tvg-name="Steven Universo S01" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Steven Universo S01
+http://megaxc.ca:80/ialwg1/iao8wo/181880.ts
+#EXTINF:-1 tvg-id="" tvg-name="Steven Universo S02" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Steven Universo S02
+http://megaxc.ca:80/ialwg1/iao8wo/181881.ts
+#EXTINF:-1 tvg-id="" tvg-name="Street Fighter" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Street Fighter
+http://megaxc.ca:80/ialwg1/iao8wo/2039328.ts
+#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="Studio Universal +HD" tvg-logo="http://im.robx9.top:80/images/953583e7a85584ee2dd4269a888b23e5.png" group-title="F25 M3 Filmes e Séries",Studio Universal +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2288.ts
+#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="Studio Universal FHD" tvg-logo="http://im.robx9.top:80/images/953583e7a85584ee2dd4269a888b23e5.png" group-title="F25 M3 Filmes e Séries",Studio Universal FHD
+http://megaxc.ca:80/ialwg1/iao8wo/607.ts
+#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="Studio Universal FHD [H265]" tvg-logo="http://im.robx9.top:80/images/953583e7a85584ee2dd4269a888b23e5.png" group-title="F25 M3 Filmes e Séries",Studio Universal FHD [H265]
+http://megaxc.ca:80/ialwg1/iao8wo/606.ts
+#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="Studio Universal HD" tvg-logo="http://im.robx9.top:80/images/953583e7a85584ee2dd4269a888b23e5.png" group-title="F25 M3 Filmes e Séries",Studio Universal HD
+http://megaxc.ca:80/ialwg1/iao8wo/608.ts
+#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="Studio Universal SD" tvg-logo="http://im.robx9.top:80/images/953583e7a85584ee2dd4269a888b23e5.png" group-title="F25 M3 Filmes e Séries",Studio Universal SD
+http://megaxc.ca:80/ialwg1/iao8wo/609.ts
+#EXTINF:-1 tvg-id="" tvg-name="Super Mario" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Super Mario
+http://megaxc.ca:80/ialwg1/iao8wo/3216.ts
+#EXTINF:-1 tvg-id="" tvg-name="Swat Kats" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Swat Kats
+http://megaxc.ca:80/ialwg1/iao8wo/3326.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sítio do Pica-Pau Amarelo" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Sítio do Pica-Pau Amarelo
+http://megaxc.ca:80/ialwg1/iao8wo/47167.ts
+#EXTINF:-1 tvg-id="" tvg-name="Taz Mania" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Taz Mania
+http://megaxc.ca:80/ialwg1/iao8wo/3331.ts
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="TC Action HD" tvg-logo="http://im.robx9.top:80/images/ccfd33ddfe419548c76d5b8fcb1fb875.png" group-title="F25 M3 Telecine",TC Action HD
+http://megaxc.ca:80/ialwg1/iao8wo/620.ts
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="TC Action +HD" tvg-logo="http://im.robx9.top:80/images/ccfd33ddfe419548c76d5b8fcb1fb875.png" group-title="F25 M3 Telecine",TC Action +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2097.ts
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="TC Action 4K" tvg-logo="http://im.robx9.top:80/images/ccfd33ddfe419548c76d5b8fcb1fb875.png" group-title="Canais | ⭐ 4K",TC Action 4K
+http://megaxc.ca:80/ialwg1/iao8wo/2124.ts
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="TC Action FHD" tvg-logo="http://im.robx9.top:80/images/ccfd33ddfe419548c76d5b8fcb1fb875.png" group-title="F25 M3 Telecine",TC Action FHD
+http://megaxc.ca:80/ialwg1/iao8wo/619.ts
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="TC Action FHD [H265]" tvg-logo="http://im.robx9.top:80/images/ccfd33ddfe419548c76d5b8fcb1fb875.png" group-title="F25 M3 Telecine",TC Action FHD [H265]
+http://megaxc.ca:80/ialwg1/iao8wo/618.ts
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="TC Action SD" tvg-logo="http://im.robx9.top:80/images/ccfd33ddfe419548c76d5b8fcb1fb875.png" group-title="F25 M3 Telecine",TC Action SD
+http://megaxc.ca:80/ialwg1/iao8wo/621.ts
+#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="TC Cult HD" tvg-logo="http://im.robx9.top:80/images/60341b167b02ef0cb8e2d525d4e3f3dd.png" group-title="F25 M3 Telecine",TC Cult HD
+http://megaxc.ca:80/ialwg1/iao8wo/624.ts
+#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="TC Cult +HD" tvg-logo="http://im.robx9.top:80/images/60341b167b02ef0cb8e2d525d4e3f3dd.png" group-title="F25 M3 Telecine",TC Cult +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2098.ts
+#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="TC Cult FHD" tvg-logo="http://im.robx9.top:80/images/60341b167b02ef0cb8e2d525d4e3f3dd.png" group-title="F25 M3 Telecine",TC Cult FHD
+http://megaxc.ca:80/ialwg1/iao8wo/623.ts
+#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="TC Cult FHD H265" tvg-logo="http://im.robx9.top:80/images/60341b167b02ef0cb8e2d525d4e3f3dd.png" group-title="F25 M3 Telecine",TC Cult FHD H265
+http://megaxc.ca:80/ialwg1/iao8wo/622.ts
+#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="TC Cult SD" tvg-logo="http://im.robx9.top:80/images/60341b167b02ef0cb8e2d525d4e3f3dd.png" group-title="F25 M3 Telecine",TC Cult SD
+http://megaxc.ca:80/ialwg1/iao8wo/625.ts
+#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="TC Fun HD" tvg-logo="http://im.robx9.top:80/images/316088bf2c043768954fa2b04a9008d2.png" group-title="F25 M3 Telecine",TC Fun HD
+http://megaxc.ca:80/ialwg1/iao8wo/628.ts
+#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="TC Fun +HD" tvg-logo="http://im.robx9.top:80/images/316088bf2c043768954fa2b04a9008d2.png" group-title="F25 M3 Telecine",TC Fun +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2099.ts
+#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="TC Fun FHD" tvg-logo="http://im.robx9.top:80/images/316088bf2c043768954fa2b04a9008d2.png" group-title="F25 M3 Telecine",TC Fun FHD
+http://megaxc.ca:80/ialwg1/iao8wo/627.ts
+#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="TC Fun FHD H265" tvg-logo="http://im.robx9.top:80/images/316088bf2c043768954fa2b04a9008d2.png" group-title="F25 M3 Telecine",TC Fun FHD H265
+http://megaxc.ca:80/ialwg1/iao8wo/626.ts
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="TC Pipoca HD" tvg-logo="http://im.robx9.top:80/images/cd40eb21ce6830e74ecc86d8051ce8e1.png" group-title="F25 M3 Telecine",TC Pipoca HD
+http://megaxc.ca:80/ialwg1/iao8wo/632.ts
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="TC Pipoca +HD" tvg-logo="http://im.robx9.top:80/images/cd40eb21ce6830e74ecc86d8051ce8e1.png" group-title="F25 M3 Telecine",TC Pipoca +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2100.ts
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="TC Pipoca 4K" tvg-logo="http://im.robx9.top:80/images/cd40eb21ce6830e74ecc86d8051ce8e1.png" group-title="Canais | ⭐ 4K",TC Pipoca 4K
+http://megaxc.ca:80/ialwg1/iao8wo/2125.ts
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="TC Pipoca FHD" tvg-logo="http://im.robx9.top:80/images/cd40eb21ce6830e74ecc86d8051ce8e1.png" group-title="F25 M3 Telecine",TC Pipoca FHD
+http://megaxc.ca:80/ialwg1/iao8wo/631.ts
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="TC Pipoca FHD [H265]" tvg-logo="http://im.robx9.top:80/images/cd40eb21ce6830e74ecc86d8051ce8e1.png" group-title="F25 M3 Telecine",TC Pipoca FHD [H265]
+http://megaxc.ca:80/ialwg1/iao8wo/630.ts
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="TC Pipoca SD" tvg-logo="http://im.robx9.top:80/images/cd40eb21ce6830e74ecc86d8051ce8e1.png" group-title="F25 M3 Telecine",TC Pipoca SD
+http://megaxc.ca:80/ialwg1/iao8wo/633.ts
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TC Premium HD" tvg-logo="http://im.robx9.top:80/images/f8d2354ef0cde7800a0475f6babd211d.png" group-title="F25 M3 Telecine",TC Premium HD
+http://megaxc.ca:80/ialwg1/iao8wo/636.ts
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TC Premium +HD" tvg-logo="http://im.robx9.top:80/images/f8d2354ef0cde7800a0475f6babd211d.png" group-title="F25 M3 Telecine",TC Premium +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2101.ts
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TC Premium 4K" tvg-logo="http://im.robx9.top:80/images/f8d2354ef0cde7800a0475f6babd211d.png" group-title="Canais | ⭐ 4K",TC Premium 4K
+http://megaxc.ca:80/ialwg1/iao8wo/2126.ts
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TC Premium FHD" tvg-logo="http://im.robx9.top:80/images/f8d2354ef0cde7800a0475f6babd211d.png" group-title="F25 M3 Telecine",TC Premium FHD
+http://megaxc.ca:80/ialwg1/iao8wo/635.ts
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TC Premium FHD [H265]" tvg-logo="http://im.robx9.top:80/images/f8d2354ef0cde7800a0475f6babd211d.png" group-title="F25 M3 Telecine",TC Premium FHD [H265]
+http://megaxc.ca:80/ialwg1/iao8wo/634.ts
+#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="TC Touch HD" tvg-logo="http://im.robx9.top:80/images/0c618fb6c4129f46029f8e7a9c7671d8.png" group-title="F25 M3 Telecine",TC Touch HD
+http://megaxc.ca:80/ialwg1/iao8wo/640.ts
+#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="TC Touch +HD" tvg-logo="http://im.robx9.top:80/images/0c618fb6c4129f46029f8e7a9c7671d8.png" group-title="F25 M3 Telecine",TC Touch +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2102.ts
+#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="TC Touch FHD" tvg-logo="http://im.robx9.top:80/images/0c618fb6c4129f46029f8e7a9c7671d8.png" group-title="F25 M3 Telecine",TC Touch FHD
+http://megaxc.ca:80/ialwg1/iao8wo/639.ts
+#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="TC Touch FHD [H265]" tvg-logo="http://im.robx9.top:80/images/0c618fb6c4129f46029f8e7a9c7671d8.png" group-title="F25 M3 Telecine",TC Touch FHD [H265]
+http://megaxc.ca:80/ialwg1/iao8wo/638.ts
+#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="TC Touch SD" tvg-logo="http://im.robx9.top:80/images/0c618fb6c4129f46029f8e7a9c7671d8.png" group-title="F25 M3 Telecine",TC Touch SD
+http://megaxc.ca:80/ialwg1/iao8wo/641.ts
+#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM HD" tvg-logo="http://im.robx9.top:80/images/35ea90f53b9ab170a70143cd66830ac8.png" group-title="F25 M3 Filmes e Séries",TCM HD
+http://megaxc.ca:80/ialwg1/iao8wo/616.ts
+#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM FHD" tvg-logo="http://im.robx9.top:80/images/35ea90f53b9ab170a70143cd66830ac8.png" group-title="F25 M3 Filmes e Séries",TCM FHD
+http://megaxc.ca:80/ialwg1/iao8wo/615.ts
+#EXTINF:-1 tvg-id="" tvg-name="TCM Play HD" tvg-logo="https://iili.io/d3MALCl.png" group-title="F25 M3 Variedades",TCM Play HD
+http://megaxc.ca:80/ialwg1/iao8wo/2024497.ts
+#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM SD" tvg-logo="http://im.robx9.top:80/images/35ea90f53b9ab170a70143cd66830ac8.png" group-title="F25 M3 Filmes e Séries",TCM SD
+http://megaxc.ca:80/ialwg1/iao8wo/617.ts
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="Telecine Action HD [LEG]" tvg-logo="http://im.robx9.top:80/images/ccfd33ddfe419548c76d5b8fcb1fb875.png" group-title="Canais | ✨Legendados",Telecine Action HD [LEG]
+http://megaxc.ca:80/ialwg1/iao8wo/2108957.ts
+#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="Telecine Cult 4K" tvg-logo="http://im.robx9.top:80/images/60341b167b02ef0cb8e2d525d4e3f3dd.png" group-title="Canais | ⭐ 4K",Telecine Cult 4K
+http://megaxc.ca:80/ialwg1/iao8wo/2109878.ts
+#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="Telecine Cult HD [LEG]" tvg-logo="http://im.robx9.top:80/images/60341b167b02ef0cb8e2d525d4e3f3dd.png" group-title="Canais | ✨Legendados",Telecine Cult HD [LEG]
+http://megaxc.ca:80/ialwg1/iao8wo/2108958.ts
+#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="Telecine Fun 4K" tvg-logo="http://im.robx9.top:80/images/316088bf2c043768954fa2b04a9008d2.png" group-title="Canais | ⭐ 4K",Telecine Fun 4K
+http://megaxc.ca:80/ialwg1/iao8wo/2109879.ts
+#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="Telecine Fun HD [LEG]" tvg-logo="http://im.robx9.top:80/images/316088bf2c043768954fa2b04a9008d2.png" group-title="Canais | ✨Legendados",Telecine Fun HD [LEG]
+http://megaxc.ca:80/ialwg1/iao8wo/2108959.ts
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="Telecine Pipoca HD [LEG]" tvg-logo="http://im.robx9.top:80/images/cd40eb21ce6830e74ecc86d8051ce8e1.png" group-title="Canais | ✨Legendados",Telecine Pipoca HD [LEG]
+http://megaxc.ca:80/ialwg1/iao8wo/2108960.ts
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="Telecine Premium HD [LEG]" tvg-logo="http://im.robx9.top:80/images/f8d2354ef0cde7800a0475f6babd211d.png" group-title="Canais | ✨Legendados",Telecine Premium HD [LEG]
+http://megaxc.ca:80/ialwg1/iao8wo/2108961.ts
+#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="Telecine Touch 4K" tvg-logo="http://im.robx9.top:80/images/0c618fb6c4129f46029f8e7a9c7671d8.png" group-title="Canais | ⭐ 4K",Telecine Touch 4K
+http://megaxc.ca:80/ialwg1/iao8wo/2109880.ts
+#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="Telecine Touch HD [LEG]" tvg-logo="http://im.robx9.top:80/images/0c618fb6c4129f46029f8e7a9c7671d8.png" group-title="Canais | ✨Legendados",Telecine Touch HD [LEG]
+http://megaxc.ca:80/ialwg1/iao8wo/2108962.ts
+#EXTINF:-1 tvg-id="" tvg-name="Teletubbies Classico" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Teletubbies Classico
+http://megaxc.ca:80/ialwg1/iao8wo/3329.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tennis TV Classics FHD" tvg-logo="" group-title="Canais | ⚽ Esportes",Tennis TV Classics FHD
+http://megaxc.ca:80/ialwg1/iao8wo/2113341.ts
+#EXTINF:-1 tvg-id="terraviva.br" tvg-name="Terra Viva HD" tvg-logo="http://im.robx9.top:80/images/f4d9febfc4e582b6f5951f4f61e59214.png" group-title="F25 M3 Abertos",Terra Viva HD
+http://megaxc.ca:80/ialwg1/iao8wo/642.ts
+#EXTINF:-1 tvg-id="" tvg-name="Teste de Fudelidade 1 HD" tvg-logo="http://im.robx9.top:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",Teste de Fudelidade 1 HD
+http://megaxc.ca:80/ialwg1/iao8wo/88646.ts
+#EXTINF:-1 tvg-id="" tvg-name="Teste de Fudelidade 2 HD" tvg-logo="http://im.robx9.top:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",Teste de Fudelidade 2 HD
+http://megaxc.ca:80/ialwg1/iao8wo/88647.ts
+#EXTINF:-1 tvg-id="" tvg-name="Teste de Fudelidade 3 HD" tvg-logo="http://im.robx9.top:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",Teste de Fudelidade 3 HD
+http://megaxc.ca:80/ialwg1/iao8wo/88648.ts
+#EXTINF:-1 tvg-id="" tvg-name="Teste de Fudelidade 4 HD" tvg-logo="http://im.robx9.top:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",Teste de Fudelidade 4 HD
+http://megaxc.ca:80/ialwg1/iao8wo/88649.ts
+#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S01" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",The Big Bang Theory S01
+http://megaxc.ca:80/ialwg1/iao8wo/113694.ts
+#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S02" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",The Big Bang Theory S02
+http://megaxc.ca:80/ialwg1/iao8wo/113695.ts
+#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S03" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",The Big Bang Theory S03
+http://megaxc.ca:80/ialwg1/iao8wo/113696.ts
+#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S04" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",The Big Bang Theory S04
+http://megaxc.ca:80/ialwg1/iao8wo/113697.ts
+#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S05" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",The Big Bang Theory S05
+http://megaxc.ca:80/ialwg1/iao8wo/113698.ts
+#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S06" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",The Big Bang Theory S06
+http://megaxc.ca:80/ialwg1/iao8wo/113699.ts
+#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S07" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",The Big Bang Theory S07
+http://megaxc.ca:80/ialwg1/iao8wo/113700.ts
+#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S08" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",The Big Bang Theory S08
+http://megaxc.ca:80/ialwg1/iao8wo/113701.ts
+#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S09" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",The Big Bang Theory S09
+http://megaxc.ca:80/ialwg1/iao8wo/113702.ts
+#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S10" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",The Big Bang Theory S10
+http://megaxc.ca:80/ialwg1/iao8wo/2109371.ts
+#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S11" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",The Big Bang Theory S11
+http://megaxc.ca:80/ialwg1/iao8wo/2109372.ts
+#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S12" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",The Big Bang Theory S12
+http://megaxc.ca:80/ialwg1/iao8wo/2109373.ts
+#EXTINF:-1 tvg-id="" tvg-name="Thomas e Seus Amigos" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Thomas e Seus Amigos
+http://megaxc.ca:80/ialwg1/iao8wo/3332.ts
+#EXTINF:-1 tvg-id="" tvg-name="ThunderCats" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",ThunderCats
+http://megaxc.ca:80/ialwg1/iao8wo/3333.ts
+#EXTINF:-1 tvg-id="" tvg-name="Thundercats 2" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Thundercats 2
+http://megaxc.ca:80/ialwg1/iao8wo/61513.ts
+#EXTINF:-1 tvg-id="" tvg-name="Timão e Pumba" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Timão e Pumba
+http://megaxc.ca:80/ialwg1/iao8wo/3334.ts
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC +HD" tvg-logo="http://im.robx9.top:80/images/62f8c420e1ccbd150e6c1a96a94afb2f.png" group-title="F25 M3 Documentários",TLC +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2292.ts
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC FHD" tvg-logo="http://im.robx9.top:80/images/fb682bba6d752f69858142610b681be3.png" group-title="F25 M3 Documentários",TLC FHD
+http://megaxc.ca:80/ialwg1/iao8wo/645.ts
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC FHD [H265]" tvg-logo="http://im.robx9.top:80/images/fb682bba6d752f69858142610b681be3.png" group-title="F25 M3 Documentários",TLC FHD [H265]
+http://megaxc.ca:80/ialwg1/iao8wo/644.ts
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC HD" tvg-logo="http://im.robx9.top:80/images/fb682bba6d752f69858142610b681be3.png" group-title="F25 M3 Documentários",TLC HD
+http://megaxc.ca:80/ialwg1/iao8wo/646.ts
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC SD" tvg-logo="http://im.robx9.top:80/images/fb682bba6d752f69858142610b681be3.png" group-title="F25 M3 Documentários",TLC SD
+http://megaxc.ca:80/ialwg1/iao8wo/647.ts
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT +HD" tvg-logo="http://im.robx9.top:80/images/6a7ef638f3cacf258370a83d3dc741ff.png" group-title="F25 M3 Filmes e Séries",TNT +HD
+http://megaxc.ca:80/ialwg1/iao8wo/31111.ts
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT 4K" tvg-logo="http://im.robx9.top:80/images/6a7ef638f3cacf258370a83d3dc741ff.png" group-title="Canais | ⭐ 4K",TNT 4K
+http://megaxc.ca:80/ialwg1/iao8wo/2129.ts
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT FHD" tvg-logo="http://im.robx9.top:80/images/6a7ef638f3cacf258370a83d3dc741ff.png" group-title="F25 M3 Filmes e Séries",TNT FHD
+http://megaxc.ca:80/ialwg1/iao8wo/649.ts
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT FHD [H265]" tvg-logo="http://im.robx9.top:80/images/6a7ef638f3cacf258370a83d3dc741ff.png" group-title="F25 M3 Filmes e Séries",TNT FHD [H265]
+http://megaxc.ca:80/ialwg1/iao8wo/648.ts
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD" tvg-logo="http://im.robx9.top:80/images/6a7ef638f3cacf258370a83d3dc741ff.png" group-title="F25 M3 Filmes e Séries",TNT HD
+http://megaxc.ca:80/ialwg1/iao8wo/650.ts
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD [LEG]" tvg-logo="http://im.robx9.top:80/images/6a7ef638f3cacf258370a83d3dc741ff.png" group-title="Canais | ✨Legendados",TNT HD [LEG]
+http://megaxc.ca:80/ialwg1/iao8wo/2108963.ts
+#EXTINF:-1 tvg-id="tbs.br" tvg-name="TNT Novelas +HD" tvg-logo="http://im.robx9.top:80/images/e924412cb4d73b1787c0ac63f865c6e6.png" group-title="F25 M3 Filmes e Séries",TNT Novelas +HD
+http://megaxc.ca:80/ialwg1/iao8wo/31112.ts
+#EXTINF:-1 tvg-id="tbs.br" tvg-name="TNT Novelas FHD" tvg-logo="http://im.robx9.top:80/images/e924412cb4d73b1787c0ac63f865c6e6.png" group-title="F25 M3 Filmes e Séries",TNT Novelas FHD
+http://megaxc.ca:80/ialwg1/iao8wo/841.ts
+#EXTINF:-1 tvg-id="tbs.br" tvg-name="TNT Novelas FHD H265" tvg-logo="http://im.robx9.top:80/images/e924412cb4d73b1787c0ac63f865c6e6.png" group-title="F25 M3 Filmes e Séries",TNT Novelas FHD H265
+http://megaxc.ca:80/ialwg1/iao8wo/614.ts
+#EXTINF:-1 tvg-id="tbs.br" tvg-name="TNT Novelas HD" tvg-logo="http://im.robx9.top:80/images/e924412cb4d73b1787c0ac63f865c6e6.png" group-title="F25 M3 Filmes e Séries",TNT Novelas HD
+http://megaxc.ca:80/ialwg1/iao8wo/842.ts
+#EXTINF:-1 tvg-id="tbs.br" tvg-name="TNT Novelas SD" tvg-logo="http://im.robx9.top:80/images/e924412cb4d73b1787c0ac63f865c6e6.png" group-title="F25 M3 Filmes e Séries",TNT Novelas SD
+http://megaxc.ca:80/ialwg1/iao8wo/843.ts
+#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT Series +HD" tvg-logo="http://im.robx9.top:80/images/4eee60c6f14eb1c18aaa2a02ba91991a.png" group-title="F25 M3 Filmes e Séries",TNT Series +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2294.ts
+#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT Series 4K" tvg-logo="http://im.robx9.top:80/images/3d9b6b4d3c0fe15c610dbc7bcfcd93d3.png" group-title="Canais | ⭐ 4K",TNT Series 4K
+http://megaxc.ca:80/ialwg1/iao8wo/2128.ts
+#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT Series FHD" tvg-logo="http://im.robx9.top:80/images/4eee60c6f14eb1c18aaa2a02ba91991a.png" group-title="F25 M3 Filmes e Séries",TNT Series FHD
+http://megaxc.ca:80/ialwg1/iao8wo/653.ts
+#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT Series FHD [H265]" tvg-logo="http://im.robx9.top:80/images/4eee60c6f14eb1c18aaa2a02ba91991a.png" group-title="F25 M3 Filmes e Séries",TNT Series FHD [H265]
+http://megaxc.ca:80/ialwg1/iao8wo/652.ts
+#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT Series HD" tvg-logo="http://im.robx9.top:80/images/4eee60c6f14eb1c18aaa2a02ba91991a.png" group-title="F25 M3 Filmes e Séries",TNT Series HD
+http://megaxc.ca:80/ialwg1/iao8wo/654.ts
+#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT Series HD [LEG]" tvg-logo="http://im.robx9.top:80/images/4eee60c6f14eb1c18aaa2a02ba91991a.png" group-title="Canais | ✨Legendados",TNT Series HD [LEG]
+http://megaxc.ca:80/ialwg1/iao8wo/2108964.ts
+#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Ainda Odeia o Chris" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Todo Mundo Ainda Odeia o Chris
+http://megaxc.ca:80/ialwg1/iao8wo/2115633.ts
+#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",Todo Mundo Odeia o Chris
+http://megaxc.ca:80/ialwg1/iao8wo/31131.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tokusato" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Tokusato
+http://megaxc.ca:80/ialwg1/iao8wo/194261.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tom e Jerry" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Tom e Jerry
+http://megaxc.ca:80/ialwg1/iao8wo/181882.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tom sem Freio" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Tom sem Freio
+http://megaxc.ca:80/ialwg1/iao8wo/181875.ts
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="Tooncast FHD" tvg-logo="http://im.robx9.top:80/images/2ed5b63ca7b41ebb07fd82f963d0963d.png" group-title="F25 M3 Infantil",Tooncast FHD
+http://megaxc.ca:80/ialwg1/iao8wo/656.ts
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="Tooncast HD" tvg-logo="http://im.robx9.top:80/images/2ed5b63ca7b41ebb07fd82f963d0963d.png" group-title="F25 M3 Infantil",Tooncast HD
+http://megaxc.ca:80/ialwg1/iao8wo/657.ts
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="Tooncast HD²" tvg-logo="http://im.robx9.top:80/images/2ed5b63ca7b41ebb07fd82f963d0963d.png" group-title="F25 M3 Infantil",Tooncast HD²
+http://megaxc.ca:80/ialwg1/iao8wo/31114.ts
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="Tooncast SD" tvg-logo="http://im.robx9.top:80/images/2ed5b63ca7b41ebb07fd82f963d0963d.png" group-title="F25 M3 Infantil",Tooncast SD
+http://megaxc.ca:80/ialwg1/iao8wo/658.ts
+#EXTINF:-1 tvg-id="" tvg-name="Toro e Pancho" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Toro e Pancho
+http://megaxc.ca:80/ialwg1/iao8wo/3330.ts
+#EXTINF:-1 tvg-id="" tvg-name="Trace Brazuca FHD" tvg-logo="http://im.robx9.top:80/images/daf31f440fa0d4e1652dc1462a1fc0f7.png" group-title="F25 M3 Variedades",Trace Brazuca FHD
+http://megaxc.ca:80/ialwg1/iao8wo/660.ts
+#EXTINF:-1 tvg-id="" tvg-name="Trace Brazuca FHD H265" tvg-logo="http://im.robx9.top:80/images/daf31f440fa0d4e1652dc1462a1fc0f7.png" group-title="F25 M3 Variedades",Trace Brazuca FHD H265
+http://megaxc.ca:80/ialwg1/iao8wo/659.ts
+#EXTINF:-1 tvg-id="" tvg-name="Trace Brazuca HD" tvg-logo="http://im.robx9.top:80/images/daf31f440fa0d4e1652dc1462a1fc0f7.png" group-title="F25 M3 Variedades",Trace Brazuca HD
+http://megaxc.ca:80/ialwg1/iao8wo/661.ts
+#EXTINF:-1 tvg-id="trace.brazuca.br" tvg-name="Trace Brazuca SD" tvg-logo="http://im.robx9.top:80/images/daf31f440fa0d4e1652dc1462a1fc0f7.png" group-title="F25 M3 Variedades",Trace Brazuca SD
+http://megaxc.ca:80/ialwg1/iao8wo/662.ts
+#EXTINF:-1 tvg-id="" tvg-name="Trace Brazuka +HD" tvg-logo="http://im.robx9.top:80/images/daf31f440fa0d4e1652dc1462a1fc0f7.png" group-title="F25 M3 Músicas",Trace Brazuka +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2077223.ts
+#EXTINF:-1 tvg-id="" tvg-name="Trace Latina +HD" tvg-logo="" group-title="F25 M3 Músicas",Trace Latina +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2077225.ts
+#EXTINF:-1 tvg-id="" tvg-name="Trace Sports +HD" tvg-logo="" group-title="F25 M3 Variedades",Trace Sports +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2077227.ts
+#EXTINF:-1 tvg-id="" tvg-name="Trace Toca +HD" tvg-logo="" group-title="F25 M3 Músicas",Trace Toca +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2077224.ts
+#EXTINF:-1 tvg-id="" tvg-name="Trace Urban +HD" tvg-logo="" group-title="F25 M3 Músicas",Trace Urban +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2077226.ts
+#EXTINF:-1 tvg-id="travel.box.brazil.br" tvg-name="Travel Box Brazil FHD" tvg-logo="http://im.robx9.top:80/images/858ba4a7b0d1f5fcd51a33e90532cb20.png" group-title="F25 M3 Variedades",Travel Box Brazil FHD
+http://megaxc.ca:80/ialwg1/iao8wo/666.ts
+#EXTINF:-1 tvg-id="travel.box.brazil.br" tvg-name="Travel Box Brazil HD" tvg-logo="http://im.robx9.top:80/images/858ba4a7b0d1f5fcd51a33e90532cb20.png" group-title="F25 M3 Variedades",Travel Box Brazil HD
+http://megaxc.ca:80/ialwg1/iao8wo/667.ts
+#EXTINF:-1 tvg-id="travel.box.brazil.br" tvg-name="Travel Box Brazil SD" tvg-logo="http://im.robx9.top:80/images/858ba4a7b0d1f5fcd51a33e90532cb20.png" group-title="F25 M3 Variedades",Travel Box Brazil SD
+http://megaxc.ca:80/ialwg1/iao8wo/668.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tunel do Tempo" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",Tunel do Tempo
+http://megaxc.ca:80/ialwg1/iao8wo/194278.ts
+#EXTINF:-1 tvg-id="" tvg-name="Turma da Monica" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Turma da Monica
+http://megaxc.ca:80/ialwg1/iao8wo/181886.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Acritica HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Logomarca_da_TV_A_Cr%C3%ADtica_-_2024.png/200px-Logomarca_da_TV_A_Cr%C3%ADtica_-_2024.png" group-title="F25 M3 Abertos",TV Acritica HD
+http://megaxc.ca:80/ialwg1/iao8wo/2024699.ts
+#EXTINF:-1 tvg-id="globo.br" tvg-name="TV Anhanguera Araguaiana Tocantins HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Norte-Nordeste",TV Anhanguera Araguaiana Tocantins HD
+http://megaxc.ca:80/ialwg1/iao8wo/983.ts
+#EXTINF:-1 tvg-id="globo.anhanguera.br" tvg-name="TV Anhanguera FHD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Centro-Oeste",TV Anhanguera FHD
+http://megaxc.ca:80/ialwg1/iao8wo/912.ts
+#EXTINF:-1 tvg-id="globo.anhanguera.br" tvg-name="TV Anhanguera Goiania +HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Centro-Oeste",TV Anhanguera Goiania +HD
+http://megaxc.ca:80/ialwg1/iao8wo/30951.ts
+#EXTINF:-1 tvg-id="globo.anhanguera.br" tvg-name="TV Anhanguera Goiania HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Centro-Oeste",TV Anhanguera Goiania HD
+http://megaxc.ca:80/ialwg1/iao8wo/321.ts
+#EXTINF:-1 tvg-id="globo.anhanguera.br" tvg-name="TV Anhanguera Itumbiara HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Centro-Oeste",TV Anhanguera Itumbiara HD
+http://megaxc.ca:80/ialwg1/iao8wo/979.ts
+#EXTINF:-1 tvg-id="globo.anhanguera.br" tvg-name="TV Anhanguera Jatai HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Centro-Oeste",TV Anhanguera Jatai HD
+http://megaxc.ca:80/ialwg1/iao8wo/980.ts
+#EXTINF:-1 tvg-id="tv.anhanguera.luziania.br" tvg-name="TV Anhanguera Luziana HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Centro-Oeste",TV Anhanguera Luziana HD
+http://megaxc.ca:80/ialwg1/iao8wo/981.ts
+#EXTINF:-1 tvg-id="tv.anhanguera.palmas.br" tvg-name="TV Anhanguera Palmas +HD" tvg-logo="http://im.robx9.top:80/images/577cac5ca8770568907276c6e236d425.png" group-title="F25 M3 Globos Norte-Nordeste",TV Anhanguera Palmas +HD
+http://megaxc.ca:80/ialwg1/iao8wo/1061.ts
+#EXTINF:-1 tvg-id="tv.anhanguera.palmas.br" tvg-name="TV Anhanguera Palmas HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Norte-Nordeste",TV Anhanguera Palmas HD
+http://megaxc.ca:80/ialwg1/iao8wo/985.ts
+#EXTINF:-1 tvg-id="tv.anhaguera.catalao.br" tvg-name="TV Anhanguera Rio Verde HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Centro-Oeste",TV Anhanguera Rio Verde HD
+http://megaxc.ca:80/ialwg1/iao8wo/978.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Aparecida FHD" tvg-logo="http://im.robx9.top:80/images/a7cd818bb8068b520d5dea4b0957e8a6.png" group-title="Canais | ⭐ Religiosos",TV Aparecida FHD
+http://megaxc.ca:80/ialwg1/iao8wo/671.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Aparecida FHD H265" tvg-logo="http://im.robx9.top:80/images/a7cd818bb8068b520d5dea4b0957e8a6.png" group-title="Canais | ⭐ Religiosos",TV Aparecida FHD H265
+http://megaxc.ca:80/ialwg1/iao8wo/670.ts
+#EXTINF:-1 tvg-id="tv.aparecida.br" tvg-name="TV Aparecida HD" tvg-logo="http://im.robx9.top:80/images/a7cd818bb8068b520d5dea4b0957e8a6.png" group-title="Canais | ⭐ Religiosos",TV Aparecida HD
+http://megaxc.ca:80/ialwg1/iao8wo/672.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Aparecida HD²" tvg-logo="http://im.robx9.top:80/images/a7cd818bb8068b520d5dea4b0957e8a6.png" group-title="Canais | ⭐ Religiosos",TV Aparecida HD²
+http://megaxc.ca:80/ialwg1/iao8wo/23348.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Aparecida SD" tvg-logo="http://im.robx9.top:80/images/a7cd818bb8068b520d5dea4b0957e8a6.png" group-title="Canais | ⭐ Religiosos",TV Aparecida SD
+http://megaxc.ca:80/ialwg1/iao8wo/673.ts
+#EXTINF:-1 tvg-id="globo.nordeste.br" tvg-name="TV Asa Branca HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Norte-Nordeste",TV Asa Branca HD
+http://megaxc.ca:80/ialwg1/iao8wo/30901.ts
+#EXTINF:-1 tvg-id="globo.bahia.br" tvg-name="TV Bahia +HD" tvg-logo="http://im.robx9.top:80/images/4979a1c54bb0657c38e80c06ddb31991.png" group-title="F25 M3 Globos Norte-Nordeste",TV Bahia +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2149.ts
+#EXTINF:-1 tvg-id="globo.bahia.br" tvg-name="TV Bahia FHD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Norte-Nordeste",TV Bahia FHD
+http://megaxc.ca:80/ialwg1/iao8wo/913.ts
+#EXTINF:-1 tvg-id="globo.bahia.br" tvg-name="TV Bahia HD²" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Norte-Nordeste",TV Bahia HD²
+http://megaxc.ca:80/ialwg1/iao8wo/30902.ts
+#EXTINF:-1 tvg-id="globo.bahia.br" tvg-name="TV Bahia SD" tvg-logo="http://im.robx9.top:80/images/4979a1c54bb0657c38e80c06ddb31991.png" group-title="F25 M3 Globos Norte-Nordeste",TV Bahia SD
+http://megaxc.ca:80/ialwg1/iao8wo/2150.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Brasil FHD" tvg-logo="http://im.robx9.top:80/images/0cbaedacf9b458b8fda81b52d3d0b3a2.png" group-title="F25 M3 Abertos",TV Brasil FHD
+http://megaxc.ca:80/ialwg1/iao8wo/674.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Brasil HD" tvg-logo="http://im.robx9.top:80/images/0cbaedacf9b458b8fda81b52d3d0b3a2.png" group-title="F25 M3 Abertos",TV Brasil HD
+http://megaxc.ca:80/ialwg1/iao8wo/675.ts
+#EXTINF:-1 tvg-id="tv.cabo.branco.br" tvg-name="TV Cabo Branco +HD" tvg-logo="http://im.robx9.top:80/images/b7b74d0503973f12870731901649a433.png" group-title="F25 M3 Globos Norte-Nordeste",TV Cabo Branco +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2152.ts
+#EXTINF:-1 tvg-id="tv.cabo.branco.br" tvg-name="TV Cabo Branco FHD" tvg-logo="http://im.robx9.top:80/images/b7b74d0503973f12870731901649a433.png" group-title="F25 M3 Globos Norte-Nordeste",TV Cabo Branco FHD
+http://megaxc.ca:80/ialwg1/iao8wo/2151.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Camara FHD" tvg-logo="http://im.robx9.top:80/images/5d83681d06ec9ddf3594e4a23c30162f.png" group-title="F25 M3 Abertos",TV Camara FHD
+http://megaxc.ca:80/ialwg1/iao8wo/677.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Camara HD" tvg-logo="http://im.robx9.top:80/images/5d83681d06ec9ddf3594e4a23c30162f.png" group-title="F25 M3 Abertos",TV Camara HD
+http://megaxc.ca:80/ialwg1/iao8wo/678.ts
+#EXTINF:-1 tvg-id="tvcentroaméricacuiabá.br" tvg-name="TV Centro América FHD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Centro-Oeste",TV Centro América FHD
+http://megaxc.ca:80/ialwg1/iao8wo/863.ts
+#EXTINF:-1 tvg-id="tvcentroaméricacuiabá.br" tvg-name="TV Centro América HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Centro-Oeste",TV Centro América HD
+http://megaxc.ca:80/ialwg1/iao8wo/864.ts
+#EXTINF:-1 tvg-id="tvcentroaméricacuiabá.br" tvg-name="TV Centro América HD²" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Centro-Oeste",TV Centro América HD²
+http://megaxc.ca:80/ialwg1/iao8wo/30905.ts
+#EXTINF:-1 tvg-id="tv.centro.america.cuiaba.br" tvg-name="TV Centro-América Rondonópolis FHD" tvg-logo="http://im.robx9.top:80/images/53d75c8bc7e93107363a6605e3c999e9.png" group-title="F25 M3 Globos Centro-Oeste",TV Centro-América Rondonópolis FHD
+http://megaxc.ca:80/ialwg1/iao8wo/1066.ts
+#EXTINF:-1 tvg-id="tvcentroaméricacuiabá.br" tvg-name="TV Centro-América Rondonópolis HD" tvg-logo="http://im.robx9.top:80/images/53d75c8bc7e93107363a6605e3c999e9.png" group-title="F25 M3 Globos Centro-Oeste",TV Centro-América Rondonópolis HD
+http://megaxc.ca:80/ialwg1/iao8wo/2060358.ts
+#EXTINF:-1 tvg-id="tvcentroaméricacuiabá.br" tvg-name="TV Centro-América Sinop HD" tvg-logo="http://im.robx9.top:80/images/53d75c8bc7e93107363a6605e3c999e9.png" group-title="F25 M3 Globos Centro-Oeste",TV Centro-América Sinop HD
+http://megaxc.ca:80/ialwg1/iao8wo/1064.ts
+#EXTINF:-1 tvg-id="tv.clube.br" tvg-name="TV Clube Piaui HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Norte-Nordeste",TV Clube Piaui HD
+http://megaxc.ca:80/ialwg1/iao8wo/30955.ts
+#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV Cultura +HD" tvg-logo="http://im.robx9.top:80/images/889667a55754c0d058d93abf507cff65.png" group-title="F25 M3 Abertos",TV Cultura +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2209.ts
+#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV Cultura FHD" tvg-logo="http://im.robx9.top:80/images/8be079b1fe8734ce8d9e15cad290fd0c.png" group-title="F25 M3 Abertos",TV Cultura FHD
+http://megaxc.ca:80/ialwg1/iao8wo/170.ts
+#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV Cultura HD" tvg-logo="http://im.robx9.top:80/images/8be079b1fe8734ce8d9e15cad290fd0c.png" group-title="F25 M3 Abertos",TV Cultura HD
+http://megaxc.ca:80/ialwg1/iao8wo/171.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Cultura PA HD" tvg-logo="https://3.bp.blogspot.com/-qfKzrkmPnFo/XxLot0Cf8LI/AAAAAAAAGoQ/f4-TQf4RNskA_Uc79CCcrVh4LBEbTmxgACK4BGAYYCw/s1600/CULTURA.png" group-title="F25 M3 Abertos",TV Cultura PA HD
+http://megaxc.ca:80/ialwg1/iao8wo/189313.ts
+#EXTINF:-1 tvg-id="tv.diario.br" tvg-name="TV Diario Fortaleza HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/LOGO_TV_DIARIO_2023.png/200px-LOGO_TV_DIARIO_2023.png" group-title="F25 M3 Abertos",TV Diario Fortaleza HD
+http://megaxc.ca:80/ialwg1/iao8wo/30956.ts
+#EXTINF:-1 tvg-id="tv.diario.br" tvg-name="TV Diario Mogi das Cruzes FHD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sudeste",TV Diario Mogi das Cruzes FHD
+http://megaxc.ca:80/ialwg1/iao8wo/916.ts
+#EXTINF:-1 tvg-id="tv.diario.br" tvg-name="TV Diario Mogi Das Cruzes HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sudeste",TV Diario Mogi Das Cruzes HD
+http://megaxc.ca:80/ialwg1/iao8wo/915.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Escola" tvg-logo="http://im.robx9.top:80/images/cd9b54167b958783bc520cd6afb2378e.png" group-title="F25 M3 Abertos",TV Escola
+http://megaxc.ca:80/ialwg1/iao8wo/679.ts
+#EXTINF:-1 tvg-id="TV Evangelizar" tvg-name="TV Evangelizar" tvg-logo="http://im.robx9.top:80/images/8e06d0fff8e4e3cd31d178aa3131c3ee.png" group-title="Canais | ⭐ Religiosos",TV Evangelizar
+http://megaxc.ca:80/ialwg1/iao8wo/23350.ts
+#EXTINF:-1 tvg-id="globo.sao.paulo.br" tvg-name="TV Fronteira HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sudeste",TV Fronteira HD
+http://megaxc.ca:80/ialwg1/iao8wo/918.ts
+#EXTINF:-1 tvg-id="globonordeste.br" tvg-name="TV Gazeta Alagoas FHD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Norte-Nordeste",TV Gazeta Alagoas FHD
+http://megaxc.ca:80/ialwg1/iao8wo/910.ts
+#EXTINF:-1 tvg-id="globo.nordeste.br" tvg-name="TV Gazeta Alagoas HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Norte-Nordeste",TV Gazeta Alagoas HD
+http://megaxc.ca:80/ialwg1/iao8wo/911.ts
+#EXTINF:-1 tvg-id="tv.mar.alagoas.br" tvg-name="TV Gazeta Alagoas HD²" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Norte-Nordeste",TV Gazeta Alagoas HD²
+http://megaxc.ca:80/ialwg1/iao8wo/30910.ts
+#EXTINF:-1 tvg-id="tvgazeta.br" tvg-name="TV Gazeta ES +HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sudeste",TV Gazeta ES +HD
+http://megaxc.ca:80/ialwg1/iao8wo/43166.ts
+#EXTINF:-1 tvg-id="tvgazetasul.br" tvg-name="TV Gazeta Sul FHD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sudeste",TV Gazeta Sul FHD
+http://megaxc.ca:80/ialwg1/iao8wo/969.ts
+#EXTINF:-1 tvg-id="tvgazetasul.br" tvg-name="TV Gazeta Sul HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sudeste",TV Gazeta Sul HD
+http://megaxc.ca:80/ialwg1/iao8wo/970.ts
+#EXTINF:-1 tvg-id="gazeta.br" tvg-name="TV Gazeta Vitoria FHD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sudeste",TV Gazeta Vitoria FHD
+http://megaxc.ca:80/ialwg1/iao8wo/919.ts
+#EXTINF:-1 tvg-id="tvgazeta.br" tvg-name="TV Gazeta Vitoria HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sudeste",TV Gazeta Vitoria HD
+http://megaxc.ca:80/ialwg1/iao8wo/920.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Gideoes HD" tvg-logo="" group-title="Canais | ⭐ Religiosos",TV Gideoes HD
+http://megaxc.ca:80/ialwg1/iao8wo/2033022.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Guarulhos HD" tvg-logo="http://im.robx9.top:80/images/cd9b54167b958783bc520cd6afb2378e.png" group-title="F25 M3 Abertos",TV Guarulhos HD
+http://megaxc.ca:80/ialwg1/iao8wo/680.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Imaculada HD" tvg-logo="https://iili.io/2j1gvp4.png" group-title="Canais | ⭐ Religiosos",TV Imaculada HD
+http://megaxc.ca:80/ialwg1/iao8wo/2063768.ts
+#EXTINF:-1 tvg-id="globobelohorizonte.br" tvg-name="TV Integ. Juiz de Fora FHD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sudeste",TV Integ. Juiz de Fora FHD
+http://megaxc.ca:80/ialwg1/iao8wo/2039333.ts
+#EXTINF:-1 tvg-id="globo.belo.horizonte.br" tvg-name="TV Integ. Juiz de Fora HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sudeste",TV Integ. Juiz de Fora HD
+http://megaxc.ca:80/ialwg1/iao8wo/924.ts
+#EXTINF:-1 tvg-id="globo.belo.horizonte.br" tvg-name="TV Integração Araxá HD" tvg-logo="http://im.robx9.top:80/images/6d92d11d8faaee58283a4c03ebb43657.png" group-title="F25 M3 Globos Sudeste",TV Integração Araxá HD
+http://megaxc.ca:80/ialwg1/iao8wo/1063.ts
+#EXTINF:-1 tvg-id="globobelohorizonte.br" tvg-name="TV Integração Uberaba FHD" tvg-logo="http://im.robx9.top:80/images/6d92d11d8faaee58283a4c03ebb43657.png" group-title="F25 M3 Globos Sudeste",TV Integração Uberaba FHD
+http://megaxc.ca:80/ialwg1/iao8wo/2045735.ts
+#EXTINF:-1 tvg-id="globobelohorizonte.br" tvg-name="TV Integração Uberaba HD" tvg-logo="http://im.robx9.top:80/images/6d92d11d8faaee58283a4c03ebb43657.png" group-title="F25 M3 Globos Sudeste",TV Integração Uberaba HD
+http://megaxc.ca:80/ialwg1/iao8wo/1062.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Justiça HD" tvg-logo="http://im.robx9.top:80/images/8d29d999d15b6628d5527fc3546fa5ae.png" group-title="F25 M3 Abertos",TV Justiça HD
+http://megaxc.ca:80/ialwg1/iao8wo/681.ts
+#EXTINF:-1 tvg-id="globo.br" tvg-name="TV Liberal Belem HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Norte-Nordeste",TV Liberal Belem HD
+http://megaxc.ca:80/ialwg1/iao8wo/925.ts
+#EXTINF:-1 tvg-id="globo.br" tvg-name="TV Liberal Belem HD²" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Norte-Nordeste",TV Liberal Belem HD²
+http://megaxc.ca:80/ialwg1/iao8wo/30959.ts
+#EXTINF:-1 tvg-id="tv.mirante.sao.luis.br" tvg-name="TV Mirante Balsas Maranhão" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Norte-Nordeste",TV Mirante Balsas Maranhão
+http://megaxc.ca:80/ialwg1/iao8wo/992.ts
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="TV Mirante Cocais HD²" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Norte-Nordeste",TV Mirante Cocais HD²
+http://megaxc.ca:80/ialwg1/iao8wo/30960.ts
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="Tv Mirante Imperatriz HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Norte-Nordeste",Tv Mirante Imperatriz HD
+http://megaxc.ca:80/ialwg1/iao8wo/30961.ts
+#EXTINF:-1 tvg-id="globonordeste.br" tvg-name="TV Mirante Santa Ines HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Norte-Nordeste",TV Mirante Santa Ines HD
+http://megaxc.ca:80/ialwg1/iao8wo/2051845.ts
+#EXTINF:-1 tvg-id="tvmorena.br" tvg-name="TV Morena Corumba FHD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Centro-Oeste",TV Morena Corumba FHD
+http://megaxc.ca:80/ialwg1/iao8wo/193124.ts
+#EXTINF:-1 tvg-id="tvmorena.br" tvg-name="TV Morena Corumba HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Centro-Oeste",TV Morena Corumba HD
+http://megaxc.ca:80/ialwg1/iao8wo/193125.ts
+#EXTINF:-1 tvg-id="tv.morena.br" tvg-name="TV Morena FHD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Centro-Oeste",TV Morena FHD
+http://megaxc.ca:80/ialwg1/iao8wo/926.ts
+#EXTINF:-1 tvg-id="tv.morena.br" tvg-name="TV Morena HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Centro-Oeste",TV Morena HD
+http://megaxc.ca:80/ialwg1/iao8wo/188825.ts
+#EXTINF:-1 tvg-id="tv.morena.br" tvg-name="TV Morena Ponta Pora FHD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Centro-Oeste",TV Morena Ponta Pora FHD
+http://megaxc.ca:80/ialwg1/iao8wo/193126.ts
+#EXTINF:-1 tvg-id="tvmorena.br" tvg-name="TV Morena Ponta Pora HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Centro-Oeste",TV Morena Ponta Pora HD
+http://megaxc.ca:80/ialwg1/iao8wo/193127.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Novo Tempo FHD" tvg-logo="http://im.robx9.top:80/images/a6e5b49cb3552255ffc84c9442990280.png" group-title="Canais | ⭐ Religiosos",TV Novo Tempo FHD
+http://megaxc.ca:80/ialwg1/iao8wo/683.ts
+#EXTINF:-1 tvg-id="tvnovotempo.br" tvg-name="TV Novo Tempo HD" tvg-logo="http://im.robx9.top:80/images/a6e5b49cb3552255ffc84c9442990280.png" group-title="Canais | ⭐ Religiosos",TV Novo Tempo HD
+http://megaxc.ca:80/ialwg1/iao8wo/684.ts
+#EXTINF:-1 tvg-id="globo.bahia.br" tvg-name="TV Oeste Barreiras Bahia" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Norte-Nordeste",TV Oeste Barreiras Bahia
+http://megaxc.ca:80/ialwg1/iao8wo/973.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Padre Cicero HD" tvg-logo="" group-title="Canais | ⭐ Religiosos",TV Padre Cicero HD
+http://megaxc.ca:80/ialwg1/iao8wo/2082641.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Pai Eterno FHD" tvg-logo="http://im.robx9.top:80/images/1bf3731b3407d18732123a457207a8f7.png" group-title="Canais | ⭐ Religiosos",TV Pai Eterno FHD
+http://megaxc.ca:80/ialwg1/iao8wo/686.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Pai Eterno HD" tvg-logo="http://im.robx9.top:80/images/1bf3731b3407d18732123a457207a8f7.png" group-title="Canais | ⭐ Religiosos",TV Pai Eterno HD
+http://megaxc.ca:80/ialwg1/iao8wo/687.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Pai Eterno HD²" tvg-logo="http://im.robx9.top:80/images/1bf3731b3407d18732123a457207a8f7.png" group-title="Canais | ⭐ Religiosos",TV Pai Eterno HD²
+http://megaxc.ca:80/ialwg1/iao8wo/23349.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Pai Eterno SD" tvg-logo="http://im.robx9.top:80/images/1bf3731b3407d18732123a457207a8f7.png" group-title="Canais | ⭐ Religiosos",TV Pai Eterno SD
+http://megaxc.ca:80/ialwg1/iao8wo/688.ts
+#EXTINF:-1 tvg-id="tv.ra.tim.bum.br" tvg-name="TV Ratimbum FHD" tvg-logo="http://im.robx9.top:80/images/2f2442cf355274e041d6705d9a89dc11.png" group-title="F25 M3 Abertos",TV Ratimbum FHD
+http://megaxc.ca:80/ialwg1/iao8wo/690.ts
+#EXTINF:-1 tvg-id="tvratimbum.br" tvg-name="TV Ratimbum HD" tvg-logo="http://im.robx9.top:80/images/2f2442cf355274e041d6705d9a89dc11.png" group-title="F25 M3 Abertos",TV Ratimbum HD
+http://megaxc.ca:80/ialwg1/iao8wo/691.ts
+#EXTINF:-1 tvg-id="tv.ra.tim.bum.br" tvg-name="TV Ratimbum SD" tvg-logo="http://im.robx9.top:80/images/2f2442cf355274e041d6705d9a89dc11.png" group-title="F25 M3 Abertos",TV Ratimbum SD
+http://megaxc.ca:80/ialwg1/iao8wo/692.ts
+#EXTINF:-1 tvg-id="tv.rio.sul.br" tvg-name="TV Rio Sul FHD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sudeste",TV Rio Sul FHD
+http://megaxc.ca:80/ialwg1/iao8wo/930.ts
+#EXTINF:-1 tvg-id="tv.rio.sul.br" tvg-name="TV Rio Sul HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sudeste",TV Rio Sul HD
+http://megaxc.ca:80/ialwg1/iao8wo/931.ts
+#EXTINF:-1 tvg-id="globo.bahia.br" tvg-name="TV Santa Cruz +HD" tvg-logo="http://im.robx9.top:80/images/e93ec550c747ce556196a93d4b355de1.png" group-title="F25 M3 Globos Norte-Nordeste",TV Santa Cruz +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2147.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Senado HD" tvg-logo="http://im.robx9.top:80/images/6b4e93dc2c4014a8d4531173151dbf4d.png" group-title="F25 M3 Abertos",TV Senado HD
+http://megaxc.ca:80/ialwg1/iao8wo/693.ts
+#EXTINF:-1 tvg-id="intertv.serra.mar.br" tvg-name="TV Serra Mar FHD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sudeste",TV Serra Mar FHD
+http://megaxc.ca:80/ialwg1/iao8wo/932.ts
+#EXTINF:-1 tvg-id="intertvserramar.br" tvg-name="TV Serra Mar HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sudeste",TV Serra Mar HD
+http://megaxc.ca:80/ialwg1/iao8wo/933.ts
+#EXTINF:-1 tvg-id="tvtemsorocaba.br" tvg-name="Tv Sorocaba HD²" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sudeste",Tv Sorocaba HD²
+http://megaxc.ca:80/ialwg1/iao8wo/30965.ts
+#EXTINF:-1 tvg-id="globo.bahia.br" tvg-name="TV Subaé +HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Norte-Nordeste",TV Subaé +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2145.ts
+#EXTINF:-1 tvg-id="globo.bahia.br" tvg-name="TV Subaé FHD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Norte-Nordeste",TV Subaé FHD
+http://megaxc.ca:80/ialwg1/iao8wo/2144.ts
+#EXTINF:-1 tvg-id="globo.bahia.br" tvg-name="TV São Francisco +HD" tvg-logo="http://im.robx9.top:80/images/e3fa677c9f733c2f834570079c4ff0c7.png" group-title="F25 M3 Globos Norte-Nordeste",TV São Francisco +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2146.ts
+#EXTINF:-1 tvg-id="tvtemsorocaba.br" tvg-name="TV TEM Bauru FHD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sudeste",TV TEM Bauru FHD
+http://megaxc.ca:80/ialwg1/iao8wo/934.ts
+#EXTINF:-1 tvg-id="globo.sao.paulo.br" tvg-name="TV TEM Bauru HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sudeste",TV TEM Bauru HD
+http://megaxc.ca:80/ialwg1/iao8wo/935.ts
+#EXTINF:-1 tvg-id="globo.sao.paulo.br" tvg-name="TV Tem Bauru HD²" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sudeste",TV Tem Bauru HD²
+http://megaxc.ca:80/ialwg1/iao8wo/30953.ts
+#EXTINF:-1 tvg-id="tv.tem.itapetininga.br" tvg-name="TV TEM Itapetininga HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sudeste",TV TEM Itapetininga HD
+http://megaxc.ca:80/ialwg1/iao8wo/987.ts
+#EXTINF:-1 tvg-id="globo.sao.paulo.br" tvg-name="TV TEM SJRP FHD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sudeste",TV TEM SJRP FHD
+http://megaxc.ca:80/ialwg1/iao8wo/327.ts
+#EXTINF:-1 tvg-id="tvtemsorocaba.br" tvg-name="TV TEM SJRP HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sudeste",TV TEM SJRP HD
+http://megaxc.ca:80/ialwg1/iao8wo/2115399.ts
+#EXTINF:-1 tvg-id="tvtemsorocaba.br" tvg-name="TV TEM Sorocaba FHD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sudeste",TV TEM Sorocaba FHD
+http://megaxc.ca:80/ialwg1/iao8wo/936.ts
+#EXTINF:-1 tvg-id="globo.sao.paulo.br" tvg-name="TV TEM Sorocaba HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sudeste",TV TEM Sorocaba HD
+http://megaxc.ca:80/ialwg1/iao8wo/937.ts
+#EXTINF:-1 tvg-id="globo.tribuna.br" tvg-name="TV Tribuna Santos FHD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sudeste",TV Tribuna Santos FHD
+http://megaxc.ca:80/ialwg1/iao8wo/938.ts
+#EXTINF:-1 tvg-id="globo.tribuna.br" tvg-name="Tv Tribuna Santos HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sudeste",Tv Tribuna Santos HD
+http://megaxc.ca:80/ialwg1/iao8wo/329.ts
+#EXTINF:-1 tvg-id="tvtribunasantos.br" tvg-name="TV Tribuna Santos HD+" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sudeste",TV Tribuna Santos HD+
+http://megaxc.ca:80/ialwg1/iao8wo/2040388.ts
+#EXTINF:-1 tvg-id="globo.tribuna.br" tvg-name="TV Tribuna Santos HD²" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sudeste",TV Tribuna Santos HD²
+http://megaxc.ca:80/ialwg1/iao8wo/30950.ts
+#EXTINF:-1 tvg-id="globo.sao.paulo.br" tvg-name="TV Vanguarda S.J Campos FHD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sudeste",TV Vanguarda S.J Campos FHD
+http://megaxc.ca:80/ialwg1/iao8wo/940.ts
+#EXTINF:-1 tvg-id="globo.sao.paulo.br" tvg-name="TV Vanguarda S.J Dos Campos HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sudeste",TV Vanguarda S.J Dos Campos HD
+http://megaxc.ca:80/ialwg1/iao8wo/941.ts
+#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="TV Vanguarda SJDC FHD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sudeste",TV Vanguarda SJDC FHD
+http://megaxc.ca:80/ialwg1/iao8wo/330.ts
+#EXTINF:-1 tvg-id="tvtemsorocaba.br" tvg-name="TV Vanguarda Taubaté FHD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sudeste",TV Vanguarda Taubaté FHD
+http://megaxc.ca:80/ialwg1/iao8wo/942.ts
+#EXTINF:-1 tvg-id="tvtemsorocaba.br" tvg-name="TV Vanguarda Taubaté HD" tvg-logo="http://im.robx9.top:80/images/6662eb4f0f7e19d49ce93a762a9874da.png" group-title="F25 M3 Globos Sudeste",TV Vanguarda Taubaté HD
+http://megaxc.ca:80/ialwg1/iao8wo/943.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV5 Monde HD" tvg-logo="http://im.robx9.top:80/images/7c1ebade4cd026de6091043c1cf4ea0f.png" group-title="F25 M3 Abertos",TV5 Monde HD
+http://megaxc.ca:80/ialwg1/iao8wo/698.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVE Bahia HD" tvg-logo="https://i.imgur.com/hcAknpq.png" group-title="F25 M3 Abertos",TVE Bahia HD
+http://megaxc.ca:80/ialwg1/iao8wo/186147.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVE HD" tvg-logo="http://im.robx9.top:80/images/a5aaa752d19adf48099e20b31edc1ea2.png" group-title="F25 M3 Abertos",TVE HD
+http://megaxc.ca:80/ialwg1/iao8wo/701.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVE SD" tvg-logo="http://im.robx9.top:80/images/a5aaa752d19adf48099e20b31edc1ea2.png" group-title="F25 M3 Abertos",TVE SD
+http://megaxc.ca:80/ialwg1/iao8wo/702.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass (Reprises)" tvg-logo="http://im.robx9.top:80/images/d15d72fb8f83ed6d1e71f0cf57e1696c.png" group-title="F25 M3 UFC",UFC Fight Pass (Reprises)
+http://megaxc.ca:80/ialwg1/iao8wo/43549.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass +HD" tvg-logo="http://im.robx9.top:80/images/d15d72fb8f83ed6d1e71f0cf57e1696c.png" group-title="F25 M3 UFC",UFC Fight Pass +HD
+http://megaxc.ca:80/ialwg1/iao8wo/43551.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass FHD" tvg-logo="http://im.robx9.top:80/images/d15d72fb8f83ed6d1e71f0cf57e1696c.png" group-title="F25 M3 UFC",UFC Fight Pass FHD
+http://megaxc.ca:80/ialwg1/iao8wo/43550.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass HD" tvg-logo="http://im.robx9.top:80/images/d15d72fb8f83ed6d1e71f0cf57e1696c.png" group-title="F25 M3 UFC",UFC Fight Pass HD
+http://megaxc.ca:80/ialwg1/iao8wo/748.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass HD²" tvg-logo="http://im.robx9.top:80/images/d15d72fb8f83ed6d1e71f0cf57e1696c.png" group-title="F25 M3 UFC",UFC Fight Pass HD²
+http://megaxc.ca:80/ialwg1/iao8wo/31124.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ultraman" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Ultraman
+http://megaxc.ca:80/ialwg1/iao8wo/61512.ts
+#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",Um Maluco no Pedaço
+http://megaxc.ca:80/ialwg1/iao8wo/31133.ts
+#EXTINF:-1 tvg-id="universal.br" tvg-name="Universal Channel HD" tvg-logo="http://im.robx9.top:80/images/34fce4ec35078fca713ab7294593bda8.png" group-title="F25 M3 Filmes e Séries",Universal Channel HD
+http://megaxc.ca:80/ialwg1/iao8wo/705.ts
+#EXTINF:-1 tvg-id="universal.br" tvg-name="Universal Channel +HD" tvg-logo="http://im.robx9.top:80/images/34fce4ec35078fca713ab7294593bda8.png" group-title="F25 M3 Filmes e Séries",Universal Channel +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2297.ts
+#EXTINF:-1 tvg-id="universal.br" tvg-name="Universal Channel 4K" tvg-logo="http://im.robx9.top:80/images/34fce4ec35078fca713ab7294593bda8.png" group-title="Canais | ⭐ 4K",Universal Channel 4K
+http://megaxc.ca:80/ialwg1/iao8wo/2123.ts
+#EXTINF:-1 tvg-id="universal.br" tvg-name="Universal Channel FHD" tvg-logo="http://im.robx9.top:80/images/34fce4ec35078fca713ab7294593bda8.png" group-title="F25 M3 Filmes e Séries",Universal Channel FHD
+http://megaxc.ca:80/ialwg1/iao8wo/704.ts
+#EXTINF:-1 tvg-id="universal.br" tvg-name="Universal Channel FHD [H265]" tvg-logo="http://im.robx9.top:80/images/34fce4ec35078fca713ab7294593bda8.png" group-title="F25 M3 Filmes e Séries",Universal Channel FHD [H265]
+http://megaxc.ca:80/ialwg1/iao8wo/703.ts
+#EXTINF:-1 tvg-id="universal.br" tvg-name="Universal Channel SD" tvg-logo="http://im.robx9.top:80/images/34fce4ec35078fca713ab7294593bda8.png" group-title="F25 M3 Filmes e Séries",Universal Channel SD
+http://megaxc.ca:80/ialwg1/iao8wo/706.ts
+#EXTINF:-1 tvg-id="canal.smithsonian.br" tvg-name="Universal Premium HD" tvg-logo="https://iili.io/Jif1PLv.png" group-title="F25 M3 Filmes e Séries",Universal Premium HD
+http://megaxc.ca:80/ialwg1/iao8wo/185552.ts
+#EXTINF:-1 tvg-id="" tvg-name="Universal Reality" tvg-logo="https://iili.io/Jif0XPp.png" group-title="F25 M3 Variedades",Universal Reality
+http://megaxc.ca:80/ialwg1/iao8wo/2033010.ts
+#EXTINF:-1 tvg-id="" tvg-name="Urban Docs +HD" tvg-logo="" group-title="F25 M3 Variedades",Urban Docs +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2077672.ts
+#EXTINF:-1 tvg-id="" tvg-name="Urban Travel +HD" tvg-logo="" group-title="F25 M3 Variedades",Urban Travel +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2077673.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ursinho Gummi" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Ursinho Gummi
+http://megaxc.ca:80/ialwg1/iao8wo/194279.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ursinhos Carinhosos" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Ursinhos Carinhosos
+http://megaxc.ca:80/ialwg1/iao8wo/3242.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: NHL Network" tvg-logo="https://iili.io/d061qDF.png" group-title="Canais | ⚽ PPV",US: NHL Network
+http://megaxc.ca:80/ialwg1/iao8wo/2033212.ts
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="USA +HD" tvg-logo="http://im.robx9.top:80/images/a27b752fd85d1a632e8c9a7e70290090.png" group-title="F25 M3 Filmes e Séries",USA +HD
+http://megaxc.ca:80/ialwg1/iao8wo/612.ts
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="USA HD" tvg-logo="http://im.robx9.top:80/images/a27b752fd85d1a632e8c9a7e70290090.png" group-title="F25 M3 Filmes e Séries",USA HD
+http://megaxc.ca:80/ialwg1/iao8wo/610.ts
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="USA FHD" tvg-logo="http://im.robx9.top:80/images/a27b752fd85d1a632e8c9a7e70290090.png" group-title="F25 M3 Filmes e Séries",USA FHD
+http://megaxc.ca:80/ialwg1/iao8wo/611.ts
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="USA SD" tvg-logo="http://im.robx9.top:80/images/a27b752fd85d1a632e8c9a7e70290090.png" group-title="F25 M3 Filmes e Séries",USA SD
+http://megaxc.ca:80/ialwg1/iao8wo/613.ts
+#EXTINF:-1 tvg-id="" tvg-name="Velozes e Furiosos" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Velozes e Furiosos
+http://megaxc.ca:80/ialwg1/iao8wo/173531.ts
+#EXTINF:-1 tvg-id="venus.br" tvg-name="Venus FHD" tvg-logo="http://im.robx9.top:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",Venus FHD
+http://megaxc.ca:80/ialwg1/iao8wo/737.ts
+#EXTINF:-1 tvg-id="venus.br" tvg-name="Venus HD" tvg-logo="http://im.robx9.top:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",Venus HD
+http://megaxc.ca:80/ialwg1/iao8wo/707.ts
+#EXTINF:-1 tvg-id="" tvg-name="Wally Gator" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",Wally Gator
+http://megaxc.ca:80/ialwg1/iao8wo/3341.ts
+#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="Warner Channel +HD" tvg-logo="http://im.robx9.top:80/images/1660885848050e9ca9746ddd54e2de25.png" group-title="F25 M3 Filmes e Séries",Warner Channel +HD
+http://megaxc.ca:80/ialwg1/iao8wo/716.ts
+#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="Warner Channel HD" tvg-logo="http://im.robx9.top:80/images/1660885848050e9ca9746ddd54e2de25.png" group-title="F25 M3 Filmes e Séries",Warner Channel HD
+http://megaxc.ca:80/ialwg1/iao8wo/715.ts
+#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="Warner Channel 4K" tvg-logo="http://im.robx9.top:80/images/1660885848050e9ca9746ddd54e2de25.png" group-title="Canais | ⭐ 4K",Warner Channel 4K
+http://megaxc.ca:80/ialwg1/iao8wo/2109881.ts
+#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="Warner Channel FHD" tvg-logo="http://im.robx9.top:80/images/1660885848050e9ca9746ddd54e2de25.png" group-title="F25 M3 Filmes e Séries",Warner Channel FHD
+http://megaxc.ca:80/ialwg1/iao8wo/714.ts
+#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="Warner Channel FHD [H265]" tvg-logo="http://im.robx9.top:80/images/1660885848050e9ca9746ddd54e2de25.png" group-title="F25 M3 Filmes e Séries",Warner Channel FHD [H265]
+http://megaxc.ca:80/ialwg1/iao8wo/713.ts
+#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="Warner Channel HD [LEG]" tvg-logo="http://im.robx9.top:80/images/1660885848050e9ca9746ddd54e2de25.png" group-title="Canais | ✨Legendados",Warner Channel HD [LEG]
+http://megaxc.ca:80/ialwg1/iao8wo/2108965.ts
+#EXTINF:-1 tvg-id="" tvg-name="WWE Fight Network HD²" tvg-logo="" group-title="Canais | ⚽ PPV",WWE Fight Network HD²
+http://megaxc.ca:80/ialwg1/iao8wo/2096688.ts
+#EXTINF:-1 tvg-id="" tvg-name="Xsports +HD" tvg-logo="https://i.imgur.com/FGCmwcn.png" group-title="Canais | ⚽ Esportes",Xsports +HD
+http://megaxc.ca:80/ialwg1/iao8wo/2106014.ts
+#EXTINF:-1 tvg-id="" tvg-name="Xsports FHD" tvg-logo="https://i.imgur.com/FGCmwcn.png" group-title="Canais | ⚽ Esportes",Xsports FHD
+http://megaxc.ca:80/ialwg1/iao8wo/2106015.ts
+#EXTINF:-1 tvg-id="" tvg-name="Xsports FHD H265" tvg-logo="https://i.imgur.com/FGCmwcn.png" group-title="Canais | ⚽ Esportes",Xsports FHD H265
+http://megaxc.ca:80/ialwg1/iao8wo/2106698.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zapping Mix Esportes" tvg-logo="http://www.fontedoscanais.com/logos/canais/zappingsports.png" group-title="Canais | ⚽ SportyNet",Zapping Mix Esportes
+http://megaxc.ca:80/ialwg1/iao8wo/2079309.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zapping Sports 01 HD" tvg-logo="http://www.fontedoscanais.com/logos/canais/zappingsports.png" group-title="Canais | ⚽ SportyNet",Zapping Sports 01 HD
+http://megaxc.ca:80/ialwg1/iao8wo/2011336.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zapping Sports 02 HD" tvg-logo="http://www.fontedoscanais.com/logos/canais/zappingsports.png" group-title="Canais | ⚽ SportyNet",Zapping Sports 02 HD
+http://megaxc.ca:80/ialwg1/iao8wo/2079310.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zapping Sports 03 HD" tvg-logo="http://www.fontedoscanais.com/logos/canais/zappingsports.png" group-title="Canais | ⚽ SportyNet",Zapping Sports 03 HD
+http://megaxc.ca:80/ialwg1/iao8wo/2080173.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zapping Sports 04 HD" tvg-logo="http://www.fontedoscanais.com/logos/canais/zappingsports.png" group-title="Canais | ⚽ SportyNet",Zapping Sports 04 HD
+http://megaxc.ca:80/ialwg1/iao8wo/2080174.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zoey 101" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",Zoey 101
+http://megaxc.ca:80/ialwg1/iao8wo/2015304.ts
+#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="Zoomoo FHD" tvg-logo="http://im.robx9.top:80/images/139da7656a10e47ed74fb3c3a55f7bd0.png" group-title="F25 M3 Variedades",Zoomoo FHD
+http://megaxc.ca:80/ialwg1/iao8wo/718.ts
+#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="Zoomoo HD" tvg-logo="http://im.robx9.top:80/images/139da7656a10e47ed74fb3c3a55f7bd0.png" group-title="F25 M3 Variedades",Zoomoo HD
+http://megaxc.ca:80/ialwg1/iao8wo/719.ts
+#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="Zoomoo Kids +HD" tvg-logo="http://im.robx9.top:80/images/139da7656a10e47ed74fb3c3a55f7bd0.png" group-title="F25 M3 Infantil",Zoomoo Kids +HD
+http://megaxc.ca:80/ialwg1/iao8wo/720.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+SBT] Novelas" tvg-logo="https://iili.io/djkhaSt.png" group-title="Canais | ✨SBT",[+SBT] Novelas
+http://megaxc.ca:80/ialwg1/iao8wo/2037266.ts
+#EXTINF:-1 tvg-id="" tvg-name="[+SBT] TV Zyn" tvg-logo="https://iili.io/djkhaSt.png" group-title="Canais | ✨SBT",[+SBT] TV Zyn
+http://megaxc.ca:80/ialwg1/iao8wo/2037261.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 01" tvg-logo="http://im.robx9.top:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",24H-XXX ADULTO 01
+http://megaxc.ca:80/ialwg1/iao8wo/3289.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 02" tvg-logo="http://im.robx9.top:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",24H-XXX ADULTO 02
+http://megaxc.ca:80/ialwg1/iao8wo/3290.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 03" tvg-logo="http://im.robx9.top:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",24H-XXX ADULTO 03
+http://megaxc.ca:80/ialwg1/iao8wo/3291.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 04" tvg-logo="http://im.robx9.top:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",24H-XXX ADULTO 04
+http://megaxc.ca:80/ialwg1/iao8wo/3292.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 05" tvg-logo="http://im.robx9.top:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",24H-XXX ADULTO 05
+http://megaxc.ca:80/ialwg1/iao8wo/3293.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 06" tvg-logo="http://im.robx9.top:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",24H-XXX ADULTO 06
+http://megaxc.ca:80/ialwg1/iao8wo/3294.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 07" tvg-logo="http://im.robx9.top:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",24H-XXX ADULTO 07
+http://megaxc.ca:80/ialwg1/iao8wo/3295.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 08" tvg-logo="http://im.robx9.top:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",24H-XXX ADULTO 08
+http://megaxc.ca:80/ialwg1/iao8wo/3296.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 09" tvg-logo="http://im.robx9.top:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",24H-XXX ADULTO 09
+http://megaxc.ca:80/ialwg1/iao8wo/3297.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 10" tvg-logo="http://im.robx9.top:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",24H-XXX ADULTO 10
+http://megaxc.ca:80/ialwg1/iao8wo/3298.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 11" tvg-logo="http://im.robx9.top:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",24H-XXX ADULTO 11
+http://megaxc.ca:80/ialwg1/iao8wo/3299.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H-XXX GAY HD" tvg-logo="http://im.robx9.top:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",24H-XXX GAY HD
+http://megaxc.ca:80/ialwg1/iao8wo/3315.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H-XXX LATINAS" tvg-logo="http://im.robx9.top:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",24H-XXX LATINAS
+http://megaxc.ca:80/ialwg1/iao8wo/3316.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H-XXX LESBICAS HD" tvg-logo="http://im.robx9.top:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",24H-XXX LESBICAS HD
+http://megaxc.ca:80/ialwg1/iao8wo/3314.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX : ADULTS 16" tvg-logo="http://im.robx9.top:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",XXX : ADULTS 16
+http://megaxc.ca:80/ialwg1/iao8wo/2110562.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX : ADULTS 17" tvg-logo="http://im.robx9.top:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",XXX : ADULTS 17
+http://megaxc.ca:80/ialwg1/iao8wo/2110563.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX : ADULTS 18" tvg-logo="http://im.robx9.top:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",XXX : ADULTS 18
+http://megaxc.ca:80/ialwg1/iao8wo/2110564.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX : ADULTS 19" tvg-logo="http://im.robx9.top:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",XXX : ADULTS 19
+http://megaxc.ca:80/ialwg1/iao8wo/2110565.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX : ADULTS 20" tvg-logo="http://im.robx9.top:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",XXX : ADULTS 20
+http://megaxc.ca:80/ialwg1/iao8wo/2110566.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX : ADULTS 21" tvg-logo="http://im.robx9.top:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",XXX : ADULTS 21
+http://megaxc.ca:80/ialwg1/iao8wo/2110567.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX : ADULTS 22" tvg-logo="http://im.robx9.top:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",XXX : ADULTS 22
+http://megaxc.ca:80/ialwg1/iao8wo/2110568.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX : ADULTS 23" tvg-logo="http://im.robx9.top:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",XXX : ADULTS 23
+http://megaxc.ca:80/ialwg1/iao8wo/2110569.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX : ADULTS 24" tvg-logo="http://im.robx9.top:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",XXX : ADULTS 24
+http://megaxc.ca:80/ialwg1/iao8wo/2110570.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX : ADULTS 26" tvg-logo="http://im.robx9.top:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",XXX : ADULTS 26
+http://megaxc.ca:80/ialwg1/iao8wo/2110572.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX : ADULTS 27" tvg-logo="http://im.robx9.top:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",XXX : ADULTS 27
+http://megaxc.ca:80/ialwg1/iao8wo/2110573.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Amadoras" tvg-logo="http://im.robx9.top:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",XXX: Amadoras
+http://megaxc.ca:80/ialwg1/iao8wo/2082665.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Bisexual" tvg-logo="http://im.robx9.top:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",XXX: Bisexual
+http://megaxc.ca:80/ialwg1/iao8wo/2109105.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zapping Music Classics (HD)" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Músicas 24H",Zapping Music Classics (HD)
+http://megaxc.ca:80/ialwg1/iao8wo/2121284.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zapping Music Hits (HD)" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Músicas 24H",Zapping Music Hits (HD)
+http://megaxc.ca:80/ialwg1/iao8wo/2121285.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zapping Music LoFi (HD)" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Músicas 24H",Zapping Music LoFi (HD)
+http://megaxc.ca:80/ialwg1/iao8wo/2121286.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zapping Music MPB (HD)" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Músicas 24H",Zapping Music MPB (HD)
+http://megaxc.ca:80/ialwg1/iao8wo/2121287.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zapping Music Retro (HD)" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Músicas 24H",Zapping Music Retro (HD)
+http://megaxc.ca:80/ialwg1/iao8wo/2121288.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zapping Music Rock (HD)" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Músicas 24H",Zapping Music Rock (HD)
+http://megaxc.ca:80/ialwg1/iao8wo/2121289.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zapping Music Samba e Pagode (HD)" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Músicas 24H",Zapping Music Samba e Pagode (HD)
+http://megaxc.ca:80/ialwg1/iao8wo/2121290.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zapping Music Sertanejo (HD)" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Músicas 24H",Zapping Music Sertanejo (HD)
+http://megaxc.ca:80/ialwg1/iao8wo/2121291.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zapping Music Soft Pop (HD)" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Músicas 24H",Zapping Music Soft Pop (HD)
+http://megaxc.ca:80/ialwg1/iao8wo/2121292.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zapping Music Urban Brasil (HD)" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Músicas 24H",Zapping Music Urban Brasil (HD)
+http://megaxc.ca:80/ialwg1/iao8wo/2121293.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Akustika" tvg-logo="" group-title="Canais | Radios",Radio Akustika
+http://megaxc.ca:80/ialwg1/iao8wo/2122402.ts
+#EXTINF:-1 tvg-id="" tvg-name="Marvel - Luke Cage" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Cine 24H",Marvel - Luke Cage
+http://megaxc.ca:80/ialwg1/iao8wo/24402.ts
+#EXTINF:-1 tvg-id="" tvg-name="Marvel - O Justiceiro" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Cine 24H",Marvel - O Justiceiro
+http://megaxc.ca:80/ialwg1/iao8wo/24401.ts
+#EXTINF:-1 tvg-id="" tvg-name="AGENTES DA S.H.I.E.L.D. DA MARVEL" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Cine 24H",AGENTES DA S.H.I.E.L.D. DA MARVEL
+http://megaxc.ca:80/ialwg1/iao8wo/2126321.ts
+#EXTINF:-1 tvg-id="" tvg-name="MARVEL AGENTE CARTER" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Cine 24H",MARVEL AGENTE CARTER
+http://megaxc.ca:80/ialwg1/iao8wo/2126322.ts
+#EXTINF:-1 tvg-id="" tvg-name="MARVEL JESSICA JONES" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Cine 24H",MARVEL JESSICA JONES
+http://megaxc.ca:80/ialwg1/iao8wo/2126323.ts
+#EXTINF:-1 tvg-id="" tvg-name="MARVEL OS DEFENSORES" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Cine 24H",MARVEL OS DEFENSORES
+http://megaxc.ca:80/ialwg1/iao8wo/2126324.ts
+#EXTINF:-1 tvg-id="" tvg-name="MARVEL PUNHO DE FERRO" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Cine 24H",MARVEL PUNHO DE FERRO
+http://megaxc.ca:80/ialwg1/iao8wo/2126325.ts
+#EXTINF:-1 tvg-id="" tvg-name="MASTERCHEF" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",MASTERCHEF
+http://megaxc.ca:80/ialwg1/iao8wo/2126326.ts
+#EXTINF:-1 tvg-id="" tvg-name="MASTERCHEF CONFEITARIA" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",MASTERCHEF CONFEITARIA
+http://megaxc.ca:80/ialwg1/iao8wo/2126327.ts
+#EXTINF:-1 tvg-id="" tvg-name="MASTERCHEF JÚNIOR" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",MASTERCHEF JÚNIOR
+http://megaxc.ca:80/ialwg1/iao8wo/2126328.ts
+#EXTINF:-1 tvg-id="" tvg-name="MS. MARVEL" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Cine 24H",MS. MARVEL
+http://megaxc.ca:80/ialwg1/iao8wo/2126329.ts
+#EXTINF:-1 tvg-id="" tvg-name="MULHER-HULK: DEFENSORA DE HERÓIS" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Cine 24H",MULHER-HULK: DEFENSORA DE HERÓIS
+http://megaxc.ca:80/ialwg1/iao8wo/2126330.ts
+#EXTINF:-1 tvg-id="" tvg-name="MARVEL: HOMEM-ARANHA" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Cine 24H",MARVEL: HOMEM-ARANHA
+http://megaxc.ca:80/ialwg1/iao8wo/2126331.ts
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",Breaking Bad
+http://megaxc.ca:80/ialwg1/iao8wo/3135.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALIENÍGENAS DO PASSADO" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",ALIENÍGENAS DO PASSADO
+http://megaxc.ca:80/ialwg1/iao8wo/2126356.ts
+#EXTINF:-1 tvg-id="" tvg-name="ANOS INCRÍVEIS" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",ANOS INCRÍVEIS
+http://megaxc.ca:80/ialwg1/iao8wo/2126357.ts
+#EXTINF:-1 tvg-id="" tvg-name="AS VISÕES DA RAVEN" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",AS VISÕES DA RAVEN
+http://megaxc.ca:80/ialwg1/iao8wo/2126358.ts
+#EXTINF:-1 tvg-id="" tvg-name="BROOKLYN NINE-NINE: LEI E DESORDEM" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",BROOKLYN NINE-NINE: LEI E DESORDEM
+http://megaxc.ca:80/ialwg1/iao8wo/2126359.ts
+#EXTINF:-1 tvg-id="" tvg-name="CSI: CYBER" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",CSI: CYBER
+http://megaxc.ca:80/ialwg1/iao8wo/2126360.ts
+#EXTINF:-1 tvg-id="" tvg-name="CSI: INVESTIGAÇÃO CRIMINAL" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",CSI: INVESTIGAÇÃO CRIMINAL
+http://megaxc.ca:80/ialwg1/iao8wo/2126361.ts
+#EXTINF:-1 tvg-id="" tvg-name="CSI: MIAMI" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",CSI: MIAMI
+http://megaxc.ca:80/ialwg1/iao8wo/2126362.ts
+#EXTINF:-1 tvg-id="" tvg-name="CSI: NOVA YORK" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",CSI: NOVA YORK
+http://megaxc.ca:80/ialwg1/iao8wo/2126363.ts
+#EXTINF:-1 tvg-id="" tvg-name="CSI: VEGAS" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",CSI: VEGAS
+http://megaxc.ca:80/ialwg1/iao8wo/2126364.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE FÉRIAS COM O EX BRASIL" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",DE FÉRIAS COM O EX BRASIL
+http://megaxc.ca:80/ialwg1/iao8wo/2126365.ts
+#EXTINF:-1 tvg-id="" tvg-name="DR. HOUSE" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",DR. HOUSE
+http://megaxc.ca:80/ialwg1/iao8wo/2126366.ts
+#EXTINF:-1 tvg-id="" tvg-name="FEBRE DO OURO" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",FEBRE DO OURO
+http://megaxc.ca:80/ialwg1/iao8wo/2126367.ts
+#EXTINF:-1 tvg-id="" tvg-name="FRIENDS" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",FRIENDS
+http://megaxc.ca:80/ialwg1/iao8wo/2126368.ts
+#EXTINF:-1 tvg-id="" tvg-name="GAME OF THRONES" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",GAME OF THRONES
+http://megaxc.ca:80/ialwg1/iao8wo/2126369.ts
+#EXTINF:-1 tvg-id="" tvg-name="HANNAH MONTANA" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",HANNAH MONTANA
+http://megaxc.ca:80/ialwg1/iao8wo/2126370.ts
+#EXTINF:-1 tvg-id="" tvg-name="ICARLY" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",ICARLY
+http://megaxc.ca:80/ialwg1/iao8wo/2126371.ts
+#EXTINF:-1 tvg-id="" tvg-name="LINHA DIRETA" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",LINHA DIRETA
+http://megaxc.ca:80/ialwg1/iao8wo/2126372.ts
+#EXTINF:-1 tvg-id="" tvg-name="LISTA NEGRA" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",LISTA NEGRA
+http://megaxc.ca:80/ialwg1/iao8wo/2126373.ts
+#EXTINF:-1 tvg-id="" tvg-name="LISTA NEGRA: REDENÇÃO" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",LISTA NEGRA: REDENÇÃO
+http://megaxc.ca:80/ialwg1/iao8wo/2126374.ts
+#EXTINF:-1 tvg-id="" tvg-name="LADY NIGHT" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",LADY NIGHT
+http://megaxc.ca:80/ialwg1/iao8wo/2126375.ts
+#EXTINF:-1 tvg-id="" tvg-name="LARGADOS E PELADOS" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",LARGADOS E PELADOS
+http://megaxc.ca:80/ialwg1/iao8wo/2126376.ts
+#EXTINF:-1 tvg-id="" tvg-name="LARGADOS E PELADOS: A TRIBO" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",LARGADOS E PELADOS: A TRIBO
+http://megaxc.ca:80/ialwg1/iao8wo/2126377.ts
+#EXTINF:-1 tvg-id="" tvg-name="LARGADOS E PELADOS: LATINOS" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",LARGADOS E PELADOS: LATINOS
+http://megaxc.ca:80/ialwg1/iao8wo/2126378.ts
+#EXTINF:-1 tvg-id="" tvg-name="SHARK TANK BRASIL: NEGOCIANDO COM TUBARÕES" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",SHARK TANK BRASIL: NEGOCIANDO COM TUBARÕES
+http://megaxc.ca:80/ialwg1/iao8wo/2126379.ts
+#EXTINF:-1 tvg-id="" tvg-name="OS SUBURBANOS" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Séries 24H",OS SUBURBANOS
+http://megaxc.ca:80/ialwg1/iao8wo/2126380.ts
+#EXTINF:-1 tvg-id="" tvg-name="Falcao O Soldado Invernal" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Cine 24H",Falcao O Soldado Invernal
+http://megaxc.ca:80/ialwg1/iao8wo/175691.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rambo" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Cine 24H",Rambo
+http://megaxc.ca:80/ialwg1/iao8wo/2126395.ts
+
 
 
 # --- Adult Iptv ---
