@@ -1,5 +1,5 @@
 # --- Cameras Torres ---
-#EXTM3U
+#EXTM3U x-tvg-url="http://7vnx.xyz:80/xmltv.php?username=7csplay&password=seven2022,http://play.1list.vip/xmltv.php?username=5550388689&password=simpleiptv,http://yesme.shop/xmltv.php?username=Gledson&password=Gledson,http://megaxc.ca/xmltv.php?username=ialwg1&password=iao8wo"
 #EXTINF:-1 tvg-id="hbo.br" tvg-name="Esquina do RS" tvg-logo="https://torres.rs.gov.br/wp-content/uploads/2025/03/brasao-cor.png" group-title="Cameras Ao Vivo Torres RS",Esquina do RS
 https://video02.logicahost.com.br/esquinars/esquinars/chunklist_w864999219.m3u8
 #EXTINF:-1 tvg-id="PraiaMolhes.trs" tvg-name="Praia dos Molhes" tvg-logo="https://torres.rs.gov.br/wp-content/uploads/2025/03/brasao-cor.png" group-title="Cameras Ao Vivo Torres RS",Praia dos Molhes
