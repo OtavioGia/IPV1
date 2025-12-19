@@ -24,6 +24,8 @@ https://video02.logicahost.com.br/tabernaorla/tabernaorla/chunklist_w345078001.m
 https://video02.logicahost.com.br/taberna/taberna/chunklist_w2027891515.m3u8
 #EXTINF:-1 tvg-id="AvBeiraMar.trs" tvg-name="Av Beira Mar" tvg-logo="https://torres.rs.gov.br/wp-content/uploads/2025/03/brasao-cor.png" group-title="Cameras Ao Vivo Torres RS",Av Beira Mar
 https://video02.logicahost.com.br/avbeiramar/avbeiramar/chunklist_w1429479560.m3u8
+#EXTINF:-1 tvg-id="QuiosquesBeiraMar.trs" tvg-name="Quiosques Beira Mar" tvg-logo="https://torres.rs.gov.br/wp-content/uploads/2025/03/brasao-cor.png" group-title="Cameras Ao Vivo Torres RS",Quiosques Beira Mar
+https://video02.logicahost.com.br/beiramar/beiramar/chunklist_w212849211.m3u8
 #EXTINF:-1 tvg-id="PraiaGrande1.trs" tvg-name="Praia Grande 1" tvg-logo="https://torres.rs.gov.br/wp-content/uploads/2025/03/brasao-cor.png" group-title="Cameras Ao Vivo Torres RS",Praia Grande 1
 https://video02.logicahost.com.br/praiakioske/praiakioske/chunklist_w1792262557.m3u8
 #EXTINF:-1 tvg-id="PraiaGrande2.trs" tvg-name="Praia Grande 2" tvg-logo="https://torres.rs.gov.br/wp-content/uploads/2025/03/brasao-cor.png" group-title="Cameras Ao Vivo Torres RS",Praia Grande 2
@@ -82,6 +84,8 @@ https://video02.logicahost.com.br/mammablend/mammablend/chunklist_w1420156898.m3
 https://video02.logicahost.com.br/balon1/balon1/chunklist_w1801681162.m3u8
 #EXTINF:-1 tvg-id="Stok.trs" tvg-name="Stok - Estrada do Mar x Av. Castelo Branco" tvg-logo="https://torres.rs.gov.br/wp-content/uploads/2025/03/brasao-cor.png" group-title="Cameras Ao Vivo Torres RS",Stok - Estrada do Mar x Av. Castelo Branco
 https://video02.logicahost.com.br/estradadomar/estradadomar/chunklist_w181896055.m3u8
+#EXTINF:-1 tvg-id="CasteloBrancoCom101.trs" tvg-name="Castelo Branco com 101" tvg-logo="https://torres.rs.gov.br/wp-content/uploads/2025/03/brasao-cor.png" group-title="Cameras Ao Vivo Torres RS",Castelo Branco com 101
+https://video02.logicahost.com.br/avcastelobranco101/avcastelobranco101/chunklist_w27801430.m3u8
 #EXTINF:-1 tvg-id="RotulaItapevaEstradaDoMar.trs" tvg-name="Rótula Itapeva x Estrada do Mar" tvg-logo="https://torres.rs.gov.br/wp-content/uploads/2025/03/brasao-cor.png" group-title="Cameras Ao Vivo Torres RS",Rótula Itapeva x Estrada do Mar
 https://video02.logicahost.com.br/itapeva/itapeva/chunklist_w1086363365.m3u8
 #EXTINF:-1 tvg-id="PraiaParaiso.trs" tvg-name="Praia Paraíso" tvg-logo="https://torres.rs.gov.br/wp-content/uploads/2025/03/brasao-cor.png" group-title="Cameras Ao Vivo Torres RS",Praia Paraíso
