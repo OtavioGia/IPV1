@@ -13814,20 +13814,6 @@ http://7vnx.xyz:8080/delcio/99118656/332234
 http://7vnx.xyz:8080/delcio/99118656/332236
 #EXTINF:-1 tvg-id="" tvg-name="ZAPPING BRASILEIRÃO (SÉRIE C) 02 HD¹" tvg-logo="http://7logos.top/logos/zappinghd.png" group-title="F18 M3 ESPORTES PAY PER VIEW",ZAPPING BRASILEIRÃO (SÉRIE C) 02 HD¹
 http://7vnx.xyz:8080/delcio/99118656/332235
-#EXTINF:-1 tvg-id="" tvg-name="URBAN DOCS HD¹" tvg-logo="http://7logos.top/logos/urbandocshd.png" group-title="DESATIVADOS",URBAN DOCS HD¹
-http://7vnx.xyz:8080/delcio/99118656/322317
-#EXTINF:-1 tvg-id="" tvg-name="URBAN KIDS HD¹" tvg-logo="http://7logos.top/logos/urbankidshd.png" group-title="DESATIVADOS",URBAN KIDS HD¹
-http://7vnx.xyz:8080/delcio/99118656/322318
-#EXTINF:-1 tvg-id="" tvg-name="URBAN MOVIES HD¹" tvg-logo="http://7logos.top/logos/urbanmovieshd.png" group-title="DESATIVADOS",URBAN MOVIES HD¹
-http://7vnx.xyz:8080/delcio/99118656/322319
-#EXTINF:-1 tvg-id="" tvg-name="URBAN RETRÔ HD¹" tvg-logo="http://7logos.top/logos/urbanretrohd.png" group-title="DESATIVADOS",URBAN RETRÔ HD¹
-http://7vnx.xyz:8080/delcio/99118656/322316
-#EXTINF:-1 tvg-id="" tvg-name="URBAN SÉRIES HD¹" tvg-logo="http://server.pserver2.com:80/live/qXVZfUIOZj/a6svNsvlqY/1297.ts" group-title="DESATIVADOS",URBAN SÉRIES HD¹
-http://7vnx.xyz:8080/delcio/99118656/322320
-#EXTINF:-1 tvg-id="" tvg-name="URBAN TRAVEL HD¹" tvg-logo="http://7logos.top/logos/urbantravelhd.png" group-title="DESATIVADOS",URBAN TRAVEL HD¹
-http://7vnx.xyz:8080/delcio/99118656/322321
-#EXTINF:-1 tvg-id="" tvg-name="URBAN TURBO HD¹" tvg-logo="http://7logos.top/logos/urbanturbohd.png" group-title="DESATIVADOS",URBAN TURBO HD¹
-http://7vnx.xyz:8080/delcio/99118656/322315
 #EXTINF:-1 tvg-id="" tvg-name="BRASILEIRÃO (SÉRIE D) 01 HD²" tvg-logo="http://7logos.top/logos/brasileiraoseriedhd.png" group-title="F18 M3 DAZN",BRASILEIRÃO (SÉRIE D) 01 HD²
 http://7vnx.xyz:8080/delcio/99118656/313064
 #EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO SP UHD¹" tvg-logo="http://7logos.top/logos/globo4k.png" group-title="F18 M3 UHD (4K)",GLOBO SP UHD¹
