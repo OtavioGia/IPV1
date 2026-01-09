@@ -401,20 +401,6 @@ http://7vnx.xyz:8080/7csplay/seven2022/332234
 http://7vnx.xyz:8080/7csplay/seven2022/332236
 #EXTINF:-1 tvg-id="" tvg-name="ZAPPING BRASILEIRÃO (SÉRIE C) 02 HD¹" tvg-logo="http://7logos.top/logos/zappinghd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",ZAPPING BRASILEIRÃO (SÉRIE C) 02 HD¹
 http://7vnx.xyz:8080/7csplay/seven2022/332235
-#EXTINF:-1 tvg-id="" tvg-name="URBAN DOCS HD¹" tvg-logo="http://7logos.top/logos/urbandocshd.png" group-title="DESATIVADOS",URBAN DOCS HD¹
-http://7vnx.xyz:8080/7csplay/seven2022/322317
-#EXTINF:-1 tvg-id="" tvg-name="URBAN KIDS HD¹" tvg-logo="http://7logos.top/logos/urbankidshd.png" group-title="DESATIVADOS",URBAN KIDS HD¹
-http://7vnx.xyz:8080/7csplay/seven2022/322318
-#EXTINF:-1 tvg-id="" tvg-name="URBAN MOVIES HD¹" tvg-logo="http://7logos.top/logos/urbanmovieshd.png" group-title="DESATIVADOS",URBAN MOVIES HD¹
-http://7vnx.xyz:8080/7csplay/seven2022/322319
-#EXTINF:-1 tvg-id="" tvg-name="URBAN RETRÔ HD¹" tvg-logo="http://7logos.top/logos/urbanretrohd.png" group-title="DESATIVADOS",URBAN RETRÔ HD¹
-http://7vnx.xyz:8080/7csplay/seven2022/322316
-#EXTINF:-1 tvg-id="" tvg-name="URBAN SÉRIES HD¹" tvg-logo="http://server.pserver2.com:80/live/qXVZfUIOZj/a6svNsvlqY/1297.ts" group-title="DESATIVADOS",URBAN SÉRIES HD¹
-http://7vnx.xyz:8080/7csplay/seven2022/322320
-#EXTINF:-1 tvg-id="" tvg-name="URBAN TRAVEL HD¹" tvg-logo="http://7logos.top/logos/urbantravelhd.png" group-title="DESATIVADOS",URBAN TRAVEL HD¹
-http://7vnx.xyz:8080/7csplay/seven2022/322321
-#EXTINF:-1 tvg-id="" tvg-name="URBAN TURBO HD¹" tvg-logo="http://7logos.top/logos/urbanturbohd.png" group-title="DESATIVADOS",URBAN TURBO HD¹
-http://7vnx.xyz:8080/7csplay/seven2022/322315
 #EXTINF:-1 tvg-id="" tvg-name="BRASILEIRÃO (SÉRIE D) 01 HD²" tvg-logo="http://7logos.top/logos/brasileiraoseriedhd.png" group-title="F16 M5 DAZN",BRASILEIRÃO (SÉRIE D) 01 HD²
 http://7vnx.xyz:8080/7csplay/seven2022/313064
 #EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO SP UHD¹" tvg-logo="http://7logos.top/logos/globo4k.png" group-title="F16 M5 UHD (4K)",GLOBO SP UHD¹
@@ -2413,13 +2399,13 @@ http://7vnx.xyz:8080/7csplay/seven2022/22613
 http://7vnx.xyz:8080/7csplay/seven2022/18669
 #EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 SD²" tvg-logo="http://7logos.top/logos/sportv3sd.png" group-title="F16 M5 SPORTV",SPORTV 3 SD²
 http://7vnx.xyz:8080/7csplay/seven2022/22391
-#EXTINF:-1 tvg-id="" tvg-name="FUTEBOL (HOJE)" tvg-logo="http://free-image-hosting.top/logos/espaco_cliente_futebol_hoje.png" group-title="ESPAÇO DO CLIENTE",FUTEBOL (HOJE)
+#EXTINF:-1 tvg-id="" tvg-name="FUTEBOL (HOJE)" tvg-logo="http://free-image-hosting.top/logos/espaco_cliente_futebol_hoje.png" group-title="F16 M5 ESPAÇO DO CLIENTE",FUTEBOL (HOJE)
 http://7vnx.xyz:8080/7csplay/seven2022/197699
-#EXTINF:-1 tvg-id="" tvg-name="NOVOS FILMES" tvg-logo="http://free-image-hosting.top/logos/espaco_cliente_novos_filmes.png" group-title="ESPAÇO DO CLIENTE",NOVOS FILMES
+#EXTINF:-1 tvg-id="" tvg-name="NOVOS FILMES" tvg-logo="http://free-image-hosting.top/logos/espaco_cliente_novos_filmes.png" group-title="F16 M5 ESPAÇO DO CLIENTE",NOVOS FILMES
 http://7vnx.xyz:8080/7csplay/seven2022/197696
-#EXTINF:-1 tvg-id="" tvg-name="NOVAS SERIES" tvg-logo="http://free-image-hosting.top/logos/espaco_cliente_novas_series.png" group-title="ESPAÇO DO CLIENTE",NOVAS SERIES
+#EXTINF:-1 tvg-id="" tvg-name="NOVAS SERIES" tvg-logo="http://free-image-hosting.top/logos/espaco_cliente_novas_series.png" group-title="F16 M5 ESPAÇO DO CLIENTE",NOVAS SERIES
 http://7vnx.xyz:8080/7csplay/seven2022/197700
-#EXTINF:-1 tvg-id="" tvg-name="CALENDÁRIO UFC" tvg-logo="http://free-image-hosting.top/logos/espaco_cliente_ufc.png" group-title="ESPAÇO DO CLIENTE",CALENDÁRIO UFC
+#EXTINF:-1 tvg-id="" tvg-name="CALENDÁRIO UFC" tvg-logo="http://free-image-hosting.top/logos/espaco_cliente_ufc.png" group-title="F16 M5 ESPAÇO DO CLIENTE",CALENDÁRIO UFC
 http://7vnx.xyz:8080/7csplay/seven2022/197701
 #EXTINF:-1 tvg-id="conmebol.1.br" tvg-name="CONMEBOL 1 FHD²" tvg-logo="http://7logos.top/logos/conmebolfhd.png" group-title="F16 M5 CONMEBOL ",CONMEBOL 1 FHD²
 http://7vnx.xyz:8080/7csplay/seven2022/64674
@@ -2753,8 +2739,6 @@ http://7vnx.xyz:8080/7csplay/seven2022/305089
 http://7vnx.xyz:8080/7csplay/seven2022/307478
 #EXTINF:-1 tvg-id="agromais.br" tvg-name="RECORD TV CIDADE CE FHD¹" tvg-logo="http://7logos.top/logos/recordfhd.png" group-title="F16 M5 RECORD",RECORD TV CIDADE CE FHD¹
 http://7vnx.xyz:8080/7csplay/seven2022/115834
-#EXTINF:-1 tvg-id="" tvg-name="DOIS HOMENS E MEIO (2003) 24H" tvg-logo="https://images.justwatch.com/poster/301584311/s332/temporada-9" group-title="24H | SÉRIES",DOIS HOMENS E MEIO (2003) 24H
-http://7vnx.xyz:8080/7csplay/seven2022/333042
 #EXTINF:-1 tvg-id="" tvg-name="RODEIO HD²" tvg-logo="http://7logos.top/logos/worldfinalshd.png" group-title="F16 M5 ESPORTES PAY PER VIEW",RODEIO HD²
 http://7vnx.xyz:8080/7csplay/seven2022/333043
 #EXTINF:-1 tvg-id="telecinefun.br" tvg-name="TELECINE FUN FHD¹" tvg-logo="http://7logos.top/logos/telecinefunfhd.png" group-title="F16 M5 TELECINE",TELECINE FUN FHD¹
@@ -15842,13 +15826,13 @@ http://7vnx.xyz:8080/delcio/99118656/22613
 http://7vnx.xyz:8080/delcio/99118656/18669
 #EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 SD²" tvg-logo="http://7logos.top/logos/sportv3sd.png" group-title="F18 M3 SPORTV",SPORTV 3 SD²
 http://7vnx.xyz:8080/delcio/99118656/22391
-#EXTINF:-1 tvg-id="" tvg-name="FUTEBOL (HOJE)" tvg-logo="http://free-image-hosting.top/logos/espaco_cliente_futebol_hoje.png" group-title="ESPAÇO DO CLIENTE",FUTEBOL (HOJE)
+#EXTINF:-1 tvg-id="" tvg-name="FUTEBOL (HOJE)" tvg-logo="http://free-image-hosting.top/logos/espaco_cliente_futebol_hoje.png" group-title="F18 M3 ESPAÇO DO CLIENTE",FUTEBOL (HOJE)
 http://7vnx.xyz:8080/delcio/99118656/197699
-#EXTINF:-1 tvg-id="" tvg-name="NOVOS FILMES" tvg-logo="http://free-image-hosting.top/logos/espaco_cliente_novos_filmes.png" group-title="ESPAÇO DO CLIENTE",NOVOS FILMES
+#EXTINF:-1 tvg-id="" tvg-name="NOVOS FILMES" tvg-logo="http://free-image-hosting.top/logos/espaco_cliente_novos_filmes.png" group-title="F18 M3 ESPAÇO DO CLIENTE",NOVOS FILMES
 http://7vnx.xyz:8080/delcio/99118656/197696
-#EXTINF:-1 tvg-id="" tvg-name="NOVAS SERIES" tvg-logo="http://free-image-hosting.top/logos/espaco_cliente_novas_series.png" group-title="ESPAÇO DO CLIENTE",NOVAS SERIES
+#EXTINF:-1 tvg-id="" tvg-name="NOVAS SERIES" tvg-logo="http://free-image-hosting.top/logos/espaco_cliente_novas_series.png" group-title="F18 M3 ESPAÇO DO CLIENTE",NOVAS SERIES
 http://7vnx.xyz:8080/delcio/99118656/197700
-#EXTINF:-1 tvg-id="" tvg-name="CALENDÁRIO UFC" tvg-logo="http://free-image-hosting.top/logos/espaco_cliente_ufc.png" group-title="ESPAÇO DO CLIENTE",CALENDÁRIO UFC
+#EXTINF:-1 tvg-id="" tvg-name="CALENDÁRIO UFC" tvg-logo="http://free-image-hosting.top/logos/espaco_cliente_ufc.png" group-title="F18 M3 ESPAÇO DO CLIENTE",CALENDÁRIO UFC
 http://7vnx.xyz:8080/delcio/99118656/197701
 #EXTINF:-1 tvg-id="conmebol.1.br" tvg-name="CONMEBOL 1 FHD²" tvg-logo="http://7logos.top/logos/conmebolfhd.png" group-title="F18 M3 CONMEBOL ",CONMEBOL 1 FHD²
 http://7vnx.xyz:8080/delcio/99118656/64674
@@ -16525,7 +16509,7 @@ http://megaxc.ca:80/ialwg1/iao8wo/19.ts
 http://megaxc.ca:80/ialwg1/iao8wo/18.ts
 #EXTINF:-1 tvg-id="" tvg-name="3 Palavrinhas" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",3 Palavrinhas
 http://megaxc.ca:80/ialwg1/iao8wo/24290.ts
-#EXTINF:-1 tvg-id="areadocliente" tvg-name="Jogos do Dia" tvg-logo="https://iili.io/FZZgkcx.png" group-title="F25 M3 ⭐ Area do Cliente",Jogos do Dia
+#EXTINF:-1 tvg-id="areadocliente" tvg-name="Jogos do Dia" tvg-logo="https://iili.io/FZZgkcx.png" group-title="F25 M3 Area do Cliente",Jogos do Dia
 http://megaxc.ca:80/ialwg1/iao8wo/86702.ts
 #EXTINF:-1 tvg-id="" tvg-name="A Festa do Garfiel" tvg-logo="http://im.robx9.top:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="F25 M3 Desenhos 24H",A Festa do Garfiel
 http://megaxc.ca:80/ialwg1/iao8wo/3190.ts
@@ -21344,7 +21328,7 @@ http://strixcdn.online:80/241555307/106251943/2144113.ts
 http://strixcdn.online:80/241555307/106251943/2144114.ts
 #EXTINF:-1 tvg-id="" tvg-name="Tv Cidade Verde Picos FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/cf/Logotipo_TV_Cidade_Verde.png" group-title="F26 M2 Rede SBT",Tv Cidade Verde Picos FHD
 http://strixcdn.online:80/241555307/106251943/2150673.ts
-#EXTINF:-1 tvg-id="" tvg-name="Jogos do Dia" tvg-logo="https://i.imgur.com/J4Anx99.png" group-title="Área do Cliente",Jogos do Dia
+#EXTINF:-1 tvg-id="" tvg-name="Jogos do Dia" tvg-logo="https://i.imgur.com/J4Anx99.png" group-title="F26 M2 Área do Cliente",Jogos do Dia
 http://strixcdn.online:80/241555307/106251943/2152194.ts
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO AMAPÁ FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="F26 M2 Globo Norte e Noroeste",GLOBO AMAPÁ FHD
 http://strixcdn.online:80/241555307/106251943/2168410.ts
@@ -21354,7 +21338,7 @@ http://strixcdn.online:80/241555307/106251943/2168411.ts
 http://strixcdn.online:80/241555307/106251943/2168412.ts
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO TV DIARIO MOGI DAS CRUZES HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="F26 M2 Globo Sudeste",GLOBO TV DIARIO MOGI DAS CRUZES HD
 http://strixcdn.online:80/241555307/106251943/2168413.ts
-#EXTINF:-1 tvg-id="" tvg-name="Atualização da Semana" tvg-logo="https://i.imgur.com/l9mrffR.png" group-title="Área do Cliente",Atualização da Semana
+#EXTINF:-1 tvg-id="" tvg-name="Atualização da Semana" tvg-logo="https://i.imgur.com/l9mrffR.png" group-title="F26 M2 rea do Cliente",Atualização da Semana
 http://strixcdn.online:80/241555307/106251943/2168415.ts
 #EXTINF:-1 tvg-id="" tvg-name="Programa -  Silvio Santos" tvg-logo="https://i.imgur.com/BNQRf2U.png" group-title="Especial 24h",Programa -  Silvio Santos
 http://strixcdn.online:80/241555307/106251943/2170494.ts
