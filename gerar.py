@@ -12,18 +12,15 @@ def obter_dados_do_segredo():
         return []
     
     lista_formatada = []
-    # Separa por vírgula (cada item é "Nome|Link")
     itens = segredo.split(',')
     
     for item in itens:
-        # Separa por barra vertical
         partes = item.strip().split('|')
         if len(partes) == 2:
             nome_custom = partes[0].strip()
             url = partes[1].strip()
             lista_formatada.append((nome_custom, url))
         else:
-            # Se não tiver o nome, tenta usar só a url
             url_limpa = item.strip()
             if url_limpa:
                 lista_formatada.append(("Desconhecido", url_limpa))
@@ -34,6 +31,7 @@ def obter_dados_do_segredo():
 def formatar_data(timestamp):
     if not timestamp: return "---"
     try:
+        # Tenta converter timestamp unix
         return datetime.fromtimestamp(int(timestamp)).strftime('%d/%m/%Y')
     except: return "Indefinido"
 
@@ -46,7 +44,6 @@ def analisar_links(lista_itens):
     dados_finais = []
 
     for nome_custom, url in lista_itens:
-        # Aqui definimos que o 'usuario' a ser exibido é o NOME DA FONTE
         nome_exibicao = nome_custom 
         
         try:
@@ -58,34 +55,36 @@ def analisar_links(lista_itens):
                     u_info = data.get('user_info', {})
                     
                     if not u_info:
-                        dados_finais.append([nome_exibicao, "-", "-", "Erro Login"])
+                        # 5 colunas: Nome, Criado, Vence, Conexões, Status
+                        dados_finais.append([nome_exibicao, "-", "-", "-", "Erro Login"])
                     else:
-                        # Pegamos os dados técnicos, mas mantemos o nome Fonte XX
                         status = u_info.get('status', 'Unknown')
+                        criado = formatar_data(u_info.get('created_at')) # Nova coluna
                         expira = formatar_data(u_info.get('exp_date'))
                         ativos = u_info.get('active_cons', '0')
                         maximos = u_info.get('max_connections', '0')
                         
-                        dados_finais.append([nome_exibicao, expira, f"{ativos}/{maximos}", status])
+                        dados_finais.append([nome_exibicao, criado, expira, f"{ativos}/{maximos}", status])
                 except:
-                    dados_finais.append([nome_exibicao, "-", "-", "Erro JSON"])
+                    dados_finais.append([nome_exibicao, "-", "-", "-", "Erro JSON"])
             elif response.status_code == 403:
-                dados_finais.append([nome_exibicao, "-", "-", "Bloqueado"])
+                dados_finais.append([nome_exibicao, "-", "-", "-", "Bloqueado"])
             elif response.status_code == 404:
-                dados_finais.append([nome_exibicao, "-", "-", "Não Achou"])
+                dados_finais.append([nome_exibicao, "-", "-", "-", "Não Achou"])
             else:
-                dados_finais.append([nome_exibicao, "-", "-", f"Erro {response.status_code}"])
+                dados_finais.append([nome_exibicao, "-", "-", "-", f"Erro {response.status_code}"])
 
         except requests.exceptions.ConnectTimeout:
-            dados_finais.append([nome_exibicao, "-", "-", "Timeout"])
+            dados_finais.append([nome_exibicao, "-", "-", "-", "Timeout"])
         except:
-            dados_finais.append([nome_exibicao, "-", "-", "Offline"])
+            dados_finais.append([nome_exibicao, "-", "-", "-", "Offline"])
             
     return dados_finais
 
 def gerar_imagem(dados):
     print("Gerando imagem...")
-    largura = 900
+    # Aumentei a largura para caber a nova coluna
+    largura = 1100 
     altura_linha = 40
     altura_cabecalho = 120
     altura_total = altura_cabecalho + (len(dados) * altura_linha) + 40
@@ -113,9 +112,16 @@ def gerar_imagem(dados):
     d.text((30, 20), "MONITORAMENTO IPTV", fill=(0, 200, 255), font=font_titulo)
     d.text((30, 55), f"Atualizado: {agora}", fill=(150, 150, 150), font=font_sub)
     
-    # Colunas (Mudei de USUÁRIO para FONTE)
+    # Colunas (Reajustadas as posições X)
     y_col = 100
-    colunas = [("FONTE", 30), ("VENCIMENTO", 300), ("CONEXÕES", 550), ("STATUS", 750)]
+    colunas = [
+        ("FONTE", 30), 
+        ("CRIADO EM", 280),   # Nova Coluna
+        ("VENCIMENTO", 480), 
+        ("CONEXÕES", 700), 
+        ("STATUS", 900)
+    ]
+    
     for nome, x in colunas:
         d.text((x, y_col), nome, fill=(100, 255, 100), font=font_bold)
     
@@ -124,26 +130,30 @@ def gerar_imagem(dados):
     # Linhas
     y = y_col + 40
     for i, linha in enumerate(dados):
-        nome, vence, conexoes, status = linha
+        # Desempacota 5 variáveis agora
+        nome, criado, vence, conexoes, status = linha
         
         if i % 2 == 0: d.rectangle([(10, y-5), (largura-10, y+30)], fill=(25, 25, 35))
 
         cor = (220, 220, 220)
-        cor_st = (255, 50, 50) # Vermelho
+        cor_st = (255, 50, 50)
         
-        if status == "Active": cor_st = (50, 255, 50) # Verde
-        elif status == "Expiring Soon": cor_st = (255, 165, 0) # Laranja
+        if status == "Active": cor_st = (50, 255, 50)
+        elif status == "Expiring Soon": cor_st = (255, 165, 0)
 
+        # Desenha nas novas posições X
         d.text((30, y), str(nome), fill=cor, font=font_padrao)
-        d.text((300, y), str(vence), fill=cor, font=font_padrao)
-        d.text((550, y), str(conexoes), fill=cor, font=font_padrao)
-        d.text((750, y), str(status), fill=cor_st, font=font_bold)
+        d.text((280, y), str(criado), fill=cor, font=font_padrao) # Nova coluna desenhada
+        d.text((480, y), str(vence), fill=cor, font=font_padrao)
+        d.text((700, y), str(conexoes), fill=cor, font=font_padrao)
+        d.text((900, y), str(status), fill=cor_st, font=font_bold)
         y += altura_linha
 
     img.save("status.png")
 
 def criar_video():
     print("Renderizando vídeo...")
+    # Ajustei a escala para 1100:automático mantendo paridade
     cmd = [
         "ffmpeg", "-y", "-loop", "1", "-i", "status.png", 
         "-c:v", "libx264", "-t", "10", "-pix_fmt", "yuv420p", 
