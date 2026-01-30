@@ -2,7 +2,7 @@ import requests
 import json
 import os
 import subprocess
-from datetime import datetime
+from datetime import datetime, timedelta, timezone
 from PIL import Image, ImageDraw, ImageFont
 
 def obter_dados_do_segredo():
@@ -59,7 +59,7 @@ def analisar_links(lista_itens):
                         dados_finais.append([nome_exibicao, "-", "-", "-", "Erro Login"])
                     else:
                         status = u_info.get('status', 'Unknown')
-                        criado = formatar_data(u_info.get('created_at')) # Nova coluna
+                        criado = formatar_data(u_info.get('created_at'))
                         expira = formatar_data(u_info.get('exp_date'))
                         ativos = u_info.get('active_cons', '0')
                         maximos = u_info.get('max_connections', '0')
@@ -83,7 +83,6 @@ def analisar_links(lista_itens):
 
 def gerar_imagem(dados):
     print("Gerando imagem...")
-    # Aumentei a largura para caber a nova coluna
     largura = 1100 
     altura_linha = 40
     altura_cabecalho = 120
@@ -107,16 +106,22 @@ def gerar_imagem(dados):
 
     # Cabeçalho
     d.rectangle([(0, 0), (largura, 90)], fill=(30, 30, 40))
-    agora = datetime.now().strftime("%d/%m/%Y - %H:%M (Brasília)")
+    
+    # --- CORREÇÃO DO FUSO HORÁRIO (GMT-3) ---
+    diferenca = timedelta(hours=-3)
+    fuso_horario = timezone(diferenca)
+    data_hora_brasil = datetime.now(fuso_horario)
+    agora = data_hora_brasil.strftime("%d/%m/%Y - %H:%M (Brasília)")
+    # ----------------------------------------
     
     d.text((30, 20), "MONITORAMENTO IPTV", fill=(0, 200, 255), font=font_titulo)
     d.text((30, 55), f"Atualizado: {agora}", fill=(150, 150, 150), font=font_sub)
     
-    # Colunas (Reajustadas as posições X)
+    # Colunas
     y_col = 100
     colunas = [
         ("FONTE", 30), 
-        ("CRIADO EM", 280),   # Nova Coluna
+        ("CRIADO EM", 280),
         ("VENCIMENTO", 480), 
         ("CONEXÕES", 700), 
         ("STATUS", 900)
@@ -130,7 +135,6 @@ def gerar_imagem(dados):
     # Linhas
     y = y_col + 40
     for i, linha in enumerate(dados):
-        # Desempacota 5 variáveis agora
         nome, criado, vence, conexoes, status = linha
         
         if i % 2 == 0: d.rectangle([(10, y-5), (largura-10, y+30)], fill=(25, 25, 35))
@@ -141,9 +145,8 @@ def gerar_imagem(dados):
         if status == "Active": cor_st = (50, 255, 50)
         elif status == "Expiring Soon": cor_st = (255, 165, 0)
 
-        # Desenha nas novas posições X
         d.text((30, y), str(nome), fill=cor, font=font_padrao)
-        d.text((280, y), str(criado), fill=cor, font=font_padrao) # Nova coluna desenhada
+        d.text((280, y), str(criado), fill=cor, font=font_padrao)
         d.text((480, y), str(vence), fill=cor, font=font_padrao)
         d.text((700, y), str(conexoes), fill=cor, font=font_padrao)
         d.text((900, y), str(status), fill=cor_st, font=font_bold)
@@ -153,7 +156,6 @@ def gerar_imagem(dados):
 
 def criar_video():
     print("Renderizando vídeo...")
-    # Ajustei a escala para 1100:automático mantendo paridade
     cmd = [
         "ffmpeg", "-y", "-loop", "1", "-i", "status.png", 
         "-c:v", "libx264", "-t", "10", "-pix_fmt", "yuv420p", 
