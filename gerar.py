@@ -38,11 +38,14 @@ def formatar_data(timestamp):
 def analisar_links(lista_itens):
     print("\n🔎 Iniciando verificação de status...\n")
     
-    # MUDANÇA IMPORTANTE: User-Agent que imita um app de IPTV real para evitar bloqueios
+    # MUDANÇA: Headers completos de Navegador Chrome para evitar erro 406
     headers = {
-        'User-Agent': 'IPTVSmartersPro/1.1.1 (iPad; iOS 12.0; Scale/2.00)',
-        'Accept': '*/*',
-        'Connection': 'keep-alive'
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8',
+        'Accept-Language': 'pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7',
+        'Accept-Encoding': 'gzip, deflate', # Isso ajuda muito no erro 406
+        'Connection': 'keep-alive',
+        'Upgrade-Insecure-Requests': '1'
     }
 
     dados_finais = []
@@ -52,8 +55,8 @@ def analisar_links(lista_itens):
         print(f"Verificando: {nome_exibicao}...", end=" ")
         
         try:
-            # Timeout um pouco maior para conexões lentas
-            response = requests.get(url, headers=headers, timeout=20)
+            # Timeout de 25s para dar chance a servidores lentos
+            response = requests.get(url, headers=headers, timeout=25)
             
             if response.status_code == 200:
                 try:
@@ -73,14 +76,22 @@ def analisar_links(lista_itens):
                         print(f"✅ OK ({status})")
                         dados_finais.append([nome_exibicao, criado, expira, f"{ativos}/{maximos}", status])
                 except Exception as e:
-                    print("⚠️ Erro JSON")
+                    # Tenta ler como texto se falhar o JSON (às vezes o erro vem escrito)
+                    print(f"⚠️ Erro JSON")
                     dados_finais.append([nome_exibicao, "-", "-", "-", "Erro JSON"])
+            
             elif response.status_code == 403:
-                print("🚫 Bloqueado (403)")
-                dados_finais.append([nome_exibicao, "-", "-", "-", "Bloqueado"])
+                print("🚫 Bloqueado (IP)")
+                dados_finais.append([nome_exibicao, "-", "-", "-", "Bloq. IP/Geo"])
+            
+            elif response.status_code == 406:
+                print("🚫 Erro 406 (Headers)")
+                dados_finais.append([nome_exibicao, "-", "-", "-", "Erro 406"])
+                
             elif response.status_code == 404:
-                print("❓ Não encontrado (404)")
+                print("❓ Não encontrado")
                 dados_finais.append([nome_exibicao, "-", "-", "-", "Não Achou"])
+            
             else:
                 print(f"⚠️ Erro {response.status_code}")
                 dados_finais.append([nome_exibicao, "-", "-", "-", f"Erro {response.status_code}"])
