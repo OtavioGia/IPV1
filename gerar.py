@@ -3,14 +3,13 @@ import json
 import os
 import subprocess
 import platform
+import math
 from datetime import datetime, timedelta, timezone
 from PIL import Image, ImageDraw, ImageFont
 
 # ==========================================
-# SEUS LINKS ESTÃO AQUI AGORA (HARDCODED)
+# CONFIGURAÇÕES E LINKS
 # ==========================================
-# MEUS_LINKS_TEXTO = "Fonte 16|http://7vnx.xyz:80/player_api.php?username=7csplay&password=seven2022,Fonte 14|http://play.dnsrot.vip/player_api.php?username=5550388689&password=simpleiptv,Fonte 15|http://play.dnsrot.vip/player_api.php?&username=Marcosfp05&password=nlybdft6fml,Fonte 18|http://7vnx.xyz:8080/player_api.php?username=delcio&password=99118656,Fonte 25|http://megaxc.ca/player_api.php?username=ialwg1&password=iao8wo,Fonte 26|http://cdnrez.xyz:80/player_api.php?username=241555307&password=106251943,Fonte 27|http://play.dnsrot.vip/player_api.php?username=nena6194sala&password=mqtavfrtyl,Fonte 28|http://play.dnsrot.vip/player_api.php?username=tomoko11&password=14n11oi50oc,Fonte 29|http://play.dnsrot.vip/player_api.php?username=vanessanook&password=vinr390x8y,Fonte 30|http://play.dnsrot.vip/player_api.php?username=huhenz&password=fa7kum6q4bm,Fonte 31|http://play.dnsrot.vip/player_api.php?username=zQ4qeGkNrQ&password=factoryiptv,Fonte 32|http://play.dnsrot.vip/player_api.php?username=7RRjPTu5d6&password=factoryiptv"
-# MEUS_LINKS_TEXTO = "Fonte 16|http://7vnx.xyz:80/player_api.php?username=7csplay&password=seven2022,Fonte 14|http://play.dnsrot.vip/player_api.php?username=5550388689&password=simpleiptv,Fonte 15|http://play.dnsrot.vip/player_api.php?&username=Marcosfp05&password=nlybdft6fml,Fonte 18|http://7vnx.xyz:8080/player_api.php?username=delcio&password=99118656,Fonte 25|http://megaxc.ca/player_api.php?username=ialwg1&password=iao8wo,Fonte 26|http://cdnrez.xyz:80/player_api.php?username=241555307&password=106251943,Fonte 27|http://play.dnsrot.vip/player_api.php?username=nena6194sala&password=mqtavfrtyl,Fonte 28|http://play.dnsrot.vip/player_api.php?username=tomoko11&password=14n11oi50oc,Fonte 29|http://play.dnsrot.vip/player_api.php?username=vanessanook&password=vinr390x8y,Fonte 30|http://play.dnsrot.vip/player_api.php?username=huhenz&password=fa7kum6q4bm,Fonte 31|http://play.dnsrot.vip/player_api.php?username=zQ4qeGkNrQ&password=factoryiptv,Fonte 32|http://play.dnsrot.vip/player_api.php?username=7RRjPTu5d6&password=factoryiptv,Fonte 33|http://nymcsus.autos:80/player_api.php?username=022282&password=ETr1Pb,Fonte 34|http://nymcsus.autos:80/player_api.php?username=010794&password=FXz1sY,Fonte 35|http://pernalonga.cc/player_api.php?username=454266&password=gU8vEr,Fonte 36|http://nymcsus.autos:80/player_api.php?username=022125&password=ytH8dH,Fonte 37|http://pernalonga.cc/player_api.php?username=876683&password=npZ6T6"
 MEUS_LINKS_TEXTO = "Fonte 16|http://7voahoje.top:80/player_api.php?username=7csplay&password=seven2022,Fonte 14|http://play.dnsrot.vip/player_api.php?username=5550388689&password=simpleiptv,Fonte 15|http://play.dnsrot.vip/player_api.php?&username=Marcosfp05&password=nlybdft6fml,Fonte 18|http://7voahoje.top:8080/player_api.php?username=delcio&password=99118656,Fonte 25|http://megaxc.ca/player_api.php?username=ialwg1&password=iao8wo,Fonte 26|http://cdnrez.xyz:80/player_api.php?username=241555307&password=106251943,Fonte 27|http://play.dnsrot.vip/player_api.php?username=nena6194sala&password=mqtavfrtyl,Fonte 28|http://play.dnsrot.vip/player_api.php?username=tomoko11&password=14n11oi50oc,Fonte 29|http://play.dnsrot.vip/player_api.php?username=vanessanook&password=vinr390x8y,Fonte 30|http://play.dnsrot.vip/player_api.php?username=huhenz&password=fa7kum6q4bm,Fonte 31|http://play.dnsrot.vip/player_api.php?username=zQ4qeGkNrQ&password=factoryiptv,Fonte 32|http://play.dnsrot.vip/player_api.php?username=7RRjPTu5d6&password=factoryiptv,Fonte 33|http://nymcsus.autos:80/player_api.php?username=022282&password=ETr1Pb,Fonte 34|http://nymcsus.autos:80/player_api.php?username=010794&password=FXz1sY,Fonte 35|http://pernalonga.cc/player_api.php?username=454266&password=gU8vEr,Fonte 36|http://nymcsus.autos:80/player_api.php?username=022125&password=ytH8dH,Fonte 37|http://pernalonga.cc/player_api.php?username=876683&password=npZ6T6,Fonte 38|http://case2.lat/player_api.php?&username=593812776&password=876362759,Fonte 39|http://case2.lat/player_api.php?&username=374897485&password=789272274,Fonte 40|http://case2.lat/player_api.php?&username=961386894&password=118897421,Fonte 41|http://case2.lat/player_api.php?&username=718423457&password=539143340,Fonte 42|http://case2.lat/player_api.php?&username=175473583&password=643238922,Fonte 43|http://case2.lat/player_api.php?&username=587142841&password=619556956,Fonte 44|http://case2.lat/player_api.php?&username=753685114&password=689268878,Fonte 45|http://case2.lat/player_api.php?&username=648866758&password=722737417,Fonte 46|http://case2.lat/player_api.php?&username=399392844&password=784365638,Fonte 47|http://case2.lat/player_api.php?&username=858257510&password=975651644,Fonte 48|http://case2.lat/player_api.php?&username=223141736&password=496767276,Fonte 49|http://case2.lat/player_api.php?&username=777951153&password=939114817,Fonte 50|http://case2.lat/player_api.php?&username=971812357&password=246137274,Fonte 51|http://case2.lat/player_api.php?&username=988493659&password=241861732,Fonte 52|http://case2.lat/player_api.php?&username=943285414&password=493936454,Fonte 53|http://case2.lat/player_api.php?&username=872689987&password=824513989,Fonte 54|http://case2.lat/player_api.php?&username=338365128&password=769491152,Fonte 55|http://case2.lat/player_api.php?&username=754551879&password=531553919,Fonte 56|http://case2.lat/player_api.php?&username=11283886&password=65967277"
 
 def obter_lista_links():
@@ -28,7 +27,7 @@ def obter_lista_links():
             if url_limpa:
                 lista_formatada.append(("Desconhecido", url_limpa))
                 
-    print(f"✅ Carregados {len(lista_formatada)} itens da lista interna.")
+    print(f"✅ Carregados {len(lista_formatada)} itens da lista.")
     return lista_formatada
 
 def formatar_data(timestamp):
@@ -40,14 +39,11 @@ def formatar_data(timestamp):
 def analisar_links(lista_itens):
     print("\n🔎 Iniciando verificação de status...\n")
     
-    # MUDANÇA: Headers completos de Navegador Chrome para evitar erro 406
+    # Headers completos para evitar bloqueio 406
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
         'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8',
-        'Accept-Language': 'pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7',
-        'Accept-Encoding': 'gzip, deflate', # Isso ajuda muito no erro 406
-        'Connection': 'keep-alive',
-        'Upgrade-Insecure-Requests': '1'
+        'Connection': 'keep-alive'
     }
 
     dados_finais = []
@@ -57,8 +53,7 @@ def analisar_links(lista_itens):
         print(f"Verificando: {nome_exibicao}...", end=" ")
         
         try:
-            # Timeout de 25s para dar chance a servidores lentos
-            response = requests.get(url, headers=headers, timeout=25)
+            response = requests.get(url, headers=headers, timeout=20)
             
             if response.status_code == 200:
                 try:
@@ -66,7 +61,7 @@ def analisar_links(lista_itens):
                     u_info = data.get('user_info', {})
                     
                     if not u_info:
-                        print("❌ Erro Login/Dados vazios")
+                        print("❌ Erro Login")
                         dados_finais.append([nome_exibicao, "-", "-", "-", "Erro Login"])
                     else:
                         status = u_info.get('status', 'Unknown')
@@ -77,146 +72,181 @@ def analisar_links(lista_itens):
                         
                         print(f"✅ OK ({status})")
                         dados_finais.append([nome_exibicao, criado, expira, f"{ativos}/{maximos}", status])
-                except Exception as e:
-                    # Tenta ler como texto se falhar o JSON (às vezes o erro vem escrito)
+                except:
                     print(f"⚠️ Erro JSON")
                     dados_finais.append([nome_exibicao, "-", "-", "-", "Erro JSON"])
             
             elif response.status_code == 403:
                 print("🚫 Bloqueado (IP)")
-                dados_finais.append([nome_exibicao, "-", "-", "-", "Bloq. IP/Geo"])
-            
-            elif response.status_code == 406:
-                print("🚫 Erro 406 (Headers)")
-                dados_finais.append([nome_exibicao, "-", "-", "-", "Erro 406"])
-                
+                dados_finais.append([nome_exibicao, "-", "-", "-", "Bloq. IP"])
             elif response.status_code == 404:
                 print("❓ Não encontrado")
                 dados_finais.append([nome_exibicao, "-", "-", "-", "Não Achou"])
-            
             else:
                 print(f"⚠️ Erro {response.status_code}")
                 dados_finais.append([nome_exibicao, "-", "-", "-", f"Erro {response.status_code}"])
 
-        except requests.exceptions.ConnectTimeout:
-            print("⏰ Timeout")
-            dados_finais.append([nome_exibicao, "-", "-", "-", "Timeout"])
-        except requests.exceptions.ConnectionError:
+        except:
              print("🔌 Falha Conexão")
              dados_finais.append([nome_exibicao, "-", "-", "-", "Offline"])
-        except Exception as e:
-            print(f"💥 Erro: {e}")
-            dados_finais.append([nome_exibicao, "-", "-", "-", "Erro Geral"])
             
     return dados_finais
 
-def gerar_imagem(dados):
-    print("\n🎨 Gerando imagem 'status.png'...")
-    largura = 1100 
-    altura_linha = 40
-    altura_cabecalho = 120
-    altura_total = altura_cabecalho + (len(dados) * altura_linha) + 40
-    
-    img = Image.new('RGB', (largura, altura_total), color=(18, 18, 24))
-    d = ImageDraw.Draw(img)
-    
-    # Lógica para carregar fontes tanto no Windows quanto no Linux
+def carregar_fontes():
+    """Carrega fontes grandes para garantir legibilidade na TV."""
+    fontes = {}
     try:
         sistema = platform.system()
+        base_size = 26 # Tamanho base para texto
+        title_size = 48 # Tamanho para título
+        
         if sistema == "Windows":
-            font_padrao = ImageFont.truetype("arial.ttf", 15)
-            font_bold = ImageFont.truetype("arialbd.ttf", 15)
-            font_titulo = ImageFont.truetype("arialbd.ttf", 24)
-            font_sub = ImageFont.truetype("arial.ttf", 12)
+            fontes['padrao'] = ImageFont.truetype("arial.ttf", base_size)
+            fontes['bold'] = ImageFont.truetype("arialbd.ttf", base_size)
+            fontes['titulo'] = ImageFont.truetype("arialbd.ttf", title_size)
+            fontes['sub'] = ImageFont.truetype("arial.ttf", 20)
         else:
-            # Caminhos Linux (GitHub Actions / Ubuntu)
-            caminho_fonte = "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"
-            caminho_bold = "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"
-            font_padrao = ImageFont.truetype(caminho_fonte, 15)
-            font_bold = ImageFont.truetype(caminho_bold, 15)
-            font_titulo = ImageFont.truetype(caminho_bold, 24)
-            font_sub = ImageFont.truetype(caminho_fonte, 12)
+            # Caminhos Linux
+            path = "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"
+            path_b = "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"
+            fontes['padrao'] = ImageFont.truetype(path, base_size)
+            fontes['bold'] = ImageFont.truetype(path_b, base_size)
+            fontes['titulo'] = ImageFont.truetype(path_b, title_size)
+            fontes['sub'] = ImageFont.truetype(path, 20)
     except:
-        # Fallback se não achar nada
-        font_padrao = ImageFont.load_default()
-        font_bold = ImageFont.load_default()
-        font_titulo = ImageFont.load_default()
-        font_sub = ImageFont.load_default()
-
-    # Cabeçalho
-    d.rectangle([(0, 0), (largura, 90)], fill=(30, 30, 40))
+        fontes['padrao'] = ImageFont.load_default()
+        fontes['bold'] = ImageFont.load_default()
+        fontes['titulo'] = ImageFont.load_default()
+        fontes['sub'] = ImageFont.load_default()
     
+    return fontes
+
+def gerar_imagens_paginadas(dados):
+    print("\n🎨 Gerando imagens em Full HD (1920x1080)...")
+    
+    # Configurações de Layout
+    LARGURA = 1920
+    ALTURA = 1080
+    MARGEM_X = 50
+    Y_INICIAL = 200 # Onde começa a tabela
+    ALTURA_LINHA = 60 # Altura de cada linha da tabela (bem espaçado)
+    
+    # Calcular quantos itens cabem por página
+    espaco_disponivel = ALTURA - Y_INICIAL - 80 # 80 para rodapé
+    itens_por_pagina = espaco_disponivel // ALTURA_LINHA
+    
+    # Paginação
+    total_paginas = math.ceil(len(dados) / itens_por_pagina)
+    fontes = carregar_fontes()
+    
+    nomes_arquivos = []
+
+    # Configuração de Data e Hora
     diferenca = timedelta(hours=-3)
     fuso_horario = timezone(diferenca)
-    data_hora_brasil = datetime.now(fuso_horario)
-    agora = data_hora_brasil.strftime("%d/%m/%Y - %H:%M (Brasília)")
-    
-    d.text((30, 20), "MONITORAMENTO IPTV", fill=(0, 200, 255), font=font_titulo)
-    d.text((30, 55), f"Atualizado: {agora}", fill=(150, 150, 150), font=font_sub)
-    
-    # Colunas
-    y_col = 100
-    colunas = [
-        ("FONTE", 30), 
-        ("CRIADO EM", 280),
-        ("VENCIMENTO", 480), 
-        ("CONEXÕES", 700), 
-        ("STATUS", 900)
-    ]
-    
-    for nome, x in colunas:
-        d.text((x, y_col), nome, fill=(100, 255, 100), font=font_bold)
-    
-    d.line([(30, y_col + 25), (largura-30, y_col + 25)], fill=(80, 80, 80), width=1)
+    agora = datetime.now(fuso_horario).strftime("%d/%m/%Y - %H:%M")
 
-    # Linhas
-    y = y_col + 40
-    for i, linha in enumerate(dados):
-        nome, criado, vence, conexoes, status = linha
+    for pagina in range(total_paginas):
+        img = Image.new('RGB', (LARGURA, ALTURA), color=(15, 15, 25)) # Fundo Azul Escuro Profundo
+        d = ImageDraw.Draw(img)
         
-        if i % 2 == 0: d.rectangle([(10, y-5), (largura-10, y+30)], fill=(25, 25, 35))
+        # Cabeçalho
+        d.rectangle([(0, 0), (LARGURA, 130)], fill=(30, 30, 50)) # Barra superior
+        d.text((MARGEM_X, 30), "MONITORAMENTO DE STATUS IPTV", fill=(0, 255, 255), font=fontes['titulo'])
+        d.text((MARGEM_X, 90), f"Atualização: {agora} | Página {pagina + 1} de {total_paginas}", fill=(200, 200, 200), font=fontes['sub'])
 
-        cor = (220, 220, 220)
-        cor_st = (255, 50, 50) # Vermelho padrão
+        # Cabeçalho da Tabela
+        colunas_x = [50, 600, 900, 1200, 1500] # Posições X das colunas
+        titulos = ["FONTE / SERVIDOR", "CRIADO", "VENCE", "CONEX", "STATUS"]
         
-        if status == "Active": cor_st = (50, 255, 50)
-        elif status == "Expiring Soon": cor_st = (255, 165, 0)
-        elif status == "Bloqueado": cor_st = (255, 0, 0)
+        y_header = 150
+        d.rectangle([(MARGEM_X, y_header), (LARGURA - MARGEM_X, y_header + 40)], fill=(50, 50, 70))
+        
+        for i, titulo in enumerate(titulos):
+            d.text((colunas_x[i], y_header + 5), titulo, fill=(255, 215, 0), font=fontes['bold'])
 
-        d.text((30, y), str(nome), fill=cor, font=font_padrao)
-        d.text((280, y), str(criado), fill=cor, font=font_padrao)
-        d.text((480, y), str(vence), fill=cor, font=font_padrao)
-        d.text((700, y), str(conexoes), fill=cor, font=font_padrao)
-        d.text((900, y), str(status), fill=cor_st, font=font_bold)
-        y += altura_linha
+        # Dados da Página Atual
+        inicio = pagina * itens_por_pagina
+        fim = inicio + itens_por_pagina
+        dados_pagina = dados[inicio:fim]
 
-    img.save("status.png")
-    print("🖼️  Imagem salva com sucesso.")
+        y = Y_INICIAL
+        for i, linha in enumerate(dados_pagina):
+            nome, criado, vence, conexoes, status = linha
+            
+            # Cor de fundo alternada para facilitar leitura
+            if i % 2 == 0:
+                d.rectangle([(MARGEM_X, y), (LARGURA - MARGEM_X, y + ALTURA_LINHA)], fill=(25, 25, 35))
+            
+            # Cores do Status
+            cor_texto = (230, 230, 230)
+            cor_status = (255, 50, 50) # Vermelho (Offline/Erro)
+            
+            status_lower = str(status).lower()
+            if "active" in status_lower: cor_status = (50, 255, 50) # Verde
+            elif "expiring" in status_lower: cor_status = (255, 165, 0) # Laranja
+            elif "bloq" in status_lower or "403" in status_lower: cor_status = (200, 0, 0) # Vermelho escuro
 
-def criar_video():
-    print("🎬 Tentando gerar vídeo...")
-    # Verifica se o ffmpeg está disponível
+            # Desenhar Textos
+            d.text((colunas_x[0], y + 15), str(nome), fill=cor_texto, font=fontes['padrao'])
+            d.text((colunas_x[1], y + 15), str(criado), fill=cor_texto, font=fontes['padrao'])
+            d.text((colunas_x[2], y + 15), str(vence), fill=cor_texto, font=fontes['padrao'])
+            d.text((colunas_x[3], y + 15), str(conexoes), fill=cor_texto, font=fontes['padrao'])
+            d.text((colunas_x[4], y + 15), str(status), fill=cor_status, font=fontes['bold'])
+            
+            y += ALTURA_LINHA
+
+        # Salvar imagem sequencial para o ffmpeg
+        nome_arquivo = f"status_{pagina}.png"
+        img.save(nome_arquivo)
+        nomes_arquivos.append(nome_arquivo)
+        print(f"🖼️  Slide gerado: {nome_arquivo}")
+
+    return nomes_arquivos
+
+def criar_video_slideshow(imagens):
+    if not imagens: return
+    
+    print("🎬 Gerando vídeo slideshow (1920x1080)...")
+    
+    # Se tiver apenas 1 imagem, faz um vídeo estático de 10s
+    # Se tiver mais, faz um carrossel de 7 segundos por slide
+    
+    tempo_por_slide = "7" 
+    
     try:
+        # Comando FFmpeg para criar slideshow a partir das imagens status_0.png, status_1.png...
+        # %d é o placeholder para o número sequencial
         cmd = [
-            "ffmpeg", "-y", "-loop", "1", "-i", "status.png", 
-            "-c:v", "libx264", "-t", "10", "-pix_fmt", "yuv420p", 
-            "-vf", "scale=trunc(iw/2)*2:trunc(ih/2)*2", "video_status.mp4"
+            "ffmpeg", "-y", 
+            "-framerate", f"1/{tempo_por_slide}", # 1 frame a cada X segundos
+            "-i", "status_%d.png",                 # Input sequencial
+            "-c:v", "libx264", 
+            "-r", "30",                            # Framerate de saída
+            "-pix_fmt", "yuv420p",                 # Compatibilidade com Players/TV
+            "video_status.mp4"
         ]
-        # Redireciona a saída para devnull para não poluir o terminal, exceto se der erro
+        
+        # Executa silenciosamente
         subprocess.run(cmd, check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
-        print("✅ Vídeo 'video_status.mp4' gerado com sucesso!")
+        print("✅ Vídeo 'video_status.mp4' criado com sucesso!")
+        
+        # Limpeza opcional: remover os PNGs depois de gerar o vídeo
+        # for img in imagens:
+        #     if os.path.exists(img): os.remove(img)
+            
     except FileNotFoundError:
-        print("⚠️  FFmpeg não encontrado no sistema. Apenas a imagem foi gerada.")
-    except subprocess.CalledProcessError:
-        print("⚠️  Erro ao executar o FFmpeg.")
+        print("⚠️  FFmpeg não instalado. As imagens PNG foram salvas, mas o vídeo não pôde ser gerado.")
     except Exception as e:
-        print(f"⚠️  Não foi possível gerar vídeo: {e}")
+        print(f"⚠️  Erro ao gerar vídeo: {e}")
 
 if __name__ == "__main__":
     lista = obter_lista_links()
     if lista:
         dados = analisar_links(lista)
-        gerar_imagem(dados)
-        criar_video()
+        # Gera múltiplas imagens se necessário, todas em Full HD
+        arquivos_img = gerar_imagens_paginadas(dados)
+        # Cria o vídeo juntando as imagens
+        criar_video_slideshow(arquivos_img)
     else:
         print("Nenhum dado para processar.")
