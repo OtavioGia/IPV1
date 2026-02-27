@@ -8,7 +8,7 @@ from datetime import datetime, timedelta, timezone
 from PIL import Image, ImageDraw, ImageFont
 
 # ==========================================
-# CONFIGURAÇÕES E LINKS
+# SEUS LINKS (HARDCODED)
 # ==========================================
 MEUS_LINKS_TEXTO = "Fonte 16|http://7voahoje.top:80/player_api.php?username=7csplay&password=seven2022,Fonte 14|http://play.dnsrot.vip/player_api.php?username=5550388689&password=simpleiptv,Fonte 15|http://play.dnsrot.vip/player_api.php?&username=Marcosfp05&password=nlybdft6fml,Fonte 18|http://7voahoje.top:8080/player_api.php?username=delcio&password=99118656,Fonte 25|http://megaxc.ca/player_api.php?username=ialwg1&password=iao8wo,Fonte 26|http://cdnrez.xyz:80/player_api.php?username=241555307&password=106251943,Fonte 27|http://play.dnsrot.vip/player_api.php?username=nena6194sala&password=mqtavfrtyl,Fonte 28|http://play.dnsrot.vip/player_api.php?username=tomoko11&password=14n11oi50oc,Fonte 29|http://play.dnsrot.vip/player_api.php?username=vanessanook&password=vinr390x8y,Fonte 30|http://play.dnsrot.vip/player_api.php?username=huhenz&password=fa7kum6q4bm,Fonte 31|http://play.dnsrot.vip/player_api.php?username=zQ4qeGkNrQ&password=factoryiptv,Fonte 32|http://play.dnsrot.vip/player_api.php?username=7RRjPTu5d6&password=factoryiptv,Fonte 33|http://nymcsus.autos:80/player_api.php?username=022282&password=ETr1Pb,Fonte 34|http://nymcsus.autos:80/player_api.php?username=010794&password=FXz1sY,Fonte 35|http://pernalonga.cc/player_api.php?username=454266&password=gU8vEr,Fonte 36|http://nymcsus.autos:80/player_api.php?username=022125&password=ytH8dH,Fonte 37|http://pernalonga.cc/player_api.php?username=876683&password=npZ6T6,Fonte 38|http://case2.lat/player_api.php?&username=593812776&password=876362759,Fonte 39|http://case2.lat/player_api.php?&username=374897485&password=789272274,Fonte 40|http://case2.lat/player_api.php?&username=961386894&password=118897421,Fonte 41|http://case2.lat/player_api.php?&username=718423457&password=539143340,Fonte 42|http://case2.lat/player_api.php?&username=175473583&password=643238922,Fonte 43|http://case2.lat/player_api.php?&username=587142841&password=619556956,Fonte 44|http://case2.lat/player_api.php?&username=753685114&password=689268878,Fonte 45|http://case2.lat/player_api.php?&username=648866758&password=722737417,Fonte 46|http://case2.lat/player_api.php?&username=399392844&password=784365638,Fonte 47|http://case2.lat/player_api.php?&username=858257510&password=975651644,Fonte 48|http://case2.lat/player_api.php?&username=223141736&password=496767276,Fonte 49|http://case2.lat/player_api.php?&username=777951153&password=939114817,Fonte 50|http://case2.lat/player_api.php?&username=971812357&password=246137274,Fonte 51|http://case2.lat/player_api.php?&username=988493659&password=241861732,Fonte 52|http://case2.lat/player_api.php?&username=943285414&password=493936454,Fonte 53|http://case2.lat/player_api.php?&username=872689987&password=824513989,Fonte 54|http://case2.lat/player_api.php?&username=338365128&password=769491152,Fonte 55|http://case2.lat/player_api.php?&username=754551879&password=531553919,Fonte 56|http://case2.lat/player_api.php?&username=11283886&password=65967277"
 
@@ -39,7 +39,7 @@ def formatar_data(timestamp):
 def analisar_links(lista_itens):
     print("\n🔎 Iniciando verificação de status...\n")
     
-    # Headers completos para evitar bloqueio 406
+    # Headers para emular navegador e evitar erro 406
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
         'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8',
@@ -93,18 +93,19 @@ def analisar_links(lista_itens):
     return dados_finais
 
 def carregar_fontes():
-    """Carrega fontes grandes para garantir legibilidade na TV."""
+    """Carrega fontes ajustadas para modo compacto (mais linhas)."""
     fontes = {}
     try:
         sistema = platform.system()
-        base_size = 26 # Tamanho base para texto
-        title_size = 48 # Tamanho para título
+        # Tamanhos reduzidos para caber mais linhas (Compact Mode)
+        base_size = 19   
+        title_size = 36  
         
         if sistema == "Windows":
             fontes['padrao'] = ImageFont.truetype("arial.ttf", base_size)
             fontes['bold'] = ImageFont.truetype("arialbd.ttf", base_size)
             fontes['titulo'] = ImageFont.truetype("arialbd.ttf", title_size)
-            fontes['sub'] = ImageFont.truetype("arial.ttf", 20)
+            fontes['sub'] = ImageFont.truetype("arial.ttf", 16)
         else:
             # Caminhos Linux
             path = "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"
@@ -112,7 +113,7 @@ def carregar_fontes():
             fontes['padrao'] = ImageFont.truetype(path, base_size)
             fontes['bold'] = ImageFont.truetype(path_b, base_size)
             fontes['titulo'] = ImageFont.truetype(path_b, title_size)
-            fontes['sub'] = ImageFont.truetype(path, 20)
+            fontes['sub'] = ImageFont.truetype(path, 16)
     except:
         fontes['padrao'] = ImageFont.load_default()
         fontes['bold'] = ImageFont.load_default()
@@ -122,18 +123,23 @@ def carregar_fontes():
     return fontes
 
 def gerar_imagens_paginadas(dados):
-    print("\n🎨 Gerando imagens em Full HD (1920x1080)...")
+    print("\n🎨 Gerando imagens (Modo Compacto - Alta Densidade)...")
     
     # Configurações de Layout
     LARGURA = 1920
     ALTURA = 1080
     MARGEM_X = 50
-    Y_INICIAL = 200 # Onde começa a tabela
-    ALTURA_LINHA = 60 # Altura de cada linha da tabela (bem espaçado)
+    
+    # AJUSTES PARA CABER MAIS LINHAS
+    Y_INICIAL = 140       # Começa a tabela mais para cima
+    ALTURA_LINHA = 34     # Linha mais fina (antes era 60)
+    ALTURA_RODAPE = 40
     
     # Calcular quantos itens cabem por página
-    espaco_disponivel = ALTURA - Y_INICIAL - 80 # 80 para rodapé
+    espaco_disponivel = ALTURA - Y_INICIAL - ALTURA_RODAPE
     itens_por_pagina = espaco_disponivel // ALTURA_LINHA
+    
+    print(f"ℹ️  Capacidade por página: {itens_por_pagina} linhas.")
     
     # Paginação
     total_paginas = math.ceil(len(dados) / itens_por_pagina)
@@ -147,20 +153,20 @@ def gerar_imagens_paginadas(dados):
     agora = datetime.now(fuso_horario).strftime("%d/%m/%Y - %H:%M")
 
     for pagina in range(total_paginas):
-        img = Image.new('RGB', (LARGURA, ALTURA), color=(15, 15, 25)) # Fundo Azul Escuro Profundo
+        img = Image.new('RGB', (LARGURA, ALTURA), color=(15, 15, 25))
         d = ImageDraw.Draw(img)
         
-        # Cabeçalho
-        d.rectangle([(0, 0), (LARGURA, 130)], fill=(30, 30, 50)) # Barra superior
-        d.text((MARGEM_X, 30), "MONITORAMENTO DE STATUS IPTV", fill=(0, 255, 255), font=fontes['titulo'])
-        d.text((MARGEM_X, 90), f"Atualização: {agora} | Página {pagina + 1} de {total_paginas}", fill=(200, 200, 200), font=fontes['sub'])
+        # Cabeçalho Geral
+        d.rectangle([(0, 0), (LARGURA, 90)], fill=(30, 30, 50)) 
+        d.text((MARGEM_X, 20), "MONITORAMENTO IPTV", fill=(0, 255, 255), font=fontes['titulo'])
+        d.text((MARGEM_X, 65), f"Atualizado: {agora} | Pág {pagina + 1}/{total_paginas}", fill=(200, 200, 200), font=fontes['sub'])
 
-        # Cabeçalho da Tabela
-        colunas_x = [50, 600, 900, 1200, 1500] # Posições X das colunas
+        # Cabeçalho da Tabela (Colunas)
+        colunas_x = [50, 600, 900, 1200, 1500] 
         titulos = ["FONTE / SERVIDOR", "CRIADO", "VENCE", "CONEX", "STATUS"]
         
-        y_header = 150
-        d.rectangle([(MARGEM_X, y_header), (LARGURA - MARGEM_X, y_header + 40)], fill=(50, 50, 70))
+        y_header = 100
+        d.rectangle([(MARGEM_X, y_header), (LARGURA - MARGEM_X, y_header + 30)], fill=(50, 50, 70))
         
         for i, titulo in enumerate(titulos):
             d.text((colunas_x[i], y_header + 5), titulo, fill=(255, 215, 0), font=fontes['bold'])
@@ -174,33 +180,37 @@ def gerar_imagens_paginadas(dados):
         for i, linha in enumerate(dados_pagina):
             nome, criado, vence, conexoes, status = linha
             
-            # Cor de fundo alternada para facilitar leitura
+            # Fundo zebrado para facilitar a leitura com linhas finas
             if i % 2 == 0:
-                d.rectangle([(MARGEM_X, y), (LARGURA - MARGEM_X, y + ALTURA_LINHA)], fill=(25, 25, 35))
+                d.rectangle([(MARGEM_X, y), (LARGURA - MARGEM_X, y + ALTURA_LINHA)], fill=(22, 22, 32))
+            else:
+                d.rectangle([(MARGEM_X, y), (LARGURA - MARGEM_X, y + ALTURA_LINHA)], fill=(28, 28, 38))
             
             # Cores do Status
             cor_texto = (230, 230, 230)
-            cor_status = (255, 50, 50) # Vermelho (Offline/Erro)
+            cor_status = (255, 50, 50) # Vermelho
             
             status_lower = str(status).lower()
-            if "active" in status_lower: cor_status = (50, 255, 50) # Verde
+            if "active" in status_lower: cor_status = (50, 255, 50) # Verde Neon
             elif "expiring" in status_lower: cor_status = (255, 165, 0) # Laranja
-            elif "bloq" in status_lower or "403" in status_lower: cor_status = (200, 0, 0) # Vermelho escuro
+            elif "bloq" in status_lower or "403" in status_lower: cor_status = (200, 0, 0) # Vermelho Escuro
 
-            # Desenhar Textos
-            d.text((colunas_x[0], y + 15), str(nome), fill=cor_texto, font=fontes['padrao'])
-            d.text((colunas_x[1], y + 15), str(criado), fill=cor_texto, font=fontes['padrao'])
-            d.text((colunas_x[2], y + 15), str(vence), fill=cor_texto, font=fontes['padrao'])
-            d.text((colunas_x[3], y + 15), str(conexoes), fill=cor_texto, font=fontes['padrao'])
-            d.text((colunas_x[4], y + 15), str(status), fill=cor_status, font=fontes['bold'])
+            # Centralizar texto verticalmente na linha
+            offset_y = 6 
+
+            d.text((colunas_x[0], y + offset_y), str(nome), fill=cor_texto, font=fontes['padrao'])
+            d.text((colunas_x[1], y + offset_y), str(criado), fill=cor_texto, font=fontes['padrao'])
+            d.text((colunas_x[2], y + offset_y), str(vence), fill=cor_texto, font=fontes['padrao'])
+            d.text((colunas_x[3], y + offset_y), str(conexoes), fill=cor_texto, font=fontes['padrao'])
+            d.text((colunas_x[4], y + offset_y), str(status), fill=cor_status, font=fontes['bold'])
             
             y += ALTURA_LINHA
 
-        # Salvar imagem sequencial para o ffmpeg
+        # Salvar frame
         nome_arquivo = f"status_{pagina}.png"
         img.save(nome_arquivo)
         nomes_arquivos.append(nome_arquivo)
-        print(f"🖼️  Slide gerado: {nome_arquivo}")
+        print(f"🖼️  Slide {pagina+1} gerado: {nome_arquivo}")
 
     return nomes_arquivos
 
@@ -209,34 +219,26 @@ def criar_video_slideshow(imagens):
     
     print("🎬 Gerando vídeo slideshow (1920x1080)...")
     
-    # Se tiver apenas 1 imagem, faz um vídeo estático de 10s
-    # Se tiver mais, faz um carrossel de 7 segundos por slide
-    
-    tempo_por_slide = "7" 
+    # Tempo de exibição por página (segundos)
+    tempo_por_slide = "10" 
     
     try:
-        # Comando FFmpeg para criar slideshow a partir das imagens status_0.png, status_1.png...
-        # %d é o placeholder para o número sequencial
+        # Cria vídeo compatível com qualquer player (yuv420p)
         cmd = [
             "ffmpeg", "-y", 
-            "-framerate", f"1/{tempo_por_slide}", # 1 frame a cada X segundos
-            "-i", "status_%d.png",                 # Input sequencial
+            "-framerate", f"1/{tempo_por_slide}", 
+            "-i", "status_%d.png",                 
             "-c:v", "libx264", 
-            "-r", "30",                            # Framerate de saída
-            "-pix_fmt", "yuv420p",                 # Compatibilidade com Players/TV
+            "-r", "30",                            
+            "-pix_fmt", "yuv420p",                 
             "video_status.mp4"
         ]
         
-        # Executa silenciosamente
         subprocess.run(cmd, check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
         print("✅ Vídeo 'video_status.mp4' criado com sucesso!")
-        
-        # Limpeza opcional: remover os PNGs depois de gerar o vídeo
-        # for img in imagens:
-        #     if os.path.exists(img): os.remove(img)
             
     except FileNotFoundError:
-        print("⚠️  FFmpeg não instalado. As imagens PNG foram salvas, mas o vídeo não pôde ser gerado.")
+        print("⚠️  FFmpeg não instalado. Apenas as imagens foram geradas.")
     except Exception as e:
         print(f"⚠️  Erro ao gerar vídeo: {e}")
 
@@ -244,9 +246,7 @@ if __name__ == "__main__":
     lista = obter_lista_links()
     if lista:
         dados = analisar_links(lista)
-        # Gera múltiplas imagens se necessário, todas em Full HD
-        arquivos_img = gerar_imagens_paginadas(dados)
-        # Cria o vídeo juntando as imagens
-        criar_video_slideshow(arquivos_img)
+        arquivos = gerar_imagens_paginadas(dados)
+        criar_video_slideshow(arquivos)
     else:
         print("Nenhum dado para processar.")
