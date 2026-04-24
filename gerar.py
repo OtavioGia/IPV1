@@ -53,7 +53,8 @@ Fonte 61|http://agkcl2.cc/player_api.php?username=318284&password=pgJqrm,
 Fonte 62|http://agkcl2.cc/player_api.php?username=332577&password=yhzSje,
 Fonte 63|http://agkcl2.cc/player_api.php?username=599225&password=EWdVQ6,
 Fonte 64|http://agkcl2.cc/player_api.php?username=882170&password=A3FHej,
-Fonte 65|http://agkcl2.cc/player_api.php?username=888647&password=xjfFUu
+Fonte 65|http://agkcl2.cc/player_api.php?username=888647&password=xjfFUu,
+Fonte 66|http://decoli2025.top/player_api.php?username=2023LineP2afdyuotXo5N6tju7LKqN1Q54lV0cusJ&password=2023L0Da9dHurlBtHo9xIL9C69KAvOsJ5KIg6kTTdW2023
 """
 
 def obter_lista_links():
