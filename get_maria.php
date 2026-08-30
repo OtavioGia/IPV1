@@ -3,16 +3,16 @@
 #EXTM3U size="Big"
 
 #EXTINF:0 type="playlist" tvg-logo="https://imgur.com/bixCGMW.png",Lista_ODG
-https://otaviogia.github.io/IPV1/get_monteiro.php?username=usuario&password=1233&type=m3u_plus
+https://9otaviogia.github.io/IPV1/get_monteiro.php?username=usuario&password=1233&type=m3u_plus
 
 #EXTINF:0 type="playlist" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ant_motif.png/960px-Ant_motif.png",Lista_Formiga
-https://np.tvdecasa.com.br/ssiptv/get/Formigatv/14042025/list_lives/
+https://9np.tvdecasa.com.br/ssiptv/get/Formigatv/14042025/list_lives/
 
 #EXTINF:0 type="playlist" tvg-logo="https://en.wikipedia.org/wiki/Microsoft_Movies_%26_TV#/media/File:Movies_&_TV_logo.png",Lista_Filmes_e_Series
-http://dns.carnes.ink:8080/get.php?username=ZdEtSNbXb37d&password=xbb2ns98aprW&type=m3u_plus&output=m3u8
+http://9dns.carnes.ink:8080/get.php?username=ZdEtSNbXb37d&password=xbb2ns98aprW&type=m3u_plus&output=m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/HD_ready_1080p_logo.svg/1024px-HD_ready_1080p_logo.svg.png",TechSat1
-http://opbx.xyz/get.php?username=techsat&password=1234567&type=m3u_plus
+http://9opbx.xyz/get.php?username=techsat&password=1234567&type=m3u_plus
 
 #EXTINF:0 type="playlist" tvg-logo="https://linorg.usp.br/xbmc/addons/omega/pvr.iptvsimple+windows-i686/icon.png",TechSat2
-http://vyvo.online/get.php?username=techsat&password=1234567&type=m3u_plus
+http://9vyvo.online/get.php?username=techsat&password=1234567&type=m3u_plus
