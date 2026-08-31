@@ -1,6 +1,6 @@
 ====================================================================================================
 RELATÓRIO DE DEBUG - MONITORAMENTO IPTV
-Execução em: 31/08/2026 - 13:42:02
+Execução em: 31/08/2026 - 13:54:19
 Total de fontes verificadas: 61
 ====================================================================================================
 
@@ -19,8 +19,8 @@ DETALHE POR FONTE
 ----------------------------------------------------------------------------------------------------
 [1/61] FONTE: F14M2
 URL: http://play.dnsrot.vip/player_api.php?username=5550388689&password=simpleiptv
-Início da checagem: 2026-08-31 16:41:47
-Tempo de resposta: 0.43s
+Início da checagem: 2026-08-31 16:54:01
+Tempo de resposta: 0.4s
 HTTP Status Code: 200
 Content-Type: application/json; charset=utf-8
 Tamanho da resposta: 467 bytes
@@ -29,13 +29,13 @@ Chaves no JSON raiz: ['user_info', 'server_info']
 Chaves em user_info: ['username', 'password', 'message', 'auth', 'status', 'exp_date', 'is_trial', 'active_cons', 'created_at', 'max_connections', 'allowed_output_formats']
 Observação: created_at=1616122800 | exp_date=1790477999 | active_cons=1 | max_connections=2
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"5550388689","password":"simpleiptv","message":"BIT Panel","auth":1,"status":"Active","exp_date":"1790477999","is_trial":"0","active_cons":"1","created_at":"1616122800","max_connections":"2","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"url":"play.dnsrot.vip","port":"80","https_port":"443","server_protocol":"http","rtmp_port":null,"timezone":"America/Sao_Paulo","timestamp_now":1788194507,"time_now":"2026-08-31 13:41:47"}}
+{"user_info":{"username":"5550388689","password":"simpleiptv","message":"BIT Panel","auth":1,"status":"Active","exp_date":"1790477999","is_trial":"0","active_cons":"1","created_at":"1616122800","max_connections":"2","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"url":"play.dnsrot.vip","port":"80","https_port":"443","server_protocol":"http","rtmp_port":null,"timezone":"America/Sao_Paulo","timestamp_now":1788195241,"time_now":"2026-08-31 13:54:01"}}
 
 ----------------------------------------------------------------------------------------------------
 [2/61] FONTE: F15M2
 URL: http://play.dnsrot.vip/player_api.php?&username=Marcosfp05&password=nlybdft6fml
-Início da checagem: 2026-08-31 16:41:47
-Tempo de resposta: 0.29s
+Início da checagem: 2026-08-31 16:54:01
+Tempo de resposta: 0.78s
 HTTP Status Code: 200
 Content-Type: application/json; charset=utf-8
 Tamanho da resposta: 468 bytes
@@ -44,13 +44,13 @@ Chaves no JSON raiz: ['user_info', 'server_info']
 Chaves em user_info: ['username', 'password', 'message', 'auth', 'status', 'exp_date', 'is_trial', 'active_cons', 'created_at', 'max_connections', 'allowed_output_formats']
 Observação: created_at=1608378018 | exp_date=1796002100 | active_cons=0 | max_connections=2
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"Marcosfp05","password":"nlybdft6fml","message":"BIT Panel","auth":1,"status":"Active","exp_date":"1796002100","is_trial":"0","active_cons":"0","created_at":"1608378018","max_connections":"2","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"url":"play.dnsrot.vip","port":"80","https_port":"443","server_protocol":"http","rtmp_port":null,"timezone":"America/Sao_Paulo","timestamp_now":1788194508,"time_now":"2026-08-31 13:41:48"}}
+{"user_info":{"username":"Marcosfp05","password":"nlybdft6fml","message":"BIT Panel","auth":1,"status":"Active","exp_date":"1796002100","is_trial":"0","active_cons":"0","created_at":"1608378018","max_connections":"2","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"url":"play.dnsrot.vip","port":"80","https_port":"443","server_protocol":"http","rtmp_port":null,"timezone":"America/Sao_Paulo","timestamp_now":1788195242,"time_now":"2026-08-31 13:54:02"}}
 
 ----------------------------------------------------------------------------------------------------
 [3/61] FONTE: F25M3
 URL: http://megaxc.ca/player_api.php?&username=ialwg1&password=iao8wo
-Início da checagem: 2026-08-31 16:41:48
-Tempo de resposta: 0.04s
+Início da checagem: 2026-08-31 16:54:02
+Tempo de resposta: 0.06s
 HTTP Status Code: 406
 Content-Type: text/html
 Tamanho da resposta: 611 bytes
@@ -85,8 +85,8 @@ Commercial support is available at
 ----------------------------------------------------------------------------------------------------
 [4/61] FONTE: F27M1
 URL: http://play.dnsrot.vip/player_api.php?&username=nena6194sala&password=mqtavfrtyl
-Início da checagem: 2026-08-31 16:41:48
-Tempo de resposta: 0.3s
+Início da checagem: 2026-08-31 16:54:02
+Tempo de resposta: 0.28s
 HTTP Status Code: 200
 Content-Type: application/json; charset=utf-8
 Tamanho da resposta: 469 bytes
@@ -95,13 +95,13 @@ Chaves no JSON raiz: ['user_info', 'server_info']
 Chaves em user_info: ['username', 'password', 'message', 'auth', 'status', 'exp_date', 'is_trial', 'active_cons', 'created_at', 'max_connections', 'allowed_output_formats']
 Observação: created_at=1679172190 | exp_date=1798305251 | active_cons=1 | max_connections=1
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"nena6194sala","password":"mqtavfrtyl","message":"BIT Panel","auth":1,"status":"Active","exp_date":"1798305251","is_trial":"0","active_cons":"1","created_at":"1679172190","max_connections":"1","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"url":"play.dnsrot.vip","port":"80","https_port":"443","server_protocol":"http","rtmp_port":null,"timezone":"America/Sao_Paulo","timestamp_now":1788194508,"time_now":"2026-08-31 13:41:48"}}
+{"user_info":{"username":"nena6194sala","password":"mqtavfrtyl","message":"BIT Panel","auth":1,"status":"Active","exp_date":"1798305251","is_trial":"0","active_cons":"1","created_at":"1679172190","max_connections":"1","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"url":"play.dnsrot.vip","port":"80","https_port":"443","server_protocol":"http","rtmp_port":null,"timezone":"America/Sao_Paulo","timestamp_now":1788195242,"time_now":"2026-08-31 13:54:02"}}
 
 ----------------------------------------------------------------------------------------------------
 [5/61] FONTE: F28M1
 URL: http://play.dnsrot.vip/player_api.php?&username=tomoko11&password=14n11oi50oc
-Início da checagem: 2026-08-31 16:41:48
-Tempo de resposta: 0.32s
+Início da checagem: 2026-08-31 16:54:02
+Tempo de resposta: 0.67s
 HTTP Status Code: 200
 Content-Type: application/json; charset=utf-8
 Tamanho da resposta: 466 bytes
@@ -110,13 +110,13 @@ Chaves no JSON raiz: ['user_info', 'server_info']
 Chaves em user_info: ['username', 'password', 'message', 'auth', 'status', 'exp_date', 'is_trial', 'active_cons', 'created_at', 'max_connections', 'allowed_output_formats']
 Observação: created_at=1712259105 | exp_date=1791149505 | active_cons=1 | max_connections=1
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"tomoko11","password":"14n11oi50oc","message":"BIT Panel","auth":1,"status":"Active","exp_date":"1791149505","is_trial":"0","active_cons":"1","created_at":"1712259105","max_connections":"1","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"url":"play.dnsrot.vip","port":"80","https_port":"443","server_protocol":"http","rtmp_port":null,"timezone":"America/Sao_Paulo","timestamp_now":1788194508,"time_now":"2026-08-31 13:41:48"}}
+{"user_info":{"username":"tomoko11","password":"14n11oi50oc","message":"BIT Panel","auth":1,"status":"Active","exp_date":"1791149505","is_trial":"0","active_cons":"1","created_at":"1712259105","max_connections":"1","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"url":"play.dnsrot.vip","port":"80","https_port":"443","server_protocol":"http","rtmp_port":null,"timezone":"America/Sao_Paulo","timestamp_now":1788195243,"time_now":"2026-08-31 13:54:03"}}
 
 ----------------------------------------------------------------------------------------------------
 [6/61] FONTE: F29M3
 URL: http://play.dnsrot.vip/player_api.php?&username=vanessanook&password=vinr390x8y
-Início da checagem: 2026-08-31 16:41:48
-Tempo de resposta: 0.27s
+Início da checagem: 2026-08-31 16:54:03
+Tempo de resposta: 0.43s
 HTTP Status Code: 200
 Content-Type: application/json; charset=utf-8
 Tamanho da resposta: 468 bytes
@@ -125,13 +125,13 @@ Chaves no JSON raiz: ['user_info', 'server_info']
 Chaves em user_info: ['username', 'password', 'message', 'auth', 'status', 'exp_date', 'is_trial', 'active_cons', 'created_at', 'max_connections', 'allowed_output_formats']
 Observação: created_at=1618431968 | exp_date=1788653519 | active_cons=1 | max_connections=3
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"vanessanook","password":"vinr390x8y","message":"BIT Panel","auth":1,"status":"Active","exp_date":"1788653519","is_trial":"0","active_cons":"1","created_at":"1618431968","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"url":"play.dnsrot.vip","port":"80","https_port":"443","server_protocol":"http","rtmp_port":null,"timezone":"America/Sao_Paulo","timestamp_now":1788194509,"time_now":"2026-08-31 13:41:49"}}
+{"user_info":{"username":"vanessanook","password":"vinr390x8y","message":"BIT Panel","auth":1,"status":"Active","exp_date":"1788653519","is_trial":"0","active_cons":"1","created_at":"1618431968","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"url":"play.dnsrot.vip","port":"80","https_port":"443","server_protocol":"http","rtmp_port":null,"timezone":"America/Sao_Paulo","timestamp_now":1788195243,"time_now":"2026-08-31 13:54:03"}}
 
 ----------------------------------------------------------------------------------------------------
 [7/61] FONTE: F30M3
 URL: http://play.dnsrot.vip/player_api.php?&username=huhenz&password=fa7kum6q4bm
-Início da checagem: 2026-08-31 16:41:49
-Tempo de resposta: 0.3s
+Início da checagem: 2026-08-31 16:54:03
+Tempo de resposta: 0.25s
 HTTP Status Code: 401
 Content-Type: application/json; charset=utf-8
 Tamanho da resposta: 46 bytes
@@ -142,8 +142,8 @@ Resposta bruta (preview, até 800 caracteres):
 ----------------------------------------------------------------------------------------------------
 [8/61] FONTE: F31M2
 URL: http://play.dnsrot.vip/player_api.php?&username=zQ4qeGkNrQ&password=factoryiptv
-Início da checagem: 2026-08-31 16:41:49
-Tempo de resposta: 0.57s
+Início da checagem: 2026-08-31 16:54:04
+Tempo de resposta: 2.2s
 HTTP Status Code: 200
 Content-Type: application/json; charset=utf-8
 Tamanho da resposta: 469 bytes
@@ -152,13 +152,13 @@ Chaves no JSON raiz: ['user_info', 'server_info']
 Chaves em user_info: ['username', 'password', 'message', 'auth', 'status', 'exp_date', 'is_trial', 'active_cons', 'created_at', 'max_connections', 'allowed_output_formats']
 Observação: created_at=1544580000 | exp_date=1787507064 | active_cons=0 | max_connections=2
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"zQ4qeGkNrQ","password":"factoryiptv","message":"BIT Panel","auth":1,"status":"Expired","exp_date":"1787507064","is_trial":"0","active_cons":"0","created_at":"1544580000","max_connections":"2","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"url":"play.dnsrot.vip","port":"80","https_port":"443","server_protocol":"http","rtmp_port":null,"timezone":"America/Sao_Paulo","timestamp_now":1788194510,"time_now":"2026-08-31 13:41:50"}}
+{"user_info":{"username":"zQ4qeGkNrQ","password":"factoryiptv","message":"BIT Panel","auth":1,"status":"Expired","exp_date":"1787507064","is_trial":"0","active_cons":"0","created_at":"1544580000","max_connections":"2","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"url":"play.dnsrot.vip","port":"80","https_port":"443","server_protocol":"http","rtmp_port":null,"timezone":"America/Sao_Paulo","timestamp_now":1788195246,"time_now":"2026-08-31 13:54:06"}}
 
 ----------------------------------------------------------------------------------------------------
 [9/61] FONTE: F32M2
 URL: http://play.dnsrot.vip/player_api.php?&username=7RRjPTu5d6&password=factoryiptv
-Início da checagem: 2026-08-31 16:41:50
-Tempo de resposta: 0.28s
+Início da checagem: 2026-08-31 16:54:06
+Tempo de resposta: 0.29s
 HTTP Status Code: 200
 Content-Type: application/json; charset=utf-8
 Tamanho da resposta: 468 bytes
@@ -167,12 +167,12 @@ Chaves no JSON raiz: ['user_info', 'server_info']
 Chaves em user_info: ['username', 'password', 'message', 'auth', 'status', 'exp_date', 'is_trial', 'active_cons', 'created_at', 'max_connections', 'allowed_output_formats']
 Observação: created_at=1548903600 | exp_date=1789084800 | active_cons=0 | max_connections=2
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"7RRjPTu5d6","password":"factoryiptv","message":"BIT Panel","auth":1,"status":"Active","exp_date":"1789084800","is_trial":"0","active_cons":"0","created_at":"1548903600","max_connections":"2","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"url":"play.dnsrot.vip","port":"80","https_port":"443","server_protocol":"http","rtmp_port":null,"timezone":"America/Sao_Paulo","timestamp_now":1788194510,"time_now":"2026-08-31 13:41:50"}}
+{"user_info":{"username":"7RRjPTu5d6","password":"factoryiptv","message":"BIT Panel","auth":1,"status":"Active","exp_date":"1789084800","is_trial":"0","active_cons":"0","created_at":"1548903600","max_connections":"2","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"url":"play.dnsrot.vip","port":"80","https_port":"443","server_protocol":"http","rtmp_port":null,"timezone":"America/Sao_Paulo","timestamp_now":1788195246,"time_now":"2026-08-31 13:54:06"}}
 
 ----------------------------------------------------------------------------------------------------
 [10/61] FONTE: F57M10
 URL: http://agkcl2.cc/player_api.php?&username=719065&password=r12xvZ
-Início da checagem: 2026-08-31 16:41:50
+Início da checagem: 2026-08-31 16:54:06
 Tempo de resposta: 0.28s
 HTTP Status Code: 200
 Content-Type: text/html; charset=utf-8
@@ -206,8 +206,8 @@ Resposta bruta (preview, até 800 caracteres):
 ----------------------------------------------------------------------------------------------------
 [11/61] FONTE: F61M5
 URL: http://agkcl2.cc/player_api.php?&username=318284&password=pgJqrm
-Início da checagem: 2026-08-31 16:41:50
-Tempo de resposta: 0.28s
+Início da checagem: 2026-08-31 16:54:07
+Tempo de resposta: 0.27s
 HTTP Status Code: 200
 Content-Type: text/html; charset=utf-8
 Tamanho da resposta: 235 bytes
@@ -240,7 +240,7 @@ Resposta bruta (preview, até 800 caracteres):
 ----------------------------------------------------------------------------------------------------
 [12/61] FONTE: F64M5
 URL: http://agkcl2.cc/player_api.php?&username=882170&password=A3FHej
-Início da checagem: 2026-08-31 16:41:50
+Início da checagem: 2026-08-31 16:54:07
 Tempo de resposta: 0.28s
 HTTP Status Code: 200
 Content-Type: text/html; charset=utf-8
@@ -274,8 +274,8 @@ Resposta bruta (preview, até 800 caracteres):
 ----------------------------------------------------------------------------------------------------
 [13/61] FONTE: F65M5
 URL: http://agkcl2.cc/player_api.php?&username=888647&password=xjfFUu
-Início da checagem: 2026-08-31 16:41:51
-Tempo de resposta: 0.28s
+Início da checagem: 2026-08-31 16:54:07
+Tempo de resposta: 0.26s
 HTTP Status Code: 200
 Content-Type: text/html; charset=utf-8
 Tamanho da resposta: 235 bytes
@@ -308,8 +308,8 @@ Resposta bruta (preview, até 800 caracteres):
 ----------------------------------------------------------------------------------------------------
 [14/61] FONTE: F67M5
 URL: http://cavalo.cc/player_api.php?&username=671409&password=f3UQjJ
-Início da checagem: 2026-08-31 16:41:51
-Tempo de resposta: 0.13s
+Início da checagem: 2026-08-31 16:54:07
+Tempo de resposta: 0.14s
 HTTP Status Code: 200
 Content-Type: text/html; charset=utf-8
 Tamanho da resposta: 235 bytes
@@ -342,8 +342,8 @@ Resposta bruta (preview, até 800 caracteres):
 ----------------------------------------------------------------------------------------------------
 [15/61] FONTE: F68M5
 URL: http://cavalo.cc/player_api.php?&username=988060&password=zd7YEw
-Início da checagem: 2026-08-31 16:41:51
-Tempo de resposta: 0.1s
+Início da checagem: 2026-08-31 16:54:07
+Tempo de resposta: 0.13s
 HTTP Status Code: 200
 Content-Type: text/html; charset=utf-8
 Tamanho da resposta: 235 bytes
@@ -376,8 +376,8 @@ Resposta bruta (preview, até 800 caracteres):
 ----------------------------------------------------------------------------------------------------
 [16/61] FONTE: F69M5
 URL: http://cavalo.cc/player_api.php?&username=525656&password=7UDTt9
-Início da checagem: 2026-08-31 16:41:51
-Tempo de resposta: 0.09s
+Início da checagem: 2026-08-31 16:54:08
+Tempo de resposta: 0.21s
 HTTP Status Code: 200
 Content-Type: text/html; charset=utf-8
 Tamanho da resposta: 235 bytes
@@ -410,8 +410,8 @@ Resposta bruta (preview, até 800 caracteres):
 ----------------------------------------------------------------------------------------------------
 [17/61] FONTE: F70M5
 URL: http://cavalo.cc/player_api.php?&username=544119&password=87XJCZ
-Início da checagem: 2026-08-31 16:41:51
-Tempo de resposta: 0.15s
+Início da checagem: 2026-08-31 16:54:08
+Tempo de resposta: 0.1s
 HTTP Status Code: 200
 Content-Type: text/html; charset=utf-8
 Tamanho da resposta: 235 bytes
@@ -444,8 +444,8 @@ Resposta bruta (preview, até 800 caracteres):
 ----------------------------------------------------------------------------------------------------
 [18/61] FONTE: F71M5
 URL: http://cavalo.cc/player_api.php?&username=671409&password=f3UQjJ
-Início da checagem: 2026-08-31 16:41:51
-Tempo de resposta: 0.1s
+Início da checagem: 2026-08-31 16:54:08
+Tempo de resposta: 0.07s
 HTTP Status Code: 200
 Content-Type: text/html; charset=utf-8
 Tamanho da resposta: 235 bytes
@@ -478,8 +478,8 @@ Resposta bruta (preview, até 800 caracteres):
 ----------------------------------------------------------------------------------------------------
 [19/61] FONTE: F72M5
 URL: http://cavalo.cc/player_api.php?&username=166691&password=SqEdeF
-Início da checagem: 2026-08-31 16:41:52
-Tempo de resposta: 0.09s
+Início da checagem: 2026-08-31 16:54:08
+Tempo de resposta: 0.07s
 HTTP Status Code: 200
 Content-Type: text/html; charset=utf-8
 Tamanho da resposta: 235 bytes
@@ -512,8 +512,8 @@ Resposta bruta (preview, até 800 caracteres):
 ----------------------------------------------------------------------------------------------------
 [20/61] FONTE: F74M5
 URL: http://cavalo.cc/player_api.php?&username=392157&password=fs8w4W
-Início da checagem: 2026-08-31 16:41:52
-Tempo de resposta: 0.09s
+Início da checagem: 2026-08-31 16:54:08
+Tempo de resposta: 0.08s
 HTTP Status Code: 200
 Content-Type: text/html; charset=utf-8
 Tamanho da resposta: 235 bytes
@@ -546,8 +546,8 @@ Resposta bruta (preview, até 800 caracteres):
 ----------------------------------------------------------------------------------------------------
 [21/61] FONTE: F75M5
 URL: http://cavalo.cc/player_api.php?&username=393747&password=PEHcPC
-Início da checagem: 2026-08-31 16:41:52
-Tempo de resposta: 0.09s
+Início da checagem: 2026-08-31 16:54:08
+Tempo de resposta: 0.12s
 HTTP Status Code: 200
 Content-Type: text/html; charset=utf-8
 Tamanho da resposta: 235 bytes
@@ -580,8 +580,8 @@ Resposta bruta (preview, até 800 caracteres):
 ----------------------------------------------------------------------------------------------------
 [22/61] FONTE: F76M5
 URL: http://cavalo.cc/player_api.php?&username=563593&password=vGfUjy
-Início da checagem: 2026-08-31 16:41:52
-Tempo de resposta: 0.08s
+Início da checagem: 2026-08-31 16:54:08
+Tempo de resposta: 0.09s
 HTTP Status Code: 200
 Content-Type: text/html; charset=utf-8
 Tamanho da resposta: 235 bytes
@@ -614,8 +614,8 @@ Resposta bruta (preview, até 800 caracteres):
 ----------------------------------------------------------------------------------------------------
 [23/61] FONTE: F77M5
 URL: http://cavalo.cc/player_api.php?&username=296115&password=bn2aGw
-Início da checagem: 2026-08-31 16:41:52
-Tempo de resposta: 0.06s
+Início da checagem: 2026-08-31 16:54:08
+Tempo de resposta: 0.07s
 HTTP Status Code: 200
 Content-Type: text/html; charset=utf-8
 Tamanho da resposta: 235 bytes
@@ -648,8 +648,8 @@ Resposta bruta (preview, até 800 caracteres):
 ----------------------------------------------------------------------------------------------------
 [24/61] FONTE: F78M5
 URL: http://cavalo.cc/player_api.php?&username=166691&password=SqEdeF
-Início da checagem: 2026-08-31 16:41:52
-Tempo de resposta: 0.06s
+Início da checagem: 2026-08-31 16:54:08
+Tempo de resposta: 0.07s
 HTTP Status Code: 200
 Content-Type: text/html; charset=utf-8
 Tamanho da resposta: 235 bytes
@@ -682,7 +682,7 @@ Resposta bruta (preview, até 800 caracteres):
 ----------------------------------------------------------------------------------------------------
 [25/61] FONTE: F79M5
 URL: http://cavalo.cc/player_api.php?&username=146336&password=zF39KA
-Início da checagem: 2026-08-31 16:41:52
+Início da checagem: 2026-08-31 16:54:08
 Tempo de resposta: 0.08s
 HTTP Status Code: 200
 Content-Type: text/html; charset=utf-8
@@ -716,8 +716,8 @@ Resposta bruta (preview, até 800 caracteres):
 ----------------------------------------------------------------------------------------------------
 [26/61] FONTE: F80M5
 URL: http://cavalo.cc/player_api.php?&username=393747&password=PEHcPC
-Início da checagem: 2026-08-31 16:41:52
-Tempo de resposta: 0.08s
+Início da checagem: 2026-08-31 16:54:09
+Tempo de resposta: 0.09s
 HTTP Status Code: 200
 Content-Type: text/html; charset=utf-8
 Tamanho da resposta: 235 bytes
@@ -750,8 +750,8 @@ Resposta bruta (preview, até 800 caracteres):
 ----------------------------------------------------------------------------------------------------
 [27/61] FONTE: F81M5
 URL: http://cavalo.cc/player_api.php?&username=965893&password=Rx5Vau
-Início da checagem: 2026-08-31 16:41:52
-Tempo de resposta: 0.06s
+Início da checagem: 2026-08-31 16:54:09
+Tempo de resposta: 0.08s
 HTTP Status Code: 200
 Content-Type: text/html; charset=utf-8
 Tamanho da resposta: 235 bytes
@@ -784,8 +784,8 @@ Resposta bruta (preview, até 800 caracteres):
 ----------------------------------------------------------------------------------------------------
 [28/61] FONTE: F82M5
 URL: http://cavalo.cc/player_api.php?&username=544119&password=87XJCZ
-Início da checagem: 2026-08-31 16:41:52
-Tempo de resposta: 0.06s
+Início da checagem: 2026-08-31 16:54:09
+Tempo de resposta: 0.09s
 HTTP Status Code: 200
 Content-Type: text/html; charset=utf-8
 Tamanho da resposta: 235 bytes
@@ -818,8 +818,8 @@ Resposta bruta (preview, até 800 caracteres):
 ----------------------------------------------------------------------------------------------------
 [29/61] FONTE: F84M5
 URL: http://cavalo.cc/player_api.php?&username=985028&password=Stj27w
-Início da checagem: 2026-08-31 16:41:52
-Tempo de resposta: 0.05s
+Início da checagem: 2026-08-31 16:54:09
+Tempo de resposta: 0.1s
 HTTP Status Code: 200
 Content-Type: text/html; charset=utf-8
 Tamanho da resposta: 235 bytes
@@ -852,8 +852,8 @@ Resposta bruta (preview, até 800 caracteres):
 ----------------------------------------------------------------------------------------------------
 [30/61] FONTE: F85M5
 URL: http://cavalo.cc/player_api.php?&username=563593&password=vGfUjy
-Início da checagem: 2026-08-31 16:41:52
-Tempo de resposta: 0.07s
+Início da checagem: 2026-08-31 16:54:09
+Tempo de resposta: 0.08s
 HTTP Status Code: 200
 Content-Type: text/html; charset=utf-8
 Tamanho da resposta: 235 bytes
@@ -886,8 +886,8 @@ Resposta bruta (preview, até 800 caracteres):
 ----------------------------------------------------------------------------------------------------
 [31/61] FONTE: F86M5
 URL: http://cavalo.cc/player_api.php?&username=525656&password=7UDTt9
-Início da checagem: 2026-08-31 16:41:52
-Tempo de resposta: 0.07s
+Início da checagem: 2026-08-31 16:54:09
+Tempo de resposta: 0.04s
 HTTP Status Code: 200
 Content-Type: text/html; charset=utf-8
 Tamanho da resposta: 235 bytes
@@ -920,8 +920,8 @@ Resposta bruta (preview, até 800 caracteres):
 ----------------------------------------------------------------------------------------------------
 [32/61] FONTE: F87M5
 URL: http://cavalo.cc/player_api.php?&username=258275&password=GWDsuf
-Início da checagem: 2026-08-31 16:41:52
-Tempo de resposta: 0.09s
+Início da checagem: 2026-08-31 16:54:09
+Tempo de resposta: 0.19s
 HTTP Status Code: 200
 Content-Type: text/html; charset=utf-8
 Tamanho da resposta: 235 bytes
@@ -954,8 +954,8 @@ Resposta bruta (preview, até 800 caracteres):
 ----------------------------------------------------------------------------------------------------
 [33/61] FONTE: F88M5
 URL: http://cavalo.cc/player_api.php?&username=023629&password=Gw91WV
-Início da checagem: 2026-08-31 16:41:53
-Tempo de resposta: 0.03s
+Início da checagem: 2026-08-31 16:54:09
+Tempo de resposta: 0.08s
 HTTP Status Code: 200
 Content-Type: text/html; charset=utf-8
 Tamanho da resposta: 235 bytes
@@ -988,8 +988,8 @@ Resposta bruta (preview, até 800 caracteres):
 ----------------------------------------------------------------------------------------------------
 [34/61] FONTE: F89M5
 URL: http://cavalo.cc/player_api.php?&username=939041&password=8SA9sh
-Início da checagem: 2026-08-31 16:41:53
-Tempo de resposta: 0.04s
+Início da checagem: 2026-08-31 16:54:09
+Tempo de resposta: 0.13s
 HTTP Status Code: 200
 Content-Type: text/html; charset=utf-8
 Tamanho da resposta: 235 bytes
@@ -1022,7 +1022,7 @@ Resposta bruta (preview, até 800 caracteres):
 ----------------------------------------------------------------------------------------------------
 [35/61] FONTE: F90M5
 URL: http://cavalo.cc/player_api.php?&username=241804&password=x27GNr
-Início da checagem: 2026-08-31 16:41:53
+Início da checagem: 2026-08-31 16:54:09
 Tempo de resposta: 0.04s
 HTTP Status Code: 200
 Content-Type: text/html; charset=utf-8
@@ -1056,7 +1056,7 @@ Resposta bruta (preview, até 800 caracteres):
 ----------------------------------------------------------------------------------------------------
 [36/61] FONTE: F91M5
 URL: http://cavalo.cc/player_api.php?&username=146336&password=zF39KA
-Início da checagem: 2026-08-31 16:41:53
+Início da checagem: 2026-08-31 16:54:09
 Tempo de resposta: 0.04s
 HTTP Status Code: 200
 Content-Type: text/html; charset=utf-8
@@ -1090,8 +1090,8 @@ Resposta bruta (preview, até 800 caracteres):
 ----------------------------------------------------------------------------------------------------
 [37/61] FONTE: F92M5
 URL: http://cavalo.cc/player_api.php?&username=965893&password=Rx5Vau
-Início da checagem: 2026-08-31 16:41:53
-Tempo de resposta: 0.03s
+Início da checagem: 2026-08-31 16:54:10
+Tempo de resposta: 0.1s
 HTTP Status Code: 200
 Content-Type: text/html; charset=utf-8
 Tamanho da resposta: 235 bytes
@@ -1124,8 +1124,8 @@ Resposta bruta (preview, até 800 caracteres):
 ----------------------------------------------------------------------------------------------------
 [38/61] FONTE: F93M5
 URL: http://cavalo.cc/player_api.php?&username=258275&password=GWDsuf
-Início da checagem: 2026-08-31 16:41:53
-Tempo de resposta: 0.05s
+Início da checagem: 2026-08-31 16:54:10
+Tempo de resposta: 0.08s
 HTTP Status Code: 200
 Content-Type: text/html; charset=utf-8
 Tamanho da resposta: 235 bytes
@@ -1158,8 +1158,8 @@ Resposta bruta (preview, até 800 caracteres):
 ----------------------------------------------------------------------------------------------------
 [39/61] FONTE: F94M5
 URL: http://cavalo.cc/player_api.php?&username=296115&password=bn2aGw
-Início da checagem: 2026-08-31 16:41:53
-Tempo de resposta: 0.06s
+Início da checagem: 2026-08-31 16:54:10
+Tempo de resposta: 0.08s
 HTTP Status Code: 200
 Content-Type: text/html; charset=utf-8
 Tamanho da resposta: 235 bytes
@@ -1192,7 +1192,7 @@ Resposta bruta (preview, até 800 caracteres):
 ----------------------------------------------------------------------------------------------------
 [40/61] FONTE: F95M5
 URL: http://cavalo.cc/player_api.php?&username=939041&password=8SA9sh
-Início da checagem: 2026-08-31 16:41:53
+Início da checagem: 2026-08-31 16:54:10
 Tempo de resposta: 0.05s
 HTTP Status Code: 200
 Content-Type: text/html; charset=utf-8
@@ -1226,8 +1226,8 @@ Resposta bruta (preview, até 800 caracteres):
 ----------------------------------------------------------------------------------------------------
 [41/61] FONTE: F96M5
 URL: http://cavalo.cc/player_api.php?&username=023629&password=Gw91WV
-Início da checagem: 2026-08-31 16:41:53
-Tempo de resposta: 0.05s
+Início da checagem: 2026-08-31 16:54:10
+Tempo de resposta: 0.03s
 HTTP Status Code: 200
 Content-Type: text/html; charset=utf-8
 Tamanho da resposta: 235 bytes
@@ -1260,8 +1260,8 @@ Resposta bruta (preview, até 800 caracteres):
 ----------------------------------------------------------------------------------------------------
 [42/61] FONTE: F97M5
 URL: http://cavalo.cc/player_api.php?&username=392157&password=fs8w4W
-Início da checagem: 2026-08-31 16:41:53
-Tempo de resposta: 0.07s
+Início da checagem: 2026-08-31 16:54:10
+Tempo de resposta: 0.05s
 HTTP Status Code: 200
 Content-Type: text/html; charset=utf-8
 Tamanho da resposta: 235 bytes
@@ -1294,8 +1294,8 @@ Resposta bruta (preview, até 800 caracteres):
 ----------------------------------------------------------------------------------------------------
 [43/61] FONTE: F98M5
 URL: http://cavalo.cc/player_api.php?&username=988060&password=zd7YEw
-Início da checagem: 2026-08-31 16:41:53
-Tempo de resposta: 0.03s
+Início da checagem: 2026-08-31 16:54:10
+Tempo de resposta: 0.05s
 HTTP Status Code: 200
 Content-Type: text/html; charset=utf-8
 Tamanho da resposta: 235 bytes
@@ -1328,8 +1328,8 @@ Resposta bruta (preview, até 800 caracteres):
 ----------------------------------------------------------------------------------------------------
 [44/61] FONTE: Fonte U38
 URL: http://case2.lat/player_api.php?&username=593812776&password=876362759
-Início da checagem: 2026-08-31 16:41:53
-Tempo de resposta: 0.64s
+Início da checagem: 2026-08-31 16:54:10
+Tempo de resposta: 0.7s
 HTTP Status Code: 200
 Content-Type: application/json
 Tamanho da resposta: 500 bytes
@@ -1338,13 +1338,13 @@ Chaves no JSON raiz: ['user_info', 'server_info']
 Chaves em user_info: ['username', 'password', 'message', 'auth', 'status', 'exp_date', 'is_trial', 'active_cons', 'created_at', 'max_connections', 'allowed_output_formats']
 Observação: created_at=1774470452 | exp_date=2065229999 | active_cons=0 | max_connections=3
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"593812776","password":"876362759","message":".","auth":1,"status":"Active","exp_date":"2065229999","is_trial":"0","active_cons":"0","created_at":"1774470452","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"sixcine.store","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788188007,"time_now":"2026-08-31 11:53:27","timezone":"America\/Sao_Paulo"}}
+{"user_info":{"username":"593812776","password":"876362759","message":".","auth":1,"status":"Active","exp_date":"2065229999","is_trial":"0","active_cons":"0","created_at":"1774470452","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"sixcine.store","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788194514,"time_now":"2026-08-31 13:41:54","timezone":"America\/Sao_Paulo"}}
 
 ----------------------------------------------------------------------------------------------------
 [45/61] FONTE: Fonte U39
 URL: http://case2.lat/player_api.php?&username=374897485&password=789272274
-Início da checagem: 2026-08-31 16:41:54
-Tempo de resposta: 0.58s
+Início da checagem: 2026-08-31 16:54:11
+Tempo de resposta: 0.56s
 HTTP Status Code: 200
 Content-Type: application/json
 Tamanho da resposta: 500 bytes
@@ -1353,13 +1353,13 @@ Chaves no JSON raiz: ['user_info', 'server_info']
 Chaves em user_info: ['username', 'password', 'message', 'auth', 'status', 'exp_date', 'is_trial', 'active_cons', 'created_at', 'max_connections', 'allowed_output_formats']
 Observação: created_at=1774470443 | exp_date=2065057199 | active_cons=0 | max_connections=3
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"374897485","password":"789272274","message":".","auth":1,"status":"Active","exp_date":"2065057199","is_trial":"0","active_cons":"0","created_at":"1774470443","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"sixcine.store","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788188008,"time_now":"2026-08-31 11:53:28","timezone":"America\/Sao_Paulo"}}
+{"user_info":{"username":"374897485","password":"789272274","message":".","auth":1,"status":"Active","exp_date":"2065057199","is_trial":"0","active_cons":"0","created_at":"1774470443","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"sixcine.store","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788194514,"time_now":"2026-08-31 13:41:54","timezone":"America\/Sao_Paulo"}}
 
 ----------------------------------------------------------------------------------------------------
 [46/61] FONTE: Fonte U40
 URL: http://case2.lat/player_api.php?&username=961386894&password=118897421
-Início da checagem: 2026-08-31 16:41:54
-Tempo de resposta: 0.59s
+Início da checagem: 2026-08-31 16:54:11
+Tempo de resposta: 0.55s
 HTTP Status Code: 200
 Content-Type: application/json
 Tamanho da resposta: 500 bytes
@@ -1368,13 +1368,13 @@ Chaves no JSON raiz: ['user_info', 'server_info']
 Chaves em user_info: ['username', 'password', 'message', 'auth', 'status', 'exp_date', 'is_trial', 'active_cons', 'created_at', 'max_connections', 'allowed_output_formats']
 Observação: created_at=1774470401 | exp_date=1906772399 | active_cons=0 | max_connections=3
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"961386894","password":"118897421","message":".","auth":1,"status":"Active","exp_date":"1906772399","is_trial":"0","active_cons":"0","created_at":"1774470401","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"sixcine.store","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788188008,"time_now":"2026-08-31 11:53:28","timezone":"America\/Sao_Paulo"}}
+{"user_info":{"username":"961386894","password":"118897421","message":".","auth":1,"status":"Active","exp_date":"1906772399","is_trial":"0","active_cons":"0","created_at":"1774470401","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"sixcine.store","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788194515,"time_now":"2026-08-31 13:41:55","timezone":"America\/Sao_Paulo"}}
 
 ----------------------------------------------------------------------------------------------------
 [47/61] FONTE: Fonte U41
 URL: http://case2.lat/player_api.php?&username=718423457&password=539143340
-Início da checagem: 2026-08-31 16:41:55
-Tempo de resposta: 0.44s
+Início da checagem: 2026-08-31 16:54:12
+Tempo de resposta: 0.59s
 HTTP Status Code: 200
 Content-Type: application/json
 Tamanho da resposta: 500 bytes
@@ -1383,13 +1383,13 @@ Chaves no JSON raiz: ['user_info', 'server_info']
 Chaves em user_info: ['username', 'password', 'message', 'auth', 'status', 'exp_date', 'is_trial', 'active_cons', 'created_at', 'max_connections', 'allowed_output_formats']
 Observação: created_at=1774470402 | exp_date=1906772399 | active_cons=0 | max_connections=3
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"718423457","password":"539143340","message":".","auth":1,"status":"Active","exp_date":"1906772399","is_trial":"0","active_cons":"0","created_at":"1774470402","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"sixcine.store","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788188009,"time_now":"2026-08-31 11:53:29","timezone":"America\/Sao_Paulo"}}
+{"user_info":{"username":"718423457","password":"539143340","message":".","auth":1,"status":"Active","exp_date":"1906772399","is_trial":"0","active_cons":"0","created_at":"1774470402","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"sixcine.store","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788194515,"time_now":"2026-08-31 13:41:55","timezone":"America\/Sao_Paulo"}}
 
 ----------------------------------------------------------------------------------------------------
 [48/61] FONTE: Fonte U42
 URL: http://case2.lat/player_api.php?&username=175473583&password=643238922
-Início da checagem: 2026-08-31 16:41:55
-Tempo de resposta: 0.44s
+Início da checagem: 2026-08-31 16:54:12
+Tempo de resposta: 0.57s
 HTTP Status Code: 200
 Content-Type: application/json
 Tamanho da resposta: 500 bytes
@@ -1398,13 +1398,13 @@ Chaves no JSON raiz: ['user_info', 'server_info']
 Chaves em user_info: ['username', 'password', 'message', 'auth', 'status', 'exp_date', 'is_trial', 'active_cons', 'created_at', 'max_connections', 'allowed_output_formats']
 Observação: created_at=1783398088 | exp_date=1812682799 | active_cons=0 | max_connections=3
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"175473583","password":"643238922","message":".","auth":1,"status":"Active","exp_date":"1812682799","is_trial":"0","active_cons":"0","created_at":"1783398088","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"sixcine.store","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788188010,"time_now":"2026-08-31 11:53:30","timezone":"America\/Sao_Paulo"}}
+{"user_info":{"username":"175473583","password":"643238922","message":".","auth":1,"status":"Active","exp_date":"1812682799","is_trial":"0","active_cons":"0","created_at":"1783398088","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"sixcine.store","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788194516,"time_now":"2026-08-31 13:41:56","timezone":"America\/Sao_Paulo"}}
 
 ----------------------------------------------------------------------------------------------------
 [49/61] FONTE: Fonte U43
 URL: http://case2.lat/player_api.php?&username=587142841&password=619556956
-Início da checagem: 2026-08-31 16:41:56
-Tempo de resposta: 0.28s
+Início da checagem: 2026-08-31 16:54:13
+Tempo de resposta: 0.27s
 HTTP Status Code: 404
 Content-Type: text/html; charset=UTF-8
 Tamanho da resposta: 905 bytes
@@ -1427,8 +1427,8 @@ Resposta bruta (preview, até 800 caracteres):
 ----------------------------------------------------------------------------------------------------
 [50/61] FONTE: Fonte U44
 URL: http://case2.lat/player_api.php?&username=753685114&password=689268878
-Início da checagem: 2026-08-31 16:41:56
-Tempo de resposta: 0.45s
+Início da checagem: 2026-08-31 16:54:13
+Tempo de resposta: 0.65s
 HTTP Status Code: 200
 Content-Type: application/json
 Tamanho da resposta: 500 bytes
@@ -1437,28 +1437,28 @@ Chaves no JSON raiz: ['user_info', 'server_info']
 Chaves em user_info: ['username', 'password', 'message', 'auth', 'status', 'exp_date', 'is_trial', 'active_cons', 'created_at', 'max_connections', 'allowed_output_formats']
 Observação: created_at=1782137055 | exp_date=1813719599 | active_cons=0 | max_connections=3
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"753685114","password":"689268878","message":".","auth":1,"status":"Active","exp_date":"1813719599","is_trial":"0","active_cons":"0","created_at":"1782137055","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"sixcine.store","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788188010,"time_now":"2026-08-31 11:53:30","timezone":"America\/Sao_Paulo"}}
+{"user_info":{"username":"753685114","password":"689268878","message":".","auth":1,"status":"Active","exp_date":"1813719599","is_trial":"0","active_cons":"0","created_at":"1782137055","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"sixcine.store","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788194516,"time_now":"2026-08-31 13:41:56","timezone":"America\/Sao_Paulo"}}
 
 ----------------------------------------------------------------------------------------------------
 [51/61] FONTE: Fonte U45
 URL: http://case2.lat/player_api.php?&username=648866758&password=722737417
-Início da checagem: 2026-08-31 16:41:56
-Tempo de resposta: 0.59s
+Início da checagem: 2026-08-31 16:54:14
+Tempo de resposta: 0.58s
 HTTP Status Code: 200
 Content-Type: application/json
 Tamanho da resposta: 500 bytes
 STATUS FINAL ATRIBUÍDO: Active
 Chaves no JSON raiz: ['user_info', 'server_info']
 Chaves em user_info: ['username', 'password', 'message', 'auth', 'status', 'exp_date', 'is_trial', 'active_cons', 'created_at', 'max_connections', 'allowed_output_formats']
-Observação: created_at=1781345155 | exp_date=1812941999 | active_cons=2 | max_connections=3
+Observação: created_at=1781345155 | exp_date=1812941999 | active_cons=1 | max_connections=3
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"648866758","password":"722737417","message":".","auth":1,"status":"Active","exp_date":"1812941999","is_trial":"0","active_cons":"2","created_at":"1781345155","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"sixcine.store","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788188011,"time_now":"2026-08-31 11:53:31","timezone":"America\/Sao_Paulo"}}
+{"user_info":{"username":"648866758","password":"722737417","message":".","auth":1,"status":"Active","exp_date":"1812941999","is_trial":"0","active_cons":"1","created_at":"1781345155","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"sixcine.store","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788194517,"time_now":"2026-08-31 13:41:57","timezone":"America\/Sao_Paulo"}}
 
 ----------------------------------------------------------------------------------------------------
 [52/61] FONTE: Fonte U46
 URL: http://case2.lat/player_api.php?&username=399392844&password=784365638
-Início da checagem: 2026-08-31 16:41:57
-Tempo de resposta: 0.43s
+Início da checagem: 2026-08-31 16:54:14
+Tempo de resposta: 0.57s
 HTTP Status Code: 200
 Content-Type: application/json
 Tamanho da resposta: 500 bytes
@@ -1467,12 +1467,12 @@ Chaves no JSON raiz: ['user_info', 'server_info']
 Chaves em user_info: ['username', 'password', 'message', 'auth', 'status', 'exp_date', 'is_trial', 'active_cons', 'created_at', 'max_connections', 'allowed_output_formats']
 Observação: created_at=1781027450 | exp_date=1812596399 | active_cons=0 | max_connections=3
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"399392844","password":"784365638","message":".","auth":1,"status":"Active","exp_date":"1812596399","is_trial":"0","active_cons":"0","created_at":"1781027450","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"sixcine.store","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788188012,"time_now":"2026-08-31 11:53:32","timezone":"America\/Sao_Paulo"}}
+{"user_info":{"username":"399392844","password":"784365638","message":".","auth":1,"status":"Active","exp_date":"1812596399","is_trial":"0","active_cons":"0","created_at":"1781027450","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"sixcine.store","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788194517,"time_now":"2026-08-31 13:41:57","timezone":"America\/Sao_Paulo"}}
 
 ----------------------------------------------------------------------------------------------------
 [53/61] FONTE: Fonte U47
 URL: http://case2.lat/player_api.php?&username=858257510&password=975651644
-Início da checagem: 2026-08-31 16:41:57
+Início da checagem: 2026-08-31 16:54:15
 Tempo de resposta: 0.44s
 HTTP Status Code: 200
 Content-Type: application/json
@@ -1482,58 +1482,58 @@ Chaves no JSON raiz: ['user_info', 'server_info']
 Chaves em user_info: ['username', 'password', 'message', 'auth', 'status', 'exp_date', 'is_trial', 'active_cons', 'created_at', 'max_connections', 'allowed_output_formats']
 Observação: created_at=1780314823 | exp_date=1812077999 | active_cons=0 | max_connections=3
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"858257510","password":"975651644","message":".","auth":1,"status":"Active","exp_date":"1812077999","is_trial":"0","active_cons":"0","created_at":"1780314823","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"sixcine.store","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788188012,"time_now":"2026-08-31 11:53:32","timezone":"America\/Sao_Paulo"}}
+{"user_info":{"username":"858257510","password":"975651644","message":".","auth":1,"status":"Active","exp_date":"1812077999","is_trial":"0","active_cons":"0","created_at":"1780314823","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"sixcine.store","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788194518,"time_now":"2026-08-31 13:41:58","timezone":"America\/Sao_Paulo"}}
 
 ----------------------------------------------------------------------------------------------------
 [54/61] FONTE: Fonte U48
 URL: http://case2.lat/player_api.php?&username=223141736&password=496767276
-Início da checagem: 2026-08-31 16:41:58
-Tempo de resposta: 0.65s
+Início da checagem: 2026-08-31 16:54:15
+Tempo de resposta: 0.45s
 HTTP Status Code: 200
 Content-Type: application/json
 Tamanho da resposta: 500 bytes
 STATUS FINAL ATRIBUÍDO: Active
 Chaves no JSON raiz: ['user_info', 'server_info']
 Chaves em user_info: ['username', 'password', 'message', 'auth', 'status', 'exp_date', 'is_trial', 'active_cons', 'created_at', 'max_connections', 'allowed_output_formats']
-Observação: created_at=1778961222 | exp_date=1810522799 | active_cons=0 | max_connections=3
+Observação: created_at=1778961222 | exp_date=1810522799 | active_cons=1 | max_connections=3
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"223141736","password":"496767276","message":".","auth":1,"status":"Active","exp_date":"1810522799","is_trial":"0","active_cons":"0","created_at":"1778961222","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"sixcine.store","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788188013,"time_now":"2026-08-31 11:53:33","timezone":"America\/Sao_Paulo"}}
+{"user_info":{"username":"223141736","password":"496767276","message":".","auth":1,"status":"Active","exp_date":"1810522799","is_trial":"0","active_cons":"1","created_at":"1778961222","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"sixcine.store","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788194518,"time_now":"2026-08-31 13:41:58","timezone":"America\/Sao_Paulo"}}
 
 ----------------------------------------------------------------------------------------------------
 [55/61] FONTE: Fonte U49
 URL: http://case2.lat/player_api.php?&username=777951153&password=939114817
-Início da checagem: 2026-08-31 16:41:59
-Tempo de resposta: 0.66s
+Início da checagem: 2026-08-31 16:54:16
+Tempo de resposta: 0.44s
 HTTP Status Code: 200
 Content-Type: application/json
 Tamanho da resposta: 500 bytes
 STATUS FINAL ATRIBUÍDO: Active
 Chaves no JSON raiz: ['user_info', 'server_info']
 Chaves em user_info: ['username', 'password', 'message', 'auth', 'status', 'exp_date', 'is_trial', 'active_cons', 'created_at', 'max_connections', 'allowed_output_formats']
-Observação: created_at=1778448607 | exp_date=1810090799 | active_cons=0 | max_connections=3
+Observação: created_at=1778448607 | exp_date=1810090799 | active_cons=1 | max_connections=3
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"777951153","password":"939114817","message":".","auth":1,"status":"Active","exp_date":"1810090799","is_trial":"0","active_cons":"0","created_at":"1778448607","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"sixcine.store","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788188013,"time_now":"2026-08-31 11:53:33","timezone":"America\/Sao_Paulo"}}
+{"user_info":{"username":"777951153","password":"939114817","message":".","auth":1,"status":"Active","exp_date":"1810090799","is_trial":"0","active_cons":"1","created_at":"1778448607","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"sixcine.store","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788194519,"time_now":"2026-08-31 13:41:59","timezone":"America\/Sao_Paulo"}}
 
 ----------------------------------------------------------------------------------------------------
 [56/61] FONTE: Fonte U50
 URL: http://case2.lat/player_api.php?&username=971812357&password=246137274
-Início da checagem: 2026-08-31 16:41:59
-Tempo de resposta: 0.58s
+Início da checagem: 2026-08-31 16:54:16
+Tempo de resposta: 0.56s
 HTTP Status Code: 200
 Content-Type: application/json
 Tamanho da resposta: 500 bytes
 STATUS FINAL ATRIBUÍDO: Active
 Chaves no JSON raiz: ['user_info', 'server_info']
 Chaves em user_info: ['username', 'password', 'message', 'auth', 'status', 'exp_date', 'is_trial', 'active_cons', 'created_at', 'max_connections', 'allowed_output_formats']
-Observação: created_at=1785158584 | exp_date=1809226799 | active_cons=0 | max_connections=3
+Observação: created_at=1785158584 | exp_date=1809226799 | active_cons=1 | max_connections=3
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"971812357","password":"246137274","message":".","auth":1,"status":"Active","exp_date":"1809226799","is_trial":"0","active_cons":"0","created_at":"1785158584","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"sixcine.store","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788188014,"time_now":"2026-08-31 11:53:34","timezone":"America\/Sao_Paulo"}}
+{"user_info":{"username":"971812357","password":"246137274","message":".","auth":1,"status":"Active","exp_date":"1809226799","is_trial":"0","active_cons":"1","created_at":"1785158584","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"sixcine.store","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788194520,"time_now":"2026-08-31 13:42:00","timezone":"America\/Sao_Paulo"}}
 
 ----------------------------------------------------------------------------------------------------
 [57/61] FONTE: Fonte U51
 URL: http://case2.lat/player_api.php?&username=988493659&password=241861732
-Início da checagem: 2026-08-31 16:42:00
-Tempo de resposta: 0.42s
+Início da checagem: 2026-08-31 16:54:17
+Tempo de resposta: 0.54s
 HTTP Status Code: 200
 Content-Type: application/json
 Tamanho da resposta: 500 bytes
@@ -1542,13 +1542,13 @@ Chaves no JSON raiz: ['user_info', 'server_info']
 Chaves em user_info: ['username', 'password', 'message', 'auth', 'status', 'exp_date', 'is_trial', 'active_cons', 'created_at', 'max_connections', 'allowed_output_formats']
 Observação: created_at=1777306136 | exp_date=1808881199 | active_cons=0 | max_connections=3
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"988493659","password":"241861732","message":".","auth":1,"status":"Active","exp_date":"1808881199","is_trial":"0","active_cons":"0","created_at":"1777306136","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"sixcine.store","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788188015,"time_now":"2026-08-31 11:53:35","timezone":"America\/Sao_Paulo"}}
+{"user_info":{"username":"988493659","password":"241861732","message":".","auth":1,"status":"Active","exp_date":"1808881199","is_trial":"0","active_cons":"0","created_at":"1777306136","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"sixcine.store","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788194520,"time_now":"2026-08-31 13:42:00","timezone":"America\/Sao_Paulo"}}
 
 ----------------------------------------------------------------------------------------------------
 [58/61] FONTE: Fonte U52
 URL: http://case2.lat/player_api.php?&username=943285414&password=493936454
-Início da checagem: 2026-08-31 16:42:00
-Tempo de resposta: 0.43s
+Início da checagem: 2026-08-31 16:54:17
+Tempo de resposta: 0.41s
 HTTP Status Code: 200
 Content-Type: application/json
 Tamanho da resposta: 500 bytes
@@ -1557,13 +1557,13 @@ Chaves no JSON raiz: ['user_info', 'server_info']
 Chaves em user_info: ['username', 'password', 'message', 'auth', 'status', 'exp_date', 'is_trial', 'active_cons', 'created_at', 'max_connections', 'allowed_output_formats']
 Observação: created_at=1776348060 | exp_date=1808189999 | active_cons=0 | max_connections=3
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"943285414","password":"493936454","message":".","auth":1,"status":"Active","exp_date":"1808189999","is_trial":"0","active_cons":"0","created_at":"1776348060","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"sixcine.store","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788188015,"time_now":"2026-08-31 11:53:35","timezone":"America\/Sao_Paulo"}}
+{"user_info":{"username":"943285414","password":"493936454","message":".","auth":1,"status":"Active","exp_date":"1808189999","is_trial":"0","active_cons":"0","created_at":"1776348060","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"sixcine.store","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788194521,"time_now":"2026-08-31 13:42:01","timezone":"America\/Sao_Paulo"}}
 
 ----------------------------------------------------------------------------------------------------
 [59/61] FONTE: Fonte U53
 URL: http://case2.lat/player_api.php?&username=872689987&password=824513989
-Início da checagem: 2026-08-31 16:42:01
-Tempo de resposta: 0.43s
+Início da checagem: 2026-08-31 16:54:18
+Tempo de resposta: 0.44s
 HTTP Status Code: 200
 Content-Type: application/json
 Tamanho da resposta: 500 bytes
@@ -1572,28 +1572,28 @@ Chaves no JSON raiz: ['user_info', 'server_info']
 Chaves em user_info: ['username', 'password', 'message', 'auth', 'status', 'exp_date', 'is_trial', 'active_cons', 'created_at', 'max_connections', 'allowed_output_formats']
 Observação: created_at=1775736018 | exp_date=1807325999 | active_cons=0 | max_connections=3
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"872689987","password":"824513989","message":".","auth":1,"status":"Active","exp_date":"1807325999","is_trial":"0","active_cons":"0","created_at":"1775736018","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"sixcine.store","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788188016,"time_now":"2026-08-31 11:53:36","timezone":"America\/Sao_Paulo"}}
+{"user_info":{"username":"872689987","password":"824513989","message":".","auth":1,"status":"Active","exp_date":"1807325999","is_trial":"0","active_cons":"0","created_at":"1775736018","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"sixcine.store","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788194521,"time_now":"2026-08-31 13:42:01","timezone":"America\/Sao_Paulo"}}
 
 ----------------------------------------------------------------------------------------------------
 [60/61] FONTE: Fonte U54
 URL: http://case2.lat/player_api.php?&username=338365128&password=769491152
-Início da checagem: 2026-08-31 16:42:01
-Tempo de resposta: 0.46s
+Início da checagem: 2026-08-31 16:54:18
+Tempo de resposta: 0.54s
 HTTP Status Code: 200
 Content-Type: application/json
 Tamanho da resposta: 500 bytes
 STATUS FINAL ATRIBUÍDO: Active
 Chaves no JSON raiz: ['user_info', 'server_info']
 Chaves em user_info: ['username', 'password', 'message', 'auth', 'status', 'exp_date', 'is_trial', 'active_cons', 'created_at', 'max_connections', 'allowed_output_formats']
-Observação: created_at=1775735969 | exp_date=1807325999 | active_cons=1 | max_connections=3
+Observação: created_at=1775735969 | exp_date=1807325999 | active_cons=0 | max_connections=3
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"338365128","password":"769491152","message":".","auth":1,"status":"Active","exp_date":"1807325999","is_trial":"0","active_cons":"1","created_at":"1775735969","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"sixcine.store","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788188016,"time_now":"2026-08-31 11:53:36","timezone":"America\/Sao_Paulo"}}
+{"user_info":{"username":"338365128","password":"769491152","message":".","auth":1,"status":"Active","exp_date":"1807325999","is_trial":"0","active_cons":"0","created_at":"1775735969","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"sixcine.store","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788194521,"time_now":"2026-08-31 13:42:01","timezone":"America\/Sao_Paulo"}}
 
 ----------------------------------------------------------------------------------------------------
 [61/61] FONTE: Fonte U55
 URL: http://case2.lat/player_api.php?&username=754551879&password=531553919
-Início da checagem: 2026-08-31 16:42:02
-Tempo de resposta: 0.43s
+Início da checagem: 2026-08-31 16:54:19
+Tempo de resposta: 0.5s
 HTTP Status Code: 200
 Content-Type: application/json
 Tamanho da resposta: 500 bytes
@@ -1602,7 +1602,7 @@ Chaves no JSON raiz: ['user_info', 'server_info']
 Chaves em user_info: ['username', 'password', 'message', 'auth', 'status', 'exp_date', 'is_trial', 'active_cons', 'created_at', 'max_connections', 'allowed_output_formats']
 Observação: created_at=1780485280 | exp_date=1807153199 | active_cons=0 | max_connections=3
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"754551879","password":"531553919","message":".","auth":1,"status":"Active","exp_date":"1807153199","is_trial":"0","active_cons":"0","created_at":"1780485280","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"sixcine.store","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788188017,"time_now":"2026-08-31 11:53:37","timezone":"America\/Sao_Paulo"}}
+{"user_info":{"username":"754551879","password":"531553919","message":".","auth":1,"status":"Active","exp_date":"1807153199","is_trial":"0","active_cons":"0","created_at":"1780485280","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"sixcine.store","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788194522,"time_now":"2026-08-31 13:42:02","timezone":"America\/Sao_Paulo"}}
 
 ====================================================================================================
 FIM DO RELATÓRIO
