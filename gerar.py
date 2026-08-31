@@ -4,6 +4,7 @@ import os
 import subprocess
 import platform
 import math
+import time
 import traceback
 from datetime import datetime, timedelta, timezone
 from PIL import Image, ImageDraw, ImageFont
@@ -75,30 +76,8 @@ Fonte U54|http://case2.lat/player_api.php?&username=338365128&password=769491152
 Fonte U55|http://case2.lat/player_api.php?&username=754551879&password=531553919
 """
 
-# ==========================================
-# CONFIG DEBUG
-# ==========================================
-DEBUG_ARQUIVO = "debug_iptv.txt"
-DEBUG_TRUNCAR_RESPOSTA = 2000  # caracteres maximos do corpo cru salvo no log por item
-
-# Buffer global que acumula todas as linhas de debug ate salvar no final
-_debug_linhas = []
-
-
-def debug_log(msg):
-    """Adiciona uma linha ao buffer de debug (com timestamp) e tambem imprime no console (opcional)."""
-    ts = datetime.now().strftime('%H:%M:%S.%f')[:-3]
-    _debug_linhas.append(f"[{ts}] {msg}")
-
-
-def salvar_debug_txt():
-    """Escreve todo o buffer de debug no arquivo txt."""
-    try:
-        with open(DEBUG_ARQUIVO, "w", encoding="utf-8") as f:
-            f.write("\n".join(_debug_linhas))
-        print(f"\n📝 Debug detalhado salvo em: {DEBUG_ARQUIVO}")
-    except Exception as e:
-        print(f"⚠️  Nao foi possivel salvar o debug: {e}")
+# Nome do arquivo de debug
+DEBUG_FILE = "debug_relatorio.txt"
 
 
 def obter_lista_links():
@@ -117,25 +96,21 @@ def obter_lista_links():
                 lista_formatada.append(("Desconhecido", url_limpa))
 
     print(f"✅ Carregados {len(lista_formatada)} itens da lista.")
-    debug_log(f"===== INICIO DA EXECUCAO =====")
-    debug_log(f"Total de itens carregados da lista: {len(lista_formatada)}")
-    for nome, url in lista_formatada:
-        debug_log(f"  Item carregado -> Nome: '{nome}' | URL: {url}")
     return lista_formatada
 
 
 def formatar_data(timestamp):
-    if not timestamp: return "---"
+    if not timestamp:
+        return "---"
     try:
         return datetime.fromtimestamp(int(timestamp)).strftime('%d/%m/%Y')
-    except: return "Indefinido"
+    except Exception:
+        return "Indefinido"
 
 
 def analisar_links(lista_itens):
     print("\n🔎 Iniciando verificação de status...\n")
-    debug_log("\n===== INICIO DA VERIFICACAO DE STATUS =====")
 
-    # Headers para emular navegador e evitar erro 406
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
         'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8',
@@ -143,123 +118,196 @@ def analisar_links(lista_itens):
     }
 
     dados_finais = []
-    contadores = {}
+    debug_entries = []  # cada item: dict com todos os detalhes daquela fonte
 
     for idx, (nome_custom, url) in enumerate(lista_itens, start=1):
         nome_exibicao = nome_custom
         print(f"Verificando: {nome_exibicao}...", end=" ")
 
-        debug_log(f"\n----- [{idx}/{len(lista_itens)}] {nome_exibicao} -----")
-        debug_log(f"URL solicitada: {url}")
+        debug = {
+            "indice": idx,
+            "nome": nome_exibicao,
+            "url": url,
+            "inicio_ts": datetime.now().strftime('%Y-%m-%d %H:%M:%S'),
+            "tempo_resposta": None,
+            "http_status": None,
+            "content_type": None,
+            "tamanho_bytes": None,
+            "raw_preview": None,
+            "json_keys": None,
+            "user_info_keys": None,
+            "status_final": None,
+            "exception_tipo": None,
+            "exception_msg": None,
+            "traceback": None,
+            "observacoes": []
+        }
 
-        inicio_req = datetime.now()
-
+        t0 = time.time()
         try:
             response = requests.get(url, headers=headers, timeout=20)
-            duracao = (datetime.now() - inicio_req).total_seconds()
-
-            debug_log(f"Tempo de resposta: {duracao:.2f}s")
-            debug_log(f"HTTP Status Code: {response.status_code}")
-            debug_log(f"Headers de resposta: {dict(response.headers)}")
-
-            corpo_bruto = response.text or ""
-            corpo_amostra = corpo_bruto[:DEBUG_TRUNCAR_RESPOSTA]
-            if len(corpo_bruto) > DEBUG_TRUNCAR_RESPOSTA:
-                corpo_amostra += f"... [TRUNCADO, tamanho total: {len(corpo_bruto)} chars]"
-            debug_log(f"Corpo da resposta (amostra): {corpo_amostra}")
+            debug["tempo_resposta"] = round(time.time() - t0, 2)
+            debug["http_status"] = response.status_code
+            debug["content_type"] = response.headers.get('Content-Type', 'N/A')
+            debug["tamanho_bytes"] = len(response.content)
 
             if response.status_code == 200:
+                debug["raw_preview"] = response.text[:800]
                 try:
                     data = response.json()
-                    debug_log(f"JSON parseado com sucesso. Chaves de topo: {list(data.keys()) if isinstance(data, dict) else 'N/A (nao e dict)'}")
-
-                    u_info = data.get('user_info', {}) if isinstance(data, dict) else {}
-                    debug_log(f"user_info bruto: {u_info}")
+                    debug["json_keys"] = list(data.keys())
+                    u_info = data.get('user_info', {})
 
                     if not u_info:
                         print("❌ Erro Login")
-                        debug_log("RESULTADO: Erro Login -> 'user_info' vazio ou ausente no JSON.")
-                        debug_log(f"JSON completo recebido: {json.dumps(data, ensure_ascii=False)[:DEBUG_TRUNCAR_RESPOSTA]}")
+                        debug["status_final"] = "Erro Login"
+                        debug["observacoes"].append(
+                            "user_info veio vazio/ausente no JSON. Corpo completo (limitado a 1500 chars): "
+                            + json.dumps(data, ensure_ascii=False)[:1500]
+                        )
                         dados_finais.append([nome_exibicao, "-", "-", "-", "Erro Login"])
-                        contadores["Erro Login"] = contadores.get("Erro Login", 0) + 1
                     else:
+                        debug["user_info_keys"] = list(u_info.keys())
                         status = u_info.get('status', 'Unknown')
-                        criado_raw = u_info.get('created_at')
-                        expira_raw = u_info.get('exp_date')
-                        criado = formatar_data(criado_raw)
-                        expira = formatar_data(expira_raw)
+                        criado = formatar_data(u_info.get('created_at'))
+                        expira = formatar_data(u_info.get('exp_date'))
                         ativos = u_info.get('active_cons', '0')
                         maximos = u_info.get('max_connections', '0')
 
-                        debug_log(f"Campos extraidos -> status: '{status}' | created_at(raw): '{criado_raw}' -> '{criado}' | "
-                                  f"exp_date(raw): '{expira_raw}' -> '{expira}' | active_cons: '{ativos}' | max_connections: '{maximos}'")
-
-                        # Checagens extras de possiveis problemas nos dados
-                        if criado == "Indefinido":
-                            debug_log(f"⚠️ ALERTA: created_at ('{criado_raw}') nao pode ser convertido para data.")
-                        if expira == "Indefinido":
-                            debug_log(f"⚠️ ALERTA: exp_date ('{expira_raw}') nao pode ser convertido para data.")
-                        if status == 'Unknown':
-                            debug_log("⚠️ ALERTA: campo 'status' ausente no user_info, usando valor default 'Unknown'.")
-
                         print(f"✅ OK ({status})")
-                        debug_log(f"RESULTADO: OK -> status='{status}'")
+                        debug["status_final"] = status
+                        debug["observacoes"].append(
+                            f"created_at={u_info.get('created_at')} | exp_date={u_info.get('exp_date')} | "
+                            f"active_cons={ativos} | max_connections={maximos}"
+                        )
                         dados_finais.append([nome_exibicao, criado, expira, f"{ativos}/{maximos}", status])
-                        contadores[status] = contadores.get(status, 0) + 1
-
                 except Exception as e_json:
-                    print(f"⚠️ Erro JSON")
-                    debug_log(f"RESULTADO: Erro JSON -> Excecao ao fazer parse: {e_json}")
-                    debug_log(f"Traceback:\n{traceback.format_exc()}")
+                    print("⚠️ Erro JSON")
+                    debug["status_final"] = "Erro JSON"
+                    debug["exception_tipo"] = type(e_json).__name__
+                    debug["exception_msg"] = str(e_json)
+                    debug["traceback"] = traceback.format_exc()
                     dados_finais.append([nome_exibicao, "-", "-", "-", "Erro JSON"])
-                    contadores["Erro JSON"] = contadores.get("Erro JSON", 0) + 1
 
             elif response.status_code == 403:
                 print("🚫 Bloqueado (IP)")
-                debug_log("RESULTADO: Bloq. IP -> HTTP 403 (possivel bloqueio por IP/user-agent/geolocalizacao).")
+                debug["status_final"] = "Bloq. IP"
+                debug["raw_preview"] = response.text[:800]
                 dados_finais.append([nome_exibicao, "-", "-", "-", "Bloq. IP"])
-                contadores["Bloq. IP"] = contadores.get("Bloq. IP", 0) + 1
             elif response.status_code == 404:
                 print("❓ Não encontrado")
-                debug_log("RESULTADO: Nao Achou -> HTTP 404 (endpoint/URL invalido ou host mudou o path).")
+                debug["status_final"] = "Não Achou"
+                debug["raw_preview"] = response.text[:800]
                 dados_finais.append([nome_exibicao, "-", "-", "-", "Não Achou"])
-                contadores["Não Achou"] = contadores.get("Não Achou", 0) + 1
             else:
                 print(f"⚠️ Erro {response.status_code}")
-                debug_log(f"RESULTADO: Erro {response.status_code} -> Codigo HTTP nao tratado explicitamente.")
+                debug["status_final"] = f"Erro {response.status_code}"
+                debug["raw_preview"] = response.text[:800]
                 dados_finais.append([nome_exibicao, "-", "-", "-", f"Erro {response.status_code}"])
-                contadores[f"Erro {response.status_code}"] = contadores.get(f"Erro {response.status_code}", 0) + 1
 
-        except requests.exceptions.Timeout as e_timeout:
-            duracao = (datetime.now() - inicio_req).total_seconds()
-            print("🔌 Falha Conexão")
-            debug_log(f"RESULTADO: Offline -> TIMEOUT apos {duracao:.2f}s. Excecao: {e_timeout}")
+        except requests.exceptions.Timeout as e:
+            print("🔌 Falha Conexão (Timeout)")
+            debug["tempo_resposta"] = round(time.time() - t0, 2)
+            debug["status_final"] = "Offline"
+            debug["exception_tipo"] = "Timeout"
+            debug["exception_msg"] = str(e)
+            debug["traceback"] = traceback.format_exc()
             dados_finais.append([nome_exibicao, "-", "-", "-", "Offline"])
-            contadores["Offline (Timeout)"] = contadores.get("Offline (Timeout)", 0) + 1
 
-        except requests.exceptions.ConnectionError as e_conn:
-            duracao = (datetime.now() - inicio_req).total_seconds()
-            print("🔌 Falha Conexão")
-            debug_log(f"RESULTADO: Offline -> ERRO DE CONEXAO apos {duracao:.2f}s. Excecao: {e_conn}")
+        except requests.exceptions.ConnectionError as e:
+            print("🔌 Falha Conexão (ConnectionError)")
+            debug["tempo_resposta"] = round(time.time() - t0, 2)
+            debug["status_final"] = "Offline"
+            debug["exception_tipo"] = "ConnectionError"
+            debug["exception_msg"] = str(e)
+            debug["traceback"] = traceback.format_exc()
             dados_finais.append([nome_exibicao, "-", "-", "-", "Offline"])
-            contadores["Offline (Conexao)"] = contadores.get("Offline (Conexao)", 0) + 1
 
-        except Exception as e_geral:
-            duracao = (datetime.now() - inicio_req).total_seconds()
+        except Exception as e:
             print("🔌 Falha Conexão")
-            debug_log(f"RESULTADO: Offline -> EXCECAO NAO PREVISTA apos {duracao:.2f}s. Excecao: {e_geral}")
-            debug_log(f"Traceback:\n{traceback.format_exc()}")
+            debug["tempo_resposta"] = round(time.time() - t0, 2)
+            debug["status_final"] = "Offline"
+            debug["exception_tipo"] = type(e).__name__
+            debug["exception_msg"] = str(e)
+            debug["traceback"] = traceback.format_exc()
             dados_finais.append([nome_exibicao, "-", "-", "-", "Offline"])
-            contadores["Offline (Outro)"] = contadores.get("Offline (Outro)", 0) + 1
 
-    # Resumo final no debug
-    debug_log("\n===== RESUMO DA VERIFICACAO =====")
-    debug_log(f"Total de itens processados: {len(lista_itens)}")
-    for chave, qtd in sorted(contadores.items(), key=lambda x: -x[1]):
-        debug_log(f"  {chave}: {qtd}")
-    debug_log("===== FIM DA VERIFICACAO DE STATUS =====\n")
+        debug_entries.append(debug)
+
+    # Gera o relatório de debug em txt (não interfere na geração de imagem/vídeo)
+    gerar_debug_txt(debug_entries)
 
     return dados_finais
+
+
+def gerar_debug_txt(debug_entries):
+    print(f"\n📝 Gerando relatório de debug detalhado: {DEBUG_FILE}")
+
+    diferenca = timedelta(hours=-3)
+    fuso_horario = timezone(diferenca)
+    agora = datetime.now(fuso_horario).strftime("%d/%m/%Y - %H:%M:%S")
+
+    # Resumo por status_final
+    resumo = {}
+    for d in debug_entries:
+        chave = d["status_final"] or "Indefinido"
+        resumo[chave] = resumo.get(chave, 0) + 1
+
+    linhas = []
+    linhas.append("=" * 100)
+    linhas.append("RELATÓRIO DE DEBUG - MONITORAMENTO IPTV")
+    linhas.append(f"Execução em: {agora}")
+    linhas.append(f"Total de fontes verificadas: {len(debug_entries)}")
+    linhas.append("=" * 100)
+    linhas.append("")
+    linhas.append("RESUMO POR STATUS:")
+    for status, qtd in sorted(resumo.items(), key=lambda x: -x[1]):
+        linhas.append(f"  - {status}: {qtd}")
+    linhas.append("")
+    linhas.append("=" * 100)
+    linhas.append("DETALHE POR FONTE")
+    linhas.append("=" * 100)
+
+    for d in debug_entries:
+        linhas.append("")
+        linhas.append("-" * 100)
+        linhas.append(f"[{d['indice']}/{len(debug_entries)}] FONTE: {d['nome']}")
+        linhas.append(f"URL: {d['url']}")
+        linhas.append(f"Início da checagem: {d['inicio_ts']}")
+        linhas.append(f"Tempo de resposta: {d['tempo_resposta']}s" if d['tempo_resposta'] is not None else "Tempo de resposta: N/A")
+        linhas.append(f"HTTP Status Code: {d['http_status']}")
+        linhas.append(f"Content-Type: {d['content_type']}")
+        linhas.append(f"Tamanho da resposta: {d['tamanho_bytes']} bytes" if d['tamanho_bytes'] is not None else "Tamanho da resposta: N/A")
+        linhas.append(f"STATUS FINAL ATRIBUÍDO: {d['status_final']}")
+
+        if d["json_keys"] is not None:
+            linhas.append(f"Chaves no JSON raiz: {d['json_keys']}")
+        if d["user_info_keys"] is not None:
+            linhas.append(f"Chaves em user_info: {d['user_info_keys']}")
+
+        for obs in d["observacoes"]:
+            linhas.append(f"Observação: {obs}")
+
+        if d["exception_tipo"]:
+            linhas.append(f"❌ EXCEÇÃO: {d['exception_tipo']} -> {d['exception_msg']}")
+            linhas.append("Traceback completo:")
+            linhas.append(d["traceback"])
+
+        if d["raw_preview"]:
+            linhas.append("Resposta bruta (preview, até 800 caracteres):")
+            linhas.append(d["raw_preview"])
+
+    linhas.append("")
+    linhas.append("=" * 100)
+    linhas.append("FIM DO RELATÓRIO")
+    linhas.append("=" * 100)
+
+    try:
+        with open(DEBUG_FILE, "w", encoding="utf-8") as f:
+            f.write("\n".join(linhas))
+        print(f"✅ Relatório de debug salvo em '{DEBUG_FILE}'")
+    except Exception as e:
+        print(f"⚠️ Falha ao salvar relatório de debug: {e}")
 
 
 def carregar_fontes():
@@ -267,7 +315,6 @@ def carregar_fontes():
     fontes = {}
     try:
         sistema = platform.system()
-        # Tamanhos reduzidos para caber mais linhas (Compact Mode)
         base_size = 19
         title_size = 36
 
@@ -277,15 +324,13 @@ def carregar_fontes():
             fontes['titulo'] = ImageFont.truetype("arialbd.ttf", title_size)
             fontes['sub'] = ImageFont.truetype("arial.ttf", 16)
         else:
-            # Caminhos Linux
             path = "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"
             path_b = "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"
             fontes['padrao'] = ImageFont.truetype(path, base_size)
             fontes['bold'] = ImageFont.truetype(path_b, base_size)
             fontes['titulo'] = ImageFont.truetype(path_b, title_size)
             fontes['sub'] = ImageFont.truetype(path, 16)
-    except Exception as e_font:
-        debug_log(f"⚠️ ALERTA: Falha ao carregar fontes do sistema ({e_font}). Usando fonte padrao do PIL.")
+    except Exception:
         fontes['padrao'] = ImageFont.load_default()
         fontes['bold'] = ImageFont.load_default()
         fontes['titulo'] = ImageFont.load_default()
@@ -296,33 +341,25 @@ def carregar_fontes():
 
 def gerar_imagens_paginadas(dados):
     print("\n🎨 Gerando imagens (Modo Compacto - Alta Densidade)...")
-    debug_log("\n===== GERACAO DE IMAGENS =====")
 
-    # Configurações de Layout
     LARGURA = 1920
     ALTURA = 1080
     MARGEM_X = 50
 
-    # AJUSTES PARA CABER MAIS LINHAS
-    Y_INICIAL = 140       # Começa a tabela mais para cima
-    ALTURA_LINHA = 34     # Linha mais fina (antes era 60)
+    Y_INICIAL = 140
+    ALTURA_LINHA = 34
     ALTURA_RODAPE = 40
 
-    # Calcular quantos itens cabem por página
     espaco_disponivel = ALTURA - Y_INICIAL - ALTURA_RODAPE
     itens_por_pagina = espaco_disponivel // ALTURA_LINHA
 
     print(f"ℹ️  Capacidade por página: {itens_por_pagina} linhas.")
-    debug_log(f"Itens por pagina calculados: {itens_por_pagina} | Total de dados: {len(dados)}")
 
-    # Paginação
     total_paginas = math.ceil(len(dados) / itens_por_pagina)
-    debug_log(f"Total de paginas a gerar: {total_paginas}")
     fontes = carregar_fontes()
 
     nomes_arquivos = []
 
-    # Configuração de Data e Hora
     diferenca = timedelta(hours=-3)
     fuso_horario = timezone(diferenca)
     agora = datetime.now(fuso_horario).strftime("%d/%m/%Y - %H:%M")
@@ -331,12 +368,10 @@ def gerar_imagens_paginadas(dados):
         img = Image.new('RGB', (LARGURA, ALTURA), color=(15, 15, 25))
         d = ImageDraw.Draw(img)
 
-        # Cabeçalho Geral
         d.rectangle([(0, 0), (LARGURA, 90)], fill=(30, 30, 50))
         d.text((MARGEM_X, 20), "MONITORAMENTO IPTV", fill=(0, 255, 255), font=fontes['titulo'])
         d.text((MARGEM_X, 65), f"Atualizado: {agora} | Pág {pagina + 1}/{total_paginas}", fill=(200, 200, 200), font=fontes['sub'])
 
-        # Cabeçalho da Tabela (Colunas)
         colunas_x = [50, 600, 900, 1200, 1500]
         titulos = ["FONTE / SERVIDOR", "CRIADO", "VENCE", "CONEX", "STATUS"]
 
@@ -346,33 +381,30 @@ def gerar_imagens_paginadas(dados):
         for i, titulo in enumerate(titulos):
             d.text((colunas_x[i], y_header + 5), titulo, fill=(255, 215, 0), font=fontes['bold'])
 
-        # Dados da Página Atual
         inicio = pagina * itens_por_pagina
         fim = inicio + itens_por_pagina
         dados_pagina = dados[inicio:fim]
-
-        debug_log(f"Pagina {pagina + 1}: itens [{inicio}:{fim}] -> {len(dados_pagina)} linhas renderizadas.")
 
         y = Y_INICIAL
         for i, linha in enumerate(dados_pagina):
             nome, criado, vence, conexoes, status = linha
 
-            # Fundo zebrado para facilitar a leitura com linhas finas
             if i % 2 == 0:
                 d.rectangle([(MARGEM_X, y), (LARGURA - MARGEM_X, y + ALTURA_LINHA)], fill=(22, 22, 32))
             else:
                 d.rectangle([(MARGEM_X, y), (LARGURA - MARGEM_X, y + ALTURA_LINHA)], fill=(28, 28, 38))
 
-            # Cores do Status
             cor_texto = (230, 230, 230)
-            cor_status = (255, 50, 50)  # Vermelho
+            cor_status = (255, 50, 50)
 
             status_lower = str(status).lower()
-            if "active" in status_lower: cor_status = (50, 255, 50)  # Verde Neon
-            elif "expiring" in status_lower: cor_status = (255, 165, 0)  # Laranja
-            elif "bloq" in status_lower or "403" in status_lower: cor_status = (200, 0, 0)  # Vermelho Escuro
+            if "active" in status_lower:
+                cor_status = (50, 255, 50)
+            elif "expiring" in status_lower:
+                cor_status = (255, 165, 0)
+            elif "bloq" in status_lower or "403" in status_lower:
+                cor_status = (200, 0, 0)
 
-            # Centralizar texto verticalmente na linha
             offset_y = 6
 
             d.text((colunas_x[0], y + offset_y), str(nome), fill=cor_texto, font=fontes['padrao'])
@@ -383,29 +415,23 @@ def gerar_imagens_paginadas(dados):
 
             y += ALTURA_LINHA
 
-        # Salvar frame
         nome_arquivo = f"status_{pagina}.png"
         img.save(nome_arquivo)
         nomes_arquivos.append(nome_arquivo)
         print(f"🖼️  Slide {pagina+1} gerado: {nome_arquivo}")
 
-    debug_log(f"Total de imagens geradas: {len(nomes_arquivos)} -> {nomes_arquivos}")
     return nomes_arquivos
 
 
 def criar_video_slideshow(imagens):
     if not imagens:
-        debug_log("⚠️ ALERTA: Nenhuma imagem para gerar video (lista vazia).")
         return
 
     print("🎬 Gerando vídeo slideshow (1920x1080)...")
-    debug_log("\n===== GERACAO DO VIDEO =====")
 
-    # Tempo de exibição por página (segundos)
     tempo_por_slide = "10"
 
     try:
-        # Cria vídeo compatível com qualquer player (yuv420p)
         cmd = [
             "ffmpeg", "-y",
             "-framerate", f"1/{tempo_por_slide}",
@@ -416,26 +442,13 @@ def criar_video_slideshow(imagens):
             "video_status.mp4"
         ]
 
-        debug_log(f"Comando ffmpeg: {' '.join(cmd)}")
-        resultado = subprocess.run(cmd, check=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
-        debug_log("ffmpeg executado com sucesso (returncode 0).")
+        subprocess.run(cmd, check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
         print("✅ Vídeo 'video_status.mp4' criado com sucesso!")
 
     except FileNotFoundError:
         print("⚠️  FFmpeg não instalado. Apenas as imagens foram geradas.")
-        debug_log("RESULTADO: FFmpeg nao encontrado no sistema (FileNotFoundError).")
-    except subprocess.CalledProcessError as e_cp:
-        print(f"⚠️  Erro ao gerar vídeo: {e_cp}")
-        debug_log(f"RESULTADO: ffmpeg retornou erro. returncode={e_cp.returncode}")
-        try:
-            debug_log(f"ffmpeg STDOUT: {e_cp.stdout.decode(errors='ignore')}")
-            debug_log(f"ffmpeg STDERR: {e_cp.stderr.decode(errors='ignore')}")
-        except Exception:
-            pass
     except Exception as e:
         print(f"⚠️  Erro ao gerar vídeo: {e}")
-        debug_log(f"RESULTADO: Excecao nao prevista ao gerar video: {e}")
-        debug_log(f"Traceback:\n{traceback.format_exc()}")
 
 
 if __name__ == "__main__":
@@ -444,10 +457,5 @@ if __name__ == "__main__":
         dados = analisar_links(lista)
         arquivos = gerar_imagens_paginadas(dados)
         criar_video_slideshow(arquivos)
-        debug_log("\n===== EXECUCAO FINALIZADA COM SUCESSO =====")
     else:
         print("Nenhum dado para processar.")
-        debug_log("EXECUCAO ABORTADA: lista de links vazia.")
-
-    # Salva o log de debug independente do que aconteceu (sucesso ou nao)
-    salvar_debug_txt()
