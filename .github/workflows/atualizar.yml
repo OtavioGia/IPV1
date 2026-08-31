@@ -29,11 +29,19 @@ jobs:
       - name: Rodar Script
         run: python gerar.py
 
+      - name: Enviar debug como artifact do workflow
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: debug-relatorio
+          path: debug_relatorio.txt
+          retention-days: 7
+
       - name: Salvar Video e Imagem no Repositório
         run: |
           git config --global user.name 'Bot IPTV'
           git config --global user.email 'bot@noreply.github.com'
           # Adiciona tanto o vídeo quanto a imagem
-          git add video_status.mp4 status.png
+          git add video_status.mp4 status.png debug_relatorio.txt
           git commit -m "Atualizando status video" || echo "Nada mudou"
           git push
