@@ -1,4 +1,9 @@
 import requests
+from requests.adapters import HTTPAdapter
+try:
+    from urllib3.util.retry import Retry
+except ImportError:
+    from requests.packages.urllib3.util.retry import Retry
 import json
 import os
 import subprocess
@@ -6,6 +11,7 @@ import platform
 import math
 import time
 import traceback
+from urllib.parse import urlsplit, urlunsplit
 from datetime import datetime, timedelta, timezone
 from PIL import Image, ImageDraw, ImageFont
 
@@ -79,6 +85,12 @@ Fonte U55|http://case2.lat/player_api.php?&username=754551879&password=531553919
 # Nome do arquivo de debug
 DEBUG_FILE = "debug_relatorio.txt"
 
+# Assinaturas conhecidas de página padrão do nginx (host sem vhost/API configurada)
+ASSINATURAS_NGINX_DEFAULT = [
+    "Welcome to nginx!",
+    "welcome to nginx",
+]
+
 
 def obter_lista_links():
     lista_formatada = []
@@ -96,6 +108,17 @@ def obter_lista_links():
                 lista_formatada.append(("Desconhecido", url_limpa))
 
     print(f"✅ Carregados {len(lista_formatada)} itens da lista.")
+
+    # Detecta duplicados (mesma URL/credenciais usadas em nomes diferentes)
+    vistos = {}
+    for nome, url in lista_formatada:
+        vistos.setdefault(url, []).append(nome)
+    duplicados = {url: nomes for url, nomes in vistos.items() if len(nomes) > 1}
+    if duplicados:
+        print(f"⚠️  Atenção: {len(duplicados)} URL(s) duplicada(s) na lista (mesma conta usada em múltiplos nomes):")
+        for url, nomes in duplicados.items():
+            print(f"    {', '.join(nomes)} -> {url}")
+
     return lista_formatada
 
 
@@ -108,6 +131,97 @@ def formatar_data(timestamp):
         return "Indefinido"
 
 
+def eh_pagina_nginx_default(texto, content_type):
+    """Detecta se a resposta é a página padrão do nginx (sem vhost/API configurada)."""
+    if not texto:
+        return False
+    if content_type and 'json' in content_type.lower():
+        return False
+    texto_lower = texto.lower()
+    for assinatura in ASSINATURAS_NGINX_DEFAULT:
+        if assinatura.lower() in texto_lower:
+            return True
+    return False
+
+
+def gerar_urls_alternativas(url_original):
+    """Gera variações de URL para tentar quando a original não retorna JSON válido:
+    1) trocar http -> https (mesma porta/host)
+    2) tentar porta 8080 explicitamente (comum em painéis Xtream)
+    """
+    alternativas = []
+    partes = urlsplit(url_original)
+
+    # 1) HTTPS na mesma URL
+    if partes.scheme == "http":
+        https_url = urlunsplit(("https",) + partes[1:])
+        alternativas.append(("HTTPS (mesma porta)", https_url))
+
+    # 2) Porta 8080 explícita, mantendo o scheme original
+    host_sem_porta = partes.hostname or ""
+    if host_sem_porta and (partes.port is None or partes.port != 8080):
+        netloc_8080 = host_sem_porta + ":8080"
+        url_8080 = urlunsplit((partes.scheme, netloc_8080, partes.path, partes.query, partes.fragment))
+        alternativas.append(("Porta 8080", url_8080))
+
+    return alternativas
+
+
+def criar_sessao():
+    """Cria uma sessão com retry automático para erros transitórios de rede/servidor."""
+    sessao = requests.Session()
+    retry = Retry(
+        total=2,
+        connect=2,
+        read=2,
+        backoff_factor=0.7,
+        status_forcelist=[429, 500, 502, 503, 504, 520, 521, 522, 523, 524],
+        allowed_methods=frozenset(['GET']),
+    )
+    adapter = HTTPAdapter(max_retries=retry)
+    sessao.mount("http://", adapter)
+    sessao.mount("https://", adapter)
+    return sessao
+
+
+def processar_resposta_json(response, debug):
+    """Tenta interpretar a resposta como JSON de painel Xtream.
+    Retorna (sucesso, linha_dados) onde linha_dados é a lista pronta pra tabela,
+    ou (False, None) se não deu certo (deixa quem chamou decidir o status)."""
+    try:
+        data = response.json()
+        debug["json_keys"] = list(data.keys())
+        u_info = data.get('user_info', {})
+
+        if not u_info:
+            debug["status_final"] = "Erro Login"
+            debug["observacoes"].append(
+                "user_info veio vazio/ausente no JSON. Corpo completo (limitado a 1500 chars): "
+                + json.dumps(data, ensure_ascii=False)[:1500]
+            )
+            return True, ["-", "-", "-", "Erro Login"]
+
+        debug["user_info_keys"] = list(u_info.keys())
+        status = u_info.get('status', 'Unknown')
+        criado = formatar_data(u_info.get('created_at'))
+        expira = formatar_data(u_info.get('exp_date'))
+        ativos = u_info.get('active_cons', '0')
+        maximos = u_info.get('max_connections', '0')
+
+        debug["status_final"] = status
+        debug["observacoes"].append(
+            f"created_at={u_info.get('created_at')} | exp_date={u_info.get('exp_date')} | "
+            f"active_cons={ativos} | max_connections={maximos}"
+        )
+        return True, [criado, expira, f"{ativos}/{maximos}", status]
+
+    except Exception as e_json:
+        debug["exception_tipo"] = type(e_json).__name__
+        debug["exception_msg"] = str(e_json)
+        debug["traceback"] = traceback.format_exc()
+        return False, None
+
+
 def analisar_links(lista_itens):
     print("\n🔎 Iniciando verificação de status...\n")
 
@@ -117,8 +231,9 @@ def analisar_links(lista_itens):
         'Connection': 'keep-alive'
     }
 
+    sessao = criar_sessao()
     dados_finais = []
-    debug_entries = []  # cada item: dict com todos os detalhes daquela fonte
+    debug_entries = []
 
     for idx, (nome_custom, url) in enumerate(lista_itens, start=1):
         nome_exibicao = nome_custom
@@ -140,70 +255,126 @@ def analisar_links(lista_itens):
             "exception_tipo": None,
             "exception_msg": None,
             "traceback": None,
-            "observacoes": []
+            "observacoes": [],
+            "tentativas": []  # lista de dicts: {url, resultado}
         }
 
         t0 = time.time()
+        linha_resultado = None
+
         try:
-            response = requests.get(url, headers=headers, timeout=20)
+            response = sessao.get(url, headers=headers, timeout=20)
             debug["tempo_resposta"] = round(time.time() - t0, 2)
             debug["http_status"] = response.status_code
             debug["content_type"] = response.headers.get('Content-Type', 'N/A')
             debug["tamanho_bytes"] = len(response.content)
+            debug["tentativas"].append({
+                "url": url,
+                "resultado": f"HTTP {response.status_code}"
+            })
 
             if response.status_code == 200:
                 debug["raw_preview"] = response.text[:800]
-                try:
-                    data = response.json()
-                    debug["json_keys"] = list(data.keys())
-                    u_info = data.get('user_info', {})
 
-                    if not u_info:
-                        print("❌ Erro Login")
-                        debug["status_final"] = "Erro Login"
+                if eh_pagina_nginx_default(response.text, debug["content_type"]):
+                    # Página padrão do nginx = host sem API configurada nessa URL.
+                    # Tenta variações antes de desistir.
+                    debug["observacoes"].append(
+                        "Resposta inicial era página padrão do nginx (sem vhost/API configurada). Tentando URLs alternativas..."
+                    )
+                    sucesso_alt = False
+                    for label, url_alt in gerar_urls_alternativas(url):
+                        try:
+                            resp_alt = sessao.get(url_alt, headers=headers, timeout=15)
+                            ct_alt = resp_alt.headers.get('Content-Type', 'N/A')
+                            if resp_alt.status_code == 200 and not eh_pagina_nginx_default(resp_alt.text, ct_alt):
+                                ok, linha = processar_resposta_json(resp_alt, debug)
+                                debug["tentativas"].append({
+                                    "url": url_alt,
+                                    "resultado": f"{label} -> HTTP {resp_alt.status_code}, JSON OK" if ok else f"{label} -> HTTP {resp_alt.status_code}, falhou parse JSON"
+                                })
+                                if ok:
+                                    debug["raw_preview"] = resp_alt.text[:800]
+                                    debug["http_status"] = resp_alt.status_code
+                                    debug["content_type"] = ct_alt
+                                    linha_resultado = linha
+                                    sucesso_alt = True
+                                    print(f"✅ OK via {label} ({linha[-1]})")
+                                    break
+                            else:
+                                debug["tentativas"].append({
+                                    "url": url_alt,
+                                    "resultado": f"{label} -> HTTP {resp_alt.status_code}, ainda nginx/sem API"
+                                })
+                        except Exception as e_alt:
+                            debug["tentativas"].append({
+                                "url": url_alt,
+                                "resultado": f"{label} -> falhou: {type(e_alt).__name__}: {e_alt}"
+                            })
+
+                    if not sucesso_alt:
+                        print("🌐 Painel Offline (Nginx)")
+                        debug["status_final"] = "Painel Offline (Nginx)"
                         debug["observacoes"].append(
-                            "user_info veio vazio/ausente no JSON. Corpo completo (limitado a 1500 chars): "
-                            + json.dumps(data, ensure_ascii=False)[:1500]
+                            "Nenhuma variação de URL (https, porta 8080) retornou API válida. "
+                            "O host provavelmente não está mais servindo esse painel nesse domínio/porta."
                         )
-                        dados_finais.append([nome_exibicao, "-", "-", "-", "Erro Login"])
+                        linha_resultado = ["-", "-", "-", "Painel Offline (Nginx)"]
+
+                else:
+                    ok, linha = processar_resposta_json(response, debug)
+                    if ok:
+                        status_txt = linha[-1]
+                        emoji = "❌" if status_txt == "Erro Login" else "✅"
+                        print(f"{emoji} {'Erro Login' if status_txt == 'Erro Login' else f'OK ({status_txt})'}")
+                        linha_resultado = linha
                     else:
-                        debug["user_info_keys"] = list(u_info.keys())
-                        status = u_info.get('status', 'Unknown')
-                        criado = formatar_data(u_info.get('created_at'))
-                        expira = formatar_data(u_info.get('exp_date'))
-                        ativos = u_info.get('active_cons', '0')
-                        maximos = u_info.get('max_connections', '0')
-
-                        print(f"✅ OK ({status})")
-                        debug["status_final"] = status
-                        debug["observacoes"].append(
-                            f"created_at={u_info.get('created_at')} | exp_date={u_info.get('exp_date')} | "
-                            f"active_cons={ativos} | max_connections={maximos}"
-                        )
-                        dados_finais.append([nome_exibicao, criado, expira, f"{ativos}/{maximos}", status])
-                except Exception as e_json:
-                    print("⚠️ Erro JSON")
-                    debug["status_final"] = "Erro JSON"
-                    debug["exception_tipo"] = type(e_json).__name__
-                    debug["exception_msg"] = str(e_json)
-                    debug["traceback"] = traceback.format_exc()
-                    dados_finais.append([nome_exibicao, "-", "-", "-", "Erro JSON"])
+                        print("⚠️ Erro JSON")
+                        debug["status_final"] = "Erro JSON"
+                        linha_resultado = ["-", "-", "-", "Erro JSON"]
 
             elif response.status_code == 403:
                 print("🚫 Bloqueado (IP)")
                 debug["status_final"] = "Bloq. IP"
                 debug["raw_preview"] = response.text[:800]
-                dados_finais.append([nome_exibicao, "-", "-", "-", "Bloq. IP"])
+                linha_resultado = ["-", "-", "-", "Bloq. IP"]
+
             elif response.status_code == 404:
-                print("❓ Não encontrado")
-                debug["status_final"] = "Não Achou"
-                debug["raw_preview"] = response.text[:800]
-                dados_finais.append([nome_exibicao, "-", "-", "-", "Não Achou"])
+                # Tenta uma segunda vez (pode ser falha transitória de CDN/edge)
+                print("❓ Não encontrado (retentando)...", end=" ")
+                time.sleep(1.5)
+                try:
+                    resp_retry = sessao.get(url, headers=headers, timeout=20)
+                    debug["tentativas"].append({
+                        "url": url,
+                        "resultado": f"Retry 404 -> HTTP {resp_retry.status_code}"
+                    })
+                    if resp_retry.status_code == 200 and not eh_pagina_nginx_default(
+                        resp_retry.text, resp_retry.headers.get('Content-Type', 'N/A')
+                    ):
+                        ok, linha = processar_resposta_json(resp_retry, debug)
+                        if ok:
+                            debug["raw_preview"] = resp_retry.text[:800]
+                            debug["http_status"] = resp_retry.status_code
+                            debug["content_type"] = resp_retry.headers.get('Content-Type', 'N/A')
+                            print(f"✅ OK no retry ({linha[-1]})")
+                            linha_resultado = linha
+                    if linha_resultado is None:
+                        print("❓ Não encontrado (confirmado)")
+                        debug["status_final"] = "Não Achou"
+                        debug["raw_preview"] = response.text[:800]
+                        linha_resultado = ["-", "-", "-", "Não Achou"]
+                except Exception:
+                    print("❓ Não encontrado (confirmado)")
+                    debug["status_final"] = "Não Achou"
+                    debug["raw_preview"] = response.text[:800]
+                    linha_resultado = ["-", "-", "-", "Não Achou"]
+
             else:
                 print(f"⚠️ Erro {response.status_code}")
                 debug["status_final"] = f"Erro {response.status_code}"
                 debug["raw_preview"] = response.text[:800]
-                dados_finais.append([nome_exibicao, "-", "-", "-", f"Erro {response.status_code}"])
+                linha_resultado = ["-", "-", "-", f"Erro {response.status_code}"]
 
         except requests.exceptions.Timeout as e:
             print("🔌 Falha Conexão (Timeout)")
@@ -212,7 +383,7 @@ def analisar_links(lista_itens):
             debug["exception_tipo"] = "Timeout"
             debug["exception_msg"] = str(e)
             debug["traceback"] = traceback.format_exc()
-            dados_finais.append([nome_exibicao, "-", "-", "-", "Offline"])
+            linha_resultado = ["-", "-", "-", "Offline"]
 
         except requests.exceptions.ConnectionError as e:
             print("🔌 Falha Conexão (ConnectionError)")
@@ -221,7 +392,7 @@ def analisar_links(lista_itens):
             debug["exception_tipo"] = "ConnectionError"
             debug["exception_msg"] = str(e)
             debug["traceback"] = traceback.format_exc()
-            dados_finais.append([nome_exibicao, "-", "-", "-", "Offline"])
+            linha_resultado = ["-", "-", "-", "Offline"]
 
         except Exception as e:
             print("🔌 Falha Conexão")
@@ -230,11 +401,11 @@ def analisar_links(lista_itens):
             debug["exception_tipo"] = type(e).__name__
             debug["exception_msg"] = str(e)
             debug["traceback"] = traceback.format_exc()
-            dados_finais.append([nome_exibicao, "-", "-", "-", "Offline"])
+            linha_resultado = ["-", "-", "-", "Offline"]
 
+        dados_finais.append([nome_exibicao] + linha_resultado)
         debug_entries.append(debug)
 
-    # Gera o relatório de debug em txt (não interfere na geração de imagem/vídeo)
     gerar_debug_txt(debug_entries)
 
     return dados_finais
@@ -247,7 +418,6 @@ def gerar_debug_txt(debug_entries):
     fuso_horario = timezone(diferenca)
     agora = datetime.now(fuso_horario).strftime("%d/%m/%Y - %H:%M:%S")
 
-    # Resumo por status_final
     resumo = {}
     for d in debug_entries:
         chave = d["status_final"] or "Indefinido"
@@ -284,6 +454,11 @@ def gerar_debug_txt(debug_entries):
             linhas.append(f"Chaves no JSON raiz: {d['json_keys']}")
         if d["user_info_keys"] is not None:
             linhas.append(f"Chaves em user_info: {d['user_info_keys']}")
+
+        if d["tentativas"]:
+            linhas.append("Tentativas realizadas:")
+            for t in d["tentativas"]:
+                linhas.append(f"  - {t['url']} => {t['resultado']}")
 
         for obs in d["observacoes"]:
             linhas.append(f"Observação: {obs}")
@@ -404,6 +579,8 @@ def gerar_imagens_paginadas(dados):
                 cor_status = (255, 165, 0)
             elif "bloq" in status_lower or "403" in status_lower:
                 cor_status = (200, 0, 0)
+            elif "offline" in status_lower or "nginx" in status_lower:
+                cor_status = (150, 150, 150)
 
             offset_y = 6
 
