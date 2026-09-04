@@ -1,9 +1,9 @@
 ====================================================================================================
 RELATÓRIO DE DEBUG - MONITORAMENTO IPTV
-Execução em: 04/09/2026 - 14:47:25
+Execução em: 04/09/2026 - 14:50:46
 Total de fontes verificadas: 44
 Tempo total de verificação: 0.1s
-Proxy SOCKS5 Utilizado: Sim -> socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+Proxy SOCKS5 Utilizado: Sim -> socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 ====================================================================================================
 
 RESUMO POR STATUS:
@@ -17,13 +17,13 @@ DETALHE POR FONTE
 [1/44] FONTE: F14M2
 URL: http://play.dnsrot.vip/player_api.php?username=5550388689&password=simpleiptv
 Usou Proxy: SIM
-Início da checagem: 2026-09-04 17:47:25
+Início da checagem: 2026-09-04 17:50:46
 Tempo de resposta: 0.0s
 HTTP Status Code: None
 Content-Type: None
 Tamanho da resposta: N/A
 STATUS FINAL ATRIBUÍDO: Offline
-❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 Traceback completo:
 Traceback (most recent call last):
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 423, in parse_url
@@ -41,7 +41,7 @@ Traceback (most recent call last):
     parsed = parse_url(url)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 449, in parse_url
     raise LocationParseError(source_url) from e
-urllib3.exceptions.LocationParseError: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+urllib3.exceptions.LocationParseError: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 During handling of the above exception, another exception occurred:
 
@@ -56,20 +56,20 @@ Traceback (most recent call last):
     r = adapter.send(request, **kwargs)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/requests/adapters.py", line 614, in send
     raise InvalidURL(e, request=request)
-requests.exceptions.InvalidURL: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+requests.exceptions.InvalidURL: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 
 ----------------------------------------------------------------------------------------------------
 [2/44] FONTE: F15M2
 URL: http://play.dnsrot.vip/player_api.php?&username=Marcosfp05&password=nlybdft6fml
 Usou Proxy: SIM
-Início da checagem: 2026-09-04 17:47:25
+Início da checagem: 2026-09-04 17:50:46
 Tempo de resposta: 0.0s
 HTTP Status Code: None
 Content-Type: None
 Tamanho da resposta: N/A
 STATUS FINAL ATRIBUÍDO: Offline
-❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 Traceback completo:
 Traceback (most recent call last):
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 423, in parse_url
@@ -87,7 +87,7 @@ Traceback (most recent call last):
     parsed = parse_url(url)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 449, in parse_url
     raise LocationParseError(source_url) from e
-urllib3.exceptions.LocationParseError: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+urllib3.exceptions.LocationParseError: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 During handling of the above exception, another exception occurred:
 
@@ -102,20 +102,20 @@ Traceback (most recent call last):
     r = adapter.send(request, **kwargs)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/requests/adapters.py", line 614, in send
     raise InvalidURL(e, request=request)
-requests.exceptions.InvalidURL: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+requests.exceptions.InvalidURL: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 
 ----------------------------------------------------------------------------------------------------
 [3/44] FONTE: F25M3
 URL: http://megaxc.ca/player_api.php?&username=ialwg1&password=iao8wo
 Usou Proxy: SIM
-Início da checagem: 2026-09-04 17:47:25
+Início da checagem: 2026-09-04 17:50:46
 Tempo de resposta: 0.0s
 HTTP Status Code: None
 Content-Type: None
 Tamanho da resposta: N/A
 STATUS FINAL ATRIBUÍDO: Offline
-❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 Traceback completo:
 Traceback (most recent call last):
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 423, in parse_url
@@ -133,7 +133,7 @@ Traceback (most recent call last):
     parsed = parse_url(url)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 449, in parse_url
     raise LocationParseError(source_url) from e
-urllib3.exceptions.LocationParseError: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+urllib3.exceptions.LocationParseError: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 During handling of the above exception, another exception occurred:
 
@@ -148,20 +148,20 @@ Traceback (most recent call last):
     r = adapter.send(request, **kwargs)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/requests/adapters.py", line 614, in send
     raise InvalidURL(e, request=request)
-requests.exceptions.InvalidURL: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+requests.exceptions.InvalidURL: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 
 ----------------------------------------------------------------------------------------------------
 [4/44] FONTE: F27M1
 URL: http://play.dnsrot.vip/player_api.php?&username=nena6194sala&password=mqtavfrtyl
 Usou Proxy: SIM
-Início da checagem: 2026-09-04 17:47:25
+Início da checagem: 2026-09-04 17:50:46
 Tempo de resposta: 0.0s
 HTTP Status Code: None
 Content-Type: None
 Tamanho da resposta: N/A
 STATUS FINAL ATRIBUÍDO: Offline
-❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 Traceback completo:
 Traceback (most recent call last):
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 423, in parse_url
@@ -179,7 +179,7 @@ Traceback (most recent call last):
     parsed = parse_url(url)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 449, in parse_url
     raise LocationParseError(source_url) from e
-urllib3.exceptions.LocationParseError: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+urllib3.exceptions.LocationParseError: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 During handling of the above exception, another exception occurred:
 
@@ -194,20 +194,20 @@ Traceback (most recent call last):
     r = adapter.send(request, **kwargs)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/requests/adapters.py", line 614, in send
     raise InvalidURL(e, request=request)
-requests.exceptions.InvalidURL: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+requests.exceptions.InvalidURL: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 
 ----------------------------------------------------------------------------------------------------
 [5/44] FONTE: F28M1
 URL: http://play.dnsrot.vip/player_api.php?&username=tomoko11&password=14n11oi50oc
 Usou Proxy: SIM
-Início da checagem: 2026-09-04 17:47:25
+Início da checagem: 2026-09-04 17:50:46
 Tempo de resposta: 0.0s
 HTTP Status Code: None
 Content-Type: None
 Tamanho da resposta: N/A
 STATUS FINAL ATRIBUÍDO: Offline
-❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 Traceback completo:
 Traceback (most recent call last):
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 423, in parse_url
@@ -225,7 +225,7 @@ Traceback (most recent call last):
     parsed = parse_url(url)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 449, in parse_url
     raise LocationParseError(source_url) from e
-urllib3.exceptions.LocationParseError: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+urllib3.exceptions.LocationParseError: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 During handling of the above exception, another exception occurred:
 
@@ -240,20 +240,20 @@ Traceback (most recent call last):
     r = adapter.send(request, **kwargs)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/requests/adapters.py", line 614, in send
     raise InvalidURL(e, request=request)
-requests.exceptions.InvalidURL: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+requests.exceptions.InvalidURL: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 
 ----------------------------------------------------------------------------------------------------
 [6/44] FONTE: F29M3
 URL: http://play.dnsrot.vip/player_api.php?&username=vanessanook&password=vinr390x8y
 Usou Proxy: SIM
-Início da checagem: 2026-09-04 17:47:25
+Início da checagem: 2026-09-04 17:50:46
 Tempo de resposta: 0.0s
 HTTP Status Code: None
 Content-Type: None
 Tamanho da resposta: N/A
 STATUS FINAL ATRIBUÍDO: Offline
-❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 Traceback completo:
 Traceback (most recent call last):
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 423, in parse_url
@@ -271,7 +271,7 @@ Traceback (most recent call last):
     parsed = parse_url(url)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 449, in parse_url
     raise LocationParseError(source_url) from e
-urllib3.exceptions.LocationParseError: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+urllib3.exceptions.LocationParseError: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 During handling of the above exception, another exception occurred:
 
@@ -286,20 +286,20 @@ Traceback (most recent call last):
     r = adapter.send(request, **kwargs)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/requests/adapters.py", line 614, in send
     raise InvalidURL(e, request=request)
-requests.exceptions.InvalidURL: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+requests.exceptions.InvalidURL: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 
 ----------------------------------------------------------------------------------------------------
 [7/44] FONTE: F31M2
 URL: http://play.dnsrot.vip/player_api.php?&username=zQ4qeGkNrQ&password=factoryiptv
 Usou Proxy: SIM
-Início da checagem: 2026-09-04 17:47:25
+Início da checagem: 2026-09-04 17:50:46
 Tempo de resposta: 0.0s
 HTTP Status Code: None
 Content-Type: None
 Tamanho da resposta: N/A
 STATUS FINAL ATRIBUÍDO: Offline
-❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 Traceback completo:
 Traceback (most recent call last):
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 423, in parse_url
@@ -317,7 +317,7 @@ Traceback (most recent call last):
     parsed = parse_url(url)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 449, in parse_url
     raise LocationParseError(source_url) from e
-urllib3.exceptions.LocationParseError: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+urllib3.exceptions.LocationParseError: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 During handling of the above exception, another exception occurred:
 
@@ -332,20 +332,20 @@ Traceback (most recent call last):
     r = adapter.send(request, **kwargs)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/requests/adapters.py", line 614, in send
     raise InvalidURL(e, request=request)
-requests.exceptions.InvalidURL: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+requests.exceptions.InvalidURL: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 
 ----------------------------------------------------------------------------------------------------
 [8/44] FONTE: F32M2
 URL: http://play.dnsrot.vip/player_api.php?&username=7RRjPTu5d6&password=factoryiptv
 Usou Proxy: SIM
-Início da checagem: 2026-09-04 17:47:25
+Início da checagem: 2026-09-04 17:50:46
 Tempo de resposta: 0.0s
 HTTP Status Code: None
 Content-Type: None
 Tamanho da resposta: N/A
 STATUS FINAL ATRIBUÍDO: Offline
-❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 Traceback completo:
 Traceback (most recent call last):
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 423, in parse_url
@@ -363,7 +363,7 @@ Traceback (most recent call last):
     parsed = parse_url(url)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 449, in parse_url
     raise LocationParseError(source_url) from e
-urllib3.exceptions.LocationParseError: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+urllib3.exceptions.LocationParseError: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 During handling of the above exception, another exception occurred:
 
@@ -378,20 +378,20 @@ Traceback (most recent call last):
     r = adapter.send(request, **kwargs)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/requests/adapters.py", line 614, in send
     raise InvalidURL(e, request=request)
-requests.exceptions.InvalidURL: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+requests.exceptions.InvalidURL: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 
 ----------------------------------------------------------------------------------------------------
 [9/44] FONTE: F57M10
 URL: http://agkcl2.cc/player_api.php?&username=719065&password=r12xvZ
 Usou Proxy: SIM
-Início da checagem: 2026-09-04 17:47:25
+Início da checagem: 2026-09-04 17:50:46
 Tempo de resposta: 0.0s
 HTTP Status Code: None
 Content-Type: None
 Tamanho da resposta: N/A
 STATUS FINAL ATRIBUÍDO: Offline
-❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 Traceback completo:
 Traceback (most recent call last):
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 423, in parse_url
@@ -409,7 +409,7 @@ Traceback (most recent call last):
     parsed = parse_url(url)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 449, in parse_url
     raise LocationParseError(source_url) from e
-urllib3.exceptions.LocationParseError: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+urllib3.exceptions.LocationParseError: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 During handling of the above exception, another exception occurred:
 
@@ -424,20 +424,20 @@ Traceback (most recent call last):
     r = adapter.send(request, **kwargs)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/requests/adapters.py", line 614, in send
     raise InvalidURL(e, request=request)
-requests.exceptions.InvalidURL: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+requests.exceptions.InvalidURL: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 
 ----------------------------------------------------------------------------------------------------
 [10/44] FONTE: F61M5
 URL: http://agkcl2.cc/player_api.php?&username=318284&password=pgJqrm
 Usou Proxy: SIM
-Início da checagem: 2026-09-04 17:47:25
+Início da checagem: 2026-09-04 17:50:46
 Tempo de resposta: 0.0s
 HTTP Status Code: None
 Content-Type: None
 Tamanho da resposta: N/A
 STATUS FINAL ATRIBUÍDO: Offline
-❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 Traceback completo:
 Traceback (most recent call last):
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 423, in parse_url
@@ -455,7 +455,7 @@ Traceback (most recent call last):
     parsed = parse_url(url)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 449, in parse_url
     raise LocationParseError(source_url) from e
-urllib3.exceptions.LocationParseError: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+urllib3.exceptions.LocationParseError: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 During handling of the above exception, another exception occurred:
 
@@ -470,20 +470,20 @@ Traceback (most recent call last):
     r = adapter.send(request, **kwargs)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/requests/adapters.py", line 614, in send
     raise InvalidURL(e, request=request)
-requests.exceptions.InvalidURL: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+requests.exceptions.InvalidURL: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 
 ----------------------------------------------------------------------------------------------------
 [11/44] FONTE: F64M5
 URL: http://agkcl2.cc/player_api.php?&username=882170&password=A3FHej
 Usou Proxy: SIM
-Início da checagem: 2026-09-04 17:47:25
+Início da checagem: 2026-09-04 17:50:46
 Tempo de resposta: 0.0s
 HTTP Status Code: None
 Content-Type: None
 Tamanho da resposta: N/A
 STATUS FINAL ATRIBUÍDO: Offline
-❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 Traceback completo:
 Traceback (most recent call last):
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 423, in parse_url
@@ -501,7 +501,7 @@ Traceback (most recent call last):
     parsed = parse_url(url)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 449, in parse_url
     raise LocationParseError(source_url) from e
-urllib3.exceptions.LocationParseError: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+urllib3.exceptions.LocationParseError: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 During handling of the above exception, another exception occurred:
 
@@ -516,20 +516,20 @@ Traceback (most recent call last):
     r = adapter.send(request, **kwargs)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/requests/adapters.py", line 614, in send
     raise InvalidURL(e, request=request)
-requests.exceptions.InvalidURL: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+requests.exceptions.InvalidURL: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 
 ----------------------------------------------------------------------------------------------------
 [12/44] FONTE: F65M5
 URL: http://agkcl2.cc/player_api.php?&username=888647&password=xjfFUu
 Usou Proxy: SIM
-Início da checagem: 2026-09-04 17:47:25
+Início da checagem: 2026-09-04 17:50:46
 Tempo de resposta: 0.0s
 HTTP Status Code: None
 Content-Type: None
 Tamanho da resposta: N/A
 STATUS FINAL ATRIBUÍDO: Offline
-❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 Traceback completo:
 Traceback (most recent call last):
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 423, in parse_url
@@ -547,7 +547,7 @@ Traceback (most recent call last):
     parsed = parse_url(url)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 449, in parse_url
     raise LocationParseError(source_url) from e
-urllib3.exceptions.LocationParseError: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+urllib3.exceptions.LocationParseError: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 During handling of the above exception, another exception occurred:
 
@@ -562,20 +562,20 @@ Traceback (most recent call last):
     r = adapter.send(request, **kwargs)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/requests/adapters.py", line 614, in send
     raise InvalidURL(e, request=request)
-requests.exceptions.InvalidURL: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+requests.exceptions.InvalidURL: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 
 ----------------------------------------------------------------------------------------------------
 [13/44] FONTE: F67M5
 URL: http://cavalo.cc/player_api.php?&username=671409&password=f3UQjJ
 Usou Proxy: SIM
-Início da checagem: 2026-09-04 17:47:25
+Início da checagem: 2026-09-04 17:50:46
 Tempo de resposta: 0.0s
 HTTP Status Code: None
 Content-Type: None
 Tamanho da resposta: N/A
 STATUS FINAL ATRIBUÍDO: Offline
-❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 Traceback completo:
 Traceback (most recent call last):
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 423, in parse_url
@@ -593,7 +593,7 @@ Traceback (most recent call last):
     parsed = parse_url(url)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 449, in parse_url
     raise LocationParseError(source_url) from e
-urllib3.exceptions.LocationParseError: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+urllib3.exceptions.LocationParseError: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 During handling of the above exception, another exception occurred:
 
@@ -608,20 +608,20 @@ Traceback (most recent call last):
     r = adapter.send(request, **kwargs)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/requests/adapters.py", line 614, in send
     raise InvalidURL(e, request=request)
-requests.exceptions.InvalidURL: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+requests.exceptions.InvalidURL: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 
 ----------------------------------------------------------------------------------------------------
 [14/44] FONTE: F68M5
 URL: http://cavalo.cc/player_api.php?&username=988060&password=zd7YEw
 Usou Proxy: SIM
-Início da checagem: 2026-09-04 17:47:25
+Início da checagem: 2026-09-04 17:50:46
 Tempo de resposta: 0.0s
 HTTP Status Code: None
 Content-Type: None
 Tamanho da resposta: N/A
 STATUS FINAL ATRIBUÍDO: Offline
-❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 Traceback completo:
 Traceback (most recent call last):
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 423, in parse_url
@@ -639,7 +639,7 @@ Traceback (most recent call last):
     parsed = parse_url(url)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 449, in parse_url
     raise LocationParseError(source_url) from e
-urllib3.exceptions.LocationParseError: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+urllib3.exceptions.LocationParseError: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 During handling of the above exception, another exception occurred:
 
@@ -654,20 +654,20 @@ Traceback (most recent call last):
     r = adapter.send(request, **kwargs)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/requests/adapters.py", line 614, in send
     raise InvalidURL(e, request=request)
-requests.exceptions.InvalidURL: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+requests.exceptions.InvalidURL: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 
 ----------------------------------------------------------------------------------------------------
 [15/44] FONTE: F69M5
 URL: http://cavalo.cc/player_api.php?&username=525656&password=7UDTt9
 Usou Proxy: SIM
-Início da checagem: 2026-09-04 17:47:25
+Início da checagem: 2026-09-04 17:50:46
 Tempo de resposta: 0.0s
 HTTP Status Code: None
 Content-Type: None
 Tamanho da resposta: N/A
 STATUS FINAL ATRIBUÍDO: Offline
-❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 Traceback completo:
 Traceback (most recent call last):
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 423, in parse_url
@@ -685,7 +685,7 @@ Traceback (most recent call last):
     parsed = parse_url(url)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 449, in parse_url
     raise LocationParseError(source_url) from e
-urllib3.exceptions.LocationParseError: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+urllib3.exceptions.LocationParseError: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 During handling of the above exception, another exception occurred:
 
@@ -700,20 +700,20 @@ Traceback (most recent call last):
     r = adapter.send(request, **kwargs)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/requests/adapters.py", line 614, in send
     raise InvalidURL(e, request=request)
-requests.exceptions.InvalidURL: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+requests.exceptions.InvalidURL: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 
 ----------------------------------------------------------------------------------------------------
 [16/44] FONTE: F70M5
 URL: http://cavalo.cc/player_api.php?&username=544119&password=87XJCZ
 Usou Proxy: SIM
-Início da checagem: 2026-09-04 17:47:25
+Início da checagem: 2026-09-04 17:50:46
 Tempo de resposta: 0.0s
 HTTP Status Code: None
 Content-Type: None
 Tamanho da resposta: N/A
 STATUS FINAL ATRIBUÍDO: Offline
-❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 Traceback completo:
 Traceback (most recent call last):
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 423, in parse_url
@@ -731,7 +731,7 @@ Traceback (most recent call last):
     parsed = parse_url(url)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 449, in parse_url
     raise LocationParseError(source_url) from e
-urllib3.exceptions.LocationParseError: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+urllib3.exceptions.LocationParseError: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 During handling of the above exception, another exception occurred:
 
@@ -746,20 +746,20 @@ Traceback (most recent call last):
     r = adapter.send(request, **kwargs)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/requests/adapters.py", line 614, in send
     raise InvalidURL(e, request=request)
-requests.exceptions.InvalidURL: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+requests.exceptions.InvalidURL: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 
 ----------------------------------------------------------------------------------------------------
 [17/44] FONTE: F72M5
 URL: http://cavalo.cc/player_api.php?&username=166691&password=SqEdeF
 Usou Proxy: SIM
-Início da checagem: 2026-09-04 17:47:25
+Início da checagem: 2026-09-04 17:50:46
 Tempo de resposta: 0.0s
 HTTP Status Code: None
 Content-Type: None
 Tamanho da resposta: N/A
 STATUS FINAL ATRIBUÍDO: Offline
-❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 Traceback completo:
 Traceback (most recent call last):
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 423, in parse_url
@@ -777,7 +777,7 @@ Traceback (most recent call last):
     parsed = parse_url(url)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 449, in parse_url
     raise LocationParseError(source_url) from e
-urllib3.exceptions.LocationParseError: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+urllib3.exceptions.LocationParseError: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 During handling of the above exception, another exception occurred:
 
@@ -792,20 +792,20 @@ Traceback (most recent call last):
     r = adapter.send(request, **kwargs)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/requests/adapters.py", line 614, in send
     raise InvalidURL(e, request=request)
-requests.exceptions.InvalidURL: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+requests.exceptions.InvalidURL: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 
 ----------------------------------------------------------------------------------------------------
 [18/44] FONTE: F74M5
 URL: http://cavalo.cc/player_api.php?&username=392157&password=fs8w4W
 Usou Proxy: SIM
-Início da checagem: 2026-09-04 17:47:25
+Início da checagem: 2026-09-04 17:50:46
 Tempo de resposta: 0.0s
 HTTP Status Code: None
 Content-Type: None
 Tamanho da resposta: N/A
 STATUS FINAL ATRIBUÍDO: Offline
-❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 Traceback completo:
 Traceback (most recent call last):
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 423, in parse_url
@@ -823,7 +823,7 @@ Traceback (most recent call last):
     parsed = parse_url(url)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 449, in parse_url
     raise LocationParseError(source_url) from e
-urllib3.exceptions.LocationParseError: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+urllib3.exceptions.LocationParseError: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 During handling of the above exception, another exception occurred:
 
@@ -838,20 +838,20 @@ Traceback (most recent call last):
     r = adapter.send(request, **kwargs)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/requests/adapters.py", line 614, in send
     raise InvalidURL(e, request=request)
-requests.exceptions.InvalidURL: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+requests.exceptions.InvalidURL: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 
 ----------------------------------------------------------------------------------------------------
 [19/44] FONTE: F75M5
 URL: http://cavalo.cc/player_api.php?&username=393747&password=PEHcPC
 Usou Proxy: SIM
-Início da checagem: 2026-09-04 17:47:25
+Início da checagem: 2026-09-04 17:50:46
 Tempo de resposta: 0.0s
 HTTP Status Code: None
 Content-Type: None
 Tamanho da resposta: N/A
 STATUS FINAL ATRIBUÍDO: Offline
-❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 Traceback completo:
 Traceback (most recent call last):
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 423, in parse_url
@@ -869,7 +869,7 @@ Traceback (most recent call last):
     parsed = parse_url(url)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 449, in parse_url
     raise LocationParseError(source_url) from e
-urllib3.exceptions.LocationParseError: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+urllib3.exceptions.LocationParseError: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 During handling of the above exception, another exception occurred:
 
@@ -884,20 +884,20 @@ Traceback (most recent call last):
     r = adapter.send(request, **kwargs)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/requests/adapters.py", line 614, in send
     raise InvalidURL(e, request=request)
-requests.exceptions.InvalidURL: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+requests.exceptions.InvalidURL: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 
 ----------------------------------------------------------------------------------------------------
 [20/44] FONTE: F76M5
 URL: http://cavalo.cc/player_api.php?&username=563593&password=vGfUjy
 Usou Proxy: SIM
-Início da checagem: 2026-09-04 17:47:25
+Início da checagem: 2026-09-04 17:50:46
 Tempo de resposta: 0.0s
 HTTP Status Code: None
 Content-Type: None
 Tamanho da resposta: N/A
 STATUS FINAL ATRIBUÍDO: Offline
-❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 Traceback completo:
 Traceback (most recent call last):
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 423, in parse_url
@@ -915,7 +915,7 @@ Traceback (most recent call last):
     parsed = parse_url(url)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 449, in parse_url
     raise LocationParseError(source_url) from e
-urllib3.exceptions.LocationParseError: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+urllib3.exceptions.LocationParseError: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 During handling of the above exception, another exception occurred:
 
@@ -930,20 +930,20 @@ Traceback (most recent call last):
     r = adapter.send(request, **kwargs)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/requests/adapters.py", line 614, in send
     raise InvalidURL(e, request=request)
-requests.exceptions.InvalidURL: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+requests.exceptions.InvalidURL: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 
 ----------------------------------------------------------------------------------------------------
 [21/44] FONTE: F77M5
 URL: http://cavalo.cc/player_api.php?&username=296115&password=bn2aGw
 Usou Proxy: SIM
-Início da checagem: 2026-09-04 17:47:25
+Início da checagem: 2026-09-04 17:50:46
 Tempo de resposta: 0.0s
 HTTP Status Code: None
 Content-Type: None
 Tamanho da resposta: N/A
 STATUS FINAL ATRIBUÍDO: Offline
-❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 Traceback completo:
 Traceback (most recent call last):
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 423, in parse_url
@@ -961,7 +961,7 @@ Traceback (most recent call last):
     parsed = parse_url(url)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 449, in parse_url
     raise LocationParseError(source_url) from e
-urllib3.exceptions.LocationParseError: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+urllib3.exceptions.LocationParseError: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 During handling of the above exception, another exception occurred:
 
@@ -976,20 +976,20 @@ Traceback (most recent call last):
     r = adapter.send(request, **kwargs)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/requests/adapters.py", line 614, in send
     raise InvalidURL(e, request=request)
-requests.exceptions.InvalidURL: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+requests.exceptions.InvalidURL: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 
 ----------------------------------------------------------------------------------------------------
 [22/44] FONTE: F79M5
 URL: http://cavalo.cc/player_api.php?&username=146336&password=zF39KA
 Usou Proxy: SIM
-Início da checagem: 2026-09-04 17:47:25
+Início da checagem: 2026-09-04 17:50:46
 Tempo de resposta: 0.0s
 HTTP Status Code: None
 Content-Type: None
 Tamanho da resposta: N/A
 STATUS FINAL ATRIBUÍDO: Offline
-❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 Traceback completo:
 Traceback (most recent call last):
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 423, in parse_url
@@ -1007,7 +1007,7 @@ Traceback (most recent call last):
     parsed = parse_url(url)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 449, in parse_url
     raise LocationParseError(source_url) from e
-urllib3.exceptions.LocationParseError: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+urllib3.exceptions.LocationParseError: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 During handling of the above exception, another exception occurred:
 
@@ -1022,20 +1022,20 @@ Traceback (most recent call last):
     r = adapter.send(request, **kwargs)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/requests/adapters.py", line 614, in send
     raise InvalidURL(e, request=request)
-requests.exceptions.InvalidURL: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+requests.exceptions.InvalidURL: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 
 ----------------------------------------------------------------------------------------------------
 [23/44] FONTE: F81M5
 URL: http://cavalo.cc/player_api.php?&username=965893&password=Rx5Vau
 Usou Proxy: SIM
-Início da checagem: 2026-09-04 17:47:25
+Início da checagem: 2026-09-04 17:50:46
 Tempo de resposta: 0.0s
 HTTP Status Code: None
 Content-Type: None
 Tamanho da resposta: N/A
 STATUS FINAL ATRIBUÍDO: Offline
-❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 Traceback completo:
 Traceback (most recent call last):
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 423, in parse_url
@@ -1053,7 +1053,7 @@ Traceback (most recent call last):
     parsed = parse_url(url)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 449, in parse_url
     raise LocationParseError(source_url) from e
-urllib3.exceptions.LocationParseError: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+urllib3.exceptions.LocationParseError: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 During handling of the above exception, another exception occurred:
 
@@ -1068,20 +1068,20 @@ Traceback (most recent call last):
     r = adapter.send(request, **kwargs)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/requests/adapters.py", line 614, in send
     raise InvalidURL(e, request=request)
-requests.exceptions.InvalidURL: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+requests.exceptions.InvalidURL: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 
 ----------------------------------------------------------------------------------------------------
 [24/44] FONTE: F84M5
 URL: http://cavalo.cc/player_api.php?&username=985028&password=Stj27w
 Usou Proxy: SIM
-Início da checagem: 2026-09-04 17:47:25
+Início da checagem: 2026-09-04 17:50:46
 Tempo de resposta: 0.0s
 HTTP Status Code: None
 Content-Type: None
 Tamanho da resposta: N/A
 STATUS FINAL ATRIBUÍDO: Offline
-❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 Traceback completo:
 Traceback (most recent call last):
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 423, in parse_url
@@ -1099,7 +1099,7 @@ Traceback (most recent call last):
     parsed = parse_url(url)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 449, in parse_url
     raise LocationParseError(source_url) from e
-urllib3.exceptions.LocationParseError: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+urllib3.exceptions.LocationParseError: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 During handling of the above exception, another exception occurred:
 
@@ -1114,20 +1114,20 @@ Traceback (most recent call last):
     r = adapter.send(request, **kwargs)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/requests/adapters.py", line 614, in send
     raise InvalidURL(e, request=request)
-requests.exceptions.InvalidURL: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+requests.exceptions.InvalidURL: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 
 ----------------------------------------------------------------------------------------------------
 [25/44] FONTE: F87M5
 URL: http://cavalo.cc/player_api.php?&username=258275&password=GWDsuf
 Usou Proxy: SIM
-Início da checagem: 2026-09-04 17:47:25
+Início da checagem: 2026-09-04 17:50:46
 Tempo de resposta: 0.0s
 HTTP Status Code: None
 Content-Type: None
 Tamanho da resposta: N/A
 STATUS FINAL ATRIBUÍDO: Offline
-❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 Traceback completo:
 Traceback (most recent call last):
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 423, in parse_url
@@ -1145,7 +1145,7 @@ Traceback (most recent call last):
     parsed = parse_url(url)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 449, in parse_url
     raise LocationParseError(source_url) from e
-urllib3.exceptions.LocationParseError: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+urllib3.exceptions.LocationParseError: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 During handling of the above exception, another exception occurred:
 
@@ -1160,20 +1160,20 @@ Traceback (most recent call last):
     r = adapter.send(request, **kwargs)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/requests/adapters.py", line 614, in send
     raise InvalidURL(e, request=request)
-requests.exceptions.InvalidURL: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+requests.exceptions.InvalidURL: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 
 ----------------------------------------------------------------------------------------------------
 [26/44] FONTE: F88M5
 URL: http://cavalo.cc/player_api.php?&username=023629&password=Gw91WV
 Usou Proxy: SIM
-Início da checagem: 2026-09-04 17:47:25
+Início da checagem: 2026-09-04 17:50:46
 Tempo de resposta: 0.0s
 HTTP Status Code: None
 Content-Type: None
 Tamanho da resposta: N/A
 STATUS FINAL ATRIBUÍDO: Offline
-❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 Traceback completo:
 Traceback (most recent call last):
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 423, in parse_url
@@ -1191,7 +1191,7 @@ Traceback (most recent call last):
     parsed = parse_url(url)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 449, in parse_url
     raise LocationParseError(source_url) from e
-urllib3.exceptions.LocationParseError: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+urllib3.exceptions.LocationParseError: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 During handling of the above exception, another exception occurred:
 
@@ -1206,20 +1206,20 @@ Traceback (most recent call last):
     r = adapter.send(request, **kwargs)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/requests/adapters.py", line 614, in send
     raise InvalidURL(e, request=request)
-requests.exceptions.InvalidURL: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+requests.exceptions.InvalidURL: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 
 ----------------------------------------------------------------------------------------------------
 [27/44] FONTE: F89M5
 URL: http://cavalo.cc/player_api.php?&username=939041&password=8SA9sh
 Usou Proxy: SIM
-Início da checagem: 2026-09-04 17:47:25
+Início da checagem: 2026-09-04 17:50:46
 Tempo de resposta: 0.0s
 HTTP Status Code: None
 Content-Type: None
 Tamanho da resposta: N/A
 STATUS FINAL ATRIBUÍDO: Offline
-❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 Traceback completo:
 Traceback (most recent call last):
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 423, in parse_url
@@ -1237,7 +1237,7 @@ Traceback (most recent call last):
     parsed = parse_url(url)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 449, in parse_url
     raise LocationParseError(source_url) from e
-urllib3.exceptions.LocationParseError: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+urllib3.exceptions.LocationParseError: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 During handling of the above exception, another exception occurred:
 
@@ -1252,20 +1252,20 @@ Traceback (most recent call last):
     r = adapter.send(request, **kwargs)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/requests/adapters.py", line 614, in send
     raise InvalidURL(e, request=request)
-requests.exceptions.InvalidURL: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+requests.exceptions.InvalidURL: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 
 ----------------------------------------------------------------------------------------------------
 [28/44] FONTE: Fonte U38
 URL: http://case2.lat/player_api.php?&username=593812776&password=876362759
 Usou Proxy: SIM
-Início da checagem: 2026-09-04 17:47:25
+Início da checagem: 2026-09-04 17:50:46
 Tempo de resposta: 0.0s
 HTTP Status Code: None
 Content-Type: None
 Tamanho da resposta: N/A
 STATUS FINAL ATRIBUÍDO: Offline
-❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 Traceback completo:
 Traceback (most recent call last):
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 423, in parse_url
@@ -1283,7 +1283,7 @@ Traceback (most recent call last):
     parsed = parse_url(url)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 449, in parse_url
     raise LocationParseError(source_url) from e
-urllib3.exceptions.LocationParseError: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+urllib3.exceptions.LocationParseError: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 During handling of the above exception, another exception occurred:
 
@@ -1298,20 +1298,20 @@ Traceback (most recent call last):
     r = adapter.send(request, **kwargs)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/requests/adapters.py", line 614, in send
     raise InvalidURL(e, request=request)
-requests.exceptions.InvalidURL: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+requests.exceptions.InvalidURL: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 
 ----------------------------------------------------------------------------------------------------
 [29/44] FONTE: Fonte U39
 URL: http://case2.lat/player_api.php?&username=374897485&password=789272274
 Usou Proxy: SIM
-Início da checagem: 2026-09-04 17:47:25
+Início da checagem: 2026-09-04 17:50:46
 Tempo de resposta: 0.0s
 HTTP Status Code: None
 Content-Type: None
 Tamanho da resposta: N/A
 STATUS FINAL ATRIBUÍDO: Offline
-❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 Traceback completo:
 Traceback (most recent call last):
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 423, in parse_url
@@ -1329,7 +1329,7 @@ Traceback (most recent call last):
     parsed = parse_url(url)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 449, in parse_url
     raise LocationParseError(source_url) from e
-urllib3.exceptions.LocationParseError: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+urllib3.exceptions.LocationParseError: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 During handling of the above exception, another exception occurred:
 
@@ -1344,20 +1344,20 @@ Traceback (most recent call last):
     r = adapter.send(request, **kwargs)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/requests/adapters.py", line 614, in send
     raise InvalidURL(e, request=request)
-requests.exceptions.InvalidURL: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+requests.exceptions.InvalidURL: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 
 ----------------------------------------------------------------------------------------------------
 [30/44] FONTE: Fonte U40
 URL: http://case2.lat/player_api.php?&username=961386894&password=118897421
 Usou Proxy: SIM
-Início da checagem: 2026-09-04 17:47:25
+Início da checagem: 2026-09-04 17:50:46
 Tempo de resposta: 0.0s
 HTTP Status Code: None
 Content-Type: None
 Tamanho da resposta: N/A
 STATUS FINAL ATRIBUÍDO: Offline
-❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 Traceback completo:
 Traceback (most recent call last):
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 423, in parse_url
@@ -1375,7 +1375,7 @@ Traceback (most recent call last):
     parsed = parse_url(url)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 449, in parse_url
     raise LocationParseError(source_url) from e
-urllib3.exceptions.LocationParseError: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+urllib3.exceptions.LocationParseError: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 During handling of the above exception, another exception occurred:
 
@@ -1390,20 +1390,20 @@ Traceback (most recent call last):
     r = adapter.send(request, **kwargs)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/requests/adapters.py", line 614, in send
     raise InvalidURL(e, request=request)
-requests.exceptions.InvalidURL: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+requests.exceptions.InvalidURL: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 
 ----------------------------------------------------------------------------------------------------
 [31/44] FONTE: Fonte U41
 URL: http://case2.lat/player_api.php?&username=718423457&password=539143340
 Usou Proxy: SIM
-Início da checagem: 2026-09-04 17:47:25
+Início da checagem: 2026-09-04 17:50:46
 Tempo de resposta: 0.0s
 HTTP Status Code: None
 Content-Type: None
 Tamanho da resposta: N/A
 STATUS FINAL ATRIBUÍDO: Offline
-❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 Traceback completo:
 Traceback (most recent call last):
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 423, in parse_url
@@ -1421,7 +1421,7 @@ Traceback (most recent call last):
     parsed = parse_url(url)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 449, in parse_url
     raise LocationParseError(source_url) from e
-urllib3.exceptions.LocationParseError: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+urllib3.exceptions.LocationParseError: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 During handling of the above exception, another exception occurred:
 
@@ -1436,20 +1436,20 @@ Traceback (most recent call last):
     r = adapter.send(request, **kwargs)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/requests/adapters.py", line 614, in send
     raise InvalidURL(e, request=request)
-requests.exceptions.InvalidURL: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+requests.exceptions.InvalidURL: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 
 ----------------------------------------------------------------------------------------------------
 [32/44] FONTE: Fonte U42
 URL: http://case2.lat/player_api.php?&username=175473583&password=643238922
 Usou Proxy: SIM
-Início da checagem: 2026-09-04 17:47:25
+Início da checagem: 2026-09-04 17:50:46
 Tempo de resposta: 0.0s
 HTTP Status Code: None
 Content-Type: None
 Tamanho da resposta: N/A
 STATUS FINAL ATRIBUÍDO: Offline
-❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 Traceback completo:
 Traceback (most recent call last):
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 423, in parse_url
@@ -1467,7 +1467,7 @@ Traceback (most recent call last):
     parsed = parse_url(url)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 449, in parse_url
     raise LocationParseError(source_url) from e
-urllib3.exceptions.LocationParseError: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+urllib3.exceptions.LocationParseError: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 During handling of the above exception, another exception occurred:
 
@@ -1482,20 +1482,20 @@ Traceback (most recent call last):
     r = adapter.send(request, **kwargs)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/requests/adapters.py", line 614, in send
     raise InvalidURL(e, request=request)
-requests.exceptions.InvalidURL: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+requests.exceptions.InvalidURL: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 
 ----------------------------------------------------------------------------------------------------
 [33/44] FONTE: Fonte U44
 URL: http://case2.lat/player_api.php?&username=753685114&password=689268878
 Usou Proxy: SIM
-Início da checagem: 2026-09-04 17:47:25
+Início da checagem: 2026-09-04 17:50:46
 Tempo de resposta: 0.0s
 HTTP Status Code: None
 Content-Type: None
 Tamanho da resposta: N/A
 STATUS FINAL ATRIBUÍDO: Offline
-❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 Traceback completo:
 Traceback (most recent call last):
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 423, in parse_url
@@ -1513,7 +1513,7 @@ Traceback (most recent call last):
     parsed = parse_url(url)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 449, in parse_url
     raise LocationParseError(source_url) from e
-urllib3.exceptions.LocationParseError: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+urllib3.exceptions.LocationParseError: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 During handling of the above exception, another exception occurred:
 
@@ -1528,20 +1528,20 @@ Traceback (most recent call last):
     r = adapter.send(request, **kwargs)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/requests/adapters.py", line 614, in send
     raise InvalidURL(e, request=request)
-requests.exceptions.InvalidURL: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+requests.exceptions.InvalidURL: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 
 ----------------------------------------------------------------------------------------------------
 [34/44] FONTE: Fonte U45
 URL: http://case2.lat/player_api.php?&username=648866758&password=722737417
 Usou Proxy: SIM
-Início da checagem: 2026-09-04 17:47:25
+Início da checagem: 2026-09-04 17:50:46
 Tempo de resposta: 0.0s
 HTTP Status Code: None
 Content-Type: None
 Tamanho da resposta: N/A
 STATUS FINAL ATRIBUÍDO: Offline
-❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 Traceback completo:
 Traceback (most recent call last):
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 423, in parse_url
@@ -1559,7 +1559,7 @@ Traceback (most recent call last):
     parsed = parse_url(url)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 449, in parse_url
     raise LocationParseError(source_url) from e
-urllib3.exceptions.LocationParseError: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+urllib3.exceptions.LocationParseError: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 During handling of the above exception, another exception occurred:
 
@@ -1574,20 +1574,20 @@ Traceback (most recent call last):
     r = adapter.send(request, **kwargs)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/requests/adapters.py", line 614, in send
     raise InvalidURL(e, request=request)
-requests.exceptions.InvalidURL: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+requests.exceptions.InvalidURL: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 
 ----------------------------------------------------------------------------------------------------
 [35/44] FONTE: Fonte U46
 URL: http://case2.lat/player_api.php?&username=399392844&password=784365638
 Usou Proxy: SIM
-Início da checagem: 2026-09-04 17:47:25
+Início da checagem: 2026-09-04 17:50:46
 Tempo de resposta: 0.0s
 HTTP Status Code: None
 Content-Type: None
 Tamanho da resposta: N/A
 STATUS FINAL ATRIBUÍDO: Offline
-❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 Traceback completo:
 Traceback (most recent call last):
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 423, in parse_url
@@ -1605,7 +1605,7 @@ Traceback (most recent call last):
     parsed = parse_url(url)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 449, in parse_url
     raise LocationParseError(source_url) from e
-urllib3.exceptions.LocationParseError: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+urllib3.exceptions.LocationParseError: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 During handling of the above exception, another exception occurred:
 
@@ -1620,20 +1620,20 @@ Traceback (most recent call last):
     r = adapter.send(request, **kwargs)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/requests/adapters.py", line 614, in send
     raise InvalidURL(e, request=request)
-requests.exceptions.InvalidURL: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+requests.exceptions.InvalidURL: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 
 ----------------------------------------------------------------------------------------------------
 [36/44] FONTE: Fonte U47
 URL: http://case2.lat/player_api.php?&username=858257510&password=975651644
 Usou Proxy: SIM
-Início da checagem: 2026-09-04 17:47:25
+Início da checagem: 2026-09-04 17:50:46
 Tempo de resposta: 0.0s
 HTTP Status Code: None
 Content-Type: None
 Tamanho da resposta: N/A
 STATUS FINAL ATRIBUÍDO: Offline
-❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 Traceback completo:
 Traceback (most recent call last):
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 423, in parse_url
@@ -1651,7 +1651,7 @@ Traceback (most recent call last):
     parsed = parse_url(url)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 449, in parse_url
     raise LocationParseError(source_url) from e
-urllib3.exceptions.LocationParseError: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+urllib3.exceptions.LocationParseError: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 During handling of the above exception, another exception occurred:
 
@@ -1666,20 +1666,20 @@ Traceback (most recent call last):
     r = adapter.send(request, **kwargs)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/requests/adapters.py", line 614, in send
     raise InvalidURL(e, request=request)
-requests.exceptions.InvalidURL: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+requests.exceptions.InvalidURL: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 
 ----------------------------------------------------------------------------------------------------
 [37/44] FONTE: Fonte U48
 URL: http://case2.lat/player_api.php?&username=223141736&password=496767276
 Usou Proxy: SIM
-Início da checagem: 2026-09-04 17:47:25
+Início da checagem: 2026-09-04 17:50:46
 Tempo de resposta: 0.0s
 HTTP Status Code: None
 Content-Type: None
 Tamanho da resposta: N/A
 STATUS FINAL ATRIBUÍDO: Offline
-❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 Traceback completo:
 Traceback (most recent call last):
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 423, in parse_url
@@ -1697,7 +1697,7 @@ Traceback (most recent call last):
     parsed = parse_url(url)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 449, in parse_url
     raise LocationParseError(source_url) from e
-urllib3.exceptions.LocationParseError: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+urllib3.exceptions.LocationParseError: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 During handling of the above exception, another exception occurred:
 
@@ -1712,20 +1712,20 @@ Traceback (most recent call last):
     r = adapter.send(request, **kwargs)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/requests/adapters.py", line 614, in send
     raise InvalidURL(e, request=request)
-requests.exceptions.InvalidURL: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+requests.exceptions.InvalidURL: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 
 ----------------------------------------------------------------------------------------------------
 [38/44] FONTE: Fonte U49
 URL: http://case2.lat/player_api.php?&username=777951153&password=939114817
 Usou Proxy: SIM
-Início da checagem: 2026-09-04 17:47:25
+Início da checagem: 2026-09-04 17:50:46
 Tempo de resposta: 0.0s
 HTTP Status Code: None
 Content-Type: None
 Tamanho da resposta: N/A
 STATUS FINAL ATRIBUÍDO: Offline
-❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 Traceback completo:
 Traceback (most recent call last):
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 423, in parse_url
@@ -1743,7 +1743,7 @@ Traceback (most recent call last):
     parsed = parse_url(url)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 449, in parse_url
     raise LocationParseError(source_url) from e
-urllib3.exceptions.LocationParseError: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+urllib3.exceptions.LocationParseError: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 During handling of the above exception, another exception occurred:
 
@@ -1758,20 +1758,20 @@ Traceback (most recent call last):
     r = adapter.send(request, **kwargs)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/requests/adapters.py", line 614, in send
     raise InvalidURL(e, request=request)
-requests.exceptions.InvalidURL: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+requests.exceptions.InvalidURL: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 
 ----------------------------------------------------------------------------------------------------
 [39/44] FONTE: Fonte U50
 URL: http://case2.lat/player_api.php?&username=971812357&password=246137274
 Usou Proxy: SIM
-Início da checagem: 2026-09-04 17:47:25
+Início da checagem: 2026-09-04 17:50:46
 Tempo de resposta: 0.0s
 HTTP Status Code: None
 Content-Type: None
 Tamanho da resposta: N/A
 STATUS FINAL ATRIBUÍDO: Offline
-❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 Traceback completo:
 Traceback (most recent call last):
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 423, in parse_url
@@ -1789,7 +1789,7 @@ Traceback (most recent call last):
     parsed = parse_url(url)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 449, in parse_url
     raise LocationParseError(source_url) from e
-urllib3.exceptions.LocationParseError: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+urllib3.exceptions.LocationParseError: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 During handling of the above exception, another exception occurred:
 
@@ -1804,20 +1804,20 @@ Traceback (most recent call last):
     r = adapter.send(request, **kwargs)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/requests/adapters.py", line 614, in send
     raise InvalidURL(e, request=request)
-requests.exceptions.InvalidURL: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+requests.exceptions.InvalidURL: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 
 ----------------------------------------------------------------------------------------------------
 [40/44] FONTE: Fonte U51
 URL: http://case2.lat/player_api.php?&username=988493659&password=241861732
 Usou Proxy: SIM
-Início da checagem: 2026-09-04 17:47:25
+Início da checagem: 2026-09-04 17:50:46
 Tempo de resposta: 0.0s
 HTTP Status Code: None
 Content-Type: None
 Tamanho da resposta: N/A
 STATUS FINAL ATRIBUÍDO: Offline
-❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 Traceback completo:
 Traceback (most recent call last):
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 423, in parse_url
@@ -1835,7 +1835,7 @@ Traceback (most recent call last):
     parsed = parse_url(url)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 449, in parse_url
     raise LocationParseError(source_url) from e
-urllib3.exceptions.LocationParseError: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+urllib3.exceptions.LocationParseError: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 During handling of the above exception, another exception occurred:
 
@@ -1850,20 +1850,20 @@ Traceback (most recent call last):
     r = adapter.send(request, **kwargs)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/requests/adapters.py", line 614, in send
     raise InvalidURL(e, request=request)
-requests.exceptions.InvalidURL: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+requests.exceptions.InvalidURL: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 
 ----------------------------------------------------------------------------------------------------
 [41/44] FONTE: Fonte U52
 URL: http://case2.lat/player_api.php?&username=943285414&password=493936454
 Usou Proxy: SIM
-Início da checagem: 2026-09-04 17:47:25
+Início da checagem: 2026-09-04 17:50:46
 Tempo de resposta: 0.0s
 HTTP Status Code: None
 Content-Type: None
 Tamanho da resposta: N/A
 STATUS FINAL ATRIBUÍDO: Offline
-❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 Traceback completo:
 Traceback (most recent call last):
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 423, in parse_url
@@ -1881,7 +1881,7 @@ Traceback (most recent call last):
     parsed = parse_url(url)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 449, in parse_url
     raise LocationParseError(source_url) from e
-urllib3.exceptions.LocationParseError: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+urllib3.exceptions.LocationParseError: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 During handling of the above exception, another exception occurred:
 
@@ -1896,20 +1896,20 @@ Traceback (most recent call last):
     r = adapter.send(request, **kwargs)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/requests/adapters.py", line 614, in send
     raise InvalidURL(e, request=request)
-requests.exceptions.InvalidURL: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+requests.exceptions.InvalidURL: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 
 ----------------------------------------------------------------------------------------------------
 [42/44] FONTE: Fonte U53
 URL: http://case2.lat/player_api.php?&username=872689987&password=824513989
 Usou Proxy: SIM
-Início da checagem: 2026-09-04 17:47:25
+Início da checagem: 2026-09-04 17:50:46
 Tempo de resposta: 0.0s
 HTTP Status Code: None
 Content-Type: None
 Tamanho da resposta: N/A
 STATUS FINAL ATRIBUÍDO: Offline
-❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 Traceback completo:
 Traceback (most recent call last):
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 423, in parse_url
@@ -1927,7 +1927,7 @@ Traceback (most recent call last):
     parsed = parse_url(url)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 449, in parse_url
     raise LocationParseError(source_url) from e
-urllib3.exceptions.LocationParseError: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+urllib3.exceptions.LocationParseError: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 During handling of the above exception, another exception occurred:
 
@@ -1942,20 +1942,20 @@ Traceback (most recent call last):
     r = adapter.send(request, **kwargs)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/requests/adapters.py", line 614, in send
     raise InvalidURL(e, request=request)
-requests.exceptions.InvalidURL: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+requests.exceptions.InvalidURL: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 
 ----------------------------------------------------------------------------------------------------
 [43/44] FONTE: Fonte U54
 URL: http://case2.lat/player_api.php?&username=338365128&password=769491152
 Usou Proxy: SIM
-Início da checagem: 2026-09-04 17:47:25
+Início da checagem: 2026-09-04 17:50:46
 Tempo de resposta: 0.0s
 HTTP Status Code: None
 Content-Type: None
 Tamanho da resposta: N/A
 STATUS FINAL ATRIBUÍDO: Offline
-❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 Traceback completo:
 Traceback (most recent call last):
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 423, in parse_url
@@ -1973,7 +1973,7 @@ Traceback (most recent call last):
     parsed = parse_url(url)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 449, in parse_url
     raise LocationParseError(source_url) from e
-urllib3.exceptions.LocationParseError: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+urllib3.exceptions.LocationParseError: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 During handling of the above exception, another exception occurred:
 
@@ -1988,20 +1988,20 @@ Traceback (most recent call last):
     r = adapter.send(request, **kwargs)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/requests/adapters.py", line 614, in send
     raise InvalidURL(e, request=request)
-requests.exceptions.InvalidURL: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+requests.exceptions.InvalidURL: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 
 ----------------------------------------------------------------------------------------------------
 [44/44] FONTE: Fonte U55
 URL: http://case2.lat/player_api.php?&username=754551879&password=531553919
 Usou Proxy: SIM
-Início da checagem: 2026-09-04 17:47:25
+Início da checagem: 2026-09-04 17:50:46
 Tempo de resposta: 0.0s
 HTTP Status Code: None
 Content-Type: None
 Tamanho da resposta: N/A
 STATUS FINAL ATRIBUÍDO: Offline
-❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+❌ EXCEÇÃO: InvalidURL -> Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 Traceback completo:
 Traceback (most recent call last):
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 423, in parse_url
@@ -2019,7 +2019,7 @@ Traceback (most recent call last):
     parsed = parse_url(url)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/url.py", line 449, in parse_url
     raise LocationParseError(source_url) from e
-urllib3.exceptions.LocationParseError: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+urllib3.exceptions.LocationParseError: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 During handling of the above exception, another exception occurred:
 
@@ -2034,7 +2034,7 @@ Traceback (most recent call last):
     r = adapter.send(request, **kwargs)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/requests/adapters.py", line 614, in send
     raise InvalidURL(e, request=request)
-requests.exceptions.InvalidURL: Failed to parse: socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d
+requests.exceptions.InvalidURL: Failed to parse: socks5h://Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d:45.224.240.53:1080
 
 
 ====================================================================================================
