@@ -98,24 +98,82 @@ ASSINATURAS_NGINX_DEFAULT = [
 # ==========================================
 MAX_WORKERS = 15          # quantas fontes verificar em paralelo
 TIMEOUT_PRINCIPAL = 12     # timeout (s) da tentativa principal
-TIMEOUT_ALTERNATIVO = 8    # timeout (s) das tentativas alternativas (https / porta 8080)
+TIMEOUT_ALTERNATIVO = 5    # timeout (s) de cada tentativa alternativa (https / portas extras)
 ESPERA_RETRY_404 = 0.8     # espera (s) antes de repetir um 404 (possível falha transitória)
 
 # ==========================================
 # PROXY / VPN OPCIONAL (acesso "do Brasil")
 # ==========================================
-# Se algumas fontes bloqueiam por localização/IP de datacenter, preencha a URL
-# do seu proxy aqui embaixo (contratado com IP brasileiro, por exemplo):
-#   IPTV_PROXY = "http://usuario:senha@ip_do_proxy:porta"
-# Deixe como string vazia "" para não usar proxy nenhum — o script funciona
-# normalmente do mesmo jeito, sem quebrar nada.
+# CONFIRMADO no debug: agkcl2.cc e cavalo.cc funcionam no navegador (IP do Brasil)
+# mas não funcionam rodando no GitHub Actions (IP de datacenter fora do Brasil).
+# Isso é bloqueio por geolocalização de IP no servidor — não tem como contornar
+# só com headers, PRECISA sair de um IP brasileiro (proxy/VPN pago).
+#
+# Preencha a URL do proxy aqui (ex: "http://usuario:senha@ip_do_proxy:porta").
+# Deixe "" (vazio) para não usar proxy nenhum.
 IPTV_PROXY = ""  # <<< PREENCHA AQUI SE QUISER USAR PROXY, OU DEIXE VAZIO
+
+# Opcional: se quiser usar o proxy SÓ em alguns hosts (economiza tráfego pago),
+# liste os domínios aqui. Deixe a lista VAZIA para usar o proxy em TUDO.
+# Exemplo: PROXY_SOMENTE_HOSTS = ["agkcl2.cc", "cavalo.cc"]
+PROXY_SOMENTE_HOSTS = []
 
 IPTV_PROXY = IPTV_PROXY.strip()
 PROXIES = {"http": IPTV_PROXY, "https": IPTV_PROXY} if IPTV_PROXY else None
 
+
+def proxy_para_url(url):
+    """Decide se essa URL específica deve usar o proxy configurado."""
+    if not PROXIES:
+        return None
+    if not PROXY_SOMENTE_HOSTS:
+        return PROXIES
+    host = (urlsplit(url).hostname or "").lower()
+    for alvo in PROXY_SOMENTE_HOSTS:
+        if alvo.lower() in host:
+            return PROXIES
+    return None
+
+
 _thread_local = threading.local()
 _print_lock = threading.Lock()
+
+# Cabeçalhos completos, imitando um Chrome real (ajuda em bot-fight-mode simples
+# baseado só em headers; NÃO resolve bloqueio por geolocalização de IP).
+HEADERS_NAVEGADOR = {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
+    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8',
+    'Accept-Language': 'pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7',
+    'Accept-Encoding': 'gzip, deflate, br',
+    'Connection': 'keep-alive',
+    'Upgrade-Insecure-Requests': '1',
+    'Sec-Fetch-Dest': 'document',
+    'Sec-Fetch-Mode': 'navigate',
+    'Sec-Fetch-Site': 'none',
+    'Sec-Fetch-User': '?1',
+    'Cache-Control': 'max-age=0',
+}
+
+
+def aquecer_sessao_se_necessario(sessao, url, proxies):
+    """Visita a home do host antes da API, como um navegador faria ao abrir o
+    site pela primeira vez. Ajuda em proteções simples baseadas em cookie/JS
+    challenge leve. Roda no máximo 1 vez por host por thread."""
+    aquecidos = getattr(_thread_local, "hosts_aquecidos", None)
+    if aquecidos is None:
+        aquecidos = set()
+        _thread_local.hosts_aquecidos = aquecidos
+
+    partes = urlsplit(url)
+    host_key = f"{partes.scheme}://{partes.netloc}"
+    if host_key in aquecidos:
+        return
+    aquecidos.add(host_key)
+
+    try:
+        sessao.get(host_key + "/", headers=HEADERS_NAVEGADOR, timeout=6, proxies=proxies)
+    except Exception:
+        pass  # aquecimento é best-effort; se falhar, segue pro request real mesmo assim
 
 
 def obter_lista_links():
@@ -172,6 +230,10 @@ def eh_pagina_nginx_default(texto, content_type):
     return False
 
 
+# Portas comumente usadas por painéis Xtream Codes além da porta original
+PORTAS_ALTERNATIVAS = [8080, 8880, 2095, 2052, 2082, 2086]
+
+
 def gerar_urls_alternativas(url_original):
     alternativas = []
     partes = urlsplit(url_original)
@@ -181,34 +243,79 @@ def gerar_urls_alternativas(url_original):
         alternativas.append(("HTTPS (mesma porta)", https_url))
 
     host_sem_porta = partes.hostname or ""
-    if host_sem_porta and (partes.port is None or partes.port != 8080):
-        netloc_8080 = host_sem_porta + ":8080"
-        url_8080 = urlunsplit((partes.scheme, netloc_8080, partes.path, partes.query, partes.fragment))
-        alternativas.append(("Porta 8080", url_8080))
+    if host_sem_porta:
+        for porta in PORTAS_ALTERNATIVAS:
+            if partes.port == porta:
+                continue
+            netloc = f"{host_sem_porta}:{porta}"
+            url_alt = urlunsplit((partes.scheme, netloc, partes.path, partes.query, partes.fragment))
+            alternativas.append((f"Porta {porta}", url_alt))
 
     return alternativas
 
 
+def _criar_retry_seguro(total):
+    """Cria um objeto Retry que NUNCA obedece o header 'Retry-After' do servidor.
+
+    Motivo: alguns hosts atrás de Cloudflare (cavalo.cc, case2.lat, etc.) respondem
+    521 (origem fora do ar) e às vezes mandam 'Retry-After: 120'. Por padrão o
+    urllib3 obedece isso e literalmente PARA a thread por 2 minutos — foi essa a
+    causa dos travamentos gigantes no relatório anterior. Aqui a gente desliga
+    esse comportamento e limita qualquer backoff a poucos segundos.
+    """
+    retry = Retry(
+        total=total,
+        connect=total,
+        read=total,
+        backoff_factor=0.3,
+        status_forcelist=[429, 500, 502, 503, 504, 520, 521, 522, 523, 524],
+        allowed_methods=frozenset(['GET']),
+        respect_retry_after_header=False,  # <-- ESSENCIAL: ignora "espere 120s"
+    )
+    # Limita o teto do backoff exponencial, cobrindo versões antigas e novas do urllib3.
+    try:
+        retry.backoff_max = 3
+    except Exception:
+        pass
+    try:
+        retry.BACKOFF_MAX = 3
+    except Exception:
+        pass
+    return retry
+
+
 def obter_sessao_da_thread():
-    """Cada thread do pool tem sua própria Session (evita problemas de concorrência
-    e ainda reaproveita conexões dentro da mesma thread)."""
+    """Sessão 'principal' de cada thread: tem 1 retry automático para falhas
+    transitórias reais (5xx passageiro), mas nunca trava por Retry-After."""
     sessao = getattr(_thread_local, "sessao", None)
     if sessao is None:
         sessao = requests.Session()
-        retry = Retry(
-            total=1,
-            connect=1,
-            read=1,
-            backoff_factor=0.4,
-            status_forcelist=[429, 500, 502, 503, 504, 520, 521, 522, 523, 524],
-            allowed_methods=frozenset(['GET']),
+        adapter = HTTPAdapter(
+            max_retries=_criar_retry_seguro(total=1),
+            pool_connections=MAX_WORKERS,
+            pool_maxsize=MAX_WORKERS,
         )
-        adapter = HTTPAdapter(max_retries=retry, pool_connections=MAX_WORKERS, pool_maxsize=MAX_WORKERS)
         sessao.mount("http://", adapter)
         sessao.mount("https://", adapter)
-        if PROXIES:
-            sessao.proxies.update(PROXIES)
         _thread_local.sessao = sessao
+    return sessao
+
+
+def obter_sessao_exploratoria_da_thread():
+    """Sessão usada só para tentativas alternativas (https, portas extras).
+    Zero retries automáticos aqui: se falhar, a gente mesmo decide o próximo
+    passo — assim nenhuma dessas tentativas "de sorte" pode travar o pool."""
+    sessao = getattr(_thread_local, "sessao_exploratoria", None)
+    if sessao is None:
+        sessao = requests.Session()
+        adapter = HTTPAdapter(
+            max_retries=_criar_retry_seguro(total=0),
+            pool_connections=MAX_WORKERS,
+            pool_maxsize=MAX_WORKERS,
+        )
+        sessao.mount("http://", adapter)
+        sessao.mount("https://", adapter)
+        _thread_local.sessao_exploratoria = sessao
     return sessao
 
 
@@ -274,9 +381,12 @@ def verificar_fonte(idx, nome_custom, url, headers):
     t0 = time.time()
     linha_resultado = None
     msg_console = None
+    proxy_desta_url = proxy_para_url(url)
+
+    aquecer_sessao_se_necessario(sessao, url, proxy_desta_url)
 
     try:
-        response = sessao.get(url, headers=headers, timeout=TIMEOUT_PRINCIPAL)
+        response = sessao.get(url, headers=headers, timeout=TIMEOUT_PRINCIPAL, proxies=proxy_desta_url)
         debug["tempo_resposta"] = round(time.time() - t0, 2)
         debug["http_status"] = response.status_code
         debug["content_type"] = response.headers.get('Content-Type', 'N/A')
@@ -290,10 +400,12 @@ def verificar_fonte(idx, nome_custom, url, headers):
                 debug["observacoes"].append(
                     "Resposta inicial era página padrão do nginx (sem vhost/API configurada). Tentando URLs alternativas..."
                 )
+                sessao_exp = obter_sessao_exploratoria_da_thread()
                 sucesso_alt = False
                 for label, url_alt in gerar_urls_alternativas(url):
                     try:
-                        resp_alt = sessao.get(url_alt, headers=headers, timeout=TIMEOUT_ALTERNATIVO)
+                        proxy_alt = proxy_para_url(url_alt)
+                        resp_alt = sessao_exp.get(url_alt, headers=headers, timeout=TIMEOUT_ALTERNATIVO, proxies=proxy_alt)
                         ct_alt = resp_alt.headers.get('Content-Type', 'N/A')
                         if resp_alt.status_code == 200 and not eh_pagina_nginx_default(resp_alt.text, ct_alt):
                             ok, linha = processar_resposta_json(resp_alt, debug)
@@ -351,7 +463,9 @@ def verificar_fonte(idx, nome_custom, url, headers):
         elif response.status_code == 404:
             time.sleep(ESPERA_RETRY_404)
             try:
-                resp_retry = sessao.get(url, headers=headers, timeout=TIMEOUT_ALTERNATIVO)
+                resp_retry = obter_sessao_exploratoria_da_thread().get(
+                    url, headers=headers, timeout=TIMEOUT_ALTERNATIVO, proxies=proxy_desta_url
+                )
                 debug["tentativas"].append({"url": url, "resultado": f"Retry 404 -> HTTP {resp_retry.status_code}"})
                 if resp_retry.status_code == 200 and not eh_pagina_nginx_default(
                     resp_retry.text, resp_retry.headers.get('Content-Type', 'N/A')
@@ -416,11 +530,7 @@ def verificar_fonte(idx, nome_custom, url, headers):
 def analisar_links(lista_itens):
     print(f"\n🔎 Iniciando verificação de status (paralelo, {MAX_WORKERS} por vez)...\n")
 
-    headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8',
-        'Connection': 'keep-alive'
-    }
+    headers = HEADERS_NAVEGADOR
 
     resultados = {}
     debug_entries = {}
@@ -469,6 +579,10 @@ def gerar_debug_txt(debug_entries, duracao_total=None):
     if duracao_total is not None:
         linhas.append(f"Tempo total de verificação (paralelo): {duracao_total}s")
     linhas.append(f"Proxy utilizado: {'Sim (IPTV_PROXY definido)' if PROXIES else 'Não'}")
+    if PROXIES and PROXY_SOMENTE_HOSTS:
+        linhas.append(f"Proxy aplicado apenas aos hosts: {', '.join(PROXY_SOMENTE_HOSTS)}")
+    elif PROXIES:
+        linhas.append("Proxy aplicado a TODAS as fontes.")
     linhas.append("=" * 100)
     linhas.append("")
     linhas.append("RESUMO POR STATUS:")
