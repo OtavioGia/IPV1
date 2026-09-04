@@ -10,7 +10,9 @@ import subprocess
 import platform
 import math
 import time
+import threading
 import traceback
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from urllib.parse import urlsplit, urlunsplit
 from datetime import datetime, timedelta, timezone
 from PIL import Image, ImageDraw, ImageFont
@@ -91,6 +93,30 @@ ASSINATURAS_NGINX_DEFAULT = [
     "welcome to nginx",
 ]
 
+# ==========================================
+# CONFIG DE VELOCIDADE / REDE
+# ==========================================
+MAX_WORKERS = 15          # quantas fontes verificar em paralelo
+TIMEOUT_PRINCIPAL = 12     # timeout (s) da tentativa principal
+TIMEOUT_ALTERNATIVO = 8    # timeout (s) das tentativas alternativas (https / porta 8080)
+ESPERA_RETRY_404 = 0.8     # espera (s) antes de repetir um 404 (possível falha transitória)
+
+# ==========================================
+# PROXY / VPN OPCIONAL (acesso "do Brasil")
+# ==========================================
+# Se algumas fontes bloqueiam por localização/IP de datacenter, preencha a URL
+# do seu proxy aqui embaixo (contratado com IP brasileiro, por exemplo):
+#   IPTV_PROXY = "http://usuario:senha@ip_do_proxy:porta"
+# Deixe como string vazia "" para não usar proxy nenhum — o script funciona
+# normalmente do mesmo jeito, sem quebrar nada.
+IPTV_PROXY = ""  # <<< PREENCHA AQUI SE QUISER USAR PROXY, OU DEIXE VAZIO
+
+IPTV_PROXY = IPTV_PROXY.strip()
+PROXIES = {"http": IPTV_PROXY, "https": IPTV_PROXY} if IPTV_PROXY else None
+
+_thread_local = threading.local()
+_print_lock = threading.Lock()
+
 
 def obter_lista_links():
     lista_formatada = []
@@ -108,8 +134,11 @@ def obter_lista_links():
                 lista_formatada.append(("Desconhecido", url_limpa))
 
     print(f"✅ Carregados {len(lista_formatada)} itens da lista.")
+    if PROXIES:
+        print("🌐 Proxy configurado via IPTV_PROXY — todas as requisições vão passar por ele.")
+    else:
+        print("ℹ️  Nenhum proxy configurado (variável IPTV_PROXY vazia). Requisições diretas.")
 
-    # Detecta duplicados (mesma URL/credenciais usadas em nomes diferentes)
     vistos = {}
     for nome, url in lista_formatada:
         vistos.setdefault(url, []).append(nome)
@@ -132,7 +161,6 @@ def formatar_data(timestamp):
 
 
 def eh_pagina_nginx_default(texto, content_type):
-    """Detecta se a resposta é a página padrão do nginx (sem vhost/API configurada)."""
     if not texto:
         return False
     if content_type and 'json' in content_type.lower():
@@ -145,19 +173,13 @@ def eh_pagina_nginx_default(texto, content_type):
 
 
 def gerar_urls_alternativas(url_original):
-    """Gera variações de URL para tentar quando a original não retorna JSON válido:
-    1) trocar http -> https (mesma porta/host)
-    2) tentar porta 8080 explicitamente (comum em painéis Xtream)
-    """
     alternativas = []
     partes = urlsplit(url_original)
 
-    # 1) HTTPS na mesma URL
     if partes.scheme == "http":
         https_url = urlunsplit(("https",) + partes[1:])
         alternativas.append(("HTTPS (mesma porta)", https_url))
 
-    # 2) Porta 8080 explícita, mantendo o scheme original
     host_sem_porta = partes.hostname or ""
     if host_sem_porta and (partes.port is None or partes.port != 8080):
         netloc_8080 = host_sem_porta + ":8080"
@@ -167,27 +189,30 @@ def gerar_urls_alternativas(url_original):
     return alternativas
 
 
-def criar_sessao():
-    """Cria uma sessão com retry automático para erros transitórios de rede/servidor."""
-    sessao = requests.Session()
-    retry = Retry(
-        total=2,
-        connect=2,
-        read=2,
-        backoff_factor=0.7,
-        status_forcelist=[429, 500, 502, 503, 504, 520, 521, 522, 523, 524],
-        allowed_methods=frozenset(['GET']),
-    )
-    adapter = HTTPAdapter(max_retries=retry)
-    sessao.mount("http://", adapter)
-    sessao.mount("https://", adapter)
+def obter_sessao_da_thread():
+    """Cada thread do pool tem sua própria Session (evita problemas de concorrência
+    e ainda reaproveita conexões dentro da mesma thread)."""
+    sessao = getattr(_thread_local, "sessao", None)
+    if sessao is None:
+        sessao = requests.Session()
+        retry = Retry(
+            total=1,
+            connect=1,
+            read=1,
+            backoff_factor=0.4,
+            status_forcelist=[429, 500, 502, 503, 504, 520, 521, 522, 523, 524],
+            allowed_methods=frozenset(['GET']),
+        )
+        adapter = HTTPAdapter(max_retries=retry, pool_connections=MAX_WORKERS, pool_maxsize=MAX_WORKERS)
+        sessao.mount("http://", adapter)
+        sessao.mount("https://", adapter)
+        if PROXIES:
+            sessao.proxies.update(PROXIES)
+        _thread_local.sessao = sessao
     return sessao
 
 
 def processar_resposta_json(response, debug):
-    """Tenta interpretar a resposta como JSON de painel Xtream.
-    Retorna (sucesso, linha_dados) onde linha_dados é a lista pronta pra tabela,
-    ou (False, None) se não deu certo (deixa quem chamou decidir o status)."""
     try:
         data = response.json()
         debug["json_keys"] = list(data.keys())
@@ -222,8 +247,174 @@ def processar_resposta_json(response, debug):
         return False, None
 
 
+def verificar_fonte(idx, nome_custom, url, headers):
+    """Verifica uma única fonte. Roda dentro de uma thread do pool."""
+    sessao = obter_sessao_da_thread()
+
+    debug = {
+        "indice": idx,
+        "nome": nome_custom,
+        "url": url,
+        "inicio_ts": datetime.now().strftime('%Y-%m-%d %H:%M:%S'),
+        "tempo_resposta": None,
+        "http_status": None,
+        "content_type": None,
+        "tamanho_bytes": None,
+        "raw_preview": None,
+        "json_keys": None,
+        "user_info_keys": None,
+        "status_final": None,
+        "exception_tipo": None,
+        "exception_msg": None,
+        "traceback": None,
+        "observacoes": [],
+        "tentativas": []
+    }
+
+    t0 = time.time()
+    linha_resultado = None
+    msg_console = None
+
+    try:
+        response = sessao.get(url, headers=headers, timeout=TIMEOUT_PRINCIPAL)
+        debug["tempo_resposta"] = round(time.time() - t0, 2)
+        debug["http_status"] = response.status_code
+        debug["content_type"] = response.headers.get('Content-Type', 'N/A')
+        debug["tamanho_bytes"] = len(response.content)
+        debug["tentativas"].append({"url": url, "resultado": f"HTTP {response.status_code}"})
+
+        if response.status_code == 200:
+            debug["raw_preview"] = response.text[:800]
+
+            if eh_pagina_nginx_default(response.text, debug["content_type"]):
+                debug["observacoes"].append(
+                    "Resposta inicial era página padrão do nginx (sem vhost/API configurada). Tentando URLs alternativas..."
+                )
+                sucesso_alt = False
+                for label, url_alt in gerar_urls_alternativas(url):
+                    try:
+                        resp_alt = sessao.get(url_alt, headers=headers, timeout=TIMEOUT_ALTERNATIVO)
+                        ct_alt = resp_alt.headers.get('Content-Type', 'N/A')
+                        if resp_alt.status_code == 200 and not eh_pagina_nginx_default(resp_alt.text, ct_alt):
+                            ok, linha = processar_resposta_json(resp_alt, debug)
+                            debug["tentativas"].append({
+                                "url": url_alt,
+                                "resultado": f"{label} -> HTTP {resp_alt.status_code}, JSON OK" if ok else f"{label} -> HTTP {resp_alt.status_code}, falhou parse JSON"
+                            })
+                            if ok:
+                                debug["raw_preview"] = resp_alt.text[:800]
+                                debug["http_status"] = resp_alt.status_code
+                                debug["content_type"] = ct_alt
+                                linha_resultado = linha
+                                sucesso_alt = True
+                                msg_console = f"✅ OK via {label} ({linha[-1]})"
+                                break
+                        else:
+                            debug["tentativas"].append({
+                                "url": url_alt,
+                                "resultado": f"{label} -> HTTP {resp_alt.status_code}, ainda nginx/sem API"
+                            })
+                    except Exception as e_alt:
+                        debug["tentativas"].append({
+                            "url": url_alt,
+                            "resultado": f"{label} -> falhou: {type(e_alt).__name__}: {e_alt}"
+                        })
+
+                if not sucesso_alt:
+                    msg_console = "🌐 Painel Offline (Nginx)"
+                    debug["status_final"] = "Painel Offline (Nginx)"
+                    debug["observacoes"].append(
+                        "Nenhuma variação de URL (https, porta 8080) retornou API válida."
+                    )
+                    linha_resultado = ["-", "-", "-", "Painel Offline (Nginx)"]
+
+            else:
+                ok, linha = processar_resposta_json(response, debug)
+                if ok:
+                    status_txt = linha[-1]
+                    if status_txt == "Erro Login":
+                        msg_console = "❌ Erro Login"
+                    else:
+                        msg_console = f"✅ OK ({status_txt})"
+                    linha_resultado = linha
+                else:
+                    msg_console = "⚠️ Erro JSON"
+                    debug["status_final"] = "Erro JSON"
+                    linha_resultado = ["-", "-", "-", "Erro JSON"]
+
+        elif response.status_code == 403:
+            msg_console = "🚫 Bloqueado (IP)"
+            debug["status_final"] = "Bloq. IP"
+            debug["raw_preview"] = response.text[:800]
+            linha_resultado = ["-", "-", "-", "Bloq. IP"]
+
+        elif response.status_code == 404:
+            time.sleep(ESPERA_RETRY_404)
+            try:
+                resp_retry = sessao.get(url, headers=headers, timeout=TIMEOUT_ALTERNATIVO)
+                debug["tentativas"].append({"url": url, "resultado": f"Retry 404 -> HTTP {resp_retry.status_code}"})
+                if resp_retry.status_code == 200 and not eh_pagina_nginx_default(
+                    resp_retry.text, resp_retry.headers.get('Content-Type', 'N/A')
+                ):
+                    ok, linha = processar_resposta_json(resp_retry, debug)
+                    if ok:
+                        debug["raw_preview"] = resp_retry.text[:800]
+                        debug["http_status"] = resp_retry.status_code
+                        debug["content_type"] = resp_retry.headers.get('Content-Type', 'N/A')
+                        msg_console = f"✅ OK no retry ({linha[-1]})"
+                        linha_resultado = linha
+                if linha_resultado is None:
+                    msg_console = "❓ Não encontrado"
+                    debug["status_final"] = "Não Achou"
+                    debug["raw_preview"] = response.text[:800]
+                    linha_resultado = ["-", "-", "-", "Não Achou"]
+            except Exception:
+                msg_console = "❓ Não encontrado"
+                debug["status_final"] = "Não Achou"
+                debug["raw_preview"] = response.text[:800]
+                linha_resultado = ["-", "-", "-", "Não Achou"]
+
+        else:
+            msg_console = f"⚠️ Erro {response.status_code}"
+            debug["status_final"] = f"Erro {response.status_code}"
+            debug["raw_preview"] = response.text[:800]
+            linha_resultado = ["-", "-", "-", f"Erro {response.status_code}"]
+
+    except requests.exceptions.Timeout as e:
+        msg_console = "🔌 Falha Conexão (Timeout)"
+        debug["tempo_resposta"] = round(time.time() - t0, 2)
+        debug["status_final"] = "Offline"
+        debug["exception_tipo"] = "Timeout"
+        debug["exception_msg"] = str(e)
+        debug["traceback"] = traceback.format_exc()
+        linha_resultado = ["-", "-", "-", "Offline"]
+
+    except requests.exceptions.ConnectionError as e:
+        msg_console = "🔌 Falha Conexão (ConnectionError)"
+        debug["tempo_resposta"] = round(time.time() - t0, 2)
+        debug["status_final"] = "Offline"
+        debug["exception_tipo"] = "ConnectionError"
+        debug["exception_msg"] = str(e)
+        debug["traceback"] = traceback.format_exc()
+        linha_resultado = ["-", "-", "-", "Offline"]
+
+    except Exception as e:
+        msg_console = "🔌 Falha Conexão"
+        debug["tempo_resposta"] = round(time.time() - t0, 2)
+        debug["status_final"] = "Offline"
+        debug["exception_tipo"] = type(e).__name__
+        debug["exception_msg"] = str(e)
+        debug["traceback"] = traceback.format_exc()
+        linha_resultado = ["-", "-", "-", "Offline"]
+
+    with _print_lock:
+        print(f"[{idx:02d}] {nome_custom}: {msg_console}")
+
+    return idx, nome_custom, linha_resultado, debug
+
+
 def analisar_links(lista_itens):
-    print("\n🔎 Iniciando verificação de status...\n")
+    print(f"\n🔎 Iniciando verificação de status (paralelo, {MAX_WORKERS} por vez)...\n")
 
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
@@ -231,187 +422,34 @@ def analisar_links(lista_itens):
         'Connection': 'keep-alive'
     }
 
-    sessao = criar_sessao()
-    dados_finais = []
-    debug_entries = []
+    resultados = {}
+    debug_entries = {}
 
-    for idx, (nome_custom, url) in enumerate(lista_itens, start=1):
-        nome_exibicao = nome_custom
-        print(f"Verificando: {nome_exibicao}...", end=" ")
+    inicio_total = time.time()
 
-        debug = {
-            "indice": idx,
-            "nome": nome_exibicao,
-            "url": url,
-            "inicio_ts": datetime.now().strftime('%Y-%m-%d %H:%M:%S'),
-            "tempo_resposta": None,
-            "http_status": None,
-            "content_type": None,
-            "tamanho_bytes": None,
-            "raw_preview": None,
-            "json_keys": None,
-            "user_info_keys": None,
-            "status_final": None,
-            "exception_tipo": None,
-            "exception_msg": None,
-            "traceback": None,
-            "observacoes": [],
-            "tentativas": []  # lista de dicts: {url, resultado}
+    with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
+        futures = {
+            executor.submit(verificar_fonte, idx, nome, url, headers): idx
+            for idx, (nome, url) in enumerate(lista_itens, start=1)
         }
+        for future in as_completed(futures):
+            idx, nome_custom, linha_resultado, debug = future.result()
+            resultados[idx] = [nome_custom] + linha_resultado
+            debug_entries[idx] = debug
 
-        t0 = time.time()
-        linha_resultado = None
+    duracao_total = round(time.time() - inicio_total, 1)
+    print(f"\n⏱️  Verificação concluída em {duracao_total}s.")
 
-        try:
-            response = sessao.get(url, headers=headers, timeout=20)
-            debug["tempo_resposta"] = round(time.time() - t0, 2)
-            debug["http_status"] = response.status_code
-            debug["content_type"] = response.headers.get('Content-Type', 'N/A')
-            debug["tamanho_bytes"] = len(response.content)
-            debug["tentativas"].append({
-                "url": url,
-                "resultado": f"HTTP {response.status_code}"
-            })
+    # Reordena pelo índice original (a lista chega fora de ordem por causa do paralelismo)
+    dados_finais = [resultados[i] for i in sorted(resultados.keys())]
+    debug_ordenado = [debug_entries[i] for i in sorted(debug_entries.keys())]
 
-            if response.status_code == 200:
-                debug["raw_preview"] = response.text[:800]
-
-                if eh_pagina_nginx_default(response.text, debug["content_type"]):
-                    # Página padrão do nginx = host sem API configurada nessa URL.
-                    # Tenta variações antes de desistir.
-                    debug["observacoes"].append(
-                        "Resposta inicial era página padrão do nginx (sem vhost/API configurada). Tentando URLs alternativas..."
-                    )
-                    sucesso_alt = False
-                    for label, url_alt in gerar_urls_alternativas(url):
-                        try:
-                            resp_alt = sessao.get(url_alt, headers=headers, timeout=15)
-                            ct_alt = resp_alt.headers.get('Content-Type', 'N/A')
-                            if resp_alt.status_code == 200 and not eh_pagina_nginx_default(resp_alt.text, ct_alt):
-                                ok, linha = processar_resposta_json(resp_alt, debug)
-                                debug["tentativas"].append({
-                                    "url": url_alt,
-                                    "resultado": f"{label} -> HTTP {resp_alt.status_code}, JSON OK" if ok else f"{label} -> HTTP {resp_alt.status_code}, falhou parse JSON"
-                                })
-                                if ok:
-                                    debug["raw_preview"] = resp_alt.text[:800]
-                                    debug["http_status"] = resp_alt.status_code
-                                    debug["content_type"] = ct_alt
-                                    linha_resultado = linha
-                                    sucesso_alt = True
-                                    print(f"✅ OK via {label} ({linha[-1]})")
-                                    break
-                            else:
-                                debug["tentativas"].append({
-                                    "url": url_alt,
-                                    "resultado": f"{label} -> HTTP {resp_alt.status_code}, ainda nginx/sem API"
-                                })
-                        except Exception as e_alt:
-                            debug["tentativas"].append({
-                                "url": url_alt,
-                                "resultado": f"{label} -> falhou: {type(e_alt).__name__}: {e_alt}"
-                            })
-
-                    if not sucesso_alt:
-                        print("🌐 Painel Offline (Nginx)")
-                        debug["status_final"] = "Painel Offline (Nginx)"
-                        debug["observacoes"].append(
-                            "Nenhuma variação de URL (https, porta 8080) retornou API válida. "
-                            "O host provavelmente não está mais servindo esse painel nesse domínio/porta."
-                        )
-                        linha_resultado = ["-", "-", "-", "Painel Offline (Nginx)"]
-
-                else:
-                    ok, linha = processar_resposta_json(response, debug)
-                    if ok:
-                        status_txt = linha[-1]
-                        emoji = "❌" if status_txt == "Erro Login" else "✅"
-                        print(f"{emoji} {'Erro Login' if status_txt == 'Erro Login' else f'OK ({status_txt})'}")
-                        linha_resultado = linha
-                    else:
-                        print("⚠️ Erro JSON")
-                        debug["status_final"] = "Erro JSON"
-                        linha_resultado = ["-", "-", "-", "Erro JSON"]
-
-            elif response.status_code == 403:
-                print("🚫 Bloqueado (IP)")
-                debug["status_final"] = "Bloq. IP"
-                debug["raw_preview"] = response.text[:800]
-                linha_resultado = ["-", "-", "-", "Bloq. IP"]
-
-            elif response.status_code == 404:
-                # Tenta uma segunda vez (pode ser falha transitória de CDN/edge)
-                print("❓ Não encontrado (retentando)...", end=" ")
-                time.sleep(1.5)
-                try:
-                    resp_retry = sessao.get(url, headers=headers, timeout=20)
-                    debug["tentativas"].append({
-                        "url": url,
-                        "resultado": f"Retry 404 -> HTTP {resp_retry.status_code}"
-                    })
-                    if resp_retry.status_code == 200 and not eh_pagina_nginx_default(
-                        resp_retry.text, resp_retry.headers.get('Content-Type', 'N/A')
-                    ):
-                        ok, linha = processar_resposta_json(resp_retry, debug)
-                        if ok:
-                            debug["raw_preview"] = resp_retry.text[:800]
-                            debug["http_status"] = resp_retry.status_code
-                            debug["content_type"] = resp_retry.headers.get('Content-Type', 'N/A')
-                            print(f"✅ OK no retry ({linha[-1]})")
-                            linha_resultado = linha
-                    if linha_resultado is None:
-                        print("❓ Não encontrado (confirmado)")
-                        debug["status_final"] = "Não Achou"
-                        debug["raw_preview"] = response.text[:800]
-                        linha_resultado = ["-", "-", "-", "Não Achou"]
-                except Exception:
-                    print("❓ Não encontrado (confirmado)")
-                    debug["status_final"] = "Não Achou"
-                    debug["raw_preview"] = response.text[:800]
-                    linha_resultado = ["-", "-", "-", "Não Achou"]
-
-            else:
-                print(f"⚠️ Erro {response.status_code}")
-                debug["status_final"] = f"Erro {response.status_code}"
-                debug["raw_preview"] = response.text[:800]
-                linha_resultado = ["-", "-", "-", f"Erro {response.status_code}"]
-
-        except requests.exceptions.Timeout as e:
-            print("🔌 Falha Conexão (Timeout)")
-            debug["tempo_resposta"] = round(time.time() - t0, 2)
-            debug["status_final"] = "Offline"
-            debug["exception_tipo"] = "Timeout"
-            debug["exception_msg"] = str(e)
-            debug["traceback"] = traceback.format_exc()
-            linha_resultado = ["-", "-", "-", "Offline"]
-
-        except requests.exceptions.ConnectionError as e:
-            print("🔌 Falha Conexão (ConnectionError)")
-            debug["tempo_resposta"] = round(time.time() - t0, 2)
-            debug["status_final"] = "Offline"
-            debug["exception_tipo"] = "ConnectionError"
-            debug["exception_msg"] = str(e)
-            debug["traceback"] = traceback.format_exc()
-            linha_resultado = ["-", "-", "-", "Offline"]
-
-        except Exception as e:
-            print("🔌 Falha Conexão")
-            debug["tempo_resposta"] = round(time.time() - t0, 2)
-            debug["status_final"] = "Offline"
-            debug["exception_tipo"] = type(e).__name__
-            debug["exception_msg"] = str(e)
-            debug["traceback"] = traceback.format_exc()
-            linha_resultado = ["-", "-", "-", "Offline"]
-
-        dados_finais.append([nome_exibicao] + linha_resultado)
-        debug_entries.append(debug)
-
-    gerar_debug_txt(debug_entries)
+    gerar_debug_txt(debug_ordenado, duracao_total)
 
     return dados_finais
 
 
-def gerar_debug_txt(debug_entries):
+def gerar_debug_txt(debug_entries, duracao_total=None):
     print(f"\n📝 Gerando relatório de debug detalhado: {DEBUG_FILE}")
 
     diferenca = timedelta(hours=-3)
@@ -428,6 +466,9 @@ def gerar_debug_txt(debug_entries):
     linhas.append("RELATÓRIO DE DEBUG - MONITORAMENTO IPTV")
     linhas.append(f"Execução em: {agora}")
     linhas.append(f"Total de fontes verificadas: {len(debug_entries)}")
+    if duracao_total is not None:
+        linhas.append(f"Tempo total de verificação (paralelo): {duracao_total}s")
+    linhas.append(f"Proxy utilizado: {'Sim (IPTV_PROXY definido)' if PROXIES else 'Não'}")
     linhas.append("=" * 100)
     linhas.append("")
     linhas.append("RESUMO POR STATUS:")
