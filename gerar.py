@@ -87,7 +87,7 @@ Fonte U55|http://case2.lat/player_api.php?&username=754551879&password=531553919
 # Nome do arquivo de debug
 DEBUG_FILE = "debug_relatorio.txt"
 
-# Assinaturas conhecidas de página padrão do nginx (host sem vhost/API configurada)
+# Assinaturas conhecidas de página padrão do nginx
 ASSINATURAS_NGINX_DEFAULT = [
     "Welcome to nginx!",
     "welcome to nginx",
@@ -96,31 +96,22 @@ ASSINATURAS_NGINX_DEFAULT = [
 # ==========================================
 # CONFIG DE VELOCIDADE / REDE
 # ==========================================
-MAX_WORKERS = 15          # quantas fontes verificar em paralelo
-TIMEOUT_PRINCIPAL = 12     # timeout (s) da tentativa principal
-TIMEOUT_ALTERNATIVO = 5    # timeout (s) de cada tentativa alternativa (https / portas extras)
-ESPERA_RETRY_404 = 0.8     # espera (s) antes de repetir um 404 (possível falha transitória)
+MAX_WORKERS = 15          
+TIMEOUT_PRINCIPAL = 12     
+TIMEOUT_ALTERNATIVO = 5    
+ESPERA_RETRY_404 = 0.8     
 
 # ==========================================
-# PROXY / VPN OPCIONAL (acesso "do Brasil")
+# PROXY / VPN (SOCKS5H)
 # ==========================================
-# CONFIRMADO no debug: agkcl2.cc e cavalo.cc funcionam no navegador (IP do Brasil)
-# mas não funcionam rodando no GitHub Actions (IP de datacenter fora do Brasil).
-# Isso é bloqueio por geolocalização de IP no servidor — não tem como contornar
-# só com headers, PRECISA sair de um IP brasileiro (proxy/VPN pago).
-#
-# Preencha a URL do proxy aqui (ex: "http://usuario:senha@ip_do_proxy:porta").
-# Deixe "" (vazio) para não usar proxy nenhum.
-IPTV_PROXY = ""  # <<< PREENCHA AQUI SE QUISER USAR PROXY, OU DEIXE VAZIO
+# Uso do socks5h obriga a resolução DNS a ser feita no proxy (essencial para Cloudflare/bloqueios)
+IPTV_PROXY = "socks5h://Otavio:TesteOta@45.224.240.53:1080"
 
-# Opcional: se quiser usar o proxy SÓ em alguns hosts (economiza tráfego pago),
-# liste os domínios aqui. Deixe a lista VAZIA para usar o proxy em TUDO.
-# Exemplo: PROXY_SOMENTE_HOSTS = ["agkcl2.cc", "cavalo.cc"]
+# Deixe vazio para aplicar o proxy em todos os hosts
 PROXY_SOMENTE_HOSTS = []
 
 IPTV_PROXY = IPTV_PROXY.strip()
 PROXIES = {"http": IPTV_PROXY, "https": IPTV_PROXY} if IPTV_PROXY else None
-
 
 def proxy_para_url(url):
     """Decide se essa URL específica deve usar o proxy configurado."""
@@ -134,21 +125,29 @@ def proxy_para_url(url):
             return PROXIES
     return None
 
+def testar_conexao_proxy():
+    """Faz um teste rápido no proxy para logar o IP de saída no console do GitHub."""
+    if not PROXIES:
+        print("ℹ️  Nenhum proxy configurado. Requisições sairão do IP local.")
+        return
+    
+    print("\n🔍 Testando conexão com o proxy SOCKS5...")
+    try:
+        # Testa o ipify para descobrir com qual IP estamos saindo
+        response = requests.get("https://api.ipify.org?format=json", proxies=PROXIES, timeout=10)
+        ip = response.json().get("ip")
+        print(f"✅ Proxy conectado com sucesso! O script está navegando com o IP: {ip}\n")
+    except Exception as e:
+        print(f"❌ ATENÇÃO: Falha ao conectar no proxy! Erro: {e}")
+        print("O script vai tentar rodar, mas pode dar erro de conexão em massa.\n")
 
 _thread_local = threading.local()
 _print_lock = threading.Lock()
 
-# Cabeçalhos completos, imitando um Chrome real (ajuda em bot-fight-mode simples
-# baseado só em headers; NÃO resolve bloqueio por geolocalização de IP).
 HEADERS_NAVEGADOR = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
     'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8',
     'Accept-Language': 'pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7',
-    # NÃO anunciar suporte a Brotli ('br') aqui: o ambiente do GitHub Actions não
-    # tem a lib de descompressão Brotli instalada. Se o servidor responder
-    # comprimido em Brotli e o requests não conseguir descomprimir, o resultado
-    # é lixo binário no lugar do JSON — foi exatamente isso que quebrou o
-    # case2.lat (que antes funcionava 100%) numa rodada anterior deste script.
     'Accept-Encoding': 'gzip, deflate',
     'Connection': 'keep-alive',
     'Upgrade-Insecure-Requests': '1',
@@ -159,11 +158,7 @@ HEADERS_NAVEGADOR = {
     'Cache-Control': 'max-age=0',
 }
 
-
 def aquecer_sessao_se_necessario(sessao, url, proxies):
-    """Visita a home do host antes da API, como um navegador faria ao abrir o
-    site pela primeira vez. Ajuda em proteções simples baseadas em cookie/JS
-    challenge leve. Roda no máximo 1 vez por host por thread."""
     aquecidos = getattr(_thread_local, "hosts_aquecidos", None)
     if aquecidos is None:
         aquecidos = set()
@@ -178,8 +173,7 @@ def aquecer_sessao_se_necessario(sessao, url, proxies):
     try:
         sessao.get(host_key + "/", headers=HEADERS_NAVEGADOR, timeout=6, proxies=proxies)
     except Exception:
-        pass  # aquecimento é best-effort; se falhar, segue pro request real mesmo assim
-
+        pass 
 
 def obter_lista_links():
     lista_formatada = []
@@ -197,11 +191,7 @@ def obter_lista_links():
                 lista_formatada.append(("Desconhecido", url_limpa))
 
     print(f"✅ Carregados {len(lista_formatada)} itens da lista.")
-    if PROXIES:
-        print("🌐 Proxy configurado via IPTV_PROXY — todas as requisições vão passar por ele.")
-    else:
-        print("ℹ️  Nenhum proxy configurado (variável IPTV_PROXY vazia). Requisições diretas.")
-
+    
     vistos = {}
     for nome, url in lista_formatada:
         vistos.setdefault(url, []).append(nome)
@@ -213,7 +203,6 @@ def obter_lista_links():
 
     return lista_formatada
 
-
 def formatar_data(timestamp):
     if not timestamp:
         return "---"
@@ -221,7 +210,6 @@ def formatar_data(timestamp):
         return datetime.fromtimestamp(int(timestamp)).strftime('%d/%m/%Y')
     except Exception:
         return "Indefinido"
-
 
 def eh_pagina_nginx_default(texto, content_type):
     if not texto:
@@ -234,10 +222,7 @@ def eh_pagina_nginx_default(texto, content_type):
             return True
     return False
 
-
-# Portas comumente usadas por painéis Xtream Codes além da porta original
 PORTAS_ALTERNATIVAS = [8080, 8880, 2095, 2052, 2082, 2086]
-
 
 def gerar_urls_alternativas(url_original):
     alternativas = []
@@ -258,16 +243,7 @@ def gerar_urls_alternativas(url_original):
 
     return alternativas
 
-
 def _criar_retry_seguro(total):
-    """Cria um objeto Retry que NUNCA obedece o header 'Retry-After' do servidor.
-
-    Motivo: alguns hosts atrás de Cloudflare (cavalo.cc, case2.lat, etc.) respondem
-    521 (origem fora do ar) e às vezes mandam 'Retry-After: 120'. Por padrão o
-    urllib3 obedece isso e literalmente PARA a thread por 2 minutos — foi essa a
-    causa dos travamentos gigantes no relatório anterior. Aqui a gente desliga
-    esse comportamento e limita qualquer backoff a poucos segundos.
-    """
     retry = Retry(
         total=total,
         connect=total,
@@ -275,9 +251,8 @@ def _criar_retry_seguro(total):
         backoff_factor=0.3,
         status_forcelist=[429, 500, 502, 503, 504, 520, 521, 522, 523, 524],
         allowed_methods=frozenset(['GET']),
-        respect_retry_after_header=False,  # <-- ESSENCIAL: ignora "espere 120s"
+        respect_retry_after_header=False,  
     )
-    # Limita o teto do backoff exponencial, cobrindo versões antigas e novas do urllib3.
     try:
         retry.backoff_max = 3
     except Exception:
@@ -288,10 +263,7 @@ def _criar_retry_seguro(total):
         pass
     return retry
 
-
 def obter_sessao_da_thread():
-    """Sessão 'principal' de cada thread: tem 1 retry automático para falhas
-    transitórias reais (5xx passageiro), mas nunca trava por Retry-After."""
     sessao = getattr(_thread_local, "sessao", None)
     if sessao is None:
         sessao = requests.Session()
@@ -305,11 +277,7 @@ def obter_sessao_da_thread():
         _thread_local.sessao = sessao
     return sessao
 
-
 def obter_sessao_exploratoria_da_thread():
-    """Sessão usada só para tentativas alternativas (https, portas extras).
-    Zero retries automáticos aqui: se falhar, a gente mesmo decide o próximo
-    passo — assim nenhuma dessas tentativas "de sorte" pode travar o pool."""
     sessao = getattr(_thread_local, "sessao_exploratoria", None)
     if sessao is None:
         sessao = requests.Session()
@@ -323,11 +291,7 @@ def obter_sessao_exploratoria_da_thread():
         _thread_local.sessao_exploratoria = sessao
     return sessao
 
-
 def parece_binario_nao_decodificado(response):
-    """Detecta o sintoma de conteúdo comprimido (ex: Brotli) que o requests não
-    conseguiu descomprimir: texto cheio de bytes de controle/não-imprimíveis,
-    normalmente sem nenhuma chance de ser JSON de verdade."""
     texto = response.text[:200] if response.text else ""
     if not texto:
         return False
@@ -335,13 +299,11 @@ def parece_binario_nao_decodificado(response):
     nao_imprimiveis += sum(1 for c in texto if ord(c) > 126)
     return (nao_imprimiveis / max(len(texto), 1)) > 0.25
 
-
 def processar_resposta_json(response, debug):
     if parece_binario_nao_decodificado(response):
         debug["status_final"] = "Erro Decodificação (binário)"
         debug["observacoes"].append(
-            "Resposta veio como bytes não-imprimíveis, típico de conteúdo comprimido "
-            "(ex: Brotli) que o requests não conseguiu descomprimir nesse ambiente. "
+            "Resposta veio como bytes não-imprimíveis. "
             f"Content-Encoding do servidor: {response.headers.get('Content-Encoding', 'N/A')}."
         )
         return False, None
@@ -378,15 +340,15 @@ def processar_resposta_json(response, debug):
         debug["traceback"] = traceback.format_exc()
         return False, None
 
-
 def verificar_fonte(idx, nome_custom, url, headers):
-    """Verifica uma única fonte. Roda dentro de uma thread do pool."""
     sessao = obter_sessao_da_thread()
+    proxy_desta_url = proxy_para_url(url)
 
     debug = {
         "indice": idx,
         "nome": nome_custom,
         "url": url,
+        "usou_proxy": bool(proxy_desta_url),
         "inicio_ts": datetime.now().strftime('%Y-%m-%d %H:%M:%S'),
         "tempo_resposta": None,
         "http_status": None,
@@ -406,7 +368,6 @@ def verificar_fonte(idx, nome_custom, url, headers):
     t0 = time.time()
     linha_resultado = None
     msg_console = None
-    proxy_desta_url = proxy_para_url(url)
 
     aquecer_sessao_se_necessario(sessao, url, proxy_desta_url)
 
@@ -423,7 +384,7 @@ def verificar_fonte(idx, nome_custom, url, headers):
 
             if eh_pagina_nginx_default(response.text, debug["content_type"]):
                 debug["observacoes"].append(
-                    "Resposta inicial era página padrão do nginx (sem vhost/API configurada). Tentando URLs alternativas..."
+                    "Resposta inicial era página padrão do nginx. Tentando URLs alternativas..."
                 )
                 sessao_exp = obter_sessao_exploratoria_da_thread()
                 sucesso_alt = False
@@ -460,28 +421,18 @@ def verificar_fonte(idx, nome_custom, url, headers):
                 if not sucesso_alt:
                     msg_console = "🌐 Painel Offline (Nginx)"
                     debug["status_final"] = "Painel Offline (Nginx)"
-                    debug["observacoes"].append(
-                        "Nenhuma variação de URL (https, porta 8080) retornou API válida."
-                    )
                     linha_resultado = ["-", "-", "-", "Painel Offline (Nginx)"]
 
             else:
                 ok, linha = processar_resposta_json(response, debug)
                 if ok:
                     status_txt = linha[-1]
-                    if status_txt == "Erro Login":
-                        msg_console = "❌ Erro Login"
-                    else:
-                        msg_console = f"✅ OK ({status_txt})"
+                    msg_console = "❌ Erro Login" if status_txt == "Erro Login" else f"✅ OK ({status_txt})"
                     linha_resultado = linha
                 else:
-                    status_ja_definido = debug.get("status_final")
-                    status_final = status_ja_definido or "Erro JSON"
+                    status_final = debug.get("status_final") or "Erro JSON"
                     debug["status_final"] = status_final
-                    if status_final == "Erro Decodificação (binário)":
-                        msg_console = "🧩 Erro Decodificação (binário)"
-                    else:
-                        msg_console = "⚠️ Erro JSON"
+                    msg_console = "🧩 Erro Decodificação (binário)" if status_final == "Erro Decodificação (binário)" else "⚠️ Erro JSON"
                     linha_resultado = ["-", "-", "-", status_final]
 
         elif response.status_code == 403:
@@ -515,7 +466,6 @@ def verificar_fonte(idx, nome_custom, url, headers):
             except Exception:
                 msg_console = "❓ Não encontrado"
                 debug["status_final"] = "Não Achou"
-                debug["raw_preview"] = response.text[:800]
                 linha_resultado = ["-", "-", "-", "Não Achou"]
 
         else:
@@ -523,6 +473,15 @@ def verificar_fonte(idx, nome_custom, url, headers):
             debug["status_final"] = f"Erro {response.status_code}"
             debug["raw_preview"] = response.text[:800]
             linha_resultado = ["-", "-", "-", f"Erro {response.status_code}"]
+
+    except requests.exceptions.ProxyError as e:
+        msg_console = "🚫 Falha no Proxy"
+        debug["tempo_resposta"] = round(time.time() - t0, 2)
+        debug["status_final"] = "Erro Proxy"
+        debug["exception_tipo"] = "ProxyError"
+        debug["exception_msg"] = str(e)
+        debug["traceback"] = traceback.format_exc()
+        linha_resultado = ["-", "-", "-", "Erro Proxy"]
 
     except requests.exceptions.Timeout as e:
         msg_console = "🔌 Falha Conexão (Timeout)"
@@ -552,19 +511,16 @@ def verificar_fonte(idx, nome_custom, url, headers):
         linha_resultado = ["-", "-", "-", "Offline"]
 
     with _print_lock:
-        print(f"[{idx:02d}] {nome_custom}: {msg_console}")
+        proxy_info = "[PROXY] " if debug["usou_proxy"] else ""
+        print(f"[{idx:02d}] {proxy_info}{nome_custom}: {msg_console}")
 
     return idx, nome_custom, linha_resultado, debug
 
-
 def analisar_links(lista_itens):
     print(f"\n🔎 Iniciando verificação de status (paralelo, {MAX_WORKERS} por vez)...\n")
-
     headers = HEADERS_NAVEGADOR
-
     resultados = {}
     debug_entries = {}
-
     inicio_total = time.time()
 
     with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
@@ -580,18 +536,14 @@ def analisar_links(lista_itens):
     duracao_total = round(time.time() - inicio_total, 1)
     print(f"\n⏱️  Verificação concluída em {duracao_total}s.")
 
-    # Reordena pelo índice original (a lista chega fora de ordem por causa do paralelismo)
     dados_finais = [resultados[i] for i in sorted(resultados.keys())]
     debug_ordenado = [debug_entries[i] for i in sorted(debug_entries.keys())]
 
     gerar_debug_txt(debug_ordenado, duracao_total)
-
     return dados_finais
-
 
 def gerar_debug_txt(debug_entries, duracao_total=None):
     print(f"\n📝 Gerando relatório de debug detalhado: {DEBUG_FILE}")
-
     diferenca = timedelta(hours=-3)
     fuso_horario = timezone(diferenca)
     agora = datetime.now(fuso_horario).strftime("%d/%m/%Y - %H:%M:%S")
@@ -607,12 +559,11 @@ def gerar_debug_txt(debug_entries, duracao_total=None):
     linhas.append(f"Execução em: {agora}")
     linhas.append(f"Total de fontes verificadas: {len(debug_entries)}")
     if duracao_total is not None:
-        linhas.append(f"Tempo total de verificação (paralelo): {duracao_total}s")
-    linhas.append(f"Proxy utilizado: {'Sim (IPTV_PROXY definido)' if PROXIES else 'Não'}")
-    if PROXIES and PROXY_SOMENTE_HOSTS:
-        linhas.append(f"Proxy aplicado apenas aos hosts: {', '.join(PROXY_SOMENTE_HOSTS)}")
-    elif PROXIES:
-        linhas.append("Proxy aplicado a TODAS as fontes.")
+        linhas.append(f"Tempo total de verificação: {duracao_total}s")
+    
+    proxy_str = IPTV_PROXY.split("@")[-1] if "@" in IPTV_PROXY else IPTV_PROXY
+    linhas.append(f"Proxy SOCKS5 Utilizado: {'Sim -> ' + proxy_str if PROXIES else 'Não'}")
+    
     linhas.append("=" * 100)
     linhas.append("")
     linhas.append("RESUMO POR STATUS:")
@@ -628,6 +579,7 @@ def gerar_debug_txt(debug_entries, duracao_total=None):
         linhas.append("-" * 100)
         linhas.append(f"[{d['indice']}/{len(debug_entries)}] FONTE: {d['nome']}")
         linhas.append(f"URL: {d['url']}")
+        linhas.append(f"Usou Proxy: {'SIM' if d['usou_proxy'] else 'NÃO'}")
         linhas.append(f"Início da checagem: {d['inicio_ts']}")
         linhas.append(f"Tempo de resposta: {d['tempo_resposta']}s" if d['tempo_resposta'] is not None else "Tempo de resposta: N/A")
         linhas.append(f"HTTP Status Code: {d['http_status']}")
@@ -669,9 +621,7 @@ def gerar_debug_txt(debug_entries, duracao_total=None):
     except Exception as e:
         print(f"⚠️ Falha ao salvar relatório de debug: {e}")
 
-
 def carregar_fontes():
-    """Carrega fontes ajustadas para modo compacto (mais linhas)."""
     fontes = {}
     try:
         sistema = platform.system()
@@ -698,28 +648,20 @@ def carregar_fontes():
 
     return fontes
 
-
 def gerar_imagens_paginadas(dados):
     print("\n🎨 Gerando imagens (Modo Compacto - Alta Densidade)...")
-
     LARGURA = 1920
     ALTURA = 1080
     MARGEM_X = 50
-
     Y_INICIAL = 140
     ALTURA_LINHA = 34
     ALTURA_RODAPE = 40
 
     espaco_disponivel = ALTURA - Y_INICIAL - ALTURA_RODAPE
     itens_por_pagina = espaco_disponivel // ALTURA_LINHA
-
-    print(f"ℹ️  Capacidade por página: {itens_por_pagina} linhas.")
-
     total_paginas = math.ceil(len(dados) / itens_por_pagina)
     fontes = carregar_fontes()
-
     nomes_arquivos = []
-
     diferenca = timedelta(hours=-3)
     fuso_horario = timezone(diferenca)
     agora = datetime.now(fuso_horario).strftime("%d/%m/%Y - %H:%M")
@@ -737,7 +679,6 @@ def gerar_imagens_paginadas(dados):
 
         y_header = 100
         d.rectangle([(MARGEM_X, y_header), (LARGURA - MARGEM_X, y_header + 30)], fill=(50, 50, 70))
-
         for i, titulo in enumerate(titulos):
             d.text((colunas_x[i], y_header + 5), titulo, fill=(255, 215, 0), font=fontes['bold'])
 
@@ -748,7 +689,6 @@ def gerar_imagens_paginadas(dados):
         y = Y_INICIAL
         for i, linha in enumerate(dados_pagina):
             nome, criado, vence, conexoes, status = linha
-
             if i % 2 == 0:
                 d.rectangle([(MARGEM_X, y), (LARGURA - MARGEM_X, y + ALTURA_LINHA)], fill=(22, 22, 32))
             else:
@@ -756,7 +696,6 @@ def gerar_imagens_paginadas(dados):
 
             cor_texto = (230, 230, 230)
             cor_status = (255, 50, 50)
-
             status_lower = str(status).lower()
             if "active" in status_lower:
                 cor_status = (50, 255, 50)
@@ -768,13 +707,11 @@ def gerar_imagens_paginadas(dados):
                 cor_status = (150, 150, 150)
 
             offset_y = 6
-
             d.text((colunas_x[0], y + offset_y), str(nome), fill=cor_texto, font=fontes['padrao'])
             d.text((colunas_x[1], y + offset_y), str(criado), fill=cor_texto, font=fontes['padrao'])
             d.text((colunas_x[2], y + offset_y), str(vence), fill=cor_texto, font=fontes['padrao'])
             d.text((colunas_x[3], y + offset_y), str(conexoes), fill=cor_texto, font=fontes['padrao'])
             d.text((colunas_x[4], y + offset_y), str(status), fill=cor_status, font=fontes['bold'])
-
             y += ALTURA_LINHA
 
         nome_arquivo = f"status_{pagina}.png"
@@ -784,15 +721,11 @@ def gerar_imagens_paginadas(dados):
 
     return nomes_arquivos
 
-
 def criar_video_slideshow(imagens):
     if not imagens:
         return
-
     print("🎬 Gerando vídeo slideshow (1920x1080)...")
-
     tempo_por_slide = "10"
-
     try:
         cmd = [
             "ffmpeg", "-y",
@@ -803,10 +736,8 @@ def criar_video_slideshow(imagens):
             "-pix_fmt", "yuv420p",
             "video_status.mp4"
         ]
-
         subprocess.run(cmd, check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
         print("✅ Vídeo 'video_status.mp4' criado com sucesso!")
-
     except FileNotFoundError:
         print("⚠️  FFmpeg não instalado. Apenas as imagens foram geradas.")
     except Exception as e:
@@ -816,6 +747,9 @@ def criar_video_slideshow(imagens):
 if __name__ == "__main__":
     lista = obter_lista_links()
     if lista:
+        # Testa a conexão do Proxy e printa o IP de saída antes de começar as requisições em massa
+        testar_conexao_proxy()
+        
         dados = analisar_links(lista)
         arquivos = gerar_imagens_paginadas(dados)
         criar_video_slideshow(arquivos)
