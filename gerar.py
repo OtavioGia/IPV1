@@ -89,7 +89,7 @@ ESPERA_RETRY_404 = 0.8
 # ==========================================
 # Uso do socks5h obriga a resolução DNS a ser feita no proxy (essencial para Cloudflare/bloqueios)
 #IPTV_PROXY = "socks5h://Otavio:TesteOta@45.224.240.53:10808"
-IPTV_PROXY = "socks5h://15.229.231.89:13736"
+IPTV_PROXY = "socks5h://45.224.240.53:1080:Otavio_dalpiaz_gateiro:G808IQUXqQl0blDBROeCxZMMs8IkBtoJ8AjYRJBYcjigOQez7d"
 
 # Deixe vazio para aplicar o proxy em todos os hosts
 PROXY_SOMENTE_HOSTS = []
