@@ -111,7 +111,7 @@ ESPERA_RETRY_404 = 0.8     # espera (s) antes de repetir um 404 (possível falha
 #
 # Preencha a URL do proxy aqui (ex: "http://usuario:senha@ip_do_proxy:porta").
 # Deixe "" (vazio) para não usar proxy nenhum.
-IPTV_PROXY = ""  # <<< PREENCHA AQUI SE QUISER USAR PROXY, OU DEIXE VAZIO
+IPTV_PROXY = "15.229.231.89:13736"  # <<< PREENCHA AQUI SE QUISER USAR PROXY, OU DEIXE VAZIO
 
 # Opcional: se quiser usar o proxy SÓ em alguns hosts (economiza tráfego pago),
 # liste os domínios aqui. Deixe a lista VAZIA para usar o proxy em TUDO.
