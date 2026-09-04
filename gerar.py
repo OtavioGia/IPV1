@@ -144,7 +144,12 @@ HEADERS_NAVEGADOR = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
     'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8',
     'Accept-Language': 'pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7',
-    'Accept-Encoding': 'gzip, deflate, br',
+    # NÃO anunciar suporte a Brotli ('br') aqui: o ambiente do GitHub Actions não
+    # tem a lib de descompressão Brotli instalada. Se o servidor responder
+    # comprimido em Brotli e o requests não conseguir descomprimir, o resultado
+    # é lixo binário no lugar do JSON — foi exatamente isso que quebrou o
+    # case2.lat (que antes funcionava 100%) numa rodada anterior deste script.
+    'Accept-Encoding': 'gzip, deflate',
     'Connection': 'keep-alive',
     'Upgrade-Insecure-Requests': '1',
     'Sec-Fetch-Dest': 'document',
@@ -319,7 +324,27 @@ def obter_sessao_exploratoria_da_thread():
     return sessao
 
 
+def parece_binario_nao_decodificado(response):
+    """Detecta o sintoma de conteúdo comprimido (ex: Brotli) que o requests não
+    conseguiu descomprimir: texto cheio de bytes de controle/não-imprimíveis,
+    normalmente sem nenhuma chance de ser JSON de verdade."""
+    texto = response.text[:200] if response.text else ""
+    if not texto:
+        return False
+    nao_imprimiveis = sum(1 for c in texto if ord(c) < 32 and c not in "\r\n\t")
+    nao_imprimiveis += sum(1 for c in texto if ord(c) > 126)
+    return (nao_imprimiveis / max(len(texto), 1)) > 0.25
+
+
 def processar_resposta_json(response, debug):
+    if parece_binario_nao_decodificado(response):
+        debug["status_final"] = "Erro Decodificação (binário)"
+        debug["observacoes"].append(
+            "Resposta veio como bytes não-imprimíveis, típico de conteúdo comprimido "
+            "(ex: Brotli) que o requests não conseguiu descomprimir nesse ambiente. "
+            f"Content-Encoding do servidor: {response.headers.get('Content-Encoding', 'N/A')}."
+        )
+        return False, None
     try:
         data = response.json()
         debug["json_keys"] = list(data.keys())
@@ -450,9 +475,14 @@ def verificar_fonte(idx, nome_custom, url, headers):
                         msg_console = f"✅ OK ({status_txt})"
                     linha_resultado = linha
                 else:
-                    msg_console = "⚠️ Erro JSON"
-                    debug["status_final"] = "Erro JSON"
-                    linha_resultado = ["-", "-", "-", "Erro JSON"]
+                    status_ja_definido = debug.get("status_final")
+                    status_final = status_ja_definido or "Erro JSON"
+                    debug["status_final"] = status_final
+                    if status_final == "Erro Decodificação (binário)":
+                        msg_console = "🧩 Erro Decodificação (binário)"
+                    else:
+                        msg_console = "⚠️ Erro JSON"
+                    linha_resultado = ["-", "-", "-", status_final]
 
         elif response.status_code == 403:
             msg_console = "🚫 Bloqueado (IP)"
