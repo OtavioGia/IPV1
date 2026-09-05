@@ -1,13 +1,14 @@
 ====================================================================================================
 RELATÓRIO DE DEBUG - MONITORAMENTO IPTV
-Execução em: 04/09/2026 - 21:45:20
+Execução em: 05/09/2026 - 02:25:35
 Total de fontes verificadas: 44
-Tempo total de verificação: 22.4s
+Tempo total de verificação: 7.5s
 Proxy SOCKS5 Utilizado: Sim -> 45.224.240.53:1080
 ====================================================================================================
 
 RESUMO POR STATUS:
-  - Active: 43
+  - Active: 28
+  - Bloq. IP: 15
   - Expired: 1
 
 ====================================================================================================
@@ -18,8 +19,8 @@ DETALHE POR FONTE
 [1/44] FONTE: F14M2
 URL: http://play.dnsrot.vip/player_api.php?username=5550388689&password=simpleiptv
 Usou Proxy: SIM
-Início da checagem: 2026-09-05 00:44:57
-Tempo de resposta: 2.06s
+Início da checagem: 2026-09-05 05:25:28
+Tempo de resposta: 1.61s
 HTTP Status Code: 200
 Content-Type: application/json; charset=utf-8
 Tamanho da resposta: 467 bytes
@@ -28,16 +29,16 @@ Chaves no JSON raiz: ['user_info', 'server_info']
 Chaves em user_info: ['username', 'password', 'message', 'auth', 'status', 'exp_date', 'is_trial', 'active_cons', 'created_at', 'max_connections', 'allowed_output_formats']
 Tentativas realizadas:
   - http://play.dnsrot.vip/player_api.php?username=5550388689&password=simpleiptv => HTTP 200
-Observação: created_at=1616122800 | exp_date=1790477999 | active_cons=2 | max_connections=2
+Observação: created_at=1616122800 | exp_date=1790477999 | active_cons=0 | max_connections=2
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"5550388689","password":"simpleiptv","message":"BIT Panel","auth":1,"status":"Active","exp_date":"1790477999","is_trial":"0","active_cons":"2","created_at":"1616122800","max_connections":"2","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"url":"play.dnsrot.vip","port":"80","https_port":"443","server_protocol":"http","rtmp_port":null,"timezone":"America/Sao_Paulo","timestamp_now":1788569099,"time_now":"2026-09-04 21:44:59"}}
+{"user_info":{"username":"5550388689","password":"simpleiptv","message":"BIT Panel","auth":1,"status":"Active","exp_date":"1790477999","is_trial":"0","active_cons":"0","created_at":"1616122800","max_connections":"2","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"url":"play.dnsrot.vip","port":"80","https_port":"443","server_protocol":"http","rtmp_port":null,"timezone":"America/Sao_Paulo","timestamp_now":1788585929,"time_now":"2026-09-05 02:25:29"}}
 
 ----------------------------------------------------------------------------------------------------
 [2/44] FONTE: F15M2
 URL: http://play.dnsrot.vip/player_api.php?&username=Marcosfp05&password=nlybdft6fml
 Usou Proxy: SIM
-Início da checagem: 2026-09-05 00:44:57
-Tempo de resposta: 2.19s
+Início da checagem: 2026-09-05 05:25:28
+Tempo de resposta: 1.49s
 HTTP Status Code: 200
 Content-Type: application/json; charset=utf-8
 Tamanho da resposta: 468 bytes
@@ -48,14 +49,14 @@ Tentativas realizadas:
   - http://play.dnsrot.vip/player_api.php?&username=Marcosfp05&password=nlybdft6fml => HTTP 200
 Observação: created_at=1608378018 | exp_date=1796002100 | active_cons=1 | max_connections=2
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"Marcosfp05","password":"nlybdft6fml","message":"BIT Panel","auth":1,"status":"Active","exp_date":"1796002100","is_trial":"0","active_cons":"1","created_at":"1608378018","max_connections":"2","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"url":"play.dnsrot.vip","port":"80","https_port":"443","server_protocol":"http","rtmp_port":null,"timezone":"America/Sao_Paulo","timestamp_now":1788569099,"time_now":"2026-09-04 21:44:59"}}
+{"user_info":{"username":"Marcosfp05","password":"nlybdft6fml","message":"BIT Panel","auth":1,"status":"Active","exp_date":"1796002100","is_trial":"0","active_cons":"1","created_at":"1608378018","max_connections":"2","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"url":"play.dnsrot.vip","port":"80","https_port":"443","server_protocol":"http","rtmp_port":null,"timezone":"America/Sao_Paulo","timestamp_now":1788585929,"time_now":"2026-09-05 02:25:29"}}
 
 ----------------------------------------------------------------------------------------------------
 [3/44] FONTE: F25M3
 URL: http://megaxc.ca/player_api.php?&username=ialwg1&password=iao8wo
 Usou Proxy: SIM
-Início da checagem: 2026-09-05 00:44:57
-Tempo de resposta: 2.06s
+Início da checagem: 2026-09-05 05:25:28
+Tempo de resposta: 1.63s
 HTTP Status Code: 200
 Content-Type: application/json
 Tamanho da resposta: 496 bytes
@@ -64,16 +65,16 @@ Chaves no JSON raiz: ['user_info', 'server_info']
 Chaves em user_info: ['username', 'password', 'message', 'auth', 'status', 'exp_date', 'is_trial', 'active_cons', 'created_at', 'max_connections', 'allowed_output_formats']
 Tentativas realizadas:
   - http://megaxc.ca/player_api.php?&username=ialwg1&password=iao8wo => HTTP 200
-Observação: created_at=1788215873 | exp_date=1791255599 | active_cons=0 | max_connections=3
+Observação: created_at=1788215873 | exp_date=1791255599 | active_cons=1 | max_connections=3
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"ialwg1","password":"iao8wo","message":"Error...","auth":1,"status":"Active","exp_date":"1791255599","is_trial":"0","active_cons":0,"created_at":"1788215873","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.12","revision":2,"url":"duke02.in","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788567405,"time_now":"2026-09-04 21:16:45","timezone":"America\/Sao_Paulo"}}
+{"user_info":{"username":"ialwg1","password":"iao8wo","message":"Error...","auth":1,"status":"Active","exp_date":"1791255599","is_trial":"0","active_cons":1,"created_at":"1788215873","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.12","revision":2,"url":"megaxc.ca","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788585929,"time_now":"2026-09-05 02:25:29","timezone":"America\/Sao_Paulo"}}
 
 ----------------------------------------------------------------------------------------------------
 [4/44] FONTE: F27M1
 URL: http://play.dnsrot.vip/player_api.php?&username=nena6194sala&password=mqtavfrtyl
 Usou Proxy: SIM
-Início da checagem: 2026-09-05 00:44:57
-Tempo de resposta: 2.19s
+Início da checagem: 2026-09-05 05:25:28
+Tempo de resposta: 3.01s
 HTTP Status Code: 200
 Content-Type: application/json; charset=utf-8
 Tamanho da resposta: 469 bytes
@@ -82,16 +83,16 @@ Chaves no JSON raiz: ['user_info', 'server_info']
 Chaves em user_info: ['username', 'password', 'message', 'auth', 'status', 'exp_date', 'is_trial', 'active_cons', 'created_at', 'max_connections', 'allowed_output_formats']
 Tentativas realizadas:
   - http://play.dnsrot.vip/player_api.php?&username=nena6194sala&password=mqtavfrtyl => HTTP 200
-Observação: created_at=1679172190 | exp_date=1798305251 | active_cons=1 | max_connections=1
+Observação: created_at=1679172190 | exp_date=1798305251 | active_cons=0 | max_connections=1
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"nena6194sala","password":"mqtavfrtyl","message":"BIT Panel","auth":1,"status":"Active","exp_date":"1798305251","is_trial":"0","active_cons":"1","created_at":"1679172190","max_connections":"1","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"url":"play.dnsrot.vip","port":"80","https_port":"443","server_protocol":"http","rtmp_port":null,"timezone":"America/Sao_Paulo","timestamp_now":1788569099,"time_now":"2026-09-04 21:44:59"}}
+{"user_info":{"username":"nena6194sala","password":"mqtavfrtyl","message":"BIT Panel","auth":1,"status":"Active","exp_date":"1798305251","is_trial":"0","active_cons":"0","created_at":"1679172190","max_connections":"1","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"url":"play.dnsrot.vip","port":"80","https_port":"443","server_protocol":"http","rtmp_port":null,"timezone":"America/Sao_Paulo","timestamp_now":1788585931,"time_now":"2026-09-05 02:25:31"}}
 
 ----------------------------------------------------------------------------------------------------
 [5/44] FONTE: F28M1
 URL: http://play.dnsrot.vip/player_api.php?&username=tomoko11&password=14n11oi50oc
 Usou Proxy: SIM
-Início da checagem: 2026-09-05 00:44:57
-Tempo de resposta: 2.05s
+Início da checagem: 2026-09-05 05:25:28
+Tempo de resposta: 1.5s
 HTTP Status Code: 200
 Content-Type: application/json; charset=utf-8
 Tamanho da resposta: 466 bytes
@@ -102,14 +103,14 @@ Tentativas realizadas:
   - http://play.dnsrot.vip/player_api.php?&username=tomoko11&password=14n11oi50oc => HTTP 200
 Observação: created_at=1712259105 | exp_date=1791149505 | active_cons=1 | max_connections=1
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"tomoko11","password":"14n11oi50oc","message":"BIT Panel","auth":1,"status":"Active","exp_date":"1791149505","is_trial":"0","active_cons":"1","created_at":"1712259105","max_connections":"1","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"url":"play.dnsrot.vip","port":"80","https_port":"443","server_protocol":"http","rtmp_port":null,"timezone":"America/Sao_Paulo","timestamp_now":1788569099,"time_now":"2026-09-04 21:44:59"}}
+{"user_info":{"username":"tomoko11","password":"14n11oi50oc","message":"BIT Panel","auth":1,"status":"Active","exp_date":"1791149505","is_trial":"0","active_cons":"1","created_at":"1712259105","max_connections":"1","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"url":"play.dnsrot.vip","port":"80","https_port":"443","server_protocol":"http","rtmp_port":null,"timezone":"America/Sao_Paulo","timestamp_now":1788585929,"time_now":"2026-09-05 02:25:29"}}
 
 ----------------------------------------------------------------------------------------------------
 [6/44] FONTE: F29M3
 URL: http://play.dnsrot.vip/player_api.php?&username=vanessanook&password=vinr390x8y
 Usou Proxy: SIM
-Início da checagem: 2026-09-05 00:44:57
-Tempo de resposta: 2.64s
+Início da checagem: 2026-09-05 05:25:28
+Tempo de resposta: 3.0s
 HTTP Status Code: 200
 Content-Type: application/json; charset=utf-8
 Tamanho da resposta: 468 bytes
@@ -118,16 +119,16 @@ Chaves no JSON raiz: ['user_info', 'server_info']
 Chaves em user_info: ['username', 'password', 'message', 'auth', 'status', 'exp_date', 'is_trial', 'active_cons', 'created_at', 'max_connections', 'allowed_output_formats']
 Tentativas realizadas:
   - http://play.dnsrot.vip/player_api.php?&username=vanessanook&password=vinr390x8y => HTTP 200
-Observação: created_at=1618431968 | exp_date=1788653519 | active_cons=0 | max_connections=3
+Observação: created_at=1618431968 | exp_date=1791245519 | active_cons=0 | max_connections=3
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"vanessanook","password":"vinr390x8y","message":"BIT Panel","auth":1,"status":"Active","exp_date":"1788653519","is_trial":"0","active_cons":"0","created_at":"1618431968","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"url":"play.dnsrot.vip","port":"80","https_port":"443","server_protocol":"http","rtmp_port":null,"timezone":"America/Sao_Paulo","timestamp_now":1788569100,"time_now":"2026-09-04 21:45:00"}}
+{"user_info":{"username":"vanessanook","password":"vinr390x8y","message":"BIT Panel","auth":1,"status":"Active","exp_date":"1791245519","is_trial":"0","active_cons":"0","created_at":"1618431968","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"url":"play.dnsrot.vip","port":"80","https_port":"443","server_protocol":"http","rtmp_port":null,"timezone":"America/Sao_Paulo","timestamp_now":1788585931,"time_now":"2026-09-05 02:25:31"}}
 
 ----------------------------------------------------------------------------------------------------
 [7/44] FONTE: F31M2
 URL: http://play.dnsrot.vip/player_api.php?&username=zQ4qeGkNrQ&password=factoryiptv
 Usou Proxy: SIM
-Início da checagem: 2026-09-05 00:44:57
-Tempo de resposta: 3.52s
+Início da checagem: 2026-09-05 05:25:28
+Tempo de resposta: 1.49s
 HTTP Status Code: 200
 Content-Type: application/json; charset=utf-8
 Tamanho da resposta: 469 bytes
@@ -138,14 +139,14 @@ Tentativas realizadas:
   - http://play.dnsrot.vip/player_api.php?&username=zQ4qeGkNrQ&password=factoryiptv => HTTP 200
 Observação: created_at=1544580000 | exp_date=1787507064 | active_cons=0 | max_connections=2
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"zQ4qeGkNrQ","password":"factoryiptv","message":"BIT Panel","auth":1,"status":"Expired","exp_date":"1787507064","is_trial":"0","active_cons":"0","created_at":"1544580000","max_connections":"2","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"url":"play.dnsrot.vip","port":"80","https_port":"443","server_protocol":"http","rtmp_port":null,"timezone":"America/Sao_Paulo","timestamp_now":1788569101,"time_now":"2026-09-04 21:45:01"}}
+{"user_info":{"username":"zQ4qeGkNrQ","password":"factoryiptv","message":"BIT Panel","auth":1,"status":"Expired","exp_date":"1787507064","is_trial":"0","active_cons":"0","created_at":"1544580000","max_connections":"2","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"url":"play.dnsrot.vip","port":"80","https_port":"443","server_protocol":"http","rtmp_port":null,"timezone":"America/Sao_Paulo","timestamp_now":1788585929,"time_now":"2026-09-05 02:25:29"}}
 
 ----------------------------------------------------------------------------------------------------
 [8/44] FONTE: F32M2
 URL: http://play.dnsrot.vip/player_api.php?&username=7RRjPTu5d6&password=factoryiptv
 Usou Proxy: SIM
-Início da checagem: 2026-09-05 00:44:57
-Tempo de resposta: 3.7s
+Início da checagem: 2026-09-05 05:25:28
+Tempo de resposta: 3.53s
 HTTP Status Code: 200
 Content-Type: application/json; charset=utf-8
 Tamanho da resposta: 468 bytes
@@ -154,16 +155,16 @@ Chaves no JSON raiz: ['user_info', 'server_info']
 Chaves em user_info: ['username', 'password', 'message', 'auth', 'status', 'exp_date', 'is_trial', 'active_cons', 'created_at', 'max_connections', 'allowed_output_formats']
 Tentativas realizadas:
   - http://play.dnsrot.vip/player_api.php?&username=7RRjPTu5d6&password=factoryiptv => HTTP 200
-Observação: created_at=1548903600 | exp_date=1789084800 | active_cons=1 | max_connections=2
+Observação: created_at=1548903600 | exp_date=1789084800 | active_cons=0 | max_connections=2
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"7RRjPTu5d6","password":"factoryiptv","message":"BIT Panel","auth":1,"status":"Active","exp_date":"1789084800","is_trial":"0","active_cons":"1","created_at":"1548903600","max_connections":"2","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"url":"play.dnsrot.vip","port":"80","https_port":"443","server_protocol":"http","rtmp_port":null,"timezone":"America/Sao_Paulo","timestamp_now":1788569101,"time_now":"2026-09-04 21:45:01"}}
+{"user_info":{"username":"7RRjPTu5d6","password":"factoryiptv","message":"BIT Panel","auth":1,"status":"Active","exp_date":"1789084800","is_trial":"0","active_cons":"0","created_at":"1548903600","max_connections":"2","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"url":"play.dnsrot.vip","port":"80","https_port":"443","server_protocol":"http","rtmp_port":null,"timezone":"America/Sao_Paulo","timestamp_now":1788585931,"time_now":"2026-09-05 02:25:31"}}
 
 ----------------------------------------------------------------------------------------------------
 [9/44] FONTE: F57M10
 URL: http://agkcl2.cc/player_api.php?&username=719065&password=r12xvZ
 Usou Proxy: SIM
-Início da checagem: 2026-09-05 00:44:57
-Tempo de resposta: 2.93s
+Início da checagem: 2026-09-05 05:25:28
+Tempo de resposta: 3.39s
 HTTP Status Code: 200
 Content-Type: application/json
 Tamanho da resposta: 482 bytes
@@ -172,16 +173,16 @@ Chaves no JSON raiz: ['user_info', 'server_info']
 Chaves em user_info: ['username', 'password', 'message', 'auth', 'status', 'exp_date', 'is_trial', 'active_cons', 'created_at', 'max_connections', 'allowed_output_formats']
 Tentativas realizadas:
   - http://agkcl2.cc/player_api.php?&username=719065&password=r12xvZ => HTTP 200
-Observação: created_at=1676736577 | exp_date=None | active_cons=6 | max_connections=10
+Observação: created_at=1676736577 | exp_date=None | active_cons=4 | max_connections=10
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"719065","password":"r12xvZ","message":null,"auth":1,"status":"Active","exp_date":null,"is_trial":"0","active_cons":6,"created_at":"1676736577","max_connections":"10","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"agkcl2.cc","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788569100,"time_now":"2026-09-04 21:45:00","timezone":"America\/Sao_Paulo"}}
+{"user_info":{"username":"719065","password":"r12xvZ","message":null,"auth":1,"status":"Active","exp_date":null,"is_trial":"0","active_cons":4,"created_at":"1676736577","max_connections":"10","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"agkcl2.cc","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788585931,"time_now":"2026-09-05 02:25:31","timezone":"America\/Sao_Paulo"}}
 
 ----------------------------------------------------------------------------------------------------
 [10/44] FONTE: F61M5
 URL: http://agkcl2.cc/player_api.php?&username=318284&password=pgJqrm
 Usou Proxy: SIM
-Início da checagem: 2026-09-05 00:44:57
-Tempo de resposta: 3.85s
+Início da checagem: 2026-09-05 05:25:28
+Tempo de resposta: 4.18s
 HTTP Status Code: 200
 Content-Type: application/json
 Tamanho da resposta: 489 bytes
@@ -192,14 +193,14 @@ Tentativas realizadas:
   - http://agkcl2.cc/player_api.php?&username=318284&password=pgJqrm => HTTP 200
 Observação: created_at=1674091509 | exp_date=1789700399 | active_cons=0 | max_connections=3
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"318284","password":"pgJqrm","message":null,"auth":1,"status":"Active","exp_date":"1789700399","is_trial":"0","active_cons":0,"created_at":"1674091509","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"agkcl2.cc","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788569101,"time_now":"2026-09-04 21:45:01","timezone":"America\/Sao_Paulo"}}
+{"user_info":{"username":"318284","password":"pgJqrm","message":null,"auth":1,"status":"Active","exp_date":"1789700399","is_trial":"0","active_cons":0,"created_at":"1674091509","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"agkcl2.cc","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788585932,"time_now":"2026-09-05 02:25:32","timezone":"America\/Sao_Paulo"}}
 
 ----------------------------------------------------------------------------------------------------
 [11/44] FONTE: F64M5
 URL: http://agkcl2.cc/player_api.php?&username=882170&password=A3FHej
 Usou Proxy: SIM
-Início da checagem: 2026-09-05 00:44:57
-Tempo de resposta: 3.69s
+Início da checagem: 2026-09-05 05:25:28
+Tempo de resposta: 3.57s
 HTTP Status Code: 200
 Content-Type: application/json
 Tamanho da resposta: 489 bytes
@@ -210,14 +211,14 @@ Tentativas realizadas:
   - http://agkcl2.cc/player_api.php?&username=882170&password=A3FHej => HTTP 200
 Observação: created_at=1664382006 | exp_date=1790650799 | active_cons=0 | max_connections=3
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"882170","password":"A3FHej","message":null,"auth":1,"status":"Active","exp_date":"1790650799","is_trial":"0","active_cons":0,"created_at":"1664382006","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"agkcl2.cc","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788569101,"time_now":"2026-09-04 21:45:01","timezone":"America\/Sao_Paulo"}}
+{"user_info":{"username":"882170","password":"A3FHej","message":null,"auth":1,"status":"Active","exp_date":"1790650799","is_trial":"0","active_cons":0,"created_at":"1664382006","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"agkcl2.cc","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788585931,"time_now":"2026-09-05 02:25:31","timezone":"America\/Sao_Paulo"}}
 
 ----------------------------------------------------------------------------------------------------
 [12/44] FONTE: F65M5
 URL: http://agkcl2.cc/player_api.php?&username=888647&password=xjfFUu
 Usou Proxy: SIM
-Início da checagem: 2026-09-05 00:44:57
-Tempo de resposta: 2.93s
+Início da checagem: 2026-09-05 05:25:28
+Tempo de resposta: 4.02s
 HTTP Status Code: 200
 Content-Type: application/json
 Tamanho da resposta: 481 bytes
@@ -228,284 +229,494 @@ Tentativas realizadas:
   - http://agkcl2.cc/player_api.php?&username=888647&password=xjfFUu => HTTP 200
 Observação: created_at=1635883230 | exp_date=None | active_cons=0 | max_connections=5
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"888647","password":"xjfFUu","message":null,"auth":1,"status":"Active","exp_date":null,"is_trial":"0","active_cons":0,"created_at":"1635883230","max_connections":"5","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"agkcl2.cc","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788569100,"time_now":"2026-09-04 21:45:00","timezone":"America\/Sao_Paulo"}}
+{"user_info":{"username":"888647","password":"xjfFUu","message":null,"auth":1,"status":"Active","exp_date":null,"is_trial":"0","active_cons":0,"created_at":"1635883230","max_connections":"5","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"agkcl2.cc","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788585932,"time_now":"2026-09-05 02:25:32","timezone":"America\/Sao_Paulo"}}
 
 ----------------------------------------------------------------------------------------------------
 [13/44] FONTE: F67M5
 URL: http://cavalo.cc/player_api.php?&username=671409&password=f3UQjJ
 Usou Proxy: SIM
-Início da checagem: 2026-09-05 00:44:57
-Tempo de resposta: 3.33s
-HTTP Status Code: 200
-Content-Type: application/json
-Tamanho da resposta: 487 bytes
-STATUS FINAL ATRIBUÍDO: Active
-Chaves no JSON raiz: ['user_info', 'server_info']
-Chaves em user_info: ['username', 'password', 'message', 'auth', 'status', 'exp_date', 'is_trial', 'active_cons', 'created_at', 'max_connections', 'allowed_output_formats']
+Início da checagem: 2026-09-05 05:25:28
+Tempo de resposta: 3.97s
+HTTP Status Code: 403
+Content-Type: text/html
+Tamanho da resposta: 4448 bytes
+STATUS FINAL ATRIBUÍDO: Bloq. IP
 Tentativas realizadas:
-  - http://cavalo.cc/player_api.php?&username=671409&password=f3UQjJ => HTTP 200
-Observação: created_at=1620774812 | exp_date=1791514799 | active_cons=9 | max_connections=3
+  - http://cavalo.cc/player_api.php?&username=671409&password=f3UQjJ => HTTP 403
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"671409","password":"f3UQjJ","message":null,"auth":1,"status":"Active","exp_date":"1791514799","is_trial":"0","active_cons":9,"created_at":"1620774812","max_connections":"3","allowed_output_formats":["m3u8","ts"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"206.109.56.226","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788569100,"time_now":"2026-09-04 21:45:00","timezone":"America\/Sao_Paulo"}}
+<!DOCTYPE html>
+<html class="no-js" lang="en-US">
+<head>
+    <title>Website Access Blocked</title>
+    <meta charset="UTF-8"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+    <meta name="robots" content="noindex, nofollow"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1"/>
+    <link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/main.css"/>
+    <script defer src="https://performance.radar.cloudflare.com/beacon.js"></script>
+</head>
+<body>
+    <div id="cf-wrapper">
+        <div class="cf-alert cf-alert-error cf-cookie-error hidden" id="cookie-alert" data-translate="enable_cookies">
+            Please enable cookies.
+        </div>
+        <div id="cf-error-details" clas
 
 ----------------------------------------------------------------------------------------------------
 [14/44] FONTE: F68M5
 URL: http://cavalo.cc/player_api.php?&username=988060&password=zd7YEw
 Usou Proxy: SIM
-Início da checagem: 2026-09-05 00:44:57
-Tempo de resposta: 3.0s
-HTTP Status Code: 200
-Content-Type: application/json
-Tamanho da resposta: 495 bytes
-STATUS FINAL ATRIBUÍDO: Active
-Chaves no JSON raiz: ['user_info', 'server_info']
-Chaves em user_info: ['username', 'password', 'message', 'auth', 'status', 'exp_date', 'is_trial', 'active_cons', 'created_at', 'max_connections', 'allowed_output_formats']
+Início da checagem: 2026-09-05 05:25:28
+Tempo de resposta: 3.97s
+HTTP Status Code: 403
+Content-Type: text/html
+Tamanho da resposta: 4448 bytes
+STATUS FINAL ATRIBUÍDO: Bloq. IP
 Tentativas realizadas:
-  - http://cavalo.cc/player_api.php?&username=988060&password=zd7YEw => HTTP 200
-Observação: created_at=1659648615 | exp_date=1791514799 | active_cons=11 | max_connections=3
+  - http://cavalo.cc/player_api.php?&username=988060&password=zd7YEw => HTTP 403
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"988060","password":"zd7YEw","message":null,"auth":1,"status":"Active","exp_date":"1791514799","is_trial":"0","active_cons":11,"created_at":"1659648615","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"206.109.56.226","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788569100,"time_now":"2026-09-04 21:45:00","timezone":"America\/Sao_Paulo"}}
+<!DOCTYPE html>
+<html class="no-js" lang="en-US">
+<head>
+    <title>Website Access Blocked</title>
+    <meta charset="UTF-8"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+    <meta name="robots" content="noindex, nofollow"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1"/>
+    <link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/main.css"/>
+    <script defer src="https://performance.radar.cloudflare.com/beacon.js"></script>
+</head>
+<body>
+    <div id="cf-wrapper">
+        <div class="cf-alert cf-alert-error cf-cookie-error hidden" id="cookie-alert" data-translate="enable_cookies">
+            Please enable cookies.
+        </div>
+        <div id="cf-error-details" clas
 
 ----------------------------------------------------------------------------------------------------
 [15/44] FONTE: F69M5
 URL: http://cavalo.cc/player_api.php?&username=525656&password=7UDTt9
 Usou Proxy: SIM
-Início da checagem: 2026-09-05 00:44:57
-Tempo de resposta: 3.84s
-HTTP Status Code: 200
-Content-Type: application/json
-Tamanho da resposta: 479 bytes
-STATUS FINAL ATRIBUÍDO: Active
-Chaves no JSON raiz: ['user_info', 'server_info']
-Chaves em user_info: ['username', 'password', 'message', 'auth', 'status', 'exp_date', 'is_trial', 'active_cons', 'created_at', 'max_connections', 'allowed_output_formats']
+Início da checagem: 2026-09-05 05:25:28
+Tempo de resposta: 3.97s
+HTTP Status Code: 403
+Content-Type: text/html
+Tamanho da resposta: 4448 bytes
+STATUS FINAL ATRIBUÍDO: Bloq. IP
 Tentativas realizadas:
-  - http://cavalo.cc/player_api.php?&username=525656&password=7UDTt9 => HTTP 200
-Observação: created_at=1567986620 | exp_date=None | active_cons=3 | max_connections=5
+  - http://cavalo.cc/player_api.php?&username=525656&password=7UDTt9 => HTTP 403
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"525656","password":"7UDTt9","message":null,"auth":1,"status":"Active","exp_date":null,"is_trial":"0","active_cons":3,"created_at":"1567986620","max_connections":"5","allowed_output_formats":["m3u8","ts"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"206.109.56.226","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788569101,"time_now":"2026-09-04 21:45:01","timezone":"America\/Sao_Paulo"}}
+<!DOCTYPE html>
+<html class="no-js" lang="en-US">
+<head>
+    <title>Website Access Blocked</title>
+    <meta charset="UTF-8"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+    <meta name="robots" content="noindex, nofollow"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1"/>
+    <link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/main.css"/>
+    <script defer src="https://performance.radar.cloudflare.com/beacon.js"></script>
+</head>
+<body>
+    <div id="cf-wrapper">
+        <div class="cf-alert cf-alert-error cf-cookie-error hidden" id="cookie-alert" data-translate="enable_cookies">
+            Please enable cookies.
+        </div>
+        <div id="cf-error-details" clas
 
 ----------------------------------------------------------------------------------------------------
 [16/44] FONTE: F70M5
 URL: http://cavalo.cc/player_api.php?&username=544119&password=87XJCZ
 Usou Proxy: SIM
-Início da checagem: 2026-09-05 00:44:59
-Tempo de resposta: 2.83s
-HTTP Status Code: 200
-Content-Type: application/json
-Tamanho da resposta: 494 bytes
-STATUS FINAL ATRIBUÍDO: Active
-Chaves no JSON raiz: ['user_info', 'server_info']
-Chaves em user_info: ['username', 'password', 'message', 'auth', 'status', 'exp_date', 'is_trial', 'active_cons', 'created_at', 'max_connections', 'allowed_output_formats']
+Início da checagem: 2026-09-05 05:25:29
+Tempo de resposta: 2.25s
+HTTP Status Code: 403
+Content-Type: text/html
+Tamanho da resposta: 4448 bytes
+STATUS FINAL ATRIBUÍDO: Bloq. IP
 Tentativas realizadas:
-  - http://cavalo.cc/player_api.php?&username=544119&password=87XJCZ => HTTP 200
-Observação: created_at=1636833695 | exp_date=1795143599 | active_cons=2 | max_connections=3
+  - http://cavalo.cc/player_api.php?&username=544119&password=87XJCZ => HTTP 403
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"544119","password":"87XJCZ","message":null,"auth":1,"status":"Active","exp_date":"1795143599","is_trial":"0","active_cons":2,"created_at":"1636833695","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"206.109.56.226","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788569102,"time_now":"2026-09-04 21:45:02","timezone":"America\/Sao_Paulo"}}
+<!DOCTYPE html>
+<html class="no-js" lang="en-US">
+<head>
+    <title>Website Access Blocked</title>
+    <meta charset="UTF-8"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+    <meta name="robots" content="noindex, nofollow"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1"/>
+    <link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/main.css"/>
+    <script defer src="https://performance.radar.cloudflare.com/beacon.js"></script>
+</head>
+<body>
+    <div id="cf-wrapper">
+        <div class="cf-alert cf-alert-error cf-cookie-error hidden" id="cookie-alert" data-translate="enable_cookies">
+            Please enable cookies.
+        </div>
+        <div id="cf-error-details" clas
 
 ----------------------------------------------------------------------------------------------------
 [17/44] FONTE: F72M5
 URL: http://cavalo.cc/player_api.php?&username=166691&password=SqEdeF
 Usou Proxy: SIM
-Início da checagem: 2026-09-05 00:44:59
-Tempo de resposta: 3.05s
-HTTP Status Code: 200
-Content-Type: application/json
-Tamanho da resposta: 479 bytes
-STATUS FINAL ATRIBUÍDO: Active
-Chaves no JSON raiz: ['user_info', 'server_info']
-Chaves em user_info: ['username', 'password', 'message', 'auth', 'status', 'exp_date', 'is_trial', 'active_cons', 'created_at', 'max_connections', 'allowed_output_formats']
+Início da checagem: 2026-09-05 05:25:29
+Tempo de resposta: 2.24s
+HTTP Status Code: 403
+Content-Type: text/html
+Tamanho da resposta: 4448 bytes
+STATUS FINAL ATRIBUÍDO: Bloq. IP
 Tentativas realizadas:
-  - http://cavalo.cc/player_api.php?&username=166691&password=SqEdeF => HTTP 200
-Observação: created_at=1569067585 | exp_date=None | active_cons=0 | max_connections=5
+  - http://cavalo.cc/player_api.php?&username=166691&password=SqEdeF => HTTP 403
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"166691","password":"SqEdeF","message":null,"auth":1,"status":"Active","exp_date":null,"is_trial":"0","active_cons":0,"created_at":"1569067585","max_connections":"5","allowed_output_formats":["m3u8","ts"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"206.109.56.226","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788569102,"time_now":"2026-09-04 21:45:02","timezone":"America\/Sao_Paulo"}}
+<!DOCTYPE html>
+<html class="no-js" lang="en-US">
+<head>
+    <title>Website Access Blocked</title>
+    <meta charset="UTF-8"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+    <meta name="robots" content="noindex, nofollow"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1"/>
+    <link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/main.css"/>
+    <script defer src="https://performance.radar.cloudflare.com/beacon.js"></script>
+</head>
+<body>
+    <div id="cf-wrapper">
+        <div class="cf-alert cf-alert-error cf-cookie-error hidden" id="cookie-alert" data-translate="enable_cookies">
+            Please enable cookies.
+        </div>
+        <div id="cf-error-details" clas
 
 ----------------------------------------------------------------------------------------------------
 [18/44] FONTE: F74M5
 URL: http://cavalo.cc/player_api.php?&username=392157&password=fs8w4W
 Usou Proxy: SIM
-Início da checagem: 2026-09-05 00:44:59
-Tempo de resposta: 3.21s
-HTTP Status Code: 200
-Content-Type: application/json
-Tamanho da resposta: 486 bytes
-STATUS FINAL ATRIBUÍDO: Active
-Chaves no JSON raiz: ['user_info', 'server_info']
-Chaves em user_info: ['username', 'password', 'message', 'auth', 'status', 'exp_date', 'is_trial', 'active_cons', 'created_at', 'max_connections', 'allowed_output_formats']
+Início da checagem: 2026-09-05 05:25:29
+Tempo de resposta: 2.24s
+HTTP Status Code: 403
+Content-Type: text/html
+Tamanho da resposta: 4448 bytes
+STATUS FINAL ATRIBUÍDO: Bloq. IP
 Tentativas realizadas:
-  - http://cavalo.cc/player_api.php?&username=392157&password=fs8w4W => HTTP 200
-Observação: created_at=1654988156 | exp_date=None | active_cons=1 | max_connections=5
+  - http://cavalo.cc/player_api.php?&username=392157&password=fs8w4W => HTTP 403
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"392157","password":"fs8w4W","message":null,"auth":1,"status":"Active","exp_date":null,"is_trial":"0","active_cons":1,"created_at":"1654988156","max_connections":"5","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"206.109.56.226","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788569102,"time_now":"2026-09-04 21:45:02","timezone":"America\/Sao_Paulo"}}
+<!DOCTYPE html>
+<html class="no-js" lang="en-US">
+<head>
+    <title>Website Access Blocked</title>
+    <meta charset="UTF-8"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+    <meta name="robots" content="noindex, nofollow"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1"/>
+    <link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/main.css"/>
+    <script defer src="https://performance.radar.cloudflare.com/beacon.js"></script>
+</head>
+<body>
+    <div id="cf-wrapper">
+        <div class="cf-alert cf-alert-error cf-cookie-error hidden" id="cookie-alert" data-translate="enable_cookies">
+            Please enable cookies.
+        </div>
+        <div id="cf-error-details" clas
 
 ----------------------------------------------------------------------------------------------------
 [19/44] FONTE: F75M5
 URL: http://cavalo.cc/player_api.php?&username=393747&password=PEHcPC
 Usou Proxy: SIM
-Início da checagem: 2026-09-05 00:44:59
-Tempo de resposta: 3.16s
-HTTP Status Code: 200
-Content-Type: application/json
-Tamanho da resposta: 494 bytes
-STATUS FINAL ATRIBUÍDO: Active
-Chaves no JSON raiz: ['user_info', 'server_info']
-Chaves em user_info: ['username', 'password', 'message', 'auth', 'status', 'exp_date', 'is_trial', 'active_cons', 'created_at', 'max_connections', 'allowed_output_formats']
+Início da checagem: 2026-09-05 05:25:29
+Tempo de resposta: 2.13s
+HTTP Status Code: 403
+Content-Type: text/html
+Tamanho da resposta: 4448 bytes
+STATUS FINAL ATRIBUÍDO: Bloq. IP
 Tentativas realizadas:
-  - http://cavalo.cc/player_api.php?&username=393747&password=PEHcPC => HTTP 200
-Observação: created_at=1653760935 | exp_date=1789873199 | active_cons=3 | max_connections=3
+  - http://cavalo.cc/player_api.php?&username=393747&password=PEHcPC => HTTP 403
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"393747","password":"PEHcPC","message":null,"auth":1,"status":"Active","exp_date":"1789873199","is_trial":"0","active_cons":3,"created_at":"1653760935","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"206.109.56.226","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788569103,"time_now":"2026-09-04 21:45:03","timezone":"America\/Sao_Paulo"}}
+<!DOCTYPE html>
+<html class="no-js" lang="en-US">
+<head>
+    <title>Website Access Blocked</title>
+    <meta charset="UTF-8"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+    <meta name="robots" content="noindex, nofollow"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1"/>
+    <link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/main.css"/>
+    <script defer src="https://performance.radar.cloudflare.com/beacon.js"></script>
+</head>
+<body>
+    <div id="cf-wrapper">
+        <div class="cf-alert cf-alert-error cf-cookie-error hidden" id="cookie-alert" data-translate="enable_cookies">
+            Please enable cookies.
+        </div>
+        <div id="cf-error-details" clas
 
 ----------------------------------------------------------------------------------------------------
 [20/44] FONTE: F76M5
 URL: http://cavalo.cc/player_api.php?&username=563593&password=vGfUjy
 Usou Proxy: SIM
-Início da checagem: 2026-09-05 00:45:00
-Tempo de resposta: 3.41s
-HTTP Status Code: 200
-Content-Type: application/json
-Tamanho da resposta: 481 bytes
-STATUS FINAL ATRIBUÍDO: Active
-Chaves no JSON raiz: ['user_info', 'server_info']
-Chaves em user_info: ['username', 'password', 'message', 'auth', 'status', 'exp_date', 'is_trial', 'active_cons', 'created_at', 'max_connections', 'allowed_output_formats']
+Início da checagem: 2026-09-05 05:25:29
+Tempo de resposta: 2.09s
+HTTP Status Code: 403
+Content-Type: text/html
+Tamanho da resposta: 4448 bytes
+STATUS FINAL ATRIBUÍDO: Bloq. IP
 Tentativas realizadas:
-  - http://cavalo.cc/player_api.php?&username=563593&password=vGfUjy => HTTP 200
-Observação: created_at=1615922141 | exp_date=None | active_cons=120 | max_connections=5
+  - http://cavalo.cc/player_api.php?&username=563593&password=vGfUjy => HTTP 403
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"563593","password":"vGfUjy","message":null,"auth":1,"status":"Active","exp_date":null,"is_trial":"0","active_cons":120,"created_at":"1615922141","max_connections":"5","allowed_output_formats":["m3u8","ts"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"206.109.56.226","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788569103,"time_now":"2026-09-04 21:45:03","timezone":"America\/Sao_Paulo"}}
+<!DOCTYPE html>
+<html class="no-js" lang="en-US">
+<head>
+    <title>Website Access Blocked</title>
+    <meta charset="UTF-8"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+    <meta name="robots" content="noindex, nofollow"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1"/>
+    <link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/main.css"/>
+    <script defer src="https://performance.radar.cloudflare.com/beacon.js"></script>
+</head>
+<body>
+    <div id="cf-wrapper">
+        <div class="cf-alert cf-alert-error cf-cookie-error hidden" id="cookie-alert" data-translate="enable_cookies">
+            Please enable cookies.
+        </div>
+        <div id="cf-error-details" clas
 
 ----------------------------------------------------------------------------------------------------
 [21/44] FONTE: F77M5
 URL: http://cavalo.cc/player_api.php?&username=296115&password=bn2aGw
 Usou Proxy: SIM
-Início da checagem: 2026-09-05 00:45:00
-Tempo de resposta: 1.68s
-HTTP Status Code: 200
-Content-Type: application/json
-Tamanho da resposta: 494 bytes
-STATUS FINAL ATRIBUÍDO: Active
-Chaves no JSON raiz: ['user_info', 'server_info']
-Chaves em user_info: ['username', 'password', 'message', 'auth', 'status', 'exp_date', 'is_trial', 'active_cons', 'created_at', 'max_connections', 'allowed_output_formats']
+Início da checagem: 2026-09-05 05:25:31
+Tempo de resposta: 1.35s
+HTTP Status Code: 403
+Content-Type: text/html
+Tamanho da resposta: 4448 bytes
+STATUS FINAL ATRIBUÍDO: Bloq. IP
 Tentativas realizadas:
-  - http://cavalo.cc/player_api.php?&username=296115&password=bn2aGw => HTTP 200
-Observação: created_at=1657258451 | exp_date=1789095599 | active_cons=0 | max_connections=3
+  - http://cavalo.cc/player_api.php?&username=296115&password=bn2aGw => HTTP 403
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"296115","password":"bn2aGw","message":null,"auth":1,"status":"Active","exp_date":"1789095599","is_trial":"0","active_cons":0,"created_at":"1657258451","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"206.109.56.226","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788569101,"time_now":"2026-09-04 21:45:01","timezone":"America\/Sao_Paulo"}}
+<!DOCTYPE html>
+<html class="no-js" lang="en-US">
+<head>
+    <title>Website Access Blocked</title>
+    <meta charset="UTF-8"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+    <meta name="robots" content="noindex, nofollow"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1"/>
+    <link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/main.css"/>
+    <script defer src="https://performance.radar.cloudflare.com/beacon.js"></script>
+</head>
+<body>
+    <div id="cf-wrapper">
+        <div class="cf-alert cf-alert-error cf-cookie-error hidden" id="cookie-alert" data-translate="enable_cookies">
+            Please enable cookies.
+        </div>
+        <div id="cf-error-details" clas
 
 ----------------------------------------------------------------------------------------------------
 [22/44] FONTE: F79M5
 URL: http://cavalo.cc/player_api.php?&username=146336&password=zF39KA
 Usou Proxy: SIM
-Início da checagem: 2026-09-05 00:45:00
-Tempo de resposta: 2.6s
-HTTP Status Code: 200
-Content-Type: application/json
-Tamanho da resposta: 494 bytes
-STATUS FINAL ATRIBUÍDO: Active
-Chaves no JSON raiz: ['user_info', 'server_info']
-Chaves em user_info: ['username', 'password', 'message', 'auth', 'status', 'exp_date', 'is_trial', 'active_cons', 'created_at', 'max_connections', 'allowed_output_formats']
+Início da checagem: 2026-09-05 05:25:31
+Tempo de resposta: 1.35s
+HTTP Status Code: 403
+Content-Type: text/html
+Tamanho da resposta: 4448 bytes
+STATUS FINAL ATRIBUÍDO: Bloq. IP
 Tentativas realizadas:
-  - http://cavalo.cc/player_api.php?&username=146336&password=zF39KA => HTTP 200
-Observação: created_at=1665000535 | exp_date=1789181999 | active_cons=0 | max_connections=3
+  - http://cavalo.cc/player_api.php?&username=146336&password=zF39KA => HTTP 403
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"146336","password":"zF39KA","message":null,"auth":1,"status":"Active","exp_date":"1789181999","is_trial":"0","active_cons":0,"created_at":"1665000535","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"206.109.56.226","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788569103,"time_now":"2026-09-04 21:45:03","timezone":"America\/Sao_Paulo"}}
+<!DOCTYPE html>
+<html class="no-js" lang="en-US">
+<head>
+    <title>Website Access Blocked</title>
+    <meta charset="UTF-8"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+    <meta name="robots" content="noindex, nofollow"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1"/>
+    <link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/main.css"/>
+    <script defer src="https://performance.radar.cloudflare.com/beacon.js"></script>
+</head>
+<body>
+    <div id="cf-wrapper">
+        <div class="cf-alert cf-alert-error cf-cookie-error hidden" id="cookie-alert" data-translate="enable_cookies">
+            Please enable cookies.
+        </div>
+        <div id="cf-error-details" clas
 
 ----------------------------------------------------------------------------------------------------
 [23/44] FONTE: F81M5
 URL: http://cavalo.cc/player_api.php?&username=965893&password=Rx5Vau
 Usou Proxy: SIM
-Início da checagem: 2026-09-05 00:45:00
-Tempo de resposta: 2.05s
-HTTP Status Code: 200
-Content-Type: application/json
-Tamanho da resposta: 494 bytes
-STATUS FINAL ATRIBUÍDO: Active
-Chaves no JSON raiz: ['user_info', 'server_info']
-Chaves em user_info: ['username', 'password', 'message', 'auth', 'status', 'exp_date', 'is_trial', 'active_cons', 'created_at', 'max_connections', 'allowed_output_formats']
+Início da checagem: 2026-09-05 05:25:31
+Tempo de resposta: 1.56s
+HTTP Status Code: 403
+Content-Type: text/html
+Tamanho da resposta: 4448 bytes
+STATUS FINAL ATRIBUÍDO: Bloq. IP
 Tentativas realizadas:
-  - http://cavalo.cc/player_api.php?&username=965893&password=Rx5Vau => HTTP 200
-Observação: created_at=1636659619 | exp_date=1794365999 | active_cons=7 | max_connections=3
+  - http://cavalo.cc/player_api.php?&username=965893&password=Rx5Vau => HTTP 403
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"965893","password":"Rx5Vau","message":null,"auth":1,"status":"Active","exp_date":"1794365999","is_trial":"0","active_cons":7,"created_at":"1636659619","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"206.109.56.226","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788569102,"time_now":"2026-09-04 21:45:02","timezone":"America\/Sao_Paulo"}}
+<!DOCTYPE html>
+<html class="no-js" lang="en-US">
+<head>
+    <title>Website Access Blocked</title>
+    <meta charset="UTF-8"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+    <meta name="robots" content="noindex, nofollow"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1"/>
+    <link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/main.css"/>
+    <script defer src="https://performance.radar.cloudflare.com/beacon.js"></script>
+</head>
+<body>
+    <div id="cf-wrapper">
+        <div class="cf-alert cf-alert-error cf-cookie-error hidden" id="cookie-alert" data-translate="enable_cookies">
+            Please enable cookies.
+        </div>
+        <div id="cf-error-details" clas
 
 ----------------------------------------------------------------------------------------------------
 [24/44] FONTE: F84M5
 URL: http://cavalo.cc/player_api.php?&username=985028&password=Stj27w
 Usou Proxy: SIM
-Início da checagem: 2026-09-05 00:45:00
-Tempo de resposta: 0.53s
-HTTP Status Code: 200
-Content-Type: application/json
-Tamanho da resposta: 494 bytes
-STATUS FINAL ATRIBUÍDO: Active
-Chaves no JSON raiz: ['user_info', 'server_info']
-Chaves em user_info: ['username', 'password', 'message', 'auth', 'status', 'exp_date', 'is_trial', 'active_cons', 'created_at', 'max_connections', 'allowed_output_formats']
+Início da checagem: 2026-09-05 05:25:31
+Tempo de resposta: 1.62s
+HTTP Status Code: 403
+Content-Type: text/html
+Tamanho da resposta: 4448 bytes
+STATUS FINAL ATRIBUÍDO: Bloq. IP
 Tentativas realizadas:
-  - http://cavalo.cc/player_api.php?&username=985028&password=Stj27w => HTTP 200
-Observação: created_at=1648567853 | exp_date=1790909999 | active_cons=0 | max_connections=3
+  - http://cavalo.cc/player_api.php?&username=985028&password=Stj27w => HTTP 403
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"985028","password":"Stj27w","message":null,"auth":1,"status":"Active","exp_date":"1790909999","is_trial":"0","active_cons":0,"created_at":"1648567853","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"206.109.56.226","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788569101,"time_now":"2026-09-04 21:45:01","timezone":"America\/Sao_Paulo"}}
+<!DOCTYPE html>
+<html class="no-js" lang="en-US">
+<head>
+    <title>Website Access Blocked</title>
+    <meta charset="UTF-8"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+    <meta name="robots" content="noindex, nofollow"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1"/>
+    <link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/main.css"/>
+    <script defer src="https://performance.radar.cloudflare.com/beacon.js"></script>
+</head>
+<body>
+    <div id="cf-wrapper">
+        <div class="cf-alert cf-alert-error cf-cookie-error hidden" id="cookie-alert" data-translate="enable_cookies">
+            Please enable cookies.
+        </div>
+        <div id="cf-error-details" clas
 
 ----------------------------------------------------------------------------------------------------
 [25/44] FONTE: F87M5
 URL: http://cavalo.cc/player_api.php?&username=258275&password=GWDsuf
 Usou Proxy: SIM
-Início da checagem: 2026-09-05 00:45:01
-Tempo de resposta: 0.73s
-HTTP Status Code: 200
-Content-Type: application/json
-Tamanho da resposta: 479 bytes
-STATUS FINAL ATRIBUÍDO: Active
-Chaves no JSON raiz: ['user_info', 'server_info']
-Chaves em user_info: ['username', 'password', 'message', 'auth', 'status', 'exp_date', 'is_trial', 'active_cons', 'created_at', 'max_connections', 'allowed_output_formats']
+Início da checagem: 2026-09-05 05:25:31
+Tempo de resposta: 1.58s
+HTTP Status Code: 403
+Content-Type: text/html
+Tamanho da resposta: 4448 bytes
+STATUS FINAL ATRIBUÍDO: Bloq. IP
 Tentativas realizadas:
-  - http://cavalo.cc/player_api.php?&username=258275&password=GWDsuf => HTTP 200
-Observação: created_at=1617624941 | exp_date=None | active_cons=3 | max_connections=5
+  - http://cavalo.cc/player_api.php?&username=258275&password=GWDsuf => HTTP 403
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"258275","password":"GWDsuf","message":null,"auth":1,"status":"Active","exp_date":null,"is_trial":"0","active_cons":3,"created_at":"1617624941","max_connections":"5","allowed_output_formats":["m3u8","ts"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"206.109.56.226","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788569101,"time_now":"2026-09-04 21:45:01","timezone":"America\/Sao_Paulo"}}
+<!DOCTYPE html>
+<html class="no-js" lang="en-US">
+<head>
+    <title>Website Access Blocked</title>
+    <meta charset="UTF-8"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+    <meta name="robots" content="noindex, nofollow"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1"/>
+    <link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/main.css"/>
+    <script defer src="https://performance.radar.cloudflare.com/beacon.js"></script>
+</head>
+<body>
+    <div id="cf-wrapper">
+        <div class="cf-alert cf-alert-error cf-cookie-error hidden" id="cookie-alert" data-translate="enable_cookies">
+            Please enable cookies.
+        </div>
+        <div id="cf-error-details" clas
 
 ----------------------------------------------------------------------------------------------------
 [26/44] FONTE: F88M5
 URL: http://cavalo.cc/player_api.php?&username=023629&password=Gw91WV
 Usou Proxy: SIM
-Início da checagem: 2026-09-05 00:45:01
-Tempo de resposta: 2.21s
-HTTP Status Code: 200
-Content-Type: application/json
-Tamanho da resposta: 479 bytes
-STATUS FINAL ATRIBUÍDO: Active
-Chaves no JSON raiz: ['user_info', 'server_info']
-Chaves em user_info: ['username', 'password', 'message', 'auth', 'status', 'exp_date', 'is_trial', 'active_cons', 'created_at', 'max_connections', 'allowed_output_formats']
+Início da checagem: 2026-09-05 05:25:32
+Tempo de resposta: 0.17s
+HTTP Status Code: 403
+Content-Type: text/html
+Tamanho da resposta: 4448 bytes
+STATUS FINAL ATRIBUÍDO: Bloq. IP
 Tentativas realizadas:
-  - http://cavalo.cc/player_api.php?&username=023629&password=Gw91WV => HTTP 200
-Observação: created_at=1617802360 | exp_date=None | active_cons=2 | max_connections=5
+  - http://cavalo.cc/player_api.php?&username=023629&password=Gw91WV => HTTP 403
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"023629","password":"Gw91WV","message":null,"auth":1,"status":"Active","exp_date":null,"is_trial":"0","active_cons":2,"created_at":"1617802360","max_connections":"5","allowed_output_formats":["m3u8","ts"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"206.109.56.226","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788569103,"time_now":"2026-09-04 21:45:03","timezone":"America\/Sao_Paulo"}}
+<!DOCTYPE html>
+<html class="no-js" lang="en-US">
+<head>
+    <title>Website Access Blocked</title>
+    <meta charset="UTF-8"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+    <meta name="robots" content="noindex, nofollow"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1"/>
+    <link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/main.css"/>
+    <script defer src="https://performance.radar.cloudflare.com/beacon.js"></script>
+</head>
+<body>
+    <div id="cf-wrapper">
+        <div class="cf-alert cf-alert-error cf-cookie-error hidden" id="cookie-alert" data-translate="enable_cookies">
+            Please enable cookies.
+        </div>
+        <div id="cf-error-details" clas
 
 ----------------------------------------------------------------------------------------------------
 [27/44] FONTE: F89M5
 URL: http://cavalo.cc/player_api.php?&username=939041&password=8SA9sh
 Usou Proxy: SIM
-Início da checagem: 2026-09-05 00:45:01
-Tempo de resposta: 0.6s
-HTTP Status Code: 200
-Content-Type: application/json
-Tamanho da resposta: 489 bytes
-STATUS FINAL ATRIBUÍDO: Active
-Chaves no JSON raiz: ['user_info', 'server_info']
-Chaves em user_info: ['username', 'password', 'message', 'auth', 'status', 'exp_date', 'is_trial', 'active_cons', 'created_at', 'max_connections', 'allowed_output_formats']
+Início da checagem: 2026-09-05 05:25:32
+Tempo de resposta: 0.17s
+HTTP Status Code: 403
+Content-Type: text/html
+Tamanho da resposta: 4448 bytes
+STATUS FINAL ATRIBUÍDO: Bloq. IP
 Tentativas realizadas:
-  - http://cavalo.cc/player_api.php?&username=939041&password=8SA9sh => HTTP 200
-Observação: created_at=1567128206 | exp_date=1795661999 | active_cons=109 | max_connections=3
+  - http://cavalo.cc/player_api.php?&username=939041&password=8SA9sh => HTTP 403
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"939041","password":"8SA9sh","message":null,"auth":1,"status":"Active","exp_date":"1795661999","is_trial":"0","active_cons":109,"created_at":"1567128206","max_connections":"3","allowed_output_formats":["m3u8","ts"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"206.109.56.226","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788569101,"time_now":"2026-09-04 21:45:01","timezone":"America\/Sao_Paulo"}}
+<!DOCTYPE html>
+<html class="no-js" lang="en-US">
+<head>
+    <title>Website Access Blocked</title>
+    <meta charset="UTF-8"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+    <meta name="robots" content="noindex, nofollow"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1"/>
+    <link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/main.css"/>
+    <script defer src="https://performance.radar.cloudflare.com/beacon.js"></script>
+</head>
+<body>
+    <div id="cf-wrapper">
+        <div class="cf-alert cf-alert-error cf-cookie-error hidden" id="cookie-alert" data-translate="enable_cookies">
+            Please enable cookies.
+        </div>
+        <div id="cf-error-details" clas
 
 ----------------------------------------------------------------------------------------------------
 [28/44] FONTE: Fonte U38
 URL: http://case2.lat/player_api.php?&username=593812776&password=876362759
 Usou Proxy: SIM
-Início da checagem: 2026-09-05 00:45:01
-Tempo de resposta: 15.84s
+Início da checagem: 2026-09-05 05:25:32
+Tempo de resposta: 2.76s
 HTTP Status Code: 200
 Content-Type: application/json
 Tamanho da resposta: 500 bytes
@@ -522,8 +733,8 @@ Resposta bruta (preview, até 800 caracteres):
 [29/44] FONTE: Fonte U39
 URL: http://case2.lat/player_api.php?&username=374897485&password=789272274
 Usou Proxy: SIM
-Início da checagem: 2026-09-05 00:45:01
-Tempo de resposta: 3.6s
+Início da checagem: 2026-09-05 05:25:32
+Tempo de resposta: 3.02s
 HTTP Status Code: 200
 Content-Type: application/json
 Tamanho da resposta: 500 bytes
@@ -534,14 +745,14 @@ Tentativas realizadas:
   - http://case2.lat/player_api.php?&username=374897485&password=789272274 => HTTP 200
 Observação: created_at=1774470443 | exp_date=2065057199 | active_cons=0 | max_connections=3
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"374897485","password":"789272274","message":".","auth":1,"status":"Active","exp_date":"2065057199","is_trial":"0","active_cons":"0","created_at":"1774470443","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"sixcine.store","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788562431,"time_now":"2026-09-04 19:53:51","timezone":"America\/Sao_Paulo"}}
+{"user_info":{"username":"374897485","password":"789272274","message":".","auth":1,"status":"Active","exp_date":"2065057199","is_trial":"0","active_cons":"0","created_at":"1774470443","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"sixcine.store","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788569104,"time_now":"2026-09-04 21:45:04","timezone":"America\/Sao_Paulo"}}
 
 ----------------------------------------------------------------------------------------------------
 [30/44] FONTE: Fonte U40
 URL: http://case2.lat/player_api.php?&username=961386894&password=118897421
 Usou Proxy: SIM
-Início da checagem: 2026-09-05 00:45:01
-Tempo de resposta: 7.34s
+Início da checagem: 2026-09-05 05:25:32
+Tempo de resposta: 3.06s
 HTTP Status Code: 200
 Content-Type: application/json
 Tamanho da resposta: 500 bytes
@@ -550,16 +761,16 @@ Chaves no JSON raiz: ['user_info', 'server_info']
 Chaves em user_info: ['username', 'password', 'message', 'auth', 'status', 'exp_date', 'is_trial', 'active_cons', 'created_at', 'max_connections', 'allowed_output_formats']
 Tentativas realizadas:
   - http://case2.lat/player_api.php?&username=961386894&password=118897421 => HTTP 200
-Observação: created_at=1774470401 | exp_date=1906772399 | active_cons=0 | max_connections=3
+Observação: created_at=1774470401 | exp_date=1906772399 | active_cons=1 | max_connections=3
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"961386894","password":"118897421","message":".","auth":1,"status":"Active","exp_date":"1906772399","is_trial":"0","active_cons":"0","created_at":"1774470401","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"sixcine.store","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788562432,"time_now":"2026-09-04 19:53:52","timezone":"America\/Sao_Paulo"}}
+{"user_info":{"username":"961386894","password":"118897421","message":".","auth":1,"status":"Active","exp_date":"1906772399","is_trial":"0","active_cons":"1","created_at":"1774470401","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"sixcine.store","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788569107,"time_now":"2026-09-04 21:45:07","timezone":"America\/Sao_Paulo"}}
 
 ----------------------------------------------------------------------------------------------------
 [31/44] FONTE: Fonte U41
 URL: http://case2.lat/player_api.php?&username=718423457&password=539143340
 Usou Proxy: SIM
-Início da checagem: 2026-09-05 00:45:01
-Tempo de resposta: 7.23s
+Início da checagem: 2026-09-05 05:25:32
+Tempo de resposta: 3.07s
 HTTP Status Code: 200
 Content-Type: application/json
 Tamanho da resposta: 500 bytes
@@ -570,14 +781,14 @@ Tentativas realizadas:
   - http://case2.lat/player_api.php?&username=718423457&password=539143340 => HTTP 200
 Observação: created_at=1774470402 | exp_date=1906772399 | active_cons=0 | max_connections=3
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"718423457","password":"539143340","message":".","auth":1,"status":"Active","exp_date":"1906772399","is_trial":"0","active_cons":"0","created_at":"1774470402","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"sixcine.store","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788562431,"time_now":"2026-09-04 19:53:51","timezone":"America\/Sao_Paulo"}}
+{"user_info":{"username":"718423457","password":"539143340","message":".","auth":1,"status":"Active","exp_date":"1906772399","is_trial":"0","active_cons":"0","created_at":"1774470402","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"sixcine.store","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788569108,"time_now":"2026-09-04 21:45:08","timezone":"America\/Sao_Paulo"}}
 
 ----------------------------------------------------------------------------------------------------
 [32/44] FONTE: Fonte U42
 URL: http://case2.lat/player_api.php?&username=175473583&password=643238922
 Usou Proxy: SIM
-Início da checagem: 2026-09-05 00:45:01
-Tempo de resposta: 7.01s
+Início da checagem: 2026-09-05 05:25:32
+Tempo de resposta: 2.76s
 HTTP Status Code: 200
 Content-Type: application/json
 Tamanho da resposta: 500 bytes
@@ -588,14 +799,14 @@ Tentativas realizadas:
   - http://case2.lat/player_api.php?&username=175473583&password=643238922 => HTTP 200
 Observação: created_at=1783398088 | exp_date=1812682799 | active_cons=0 | max_connections=3
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"175473583","password":"643238922","message":".","auth":1,"status":"Active","exp_date":"1812682799","is_trial":"0","active_cons":"0","created_at":"1783398088","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"sixcine.store","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788562432,"time_now":"2026-09-04 19:53:52","timezone":"America\/Sao_Paulo"}}
+{"user_info":{"username":"175473583","password":"643238922","message":".","auth":1,"status":"Active","exp_date":"1812682799","is_trial":"0","active_cons":"0","created_at":"1783398088","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"sixcine.store","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788569105,"time_now":"2026-09-04 21:45:05","timezone":"America\/Sao_Paulo"}}
 
 ----------------------------------------------------------------------------------------------------
 [33/44] FONTE: Fonte U44
 URL: http://case2.lat/player_api.php?&username=753685114&password=689268878
 Usou Proxy: SIM
-Início da checagem: 2026-09-05 00:45:01
-Tempo de resposta: 5.05s
+Início da checagem: 2026-09-05 05:25:32
+Tempo de resposta: 2.93s
 HTTP Status Code: 200
 Content-Type: application/json
 Tamanho da resposta: 500 bytes
@@ -606,14 +817,14 @@ Tentativas realizadas:
   - http://case2.lat/player_api.php?&username=753685114&password=689268878 => HTTP 200
 Observação: created_at=1782137055 | exp_date=1813719599 | active_cons=0 | max_connections=3
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"753685114","password":"689268878","message":".","auth":1,"status":"Active","exp_date":"1813719599","is_trial":"0","active_cons":"0","created_at":"1782137055","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"sixcine.store","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788562432,"time_now":"2026-09-04 19:53:52","timezone":"America\/Sao_Paulo"}}
+{"user_info":{"username":"753685114","password":"689268878","message":".","auth":1,"status":"Active","exp_date":"1813719599","is_trial":"0","active_cons":"0","created_at":"1782137055","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"sixcine.store","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788569106,"time_now":"2026-09-04 21:45:06","timezone":"America\/Sao_Paulo"}}
 
 ----------------------------------------------------------------------------------------------------
 [34/44] FONTE: Fonte U45
 URL: http://case2.lat/player_api.php?&username=648866758&password=722737417
 Usou Proxy: SIM
-Início da checagem: 2026-09-05 00:45:02
-Tempo de resposta: 4.45s
+Início da checagem: 2026-09-05 05:25:32
+Tempo de resposta: 3.03s
 HTTP Status Code: 200
 Content-Type: application/json
 Tamanho da resposta: 500 bytes
@@ -622,16 +833,16 @@ Chaves no JSON raiz: ['user_info', 'server_info']
 Chaves em user_info: ['username', 'password', 'message', 'auth', 'status', 'exp_date', 'is_trial', 'active_cons', 'created_at', 'max_connections', 'allowed_output_formats']
 Tentativas realizadas:
   - http://case2.lat/player_api.php?&username=648866758&password=722737417 => HTTP 200
-Observação: created_at=1781345155 | exp_date=1812941999 | active_cons=1 | max_connections=3
+Observação: created_at=1781345155 | exp_date=1812941999 | active_cons=0 | max_connections=3
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"648866758","password":"722737417","message":".","auth":1,"status":"Active","exp_date":"1812941999","is_trial":"0","active_cons":"1","created_at":"1781345155","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"sixcine.store","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788562432,"time_now":"2026-09-04 19:53:52","timezone":"America\/Sao_Paulo"}}
+{"user_info":{"username":"648866758","password":"722737417","message":".","auth":1,"status":"Active","exp_date":"1812941999","is_trial":"0","active_cons":"0","created_at":"1781345155","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"sixcine.store","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788569106,"time_now":"2026-09-04 21:45:06","timezone":"America\/Sao_Paulo"}}
 
 ----------------------------------------------------------------------------------------------------
 [35/44] FONTE: Fonte U46
 URL: http://case2.lat/player_api.php?&username=399392844&password=784365638
 Usou Proxy: SIM
-Início da checagem: 2026-09-05 00:45:02
-Tempo de resposta: 6.02s
+Início da checagem: 2026-09-05 05:25:32
+Tempo de resposta: 2.73s
 HTTP Status Code: 200
 Content-Type: application/json
 Tamanho da resposta: 500 bytes
@@ -642,14 +853,14 @@ Tentativas realizadas:
   - http://case2.lat/player_api.php?&username=399392844&password=784365638 => HTTP 200
 Observação: created_at=1781027450 | exp_date=1812596399 | active_cons=0 | max_connections=3
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"399392844","password":"784365638","message":".","auth":1,"status":"Active","exp_date":"1812596399","is_trial":"0","active_cons":"0","created_at":"1781027450","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"sixcine.store","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788562432,"time_now":"2026-09-04 19:53:52","timezone":"America\/Sao_Paulo"}}
+{"user_info":{"username":"399392844","password":"784365638","message":".","auth":1,"status":"Active","exp_date":"1812596399","is_trial":"0","active_cons":"0","created_at":"1781027450","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"sixcine.store","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788569105,"time_now":"2026-09-04 21:45:05","timezone":"America\/Sao_Paulo"}}
 
 ----------------------------------------------------------------------------------------------------
 [36/44] FONTE: Fonte U47
 URL: http://case2.lat/player_api.php?&username=858257510&password=975651644
 Usou Proxy: SIM
-Início da checagem: 2026-09-05 00:45:02
-Tempo de resposta: 14.95s
+Início da checagem: 2026-09-05 05:25:32
+Tempo de resposta: 3.34s
 HTTP Status Code: 200
 Content-Type: application/json
 Tamanho da resposta: 500 bytes
@@ -660,14 +871,14 @@ Tentativas realizadas:
   - http://case2.lat/player_api.php?&username=858257510&password=975651644 => HTTP 200
 Observação: created_at=1780314823 | exp_date=1812077999 | active_cons=0 | max_connections=3
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"858257510","password":"975651644","message":".","auth":1,"status":"Active","exp_date":"1812077999","is_trial":"0","active_cons":"0","created_at":"1780314823","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"sixcine.store","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788562432,"time_now":"2026-09-04 19:53:52","timezone":"America\/Sao_Paulo"}}
+{"user_info":{"username":"858257510","password":"975651644","message":".","auth":1,"status":"Active","exp_date":"1812077999","is_trial":"0","active_cons":"0","created_at":"1780314823","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"sixcine.store","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788569117,"time_now":"2026-09-04 21:45:17","timezone":"America\/Sao_Paulo"}}
 
 ----------------------------------------------------------------------------------------------------
 [37/44] FONTE: Fonte U48
 URL: http://case2.lat/player_api.php?&username=223141736&password=496767276
 Usou Proxy: SIM
-Início da checagem: 2026-09-05 00:45:02
-Tempo de resposta: 11.15s
+Início da checagem: 2026-09-05 05:25:32
+Tempo de resposta: 2.93s
 HTTP Status Code: 200
 Content-Type: application/json
 Tamanho da resposta: 500 bytes
@@ -678,14 +889,14 @@ Tentativas realizadas:
   - http://case2.lat/player_api.php?&username=223141736&password=496767276 => HTTP 200
 Observação: created_at=1778961222 | exp_date=1810522799 | active_cons=0 | max_connections=3
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"223141736","password":"496767276","message":".","auth":1,"status":"Active","exp_date":"1810522799","is_trial":"0","active_cons":"0","created_at":"1778961222","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"sixcine.store","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788562432,"time_now":"2026-09-04 19:53:52","timezone":"America\/Sao_Paulo"}}
+{"user_info":{"username":"223141736","password":"496767276","message":".","auth":1,"status":"Active","exp_date":"1810522799","is_trial":"0","active_cons":"0","created_at":"1778961222","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"sixcine.store","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788569109,"time_now":"2026-09-04 21:45:09","timezone":"America\/Sao_Paulo"}}
 
 ----------------------------------------------------------------------------------------------------
 [38/44] FONTE: Fonte U49
 URL: http://case2.lat/player_api.php?&username=777951153&password=939114817
 Usou Proxy: SIM
-Início da checagem: 2026-09-05 00:45:03
-Tempo de resposta: 4.01s
+Início da checagem: 2026-09-05 05:25:32
+Tempo de resposta: 2.72s
 HTTP Status Code: 200
 Content-Type: application/json
 Tamanho da resposta: 500 bytes
@@ -696,14 +907,14 @@ Tentativas realizadas:
   - http://case2.lat/player_api.php?&username=777951153&password=939114817 => HTTP 200
 Observação: created_at=1778448607 | exp_date=1810090799 | active_cons=0 | max_connections=3
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"777951153","password":"939114817","message":".","auth":1,"status":"Active","exp_date":"1810090799","is_trial":"0","active_cons":"0","created_at":"1778448607","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"sixcine.store","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788562432,"time_now":"2026-09-04 19:53:52","timezone":"America\/Sao_Paulo"}}
+{"user_info":{"username":"777951153","password":"939114817","message":".","auth":1,"status":"Active","exp_date":"1810090799","is_trial":"0","active_cons":"0","created_at":"1778448607","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"sixcine.store","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788569106,"time_now":"2026-09-04 21:45:06","timezone":"America\/Sao_Paulo"}}
 
 ----------------------------------------------------------------------------------------------------
 [39/44] FONTE: Fonte U50
 URL: http://case2.lat/player_api.php?&username=971812357&password=246137274
 Usou Proxy: SIM
-Início da checagem: 2026-09-05 00:45:03
-Tempo de resposta: 5.45s
+Início da checagem: 2026-09-05 05:25:32
+Tempo de resposta: 2.81s
 HTTP Status Code: 200
 Content-Type: application/json
 Tamanho da resposta: 500 bytes
@@ -714,14 +925,14 @@ Tentativas realizadas:
   - http://case2.lat/player_api.php?&username=971812357&password=246137274 => HTTP 200
 Observação: created_at=1785158584 | exp_date=1809226799 | active_cons=0 | max_connections=3
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"971812357","password":"246137274","message":".","auth":1,"status":"Active","exp_date":"1809226799","is_trial":"0","active_cons":"0","created_at":"1785158584","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"sixcine.store","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788562433,"time_now":"2026-09-04 19:53:53","timezone":"America\/Sao_Paulo"}}
+{"user_info":{"username":"971812357","password":"246137274","message":".","auth":1,"status":"Active","exp_date":"1809226799","is_trial":"0","active_cons":"0","created_at":"1785158584","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"sixcine.store","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788569108,"time_now":"2026-09-04 21:45:08","timezone":"America\/Sao_Paulo"}}
 
 ----------------------------------------------------------------------------------------------------
 [40/44] FONTE: Fonte U51
 URL: http://case2.lat/player_api.php?&username=988493659&password=241861732
 Usou Proxy: SIM
-Início da checagem: 2026-09-05 00:45:03
-Tempo de resposta: 13.23s
+Início da checagem: 2026-09-05 05:25:33
+Tempo de resposta: 2.36s
 HTTP Status Code: 200
 Content-Type: application/json
 Tamanho da resposta: 500 bytes
@@ -732,14 +943,14 @@ Tentativas realizadas:
   - http://case2.lat/player_api.php?&username=988493659&password=241861732 => HTTP 200
 Observação: created_at=1777306136 | exp_date=1808881199 | active_cons=1 | max_connections=3
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"988493659","password":"241861732","message":".","auth":1,"status":"Active","exp_date":"1808881199","is_trial":"0","active_cons":"1","created_at":"1777306136","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"sixcine.store","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788562432,"time_now":"2026-09-04 19:53:52","timezone":"America\/Sao_Paulo"}}
+{"user_info":{"username":"988493659","password":"241861732","message":".","auth":1,"status":"Active","exp_date":"1808881199","is_trial":"0","active_cons":"1","created_at":"1777306136","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"sixcine.store","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788569111,"time_now":"2026-09-04 21:45:11","timezone":"America\/Sao_Paulo"}}
 
 ----------------------------------------------------------------------------------------------------
 [41/44] FONTE: Fonte U52
 URL: http://case2.lat/player_api.php?&username=943285414&password=493936454
 Usou Proxy: SIM
-Início da checagem: 2026-09-05 00:45:03
-Tempo de resposta: 8.92s
+Início da checagem: 2026-09-05 05:25:33
+Tempo de resposta: 2.31s
 HTTP Status Code: 200
 Content-Type: application/json
 Tamanho da resposta: 500 bytes
@@ -750,14 +961,14 @@ Tentativas realizadas:
   - http://case2.lat/player_api.php?&username=943285414&password=493936454 => HTTP 200
 Observação: created_at=1776348060 | exp_date=1808189999 | active_cons=0 | max_connections=3
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"943285414","password":"493936454","message":".","auth":1,"status":"Active","exp_date":"1808189999","is_trial":"0","active_cons":"0","created_at":"1776348060","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"sixcine.store","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788562433,"time_now":"2026-09-04 19:53:53","timezone":"America\/Sao_Paulo"}}
+{"user_info":{"username":"943285414","password":"493936454","message":".","auth":1,"status":"Active","exp_date":"1808189999","is_trial":"0","active_cons":"0","created_at":"1776348060","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"sixcine.store","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788569109,"time_now":"2026-09-04 21:45:09","timezone":"America\/Sao_Paulo"}}
 
 ----------------------------------------------------------------------------------------------------
 [42/44] FONTE: Fonte U53
 URL: http://case2.lat/player_api.php?&username=872689987&password=824513989
 Usou Proxy: SIM
-Início da checagem: 2026-09-05 00:45:03
-Tempo de resposta: 16.69s
+Início da checagem: 2026-09-05 05:25:33
+Tempo de resposta: 2.11s
 HTTP Status Code: 200
 Content-Type: application/json
 Tamanho da resposta: 500 bytes
@@ -766,16 +977,16 @@ Chaves no JSON raiz: ['user_info', 'server_info']
 Chaves em user_info: ['username', 'password', 'message', 'auth', 'status', 'exp_date', 'is_trial', 'active_cons', 'created_at', 'max_connections', 'allowed_output_formats']
 Tentativas realizadas:
   - http://case2.lat/player_api.php?&username=872689987&password=824513989 => HTTP 200
-Observação: created_at=1775736018 | exp_date=1807325999 | active_cons=1 | max_connections=3
+Observação: created_at=1775736018 | exp_date=1807325999 | active_cons=0 | max_connections=3
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"872689987","password":"824513989","message":".","auth":1,"status":"Active","exp_date":"1807325999","is_trial":"0","active_cons":"1","created_at":"1775736018","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"sixcine.store","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788562433,"time_now":"2026-09-04 19:53:53","timezone":"America\/Sao_Paulo"}}
+{"user_info":{"username":"872689987","password":"824513989","message":".","auth":1,"status":"Active","exp_date":"1807325999","is_trial":"0","active_cons":"0","created_at":"1775736018","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"sixcine.store","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788569112,"time_now":"2026-09-04 21:45:12","timezone":"America\/Sao_Paulo"}}
 
 ----------------------------------------------------------------------------------------------------
 [43/44] FONTE: Fonte U54
 URL: http://case2.lat/player_api.php?&username=338365128&password=769491152
 Usou Proxy: SIM
-Início da checagem: 2026-09-05 00:45:05
-Tempo de resposta: 0.83s
+Início da checagem: 2026-09-05 05:25:34
+Tempo de resposta: 0.71s
 HTTP Status Code: 200
 Content-Type: application/json
 Tamanho da resposta: 500 bytes
@@ -784,16 +995,16 @@ Chaves no JSON raiz: ['user_info', 'server_info']
 Chaves em user_info: ['username', 'password', 'message', 'auth', 'status', 'exp_date', 'is_trial', 'active_cons', 'created_at', 'max_connections', 'allowed_output_formats']
 Tentativas realizadas:
   - http://case2.lat/player_api.php?&username=338365128&password=769491152 => HTTP 200
-Observação: created_at=1775735969 | exp_date=1807325999 | active_cons=0 | max_connections=3
+Observação: created_at=1775735969 | exp_date=1807325999 | active_cons=1 | max_connections=3
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"338365128","password":"769491152","message":".","auth":1,"status":"Active","exp_date":"1807325999","is_trial":"0","active_cons":"0","created_at":"1775735969","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"sixcine.store","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788562432,"time_now":"2026-09-04 19:53:52","timezone":"America\/Sao_Paulo"}}
+{"user_info":{"username":"338365128","password":"769491152","message":".","auth":1,"status":"Active","exp_date":"1807325999","is_trial":"0","active_cons":"1","created_at":"1775735969","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"sixcine.store","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788569105,"time_now":"2026-09-04 21:45:05","timezone":"America\/Sao_Paulo"}}
 
 ----------------------------------------------------------------------------------------------------
 [44/44] FONTE: Fonte U55
 URL: http://case2.lat/player_api.php?&username=754551879&password=531553919
 Usou Proxy: SIM
-Início da checagem: 2026-09-05 00:45:05
-Tempo de resposta: 3.82s
+Início da checagem: 2026-09-05 05:25:34
+Tempo de resposta: 0.77s
 HTTP Status Code: 200
 Content-Type: application/json
 Tamanho da resposta: 500 bytes
@@ -804,7 +1015,7 @@ Tentativas realizadas:
   - http://case2.lat/player_api.php?&username=754551879&password=531553919 => HTTP 200
 Observação: created_at=1780485280 | exp_date=1807153199 | active_cons=0 | max_connections=3
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"754551879","password":"531553919","message":".","auth":1,"status":"Active","exp_date":"1807153199","is_trial":"0","active_cons":"0","created_at":"1780485280","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"sixcine.store","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788562432,"time_now":"2026-09-04 19:53:52","timezone":"America\/Sao_Paulo"}}
+{"user_info":{"username":"754551879","password":"531553919","message":".","auth":1,"status":"Active","exp_date":"1807153199","is_trial":"0","active_cons":"0","created_at":"1780485280","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"sixcine.store","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1788569106,"time_now":"2026-09-04 21:45:06","timezone":"America\/Sao_Paulo"}}
 
 ====================================================================================================
 FIM DO RELATÓRIO
