@@ -1,8 +1,8 @@
 ====================================================================================================
 RELATÓRIO DE DEBUG - MONITORAMENTO IPTV
-Execução em: 05/10/2026 - 19:24:10
+Execução em: 05/10/2026 - 23:47:11
 Total de fontes verificadas: 44
-Tempo total de verificação: 6.7s
+Tempo total de verificação: 7.9s
 Proxy SOCKS5 Utilizado: Sim -> 45.224.240.53:1080
 ====================================================================================================
 
@@ -20,8 +20,8 @@ DETALHE POR FONTE
 [1/44] FONTE: F14M2
 URL: http://play.dnsrot.vip/player_api.php?username=5550388689&password=simpleiptv
 Usou Proxy: SIM
-Início da checagem: 2026-10-05 22:24:03
-Tempo de resposta: 4.29s
+Início da checagem: 2026-10-06 02:47:03
+Tempo de resposta: 3.86s
 HTTP Status Code: None
 Content-Type: None
 Tamanho da resposta: N/A
@@ -106,8 +106,8 @@ requests.exceptions.ConnectionError: SOCKSHTTPConnectionPool(host='play.dnsrot.v
 [2/44] FONTE: F15M2
 URL: http://play.dnsrot.vip/player_api.php?&username=Marcosfp05&password=nlybdft6fml
 Usou Proxy: SIM
-Início da checagem: 2026-10-05 22:24:03
-Tempo de resposta: 4.22s
+Início da checagem: 2026-10-06 02:47:03
+Tempo de resposta: 3.8s
 HTTP Status Code: None
 Content-Type: None
 Tamanho da resposta: N/A
@@ -192,8 +192,8 @@ requests.exceptions.ConnectionError: SOCKSHTTPConnectionPool(host='play.dnsrot.v
 [3/44] FONTE: F25M3
 URL: http://megaxc.ca/player_api.php?&username=ialwg1&password=iao8wo
 Usou Proxy: SIM
-Início da checagem: 2026-10-05 22:24:03
-Tempo de resposta: 1.26s
+Início da checagem: 2026-10-06 02:47:03
+Tempo de resposta: 1.56s
 HTTP Status Code: 404
 Content-Type: text/html; charset=UTF-8
 Tamanho da resposta: 546 bytes
@@ -220,8 +220,8 @@ Resposta bruta (preview, até 800 caracteres):
 [4/44] FONTE: F27M1
 URL: http://play.dnsrot.vip/player_api.php?&username=nena6194sala&password=mqtavfrtyl
 Usou Proxy: SIM
-Início da checagem: 2026-10-05 22:24:03
-Tempo de resposta: 4.29s
+Início da checagem: 2026-10-06 02:47:03
+Tempo de resposta: 3.86s
 HTTP Status Code: None
 Content-Type: None
 Tamanho da resposta: N/A
@@ -306,8 +306,8 @@ requests.exceptions.ConnectionError: SOCKSHTTPConnectionPool(host='play.dnsrot.v
 [5/44] FONTE: F28M1
 URL: http://play.dnsrot.vip/player_api.php?&username=tomoko11&password=14n11oi50oc
 Usou Proxy: SIM
-Início da checagem: 2026-10-05 22:24:03
-Tempo de resposta: 4.23s
+Início da checagem: 2026-10-06 02:47:03
+Tempo de resposta: 3.84s
 HTTP Status Code: None
 Content-Type: None
 Tamanho da resposta: N/A
@@ -392,8 +392,8 @@ requests.exceptions.ConnectionError: SOCKSHTTPConnectionPool(host='play.dnsrot.v
 [6/44] FONTE: F29M3
 URL: http://play.dnsrot.vip/player_api.php?&username=vanessanook&password=vinr390x8y
 Usou Proxy: SIM
-Início da checagem: 2026-10-05 22:24:03
-Tempo de resposta: 5.23s
+Início da checagem: 2026-10-06 02:47:03
+Tempo de resposta: 4.9s
 HTTP Status Code: None
 Content-Type: None
 Tamanho da resposta: N/A
@@ -478,8 +478,8 @@ requests.exceptions.ConnectionError: SOCKSHTTPConnectionPool(host='play.dnsrot.v
 [7/44] FONTE: F31M2
 URL: http://play.dnsrot.vip/player_api.php?&username=zQ4qeGkNrQ&password=factoryiptv
 Usou Proxy: SIM
-Início da checagem: 2026-10-05 22:24:03
-Tempo de resposta: 3.85s
+Início da checagem: 2026-10-06 02:47:03
+Tempo de resposta: 4.99s
 HTTP Status Code: None
 Content-Type: None
 Tamanho da resposta: N/A
@@ -564,8 +564,8 @@ requests.exceptions.ConnectionError: SOCKSHTTPConnectionPool(host='play.dnsrot.v
 [8/44] FONTE: F32M2
 URL: http://play.dnsrot.vip/player_api.php?&username=7RRjPTu5d6&password=factoryiptv
 Usou Proxy: SIM
-Início da checagem: 2026-10-05 22:24:03
-Tempo de resposta: 5.24s
+Início da checagem: 2026-10-06 02:47:03
+Tempo de resposta: 5.71s
 HTTP Status Code: None
 Content-Type: None
 Tamanho da resposta: N/A
@@ -650,8 +650,8 @@ requests.exceptions.ConnectionError: SOCKSHTTPConnectionPool(host='play.dnsrot.v
 [9/44] FONTE: F57M10
 URL: http://agkcl2.cc/player_api.php?&username=719065&password=r12xvZ
 Usou Proxy: SIM
-Início da checagem: 2026-10-05 22:24:03
-Tempo de resposta: 2.97s
+Início da checagem: 2026-10-06 02:47:03
+Tempo de resposta: 3.34s
 HTTP Status Code: 200
 Content-Type: application/json
 Tamanho da resposta: 483 bytes
@@ -662,14 +662,14 @@ Tentativas realizadas:
   - http://agkcl2.cc/player_api.php?&username=719065&password=r12xvZ => HTTP 200
 Observação: created_at=1676736577 | exp_date=None | active_cons=10 | max_connections=10
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"719065","password":"r12xvZ","message":null,"auth":1,"status":"Active","exp_date":null,"is_trial":"0","active_cons":10,"created_at":"1676736577","max_connections":"10","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"agkcl2.cc","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1791239046,"time_now":"2026-10-05 19:24:06","timezone":"America\/Sao_Paulo"}}
+{"user_info":{"username":"719065","password":"r12xvZ","message":null,"auth":1,"status":"Active","exp_date":null,"is_trial":"0","active_cons":10,"created_at":"1676736577","max_connections":"10","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"agkcl2.cc","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1791254826,"time_now":"2026-10-05 23:47:06","timezone":"America\/Sao_Paulo"}}
 
 ----------------------------------------------------------------------------------------------------
 [10/44] FONTE: F61M5
 URL: http://agkcl2.cc/player_api.php?&username=318284&password=pgJqrm
 Usou Proxy: SIM
-Início da checagem: 2026-10-05 22:24:03
-Tempo de resposta: 3.42s
+Início da checagem: 2026-10-06 02:47:03
+Tempo de resposta: 4.17s
 HTTP Status Code: 200
 Content-Type: application/json
 Tamanho da resposta: 489 bytes
@@ -680,14 +680,14 @@ Tentativas realizadas:
   - http://agkcl2.cc/player_api.php?&username=318284&password=pgJqrm => HTTP 200
 Observação: created_at=1674091509 | exp_date=1792292399 | active_cons=1 | max_connections=3
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"318284","password":"pgJqrm","message":null,"auth":1,"status":"Active","exp_date":"1792292399","is_trial":"0","active_cons":1,"created_at":"1674091509","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"agkcl2.cc","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1791239047,"time_now":"2026-10-05 19:24:07","timezone":"America\/Sao_Paulo"}}
+{"user_info":{"username":"318284","password":"pgJqrm","message":null,"auth":1,"status":"Active","exp_date":"1792292399","is_trial":"0","active_cons":1,"created_at":"1674091509","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"agkcl2.cc","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1791254827,"time_now":"2026-10-05 23:47:07","timezone":"America\/Sao_Paulo"}}
 
 ----------------------------------------------------------------------------------------------------
 [11/44] FONTE: F64M5
 URL: http://agkcl2.cc/player_api.php?&username=882170&password=A3FHej
 Usou Proxy: SIM
-Início da checagem: 2026-10-05 22:24:03
-Tempo de resposta: 3.3s
+Início da checagem: 2026-10-06 02:47:03
+Tempo de resposta: 3.48s
 HTTP Status Code: 200
 Content-Type: application/json
 Tamanho da resposta: 489 bytes
@@ -698,14 +698,14 @@ Tentativas realizadas:
   - http://agkcl2.cc/player_api.php?&username=882170&password=A3FHej => HTTP 200
 Observação: created_at=1664382006 | exp_date=1793242799 | active_cons=0 | max_connections=3
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"882170","password":"A3FHej","message":null,"auth":1,"status":"Active","exp_date":"1793242799","is_trial":"0","active_cons":0,"created_at":"1664382006","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"agkcl2.cc","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1791239046,"time_now":"2026-10-05 19:24:06","timezone":"America\/Sao_Paulo"}}
+{"user_info":{"username":"882170","password":"A3FHej","message":null,"auth":1,"status":"Active","exp_date":"1793242799","is_trial":"0","active_cons":0,"created_at":"1664382006","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"agkcl2.cc","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1791254826,"time_now":"2026-10-05 23:47:06","timezone":"America\/Sao_Paulo"}}
 
 ----------------------------------------------------------------------------------------------------
 [12/44] FONTE: F65M5
 URL: http://agkcl2.cc/player_api.php?&username=888647&password=xjfFUu
 Usou Proxy: SIM
-Início da checagem: 2026-10-05 22:24:03
-Tempo de resposta: 2.84s
+Início da checagem: 2026-10-06 02:47:03
+Tempo de resposta: 3.9s
 HTTP Status Code: 200
 Content-Type: application/json
 Tamanho da resposta: 481 bytes
@@ -716,14 +716,14 @@ Tentativas realizadas:
   - http://agkcl2.cc/player_api.php?&username=888647&password=xjfFUu => HTTP 200
 Observação: created_at=1635883230 | exp_date=None | active_cons=0 | max_connections=5
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"888647","password":"xjfFUu","message":null,"auth":1,"status":"Active","exp_date":null,"is_trial":"0","active_cons":0,"created_at":"1635883230","max_connections":"5","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"agkcl2.cc","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1791239046,"time_now":"2026-10-05 19:24:06","timezone":"America\/Sao_Paulo"}}
+{"user_info":{"username":"888647","password":"xjfFUu","message":null,"auth":1,"status":"Active","exp_date":null,"is_trial":"0","active_cons":0,"created_at":"1635883230","max_connections":"5","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"agkcl2.cc","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1791254826,"time_now":"2026-10-05 23:47:06","timezone":"America\/Sao_Paulo"}}
 
 ----------------------------------------------------------------------------------------------------
 [13/44] FONTE: F67M5
 URL: http://cavalo.cc/player_api.php?&username=671409&password=f3UQjJ
 Usou Proxy: SIM
-Início da checagem: 2026-10-05 22:24:03
-Tempo de resposta: 2.64s
+Início da checagem: 2026-10-06 02:47:03
+Tempo de resposta: 3.98s
 HTTP Status Code: 403
 Content-Type: text/html
 Tamanho da resposta: 4448 bytes
@@ -754,8 +754,8 @@ Resposta bruta (preview, até 800 caracteres):
 [14/44] FONTE: F68M5
 URL: http://cavalo.cc/player_api.php?&username=988060&password=zd7YEw
 Usou Proxy: SIM
-Início da checagem: 2026-10-05 22:24:03
-Tempo de resposta: 4.15s
+Início da checagem: 2026-10-06 02:47:03
+Tempo de resposta: 3.66s
 HTTP Status Code: 403
 Content-Type: text/html
 Tamanho da resposta: 4448 bytes
@@ -786,8 +786,8 @@ Resposta bruta (preview, até 800 caracteres):
 [15/44] FONTE: F69M5
 URL: http://cavalo.cc/player_api.php?&username=525656&password=7UDTt9
 Usou Proxy: SIM
-Início da checagem: 2026-10-05 22:24:03
-Tempo de resposta: 2.64s
+Início da checagem: 2026-10-06 02:47:03
+Tempo de resposta: 3.28s
 HTTP Status Code: 403
 Content-Type: text/html
 Tamanho da resposta: 4448 bytes
@@ -818,8 +818,8 @@ Resposta bruta (preview, até 800 caracteres):
 [16/44] FONTE: F70M5
 URL: http://cavalo.cc/player_api.php?&username=544119&password=87XJCZ
 Usou Proxy: SIM
-Início da checagem: 2026-10-05 22:24:06
-Tempo de resposta: 0.14s
+Início da checagem: 2026-10-06 02:47:06
+Tempo de resposta: 0.19s
 HTTP Status Code: 403
 Content-Type: text/html
 Tamanho da resposta: 4448 bytes
@@ -850,8 +850,8 @@ Resposta bruta (preview, até 800 caracteres):
 [17/44] FONTE: F72M5
 URL: http://cavalo.cc/player_api.php?&username=166691&password=SqEdeF
 Usou Proxy: SIM
-Início da checagem: 2026-10-05 22:24:06
-Tempo de resposta: 0.14s
+Início da checagem: 2026-10-06 02:47:06
+Tempo de resposta: 1.32s
 HTTP Status Code: 403
 Content-Type: text/html
 Tamanho da resposta: 4448 bytes
@@ -882,8 +882,8 @@ Resposta bruta (preview, até 800 caracteres):
 [18/44] FONTE: F74M5
 URL: http://cavalo.cc/player_api.php?&username=392157&password=fs8w4W
 Usou Proxy: SIM
-Início da checagem: 2026-10-05 22:24:06
-Tempo de resposta: 0.31s
+Início da checagem: 2026-10-06 02:47:06
+Tempo de resposta: 2.31s
 HTTP Status Code: 403
 Content-Type: text/html
 Tamanho da resposta: 4448 bytes
@@ -914,8 +914,8 @@ Resposta bruta (preview, até 800 caracteres):
 [19/44] FONTE: F75M5
 URL: http://cavalo.cc/player_api.php?&username=393747&password=PEHcPC
 Usou Proxy: SIM
-Início da checagem: 2026-10-05 22:24:06
-Tempo de resposta: 0.31s
+Início da checagem: 2026-10-06 02:47:06
+Tempo de resposta: 0.41s
 HTTP Status Code: 403
 Content-Type: text/html
 Tamanho da resposta: 4448 bytes
@@ -946,8 +946,8 @@ Resposta bruta (preview, até 800 caracteres):
 [20/44] FONTE: F76M5
 URL: http://cavalo.cc/player_api.php?&username=563593&password=vGfUjy
 Usou Proxy: SIM
-Início da checagem: 2026-10-05 22:24:06
-Tempo de resposta: 1.0s
+Início da checagem: 2026-10-06 02:47:06
+Tempo de resposta: 0.19s
 HTTP Status Code: 403
 Content-Type: text/html
 Tamanho da resposta: 4448 bytes
@@ -978,8 +978,8 @@ Resposta bruta (preview, até 800 caracteres):
 [21/44] FONTE: F77M5
 URL: http://cavalo.cc/player_api.php?&username=296115&password=bn2aGw
 Usou Proxy: SIM
-Início da checagem: 2026-10-05 22:24:06
-Tempo de resposta: 0.99s
+Início da checagem: 2026-10-06 02:47:06
+Tempo de resposta: 1.38s
 HTTP Status Code: 403
 Content-Type: text/html
 Tamanho da resposta: 4448 bytes
@@ -1010,8 +1010,8 @@ Resposta bruta (preview, até 800 caracteres):
 [22/44] FONTE: F79M5
 URL: http://cavalo.cc/player_api.php?&username=146336&password=zF39KA
 Usou Proxy: SIM
-Início da checagem: 2026-10-05 22:24:06
-Tempo de resposta: 1.02s
+Início da checagem: 2026-10-06 02:47:06
+Tempo de resposta: 1.33s
 HTTP Status Code: 403
 Content-Type: text/html
 Tamanho da resposta: 4448 bytes
@@ -1042,8 +1042,8 @@ Resposta bruta (preview, até 800 caracteres):
 [23/44] FONTE: F81M5
 URL: http://cavalo.cc/player_api.php?&username=965893&password=Rx5Vau
 Usou Proxy: SIM
-Início da checagem: 2026-10-05 22:24:06
-Tempo de resposta: 0.14s
+Início da checagem: 2026-10-06 02:47:06
+Tempo de resposta: 1.33s
 HTTP Status Code: 403
 Content-Type: text/html
 Tamanho da resposta: 4448 bytes
@@ -1074,8 +1074,8 @@ Resposta bruta (preview, até 800 caracteres):
 [24/44] FONTE: F84M5
 URL: http://cavalo.cc/player_api.php?&username=985028&password=Stj27w
 Usou Proxy: SIM
-Início da checagem: 2026-10-05 22:24:06
-Tempo de resposta: 0.14s
+Início da checagem: 2026-10-06 02:47:06
+Tempo de resposta: 1.34s
 HTTP Status Code: 403
 Content-Type: text/html
 Tamanho da resposta: 4448 bytes
@@ -1106,8 +1106,8 @@ Resposta bruta (preview, até 800 caracteres):
 [25/44] FONTE: F87M5
 URL: http://cavalo.cc/player_api.php?&username=258275&password=GWDsuf
 Usou Proxy: SIM
-Início da checagem: 2026-10-05 22:24:07
-Tempo de resposta: 0.28s
+Início da checagem: 2026-10-06 02:47:07
+Tempo de resposta: 0.41s
 HTTP Status Code: 403
 Content-Type: text/html
 Tamanho da resposta: 4448 bytes
@@ -1138,8 +1138,8 @@ Resposta bruta (preview, até 800 caracteres):
 [26/44] FONTE: F88M5
 URL: http://cavalo.cc/player_api.php?&username=023629&password=Gw91WV
 Usou Proxy: SIM
-Início da checagem: 2026-10-05 22:24:07
-Tempo de resposta: 0.27s
+Início da checagem: 2026-10-06 02:47:07
+Tempo de resposta: 0.2s
 HTTP Status Code: 403
 Content-Type: text/html
 Tamanho da resposta: 4448 bytes
@@ -1170,8 +1170,8 @@ Resposta bruta (preview, até 800 caracteres):
 [27/44] FONTE: F89M5
 URL: http://cavalo.cc/player_api.php?&username=939041&password=8SA9sh
 Usou Proxy: SIM
-Início da checagem: 2026-10-05 22:24:07
-Tempo de resposta: 0.99s
+Início da checagem: 2026-10-06 02:47:07
+Tempo de resposta: 1.31s
 HTTP Status Code: 403
 Content-Type: text/html
 Tamanho da resposta: 4448 bytes
@@ -1202,8 +1202,8 @@ Resposta bruta (preview, até 800 caracteres):
 [28/44] FONTE: Fonte U38
 URL: http://case2.lat/player_api.php?&username=593812776&password=876362759
 Usou Proxy: SIM
-Início da checagem: 2026-10-05 22:24:07
-Tempo de resposta: 1.45s
+Início da checagem: 2026-10-06 02:47:07
+Tempo de resposta: 1.68s
 HTTP Status Code: 200
 Content-Type: application/json
 Tamanho da resposta: 498 bytes
@@ -1220,8 +1220,8 @@ Resposta bruta (preview, até 800 caracteres):
 [29/44] FONTE: Fonte U39
 URL: http://case2.lat/player_api.php?&username=374897485&password=789272274
 Usou Proxy: SIM
-Início da checagem: 2026-10-05 22:24:07
-Tempo de resposta: 1.42s
+Início da checagem: 2026-10-06 02:47:07
+Tempo de resposta: 1.62s
 HTTP Status Code: 200
 Content-Type: application/json
 Tamanho da resposta: 498 bytes
@@ -1238,8 +1238,8 @@ Resposta bruta (preview, até 800 caracteres):
 [30/44] FONTE: Fonte U40
 URL: http://case2.lat/player_api.php?&username=961386894&password=118897421
 Usou Proxy: SIM
-Início da checagem: 2026-10-05 22:24:07
-Tempo de resposta: 1.31s
+Início da checagem: 2026-10-06 02:47:07
+Tempo de resposta: 1.7s
 HTTP Status Code: 200
 Content-Type: application/json
 Tamanho da resposta: 498 bytes
@@ -1256,8 +1256,8 @@ Resposta bruta (preview, até 800 caracteres):
 [31/44] FONTE: Fonte U41
 URL: http://case2.lat/player_api.php?&username=718423457&password=539143340
 Usou Proxy: SIM
-Início da checagem: 2026-10-05 22:24:07
-Tempo de resposta: 1.34s
+Início da checagem: 2026-10-06 02:47:07
+Tempo de resposta: 3.66s
 HTTP Status Code: 200
 Content-Type: application/json
 Tamanho da resposta: 498 bytes
@@ -1274,8 +1274,8 @@ Resposta bruta (preview, até 800 caracteres):
 [32/44] FONTE: Fonte U42
 URL: http://case2.lat/player_api.php?&username=175473583&password=643238922
 Usou Proxy: SIM
-Início da checagem: 2026-10-05 22:24:07
-Tempo de resposta: 1.28s
+Início da checagem: 2026-10-06 02:47:07
+Tempo de resposta: 1.61s
 HTTP Status Code: 200
 Content-Type: application/json
 Tamanho da resposta: 498 bytes
@@ -1292,8 +1292,8 @@ Resposta bruta (preview, até 800 caracteres):
 [33/44] FONTE: Fonte U44
 URL: http://case2.lat/player_api.php?&username=753685114&password=689268878
 Usou Proxy: SIM
-Início da checagem: 2026-10-05 22:24:07
-Tempo de resposta: 1.32s
+Início da checagem: 2026-10-06 02:47:07
+Tempo de resposta: 1.61s
 HTTP Status Code: 200
 Content-Type: application/json
 Tamanho da resposta: 498 bytes
@@ -1310,8 +1310,8 @@ Resposta bruta (preview, até 800 caracteres):
 [34/44] FONTE: Fonte U45
 URL: http://case2.lat/player_api.php?&username=648866758&password=722737417
 Usou Proxy: SIM
-Início da checagem: 2026-10-05 22:24:07
-Tempo de resposta: 1.38s
+Início da checagem: 2026-10-06 02:47:08
+Tempo de resposta: 1.58s
 HTTP Status Code: 200
 Content-Type: application/json
 Tamanho da resposta: 498 bytes
@@ -1328,8 +1328,8 @@ Resposta bruta (preview, até 800 caracteres):
 [35/44] FONTE: Fonte U46
 URL: http://case2.lat/player_api.php?&username=399392844&password=784365638
 Usou Proxy: SIM
-Início da checagem: 2026-10-05 22:24:07
-Tempo de resposta: 1.32s
+Início da checagem: 2026-10-06 02:47:08
+Tempo de resposta: 1.6s
 HTTP Status Code: 200
 Content-Type: application/json
 Tamanho da resposta: 498 bytes
@@ -1346,8 +1346,8 @@ Resposta bruta (preview, até 800 caracteres):
 [36/44] FONTE: Fonte U47
 URL: http://case2.lat/player_api.php?&username=858257510&password=975651644
 Usou Proxy: SIM
-Início da checagem: 2026-10-05 22:24:07
-Tempo de resposta: 1.45s
+Início da checagem: 2026-10-06 02:47:08
+Tempo de resposta: 1.6s
 HTTP Status Code: 200
 Content-Type: application/json
 Tamanho da resposta: 498 bytes
@@ -1364,8 +1364,8 @@ Resposta bruta (preview, até 800 caracteres):
 [37/44] FONTE: Fonte U48
 URL: http://case2.lat/player_api.php?&username=223141736&password=496767276
 Usou Proxy: SIM
-Início da checagem: 2026-10-05 22:24:08
-Tempo de resposta: 1.36s
+Início da checagem: 2026-10-06 02:47:08
+Tempo de resposta: 1.6s
 HTTP Status Code: 200
 Content-Type: application/json
 Tamanho da resposta: 498 bytes
@@ -1382,8 +1382,8 @@ Resposta bruta (preview, até 800 caracteres):
 [38/44] FONTE: Fonte U49
 URL: http://case2.lat/player_api.php?&username=777951153&password=939114817
 Usou Proxy: SIM
-Início da checagem: 2026-10-05 22:24:08
-Tempo de resposta: 2.44s
+Início da checagem: 2026-10-06 02:47:08
+Tempo de resposta: 1.6s
 HTTP Status Code: 200
 Content-Type: application/json
 Tamanho da resposta: 498 bytes
@@ -1400,8 +1400,8 @@ Resposta bruta (preview, até 800 caracteres):
 [39/44] FONTE: Fonte U50
 URL: http://case2.lat/player_api.php?&username=971812357&password=246137274
 Usou Proxy: SIM
-Início da checagem: 2026-10-05 22:24:08
-Tempo de resposta: 1.39s
+Início da checagem: 2026-10-06 02:47:08
+Tempo de resposta: 1.6s
 HTTP Status Code: 200
 Content-Type: application/json
 Tamanho da resposta: 498 bytes
@@ -1418,8 +1418,8 @@ Resposta bruta (preview, até 800 caracteres):
 [40/44] FONTE: Fonte U51
 URL: http://case2.lat/player_api.php?&username=988493659&password=241861732
 Usou Proxy: SIM
-Início da checagem: 2026-10-05 22:24:08
-Tempo de resposta: 2.33s
+Início da checagem: 2026-10-06 02:47:08
+Tempo de resposta: 1.6s
 HTTP Status Code: 200
 Content-Type: application/json
 Tamanho da resposta: 498 bytes
@@ -1436,8 +1436,8 @@ Resposta bruta (preview, até 800 caracteres):
 [41/44] FONTE: Fonte U52
 URL: http://case2.lat/player_api.php?&username=943285414&password=493936454
 Usou Proxy: SIM
-Início da checagem: 2026-10-05 22:24:08
-Tempo de resposta: 0.41s
+Início da checagem: 2026-10-06 02:47:08
+Tempo de resposta: 0.42s
 HTTP Status Code: 200
 Content-Type: application/json
 Tamanho da resposta: 498 bytes
@@ -1454,8 +1454,8 @@ Resposta bruta (preview, até 800 caracteres):
 [42/44] FONTE: Fonte U53
 URL: http://case2.lat/player_api.php?&username=872689987&password=824513989
 Usou Proxy: SIM
-Início da checagem: 2026-10-05 22:24:08
-Tempo de resposta: 0.45s
+Início da checagem: 2026-10-06 02:47:08
+Tempo de resposta: 1.61s
 HTTP Status Code: 200
 Content-Type: application/json
 Tamanho da resposta: 498 bytes
@@ -1472,8 +1472,8 @@ Resposta bruta (preview, até 800 caracteres):
 [43/44] FONTE: Fonte U54
 URL: http://case2.lat/player_api.php?&username=338365128&password=769491152
 Usou Proxy: SIM
-Início da checagem: 2026-10-05 22:24:08
-Tempo de resposta: 0.51s
+Início da checagem: 2026-10-06 02:47:08
+Tempo de resposta: 0.47s
 HTTP Status Code: 200
 Content-Type: application/json
 Tamanho da resposta: 498 bytes
@@ -1490,8 +1490,8 @@ Resposta bruta (preview, até 800 caracteres):
 [44/44] FONTE: Fonte U55
 URL: http://case2.lat/player_api.php?&username=754551879&password=531553919
 Usou Proxy: SIM
-Início da checagem: 2026-10-05 22:24:08
-Tempo de resposta: 0.5s
+Início da checagem: 2026-10-06 02:47:08
+Tempo de resposta: 1.59s
 HTTP Status Code: 200
 Content-Type: application/json
 Tamanho da resposta: 498 bytes
