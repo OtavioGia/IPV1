@@ -1,15 +1,14 @@
 ====================================================================================================
 RELATÓRIO DE DEBUG - MONITORAMENTO IPTV
-Execução em: 10/10/2026 - 22:42:11
+Execução em: 11/10/2026 - 05:32:10
 Total de fontes verificadas: 44
-Tempo total de verificação: 7.9s
+Tempo total de verificação: 17.0s
 Proxy SOCKS5 Utilizado: Sim -> 45.224.240.53:1080
 ====================================================================================================
 
 RESUMO POR STATUS:
   - Bloq. IP: 22
-  - Active: 17
-  - Não Achou: 5
+  - Não Achou: 22
 
 ====================================================================================================
 DETALHE POR FONTE
@@ -19,8 +18,8 @@ DETALHE POR FONTE
 [1/44] FONTE: F14M2
 URL: http://play.dnsrot.vip/player_api.php?username=5550388689&password=simpleiptv
 Usou Proxy: SIM
-Início da checagem: 2026-10-11 01:42:03
-Tempo de resposta: 2.84s
+Início da checagem: 2026-10-11 08:31:53
+Tempo de resposta: 3.4s
 HTTP Status Code: 403
 Content-Type: text/html
 Tamanho da resposta: 93 bytes
@@ -37,8 +36,8 @@ Request forbidden by administrative rules.
 [2/44] FONTE: F15M2
 URL: http://play.dnsrot.vip/player_api.php?&username=Marcosfp05&password=nlybdft6fml
 Usou Proxy: SIM
-Início da checagem: 2026-10-11 01:42:03
-Tempo de resposta: 2.68s
+Início da checagem: 2026-10-11 08:31:53
+Tempo de resposta: 3.4s
 HTTP Status Code: 403
 Content-Type: text/html
 Tamanho da resposta: 93 bytes
@@ -55,8 +54,8 @@ Request forbidden by administrative rules.
 [3/44] FONTE: F25M3
 URL: http://megaxc.ca/player_api.php?&username=ialwg1&password=iao8wo
 Usou Proxy: SIM
-Início da checagem: 2026-10-11 01:42:03
-Tempo de resposta: 2.85s
+Início da checagem: 2026-10-11 08:31:53
+Tempo de resposta: 3.58s
 HTTP Status Code: 404
 Content-Type: text/html; charset=UTF-8
 Tamanho da resposta: 546 bytes
@@ -83,8 +82,8 @@ Resposta bruta (preview, até 800 caracteres):
 [4/44] FONTE: F27M1
 URL: http://play.dnsrot.vip/player_api.php?&username=nena6194sala&password=mqtavfrtyl
 Usou Proxy: SIM
-Início da checagem: 2026-10-11 01:42:03
-Tempo de resposta: 2.67s
+Início da checagem: 2026-10-11 08:31:53
+Tempo de resposta: 3.4s
 HTTP Status Code: 403
 Content-Type: text/html
 Tamanho da resposta: 93 bytes
@@ -101,8 +100,8 @@ Request forbidden by administrative rules.
 [5/44] FONTE: F28M1
 URL: http://play.dnsrot.vip/player_api.php?&username=tomoko11&password=14n11oi50oc
 Usou Proxy: SIM
-Início da checagem: 2026-10-11 01:42:03
-Tempo de resposta: 3.38s
+Início da checagem: 2026-10-11 08:31:53
+Tempo de resposta: 4.33s
 HTTP Status Code: 403
 Content-Type: text/html
 Tamanho da resposta: 93 bytes
@@ -119,8 +118,8 @@ Request forbidden by administrative rules.
 [6/44] FONTE: F29M3
 URL: http://play.dnsrot.vip/player_api.php?&username=vanessanook&password=vinr390x8y
 Usou Proxy: SIM
-Início da checagem: 2026-10-11 01:42:03
-Tempo de resposta: 2.67s
+Início da checagem: 2026-10-11 08:31:53
+Tempo de resposta: 3.39s
 HTTP Status Code: 403
 Content-Type: text/html
 Tamanho da resposta: 93 bytes
@@ -137,8 +136,8 @@ Request forbidden by administrative rules.
 [7/44] FONTE: F31M2
 URL: http://play.dnsrot.vip/player_api.php?&username=zQ4qeGkNrQ&password=factoryiptv
 Usou Proxy: SIM
-Início da checagem: 2026-10-11 01:42:03
-Tempo de resposta: 4.06s
+Início da checagem: 2026-10-11 08:31:53
+Tempo de resposta: 4.33s
 HTTP Status Code: 403
 Content-Type: text/html
 Tamanho da resposta: 93 bytes
@@ -155,8 +154,8 @@ Request forbidden by administrative rules.
 [8/44] FONTE: F32M2
 URL: http://play.dnsrot.vip/player_api.php?&username=7RRjPTu5d6&password=factoryiptv
 Usou Proxy: SIM
-Início da checagem: 2026-10-11 01:42:03
-Tempo de resposta: 4.06s
+Início da checagem: 2026-10-11 08:31:53
+Tempo de resposta: 3.89s
 HTTP Status Code: 403
 Content-Type: text/html
 Tamanho da resposta: 93 bytes
@@ -173,8 +172,8 @@ Request forbidden by administrative rules.
 [9/44] FONTE: F57M10
 URL: http://agkcl2.cc/player_api.php?&username=719065&password=r12xvZ
 Usou Proxy: SIM
-Início da checagem: 2026-10-11 01:42:03
-Tempo de resposta: 5.35s
+Início da checagem: 2026-10-11 08:31:53
+Tempo de resposta: 11.48s
 HTTP Status Code: 404
 Content-Type: text/html
 Tamanho da resposta: 564 bytes
@@ -202,8 +201,8 @@ Resposta bruta (preview, até 800 caracteres):
 [10/44] FONTE: F61M5
 URL: http://agkcl2.cc/player_api.php?&username=318284&password=pgJqrm
 Usou Proxy: SIM
-Início da checagem: 2026-10-11 01:42:03
-Tempo de resposta: 5.33s
+Início da checagem: 2026-10-11 08:31:53
+Tempo de resposta: 11.5s
 HTTP Status Code: 404
 Content-Type: text/html
 Tamanho da resposta: 564 bytes
@@ -231,8 +230,8 @@ Resposta bruta (preview, até 800 caracteres):
 [11/44] FONTE: F64M5
 URL: http://agkcl2.cc/player_api.php?&username=882170&password=A3FHej
 Usou Proxy: SIM
-Início da checagem: 2026-10-11 01:42:03
-Tempo de resposta: 5.23s
+Início da checagem: 2026-10-11 08:31:53
+Tempo de resposta: 11.05s
 HTTP Status Code: 404
 Content-Type: text/html
 Tamanho da resposta: 564 bytes
@@ -260,8 +259,8 @@ Resposta bruta (preview, até 800 caracteres):
 [12/44] FONTE: F65M5
 URL: http://agkcl2.cc/player_api.php?&username=888647&password=xjfFUu
 Usou Proxy: SIM
-Início da checagem: 2026-10-11 01:42:03
-Tempo de resposta: 5.23s
+Início da checagem: 2026-10-11 08:31:53
+Tempo de resposta: 11.08s
 HTTP Status Code: 404
 Content-Type: text/html
 Tamanho da resposta: 564 bytes
@@ -289,8 +288,8 @@ Resposta bruta (preview, até 800 caracteres):
 [13/44] FONTE: F67M5
 URL: http://cavalo.cc/player_api.php?&username=671409&password=f3UQjJ
 Usou Proxy: SIM
-Início da checagem: 2026-10-11 01:42:03
-Tempo de resposta: 4.09s
+Início da checagem: 2026-10-11 08:31:53
+Tempo de resposta: 3.89s
 HTTP Status Code: 403
 Content-Type: text/html
 Tamanho da resposta: 4448 bytes
@@ -321,8 +320,8 @@ Resposta bruta (preview, até 800 caracteres):
 [14/44] FONTE: F68M5
 URL: http://cavalo.cc/player_api.php?&username=988060&password=zd7YEw
 Usou Proxy: SIM
-Início da checagem: 2026-10-11 01:42:03
-Tempo de resposta: 4.09s
+Início da checagem: 2026-10-11 08:31:53
+Tempo de resposta: 4.27s
 HTTP Status Code: 403
 Content-Type: text/html
 Tamanho da resposta: 4448 bytes
@@ -353,8 +352,8 @@ Resposta bruta (preview, até 800 caracteres):
 [15/44] FONTE: F69M5
 URL: http://cavalo.cc/player_api.php?&username=525656&password=7UDTt9
 Usou Proxy: SIM
-Início da checagem: 2026-10-11 01:42:03
-Tempo de resposta: 4.08s
+Início da checagem: 2026-10-11 08:31:53
+Tempo de resposta: 3.88s
 HTTP Status Code: 403
 Content-Type: text/html
 Tamanho da resposta: 4448 bytes
@@ -385,8 +384,8 @@ Resposta bruta (preview, até 800 caracteres):
 [16/44] FONTE: F70M5
 URL: http://cavalo.cc/player_api.php?&username=544119&password=87XJCZ
 Usou Proxy: SIM
-Início da checagem: 2026-10-11 01:42:06
-Tempo de resposta: 2.37s
+Início da checagem: 2026-10-11 08:31:56
+Tempo de resposta: 1.35s
 HTTP Status Code: 403
 Content-Type: text/html
 Tamanho da resposta: 4448 bytes
@@ -417,8 +416,8 @@ Resposta bruta (preview, até 800 caracteres):
 [17/44] FONTE: F72M5
 URL: http://cavalo.cc/player_api.php?&username=166691&password=SqEdeF
 Usou Proxy: SIM
-Início da checagem: 2026-10-11 01:42:06
-Tempo de resposta: 2.37s
+Início da checagem: 2026-10-11 08:31:56
+Tempo de resposta: 1.35s
 HTTP Status Code: 403
 Content-Type: text/html
 Tamanho da resposta: 4448 bytes
@@ -449,8 +448,8 @@ Resposta bruta (preview, até 800 caracteres):
 [18/44] FONTE: F74M5
 URL: http://cavalo.cc/player_api.php?&username=392157&password=fs8w4W
 Usou Proxy: SIM
-Início da checagem: 2026-10-11 01:42:06
-Tempo de resposta: 2.37s
+Início da checagem: 2026-10-11 08:31:56
+Tempo de resposta: 1.35s
 HTTP Status Code: 403
 Content-Type: text/html
 Tamanho da resposta: 4448 bytes
@@ -481,8 +480,8 @@ Resposta bruta (preview, até 800 caracteres):
 [19/44] FONTE: F75M5
 URL: http://cavalo.cc/player_api.php?&username=393747&password=PEHcPC
 Usou Proxy: SIM
-Início da checagem: 2026-10-11 01:42:06
-Tempo de resposta: 2.2s
+Início da checagem: 2026-10-11 08:31:56
+Tempo de resposta: 1.35s
 HTTP Status Code: 403
 Content-Type: text/html
 Tamanho da resposta: 4448 bytes
@@ -513,8 +512,8 @@ Resposta bruta (preview, até 800 caracteres):
 [20/44] FONTE: F76M5
 URL: http://cavalo.cc/player_api.php?&username=563593&password=vGfUjy
 Usou Proxy: SIM
-Início da checagem: 2026-10-11 01:42:06
-Tempo de resposta: 2.04s
+Início da checagem: 2026-10-11 08:31:57
+Tempo de resposta: 1.3s
 HTTP Status Code: 403
 Content-Type: text/html
 Tamanho da resposta: 4448 bytes
@@ -545,8 +544,8 @@ Resposta bruta (preview, até 800 caracteres):
 [21/44] FONTE: F77M5
 URL: http://cavalo.cc/player_api.php?&username=296115&password=bn2aGw
 Usou Proxy: SIM
-Início da checagem: 2026-10-11 01:42:07
-Tempo de resposta: 1.73s
+Início da checagem: 2026-10-11 08:31:57
+Tempo de resposta: 0.19s
 HTTP Status Code: 403
 Content-Type: text/html
 Tamanho da resposta: 4448 bytes
@@ -577,8 +576,8 @@ Resposta bruta (preview, até 800 caracteres):
 [22/44] FONTE: F79M5
 URL: http://cavalo.cc/player_api.php?&username=146336&password=zF39KA
 Usou Proxy: SIM
-Início da checagem: 2026-10-11 01:42:07
-Tempo de resposta: 1.73s
+Início da checagem: 2026-10-11 08:31:57
+Tempo de resposta: 0.19s
 HTTP Status Code: 403
 Content-Type: text/html
 Tamanho da resposta: 4448 bytes
@@ -609,8 +608,8 @@ Resposta bruta (preview, até 800 caracteres):
 [23/44] FONTE: F81M5
 URL: http://cavalo.cc/player_api.php?&username=965893&password=Rx5Vau
 Usou Proxy: SIM
-Início da checagem: 2026-10-11 01:42:07
-Tempo de resposta: 0.78s
+Início da checagem: 2026-10-11 08:31:57
+Tempo de resposta: 0.41s
 HTTP Status Code: 403
 Content-Type: text/html
 Tamanho da resposta: 4448 bytes
@@ -641,8 +640,8 @@ Resposta bruta (preview, até 800 caracteres):
 [24/44] FONTE: F84M5
 URL: http://cavalo.cc/player_api.php?&username=985028&password=Stj27w
 Usou Proxy: SIM
-Início da checagem: 2026-10-11 01:42:07
-Tempo de resposta: 0.78s
+Início da checagem: 2026-10-11 08:31:57
+Tempo de resposta: 0.41s
 HTTP Status Code: 403
 Content-Type: text/html
 Tamanho da resposta: 4448 bytes
@@ -673,8 +672,8 @@ Resposta bruta (preview, até 800 caracteres):
 [25/44] FONTE: F87M5
 URL: http://cavalo.cc/player_api.php?&username=258275&password=GWDsuf
 Usou Proxy: SIM
-Início da checagem: 2026-10-11 01:42:07
-Tempo de resposta: 0.78s
+Início da checagem: 2026-10-11 08:31:57
+Tempo de resposta: 0.19s
 HTTP Status Code: 403
 Content-Type: text/html
 Tamanho da resposta: 4448 bytes
@@ -705,8 +704,8 @@ Resposta bruta (preview, até 800 caracteres):
 [26/44] FONTE: F88M5
 URL: http://cavalo.cc/player_api.php?&username=023629&password=Gw91WV
 Usou Proxy: SIM
-Início da checagem: 2026-10-11 01:42:08
-Tempo de resposta: 0.37s
+Início da checagem: 2026-10-11 08:31:57
+Tempo de resposta: 1.7s
 HTTP Status Code: 403
 Content-Type: text/html
 Tamanho da resposta: 4448 bytes
@@ -737,8 +736,8 @@ Resposta bruta (preview, até 800 caracteres):
 [27/44] FONTE: F89M5
 URL: http://cavalo.cc/player_api.php?&username=939041&password=8SA9sh
 Usou Proxy: SIM
-Início da checagem: 2026-10-11 01:42:08
-Tempo de resposta: 0.37s
+Início da checagem: 2026-10-11 08:31:57
+Tempo de resposta: 1.7s
 HTTP Status Code: 403
 Content-Type: text/html
 Tamanho da resposta: 4448 bytes
@@ -769,307 +768,477 @@ Resposta bruta (preview, até 800 caracteres):
 [28/44] FONTE: Fonte U38
 URL: http://case2.lat/player_api.php?&username=593812776&password=876362759
 Usou Proxy: SIM
-Início da checagem: 2026-10-11 01:42:08
-Tempo de resposta: 1.59s
-HTTP Status Code: 200
-Content-Type: application/json
-Tamanho da resposta: 498 bytes
-STATUS FINAL ATRIBUÍDO: Active
-Chaves no JSON raiz: ['user_info', 'server_info']
-Chaves em user_info: ['username', 'password', 'message', 'auth', 'status', 'exp_date', 'is_trial', 'active_cons', 'created_at', 'max_connections', 'allowed_output_formats']
+Início da checagem: 2026-10-11 08:31:57
+Tempo de resposta: 1.65s
+HTTP Status Code: 404
+Content-Type: text/html; charset=UTF-8
+Tamanho da resposta: 913 bytes
+STATUS FINAL ATRIBUÍDO: Não Achou
 Tentativas realizadas:
-  - http://case2.lat/player_api.php?&username=593812776&password=876362759 => HTTP 200
-Observação: created_at=1774470452 | exp_date=2065229999 | active_cons=0 | max_connections=3
+  - http://case2.lat/player_api.php?&username=593812776&password=876362759 => HTTP 404
+  - http://case2.lat/player_api.php?&username=593812776&password=876362759 => Retry 404 -> HTTP 404
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"593812776","password":"876362759","message":".","auth":1,"status":"Active","exp_date":"2065229999","is_trial":"0","active_cons":"0","created_at":"1774470452","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"srcine.site","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1791670844,"time_now":"2026-10-10 19:20:44","timezone":"America\/Sao_Paulo"}}
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx</center>
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v4bc70e2c01a94c73b74392e4234840661791215815920" integrity="sha512-L0ha0OXavK/8okipN9F8BtP84dg9DUhPERbBXzwI6dgTA55d2+yweo3pn5CSFYs45/r8md2+xvUPtTdvTNRfjA==" data-cf-beacon='{"version":"2024.11.0","token":"ac2abce7e1ad45d88a33e5f2390c193f","r":1,"spa":2}' crossorigin="anonymous"></script>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to d
 
 ----------------------------------------------------------------------------------------------------
 [29/44] FONTE: Fonte U39
 URL: http://case2.lat/player_api.php?&username=374897485&password=789272274
 Usou Proxy: SIM
-Início da checagem: 2026-10-11 01:42:08
-Tempo de resposta: 1.55s
-HTTP Status Code: 200
-Content-Type: application/json
-Tamanho da resposta: 498 bytes
-STATUS FINAL ATRIBUÍDO: Active
-Chaves no JSON raiz: ['user_info', 'server_info']
-Chaves em user_info: ['username', 'password', 'message', 'auth', 'status', 'exp_date', 'is_trial', 'active_cons', 'created_at', 'max_connections', 'allowed_output_formats']
+Início da checagem: 2026-10-11 08:31:57
+Tempo de resposta: 1.85s
+HTTP Status Code: 404
+Content-Type: text/html; charset=UTF-8
+Tamanho da resposta: 913 bytes
+STATUS FINAL ATRIBUÍDO: Não Achou
 Tentativas realizadas:
-  - http://case2.lat/player_api.php?&username=374897485&password=789272274 => HTTP 200
-Observação: created_at=1774470443 | exp_date=2065057199 | active_cons=0 | max_connections=3
+  - http://case2.lat/player_api.php?&username=374897485&password=789272274 => HTTP 404
+  - http://case2.lat/player_api.php?&username=374897485&password=789272274 => Retry 404 -> HTTP 404
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"374897485","password":"789272274","message":".","auth":1,"status":"Active","exp_date":"2065057199","is_trial":"0","active_cons":"0","created_at":"1774470443","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"srcine.site","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1791670844,"time_now":"2026-10-10 19:20:44","timezone":"America\/Sao_Paulo"}}
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx</center>
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v4bc70e2c01a94c73b74392e4234840661791215815920" integrity="sha512-L0ha0OXavK/8okipN9F8BtP84dg9DUhPERbBXzwI6dgTA55d2+yweo3pn5CSFYs45/r8md2+xvUPtTdvTNRfjA==" data-cf-beacon='{"version":"2024.11.0","token":"ac2abce7e1ad45d88a33e5f2390c193f","r":1,"spa":2}' crossorigin="anonymous"></script>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to d
 
 ----------------------------------------------------------------------------------------------------
 [30/44] FONTE: Fonte U40
 URL: http://case2.lat/player_api.php?&username=961386894&password=118897421
 Usou Proxy: SIM
-Início da checagem: 2026-10-11 01:42:08
-Tempo de resposta: 2.41s
-HTTP Status Code: 200
-Content-Type: application/json
-Tamanho da resposta: 498 bytes
-STATUS FINAL ATRIBUÍDO: Active
-Chaves no JSON raiz: ['user_info', 'server_info']
-Chaves em user_info: ['username', 'password', 'message', 'auth', 'status', 'exp_date', 'is_trial', 'active_cons', 'created_at', 'max_connections', 'allowed_output_formats']
+Início da checagem: 2026-10-11 08:31:57
+Tempo de resposta: 2.43s
+HTTP Status Code: 404
+Content-Type: text/html; charset=UTF-8
+Tamanho da resposta: 913 bytes
+STATUS FINAL ATRIBUÍDO: Não Achou
 Tentativas realizadas:
-  - http://case2.lat/player_api.php?&username=961386894&password=118897421 => HTTP 200
-Observação: created_at=1790721822 | exp_date=1906772399 | active_cons=0 | max_connections=3
+  - http://case2.lat/player_api.php?&username=961386894&password=118897421 => HTTP 404
+  - http://case2.lat/player_api.php?&username=961386894&password=118897421 => Retry 404 -> HTTP 404
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"961386894","password":"118897421","message":".","auth":1,"status":"Active","exp_date":"1906772399","is_trial":"0","active_cons":"0","created_at":"1790721822","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"srcine.site","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1791670844,"time_now":"2026-10-10 19:20:44","timezone":"America\/Sao_Paulo"}}
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx</center>
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v4bc70e2c01a94c73b74392e4234840661791215815920" integrity="sha512-L0ha0OXavK/8okipN9F8BtP84dg9DUhPERbBXzwI6dgTA55d2+yweo3pn5CSFYs45/r8md2+xvUPtTdvTNRfjA==" data-cf-beacon='{"version":"2024.11.0","token":"ac2abce7e1ad45d88a33e5f2390c193f","r":1,"spa":2}' crossorigin="anonymous"></script>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to d
 
 ----------------------------------------------------------------------------------------------------
 [31/44] FONTE: Fonte U41
 URL: http://case2.lat/player_api.php?&username=718423457&password=539143340
 Usou Proxy: SIM
-Início da checagem: 2026-10-11 01:42:08
-Tempo de resposta: 1.53s
-HTTP Status Code: 200
-Content-Type: application/json
-Tamanho da resposta: 498 bytes
-STATUS FINAL ATRIBUÍDO: Active
-Chaves no JSON raiz: ['user_info', 'server_info']
-Chaves em user_info: ['username', 'password', 'message', 'auth', 'status', 'exp_date', 'is_trial', 'active_cons', 'created_at', 'max_connections', 'allowed_output_formats']
+Início da checagem: 2026-10-11 08:31:58
+Tempo de resposta: 1.77s
+HTTP Status Code: 404
+Content-Type: text/html; charset=UTF-8
+Tamanho da resposta: 913 bytes
+STATUS FINAL ATRIBUÍDO: Não Achou
 Tentativas realizadas:
-  - http://case2.lat/player_api.php?&username=718423457&password=539143340 => HTTP 200
-Observação: created_at=1774470402 | exp_date=1906772399 | active_cons=0 | max_connections=3
+  - http://case2.lat/player_api.php?&username=718423457&password=539143340 => HTTP 404
+  - http://case2.lat/player_api.php?&username=718423457&password=539143340 => Retry 404 -> HTTP 404
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"718423457","password":"539143340","message":".","auth":1,"status":"Active","exp_date":"1906772399","is_trial":"0","active_cons":"0","created_at":"1774470402","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"srcine.site","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1791670845,"time_now":"2026-10-10 19:20:45","timezone":"America\/Sao_Paulo"}}
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx</center>
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v4bc70e2c01a94c73b74392e4234840661791215815920" integrity="sha512-L0ha0OXavK/8okipN9F8BtP84dg9DUhPERbBXzwI6dgTA55d2+yweo3pn5CSFYs45/r8md2+xvUPtTdvTNRfjA==" data-cf-beacon='{"version":"2024.11.0","token":"ac2abce7e1ad45d88a33e5f2390c193f","r":1,"spa":2}' crossorigin="anonymous"></script>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to d
 
 ----------------------------------------------------------------------------------------------------
 [32/44] FONTE: Fonte U42
 URL: http://case2.lat/player_api.php?&username=175473583&password=643238922
 Usou Proxy: SIM
-Início da checagem: 2026-10-11 01:42:08
-Tempo de resposta: 1.8s
-HTTP Status Code: 200
-Content-Type: application/json
-Tamanho da resposta: 498 bytes
-STATUS FINAL ATRIBUÍDO: Active
-Chaves no JSON raiz: ['user_info', 'server_info']
-Chaves em user_info: ['username', 'password', 'message', 'auth', 'status', 'exp_date', 'is_trial', 'active_cons', 'created_at', 'max_connections', 'allowed_output_formats']
+Início da checagem: 2026-10-11 08:31:58
+Tempo de resposta: 1.82s
+HTTP Status Code: 404
+Content-Type: text/html; charset=UTF-8
+Tamanho da resposta: 913 bytes
+STATUS FINAL ATRIBUÍDO: Não Achou
 Tentativas realizadas:
-  - http://case2.lat/player_api.php?&username=175473583&password=643238922 => HTTP 200
-Observação: created_at=1783398088 | exp_date=1812682799 | active_cons=0 | max_connections=3
+  - http://case2.lat/player_api.php?&username=175473583&password=643238922 => HTTP 404
+  - http://case2.lat/player_api.php?&username=175473583&password=643238922 => Retry 404 -> HTTP 404
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"175473583","password":"643238922","message":".","auth":1,"status":"Active","exp_date":"1812682799","is_trial":"0","active_cons":"0","created_at":"1783398088","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"srcine.site","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1791670845,"time_now":"2026-10-10 19:20:45","timezone":"America\/Sao_Paulo"}}
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx</center>
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v4bc70e2c01a94c73b74392e4234840661791215815920" integrity="sha512-L0ha0OXavK/8okipN9F8BtP84dg9DUhPERbBXzwI6dgTA55d2+yweo3pn5CSFYs45/r8md2+xvUPtTdvTNRfjA==" data-cf-beacon='{"version":"2024.11.0","token":"ac2abce7e1ad45d88a33e5f2390c193f","r":1,"spa":2}' crossorigin="anonymous"></script>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to d
 
 ----------------------------------------------------------------------------------------------------
 [33/44] FONTE: Fonte U44
 URL: http://case2.lat/player_api.php?&username=753685114&password=689268878
 Usou Proxy: SIM
-Início da checagem: 2026-10-11 01:42:08
-Tempo de resposta: 2.2s
-HTTP Status Code: 200
-Content-Type: application/json
-Tamanho da resposta: 498 bytes
-STATUS FINAL ATRIBUÍDO: Active
-Chaves no JSON raiz: ['user_info', 'server_info']
-Chaves em user_info: ['username', 'password', 'message', 'auth', 'status', 'exp_date', 'is_trial', 'active_cons', 'created_at', 'max_connections', 'allowed_output_formats']
+Início da checagem: 2026-10-11 08:31:58
+Tempo de resposta: 1.75s
+HTTP Status Code: 404
+Content-Type: text/html; charset=UTF-8
+Tamanho da resposta: 913 bytes
+STATUS FINAL ATRIBUÍDO: Não Achou
 Tentativas realizadas:
-  - http://case2.lat/player_api.php?&username=753685114&password=689268878 => HTTP 200
-Observação: created_at=1782137055 | exp_date=1813719599 | active_cons=0 | max_connections=3
+  - http://case2.lat/player_api.php?&username=753685114&password=689268878 => HTTP 404
+  - http://case2.lat/player_api.php?&username=753685114&password=689268878 => Retry 404 -> HTTP 404
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"753685114","password":"689268878","message":".","auth":1,"status":"Active","exp_date":"1813719599","is_trial":"0","active_cons":"0","created_at":"1782137055","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"srcine.site","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1791670844,"time_now":"2026-10-10 19:20:44","timezone":"America\/Sao_Paulo"}}
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx</center>
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v4bc70e2c01a94c73b74392e4234840661791215815920" integrity="sha512-L0ha0OXavK/8okipN9F8BtP84dg9DUhPERbBXzwI6dgTA55d2+yweo3pn5CSFYs45/r8md2+xvUPtTdvTNRfjA==" data-cf-beacon='{"version":"2024.11.0","token":"ac2abce7e1ad45d88a33e5f2390c193f","r":1,"spa":2}' crossorigin="anonymous"></script>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to d
 
 ----------------------------------------------------------------------------------------------------
 [34/44] FONTE: Fonte U45
 URL: http://case2.lat/player_api.php?&username=648866758&password=722737417
 Usou Proxy: SIM
-Início da checagem: 2026-10-11 01:42:08
-Tempo de resposta: 2.2s
-HTTP Status Code: 200
-Content-Type: application/json
-Tamanho da resposta: 498 bytes
-STATUS FINAL ATRIBUÍDO: Active
-Chaves no JSON raiz: ['user_info', 'server_info']
-Chaves em user_info: ['username', 'password', 'message', 'auth', 'status', 'exp_date', 'is_trial', 'active_cons', 'created_at', 'max_connections', 'allowed_output_formats']
+Início da checagem: 2026-10-11 08:31:58
+Tempo de resposta: 1.76s
+HTTP Status Code: 404
+Content-Type: text/html; charset=UTF-8
+Tamanho da resposta: 913 bytes
+STATUS FINAL ATRIBUÍDO: Não Achou
 Tentativas realizadas:
-  - http://case2.lat/player_api.php?&username=648866758&password=722737417 => HTTP 200
-Observação: created_at=1781345155 | exp_date=1812941999 | active_cons=0 | max_connections=3
+  - http://case2.lat/player_api.php?&username=648866758&password=722737417 => HTTP 404
+  - http://case2.lat/player_api.php?&username=648866758&password=722737417 => Retry 404 -> HTTP 404
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"648866758","password":"722737417","message":".","auth":1,"status":"Active","exp_date":"1812941999","is_trial":"0","active_cons":"0","created_at":"1781345155","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"srcine.site","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1791670845,"time_now":"2026-10-10 19:20:45","timezone":"America\/Sao_Paulo"}}
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx</center>
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v4bc70e2c01a94c73b74392e4234840661791215815920" integrity="sha512-L0ha0OXavK/8okipN9F8BtP84dg9DUhPERbBXzwI6dgTA55d2+yweo3pn5CSFYs45/r8md2+xvUPtTdvTNRfjA==" data-cf-beacon='{"version":"2024.11.0","token":"ac2abce7e1ad45d88a33e5f2390c193f","r":1,"spa":2}' crossorigin="anonymous"></script>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to d
 
 ----------------------------------------------------------------------------------------------------
 [35/44] FONTE: Fonte U46
 URL: http://case2.lat/player_api.php?&username=399392844&password=784365638
 Usou Proxy: SIM
-Início da checagem: 2026-10-11 01:42:08
-Tempo de resposta: 1.55s
-HTTP Status Code: 200
-Content-Type: application/json
-Tamanho da resposta: 498 bytes
-STATUS FINAL ATRIBUÍDO: Active
-Chaves no JSON raiz: ['user_info', 'server_info']
-Chaves em user_info: ['username', 'password', 'message', 'auth', 'status', 'exp_date', 'is_trial', 'active_cons', 'created_at', 'max_connections', 'allowed_output_formats']
+Início da checagem: 2026-10-11 08:31:58
+Tempo de resposta: 1.53s
+HTTP Status Code: 404
+Content-Type: text/html; charset=UTF-8
+Tamanho da resposta: 913 bytes
+STATUS FINAL ATRIBUÍDO: Não Achou
 Tentativas realizadas:
-  - http://case2.lat/player_api.php?&username=399392844&password=784365638 => HTTP 200
-Observação: created_at=1781027450 | exp_date=1812596399 | active_cons=0 | max_connections=3
+  - http://case2.lat/player_api.php?&username=399392844&password=784365638 => HTTP 404
+  - http://case2.lat/player_api.php?&username=399392844&password=784365638 => Retry 404 -> HTTP 404
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"399392844","password":"784365638","message":".","auth":1,"status":"Active","exp_date":"1812596399","is_trial":"0","active_cons":"0","created_at":"1781027450","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"srcine.site","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1791670845,"time_now":"2026-10-10 19:20:45","timezone":"America\/Sao_Paulo"}}
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx</center>
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v4bc70e2c01a94c73b74392e4234840661791215815920" integrity="sha512-L0ha0OXavK/8okipN9F8BtP84dg9DUhPERbBXzwI6dgTA55d2+yweo3pn5CSFYs45/r8md2+xvUPtTdvTNRfjA==" data-cf-beacon='{"version":"2024.11.0","token":"ac2abce7e1ad45d88a33e5f2390c193f","r":1,"spa":2}' crossorigin="anonymous"></script>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to d
 
 ----------------------------------------------------------------------------------------------------
 [36/44] FONTE: Fonte U47
 URL: http://case2.lat/player_api.php?&username=858257510&password=975651644
 Usou Proxy: SIM
-Início da checagem: 2026-10-11 01:42:09
-Tempo de resposta: 1.5s
-HTTP Status Code: 200
-Content-Type: application/json
-Tamanho da resposta: 498 bytes
-STATUS FINAL ATRIBUÍDO: Active
-Chaves no JSON raiz: ['user_info', 'server_info']
-Chaves em user_info: ['username', 'password', 'message', 'auth', 'status', 'exp_date', 'is_trial', 'active_cons', 'created_at', 'max_connections', 'allowed_output_formats']
+Início da checagem: 2026-10-11 08:31:59
+Tempo de resposta: 1.37s
+HTTP Status Code: 404
+Content-Type: text/html; charset=UTF-8
+Tamanho da resposta: 913 bytes
+STATUS FINAL ATRIBUÍDO: Não Achou
 Tentativas realizadas:
-  - http://case2.lat/player_api.php?&username=858257510&password=975651644 => HTTP 200
-Observação: created_at=1780314823 | exp_date=1812077999 | active_cons=0 | max_connections=3
+  - http://case2.lat/player_api.php?&username=858257510&password=975651644 => HTTP 404
+  - http://case2.lat/player_api.php?&username=858257510&password=975651644 => Retry 404 -> HTTP 404
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"858257510","password":"975651644","message":".","auth":1,"status":"Active","exp_date":"1812077999","is_trial":"0","active_cons":"0","created_at":"1780314823","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"srcine.site","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1791670846,"time_now":"2026-10-10 19:20:46","timezone":"America\/Sao_Paulo"}}
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx</center>
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v4bc70e2c01a94c73b74392e4234840661791215815920" integrity="sha512-L0ha0OXavK/8okipN9F8BtP84dg9DUhPERbBXzwI6dgTA55d2+yweo3pn5CSFYs45/r8md2+xvUPtTdvTNRfjA==" data-cf-beacon='{"version":"2024.11.0","token":"ac2abce7e1ad45d88a33e5f2390c193f","r":1,"spa":2}' crossorigin="anonymous"></script>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to d
 
 ----------------------------------------------------------------------------------------------------
 [37/44] FONTE: Fonte U48
 URL: http://case2.lat/player_api.php?&username=223141736&password=496767276
 Usou Proxy: SIM
-Início da checagem: 2026-10-11 01:42:09
-Tempo de resposta: 2.14s
-HTTP Status Code: 200
-Content-Type: application/json
-Tamanho da resposta: 498 bytes
-STATUS FINAL ATRIBUÍDO: Active
-Chaves no JSON raiz: ['user_info', 'server_info']
-Chaves em user_info: ['username', 'password', 'message', 'auth', 'status', 'exp_date', 'is_trial', 'active_cons', 'created_at', 'max_connections', 'allowed_output_formats']
+Início da checagem: 2026-10-11 08:31:59
+Tempo de resposta: 1.37s
+HTTP Status Code: 404
+Content-Type: text/html; charset=UTF-8
+Tamanho da resposta: 913 bytes
+STATUS FINAL ATRIBUÍDO: Não Achou
 Tentativas realizadas:
-  - http://case2.lat/player_api.php?&username=223141736&password=496767276 => HTTP 200
-Observação: created_at=1778961222 | exp_date=1810522799 | active_cons=0 | max_connections=3
+  - http://case2.lat/player_api.php?&username=223141736&password=496767276 => HTTP 404
+  - http://case2.lat/player_api.php?&username=223141736&password=496767276 => Retry 404 -> HTTP 404
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"223141736","password":"496767276","message":".","auth":1,"status":"Active","exp_date":"1810522799","is_trial":"0","active_cons":"0","created_at":"1778961222","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"srcine.site","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1791670844,"time_now":"2026-10-10 19:20:44","timezone":"America\/Sao_Paulo"}}
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx</center>
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v4bc70e2c01a94c73b74392e4234840661791215815920" integrity="sha512-L0ha0OXavK/8okipN9F8BtP84dg9DUhPERbBXzwI6dgTA55d2+yweo3pn5CSFYs45/r8md2+xvUPtTdvTNRfjA==" data-cf-beacon='{"version":"2024.11.0","token":"ac2abce7e1ad45d88a33e5f2390c193f","r":1,"spa":2}' crossorigin="anonymous"></script>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to d
 
 ----------------------------------------------------------------------------------------------------
 [38/44] FONTE: Fonte U49
 URL: http://case2.lat/player_api.php?&username=777951153&password=939114817
 Usou Proxy: SIM
-Início da checagem: 2026-10-11 01:42:09
-Tempo de resposta: 2.13s
-HTTP Status Code: 200
-Content-Type: application/json
-Tamanho da resposta: 498 bytes
-STATUS FINAL ATRIBUÍDO: Active
-Chaves no JSON raiz: ['user_info', 'server_info']
-Chaves em user_info: ['username', 'password', 'message', 'auth', 'status', 'exp_date', 'is_trial', 'active_cons', 'created_at', 'max_connections', 'allowed_output_formats']
+Início da checagem: 2026-10-11 08:31:59
+Tempo de resposta: 1.37s
+HTTP Status Code: 404
+Content-Type: text/html; charset=UTF-8
+Tamanho da resposta: 913 bytes
+STATUS FINAL ATRIBUÍDO: Não Achou
 Tentativas realizadas:
-  - http://case2.lat/player_api.php?&username=777951153&password=939114817 => HTTP 200
-Observação: created_at=1778448607 | exp_date=1810090799 | active_cons=1 | max_connections=3
+  - http://case2.lat/player_api.php?&username=777951153&password=939114817 => HTTP 404
+  - http://case2.lat/player_api.php?&username=777951153&password=939114817 => Retry 404 -> HTTP 404
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"777951153","password":"939114817","message":".","auth":1,"status":"Active","exp_date":"1810090799","is_trial":"0","active_cons":"1","created_at":"1778448607","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"srcine.site","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1791670845,"time_now":"2026-10-10 19:20:45","timezone":"America\/Sao_Paulo"}}
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx</center>
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v4bc70e2c01a94c73b74392e4234840661791215815920" integrity="sha512-L0ha0OXavK/8okipN9F8BtP84dg9DUhPERbBXzwI6dgTA55d2+yweo3pn5CSFYs45/r8md2+xvUPtTdvTNRfjA==" data-cf-beacon='{"version":"2024.11.0","token":"ac2abce7e1ad45d88a33e5f2390c193f","r":1,"spa":2}' crossorigin="anonymous"></script>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to d
 
 ----------------------------------------------------------------------------------------------------
 [39/44] FONTE: Fonte U50
 URL: http://case2.lat/player_api.php?&username=971812357&password=246137274
 Usou Proxy: SIM
-Início da checagem: 2026-10-11 01:42:10
-Tempo de resposta: 1.13s
-HTTP Status Code: 200
-Content-Type: application/json
-Tamanho da resposta: 498 bytes
-STATUS FINAL ATRIBUÍDO: Active
-Chaves no JSON raiz: ['user_info', 'server_info']
-Chaves em user_info: ['username', 'password', 'message', 'auth', 'status', 'exp_date', 'is_trial', 'active_cons', 'created_at', 'max_connections', 'allowed_output_formats']
+Início da checagem: 2026-10-11 08:32:01
+Tempo de resposta: 0.21s
+HTTP Status Code: 404
+Content-Type: text/html; charset=UTF-8
+Tamanho da resposta: 913 bytes
+STATUS FINAL ATRIBUÍDO: Não Achou
 Tentativas realizadas:
-  - http://case2.lat/player_api.php?&username=971812357&password=246137274 => HTTP 200
-Observação: created_at=1785158584 | exp_date=1809226799 | active_cons=0 | max_connections=3
+  - http://case2.lat/player_api.php?&username=971812357&password=246137274 => HTTP 404
+  - http://case2.lat/player_api.php?&username=971812357&password=246137274 => Retry 404 -> HTTP 404
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"971812357","password":"246137274","message":".","auth":1,"status":"Active","exp_date":"1809226799","is_trial":"0","active_cons":"0","created_at":"1785158584","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"srcine.site","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1791670844,"time_now":"2026-10-10 19:20:44","timezone":"America\/Sao_Paulo"}}
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx</center>
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v4bc70e2c01a94c73b74392e4234840661791215815920" integrity="sha512-L0ha0OXavK/8okipN9F8BtP84dg9DUhPERbBXzwI6dgTA55d2+yweo3pn5CSFYs45/r8md2+xvUPtTdvTNRfjA==" data-cf-beacon='{"version":"2024.11.0","token":"ac2abce7e1ad45d88a33e5f2390c193f","r":1,"spa":2}' crossorigin="anonymous"></script>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to d
 
 ----------------------------------------------------------------------------------------------------
 [40/44] FONTE: Fonte U51
 URL: http://case2.lat/player_api.php?&username=988493659&password=241861732
 Usou Proxy: SIM
-Início da checagem: 2026-10-11 01:42:10
-Tempo de resposta: 0.42s
-HTTP Status Code: 200
-Content-Type: application/json
-Tamanho da resposta: 498 bytes
-STATUS FINAL ATRIBUÍDO: Active
-Chaves no JSON raiz: ['user_info', 'server_info']
-Chaves em user_info: ['username', 'password', 'message', 'auth', 'status', 'exp_date', 'is_trial', 'active_cons', 'created_at', 'max_connections', 'allowed_output_formats']
+Início da checagem: 2026-10-11 08:32:01
+Tempo de resposta: 0.21s
+HTTP Status Code: 404
+Content-Type: text/html; charset=UTF-8
+Tamanho da resposta: 913 bytes
+STATUS FINAL ATRIBUÍDO: Não Achou
 Tentativas realizadas:
-  - http://case2.lat/player_api.php?&username=988493659&password=241861732 => HTTP 200
-Observação: created_at=1777306136 | exp_date=1808881199 | active_cons=0 | max_connections=3
+  - http://case2.lat/player_api.php?&username=988493659&password=241861732 => HTTP 404
+  - http://case2.lat/player_api.php?&username=988493659&password=241861732 => Retry 404 -> HTTP 404
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"988493659","password":"241861732","message":".","auth":1,"status":"Active","exp_date":"1808881199","is_trial":"0","active_cons":"0","created_at":"1777306136","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"srcine.site","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1791670844,"time_now":"2026-10-10 19:20:44","timezone":"America\/Sao_Paulo"}}
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx</center>
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v4bc70e2c01a94c73b74392e4234840661791215815920" integrity="sha512-L0ha0OXavK/8okipN9F8BtP84dg9DUhPERbBXzwI6dgTA55d2+yweo3pn5CSFYs45/r8md2+xvUPtTdvTNRfjA==" data-cf-beacon='{"version":"2024.11.0","token":"ac2abce7e1ad45d88a33e5f2390c193f","r":1,"spa":2}' crossorigin="anonymous"></script>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to d
 
 ----------------------------------------------------------------------------------------------------
 [41/44] FONTE: Fonte U52
 URL: http://case2.lat/player_api.php?&username=943285414&password=493936454
 Usou Proxy: SIM
-Início da checagem: 2026-10-11 01:42:10
-Tempo de resposta: 0.42s
-HTTP Status Code: 200
-Content-Type: application/json
-Tamanho da resposta: 498 bytes
-STATUS FINAL ATRIBUÍDO: Active
-Chaves no JSON raiz: ['user_info', 'server_info']
-Chaves em user_info: ['username', 'password', 'message', 'auth', 'status', 'exp_date', 'is_trial', 'active_cons', 'created_at', 'max_connections', 'allowed_output_formats']
+Início da checagem: 2026-10-11 08:32:01
+Tempo de resposta: 0.21s
+HTTP Status Code: 404
+Content-Type: text/html; charset=UTF-8
+Tamanho da resposta: 913 bytes
+STATUS FINAL ATRIBUÍDO: Não Achou
 Tentativas realizadas:
-  - http://case2.lat/player_api.php?&username=943285414&password=493936454 => HTTP 200
-Observação: created_at=1776348060 | exp_date=1808189999 | active_cons=0 | max_connections=3
+  - http://case2.lat/player_api.php?&username=943285414&password=493936454 => HTTP 404
+  - http://case2.lat/player_api.php?&username=943285414&password=493936454 => Retry 404 -> HTTP 404
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"943285414","password":"493936454","message":".","auth":1,"status":"Active","exp_date":"1808189999","is_trial":"0","active_cons":"0","created_at":"1776348060","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"srcine.site","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1791670844,"time_now":"2026-10-10 19:20:44","timezone":"America\/Sao_Paulo"}}
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx</center>
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v4bc70e2c01a94c73b74392e4234840661791215815920" integrity="sha512-L0ha0OXavK/8okipN9F8BtP84dg9DUhPERbBXzwI6dgTA55d2+yweo3pn5CSFYs45/r8md2+xvUPtTdvTNRfjA==" data-cf-beacon='{"version":"2024.11.0","token":"ac2abce7e1ad45d88a33e5f2390c193f","r":1,"spa":2}' crossorigin="anonymous"></script>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to d
 
 ----------------------------------------------------------------------------------------------------
 [42/44] FONTE: Fonte U53
 URL: http://case2.lat/player_api.php?&username=872689987&password=824513989
 Usou Proxy: SIM
-Início da checagem: 2026-10-11 01:42:10
-Tempo de resposta: 1.01s
-HTTP Status Code: 200
-Content-Type: application/json
-Tamanho da resposta: 498 bytes
-STATUS FINAL ATRIBUÍDO: Active
-Chaves no JSON raiz: ['user_info', 'server_info']
-Chaves em user_info: ['username', 'password', 'message', 'auth', 'status', 'exp_date', 'is_trial', 'active_cons', 'created_at', 'max_connections', 'allowed_output_formats']
+Início da checagem: 2026-10-11 08:32:01
+Tempo de resposta: 0.21s
+HTTP Status Code: 404
+Content-Type: text/html; charset=UTF-8
+Tamanho da resposta: 913 bytes
+STATUS FINAL ATRIBUÍDO: Não Achou
 Tentativas realizadas:
-  - http://case2.lat/player_api.php?&username=872689987&password=824513989 => HTTP 200
-Observação: created_at=1775736018 | exp_date=1807325999 | active_cons=0 | max_connections=3
+  - http://case2.lat/player_api.php?&username=872689987&password=824513989 => HTTP 404
+  - http://case2.lat/player_api.php?&username=872689987&password=824513989 => Retry 404 -> HTTP 404
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"872689987","password":"824513989","message":".","auth":1,"status":"Active","exp_date":"1807325999","is_trial":"0","active_cons":"0","created_at":"1775736018","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"srcine.site","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1791670844,"time_now":"2026-10-10 19:20:44","timezone":"America\/Sao_Paulo"}}
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx</center>
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v4bc70e2c01a94c73b74392e4234840661791215815920" integrity="sha512-L0ha0OXavK/8okipN9F8BtP84dg9DUhPERbBXzwI6dgTA55d2+yweo3pn5CSFYs45/r8md2+xvUPtTdvTNRfjA==" data-cf-beacon='{"version":"2024.11.0","token":"ac2abce7e1ad45d88a33e5f2390c193f","r":1,"spa":2}' crossorigin="anonymous"></script>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to d
 
 ----------------------------------------------------------------------------------------------------
 [43/44] FONTE: Fonte U54
 URL: http://case2.lat/player_api.php?&username=338365128&password=769491152
 Usou Proxy: SIM
-Início da checagem: 2026-10-11 01:42:10
-Tempo de resposta: 1.01s
-HTTP Status Code: 200
-Content-Type: application/json
-Tamanho da resposta: 498 bytes
-STATUS FINAL ATRIBUÍDO: Active
-Chaves no JSON raiz: ['user_info', 'server_info']
-Chaves em user_info: ['username', 'password', 'message', 'auth', 'status', 'exp_date', 'is_trial', 'active_cons', 'created_at', 'max_connections', 'allowed_output_formats']
+Início da checagem: 2026-10-11 08:32:01
+Tempo de resposta: 0.23s
+HTTP Status Code: 404
+Content-Type: text/html; charset=UTF-8
+Tamanho da resposta: 913 bytes
+STATUS FINAL ATRIBUÍDO: Não Achou
 Tentativas realizadas:
-  - http://case2.lat/player_api.php?&username=338365128&password=769491152 => HTTP 200
-Observação: created_at=1775735969 | exp_date=1807325999 | active_cons=0 | max_connections=3
+  - http://case2.lat/player_api.php?&username=338365128&password=769491152 => HTTP 404
+  - http://case2.lat/player_api.php?&username=338365128&password=769491152 => Retry 404 -> HTTP 404
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"338365128","password":"769491152","message":".","auth":1,"status":"Active","exp_date":"1807325999","is_trial":"0","active_cons":"0","created_at":"1775735969","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"srcine.site","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1791670844,"time_now":"2026-10-10 19:20:44","timezone":"America\/Sao_Paulo"}}
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx</center>
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v4bc70e2c01a94c73b74392e4234840661791215815920" integrity="sha512-L0ha0OXavK/8okipN9F8BtP84dg9DUhPERbBXzwI6dgTA55d2+yweo3pn5CSFYs45/r8md2+xvUPtTdvTNRfjA==" data-cf-beacon='{"version":"2024.11.0","token":"ac2abce7e1ad45d88a33e5f2390c193f","r":1,"spa":2}' crossorigin="anonymous"></script>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to d
 
 ----------------------------------------------------------------------------------------------------
 [44/44] FONTE: Fonte U55
 URL: http://case2.lat/player_api.php?&username=754551879&password=531553919
 Usou Proxy: SIM
-Início da checagem: 2026-10-11 01:42:10
-Tempo de resposta: 0.93s
-HTTP Status Code: 200
-Content-Type: application/json
-Tamanho da resposta: 498 bytes
-STATUS FINAL ATRIBUÍDO: Active
-Chaves no JSON raiz: ['user_info', 'server_info']
-Chaves em user_info: ['username', 'password', 'message', 'auth', 'status', 'exp_date', 'is_trial', 'active_cons', 'created_at', 'max_connections', 'allowed_output_formats']
+Início da checagem: 2026-10-11 08:32:01
+Tempo de resposta: 0.21s
+HTTP Status Code: 404
+Content-Type: text/html; charset=UTF-8
+Tamanho da resposta: 913 bytes
+STATUS FINAL ATRIBUÍDO: Não Achou
 Tentativas realizadas:
-  - http://case2.lat/player_api.php?&username=754551879&password=531553919 => HTTP 200
-Observação: created_at=1780485280 | exp_date=1807153199 | active_cons=0 | max_connections=3
+  - http://case2.lat/player_api.php?&username=754551879&password=531553919 => HTTP 404
+  - http://case2.lat/player_api.php?&username=754551879&password=531553919 => Retry 404 -> HTTP 404
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"754551879","password":"531553919","message":".","auth":1,"status":"Active","exp_date":"1807153199","is_trial":"0","active_cons":"0","created_at":"1780485280","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"srcine.site","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1791670845,"time_now":"2026-10-10 19:20:45","timezone":"America\/Sao_Paulo"}}
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx</center>
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v4bc70e2c01a94c73b74392e4234840661791215815920" integrity="sha512-L0ha0OXavK/8okipN9F8BtP84dg9DUhPERbBXzwI6dgTA55d2+yweo3pn5CSFYs45/r8md2+xvUPtTdvTNRfjA==" data-cf-beacon='{"version":"2024.11.0","token":"ac2abce7e1ad45d88a33e5f2390c193f","r":1,"spa":2}' crossorigin="anonymous"></script>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to d
 
 ====================================================================================================
 FIM DO RELATÓRIO
