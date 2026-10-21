@@ -143,9 +143,6 @@ https://video02.logicahost.com.br/aerorealizar/aerorealizar/chunklist_w955637404
 
 #EXTINF:-1 tvg-id="Status.trs" tvg-name="Status" tvg-logo="https://i.pinimg.com/736x/f6/06/f6/f606f6f59adc975d6bbd9892b11922de.jpg" group-title="Status",Status
 https://github.com/OtavioGia/IPV1/raw/refs/heads/main/video_status.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Status2" tvg-logo="https://i.pinimg.com/736x/f6/06/f6/f606f6f59adc975d6bbd9892b11922de.jpg" group-title="Status",Status2
-https://github.com/OtavioGia/IPV1/raw/refs/heads/main/video_status.mp4
-
 
 #EXTINF:0 type="playlist" tvg-name="F14M2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="Extras",F14M2
 http://p.bitnow.top/get.php?&username=5550388689&password=simpleiptv&type=m3u_plus&output=ts
