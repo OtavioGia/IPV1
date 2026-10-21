@@ -21,13 +21,13 @@ from PIL import Image, ImageDraw, ImageFont
 # SEUS LINKS (HARDCODED)
 # ==========================================
 MEUS_LINKS_TEXTO = """
-F14M2|http://p.bitnow.top/get.php?&username=5550388689&password=simpleiptv&type=m3u_plus&output=ts,
-F15M2|http://p.bitnow.top/get.php?&username=Marcosfp05&password=nlybdft6fml&type=m3u_plus&output=ts,
-F27M1|http://p.bitnow.top/get.php?&username=nena6194sala&password=mqtavfrtyl&type=m3u_plus&output=ts,
-F28M1|http://p.bitnow.top/get.php?&username=tomoko11&password=14n11oi50oc&type=m3u_plus&output=ts,
-F29M3|http://p.bitnow.top/get.php?&username=vanessanook&password=vinr390x8y&type=m3u_plus&output=ts,
-F31M2|http://p.bitnow.top/get.php?&username=zQ4qeGkNrQ&password=factoryiptv&type=m3u_plus&output=ts,
-F32M2|http://p.bitnow.top/get.php?&username=7RRjPTu5d6&password=factoryiptv&type=m3u_plus&output=ts,
+F14M2|http://p.bitnow.top/player_api.php?&username=5550388689&password=simpleiptv&type=m3u_plus,
+F15M2|http://p.bitnow.top/player_api.php?&username=Marcosfp05&password=nlybdft6fml&type=m3u_plus,
+F27M1|http://p.bitnow.top/player_api.php?&username=nena6194sala&password=mqtavfrtyl,
+F28M1|http://p.bitnow.top/player_api.php?&username=tomoko11&password=14n11oi50oc,
+F29M3|http://p.bitnow.top/player_api.php?&username=vanessanook&password=vinr390x8y,
+F31M2|http://p.bitnow.top/player_api.php?&username=zQ4qeGkNrQ&password=factoryiptv,
+F32M2|http://p.bitnow.top/player_api.php?&username=7RRjPTu5d6&password=factoryiptv
 Fonte U38|http://case2.lat/player_api.php?&username=593812776&password=876362759,
 Fonte U39|http://case2.lat/player_api.php?&username=374897485&password=789272274,
 Fonte U40|http://case2.lat/player_api.php?&username=961386894&password=118897421,
