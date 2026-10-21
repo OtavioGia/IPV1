@@ -143,9 +143,6 @@ https://video02.logicahost.com.br/aerorealizar/aerorealizar/chunklist_w955637404
 
 #EXTINF:-1 tvg-id="Status.trs" tvg-name="Status" tvg-logo="https://i.pinimg.com/736x/f6/06/f6/f606f6f59adc975d6bbd9892b11922de.jpg" group-title="Status",Status
 https://github.com/OtavioGia/IPV1/raw/refs/heads/main/video_status.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Status2" tvg-logo="https://i.pinimg.com/736x/f6/06/f6/f606f6f59adc975d6bbd9892b11922de.jpg" group-title="Status",Status2
-https://github.com/OtavioGia/IPV1/raw/refs/heads/main/video_status.mp4
-
 
 #EXTINF:0 type="playlist" tvg-name="F14M2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="Extras",F14M2
 http://p.bitnow.top/get.php?&username=5550388689&password=simpleiptv&type=m3u_plus&output=ts
@@ -172,6 +169,7 @@ http://p.bitnow.top/get.php?&username=7RRjPTu5d6&password=factoryiptv&type=m3u_p
 # --- F29M3 Max 3 Exp 05/11/2026 Desde 04/21 http://p.bitnow.top/player_api.php?username=vanessanook&password=vinr390x8y http://p.bitnow.top/get.php?&username=vanessanook&password=vinr390x8y&type=m3u_plus&output=ts ---
 # --- F31M2 Max 2 Exp 23/08/2026 Desde 12/18 http://p.bitnow.top/player_api.php?username=zQ4qeGkNrQ&password=factoryiptv http://p.bitnow.top/get.php?&username=zQ4qeGkNrQ&password=factoryiptv&type=m3u_plus&output=ts ---
 # --- F32M2 Max 2 Exp 10/11/2026 Desde 01/19 http://p.bitnow.top/player_api.php?username=7RRjPTu5d6&password=factoryiptv http://p.bitnow.top/get.php?&username=7RRjPTu5d6&password=factoryiptv&type=m3u_plus&output=ts ---
+
 #EXTINF:-1 tvg-id="JOGOS DE HOJE" tvg-name="Jogos de Hoje" tvg-logo="https://i.imgur.com/rAOrWxU.png" group-title="F14M2 Jogos de Hoje",Jogos de Hoje
 http://p.bitnow.top/live/5550388689/simpleiptv/194567.ts
 #EXTINF:-1 tvg-id="" tvg-name="A Fazenda 18 CAM 01 (A)" tvg-logo="https://i.imgur.com/J8Qj83O.png" group-title="F14M2 A Fazenda 18",A Fazenda 18 CAM 01 (A)
