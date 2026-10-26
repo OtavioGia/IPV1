@@ -21,23 +21,23 @@ from PIL import Image, ImageDraw, ImageFont
 # SEUS LINKS (HARDCODED)
 # ==========================================
 MEUS_LINKS_TEXTO = """
-Fonte U38|http://case2.lat/player_api.php?&username=593812776&password=876362759,
-Fonte U39|http://case2.lat/player_api.php?&username=374897485&password=789272274,
-Fonte U40|http://case2.lat/player_api.php?&username=961386894&password=118897421,
-Fonte U41|http://case2.lat/player_api.php?&username=718423457&password=539143340,
-Fonte U42|http://case2.lat/player_api.php?&username=175473583&password=643238922,
-Fonte U44|http://case2.lat/player_api.php?&username=753685114&password=689268878,
-Fonte U45|http://case2.lat/player_api.php?&username=648866758&password=722737417,
-Fonte U46|http://case2.lat/player_api.php?&username=399392844&password=784365638,
-Fonte U47|http://case2.lat/player_api.php?&username=858257510&password=975651644,
-Fonte U48|http://case2.lat/player_api.php?&username=223141736&password=496767276,
-Fonte U49|http://case2.lat/player_api.php?&username=777951153&password=939114817,
-Fonte U50|http://case2.lat/player_api.php?&username=971812357&password=246137274,
-Fonte U51|http://case2.lat/player_api.php?&username=988493659&password=241861732,
-Fonte U52|http://case2.lat/player_api.php?&username=943285414&password=493936454,
-Fonte U53|http://case2.lat/player_api.php?&username=872689987&password=824513989,
-Fonte U54|http://case2.lat/player_api.php?&username=338365128&password=769491152,
-Fonte U55|http://case2.lat/player_api.php?&username=754551879&password=531553919
+Fonte U38|http://lineout.site/player_api.php?&username=593812776&password=876362759,
+Fonte U39|http://lineout.site/player_api.php?&username=374897485&password=789272274,
+Fonte U40|http://lineout.site/player_api.php?&username=961386894&password=118897421,
+Fonte U41|http://lineout.site/player_api.php?&username=718423457&password=539143340,
+Fonte U42|http://lineout.site/player_api.php?&username=175473583&password=643238922,
+Fonte U44|http://lineout.site/player_api.php?&username=753685114&password=689268878,
+Fonte U45|http://lineout.site/player_api.php?&username=648866758&password=722737417,
+Fonte U46|http://lineout.site/player_api.php?&username=399392844&password=784365638,
+Fonte U47|http://lineout.site/player_api.php?&username=858257510&password=975651644,
+Fonte U48|http://lineout.site/player_api.php?&username=223141736&password=496767276,
+Fonte U49|http://lineout.site/player_api.php?&username=777951153&password=939114817,
+Fonte U50|http://lineout.site/player_api.php?&username=971812357&password=246137274,
+Fonte U51|http://lineout.site/player_api.php?&username=988493659&password=241861732,
+Fonte U52|http://lineout.site/player_api.php?&username=943285414&password=493936454,
+Fonte U53|http://lineout.site/player_api.php?&username=872689987&password=824513989,
+Fonte U54|http://lineout.site/player_api.php?&username=338365128&password=769491152,
+Fonte U55|http://lineout.site/player_api.php?&username=754551879&password=531553919
 """
 
 # Nome do arquivo de debug
