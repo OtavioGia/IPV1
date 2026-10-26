@@ -1,8 +1,8 @@
 ====================================================================================================
 RELATÓRIO DE DEBUG - MONITORAMENTO IPTV
-Execução em: 25/10/2026 - 21:06:31
+Execução em: 26/10/2026 - 01:29:59
 Total de fontes verificadas: 27
-Tempo total de verificação: 5.2s
+Tempo total de verificação: 4.6s
 Proxy SOCKS5 Utilizado: Sim -> 45.224.240.53:1080
 ====================================================================================================
 
@@ -18,8 +18,8 @@ DETALHE POR FONTE
 [1/27] FONTE: F29M3
 URL: http://p.bitnow.top/player_api.php?&username=vanessanook&password=vinr390x8y
 Usou Proxy: SIM
-Início da checagem: 2026-10-26 00:06:26
-Tempo de resposta: 1.49s
+Início da checagem: 2026-10-26 04:29:55
+Tempo de resposta: 1.64s
 HTTP Status Code: 401
 Content-Type: application/json; charset=utf-8
 Tamanho da resposta: 46 bytes
@@ -33,8 +33,8 @@ Resposta bruta (preview, até 800 caracteres):
 [2/27] FONTE: F32M2
 URL: http://p.bitnow.top/player_api.php?&username=7RRjPTu5d6&password=factoryiptv
 Usou Proxy: SIM
-Início da checagem: 2026-10-26 00:06:26
-Tempo de resposta: 1.46s
+Início da checagem: 2026-10-26 04:29:55
+Tempo de resposta: 1.62s
 HTTP Status Code: 200
 Content-Type: application/json; charset=utf-8
 Tamanho da resposta: 449 bytes
@@ -45,14 +45,14 @@ Tentativas realizadas:
   - http://p.bitnow.top/player_api.php?&username=7RRjPTu5d6&password=factoryiptv => HTTP 200
 Observação: created_at=1548903600 | exp_date=1794355200 | active_cons=0 | max_connections=2
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"7RRjPTu5d6","password":"factoryiptv","message":"","auth":1,"status":"Active","exp_date":"1794355200","is_trial":"0","active_cons":"0","created_at":"1548903600","max_connections":"2","allowed_output_formats":["m3u8","ts"]},"server_info":{"url":"p.bitnow.top","port":"80","https_port":"443","server_protocol":"http","rtmp_port":null,"timezone":"America/Sao_Paulo","timestamp_now":1792973188,"time_now":"2026-10-25 21:06:28"}}
+{"user_info":{"username":"7RRjPTu5d6","password":"factoryiptv","message":"","auth":1,"status":"Active","exp_date":"1794355200","is_trial":"0","active_cons":"0","created_at":"1548903600","max_connections":"2","allowed_output_formats":["m3u8","ts"]},"server_info":{"url":"p.bitnow.top","port":"80","https_port":"443","server_protocol":"http","rtmp_port":null,"timezone":"America/Sao_Paulo","timestamp_now":1792988996,"time_now":"2026-10-26 01:29:56"}}
 
 ----------------------------------------------------------------------------------------------------
 [3/27] FONTE: F104M3
 URL: http://claxys.info/player_api.php?&username=907671&password=JhWnqH
 Usou Proxy: SIM
-Início da checagem: 2026-10-26 00:06:26
-Tempo de resposta: 1.76s
+Início da checagem: 2026-10-26 04:29:55
+Tempo de resposta: 3.63s
 HTTP Status Code: 200
 Content-Type: application/json
 Tamanho da resposta: 491 bytes
@@ -63,14 +63,14 @@ Tentativas realizadas:
   - http://claxys.info/player_api.php?&username=907671&password=JhWnqH => HTTP 200
 Observação: created_at=1721081008 | exp_date=1799809199 | active_cons=6 | max_connections=3
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"907671","password":"JhWnqH","message":null,"auth":1,"status":"Active","exp_date":"1799809199","is_trial":"0","active_cons":6,"created_at":"1721081008","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"claxys.info","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1792972867,"time_now":"2026-10-25 21:01:07","timezone":"America\/Sao_Paulo"}}
+{"user_info":{"username":"907671","password":"JhWnqH","message":null,"auth":1,"status":"Active","exp_date":"1799809199","is_trial":"0","active_cons":6,"created_at":"1721081008","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"claxys.info","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1792988998,"time_now":"2026-10-26 01:29:58","timezone":"America\/Sao_Paulo"}}
 
 ----------------------------------------------------------------------------------------------------
 [4/27] FONTE: F105M3
 URL: http://claxys.info/player_api.php?&username=807968&password=R8BcnN
 Usou Proxy: SIM
-Início da checagem: 2026-10-26 00:06:26
-Tempo de resposta: 1.81s
+Início da checagem: 2026-10-26 04:29:55
+Tempo de resposta: 1.95s
 HTTP Status Code: 200
 Content-Type: application/json
 Tamanho da resposta: 491 bytes
@@ -79,16 +79,16 @@ Chaves no JSON raiz: ['user_info', 'server_info']
 Chaves em user_info: ['username', 'password', 'message', 'auth', 'status', 'exp_date', 'is_trial', 'active_cons', 'created_at', 'max_connections', 'allowed_output_formats']
 Tentativas realizadas:
   - http://claxys.info/player_api.php?&username=807968&password=R8BcnN => HTTP 200
-Observação: created_at=1732208679 | exp_date=1796439599 | active_cons=2 | max_connections=3
+Observação: created_at=1732208679 | exp_date=1796439599 | active_cons=0 | max_connections=3
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"807968","password":"R8BcnN","message":null,"auth":1,"status":"Active","exp_date":"1796439599","is_trial":"0","active_cons":2,"created_at":"1732208679","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"claxys.info","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1792973188,"time_now":"2026-10-25 21:06:28","timezone":"America\/Sao_Paulo"}}
+{"user_info":{"username":"807968","password":"R8BcnN","message":null,"auth":1,"status":"Active","exp_date":"1796439599","is_trial":"0","active_cons":0,"created_at":"1732208679","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"claxys.info","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1792988997,"time_now":"2026-10-26 01:29:57","timezone":"America\/Sao_Paulo"}}
 
 ----------------------------------------------------------------------------------------------------
 [5/27] FONTE: F106M1
 URL: http://claxys.info/player_api.php?&username=v4Tmn&password=787AAPsqn
 Usou Proxy: SIM
-Início da checagem: 2026-10-26 00:06:26
-Tempo de resposta: 1.68s
+Início da checagem: 2026-10-26 04:29:55
+Tempo de resposta: 2.43s
 HTTP Status Code: 200
 Content-Type: application/json
 Tamanho da resposta: 493 bytes
@@ -99,14 +99,14 @@ Tentativas realizadas:
   - http://claxys.info/player_api.php?&username=v4Tmn&password=787AAPsqn => HTTP 200
 Observação: created_at=1647989759 | exp_date=1794625199 | active_cons=0 | max_connections=1
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"v4Tmn","password":"787AAPsqn","message":null,"auth":1,"status":"Active","exp_date":"1794625199","is_trial":"0","active_cons":0,"created_at":"1647989759","max_connections":"1","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"claxys.info","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1792973188,"time_now":"2026-10-25 21:06:28","timezone":"America\/Sao_Paulo"}}
+{"user_info":{"username":"v4Tmn","password":"787AAPsqn","message":null,"auth":1,"status":"Active","exp_date":"1794625199","is_trial":"0","active_cons":0,"created_at":"1647989759","max_connections":"1","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"claxys.info","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1792988997,"time_now":"2026-10-26 01:29:57","timezone":"America\/Sao_Paulo"}}
 
 ----------------------------------------------------------------------------------------------------
 [6/27] FONTE: F107M1
 URL: http://claxys.info/player_api.php?&username=a46816371&password=112233Aa
 Usou Proxy: SIM
-Início da checagem: 2026-10-26 00:06:26
-Tempo de resposta: 2.56s
+Início da checagem: 2026-10-26 04:29:55
+Tempo de resposta: 1.7s
 HTTP Status Code: 200
 Content-Type: application/json
 Tamanho da resposta: 496 bytes
@@ -115,16 +115,16 @@ Chaves no JSON raiz: ['user_info', 'server_info']
 Chaves em user_info: ['username', 'password', 'message', 'auth', 'status', 'exp_date', 'is_trial', 'active_cons', 'created_at', 'max_connections', 'allowed_output_formats']
 Tentativas realizadas:
   - http://claxys.info/player_api.php?&username=a46816371&password=112233Aa => HTTP 200
-Observação: created_at=1756509388 | exp_date=1798167599 | active_cons=1 | max_connections=1
+Observação: created_at=1756509388 | exp_date=1798167599 | active_cons=2 | max_connections=1
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"a46816371","password":"112233Aa","message":null,"auth":1,"status":"Active","exp_date":"1798167599","is_trial":"0","active_cons":1,"created_at":"1756509388","max_connections":"1","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"claxys.info","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1792973006,"time_now":"2026-10-25 21:03:26","timezone":"America\/Sao_Paulo"}}
+{"user_info":{"username":"a46816371","password":"112233Aa","message":null,"auth":1,"status":"Active","exp_date":"1798167599","is_trial":"0","active_cons":2,"created_at":"1756509388","max_connections":"1","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"claxys.info","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1792988996,"time_now":"2026-10-26 01:29:56","timezone":"America\/Sao_Paulo"}}
 
 ----------------------------------------------------------------------------------------------------
 [7/27] FONTE: F108M1
 URL: http://claxys.info/player_api.php?&username=Thi3137&password=9251Thi
 Usou Proxy: SIM
-Início da checagem: 2026-10-26 00:06:26
-Tempo de resposta: 3.66s
+Início da checagem: 2026-10-26 04:29:55
+Tempo de resposta: 1.82s
 HTTP Status Code: 200
 Content-Type: application/json
 Tamanho da resposta: 493 bytes
@@ -135,14 +135,14 @@ Tentativas realizadas:
   - http://claxys.info/player_api.php?&username=Thi3137&password=9251Thi => HTTP 200
 Observação: created_at=1667870292 | exp_date=1795229999 | active_cons=0 | max_connections=1
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"Thi3137","password":"9251Thi","message":null,"auth":1,"status":"Active","exp_date":"1795229999","is_trial":"0","active_cons":0,"created_at":"1667870292","max_connections":"1","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"claxys.info","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1792973190,"time_now":"2026-10-25 21:06:30","timezone":"America\/Sao_Paulo"}}
+{"user_info":{"username":"Thi3137","password":"9251Thi","message":null,"auth":1,"status":"Active","exp_date":"1795229999","is_trial":"0","active_cons":0,"created_at":"1667870292","max_connections":"1","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"claxys.info","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1792988996,"time_now":"2026-10-26 01:29:56","timezone":"America\/Sao_Paulo"}}
 
 ----------------------------------------------------------------------------------------------------
 [8/27] FONTE: F109M1
 URL: http://claxys.info/player_api.php?&username=f5A2R&password=Y6rHJ
 Usou Proxy: SIM
-Início da checagem: 2026-10-26 00:06:26
-Tempo de resposta: 3.01s
+Início da checagem: 2026-10-26 04:29:55
+Tempo de resposta: 2.68s
 HTTP Status Code: 200
 Content-Type: application/json
 Tamanho da resposta: 482 bytes
@@ -153,14 +153,14 @@ Tentativas realizadas:
   - http://claxys.info/player_api.php?&username=f5A2R&password=Y6rHJ => HTTP 200
 Observação: created_at=1581631313 | exp_date=1796180399 | active_cons=2 | max_connections=1
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"f5A2R","password":"Y6rHJ","message":null,"auth":1,"status":"Active","exp_date":"1796180399","is_trial":"0","active_cons":2,"created_at":"1581631313","max_connections":"1","allowed_output_formats":["m3u8","ts"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"claxys.info","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1792973189,"time_now":"2026-10-25 21:06:29","timezone":"America\/Sao_Paulo"}}
+{"user_info":{"username":"f5A2R","password":"Y6rHJ","message":null,"auth":1,"status":"Active","exp_date":"1796180399","is_trial":"0","active_cons":2,"created_at":"1581631313","max_connections":"1","allowed_output_formats":["m3u8","ts"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"claxys.info","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1792988997,"time_now":"2026-10-26 01:29:57","timezone":"America\/Sao_Paulo"}}
 
 ----------------------------------------------------------------------------------------------------
 [9/27] FONTE: F110M1
 URL: http://claxys.info/player_api.php?&username=PclbSandra&password=Usr171807
 Usou Proxy: SIM
-Início da checagem: 2026-10-26 00:06:26
-Tempo de resposta: 3.54s
+Início da checagem: 2026-10-26 04:29:55
+Tempo de resposta: 2.55s
 HTTP Status Code: 200
 Content-Type: application/json
 Tamanho da resposta: 498 bytes
@@ -171,14 +171,14 @@ Tentativas realizadas:
   - http://claxys.info/player_api.php?&username=PclbSandra&password=Usr171807 => HTTP 200
 Observação: created_at=1681589895 | exp_date=1794106799 | active_cons=0 | max_connections=1
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"PclbSandra","password":"Usr171807","message":null,"auth":1,"status":"Active","exp_date":"1794106799","is_trial":"0","active_cons":0,"created_at":"1681589895","max_connections":"1","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"claxys.info","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1792973190,"time_now":"2026-10-25 21:06:30","timezone":"America\/Sao_Paulo"}}
+{"user_info":{"username":"PclbSandra","password":"Usr171807","message":null,"auth":1,"status":"Active","exp_date":"1794106799","is_trial":"0","active_cons":0,"created_at":"1681589895","max_connections":"1","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"claxys.info","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1792988997,"time_now":"2026-10-26 01:29:57","timezone":"America\/Sao_Paulo"}}
 
 ----------------------------------------------------------------------------------------------------
 [10/27] FONTE: F111M1
 URL: http://claxys.info/player_api.php?&username=nathan1250&password=Na527496
 Usou Proxy: SIM
-Início da checagem: 2026-10-26 00:06:26
-Tempo de resposta: 2.67s
+Início da checagem: 2026-10-26 04:29:55
+Tempo de resposta: 3.49s
 HTTP Status Code: 200
 Content-Type: application/json
 Tamanho da resposta: 497 bytes
@@ -189,14 +189,14 @@ Tentativas realizadas:
   - http://claxys.info/player_api.php?&username=nathan1250&password=Na527496 => HTTP 200
 Observação: created_at=1736351482 | exp_date=1793674799 | active_cons=0 | max_connections=1
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"nathan1250","password":"Na527496","message":null,"auth":1,"status":"Active","exp_date":"1793674799","is_trial":"0","active_cons":0,"created_at":"1736351482","max_connections":"1","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"claxys.info","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1792973189,"time_now":"2026-10-25 21:06:29","timezone":"America\/Sao_Paulo"}}
+{"user_info":{"username":"nathan1250","password":"Na527496","message":null,"auth":1,"status":"Active","exp_date":"1793674799","is_trial":"0","active_cons":0,"created_at":"1736351482","max_connections":"1","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"claxys.info","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1792988998,"time_now":"2026-10-26 01:29:58","timezone":"America\/Sao_Paulo"}}
 
 ----------------------------------------------------------------------------------------------------
 [11/27] FONTE: Fonte U38
 URL: http://case2.lat/player_api.php?&username=593812776&password=876362759
 Usou Proxy: SIM
-Início da checagem: 2026-10-26 00:06:26
-Tempo de resposta: 2.64s
+Início da checagem: 2026-10-26 04:29:55
+Tempo de resposta: 3.53s
 HTTP Status Code: 200
 Content-Type: application/json
 Tamanho da resposta: 499 bytes
@@ -205,16 +205,16 @@ Chaves no JSON raiz: ['user_info', 'server_info']
 Chaves em user_info: ['username', 'password', 'message', 'auth', 'status', 'exp_date', 'is_trial', 'active_cons', 'created_at', 'max_connections', 'allowed_output_formats']
 Tentativas realizadas:
   - http://case2.lat/player_api.php?&username=593812776&password=876362759 => HTTP 200
-Observação: created_at=1791715734 | exp_date=2065229999 | active_cons=0 | max_connections=3
+Observação: created_at=1791715734 | exp_date=2065229999 | active_cons=1 | max_connections=3
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"593812776","password":"876362759","message":".","auth":1,"status":"Active","exp_date":"2065229999","is_trial":"0","active_cons":"0","created_at":"1791715734","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"lineout.site","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1792963996,"time_now":"2026-10-25 18:33:16","timezone":"America\/Sao_Paulo"}}
+{"user_info":{"username":"593812776","password":"876362759","message":".","auth":1,"status":"Active","exp_date":"2065229999","is_trial":"0","active_cons":"1","created_at":"1791715734","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"lineout.site","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1792973189,"time_now":"2026-10-25 21:06:29","timezone":"America\/Sao_Paulo"}}
 
 ----------------------------------------------------------------------------------------------------
 [12/27] FONTE: Fonte U39
 URL: http://case2.lat/player_api.php?&username=374897485&password=789272274
 Usou Proxy: SIM
-Início da checagem: 2026-10-26 00:06:26
-Tempo de resposta: 2.64s
+Início da checagem: 2026-10-26 04:29:55
+Tempo de resposta: 3.57s
 HTTP Status Code: 200
 Content-Type: application/json
 Tamanho da resposta: 499 bytes
@@ -225,14 +225,14 @@ Tentativas realizadas:
   - http://case2.lat/player_api.php?&username=374897485&password=789272274 => HTTP 200
 Observação: created_at=1791715723 | exp_date=2065057199 | active_cons=0 | max_connections=3
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"374897485","password":"789272274","message":".","auth":1,"status":"Active","exp_date":"2065057199","is_trial":"0","active_cons":"0","created_at":"1791715723","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"lineout.site","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1792963997,"time_now":"2026-10-25 18:33:17","timezone":"America\/Sao_Paulo"}}
+{"user_info":{"username":"374897485","password":"789272274","message":".","auth":1,"status":"Active","exp_date":"2065057199","is_trial":"0","active_cons":"0","created_at":"1791715723","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"lineout.site","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1792973189,"time_now":"2026-10-25 21:06:29","timezone":"America\/Sao_Paulo"}}
 
 ----------------------------------------------------------------------------------------------------
 [13/27] FONTE: Fonte U40
 URL: http://case2.lat/player_api.php?&username=961386894&password=118897421
 Usou Proxy: SIM
-Início da checagem: 2026-10-26 00:06:26
-Tempo de resposta: 3.59s
+Início da checagem: 2026-10-26 04:29:55
+Tempo de resposta: 2.82s
 HTTP Status Code: 200
 Content-Type: application/json
 Tamanho da resposta: 499 bytes
@@ -241,16 +241,16 @@ Chaves no JSON raiz: ['user_info', 'server_info']
 Chaves em user_info: ['username', 'password', 'message', 'auth', 'status', 'exp_date', 'is_trial', 'active_cons', 'created_at', 'max_connections', 'allowed_output_formats']
 Tentativas realizadas:
   - http://case2.lat/player_api.php?&username=961386894&password=118897421 => HTTP 200
-Observação: created_at=1791715675 | exp_date=1906772399 | active_cons=1 | max_connections=3
+Observação: created_at=1791715675 | exp_date=1906772399 | active_cons=2 | max_connections=3
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"961386894","password":"118897421","message":".","auth":1,"status":"Active","exp_date":"1906772399","is_trial":"0","active_cons":"1","created_at":"1791715675","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"lineout.site","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1792963996,"time_now":"2026-10-25 18:33:16","timezone":"America\/Sao_Paulo"}}
+{"user_info":{"username":"961386894","password":"118897421","message":".","auth":1,"status":"Active","exp_date":"1906772399","is_trial":"0","active_cons":"2","created_at":"1791715675","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"lineout.site","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1792973190,"time_now":"2026-10-25 21:06:30","timezone":"America\/Sao_Paulo"}}
 
 ----------------------------------------------------------------------------------------------------
 [14/27] FONTE: Fonte U41
 URL: http://case2.lat/player_api.php?&username=718423457&password=539143340
 Usou Proxy: SIM
-Início da checagem: 2026-10-26 00:06:26
-Tempo de resposta: 3.83s
+Início da checagem: 2026-10-26 04:29:55
+Tempo de resposta: 2.62s
 HTTP Status Code: 200
 Content-Type: application/json
 Tamanho da resposta: 499 bytes
@@ -259,16 +259,16 @@ Chaves no JSON raiz: ['user_info', 'server_info']
 Chaves em user_info: ['username', 'password', 'message', 'auth', 'status', 'exp_date', 'is_trial', 'active_cons', 'created_at', 'max_connections', 'allowed_output_formats']
 Tentativas realizadas:
   - http://case2.lat/player_api.php?&username=718423457&password=539143340 => HTTP 200
-Observação: created_at=1791715676 | exp_date=1906772399 | active_cons=0 | max_connections=3
+Observação: created_at=1791715676 | exp_date=1906772399 | active_cons=1 | max_connections=3
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"718423457","password":"539143340","message":".","auth":1,"status":"Active","exp_date":"1906772399","is_trial":"0","active_cons":"0","created_at":"1791715676","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"lineout.site","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1792963997,"time_now":"2026-10-25 18:33:17","timezone":"America\/Sao_Paulo"}}
+{"user_info":{"username":"718423457","password":"539143340","message":".","auth":1,"status":"Active","exp_date":"1906772399","is_trial":"0","active_cons":"1","created_at":"1791715676","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"lineout.site","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1792973190,"time_now":"2026-10-25 21:06:30","timezone":"America\/Sao_Paulo"}}
 
 ----------------------------------------------------------------------------------------------------
 [15/27] FONTE: Fonte U42
 URL: http://case2.lat/player_api.php?&username=175473583&password=643238922
 Usou Proxy: SIM
-Início da checagem: 2026-10-26 00:06:26
-Tempo de resposta: 3.58s
+Início da checagem: 2026-10-26 04:29:55
+Tempo de resposta: 4.57s
 HTTP Status Code: 200
 Content-Type: application/json
 Tamanho da resposta: 499 bytes
@@ -279,14 +279,14 @@ Tentativas realizadas:
   - http://case2.lat/player_api.php?&username=175473583&password=643238922 => HTTP 200
 Observação: created_at=1791715968 | exp_date=1812682799 | active_cons=0 | max_connections=3
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"175473583","password":"643238922","message":".","auth":1,"status":"Active","exp_date":"1812682799","is_trial":"0","active_cons":"0","created_at":"1791715968","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"lineout.site","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1792963997,"time_now":"2026-10-25 18:33:17","timezone":"America\/Sao_Paulo"}}
+{"user_info":{"username":"175473583","password":"643238922","message":".","auth":1,"status":"Active","exp_date":"1812682799","is_trial":"0","active_cons":"0","created_at":"1791715968","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"lineout.site","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1792973190,"time_now":"2026-10-25 21:06:30","timezone":"America\/Sao_Paulo"}}
 
 ----------------------------------------------------------------------------------------------------
 [16/27] FONTE: Fonte U44
 URL: http://case2.lat/player_api.php?&username=753685114&password=689268878
 Usou Proxy: SIM
-Início da checagem: 2026-10-26 00:06:28
-Tempo de resposta: 1.75s
+Início da checagem: 2026-10-26 04:29:56
+Tempo de resposta: 1.46s
 HTTP Status Code: 200
 Content-Type: application/json
 Tamanho da resposta: 499 bytes
@@ -297,14 +297,14 @@ Tentativas realizadas:
   - http://case2.lat/player_api.php?&username=753685114&password=689268878 => HTTP 200
 Observação: created_at=1791715806 | exp_date=1813719599 | active_cons=0 | max_connections=3
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"753685114","password":"689268878","message":".","auth":1,"status":"Active","exp_date":"1813719599","is_trial":"0","active_cons":"0","created_at":"1791715806","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"lineout.site","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1792963996,"time_now":"2026-10-25 18:33:16","timezone":"America\/Sao_Paulo"}}
+{"user_info":{"username":"753685114","password":"689268878","message":".","auth":1,"status":"Active","exp_date":"1813719599","is_trial":"0","active_cons":"0","created_at":"1791715806","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"lineout.site","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1792973189,"time_now":"2026-10-25 21:06:29","timezone":"America\/Sao_Paulo"}}
 
 ----------------------------------------------------------------------------------------------------
 [17/27] FONTE: Fonte U45
 URL: http://case2.lat/player_api.php?&username=648866758&password=722737417
 Usou Proxy: SIM
-Início da checagem: 2026-10-26 00:06:28
-Tempo de resposta: 1.52s
+Início da checagem: 2026-10-26 04:29:56
+Tempo de resposta: 1.46s
 HTTP Status Code: 200
 Content-Type: application/json
 Tamanho da resposta: 499 bytes
@@ -315,14 +315,14 @@ Tentativas realizadas:
   - http://case2.lat/player_api.php?&username=648866758&password=722737417 => HTTP 200
 Observação: created_at=1791715750 | exp_date=1812941999 | active_cons=0 | max_connections=3
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"648866758","password":"722737417","message":".","auth":1,"status":"Active","exp_date":"1812941999","is_trial":"0","active_cons":"0","created_at":"1791715750","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"lineout.site","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1792963996,"time_now":"2026-10-25 18:33:16","timezone":"America\/Sao_Paulo"}}
+{"user_info":{"username":"648866758","password":"722737417","message":".","auth":1,"status":"Active","exp_date":"1812941999","is_trial":"0","active_cons":"0","created_at":"1791715750","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"lineout.site","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1792973189,"time_now":"2026-10-25 21:06:29","timezone":"America\/Sao_Paulo"}}
 
 ----------------------------------------------------------------------------------------------------
 [18/27] FONTE: Fonte U46
 URL: http://case2.lat/player_api.php?&username=399392844&password=784365638
 Usou Proxy: SIM
-Início da checagem: 2026-10-26 00:06:28
-Tempo de resposta: 1.54s
+Início da checagem: 2026-10-26 04:29:56
+Tempo de resposta: 1.5s
 HTTP Status Code: 200
 Content-Type: application/json
 Tamanho da resposta: 499 bytes
@@ -333,14 +333,14 @@ Tentativas realizadas:
   - http://case2.lat/player_api.php?&username=399392844&password=784365638 => HTTP 200
 Observação: created_at=1791715723 | exp_date=1812596399 | active_cons=0 | max_connections=3
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"399392844","password":"784365638","message":".","auth":1,"status":"Active","exp_date":"1812596399","is_trial":"0","active_cons":"0","created_at":"1791715723","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"lineout.site","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1792963997,"time_now":"2026-10-25 18:33:17","timezone":"America\/Sao_Paulo"}}
+{"user_info":{"username":"399392844","password":"784365638","message":".","auth":1,"status":"Active","exp_date":"1812596399","is_trial":"0","active_cons":"0","created_at":"1791715723","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"lineout.site","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1792973189,"time_now":"2026-10-25 21:06:29","timezone":"America\/Sao_Paulo"}}
 
 ----------------------------------------------------------------------------------------------------
 [19/27] FONTE: Fonte U47
 URL: http://case2.lat/player_api.php?&username=858257510&password=975651644
 Usou Proxy: SIM
-Início da checagem: 2026-10-26 00:06:28
-Tempo de resposta: 2.53s
+Início da checagem: 2026-10-26 04:29:57
+Tempo de resposta: 1.47s
 HTTP Status Code: 200
 Content-Type: application/json
 Tamanho da resposta: 499 bytes
@@ -351,14 +351,14 @@ Tentativas realizadas:
   - http://case2.lat/player_api.php?&username=858257510&password=975651644 => HTTP 200
 Observação: created_at=1791715682 | exp_date=1812077999 | active_cons=0 | max_connections=3
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"858257510","password":"975651644","message":".","auth":1,"status":"Active","exp_date":"1812077999","is_trial":"0","active_cons":"0","created_at":"1791715682","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"lineout.site","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1792963997,"time_now":"2026-10-25 18:33:17","timezone":"America\/Sao_Paulo"}}
+{"user_info":{"username":"858257510","password":"975651644","message":".","auth":1,"status":"Active","exp_date":"1812077999","is_trial":"0","active_cons":"0","created_at":"1791715682","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"lineout.site","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1792973190,"time_now":"2026-10-25 21:06:30","timezone":"America\/Sao_Paulo"}}
 
 ----------------------------------------------------------------------------------------------------
 [20/27] FONTE: Fonte U48
 URL: http://case2.lat/player_api.php?&username=223141736&password=496767276
 Usou Proxy: SIM
-Início da checagem: 2026-10-26 00:06:28
-Tempo de resposta: 1.56s
+Início da checagem: 2026-10-26 04:29:57
+Tempo de resposta: 1.47s
 HTTP Status Code: 200
 Content-Type: application/json
 Tamanho da resposta: 499 bytes
@@ -367,16 +367,16 @@ Chaves no JSON raiz: ['user_info', 'server_info']
 Chaves em user_info: ['username', 'password', 'message', 'auth', 'status', 'exp_date', 'is_trial', 'active_cons', 'created_at', 'max_connections', 'allowed_output_formats']
 Tentativas realizadas:
   - http://case2.lat/player_api.php?&username=223141736&password=496767276 => HTTP 200
-Observação: created_at=1791715593 | exp_date=1810522799 | active_cons=1 | max_connections=3
+Observação: created_at=1791715593 | exp_date=1810522799 | active_cons=0 | max_connections=3
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"223141736","password":"496767276","message":".","auth":1,"status":"Active","exp_date":"1810522799","is_trial":"0","active_cons":"1","created_at":"1791715593","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"lineout.site","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1792963997,"time_now":"2026-10-25 18:33:17","timezone":"America\/Sao_Paulo"}}
+{"user_info":{"username":"223141736","password":"496767276","message":".","auth":1,"status":"Active","exp_date":"1810522799","is_trial":"0","active_cons":"0","created_at":"1791715593","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"lineout.site","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1792973190,"time_now":"2026-10-25 21:06:30","timezone":"America\/Sao_Paulo"}}
 
 ----------------------------------------------------------------------------------------------------
 [21/27] FONTE: Fonte U49
 URL: http://case2.lat/player_api.php?&username=777951153&password=939114817
 Usou Proxy: SIM
-Início da checagem: 2026-10-26 00:06:29
-Tempo de resposta: 2.52s
+Início da checagem: 2026-10-26 04:29:57
+Tempo de resposta: 1.46s
 HTTP Status Code: 200
 Content-Type: application/json
 Tamanho da resposta: 499 bytes
@@ -387,14 +387,14 @@ Tentativas realizadas:
   - http://case2.lat/player_api.php?&username=777951153&password=939114817 => HTTP 200
 Observação: created_at=1791715556 | exp_date=1810090799 | active_cons=0 | max_connections=3
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"777951153","password":"939114817","message":".","auth":1,"status":"Active","exp_date":"1810090799","is_trial":"0","active_cons":"0","created_at":"1791715556","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"lineout.site","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1792963997,"time_now":"2026-10-25 18:33:17","timezone":"America\/Sao_Paulo"}}
+{"user_info":{"username":"777951153","password":"939114817","message":".","auth":1,"status":"Active","exp_date":"1810090799","is_trial":"0","active_cons":"0","created_at":"1791715556","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"lineout.site","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1792973191,"time_now":"2026-10-25 21:06:31","timezone":"America\/Sao_Paulo"}}
 
 ----------------------------------------------------------------------------------------------------
 [22/27] FONTE: Fonte U50
 URL: http://case2.lat/player_api.php?&username=971812357&password=246137274
 Usou Proxy: SIM
-Início da checagem: 2026-10-26 00:06:29
-Tempo de resposta: 0.41s
+Início da checagem: 2026-10-26 04:29:57
+Tempo de resposta: 1.47s
 HTTP Status Code: 200
 Content-Type: application/json
 Tamanho da resposta: 499 bytes
@@ -405,14 +405,14 @@ Tentativas realizadas:
   - http://case2.lat/player_api.php?&username=971812357&password=246137274 => HTTP 200
 Observação: created_at=1791715477 | exp_date=1809226799 | active_cons=0 | max_connections=3
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"971812357","password":"246137274","message":".","auth":1,"status":"Active","exp_date":"1809226799","is_trial":"0","active_cons":"0","created_at":"1791715477","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"lineout.site","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1792963996,"time_now":"2026-10-25 18:33:16","timezone":"America\/Sao_Paulo"}}
+{"user_info":{"username":"971812357","password":"246137274","message":".","auth":1,"status":"Active","exp_date":"1809226799","is_trial":"0","active_cons":"0","created_at":"1791715477","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"lineout.site","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1792973189,"time_now":"2026-10-25 21:06:29","timezone":"America\/Sao_Paulo"}}
 
 ----------------------------------------------------------------------------------------------------
 [23/27] FONTE: Fonte U51
 URL: http://case2.lat/player_api.php?&username=988493659&password=241861732
 Usou Proxy: SIM
-Início da checagem: 2026-10-26 00:06:29
-Tempo de resposta: 0.41s
+Início da checagem: 2026-10-26 04:29:57
+Tempo de resposta: 0.4s
 HTTP Status Code: 200
 Content-Type: application/json
 Tamanho da resposta: 499 bytes
@@ -423,14 +423,14 @@ Tentativas realizadas:
   - http://case2.lat/player_api.php?&username=988493659&password=241861732 => HTTP 200
 Observação: created_at=1791715429 | exp_date=1808881199 | active_cons=0 | max_connections=3
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"988493659","password":"241861732","message":".","auth":1,"status":"Active","exp_date":"1808881199","is_trial":"0","active_cons":"0","created_at":"1791715429","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"lineout.site","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1792963996,"time_now":"2026-10-25 18:33:16","timezone":"America\/Sao_Paulo"}}
+{"user_info":{"username":"988493659","password":"241861732","message":".","auth":1,"status":"Active","exp_date":"1808881199","is_trial":"0","active_cons":"0","created_at":"1791715429","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"lineout.site","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1792973189,"time_now":"2026-10-25 21:06:29","timezone":"America\/Sao_Paulo"}}
 
 ----------------------------------------------------------------------------------------------------
 [24/27] FONTE: Fonte U52
 URL: http://case2.lat/player_api.php?&username=943285414&password=493936454
 Usou Proxy: SIM
-Início da checagem: 2026-10-26 00:06:29
-Tempo de resposta: 2.51s
+Início da checagem: 2026-10-26 04:29:57
+Tempo de resposta: 1.45s
 HTTP Status Code: 200
 Content-Type: application/json
 Tamanho da resposta: 499 bytes
@@ -439,15 +439,15 @@ Chaves no JSON raiz: ['user_info', 'server_info']
 Chaves em user_info: ['username', 'password', 'message', 'auth', 'status', 'exp_date', 'is_trial', 'active_cons', 'created_at', 'max_connections', 'allowed_output_formats']
 Tentativas realizadas:
   - http://case2.lat/player_api.php?&username=943285414&password=493936454 => HTTP 200
-Observação: created_at=1791715394 | exp_date=1808189999 | active_cons=1 | max_connections=3
+Observação: created_at=1791715394 | exp_date=1808189999 | active_cons=0 | max_connections=3
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"943285414","password":"493936454","message":".","auth":1,"status":"Active","exp_date":"1808189999","is_trial":"0","active_cons":"1","created_at":"1791715394","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"lineout.site","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1792963997,"time_now":"2026-10-25 18:33:17","timezone":"America\/Sao_Paulo"}}
+{"user_info":{"username":"943285414","password":"493936454","message":".","auth":1,"status":"Active","exp_date":"1808189999","is_trial":"0","active_cons":"0","created_at":"1791715394","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"lineout.site","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1792973191,"time_now":"2026-10-25 21:06:31","timezone":"America\/Sao_Paulo"}}
 
 ----------------------------------------------------------------------------------------------------
 [25/27] FONTE: Fonte U53
 URL: http://case2.lat/player_api.php?&username=872689987&password=824513989
 Usou Proxy: SIM
-Início da checagem: 2026-10-26 00:06:29
+Início da checagem: 2026-10-26 04:29:58
 Tempo de resposta: 0.41s
 HTTP Status Code: 200
 Content-Type: application/json
@@ -459,14 +459,14 @@ Tentativas realizadas:
   - http://case2.lat/player_api.php?&username=872689987&password=824513989 => HTTP 200
 Observação: created_at=1791715327 | exp_date=1807325999 | active_cons=0 | max_connections=3
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"872689987","password":"824513989","message":".","auth":1,"status":"Active","exp_date":"1807325999","is_trial":"0","active_cons":"0","created_at":"1791715327","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"lineout.site","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1792963998,"time_now":"2026-10-25 18:33:18","timezone":"America\/Sao_Paulo"}}
+{"user_info":{"username":"872689987","password":"824513989","message":".","auth":1,"status":"Active","exp_date":"1807325999","is_trial":"0","active_cons":"0","created_at":"1791715327","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"lineout.site","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1792973190,"time_now":"2026-10-25 21:06:30","timezone":"America\/Sao_Paulo"}}
 
 ----------------------------------------------------------------------------------------------------
 [26/27] FONTE: Fonte U54
 URL: http://case2.lat/player_api.php?&username=338365128&password=769491152
 Usou Proxy: SIM
-Início da checagem: 2026-10-26 00:06:29
-Tempo de resposta: 1.49s
+Início da checagem: 2026-10-26 04:29:58
+Tempo de resposta: 0.6s
 HTTP Status Code: 200
 Content-Type: application/json
 Tamanho da resposta: 499 bytes
@@ -477,14 +477,14 @@ Tentativas realizadas:
   - http://case2.lat/player_api.php?&username=338365128&password=769491152 => HTTP 200
 Observação: created_at=1791715320 | exp_date=1807325999 | active_cons=0 | max_connections=3
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"338365128","password":"769491152","message":".","auth":1,"status":"Active","exp_date":"1807325999","is_trial":"0","active_cons":"0","created_at":"1791715320","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"lineout.site","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1792963997,"time_now":"2026-10-25 18:33:17","timezone":"America\/Sao_Paulo"}}
+{"user_info":{"username":"338365128","password":"769491152","message":".","auth":1,"status":"Active","exp_date":"1807325999","is_trial":"0","active_cons":"0","created_at":"1791715320","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"lineout.site","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1792973191,"time_now":"2026-10-25 21:06:31","timezone":"America\/Sao_Paulo"}}
 
 ----------------------------------------------------------------------------------------------------
 [27/27] FONTE: Fonte U55
 URL: http://case2.lat/player_api.php?&username=754551879&password=531553919
 Usou Proxy: SIM
-Início da checagem: 2026-10-26 00:06:29
-Tempo de resposta: 0.62s
+Início da checagem: 2026-10-26 04:29:58
+Tempo de resposta: 0.4s
 HTTP Status Code: 200
 Content-Type: application/json
 Tamanho da resposta: 499 bytes
@@ -495,7 +495,7 @@ Tentativas realizadas:
   - http://case2.lat/player_api.php?&username=754551879&password=531553919 => HTTP 200
 Observação: created_at=1791715306 | exp_date=1807153199 | active_cons=2 | max_connections=3
 Resposta bruta (preview, até 800 caracteres):
-{"user_info":{"username":"754551879","password":"531553919","message":".","auth":1,"status":"Active","exp_date":"1807153199","is_trial":"0","active_cons":"2","created_at":"1791715306","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"lineout.site","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1792963997,"time_now":"2026-10-25 18:33:17","timezone":"America\/Sao_Paulo"}}
+{"user_info":{"username":"754551879","password":"531553919","message":".","auth":1,"status":"Active","exp_date":"1807153199","is_trial":"0","active_cons":"2","created_at":"1791715306","max_connections":"3","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"xui":true,"version":"1.5.5","revision":2,"url":"lineout.site","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"8880","timestamp_now":1792973190,"time_now":"2026-10-25 21:06:30","timezone":"America\/Sao_Paulo"}}
 
 ====================================================================================================
 FIM DO RELATÓRIO
