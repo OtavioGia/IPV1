@@ -21,16 +21,6 @@ from PIL import Image, ImageDraw, ImageFont
 # SEUS LINKS (HARDCODED)
 # ==========================================
 MEUS_LINKS_TEXTO = """
-F29M3|http://p.bitnow.top/player_api.php?&username=vanessanook&password=vinr390x8y,
-F32M2|http://p.bitnow.top/player_api.php?&username=7RRjPTu5d6&password=factoryiptv,
-F104M3|http://claxys.info/player_api.php?&username=907671&password=JhWnqH,
-F105M3|http://claxys.info/player_api.php?&username=807968&password=R8BcnN,
-F106M1|http://claxys.info/player_api.php?&username=v4Tmn&password=787AAPsqn,
-F107M1|http://claxys.info/player_api.php?&username=a46816371&password=112233Aa,
-F108M1|http://claxys.info/player_api.php?&username=Thi3137&password=9251Thi,
-F109M1|http://claxys.info/player_api.php?&username=f5A2R&password=Y6rHJ,
-F110M1|http://claxys.info/player_api.php?&username=PclbSandra&password=Usr171807,
-F111M1|http://claxys.info/player_api.php?&username=nathan1250&password=Na527496,
 Fonte U38|http://case2.lat/player_api.php?&username=593812776&password=876362759,
 Fonte U39|http://case2.lat/player_api.php?&username=374897485&password=789272274,
 Fonte U40|http://case2.lat/player_api.php?&username=961386894&password=118897421,
