@@ -1,5 +1,6 @@
+#EXTM3U url-tvg="https://vinnyoliveira.github.io/epg-br/epg-rich.xml" x-tvg-url="https://vinnyoliveira.github.io/epg-br/epg-rich.xml"
+
 # --- Cameras Torres ---
-#EXTM3U x-tvg-url="http://7voahoje.top:80/xmltv.php?username=7csplay&password=seven2022,http://play.1list.vip/xmltv.php?username=5550388689&password=simpleiptv,http://play.1list.vip/xmltv.php?username=Marcosfp05&password=nlybdft6fml,http://7voahoje.top:8080/xmltv.php?username=7ruanpedro&password=ruan089c52bo,http://7voahoje.top:8080/xmltv.php?username=delcio&password=99118656,http://7voahoje.top:8080/xmltv.php?username=SamiraColodo&password=9hYJKLw7,http://yesme.shop/xmltv.php?username=Gledson&password=Gledson,http://megaxc.ca/xmltv.php?username=ialwg1&password=iao8wo"
 
 # --- #TROCAR:-1 tvg-id="Balonismo Parque Baloes Frente.trs" tvg-name="Balonismo Parque Baloes Frente" tvg-logo="https://torres.rs.gov.br/festival-de-balonismo/assets/media/images/2025/10/logo-balonismo-2026.png" group-title="Cameras Ao Vivo Torres RS",Balonismo Parque Baloes Frente ---
 # --- https://video02.logicahost.com.br/container/container/chunklist_w1316765616.m3u8 ---
