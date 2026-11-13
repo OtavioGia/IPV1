@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://vinnyoliveira.github.io/epg-br/epg-rich.xml" x-tvg-url="https://vinnyoliveira.github.io/epg-br/epg-rich.xml"
+#EXTM3U x-tvg-url="https://vinnyoliveira.github.io/epg-br/epg-rich.xml"
 
 # --- Cameras Torres ---
 
